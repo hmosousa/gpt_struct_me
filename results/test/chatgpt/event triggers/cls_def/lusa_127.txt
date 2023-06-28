@@ -1,0 +1,16 @@
+[
+["detém", "Occurrence"],
+["deteve", "Occurrence"],
+["apreendido", "State"],
+["indicou", "Reporting"],
+["detenção", "State"],
+["efetuada", "Occurrence"],
+["verificarem", "Perception"],
+["detiveram", "Occurrence"],
+["preparavam", "Intensional Action"],
+["efetuar", "Intensional Action"],
+["apreendidas", "State"],
+["vão ser presentes", "Intensional State"],
+["interrogatório", "State"],
+["aplicação", "State"]
+]

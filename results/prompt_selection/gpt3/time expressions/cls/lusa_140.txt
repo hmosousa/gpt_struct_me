@@ -1,0 +1,1 @@
+[["27 de novembro", "Date"], ["dia 27 de novembro", "Date"], ["auto de contraordenação", "Set"], ["144 mil euros", "Duration"]]

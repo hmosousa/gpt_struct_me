@@ -1,0 +1,11 @@
+[
+  ["PJ", "Organization"],
+  ["homem", "Person"],
+  ["Gandarela", "Location"],
+  ["Celorico de Basto", "Location"],
+  ["Braga", "Location"],
+  ["INEM", "Organization"],
+  ["Lusa", "Organization"],
+  ["Cruz Vermelha", "Organization"],
+  ["morgue de Guimarães", "Facility"]
+]

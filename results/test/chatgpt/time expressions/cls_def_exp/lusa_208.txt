@@ -1,0 +1,1 @@
+[["terça-feira à noite", "Date"], ["Avenida Infante D. Henrique", "Time"], ["Largo Maria Judite de Carvalho", "Time"], ["Hospital de Santa Maria", "Time"], ["21:49", "Time"]]

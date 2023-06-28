@@ -1,0 +1,11 @@
+[
+  ["sábado à noite", "Time"],
+  ["cerca das 21:40 de sábado", "Time"],
+  ["no sentido Norte/Sul", "Set"],
+  ["Anteriormente", "Time"],
+  ["posteriormente", "Time"],
+  ["pelos 23:30 de sábado", "Time"],
+  ["no local do acidente", "Set"],
+  ["22 operacionais", "Duration"],
+  ["10 viaturas", "Duration"]
+]

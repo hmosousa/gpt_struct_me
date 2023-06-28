@@ -1,0 +1,15 @@
+[
+  ["Homem", "Person"],
+  ["Rio Tejo", "Location"],
+  ["Cais das Colunas", "Location"],
+  ["Lisboa", "Location"],
+  ["Hospital de São José", "Facility"],
+  ["Polícia Marítima", "Organization"],
+  ["Lusa", "Organization"],
+  ["reanimação cardiorrespiratória", "Object"],
+  ["transeunte", "Person"],
+  ["água", "Nature"],
+  ["Instituto Nacional de Emergência Médica (INEM)", "Organization"],
+  ["ambulância", "Object"],
+  ["68 anos", "Other"]
+]

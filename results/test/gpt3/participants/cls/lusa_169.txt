@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["mãe", "Person"], ["Valongo", "Location"], ["GNR do Porto", "Organization"], ["violência doméstica", "Other"], ["maus tratos", "Other"], ["alimentação", "Object"], ["drogas", "Object"], ["bens da residência", "Object"]]

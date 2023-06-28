@@ -1,0 +1,1 @@
+[["Autoridades policiais angolanas", "Organization"], ["República Democrática do Congo (RDCongo)", "Location"], ["Dundo", "Location"], ["Lunda Norte", "Location"], ["Serviço de investigação Criminal (SIC)", "Organization"], ["Veríssimo Pandamari", "Person"], ["Angop", "Organization"], ["Kudissanga", "Other"], ["Luanda", "Location"]]

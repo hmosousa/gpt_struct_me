@@ -1,0 +1,14 @@
+[
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["Borba", "Location"],
+  ["Évora", "Location"],
+  ["Lusa", "Organization"],
+  ["Destacamento Territorial de Estremoz", "Organization"],
+  ["Tribunal de Vila Viçosa", "Facility"],
+  ["heroína", "Object"],
+  ["balança digital", "Object"],
+  ["tesoura", "Object"],
+  ["sacos de plástico", "Object"],
+  ["dinheiro", "Object"]
+]

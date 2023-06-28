@@ -1,0 +1,15 @@
+[
+  ["Avião", "Object"],
+  ["aeroporto de Lisboa", "Location"],
+  ["Lisboa", "Location"],
+  ["Lusa", "Organization"],
+  ["Polícia de Segurança Pública", "Organization"],
+  ["aeronave", "Object"],
+  ["motor", "Object"],
+  ["17:50", "Other"],
+  ["18:32", "Other"],
+  ["Jota Aviation", "Organization"],
+  ["Farnborough", "Location"],
+  ["Inglaterra", "Location"],
+  ["‘site’ da ANA-Aeroportos de Portugal", "Organization"]
+]

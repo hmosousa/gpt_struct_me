@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["no país", "Time"], ["na segunda maior cidade da Austrália", "Time"], ["este mês", "Date"], ["desde o início de julho", "Time"], ["52 dias", "Duration"]]

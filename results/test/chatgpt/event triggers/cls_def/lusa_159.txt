@@ -1,0 +1,8 @@
+[
+["morre", "Occurrence"],
+["colisão", "Occurrence"],
+["registada", "Aspectual"],
+["condutor", "State"],
+["ferido", "State"],
+["transportado", "Reporting"]
+]

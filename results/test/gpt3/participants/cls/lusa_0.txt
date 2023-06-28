@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["Corotelo", "Location"], ["São Brás de Alportel", "Location"], ["50 pessoas", "Person"], ["Posto Territorial de São de Alportel", "Facility"], ["pessoas", "Person"], ["proprietário", "Person"]]

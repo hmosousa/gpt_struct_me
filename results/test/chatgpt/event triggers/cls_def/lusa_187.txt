@@ -1,0 +1,23 @@
+[
+  ["Homem", "Occurrence"],
+  ["cair", "Occurrence"],
+  ["poço", "State"],
+  ["profundidade", "State"],
+  ["Romariz", "State"],
+  ["Santa Maria da Feira", "State"],
+  ["resgatado", "Occurrence"],
+  ["ferimentos", "State"],
+  ["Bombeiros de Arrifana", "Reporting"],
+  ["tampa", "State"],
+  ["propriedade", "State"],
+  ["vizinho", "State"],
+  ["partido", "Occurrence"],
+  ["água", "State"],
+  ["equipa", "State"],
+  ["cordas", "State"],
+  ["estabilizado", "Intensional State"],
+  ["hipotermia", "State"],
+  ["transporte", "Intensional Action"],
+  ["hospital de Santa Maria da Feira", "State"],
+  ["GNR", "Reporting"]
+]

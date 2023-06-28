@@ -1,0 +1,1 @@
+["52 dias", "este mês", "início de julho"]

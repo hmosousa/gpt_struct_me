@@ -1,0 +1,1 @@
+["mortos", "estado crítico", "incêndio", "vítimas mortais", "hospitalizados", "estado grave", "investigar", "restaurante sem licença", "segurança contra incêndios", "salvar-se"]

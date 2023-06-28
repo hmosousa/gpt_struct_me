@@ -1,0 +1,8 @@
+[
+  ["substituir", "Occurrence"],
+  ["anunciar", "Reporting"],
+  ["exoneração", "Occurrence"],
+  ["nomeação", "Occurrence"],
+  ["posse", "Occurrence"],
+  ["eleger", "Occurrence"]
+]

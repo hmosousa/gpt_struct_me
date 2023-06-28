@@ -1,0 +1,1 @@
+["morreu", "sofreu", "ferimentos ligeiros", "acidente", "derrubou", "poste de eletricidade", "atingindo", "circulava", "transportada", "morreu", "atingiu", "funcionário", "bombas de gasolina", "sofreu", "ferimentos ligeiros", "ocorreu"]

@@ -1,0 +1,1 @@
+[["Homem de Amarante", "Person"], ["vítima", "Person"], ["GNR", "Organization"], ["arguido", "Person"], ["Tribunal de Instrução Criminal", "Facility"], ["vítima", "Person"], ["filha", "Person"], ["residência", "Location"], ["familiares", "Person"], ["Tribunal de Instrução Criminal", "Facility"], ["vítima", "Person"], ["controlado", "Object"], ["pulseira eletrónica", "Object"]]

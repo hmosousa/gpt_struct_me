@@ -1,0 +1,1 @@
+[["quinta-feira", "Date"], ["esta ação", "Time"], ["CITES", "Set"], ["60 mil euros", "Duration"]]

@@ -1,0 +1,1 @@
+[["Homem", "State"], ["ter sido eletrocutado", "Occurrence"], ["alerta", "Reporting"], ["vítima", "State"], ["eletrocussão", "Occurrence"], ["habitação", "Aspectual"], ["operacionais", "Intensional Action"], ["viaturas", "Intensional Action"]]

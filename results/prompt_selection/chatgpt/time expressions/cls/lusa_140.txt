@@ -1,0 +1,4 @@
+[
+  ["27 de novembro", "Date"],
+  ["144 mil euros", "Duration"]
+]

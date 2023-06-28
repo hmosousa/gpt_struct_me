@@ -1,0 +1,11 @@
+[
+  ["matam", "Occurrence"],
+  ["informaram", "Reporting"],
+  ["encontrados", "State"],
+  ["apresentavam", "State"],
+  ["estavam", "State"],
+  ["desmembrados", "State"],
+  ["considerar", "Intensional Action"],
+  ["estar relacionado", "Intensional State"],
+  ["sendo responsável", "Aspectual"]
+]

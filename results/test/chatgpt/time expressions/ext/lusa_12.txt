@@ -1,0 +1,1 @@
+["hoje", "tarde", "segunda-feira", "até agora", "ao final da tarde"]

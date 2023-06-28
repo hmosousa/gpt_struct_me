@@ -1,0 +1,1 @@
+[["no domingo", "Date"], ["hoje", "Date"], ["duas embarcações", "Set"], ["Sistema Integrado de Vigilância e Comando e Controlo", "Time"], ["meios marítimos", "Time"], ["embarcação de fibra", "Time"], ["cerca de cinco metros de comprimento", "Duration"], ["22 fardos", "Duration"], ["superior a dois milhões de euros", "Duration"]]

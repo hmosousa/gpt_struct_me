@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["rio Tua", "Location"], ["Valverde da Gestosa", "Location"], ["Mirandela", "Location"], ["GNR", "Organization"], ["Lusa", "Organization"], ["Polícia Judiciária", "Organization"]]

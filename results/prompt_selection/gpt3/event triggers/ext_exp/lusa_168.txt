@@ -1,0 +1,1 @@
+["ferido", "gravidade", "andaime", "Ponte de Lima", "estado grave", "trabalhava", "obra", "explicou", "transportado", "ambulância", "Suporte Imediato de Vida", "hospital", "Braga", "acidente", "construção civil", "freguesia", "Ribeira", "alerta", "operacionais", "viatura", "bombeiros", "Viatura de Emergência Médica", "GNR"]

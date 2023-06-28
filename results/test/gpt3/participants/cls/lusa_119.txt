@@ -1,0 +1,1 @@
+[["Covid-19", "Other"], ["Costa", "Person"], ["Macron", "Person"], ["Paris", "Location"], ["primeiro-ministro português", "Person"], ["Emmanuel Macron", "Person"], ["Palácio do Eliseu", "Facility"], ["António Costa", "Person"], ["Lusa", "Organization"], ["São Tomé e Príncipe", "Location"], ["Guiné Bissau", "Location"], ["Covid-19", "Other"]]

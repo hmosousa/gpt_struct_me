@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["setembro de 2019", "Time"], ["quarta-feira", "Date"]]

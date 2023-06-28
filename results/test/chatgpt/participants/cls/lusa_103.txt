@@ -1,0 +1,13 @@
+[
+  ["Homem", "Person"],
+  ["PSP", "Organization"],
+  ["Espinho", "Location"],
+  ["Aveiro", "Location"],
+  ["prédio habitacional", "Facility"],
+  ["comunicado", "Object"],
+  ["incêndio", "Nature"],
+  ["16 pessoas", "Person"],
+  ["fumo", "Nature"],
+  ["Bombeiros Voluntários de Espinho", "Organization"],
+  ["Polícia Judiciária", "Organization"]
+]

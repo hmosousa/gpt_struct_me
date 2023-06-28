@@ -1,0 +1,1 @@
+[["homem", "Person"], ["Penafiel", "Location"], ["GNR", "Organization"], ["vítima", "Person"], ["botão de pânico", "Object"], ["teleassistência", "Facility"], ["homem", "Person"], ["antecedentes criminais", "Other"], ["vítima", "Person"]]

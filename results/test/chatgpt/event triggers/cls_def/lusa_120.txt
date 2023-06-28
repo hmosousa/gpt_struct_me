@@ -1,0 +1,16 @@
+[
+  ["pediu", "Reporting"],
+  ["erros", "State"],
+  ["programa de quarentena", "Occurrence"],
+  ["mortes", "State"],
+  ["covid-19", "Occurrence"],
+  ["implementado", "Occurrence"],
+  ["livro de regras pandémico", "Intensional State"],
+  ["pedir desculpa", "Intensional Action"],
+  ["controlo", "State"],
+  ["onda de infeções", "Occurrence"],
+  ["registada", "State"],
+  ["transmissão comunitária", "State"],
+  ["aceitar chegadas internacionais", "Intensional Action"],
+  ["início de julho", "Occurrence"]
+]

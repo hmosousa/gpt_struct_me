@@ -1,0 +1,7 @@
+[
+  ["hoje", "Date"],
+  ["10:54", "Time"],
+  ["dentro de um café", "Set"],
+  ["pelas 10:54", "Time"],
+  ["Cerca das 14:34", "Time"]
+]

@@ -1,0 +1,1 @@
+["hoje", "16 de maio de 2020", "04:20", "06:00", "cinco anos"]

@@ -1,0 +1,15 @@
+[
+  ["investiga", "Intensional Action"],
+  ["morte", "Occurrence"],
+  ["encontrado", "State"],
+  ["lesão", "State"],
+  ["confirmou", "Reporting"],
+  ["alerta", "Reporting"],
+  ["encontrada", "State"],
+  ["trauma", "State"],
+  ["chegar", "Intensional Action"],
+  ["paragem cardiorrespiratória", "State"],
+  ["encontrado", "State"],
+  ["óbito", "Occurrence"],
+  ["levado", "Intensional Action"]
+]

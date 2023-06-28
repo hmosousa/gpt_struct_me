@@ -1,0 +1,16 @@
+[
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["mãe", "Person"],
+  ["Gondomar", "Location"],
+  ["Porto", "Location"],
+  ["violência doméstica", "Other"],
+  ["militares", "Organization"],
+  ["suspeito", "Person"],
+  ["armas brancas", "Object"],
+  ["força policial", "Organization"],
+  ["busca domiciliária", "Other"],
+  ["antecedentes criminais", "Other"],
+  ["Tribunal Judicial do Porto", "Facility"],
+  ["sábado", "Other"]
+]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["52 anos", "Duration"], ["Rua da Constituição", "Set"], ["07:50", "Time"]]

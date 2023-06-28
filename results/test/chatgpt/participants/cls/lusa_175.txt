@@ -1,0 +1,12 @@
+[
+  ["Homem", "Person"],
+  ["Paredes", "Location"],
+  ["GNR", "Organization"],
+  ["Guarda", "Organization"],
+  ["Núcleo de Investigação Criminal", "Organization"],
+  ["Penafiel", "Location"],
+  ["réplica de arma de fogo", "Object"],
+  ["bastão extensível", "Object"],
+  ["militares", "Person"],
+  ["Tribunal Judicial de Paredes", "Facility"]
+]

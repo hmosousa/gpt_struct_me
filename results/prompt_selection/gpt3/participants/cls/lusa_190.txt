@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Barreiro", "Location"], ["atirador", "Person"], ["fuga", "Other"], ["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"], ["tiroteio", "Other"], ["Polícia Judiciária", "Organization"]]

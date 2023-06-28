@@ -1,0 +1,14 @@
+[
+["PJ", "Organization"],
+["homem de Penafiel", "Person"],
+["mulher", "Person"],
+["Diretoria do Norte", "Organization"],
+["GNR", "Organization"],
+["local do crime", "Location"],
+["freguesia de Duas Igrejas", "Location"],
+["concelho de Penafiel", "Location"],
+["distrito do Porto", "Location"],
+["meios de socorro", "Facility"],
+["trabalhador da construção civil", "Person"],
+["autoridade judiciária", "Organization"]
+]

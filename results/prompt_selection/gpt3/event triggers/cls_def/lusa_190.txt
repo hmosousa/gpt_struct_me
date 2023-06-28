@@ -1,0 +1,1 @@
+[["Homem morto a tiro no Barreiro", "Occurrence"], ["atirador em fuga", "State"], ["tiroteio", "Occurrence"], ["Polícia Judiciária", "Reporting"], ["homicídio envolvendo armas de fogo", "Perception"], ["investigação do caso", "Aspectual"]]

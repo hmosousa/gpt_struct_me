@@ -1,0 +1,1 @@
+[["hoje de madrugada", "Date"], ["rio Guadiana", "Time"], ["Algarve", "Time"], ["quase quatro toneladas", "Duration"], ["115 fardos", "Duration"], ["Foz de Odeleite", "Time"], ["Sistema Integrado de Vigilância, Comando e Controlo (SIVICC)", "Time"]]

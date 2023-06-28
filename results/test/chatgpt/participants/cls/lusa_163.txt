@@ -1,0 +1,11 @@
+[
+  ["Homem de 84 anos", "Person"],
+  ["Santa Marta de Penaguião", "Location"],
+  ["Vila Maior", "Location"],
+  ["GNR", "Organization"],
+  ["comandante dos bombeiros de Santa Marta de Penaguião", "Person"],
+  ["Vasco Correia", "Person"],
+  ["equipa da Viatura Médica de Emergência e Reanimação", "Organization"],
+  ["VMER", "Object"],
+  ["INEM", "Organization"]
+]

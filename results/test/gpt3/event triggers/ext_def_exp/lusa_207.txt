@@ -1,0 +1,1 @@
+["detidos", "disparos", "Lisboa", "veículos", "disparado", "armas", "fogo", "zona", "Rego", "feridos", "danos", "viaturas", "estacionadas", "fonte", "policial", "incidente", "fuga", "intercetados", "autoridades", "registar", "invólucros", "balas", "suspeitos", "posse", "carregador", "munições", "detido", "entregue", "Polícia Judiciária"]

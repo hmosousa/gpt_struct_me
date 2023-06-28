@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["pelas 17:50", "Time"], ["pelas 18:32", "Time"], ["de emergência", "Set"]]

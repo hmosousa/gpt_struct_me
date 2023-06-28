@@ -1,0 +1,1 @@
+[["quinta-feira", "Date"], ["seis quilos", "Set"], ["2,25 quilos", "Set"], ["26 pés", "Set"]]

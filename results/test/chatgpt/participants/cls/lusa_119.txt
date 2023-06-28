@@ -1,0 +1,15 @@
+[
+  ["Covid-19", "Other"],
+  ["Costa", "Person"],
+  ["Macron", "Person"],
+  ["Paris", "Location"],
+  ["primeiro-ministro", "Person"],
+  ["Presidente", "Person"],
+  ["francês", "Other"],
+  ["coronavírus", "Nature"],
+  ["Palácio do Eliseu", "Facility"],
+  ["autoridades de saúde", "Organization"],
+  ["agência Lusa", "Organization"],
+  ["São Tomé e Príncipe", "Location"],
+  ["Guiné Bissau", "Location"]
+]

@@ -1,0 +1,21 @@
+[
+  ["Belmonte", "Location"],
+  ["GNR", "Organization"],
+  ["Castelo Branco", "Location"],
+  ["Lusa", "Organization"],
+  ["Comando Territorial da GNR de Castelo Branco", "Organization"],
+  ["Caria", "Location"],
+  ["suspeito", "Person"],
+  ["ex-companheira", "Person"],
+  ["militares", "Person"],
+  ["vítima", "Person"],
+  ["consumo abusivo de álcool", "Nature"],
+  ["ármas de fogo", "Object"],
+  ["carabinas de ar comprimido", "Object"],
+  ["caçadeira", "Object"],
+  ["reprodução de arma de fogo", "Object"],
+  ["pistola de ar comprimido", "Object"],
+  ["faca de ponta e mola", "Object"],
+  ["munições de diferentes calibres", "Object"],
+  ["Tribunal Judicial da Covilhã", "Facility"]
+]

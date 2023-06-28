@@ -1,0 +1,14 @@
+[
+  ["homem", "Person"],
+  ["Penafiel", "Location"],
+  ["Porto", "Location"],
+  ["ex-companheira", "Person"],
+  ["GNR", "Organization"],
+  ["residência", "Location"],
+  ["local de trabalho", "Location"],
+  ["botão de pânico", "Object"],
+  ["teleassistência", "Facility"],
+  ["antecedentes criminais", "Other"],
+  ["ilícitos", "Other"],
+  ["vítima", "Person"]
+]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["no nordeste da China", "Set"], ["pelo menos sete pessoas", "Set"], ["sete pessoas", "Set"], ["sete ficaram feridas", "Set"], ["na cidade de Kaiyuan", "Set"], ["na província de Liaoning", "Set"], ["no passado", "Set"], ["na região sul de Guangxi", "Set"], ["em junho deste ano", "Date"], ["em 2018", "Date"]]

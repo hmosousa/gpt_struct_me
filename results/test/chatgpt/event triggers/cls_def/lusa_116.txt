@@ -1,0 +1,21 @@
+[
+  ["encontrado", "Occurrence"],
+  ["morto", "State"],
+  ["amarrado", "State"],
+  ["encontrado", "Occurrence"],
+  ["morto", "State"],
+  ["amarrado", "State"],
+  ["informou", "Reporting"],
+  ["alertada", "Reporting"],
+  ["encontrado", "Occurrence"],
+  ["amarrado", "State"],
+  ["disse", "Reporting"],
+  ["alertada", "Reporting"],
+  ["analisou", "Occurrence"],
+  ["recolheu", "Occurrence"],
+  ["transportado", "Occurrence"],
+  ["autopsiado", "Occurrence"],
+  ["investigando", "Occurrence"],
+  ["contactou", "Reporting"],
+  ["obter", "Intensional Action"]
+]

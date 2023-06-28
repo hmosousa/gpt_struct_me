@@ -1,0 +1,1 @@
+[["quinta-feira", "Date"], ["2.765 euros", "Set"], ["60 mil euros", "Set"], ["uma ação", "Duration"]]

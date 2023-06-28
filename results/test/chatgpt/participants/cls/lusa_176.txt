@@ -1,0 +1,17 @@
+[
+  ["Cadáver", "Object"],
+  ["homem", "Person"],
+  ["rio Douro", "Location"],
+  ["Vila Nova de Gaia", "Location"],
+  ["Polícia Marítima", "Organization"],
+  ["Lusa", "Organization"],
+  ["comandante", "Person"],
+  ["capitania do Porto", "Facility"],
+  ["Rui Santos Amaral", "Person"],
+  ["autoridade marítima", "Organization"],
+  ["populares", "Person"],
+  ["cais flutuante de Santa Marinha", "Facility"],
+  ["Polícia Judiciária", "Organization"],
+  ["Sapadores de Vila Nova de Gaia", "Organization"],
+  ["Bombeiros de Coimbrões", "Organization"]
+]

@@ -1,0 +1,1 @@
+[["GNR de Leiria", "Organization"], ["descarga ilegal de efluentes suinícolas", "Object"], ["Bidoeira de Cima", "Location"], ["Núcleo de Proteção Ambiental de Leiria", "Organization"], ["efluentes pecuários", "Object"], ["lagoa de armazenagem de efluentes pecuários", "Facility"], ["auto de contraordenação", "Object"], ["coima", "Object"]]

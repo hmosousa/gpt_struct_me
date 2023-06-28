@@ -1,0 +1,7 @@
+[
+  ["25 de novembro", "Date"],
+  ["hoje", "Date"],
+  ["início de novembro", "Date"],
+  ["dois dias após a morte de Maradona", "Duration"],
+  ["durante as quais", "Duration"]
+]

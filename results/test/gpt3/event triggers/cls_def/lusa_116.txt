@@ -1,0 +1,1 @@
+[["encontrado morto", "State"], ["estado amarrado", "State"], ["alertada", "Occurrence"], ["familiar", "Reporting"], ["vítima", "Perception"], ["amarrado", "Aspectual"], ["suicídio", "Intensional Action"], ["analisou", "Intensional Action"], ["recolheu", "Intensional Action"], ["autopsiado", "Intensional Action"], ["investigar", "Intensional Action"]]

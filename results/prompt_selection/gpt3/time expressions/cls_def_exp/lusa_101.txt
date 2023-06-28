@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["separação", "Time"], ["botão de pânico", "Time"], ["antecedentes criminais", "Time"]]

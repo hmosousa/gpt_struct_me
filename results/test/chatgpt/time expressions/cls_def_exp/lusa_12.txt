@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["tarde", "Time"], ["segunda-feira", "Date"], ["16:05", "Time"]]

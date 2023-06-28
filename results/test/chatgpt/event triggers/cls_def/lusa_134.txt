@@ -1,0 +1,20 @@
+[
+["apreende", "Occurrence"],
+["captura", "State"],
+["coima", "State"],
+["fiscalização", "Occurrence"],
+["controlar", "Intensional Action"],
+["descarga", "State"],
+["transporte", "State"],
+["comercialização", "State"],
+["regime de primeira venda", "State"],
+["encontraram", "Occurrence"],
+["localizar", "Occurrence"],
+["identificados", "State"],
+["elaborado", "Occurrence"],
+["infração", "State"],
+["punível", "State"],
+["apreendido", "State"],
+["controlo higiossanitário", "State"],
+["doado", "Intensional Action"]
+]

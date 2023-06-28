@@ -1,0 +1,18 @@
+[
+  ["reivindica", "Reporting"],
+  ["ataque armado", "Occurrence"],
+  ["provocou", "Aspectual"],
+  ["feridos", "State"],
+  ["atribui", "Reporting"],
+  ["disparos", "Occurrence"],
+  ["evoca", "Intensional State"],
+  ["ataque com armas de fogo", "Occurrence"],
+  ["efetuado", "Reporting"],
+  ["abatido", "Occurrence"],
+  ["jovem", "State"],
+  ["dupla nacionalidade", "State"],
+  ["posto em liberdade condicional", "Intensional State"],
+  ["cumprir", "Occurrence"],
+  ["tentado viajar para a Síria", "Intensional Action"],
+  ["juntar-se às fileiras do EI", "Intensional Action"]
+]

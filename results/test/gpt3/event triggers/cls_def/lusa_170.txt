@@ -1,0 +1,1 @@
+[["encontrado morto", "State"], ["alerta para a GNR", "Reporting"], ["visto por populares", "Perception"], ["ferimentos na cara", "Occurrence"], ["intervenção da Polícia Judiciária", "Aspectual"], ["vivia sozinho", "Intensional State"], ["visto com vida", "Intensional Action"], ["óbito foi declarado", "State"]]

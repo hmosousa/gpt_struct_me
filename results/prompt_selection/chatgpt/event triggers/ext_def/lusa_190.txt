@@ -1,0 +1,1 @@
+["homem morto a tiro", "atirador em fuga", "homem foi morto a tiro", "baleado com dois tiros de caçadeira", "atirador está em fuga", "incidente ocorreu", "suspeita de homicídio envolvendo armas de fogo", "ocorrência está a ser acompanhada pela Polícia Judiciária", "responsável pelo investigação do caso"]

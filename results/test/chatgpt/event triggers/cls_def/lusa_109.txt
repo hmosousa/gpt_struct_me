@@ -1,0 +1,15 @@
+[
+["baleado", "Occurrence"],
+["matar", "Intensional Action"],
+["discussão", "Occurrence"],
+["detido", "Occurrence"],
+["acusado", "Reporting"],
+["discutir", "Occurrence"],
+["disparou", "Occurrence"],
+["alvejando", "Occurrence"],
+["ocorreu", "Occurrence"],
+["regressavam", "Occurrence"],
+["detido", "Occurrence"],
+["abertos", "Occurrence"],
+["acompanhará", "Reporting"]
+]

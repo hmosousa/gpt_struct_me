@@ -1,0 +1,16 @@
+[
+  ["hoje", "Date"],
+  ["Estrada Nacional 10-8", "Set"],
+  ["Mitrena", "Set"],
+  ["Setúbal", "Set"],
+  ["Fonte do Comando Distrital de Operações de Socorro", "Time"],
+  ["CDOS", "Time"],
+  ["agência Lusa", "Time"],
+  ["Hospital de São Bernardo", "Time"],
+  ["06:55", "Time"],
+  ["bombeiros", "Time"],
+  ["corporações de Palmela e Sapadores de Setúbal", "Time"],
+  ["viatura médica de emergência e reanimação (VMER)", "Time"],
+  ["16 elementos", "Duration"],
+  ["cinco veículos", "Duration"]
+]

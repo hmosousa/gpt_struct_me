@@ -1,0 +1,11 @@
+[
+  ["Quatro homens", "Person"],
+  ["PSP", "Organization"],
+  ["Lisboa", "Location"],
+  ["Rego", "Location"],
+  ["viaturas", "Object"],
+  ["Comando Metropolitano de Lisboa da PSP", "Organization"],
+  ["Lusa", "Organization"],
+  ["autoridades", "Organization"],
+  ["Polícia Judiciária", "Organization"]
+]

@@ -1,0 +1,1 @@
+[["Violência doméstica", "Occurrence"], ["Pulseira eletrónica", "State"], ["Penafiel", "Reporting"], ["GNR", "Perception"], ["separação", "Aspectual"], ["perseguir", "Intensional Action"], ["botão de pânico", "Intensional State"]]

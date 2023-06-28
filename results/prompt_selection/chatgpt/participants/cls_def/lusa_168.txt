@@ -1,0 +1,16 @@
+[
+  ["homem", "Person"],
+  ["andaime", "Object"],
+  ["Ponte de Lima", "Location"],
+  ["Viana do Castelo", "Location"],
+  ["comandante", "Person"],
+  ["bombeiros", "Organization"],
+  ["Lusa", "Organization"],
+  ["Suporte Imediato de Vida", "Facility"],
+  ["hospital de Braga", "Facility"],
+  ["Ribeira", "Location"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["operacionais", "Person"],
+  ["Viatura de Emergência Médica", "Facility"],
+  ["GNR", "Organization"]
+]

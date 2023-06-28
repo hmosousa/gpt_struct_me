@@ -1,0 +1,9 @@
+[
+["morre", "Occurrence"],
+["acidente de trabalho", "State"],
+["queda em altura", "Occurrence"],
+["falecer", "Occurrence"],
+["transportada por ambulância", "Occurrence"],
+["acionado o helicóptero do INEM", "Occurrence"],
+["tomou conta da ocorrência", "Reporting"]
+]

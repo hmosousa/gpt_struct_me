@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["sábado", "Date"], ["um veículo e quatro telemóveis", "Set"], ["1.673 doses", "Set"], ["1.570 doses", "Set"], ["103 doses", "Set"], ["844 euros", "Set"]]

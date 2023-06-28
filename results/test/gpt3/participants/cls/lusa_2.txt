@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Mem Martins", "Location"], ["Sintra", "Location"], ["outro", "Person"], ["Estrada de Mem Martins", "Location"], ["Hospital Professor Doutor Fernando Fonseca", "Facility"], ["Amadora-Sintra", "Location"], ["Cometlis", "Organization"], ["fonte do Cometlis", "Person"], ["Polícia Judiciária", "Organization"]]

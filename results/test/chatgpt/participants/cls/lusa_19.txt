@@ -1,0 +1,8 @@
+[
+  ["Câmara de Lobos", "Location"],
+  ["Jardim da Serra", "Location"],
+  ["autarquia", "Organization"],
+  ["Leonel Correia da Silva", "Person"],
+  ["Lusa", "Organization"],
+  ["Bombeiros de Câmara de Lobos", "Organization"]
+]

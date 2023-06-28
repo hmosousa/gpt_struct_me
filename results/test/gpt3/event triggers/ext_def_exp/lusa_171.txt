@@ -1,0 +1,1 @@
+["detetado", "alertado", "presença", "boiar", "informação", "recebida", "piquete", "delegado", "saúde", "confirmaram", "cadáver", "retirado", "equipa", "grande ângulo", "Bombeiros Voluntários", "zona", "difícil acesso", "transportado", "Hospital", "autopsiado", "apurar", "causas", "morte"]

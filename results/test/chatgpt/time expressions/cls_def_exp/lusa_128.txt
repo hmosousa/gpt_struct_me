@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["cerca de 50 pessoas", "Set"], ["na sequência de uma ação de fiscalização", "Duration"], ["covid-19", "Time"]]

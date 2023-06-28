@@ -1,0 +1,12 @@
+[
+  ["encontrado", "Occurrence"],
+  ["boiar", "State"],
+  ["retirado", "Occurrence"],
+  ["alertada", "Reporting"],
+  ["viram", "Perception"],
+  ["removeu", "Occurrence"],
+  ["aguardar", "State"],
+  ["chegada", "Occurrence"],
+  ["iniciadas", "Occurrence"],
+  ["estiveram", "State"]
+]

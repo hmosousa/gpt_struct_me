@@ -1,0 +1,7 @@
+[
+  ["atropelado", "Occurrence"],
+  ["ficou", "State"],
+  ["transportado", "Occurrence"],
+  ["ocorreu", "Occurrence"],
+  ["prestar assistência", "Intensional Action"]
+]

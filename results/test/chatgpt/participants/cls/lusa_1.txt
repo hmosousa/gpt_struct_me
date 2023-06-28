@@ -1,0 +1,23 @@
+[
+  ["Um homem de 20 anos", "Person"],
+  ["PSP", "Organization"],
+  ["Pasteleira Nova", "Location"],
+  ["Porto", "Location"],
+  ["heroína", "Object"],
+  ["cocaína", "Object"],
+  ["uma arma de fogo", "Object"],
+  ["Comando Metropolitano do Porto da PSP", "Organization"],
+  ["quarta-feira", "Other"],
+  ["combate ao crime de tráfico de estupefacientes", "Other"],
+  ["uma busca domiciliária", "Other"],
+  ["desempregado", "Other"],
+  ["599 doses individuais", "Other"],
+  ["235 doses individuais", "Other"],
+  ["quatro munições", "Object"],
+  ["um ‘tablet’", "Object"],
+  ["uma coluna de som", "Object"],
+  ["222 euros em dinheiro", "Object"],
+  ["Esquadra de Intervenção e Fiscalização Policial da 2.ª Divisão", "Organization"],
+  ["Equipas de Prevenção e Reação Imediata (EPRI)", "Organization"],
+  ["Autoridades Judiciárias", "Organization"]
+]

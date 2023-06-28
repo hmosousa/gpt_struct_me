@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Vila Nova de Gaia", "Location"], ["Gulpilhares", "Location"], ["31 anos", "Other"], ["braço esquerdo", "Other"], ["hospital Santos Silva", "Facility"], ["Valadares", "Location"], ["Polícia Judiciária", "Organization"]]

@@ -1,0 +1,15 @@
+[
+  ["09 nov 2020", "Date"],
+  ["cerca de \"três a quatro metros\"", "Duration"],
+  ["hoje", "Date"],
+  ["60 anos", "Duration"],
+  ["Ponte de Lima", "Set"],
+  ["ambulância de Suporte Imediato de Vida (SIV)", "Set"],
+  ["hospital de Braga", "Set"],
+  ["Bombeiros de Ponte de Lima", "Set"],
+  ["Viana do Castelo", "Set"],
+  ["Ribeira", "Set"],
+  ["10:33", "Time"],
+  ["Viatura de Emergência Médica (VMER) de Viana do Castelo", "Set"],
+  ["GNR", "Set"]
+]

@@ -1,0 +1,10 @@
+[
+  ["Maximiliano Trimarchi", "Person"],
+  ["Diego Maradona", "Person"],
+  ["procuradoria-geral de San Isidro", "Organization"],
+  ["Leopoldo Luque", "Person"],
+  ["hematoma subdural", "Object"],
+  ["psiquiatra Agustina Cosachov", "Person"],
+  ["justiça argentina", "Organization"],
+  ["antigo futebolista", "Object"]
+]

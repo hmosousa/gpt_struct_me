@@ -1,0 +1,18 @@
+[
+["detém", "Occurrence"],
+["cultivo", "State"],
+["tráfico", "State"],
+["deteve", "Occurrence"],
+["cultivo", "State"],
+["tráfico", "State"],
+["divulgou", "Reporting"],
+["explica", "Reporting"],
+["detenção", "State"],
+["efetuada", "Occurrence"],
+["detetaram", "Perception"],
+["cultivar", "Intensional Action"],
+["detido", "Intensional State"],
+["apreenderam", "Occurrence"],
+["contou", "Reporting"],
+["presente", "Intensional Action"]
+]

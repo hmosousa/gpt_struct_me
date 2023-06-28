@@ -1,0 +1,1 @@
+[["terça-feira", "Date"], ["cinco anos", "Duration"], ["três mil pilotos", "Set"], ["20%", "Duration"], ["terceiro trimestre", "Date"], ["mesmo trimestre do ano passado", "Date"]]

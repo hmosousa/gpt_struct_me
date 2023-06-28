@@ -1,0 +1,13 @@
+[
+  ["invade", "Occurrence"],
+  ["entrou", "Occurrence"],
+  ["ocorreu", "Occurrence"],
+  ["detido", "State"],
+  ["avançada", "Reporting"],
+  ["dá conta", "Reporting"],
+  ["disse", "Reporting"],
+  ["remeteu", "Reporting"],
+  ["chegou", "State"],
+  ["infração", "Aspectual"],
+  ["confirmassem", "Perception"]
+]

@@ -1,0 +1,1 @@
+["encontrado", "morto", "cisterna", "camião", "Estarreja", "dado", "alegadamente", "manutenção", "desaparecido", "acrescentou", "compareceu", "Delegada", "Polícia Judiciária", "tomou", "ocorrência", "Viatura Médica", "Emergência", "Reanimação", "Aveiro", "transporte", "cadáver", "Hospital Infante D. Pedro"]

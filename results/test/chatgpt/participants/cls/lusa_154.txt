@@ -1,0 +1,14 @@
+[
+  ["Um homem de 60 anos", "Person"],
+  ["Trofa", "Location"],
+  ["Porto", "Location"],
+  ["GNR", "Organization"],
+  ["Núcleo de Investigação e Apoio a Vítimas Específicas (NIAVE) do Porto", "Organization"],
+  ["militares", "Organization"],
+  ["agressor", "Person"],
+  ["vítima", "Person"],
+  ["consumidor habitual de bebidas alcoólicas", "Other"],
+  ["problemas psiquiátricos", "Other"],
+  ["Tribunal Judicial de Matosinhos", "Facility"],
+  ["Posto Territorial da Trofa", "Facility"]
+]

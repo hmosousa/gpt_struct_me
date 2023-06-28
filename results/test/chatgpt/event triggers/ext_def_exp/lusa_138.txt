@@ -1,0 +1,1 @@
+["encontrou", "desaparecida", "detetada", "transportada", "alerta", "desaparecimento", "procurada", "encontrada"]

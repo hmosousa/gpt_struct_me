@@ -1,0 +1,1 @@
+["hoje", "domingo", "21:45", "01:00 de hoje"]

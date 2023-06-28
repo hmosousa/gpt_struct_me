@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["Borba", "Location"], ["homem", "Person"], ["31 anos", "Other"], ["Destacamento Territorial de Estremoz", "Facility"], ["segunda-feira", "Other"], ["Tribunal de Vila Viçosa", "Facility"], ["heroína", "Object"], ["balança digital", "Object"], ["tesoura", "Object"], ["sacos de plástico", "Object"], ["doses individuais", "Object"], ["150 euros", "Other"]]

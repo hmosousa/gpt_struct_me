@@ -1,0 +1,13 @@
+[
+  ["Homem", "Person"],
+  ["Mem Martins", "Location"],
+  ["Sintra", "Location"],
+  ["Algueirão-Mem Martins", "Location"],
+  ["Lisboa", "Location"],
+  ["PSP", "Organization"],
+  ["Comando Metropolitano de Lisboa", "Organization"],
+  ["Estrada de Mem Martins", "Location"],
+  ["Hospital Professor Doutor Fernando Fonseca", "Facility"],
+  ["Amadora-Sintra", "Location"],
+  ["Polícia Judiciária", "Organization"]
+]

@@ -1,0 +1,15 @@
+[
+  ["Homem de 48 anos", "Person"],
+  ["Barcelos", "Location"],
+  ["Chorente", "Location"],
+  ["Braga", "Location"],
+  ["Comando Distrital de Operações de Socorros", "Organization"],
+  ["CDOS", "Organization"],
+  ["13:00", "Other"],
+  ["condutor", "Other"],
+  ["veículos ligeiros", "Object"],
+  ["ferido ligeiro", "Person"],
+  ["cerca de 20 anos de idade", "Other"],
+  ["Hospital de Barcelos", "Facility"],
+  ["Bombeiros Voluntários de Viatodos", "Organization"]
+]

@@ -1,0 +1,9 @@
+[
+  ["Homem de 60 anos", "Person"],
+  ["Matosinhos", "Location"],
+  ["telhado", "Object"],
+  ["Lusa", "Organization"],
+  ["PSP", "Organization"],
+  ["Rua Augusto Gil", "Location"],
+  ["bombeiros de Leixões", "Organization"]
+]

@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Oleiros", "Location"], ["Comando Distrital de Operações de Socorro", "Organization"], ["Castelo Branco", "Location"], ["Lusa", "Organization"], ["Centro Hospitalar e Universitário de Coimbra", "Facility"], ["bombeiros", "Organization"]]

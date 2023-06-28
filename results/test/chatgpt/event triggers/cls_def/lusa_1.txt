@@ -1,0 +1,22 @@
+[
+  ["detido", "Occurrence"],
+  ["tráfico de droga", "State"],
+  ["detenção", "Occurrence"],
+  ["ação policial", "Occurrence"],
+  ["combate ao crime de tráfico de estupefacientes", "State"],
+  ["busca domiciliária", "Occurrence"],
+  ["apreendida", "Occurrence"],
+  ["heroína", "State"],
+  ["cocaína", "State"],
+  ["arma de fogo", "State"],
+  ["munições", "State"],
+  ["tablet", "State"],
+  ["coluna de som", "State"],
+  ["dinheiro", "State"],
+  ["operação", "Occurrence"],
+  ["efetuada", "Occurrence"],
+  ["Esquadra de Intervenção e Fiscalização Policial da 2.ª Divisão", "State"],
+  ["Equipas de Prevenção e Reação Imediata (EPRI)", "State"],
+  ["detido", "State"],
+  ["Autoridades Judiciárias", "State"]
+]

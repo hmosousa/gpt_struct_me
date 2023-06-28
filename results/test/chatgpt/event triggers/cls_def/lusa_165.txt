@@ -1,0 +1,15 @@
+[
+["detém", "Occurrence"],
+["matou", "Occurrence"],
+["detido", "State"],
+["indiciado", "State"],
+["atribuiu", "Reporting"],
+["agredido", "Occurrence"],
+["referem", "Reporting"],
+["chegar", "Occurrence"],
+["ocorreu", "Occurrence"],
+["encontraram", "Occurrence"],
+["confirmado", "State"],
+["ser presente", "Intensional Action"],
+["aplicação", "Intensional State"]
+]

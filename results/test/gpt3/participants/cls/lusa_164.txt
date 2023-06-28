@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Famalicão", "Location"], ["São João", "Location"], ["Bombeiros Voluntários Famalicenses", "Organization"], ["Lusa", "Organization"], ["Viatura Médica de Emergência e Reanimação (VMER)", "Facility"], ["Hospital de Famalicão", "Facility"], ["Braga", "Location"]]

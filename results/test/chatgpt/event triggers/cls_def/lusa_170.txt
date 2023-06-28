@@ -1,0 +1,11 @@
+[
+  ["encontrado", "Occurrence"],
+  ["morto", "State"],
+  ["alerta", "Reporting"],
+  ["visto", "Perception"],
+  ["constataram", "Perception"],
+  ["solicitada", "Intensional Action"],
+  ["investigando", "Intensional State"],
+  ["declarado", "Reporting"],
+  ["encaminhado", "Intensional Action"]
+]

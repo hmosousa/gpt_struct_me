@@ -1,0 +1,12 @@
+[
+["morre", "Occurrence"],
+["despiste", "Occurrence"],
+["morreu", "Occurrence"],
+["conduzia", "State"],
+["alerta", "Reporting"],
+["ocorreu", "Occurrence"],
+["confirmado", "Reporting"],
+["aparentemente", "Perception"],
+["apuradas", "State"],
+["estiveram", "State"]
+]

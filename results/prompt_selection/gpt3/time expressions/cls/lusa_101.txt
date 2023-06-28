@@ -1,0 +1,1 @@
+[["39 anos", "Duration"], ["Penafiel", "Set"], ["hoje", "Date"], ["comunicado", "Time"], ["botão de pânico", "Time"], ["teleassistência", "Time"], ["antecedentes criminais", "Time"]]

@@ -1,0 +1,8 @@
+[
+  ["Tribunal de Guimarães", "Organization"],
+  ["homem", "Person"],
+  ["Procuradoria Regional", "Organization"],
+  ["arguido", "Person"],
+  ["mulher", "Person"],
+  ["Porto", "Location"]
+]

@@ -1,0 +1,1 @@
+[["Ricardo Pinheiro", "Person"], ["José Mendes", "Person"], ["secretário de Estado do Planeamento", "Facility"], ["Presidência da República", "Organization"], ["José Fernandes Gomes Mendes", "Person"], ["Ricardo Miguel Furtado Pinheiro", "Person"], ["Nelson de Sousa", "Person"], ["Palácio de Belém", "Facility"], ["Campo Maior", "Location"], ["Portalegre", "Location"]]

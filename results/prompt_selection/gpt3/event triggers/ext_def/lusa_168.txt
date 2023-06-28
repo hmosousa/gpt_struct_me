@@ -1,0 +1,1 @@
+["Homem ferido com gravidade", "cair de andaime", "transportado em estado grave", "acidente de trabalho", "alerta foi dado"]

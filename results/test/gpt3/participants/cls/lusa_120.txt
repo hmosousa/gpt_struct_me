@@ -1,0 +1,1 @@
+[["Governo de estado australiano", "Organization"], ["Victoria", "Location"], ["Dan Andrews", "Person"], ["comunidade vitoriana", "Organization"], ["Austrália", "Location"], ["Victoria", "Location"], ["Melbourne", "Location"], ["seguranças privados", "Organization"], ["estado de Victoria", "Location"], ["Melbourne", "Location"], ["julho", "Other"]]

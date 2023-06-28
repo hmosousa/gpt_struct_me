@@ -1,0 +1,16 @@
+[
+["apreendeu", "Occurrence"],
+["constituiu arguido", "State"],
+["exercer violência doméstica", "Intensional Action"],
+["realizada", "Occurrence"],
+["apuraram", "Occurrence"],
+["exercia violência física e psicológica", "Intensional Action"],
+["ameaças com recurso a arma de fogo", "Intensional Action"],
+["ofensas verbais", "Intensional Action"],
+["verificando-se uma escalada do comportamento violento", "Intensional State"],
+["consumo abusivo de álcool", "Intensional State"],
+["buscas domiciliárias", "Occurrence"],
+["apreendidas", "Occurrence"],
+["constituído arguido", "State"],
+["remetidos para o Tribunal Judicial da Covilhã", "Reporting"]
+]

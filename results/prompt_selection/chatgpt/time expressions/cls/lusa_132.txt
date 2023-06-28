@@ -1,0 +1,6 @@
+[
+  ["quinta-feira", "Date"],
+  ["20 quilos", "Duration"],
+  ["durante esta ação", "Duration"],
+  ["60 mil euros", "Duration"]
+]

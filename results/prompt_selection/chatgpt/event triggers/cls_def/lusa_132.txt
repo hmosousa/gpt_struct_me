@@ -1,0 +1,15 @@
+[
+  ["apreendeu", "Occurrence"],
+  ["patrulhamento fluvial", "State"],
+  ["detetaram", "Perception"],
+  ["contendo", "State"],
+  ["necessita", "Intensional State"],
+  ["deteção", "Occurrence"],
+  ["instalação", "Occurrence"],
+  ["aberto", "Occurrence"],
+  ["processo contraordenacional", "State"],
+  ["apuramento de responsabilidades", "State"],
+  ["puníveis", "Intensional State"],
+  ["coima máxima", "State"],
+  ["devolvidos", "Occurrence"]
+]

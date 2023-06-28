@@ -1,0 +1,1 @@
+["hoje", "25 de novembro", "início de novembro", "dois dias"]

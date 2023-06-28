@@ -1,0 +1,1 @@
+[["passada quarta-feira", "Date"], ["na sequência de", "Duration"], ["almoçar na coletividade", "Set"], ["sexagenário", "Duration"], ["disparo de arma de fogo", "Time"], ["primeiro interrogatório judicial", "Time"], ["medida de coação", "Time"]]

@@ -1,0 +1,1 @@
+[["em 2013", "Date"], ["sete anos", "Duration"], ["em outubro", "Date"]]

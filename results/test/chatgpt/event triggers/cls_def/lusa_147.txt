@@ -1,0 +1,14 @@
+[
+  ["resgata", "Occurrence"],
+  ["constituiu", "Occurrence"],
+  ["refere", "Reporting"],
+  ["anunciou", "Reporting"],
+  ["realizada", "Occurrence"],
+  ["depararam", "Perception"],
+  ["lê-se", "Reporting"],
+  ["resgatados", "Occurrence"],
+  ["entregues", "Occurrence"],
+  ["colaborou", "Intensional Action"],
+  ["constituído", "Intensional State"],
+  ["remetidos", "Occurrence"]
+]

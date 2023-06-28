@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["Cabeceiras de Basto", "Location"], ["balas de borracha", "Object"], ["arma de fogo", "Object"], ["Re fojos de Basto", "Location"], ["Braga", "Location"], ["homem", "Person"], ["52 anos", "Other"], ["operacionais", "Person"], ["detido", "Person"], ["Polícia Judiciária", "Organization"]]

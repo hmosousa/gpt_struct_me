@@ -1,0 +1,16 @@
+[
+  ["hoje", "Date"],
+  ["cerca de 50 anos", "Duration"],
+  ["em Milhazes", "Set"],
+  ["no concelho de Barcelos", "Set"],
+  ["de grande porte", "Duration"],
+  ["ainda não estão apuradas as circunstâncias do acidente", "Duration"],
+  ["as primeiras informações", "Duration"],
+  ["um acidente de trabalho", "Duration"],
+  ["Segundo as primeiras informações", "Duration"],
+  ["a cortar a árvore", "Duration"],
+  ["pelas 11:50", "Time"],
+  ["mobilizados para o local", "Duration"],
+  ["uma viatura médica de emergência e reanimação", "Set"],
+  ["declarado no local", "Duration"]
+]

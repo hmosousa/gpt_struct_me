@@ -1,0 +1,1 @@
+[["Quincy Promes", "State"], ["esfaqueamento", "Occurrence"], ["familiar", "Reporting"], ["discussão", "Perception"], ["celebração familiar", "Aspectual"], ["esfaqueou", "Intensional Action"], ["ferida", "Intensional State"]]

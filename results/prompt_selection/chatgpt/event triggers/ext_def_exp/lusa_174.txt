@@ -1,0 +1,1 @@
+["encontrado", "morto", "alerta", "manutenção", "desaparecido", "trabalhar", "aberta", "causa da morte", "Delegada de Saúde", "Polícia Judiciária", "tomou conta", "ocorrência", "transporte", "cadáver", "Hospital Infante D. Pedro"]

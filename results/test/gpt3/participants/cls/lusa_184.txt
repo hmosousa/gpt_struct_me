@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["pulseira eletrónica", "Object"], ["Vila Nova de Gaia", "Location"], ["GNR", "Organization"], ["vítima", "Person"], ["30 anos", "Other"], ["controlo", "Other"], ["perseguição", "Other"], ["veículo", "Object"]]

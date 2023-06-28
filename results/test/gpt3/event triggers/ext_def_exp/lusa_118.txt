@@ -1,0 +1,1 @@
+["despiste", "viatura", "ocorrido", "ferimentos", "transportado", "cortada", "trânsito", "acidente", "transformada", "controlo", "politraumatizado", "despiste", "embate", "poste", "atirou-se", "ferimentos", "ligeiros", "transportado", "ocorreu", "freguesia", "duas faixas", "fechadas", "trânsito", "óleo", "derramado", "destroços", "espalhados", "manter-se", "cortada"]

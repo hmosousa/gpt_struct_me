@@ -1,0 +1,16 @@
+[
+  ["Homem", "Person"],
+  ["Famalicão", "Location"],
+  ["homem", "Person"],
+  ["Vale de S. Martinho", "Location"],
+  ["Vila Nova de Famalicão", "Location"],
+  ["Hospital de São João", "Facility"],
+  ["fonte", "Other"],
+  ["bombeiros locais", "Organization"],
+  ["58 anos", "Other"],
+  ["Bombeiros Voluntários Famalicenses", "Organization"],
+  ["Lusa", "Organization"],
+  ["Viatura Médica de Emergência e Reanimação", "Facility"],
+  ["Hospital de Famalicão", "Facility"],
+  ["Braga", "Location"]
+]

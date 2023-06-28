@@ -1,0 +1,14 @@
+[
+  ["paragem cardiorrespiratória", "Occurrence"],
+  ["encontra-se", "State"],
+  ["coma induzido", "State"],
+  ["sofreu", "Occurrence"],
+  ["jogo", "Occurrence"],
+  ["contar", "Aspectual"],
+  ["agradecemos", "Intensional Action"],
+  ["endereçaram", "Reporting"],
+  ["chegou", "Occurrence"],
+  ["solidariedade", "Intensional State"],
+  ["estabilizado", "State"],
+  ["informou", "Reporting"]
+]

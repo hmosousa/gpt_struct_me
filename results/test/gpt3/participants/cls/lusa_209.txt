@@ -1,0 +1,1 @@
+[["Avião", "Object"], ["Aeroporto Humberto Delgado", "Facility"], ["Lisboa", "Location"], ["Polícia de Segurança Pública", "Organization"], ["Jota Aviation", "Organization"], ["Farnborough", "Location"], ["Inglaterra", "Location"], ["Lisboa", "Location"], ["ANA-Aeroportos de Portugal", "Organization"]]

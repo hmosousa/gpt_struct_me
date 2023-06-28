@@ -1,0 +1,1 @@
+["matar", "disparar", "detido", "suicídio", "crime", "optar", "terminar", "relação", "passar"]

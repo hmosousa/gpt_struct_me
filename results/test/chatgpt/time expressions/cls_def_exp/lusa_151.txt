@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["França", "Set"], ["aos 71 anos", "Duration"], ["novo coronavírus", "Time"], ["25 de março", "Date"], ["outubro", "Time"], ["seis meses", "Duration"], ["três eleições presidenciais", "Duration"]]

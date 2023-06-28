@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["61 anos", "Duration"], ["Estrada Municipal 524", "Time"], ["Portalegre", "Time"], ["Bica", "Time"], ["19:23", "Time"]]

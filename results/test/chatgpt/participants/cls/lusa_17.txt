@@ -1,0 +1,16 @@
+[
+  ["Homem", "Person"],
+  ["queimaduras", "Nature"],
+  ["terceiro grau", "Nature"],
+  ["membros superiores", "Object"],
+  ["membros inferiores", "Object"],
+  ["incêndio", "Nature"],
+  ["casa", "Facility"],
+  ["Arcozelo", "Location"],
+  ["Vila Nova de Gaia", "Location"],
+  ["Lusa", "Organization"],
+  ["Sapadores locais", "Organization"],
+  ["Bombeiros da Aguda", "Organization"],
+  ["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Facility"],
+  ["Proteção Civil", "Organization"]
+]

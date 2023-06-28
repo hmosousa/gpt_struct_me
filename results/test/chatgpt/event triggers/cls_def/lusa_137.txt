@@ -1,0 +1,16 @@
+[
+  ["detém", "Occurrence"],
+  ["detenção", "Occurrence"],
+  ["cometidos", "State"],
+  ["apurou", "Reporting"],
+  ["agredido", "Occurrence"],
+  ["injuriado", "Occurrence"],
+  ["coagido", "Occurrence"],
+  ["satisfazer", "Intensional Action"],
+  ["levaram", "Reporting"],
+  ["emissão", "Occurrence"],
+  ["mandado de detenção", "State"],
+  ["cumprimento", "Occurrence"],
+  ["sendo presente", "Occurrence"],
+  ["aplicação", "State"]
+]

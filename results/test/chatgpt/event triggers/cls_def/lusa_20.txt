@@ -1,0 +1,21 @@
+[
+  ["detenção", "Occurrence"],
+  ["matar", "Intensional Action"],
+  ["obtenção", "Intensional State"],
+  ["apropriação", "Intensional State"],
+  ["relação amorosa", "State"],
+  ["crime", "Occurrence"],
+  ["apropriação", "Intensional State"],
+  ["assassinada", "Occurrence"],
+  ["uso de força física", "State"],
+  ["transportado", "Occurrence"],
+  ["abandonado", "Occurrence"],
+  ["detidos", "State"],
+  ["homicídio qualificado", "Reporting"],
+  ["profanação de cadáver", "Reporting"],
+  ["burla informática", "Reporting"],
+  ["furto", "Reporting"],
+  ["presentes a tribunal", "Occurrence"],
+  ["interrogatório judicial", "Reporting"],
+  ["medidas de coação", "State"]
+]

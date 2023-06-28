@@ -1,0 +1,1 @@
+[["Jovem", "Person"], ["Amadora", "Location"], ["Lusa", "Organization"], ["Comando Metropolitano de Lisboa", "Organization"], ["Fernando Fonseca", "Organization"], ["Polícia Judiciária", "Organization"]]

@@ -1,0 +1,14 @@
+[
+  ["Homem", "Person"],
+  ["rio Tua", "Location"],
+  ["Mirandela", "Location"],
+  ["homem", "Person"],
+  ["madrugada", "Time"],
+  ["Valverde da Gestosa", "Location"],
+  ["GNR", "Organization"],
+  ["Lusa", "Organization"],
+  ["domingo", "Time"],
+  ["autoridades", "Organization"],
+  ["meia-noite", "Time"],
+  ["Polícia Judiciária", "Organization"]
+]

@@ -1,0 +1,9 @@
+[
+  ["colocado sob vigilância eletrónica", "State"],
+  ["suspeito de violência física, injúrias e ameaças de morte à ex-companheira", "Occurrence"],
+  ["informou hoje fonte da GNR", "Reporting"],
+  ["começou a perseguir a vítima na sua residência e no local de trabalho", "Occurrence"],
+  ["usava um botão de pânico", "State"],
+  ["lhe tinha sido aplicado por medida de proteção por teleassistência", "Aspectual"],
+  ["ficou ainda proibido de contactar a vítima", "Intensional Action"]
+]

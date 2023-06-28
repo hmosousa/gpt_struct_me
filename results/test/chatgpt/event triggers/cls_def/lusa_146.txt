@@ -1,0 +1,22 @@
+[
+["detém", "Occurrence"],
+["assaltos", "State"],
+["tráfico de drogas", "State"],
+["deteve", "Occurrence"],
+["envolvidos", "State"],
+["assaltos a residências e estabelecimentos", "State"],
+["furtos no interior de veículos", "State"],
+["tráfico de drogas", "State"],
+["detidos", "State"],
+["investigação desenvolvida", "State"],
+["furtos nos concelhos de Arcos de Valdevez, Paredes de Coura, Ponte da Barca e Ponte de Lima", "State"],
+["crimes em Vila Verde", "State"],
+["realização buscas domiciliárias", "Occurrence"],
+["apreensão heroína para 56 doses", "State"],
+["cocaína para 17", "State"],
+["haxixe para oito", "State"],
+["telemóveis", "State"],
+["computadores", "State"],
+["máquina fotográfica", "State"],
+["aparelho GPS", "State"]
+]

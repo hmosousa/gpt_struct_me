@@ -1,0 +1,1 @@
+[["Um homem de 60", "Per"], ["Matosinhos", "Loc"], ["telhado", "Fac"], ["estava a limpar", "Other"], ["Lusa", "Org"], ["fonte da PSP", "Org"], ["O acidente", "Other"], ["Rua Augusto Gil", "Loc"], ["sete metros", "Other"], ["os bombeiros de Leixões", "Org"]]

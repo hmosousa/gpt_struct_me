@@ -1,0 +1,12 @@
+[["Homem encontrado morto no rio Tua na zona de Mirandela", "Occurrence"],
+["Um homem de 32 anos", "State"],
+["foi encontrado morto ao início da madrugada de hoje no rio Tua, na zona de Valverde da Gestosa, em Mirandela", "Occurrence"],
+["terá ido pescar", "Intensional Action"],
+["informou a GNR", "Reporting"],
+["terá saído de casa na manhã de domingo para ir à pesca", "Intensional Action"],
+["as autoridades foram alertadas para o desaparecimento", "Reporting"],
+["iniciaram buscas no local", "Occurrence"],
+["o corpo foi encontrado depois da meia-noite", "Occurrence"],
+["retirado do rio nas proximidades do local onde as autoridades encontraram os haveres do pescador", "Occurrence"],
+["o caso foi entregue à Polícia Judiciária", "Reporting"],
+["serem apuradas as circunstâncias da morte", "Aspectual"]]

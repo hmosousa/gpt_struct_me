@@ -1,0 +1,1 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["atingido", "Perception"], ["árvore de grande porte", "Aspectual"], ["Barcelos", "Reporting"], ["cortar", "Intensional Action"], ["atingido", "Intensional State"]]

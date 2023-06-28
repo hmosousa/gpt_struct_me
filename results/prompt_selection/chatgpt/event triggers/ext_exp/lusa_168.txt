@@ -1,0 +1,1 @@
+["ferido", "cair", "estado grave", "trabalhava", "obra", "transportado", "ambulância", "Suporte Imediato de Vida", "hospital de Braga", "acidente de trabalho", "construção civil", "alerta", "compareceram", "operacionais", "viatura", "bombeiros", "Viatura de Emergência Médica", "GNR"]

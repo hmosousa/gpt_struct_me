@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Santa Maria da Feira", "Location"], ["Romariz", "Location"], ["Bombeiros de Arrifana", "Organization"], ["tampa do poço", "Object"], ["vizinho", "Person"], ["água", "Nature"], ["equipa de grande ângulo", "Facility"], ["cordas", "Object"], ["hospital de Santa Maria da Feira", "Facility"], ["GNR de Santa Maria da Feira", "Organization"]]

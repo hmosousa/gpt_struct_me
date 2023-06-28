@@ -1,0 +1,14 @@
+[
+["morte", "Occurrence"],
+["buscas", "Occurrence"],
+["investigação", "State"],
+["negligência", "State"],
+["morto", "Intensional State"],
+["realizou", "Aspectual"],
+["apreendido", "Aspectual"],
+["participou", "Aspectual"],
+["submetido", "Aspectual"],
+["abriu", "Aspectual"],
+["determinar", "Intensional Action"],
+["assistência", "State"]
+]

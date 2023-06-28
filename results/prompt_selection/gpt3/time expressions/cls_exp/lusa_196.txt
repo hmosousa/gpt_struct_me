@@ -1,0 +1,1 @@
+[["passada quarta-feira", "Date"], ["Alto da Guerra", "Set"], ["um disparo de arma de fogo", "Duration"], ["primeiro interrogatório judicial", "Time"]]

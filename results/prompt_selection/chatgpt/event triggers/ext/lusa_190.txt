@@ -1,0 +1,1 @@
+["morte", "tiro", "atirador", "fuga", "incidente", "homicídio", "armas de fogo", "ocorrência", "investigação"]

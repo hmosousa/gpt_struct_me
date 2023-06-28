@@ -1,0 +1,1 @@
+[["quarta-feira", "Date"], ["cerca de 599 doses individuais", "Duration"], ["cerca de 235 doses individuais", "Duration"], ["uma arma de fogo", "Set"], ["quatro munições", "Set"], ["um ‘tablet’", "Set"], ["uma coluna de som", "Set"], ["222 euros", "Set"], ["hoje", "Date"]]

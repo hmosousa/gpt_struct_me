@@ -1,0 +1,15 @@
+[
+["detido", "Intensional Action"],
+["suspeita", "Perception"],
+["fogo posto", "Occurrence"],
+["detido", "Intensional State"],
+["ateado fogo", "Intensional Action"],
+["feridos", "State"],
+["inalação de fumo", "State"],
+["informou", "Reporting"],
+["esclarece", "Reporting"],
+["receberam assistência médica", "Intensional Action"],
+["deflagrou", "Occurrence"],
+["extinto", "Intensional Action"],
+["prosseguirá com a respetiva investigação", "Intensional Action"]
+]

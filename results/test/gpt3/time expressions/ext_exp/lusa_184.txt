@@ -1,0 +1,1 @@
+["hoje", "meses", "últimos meses"]

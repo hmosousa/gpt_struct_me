@@ -1,0 +1,19 @@
+[
+  ["Governo angolano", "Organization"],
+  ["Sílvia Lutucuta", "Person"],
+  ["Ministério da Saúde", "Organization"],
+  ["Hospital Geral", "Facility"],
+  ["Cunene", "Location"],
+  ["doente grave", "Person"],
+  ["recém-nascido", "Person"],
+  ["bloco operatório", "Facility"],
+  ["enfermarias cirúrgicas", "Facility"],
+  ["posto de armazenamento de oxigênio", "Facility"],
+  ["linha da frente", "Other"],
+  ["pacientes", "Person"],
+  ["unidades hospitalares", "Facility"],
+  ["zona", "Location"],
+  ["demais doentes", "Person"],
+  ["centros de saúde", "Facility"],
+  ["novo Hospital Municipal de Cuanhama", "Facility"]
+]

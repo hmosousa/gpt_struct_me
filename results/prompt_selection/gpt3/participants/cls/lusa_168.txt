@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Ponte de Lima", "Location"], ["Viana do Castelo", "Location"], ["Carlos Lima", "Person"], ["Braga", "Location"], ["Ribeira", "Location"], ["CDOS", "Organization"], ["SIV", "Organization"], ["Bombeiros", "Organization"], ["VMER", "Organization"], ["GNR", "Organization"]]

@@ -1,0 +1,17 @@
+[
+  ["ilegaliza", "Occurrence"],
+  ["responsável", "Aspectual"],
+  ["vandalismo", "Occurrence"],
+  ["dissolução", "Occurrence"],
+  ["proibiu", "Occurrence"],
+  ["implementada", "Intensional Action"],
+  ["alargar", "Intensional Action"],
+  ["organizou", "Occurrence"],
+  ["protestos", "Occurrence"],
+  ["entregou-se", "Occurrence"],
+  ["acusado", "Aspectual"],
+  ["incitar", "Intensional Action"],
+  ["violacao", "Occurrence"],
+  ["travar", "Intensional Action"],
+  ["manifestações", "Occurrence"]
+]

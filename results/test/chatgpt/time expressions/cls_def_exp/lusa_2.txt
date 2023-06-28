@@ -1,0 +1,1 @@
+[["domingo à noite", "Date"], ["Algueirão-Mem Martins", "Set"], ["Sintra", "Set"], ["distrito de Lisboa", "Set"], ["Estrada de Mem Martins", "Set"], ["Hospital Professor Doutor Fernando Fonseca", "Set"], ["Amadora-Sintra", "Set"], ["23:30", "Time"]]

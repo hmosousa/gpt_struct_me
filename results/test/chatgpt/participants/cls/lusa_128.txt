@@ -1,0 +1,17 @@
+[
+  ["Covid-19", "Other"],
+  ["GNR de Freamunde", "Organization"],
+  ["Paços de Ferreira", "Location"],
+  ["restaurante", "Facility"],
+  ["pessoas", "Other"],
+  ["estabelecimento de restauração e bebidas", "Facility"],
+  ["militares", "Person"],
+  ["música ao vivo", "Other"],
+  ["fiscalização", "Other"],
+  ["normas referentes à pandemia covid-19", "Other"],
+  ["comunicado", "Other"],
+  ["proprietária", "Person"],
+  ["48 anos", "Other"],
+  ["evento", "Other"],
+  ["auto de contraordenação", "Other"]
+]

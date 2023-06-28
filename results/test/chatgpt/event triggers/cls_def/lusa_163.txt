@@ -1,0 +1,13 @@
+[
+  ["morre", "Occurrence"],
+  ["atropelamento", "Occurrence"],
+  ["morreu", "Occurrence"],
+  ["atropelamento", "Occurrence"],
+  ["declarado", "Reporting"],
+  ["alerta", "Reporting"],
+  ["mobilizados", "Reporting"],
+  ["acontecido", "Occurrence"],
+  ["manobra", "Intensional Action"],
+  ["marcha-atrás", "Aspectual"],
+  ["contaram", "Reporting"]
+]

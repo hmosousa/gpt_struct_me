@@ -1,0 +1,1 @@
+["fica", "estado muito grave", "baleado", "peito", "Amadora", "alerta", "ocorrência", "dado", "baleado", "arma de fogo", "ferido", "transportado", "Hospital Professor Doutor Fernando Fonseca", "causas", "incidente", "desconhecidas", "identificados", "detidos", "suspeitos", "tratar", "crime", "entregue", "Polícia Judiciária", "investigação"]

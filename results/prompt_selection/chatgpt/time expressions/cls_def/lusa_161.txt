@@ -1,0 +1,9 @@
+[
+  ["2017", "Date"],
+  ["10 anos", "Duration"],
+  ["2016", "Date"],
+  ["Braga", "Set"],
+  ["Amares", "Set"],
+  ["2017 e 2019", "Duration"],
+  ["05 de outubro", "Date"]
+]

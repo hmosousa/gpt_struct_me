@@ -1,0 +1,1 @@
+[["Soumaila Cissé", "Person"], ["Governo do Mali", "Organization"], ["jihadistas", "Organization"], ["Agência France-Presse (AFP)", "Organization"], ["União para a República e a Democracia (URD)", "Organization"], ["Tumbuktu", "Location"], ["Sophie Pétronin", "Person"], ["Italianos", "Organization"], ["engenheiro de computação", "Other"], ["três eleições presidenciais", "Other"]]

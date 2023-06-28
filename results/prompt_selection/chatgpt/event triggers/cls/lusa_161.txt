@@ -1,0 +1,16 @@
+[
+  ["acusou", "Reporting"],
+  ["abuso sexual de crianças agravado", "Occurrence"],
+  ["vítima", "State"],
+  ["anunciou", "Reporting"],
+  ["abuso sexual", "Occurrence"],
+  ["terão começado", "Occurrence"],
+  ["vítima", "State"],
+  ["tinha", "State"],
+  ["considerou indiciado", "Reporting"],
+  ["passou a viver", "Occurrence"],
+  ["manteve trato sexual", "Occurrence"],
+  ["aproveitando-se", "Intensional Action"],
+  ["passava a sós", "Occurrence"],
+  ["despacho de acusação", "State"]
+]

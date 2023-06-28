@@ -1,0 +1,18 @@
+[
+  ["Governo holandês", "Organization"],
+  ["KLM", "Organization"],
+  ["pilotos", "Person"],
+  ["salários", "Object"],
+  ["Wopke Hoekstra", "Person"],
+  ["ramo holandês da Air France-KLM", "Organization"],
+  ["sindicato", "Organization"],
+  ["VNV", "Organization"],
+  ["ajuda", "Object"],
+  ["empréstimos", "Object"],
+  ["despesas", "Object"],
+  ["postos de trabalho", "Object"],
+  ["país", "Location"],
+  ["Air France-KLM", "Organization"],
+  ["meios do país", "Location"],
+  ["lucro", "Object"]
+]

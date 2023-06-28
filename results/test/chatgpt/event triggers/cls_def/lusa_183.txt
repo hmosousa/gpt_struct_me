@@ -1,0 +1,21 @@
+[
+["indiciado", "Occurrence"],
+["maltratar", "Intensional Action"],
+["colocado sob vigilância eletrónica", "State"],
+["proibido de se aproximar da vítima", "Intensional Action"],
+["refugiou em casa de outros familiares", "State"],
+["levando a filha comum", "Intensional Action"],
+["detido", "Occurrence"],
+["levou ao Tribunal de Instrução Criminal em Penafiel", "Occurrence"],
+["consumidor de bebidas alcoólicas", "State"],
+["insultava", "Intensional Action"],
+["ameaçava", "Intensional Action"],
+["agredia física e psicologicamente", "Intensional Action"],
+["houve uma escalada de maus-tratos, ameaças e agressões físicas", "State"],
+["tiveram de abandonar a residência", "Intensional Action"],
+["refugiando-se em casa de familiares", "State"],
+["determinou as medidas de coação de afastamento da residência", "Intensional Action"],
+["proibição de contactar a vítima por qualquer forma ou meio", "Intensional Action"],
+["proibiu-o ainda se aproximar da vítima num raio de 500 metros", "Intensional Action"],
+["impondo o controlo do seus movimentos por controlado por pulseira eletrónica", "State"]
+]

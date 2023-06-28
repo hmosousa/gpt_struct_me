@@ -1,0 +1,12 @@
+[
+  ["morre", "Occurrence"],
+  ["atropelamento", "Occurrence"],
+  ["provocou", "Occurrence"],
+  ["ferido", "State"],
+  ["transportado", "Reporting"],
+  ["declarada", "Reporting"],
+  ["atropelados", "Occurrence"],
+  ["alerta", "Reporting"],
+  ["informa", "Reporting"],
+  ["estarem", "State"]
+]

@@ -1,0 +1,16 @@
+[
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["arma de fogo", "Object"],
+  ["Cabeceiras de Basto", "Location"],
+  ["bagos de borracha", "Object"],
+  ["munições reais", "Object"],
+  ["Refojos de Basto", "Location"],
+  ["Braga", "Location"],
+  ["52 anos", "Other"],
+  ["Comando Territorial da GNR em Braga", "Organization"],
+  ["militares", "Person"],
+  ["detido", "Person"],
+  ["juiz de instrução", "Person"],
+  ["Polícia Judiciária", "Organization"]
+]

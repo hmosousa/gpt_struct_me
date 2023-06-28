@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["sábado", "Date"], ["segunda-feira", "Date"], ["24,3 gramas", "Duration"], ["cerca de 150 euros", "Duration"]]

@@ -1,0 +1,9 @@
+[
+  ["Homem", "Person"],
+  ["Barreiro", "Location"],
+  ["atirador", "Person"],
+  ["Direção Nacional da Polícia de Segurança Pública", "Organization"],
+  ["Lusa", "Organization"],
+  ["caçadeira", "Object"],
+  ["Polícia Judiciária", "Organization"]
+]

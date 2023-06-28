@@ -1,0 +1,14 @@
+[
+  ["homem", "Person"],
+  ["camião", "Object"],
+  ["poste de iluminação", "Object"],
+  ["Porto", "Location"],
+  ["fonte", "Organization"],
+  ["PSP", "Organization"],
+  ["Relações Públicas do Comando Metropolitano da PSP do Porto", "Organization"],
+  ["Hospital de Santo António", "Facility"],
+  ["Câmara do Porto", "Organization"],
+  ["Empresa Municipal de Ambiente do Porto", "Organization"],
+  ["município", "Organization"],
+  ["família", "Person"]
+]

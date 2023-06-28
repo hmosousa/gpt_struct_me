@@ -1,0 +1,1 @@
+["morto a tiro", "atirador em fuga", "baleado", "tiros de caçadeira", "incidente", "circunstâncias", "tiroteio", "suspeita de homicídio", "armas de fogo", "ocorrência", "acompanhada", "Polícia Judiciária", "investigação", "caso"]

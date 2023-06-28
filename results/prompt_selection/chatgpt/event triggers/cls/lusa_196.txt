@@ -1,0 +1,11 @@
+[
+  ["detém", "Intensional Action"],
+  ["balear", "Intensional Action"],
+  ["deteve", "Intensional Action"],
+  ["disparado", "Intensional Action"],
+  ["alvejar", "Intensional Action"],
+  ["provocando", "Intensional Action"],
+  ["fugiu", "Intensional Action"],
+  ["indiciado", "State"],
+  ["aplicada", "Intensional Action"]
+]

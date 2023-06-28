@@ -1,0 +1,1 @@
+["homem", "Comando Distrital de Operações de Socorro de Braga", "Bombeiros Voluntários de Barcelinhos", "viatura médica de emergência e reanimação", "GNR"]

@@ -1,0 +1,13 @@
+[
+  ["quarta-feira", "Date"],
+  ["restaurante", "Set"],
+  ["coletividade", "Set"],
+  ["Alto da Guerra", "Set"],
+  ["sexagenário", "Set"],
+  ["jovem", "Set"],
+  ["arma de fogo", "Set"],
+  ["ombro", "Set"],
+  ["braço", "Set"],
+  ["detido", "Set"],
+  ["prisão preventiva", "Duration"]
+]

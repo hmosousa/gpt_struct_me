@@ -1,0 +1,1 @@
+[["segunda-feira", "Date"], ["cerca de dois quilómetros", "Distance"], ["esta tarde", "Date"], ["15:40", "Time"], ["durante a noite", "Duration"], ["esta manhã", "Date"], ["29 operacionais", "Quantity"], ["nove viaturas", "Quantity"]]

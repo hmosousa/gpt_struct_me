@@ -1,0 +1,9 @@
+[
+  ["apreendeu", "Occurrence"],
+  ["informou", "Reporting"],
+  ["esclarece", "Reporting"],
+  ["detetaram", "Perception"],
+  ["foi aberto", "Occurrence"],
+  ["referem", "Reporting"],
+  ["foram devolvidos", "Occurrence"]
+]

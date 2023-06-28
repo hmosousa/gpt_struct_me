@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["Unidade de Controlo Costeiro", "Organization"], ["Sistema Integrado de Vigilância e Comando e Controlo", "Organization"], ["dois homens", "Person"], ["Olhão", "Location"], ["Algarve", "Location"], ["Guarda Nacional Republicana", "Organization"], ["22 fardos de haxixe", "Object"], ["785 quilos", "Object"], ["dois milhões de euros", "Object"]]

@@ -1,0 +1,17 @@
+[
+  ["Deputados", "Person"],
+  ["Governo", "Organization"],
+  ["parlamento", "Location"],
+  ["Assembleia da República", "Organization"],
+  ["Ferro Rodrigues", "Person"],
+  ["executivo", "Organization"],
+  ["deputados", "Person"],
+  ["primeiro-ministro", "Person"],
+  ["António Costa", "Person"],
+  ["ministros", "Person"],
+  ["Ana Gomes Godinho", "Person"],
+  ["Trabalho", "Facility"],
+  ["João Pedro Matos Fernandes", "Person"],
+  ["Ambiente", "Facility"],
+  ["Finanças", "Facility"]
+]

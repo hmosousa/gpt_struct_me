@@ -1,0 +1,12 @@
+[
+  ["quarta-feira", "Date"],
+  ["na sequência de", "Duration"],
+  ["um disparo de arma de fogo", "Duration"],
+  ["num ombro e braço", "Set"],
+  ["fugiu do local", "Duration"],
+  ["homicídio qualificado na forma tentada", "Duration"],
+  ["detenção de arma proibida", "Duration"],
+  ["omissão de auxílio", "Duration"],
+  ["primeiro interrogatório judicial", "Date"],
+  ["prisão preventiva", "Duration"]
+]

@@ -1,0 +1,1 @@
+["hoje", "meio-dia", "perto do meio-dia"]

@@ -1,0 +1,1 @@
+[["Criança", "State"], ["acidente", "Occurrence"], ["autoestrada do Norte", "Reporting"], ["morreu", "Perception"], ["ocorrido", "Aspectual"], ["envolvido", "Intensional Action"], ["ficado", "Intensional State"]]

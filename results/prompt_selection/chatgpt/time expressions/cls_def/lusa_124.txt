@@ -1,0 +1,11 @@
+[
+  ["sábado à noite", "Time"],
+  ["21:40 de sábado", "Time"],
+  ["Norte/Sul", "Set"],
+  ["12 anos", "Duration"],
+  ["quatro feridos", "Duration"],
+  ["todos sem gravidade", "Set"],
+  ["23:30 de sábado", "Time"],
+  ["22 operacionais", "Duration"],
+  ["10 viaturas", "Duration"]
+]

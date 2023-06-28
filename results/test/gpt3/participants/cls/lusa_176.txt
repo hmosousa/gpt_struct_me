@@ -1,0 +1,1 @@
+[["Cadáver de homem", "Object"], ["Vila Nova de Gaia", "Location"], ["Polícia Marítima", "Organization"], ["Lusa", "Organization"], ["Rui Santos Amaral", "Person"], ["Santa Marinha", "Location"], ["Polícia Judiciária", "Organization"], ["Sapadores de Vila Nova de Gaia", "Organization"], ["Bombeiros de Coimbrões", "Organization"]]

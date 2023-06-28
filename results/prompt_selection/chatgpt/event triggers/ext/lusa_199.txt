@@ -1,0 +1,1 @@
+["acidente", "derrubou", "atingindo", "transportada", "morreu", "atingiu", "ferimentos", "ocorreu", "queda", "envolveu", "averiguar", "lamentando", "condolências"]

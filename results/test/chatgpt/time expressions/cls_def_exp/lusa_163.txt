@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["84 anos", "Duration"], ["na sequência de um atropelamento", "Time"], ["Vila Maior", "Time"], ["Santa Marta de Penaguião", "Time"], ["Vila Real", "Time"], ["no local", "Time"], ["durante uma manobra de marcha-atrás", "Time"], ["às 11:29", "Time"], ["seis operacionais", "Duration"], ["três viaturas", "Duration"]]

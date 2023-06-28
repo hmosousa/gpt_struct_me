@@ -1,0 +1,10 @@
+[
+  ["começar", "Occurrence"],
+  ["debate", "State"],
+  ["ausência", "State"],
+  ["lido", "Occurrence"],
+  ["anunciar", "Reporting"],
+  ["chegar", "Occurrence"],
+  ["rearrumar", "Action"],
+  ["discursar", "Action"]
+]

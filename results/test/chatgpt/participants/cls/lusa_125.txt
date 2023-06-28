@@ -1,0 +1,11 @@
+[
+  ["Covid-19", "Other"],
+  ["GNR", "Organization"],
+  ["São Brás de Alportel", "Location"],
+  ["sábado", "Other"],
+  ["Corotelo", "Location"],
+  ["Comando Territorial de Faro da GNR", "Organization"],
+  ["Posto Territorial de São de Alportel", "Organization"],
+  ["pandemia de covid-19", "Other"],
+  ["proprietário", "Person"]
+]

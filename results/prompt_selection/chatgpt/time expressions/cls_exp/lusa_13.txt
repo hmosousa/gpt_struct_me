@@ -1,0 +1,1 @@
+[["25 de novembro", "Date"], ["San Isidro", "Set"], ["Trimarchi", "Set"], ["Maradona", "Set"], ["San André", "Set"], ["Buenos Aires", "Set"], ["Leopoldo Luque", "Set"], ["Maradona", "Set"], ["novembro", "Time"], ["Agustina Cosachov", "Set"], ["dois dias após a morte de Maradona", "Duration"], ["60 anos", "Duration"]]

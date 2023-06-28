@@ -1,0 +1,1 @@
+[["Casa Branca", "Organization"], ["Síria", "Location"], ["EUA", "Location"], ["Donald Trump", "Person"], ["Kash Patel", "Person"], ["Austin Tice", "Person"], ["Texas", "Location"], ["Majd Kamalmaz", "Person"], ["Virgínia", "Location"], ["Damasco", "Location"]]

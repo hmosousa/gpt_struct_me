@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["no domingo à noite", "Time"], ["quase uma década", "Duration"]]

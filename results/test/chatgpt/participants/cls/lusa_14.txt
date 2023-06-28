@@ -1,0 +1,11 @@
+[
+  ["Autoridades judiciais", "Organization"],
+  ["Maximiliano Trimarchi", "Person"],
+  ["Diego Maradona", "Person"],
+  ["procuradoria-geral de San Isidro", "Organization"],
+  ["San André", "Location"],
+  ["Buenos Aires", "Location"],
+  ["polícia", "Organization"],
+  ["Leopoldo Luque", "Person"],
+  ["Agustina Cosachov", "Person"]
+]

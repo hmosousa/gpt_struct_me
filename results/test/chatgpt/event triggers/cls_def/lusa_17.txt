@@ -1,0 +1,14 @@
+[
+  ["sofre", "Occurrence"],
+  ["queimaduras", "State"],
+  ["incêndio", "Occurrence"],
+  ["casa", "State"],
+  ["alerta", "Reporting"],
+  ["combate", "Occurrence"],
+  ["chamas", "State"],
+  ["Assistido", "Intensional Action"],
+  ["conduzido", "Intensional Action"],
+  ["consumiu", "Occurrence"],
+  ["extinto", "State"],
+  ["Proteção Civil", "State"]
+]

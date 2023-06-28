@@ -1,0 +1,1 @@
+[["hoje à tarde", "Date"], ["em estado de coma", "Set"], ["proibido o consumo de álcool na via pública", "Time"]]

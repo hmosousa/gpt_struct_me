@@ -1,0 +1,10 @@
+[
+  ["Homem", "Person"],
+  ["Tondela", "Location"],
+  ["Fráguas", "Location"],
+  ["GNR", "Organization"],
+  ["Comando Territorial da GNR de Viseu", "Organization"],
+  ["Viseu", "Location"],
+  ["Instituto Nacional de Medicina Legal", "Organization"],
+  ["Comando Distrital de Operações de Socorro de Viseu", "Organization"]
+]

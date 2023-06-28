@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Transportadora J Amaral", "Organization"], ["GNR de Aveiro", "Organization"], ["Joaquim Rebelo", "Person"], ["cisterna", "Object"], ["Estarreja", "Location"], ["Delegada de Saúde", "Organization"], ["Polícia Judiciária", "Organization"], ["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"], ["Hospital Infante D. Pedro", "Facility"]]

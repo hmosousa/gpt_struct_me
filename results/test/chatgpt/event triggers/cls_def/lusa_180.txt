@@ -1,0 +1,22 @@
+[
+["prisão preventiva", "State"],
+["indiciou", "Reporting"],
+["obrigar", "Intensional Action"],
+["prostituir-se", "Intensional Action"],
+["deteve", "Occurrence"],
+["juiz de instrução", "Reporting"],
+["indicação", "Reporting"],
+["colocada", "State"],
+["instituição de acolhimento", "State"],
+["exploração sexual", "Aspectual"],
+["fugiu", "Occurrence"],
+["localizada", "Occurrence"],
+["obrigada", "Intensional Action"],
+["convencida", "Intensional State"],
+["promessa", "Intensional State"],
+["dependente", "Intensional State"],
+["indicar", "Reporting"],
+["tráfico de pessoas para exploração sexual", "Aspectual"],
+["sequestro", "Aspectual"],
+["violação", "Aspectual"]
+]

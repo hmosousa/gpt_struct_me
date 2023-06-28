@@ -1,0 +1,12 @@
+[
+  ["feriu", "Occurrence"],
+  ["disparos", "Occurrence"],
+  ["parar", "Intensional Action"],
+  ["atingido", "Occurrence"],
+  ["desobedecer", "Intensional Action"],
+  ["disparos de intimidação", "Occurrence"],
+  ["detido", "Intensional State"],
+  ["fixação das medidas de coação", "State"],
+  ["envolveu", "Occurrence"],
+  ["informada", "Reporting"]
+]

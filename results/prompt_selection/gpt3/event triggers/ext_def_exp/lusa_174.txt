@@ -1,0 +1,1 @@
+["encontrado", "morto", "cisterna", "camião", "Estarreja", "dado", "manutenção", "desaparecido", "acrescentou", "conseguiu", "determinar", "causa", "morte", "compareceu", "tomou", "conta", "Viatura", "Emergência", "Reanimação", "transporte", "cadáver", "Hospital", "Infante"]

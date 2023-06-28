@@ -1,0 +1,10 @@
+[
+  ["morre", "Occurrence"],
+  ["acidente de trabalho", "State"],
+  ["queda em altura", "State"],
+  ["trabalhava", "State"],
+  ["falecer", "Occurrence"],
+  ["transportada", "State"],
+  ["acionado", "State"],
+  ["tomou conta", "Reporting"]
+]

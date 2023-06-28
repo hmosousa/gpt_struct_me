@@ -1,0 +1,1 @@
+["encontrado morto", "alerta", "fazendo a manutenção", "desaparecido", "cisterna aberta", "causa da morte", "Delegada de Saúde", "Polícia Judiciária", "transporte do cadáver"]

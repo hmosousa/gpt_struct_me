@@ -1,0 +1,1 @@
+[["Soumaila Cissé", "State"], ["morreu hoje em França", "Occurrence"], ["morreu", "Intensional Action"], ["covid-19", "Aspectual"], ["libertado", "Intensional Action"], ["libertado em outubro", "Occurrence"], ["seis meses de cativeiro", "State"], ["nenhuma violência", "Perception"], ["ficou em segundo lugar", "Reporting"]]

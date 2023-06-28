@@ -1,0 +1,14 @@
+[
+  ["39 anos", "Age"],
+  ["Penafiel", "Location"],
+  ["Porto", "Location"],
+  ["42 anos", "Age"],
+  ["hoje", "Date"],
+  ["vigilância eletrónica", "Duration"],
+  ["separação", "Date"],
+  ["residência", "Set"],
+  ["local de trabalho", "Set"],
+  ["medida de proteção por teleassistência", "Duration"],
+  ["antecedentes criminais", "Set"],
+  ["mesma natureza", "Set"]
+]

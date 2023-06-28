@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Alcobaça", "Location"], ["Fervença", "Location"], ["Maiorga", "Location"], ["GNR", "Organization"], ["Diogo Morgado", "Person"], ["Destacamento Territorial das Caldas da Rainha da GNR", "Organization"], ["Polícia Judiciária", "Organization"], ["Leiria", "Location"], ["Medicina Legal de Leiria", "Facility"], ["Polícia Judiciária de Leiria", "Organization"]]

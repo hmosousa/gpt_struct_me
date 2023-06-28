@@ -1,0 +1,14 @@
+[
+["25 de novembro", "Date"],
+["hoje", "Date"],
+["novembro", "Date"],
+["dois dias após", "Duration"],
+["buscas", "Set"],
+["perícias", "Set"],
+["seguintes unidades de tempo", "Set"],
+["tempo", "Set"],
+["quando", "Set"],
+["na sua casa", "Set"],
+["no início de novembro", "Date"],
+["60 anos", "Duration"]
+]

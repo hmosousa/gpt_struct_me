@@ -1,0 +1,1 @@
+["morreu", "colisão", "registada", "freguesia", "concelho", "indicou", "Comando", "Operações", "Socorros", "Braga", "acidente", "automóveis", "registado", "vítima", "condutor", "veículos", "registado", "ferido", "transportado", "Hospital", "adiantou", "Bombeiros", "Voluntários", "Viatodos"]

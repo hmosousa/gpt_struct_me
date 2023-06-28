@@ -1,0 +1,1 @@
+["alerta foi dado", "homem encontrado morto", "cisterna aberta", "Delegada de Saúde compareceu", "Polícia Judiciária tomou conta", "Viatura Médica de Emergência e Reanimação de Aveiro fez transporte"]

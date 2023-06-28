@@ -1,0 +1,1 @@
+[["no dia de Natal", "Date"], ["hoje", "Date"], ["de 26 anos", "Duration"], ["de 46 anos", "Duration"], ["de 12 anos", "Duration"], ["no dia de Natal", "Date"], ["os objetos utilizados para as ameaças", "Duration"], ["com antecedentes criminais", "Duration"], ["a primeiro interrogatório", "Time"], ["prisão preventiva", "Set"]]

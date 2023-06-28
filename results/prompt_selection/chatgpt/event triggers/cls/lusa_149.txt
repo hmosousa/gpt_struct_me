@@ -1,0 +1,17 @@
+[
+  ["aprova", "Occurrence"],
+  ["aceitarem", "Occurrence"],
+  ["aprovou", "Occurrence"],
+  ["salvação", "State"],
+  ["redução", "State"],
+  ["congelado", "State"],
+  ["recusa", "State"],
+  ["cedido", "State"],
+  ["emprestar", "Intensional Action"],
+  ["revela", "Reporting"],
+  ["prevê", "Aspectual"],
+  ["suprimir", "Intensional Action"],
+  ["afetados", "Intensional State"],
+  ["perdeu", "Occurrence"],
+  ["lucro", "State"]
+]

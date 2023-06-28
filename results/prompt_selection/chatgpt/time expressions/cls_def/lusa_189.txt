@@ -1,0 +1,9 @@
+[
+  ["hoje", "Date"],
+  ["48 anos", "Duration"],
+  ["17 horas", "Time"],
+  ["meios dos bombeiros de Mogadouro", "Set"],
+  ["ambulância de Suporte Imediato de Vida (SIV)", "Set"],
+  ["Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)", "Set"],
+  ["helicóptero do INEM estacionado em Macedo de Cavaleiros", "Set"]
+]

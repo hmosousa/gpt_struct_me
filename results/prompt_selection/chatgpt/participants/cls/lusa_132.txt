@@ -1,0 +1,13 @@
+[
+  ["GNR", "Organization"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["ria de Aveiro", "Location"],
+  ["crustáceos", "Nature"],
+  ["enguia-europeia", "Nature"],
+  ["força militar", "Organization"],
+  ["patrulhamento fluvial", "Object"],
+  ["pescado", "Nature"],
+  ["segurança marítima", "Object"],
+  ["Guarda", "Organization"],
+  ["Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção", "Organization"]
+]

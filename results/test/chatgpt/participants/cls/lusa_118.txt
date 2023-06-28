@@ -1,0 +1,14 @@
+[
+  ["Arcos de Valdevez", "Location"],
+  ["condutor", "Person"],
+  ["Hospital de Braga", "Facility"],
+  ["Estrada Nacional 101", "Object"],
+  ["carro", "Object"],
+  ["Filipe Guimarães", "Person"],
+  ["viatura ‘tunning’", "Object"],
+  ["poste", "Object"],
+  ["testemunhas oculares", "Person"],
+  ["Hospital de Viana do Castelo", "Facility"],
+  ["freguesia de São Paio e Giela", "Location"],
+  ["óleo", "Nature"]
+]

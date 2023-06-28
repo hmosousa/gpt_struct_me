@@ -1,0 +1,1 @@
+[["morre", "Occurrence"], ["despiste", "Occurrence"], ["automóvel", "State"], ["Marvão", "State"], ["óbito", "Occurrence"], ["veículo", "State"], ["passageiros", "State"], ["acidente", "Occurrence"], ["alerta", "Reporting"], ["bombeiros", "State"], ["corporação", "State"], ["VMER", "State"], ["GNR", "State"], ["elementos", "State"], ["viaturas", "State"]]

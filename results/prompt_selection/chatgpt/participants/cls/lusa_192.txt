@@ -1,0 +1,12 @@
+[
+  ["Homem", "Person"],
+  ["Arroios", "Location"],
+  ["Lisboa", "Location"],
+  ["PSP", "Organization"],
+  ["Comando Metropolitano de Lisboa", "Organization"],
+  ["Ângela Pinto", "Location"],
+  ["Cometlis", "Organization"],
+  ["arma branca", "Object"],
+  ["Avenida Almirante Reis", "Location"],
+  ["Polícia Judiciária", "Organization"]
+]

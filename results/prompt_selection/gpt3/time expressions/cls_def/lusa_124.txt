@@ -1,0 +1,1 @@
+[["sábado à noite", "Time"], ["21:40", "Time"], ["cerca das 21:40", "Time"], ["23:30", "Time"], ["pelas 23:30", "Time"]]

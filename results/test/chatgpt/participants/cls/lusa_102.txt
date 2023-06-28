@@ -1,0 +1,18 @@
+[
+  ["Homem", "Person"],
+  ["Óbidos", "Location"],
+  ["Guarda Nacional Republicana", "Organization"],
+  ["quarta-feira", "Other"],
+  ["GNR", "Organization"],
+  ["autoridade", "Other"],
+  ["militares", "Other"],
+  ["Posto Territorial de Óbidos", "Facility"],
+  ["Núcleo de Proteção Ambiental das Caldas da Rainha", "Facility"],
+  ["crime", "Other"],
+  ["Tribunal das Caldas da Rainha", "Facility"],
+  ["espingarda de caça", "Object"],
+  ["cartuchos de calibre 12", "Object"],
+  ["materiais", "Object"],
+  ["acessórios", "Object"],
+  ["caça", "Nature"]
+]

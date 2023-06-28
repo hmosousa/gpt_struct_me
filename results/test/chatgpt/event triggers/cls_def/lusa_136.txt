@@ -1,0 +1,12 @@
+[
+["apreendeu", "Occurrence"],
+["informou", "Reporting"],
+["foram apreendidos", "Occurrence"],
+["detetada", "Perception"],
+["intercetada", "Occurrence"],
+["encetaram fuga", "Aspectual"],
+["informadas", "Reporting"],
+["foi detetada", "Perception"],
+["ação de vigilância e patrulhamento", "Intensional Action"],
+["remetidos", "Intensional Action"]
+]

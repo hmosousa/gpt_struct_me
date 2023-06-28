@@ -1,0 +1,14 @@
+[
+  ["48 anos", "Duration"],
+  ["hoje", "Date"],
+  ["Vilarinhos dos Galegos", "Set"],
+  ["Concelho de Mogadouro", "Set"],
+  ["distrito de Bragança", "Set"],
+  ["queda em altura", "Duration"],
+  ["17 horas", "Time"],
+  ["bombeiros de Mogadouro", "Set"],
+  ["ambulância de Suporte Imediato de Vida (SIV)", "Set"],
+  ["Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)", "Set"],
+  ["Macedo de Cavaleiros", "Set"],
+  ["GNR de Mogadouro", "Set"]
+]

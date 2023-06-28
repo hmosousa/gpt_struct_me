@@ -1,0 +1,1 @@
+[["homem de 26 anos", "Person"], ["mãe de 46 anos", "Person"], ["irmã de 12 anos", "Person"], ["GNR", "Organization"], ["Guarda", "Organization"], ["Tribunal Judicial de Seia", "Facility"], ["machada", "Object"], ["navalha", "Object"], ["objetos", "Object"], ["Foz Côa", "Location"], ["Natal", "Nature"], ["ilícitos", "Other"]]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["Manhattan", "Set"], ["Nova Iorque", "Set"], ["Estados Unidos", "Set"], ["16:00 locais", "Time"], ["21:00 em Lisboa", "Time"]]

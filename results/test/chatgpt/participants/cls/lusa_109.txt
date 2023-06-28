@@ -1,0 +1,16 @@
+[
+  ["Agente da polícia", "Person"],
+  ["colega", "Person"],
+  ["Maputo", "Location"],
+  ["polícia moçambicana", "Organization"],
+  ["Lusa", "Organization"],
+  ["corporação", "Organization"],
+  ["Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "Organization"],
+  ["Magude", "Location"],
+  ["zona protegida", "Nature"],
+  ["Juarce Martins", "Person"],
+  ["quinta-feira", "Other"],
+  ["processos", "Other"],
+  ["crime", "Other"],
+  ["comando", "Organization"]
+]

@@ -1,0 +1,1 @@
+[["dia 16 de maio de 2020", "Date"], ["pelos 04:20", "Time"], ["por volta das 06:00", "Time"], ["até cinco anos", "Duration"]]

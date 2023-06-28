@@ -1,0 +1,1 @@
+["homem", "ciclomotor", "veículo ligeiro", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "Lusa", "Hospital de São Bernardo", "bombeiros", "corporações de Palmela", "Sapadores de Setúbal", "viatura médica de emergência e reanimação", "VMER", "elementos"]

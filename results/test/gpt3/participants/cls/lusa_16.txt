@@ -1,0 +1,1 @@
+[["Desabamento de casa", "Object"], ["Índia", "Location"], ["Hyderabad", "Location"], ["pessoas", "Person"], ["muro", "Object"], ["chuva", "Nature"], ["recorde", "Other"], ["inundações", "Nature"], ["autoridades", "Organization"], ["barcos", "Facility"], ["sul da Ásia", "Location"], ["Índia", "Location"], ["Bangladesh", "Location"], ["Nepal", "Location"], ["enchentes", "Nature"]]

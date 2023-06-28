@@ -1,0 +1,21 @@
+[
+  ["Homem de 48 anos", "Person"],
+  ["Mogadouro", "Location"],
+  ["Vilarinhos dos Galegos", "Location"],
+  ["Concelho de Mogadouro", "Location"],
+  ["distrito de Bragança", "Location"],
+  ["Lusa", "Organization"],
+  ["bombeiros", "Organization"],
+  ["obra de construção civil", "Facility"],
+  ["ambulância", "Object"],
+  ["campo de futebol", "Facility"],
+  ["hospital de referência", "Facility"],
+  ["comandante dos bombeiros de Mogadouro", "Person"],
+  ["José Carrasco", "Person"],
+  ["Suporte Imediato de Vida (SIV)", "Facility"],
+  ["Viatura Medica de Emergência e Reanimação (VMER)", "Facility"],
+  ["Instituto Nacional e Emergência Médica (INEM)", "Organization"],
+  ["helicóptero do INEM", "Object"],
+  ["Macedo de Cavaleiros", "Location"],
+  ["GNR de Mogadouro", "Organization"]
+]

@@ -1,0 +1,14 @@
+[
+["condena", "Reporting"],
+["violação", "Occurrence"],
+["condenou", "Reporting"],
+["acolheu", "Intensional Action"],
+["trabalhar", "Occurrence"],
+["abordou", "Intensional Action"],
+["prendeu", "Intensional Action"],
+["manteve", "Intensional Action"],
+["exclui", "Reporting"],
+["suspender", "Intensional Action"],
+["prisão", "State"],
+["apresentava", "Intensional State"]
+]

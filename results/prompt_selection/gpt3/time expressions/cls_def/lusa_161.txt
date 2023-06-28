@@ -1,0 +1,1 @@
+[["2017", "Date"], ["2016", "Date"], ["10 anos", "Duration"], ["primeiro em Braga e depois em Amares", "Set"], ["entre 2017 e 2019", "Duration"], ["05 de outubro", "Date"]]

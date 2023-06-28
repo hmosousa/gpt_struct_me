@@ -1,0 +1,1 @@
+[["00:00", "Time"], ["52 anos", "Duration"], ["antes das 00:00", "Time"], ["hoje", "Date"], ["hoje", "Set"], ["posto da GNR em Cabeceiras", "Set"], ["Polícia Judiciária", "Set"], ["unidade hospitalar", "Set"], ["juiz de instrução", "Set"]]

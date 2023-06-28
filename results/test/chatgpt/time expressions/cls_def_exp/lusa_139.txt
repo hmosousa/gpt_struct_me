@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["73 anos", "Duration"], ["distrito do Porto", "Time"], ["crime de violência doméstica", "Time"], ["físicos e psicológicos", "Time"], ["armas brancas", "Time"], ["antecedentes criminais", "Time"], ["sábado", "Date"], ["primeiro interrogatório", "Time"], ["Tribunal Judicial do Porto", "Time"]]

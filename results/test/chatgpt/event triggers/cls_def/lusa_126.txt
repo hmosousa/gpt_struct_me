@@ -1,0 +1,9 @@
+[
+  ["apreende", "Occurrence"],
+  ["detém", "Occurrence"],
+  ["procediam", "Occurrence"],
+  ["detetadas", "Occurrence"],
+  ["acionados", "Occurrence"],
+  ["intercetada", "Occurrence"],
+  ["encontravam-se", "State"]
+]

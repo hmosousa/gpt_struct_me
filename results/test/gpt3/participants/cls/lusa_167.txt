@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Tondela", "Location"], ["GNR", "Organization"], ["Viseu", "Location"], ["berma da via", "Facility"], ["ribeira", "Location"], ["Instituto Nacional de Medicina Legal", "Organization"], ["Comando Distrital de Operações de Socorro de Viseu", "Organization"], ["nove operacionais", "Person"], ["quatro veículos", "Object"]]

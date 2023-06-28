@@ -1,0 +1,1 @@
+["mata", "disparo", "detido", "suicídio", "crime", "terminar", "relação", "passou"]

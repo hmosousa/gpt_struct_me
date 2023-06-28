@@ -1,0 +1,1 @@
+[["na quinta-feira", "Date"], ["20 quilos", "Duration"], ["em vias de extinção", "Time"], ["Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção (CITES)", "Time"], ["sem qualquer licenciamento", "Time"], ["60 mil euros", "Duration"], ["vivos", "Time"], ["ao meio natural", "Time"]]

@@ -1,0 +1,16 @@
+[
+  ["morre", "Occurrence"],
+  ["desordem com arma de fogo", "State"],
+  ["morreu", "Occurrence"],
+  ["ferido", "State"],
+  ["encontradas feridas", "State"],
+  ["transportada", "Occurrence"],
+  ["socorrida", "Occurrence"],
+  ["morrer", "Occurrence"],
+  ["reverter a situação dos ferimentos", "Intensional Action"],
+  ["alerta foi dado", "Reporting"],
+  ["levadas a cabo diligências", "Intensional Action"],
+  ["crime de homicídio", "State"],
+  ["investigação", "Intensional State"],
+  ["a cargo da Polícia Judiciária", "State"]
+]

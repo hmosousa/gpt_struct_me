@@ -1,0 +1,1 @@
+[["Corpo de homem", "Object"], ["Lagoa", "Location"], ["Algarve", "Location"], ["Estaquinha", "Location"], ["Faro", "Location"], ["Estação Salva-vidas de Ferragudo", "Facility"], ["Portimão", "Location"], ["delegada de saúde de Lagoa", "Person"], ["gabinete de medicina legal de Portimão", "Facility"], ["Polícia Marítima de Portimão", "Organization"]]

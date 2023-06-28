@@ -1,0 +1,20 @@
+[
+["Detido", "Reporting"],
+["matou", "Intensional Action"],
+["vingar", "Intensional Action"],
+["disseram", "Reporting"],
+["procuradores", "Reporting"],
+["detido", "State"],
+["foi detido", "State"],
+["homicídio", "Occurrence"],
+["pancada", "Occurrence"],
+["telefonou", "Reporting"],
+["chamou", "Reporting"],
+["fugiu", "Occurrence"],
+["enviado", "State"],
+["acusado", "State"],
+["discutiu", "Occurrence"],
+["matou", "Intensional Action"],
+["causar", "Intensional Action"],
+["declaração", "Reporting"]
+]

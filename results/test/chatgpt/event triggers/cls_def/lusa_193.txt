@@ -1,0 +1,14 @@
+[
+["condenou", "Reporting"],
+["matou", "Occurrence"],
+["condenado", "State"],
+["encontrada", "State"],
+["acusado", "State"],
+["condenado", "State"],
+["absolvido", "State"],
+["vinha acusado", "State"],
+["explicou", "Reporting"],
+["produzida", "State"],
+["decidiu condenar", "Intensional Action"],
+["pagar", "Intensional Action"]
+]

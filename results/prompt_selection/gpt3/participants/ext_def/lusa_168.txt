@@ -1,0 +1,1 @@
+["homem", "andaime", "Ponte de Lima", "Carlos Lima", "Suporte Imediato de Vida (SIV)", "Braga", "Bombeiros de Ponte de Lima", "freguesia de Ribeira", "Comando Distrital de Operações de Socorro (CDOS)", "SIV", "viatura dos bombeiros", "Viatura de Emergência Médica (VMER)", "Viana do Castelo", "GNR"]

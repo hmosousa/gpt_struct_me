@@ -1,0 +1,1 @@
+[["hoje de madrugada", "Date"], ["17 anos", "Duration"], ["00:53", "Time"], ["Hospital Professor Doutor Fernando Fonseca", "Set"], ["crime", "Time"], ["Polícia Judiciária", "Set"]]

@@ -1,0 +1,1 @@
+["hoje", "início da madrugada", "19:30", "meia-noite", "domingo", "manhã de domingo"]

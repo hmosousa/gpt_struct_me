@@ -1,0 +1,10 @@
+[
+  ["acusou", "Reporting"],
+  ["falsificado", "Occurrence"],
+  ["receber", "Intensional Action"],
+  ["incluiu", "Intensional Action"],
+  ["concluiu", "Reporting"],
+  ["recebeu", "Occurrence"],
+  ["ordenado", "Intensional Action"],
+  ["substituíssem", "Intensional Action"]
+]

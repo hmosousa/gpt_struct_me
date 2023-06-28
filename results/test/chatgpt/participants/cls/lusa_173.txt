@@ -1,0 +1,23 @@
+[
+  ["homem", "Person"],
+  ["mar", "Location"],
+  ["Lagoa", "Location"],
+  ["Algarve", "Location"],
+  ["homem", "Person"],
+  ["Autoridade Marítima", "Organization"],
+  ["autoridades", "Organization"],
+  ["pescador", "Person"],
+  ["pesca lúdica", "Other"],
+  ["arriba", "Nature"],
+  ["praia", "Location"],
+  ["Lagoa", "Location"],
+  ["Faro", "Location"],
+  ["alerta", "Other"],
+  ["Estação Salva-vidas de Ferragudo", "Facility"],
+  ["corpo", "Object"],
+  ["marina de Portimão", "Facility"],
+  ["óbito", "Other"],
+  ["delegada de saúde de Lagoa", "Organization"],
+  ["gabinete de medicina legal de Portimão", "Facility"],
+  ["Polícia Marítima de Portimão", "Organization"]
+]

@@ -1,0 +1,1 @@
+["atingido", "morreu", "cortar", "atingido", "alerta", "mobilizados", "declarado", "tomou conta"]

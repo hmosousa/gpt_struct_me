@@ -1,0 +1,1 @@
+[["hoje à tarde", "Date"], ["de acordo com a mesma fonte", "Time"]]

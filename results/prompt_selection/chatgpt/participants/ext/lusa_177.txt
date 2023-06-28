@@ -1,0 +1,1 @@
+["Homem", "PSP", "Proteção Civil", "Fonte do Comando Distrital de Operações de Socorro", "CDOS", "Lusa", "Hospital de São Bernardo", "bombeiros", "corporações de Palmela", "Sapadores de Setúbal", "viatura médica de emergência e reanimação", "VMER"]

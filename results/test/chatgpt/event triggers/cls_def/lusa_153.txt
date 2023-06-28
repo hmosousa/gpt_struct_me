@@ -1,0 +1,18 @@
+[
+  ["lamenta", "Reporting"],
+  ["incêndio", "Occurrence"],
+  ["registado", "State"],
+  ["lamentou", "Reporting"],
+  ["morte", "Occurrence"],
+  ["informa", "Reporting"],
+  ["deslocou", "Intensional Action"],
+  ["constatar", "Intensional Action"],
+  ["danos", "State"],
+  ["causados", "State"],
+  ["afetou", "State"],
+  ["transferir", "Intensional Action"],
+  ["pacientes", "Aspectual"],
+  ["transferidos", "State"],
+  ["colocados", "State"],
+  ["obras", "State"]
+]

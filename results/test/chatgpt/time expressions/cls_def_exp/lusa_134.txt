@@ -1,0 +1,1 @@
+[["na segunda-feira", "Date"], ["77 quilos", "Set"], ["313 quilos", "Set"], ["interdita", "Time"], ["uma coima até 37.500 euros", "Duration"]]

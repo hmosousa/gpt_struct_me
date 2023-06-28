@@ -1,0 +1,12 @@
+[
+["deteta", "Occurrence"],
+["anunciou", "Reporting"],
+["detetou", "Occurrence"],
+["informa", "Reporting"],
+["estavam", "State"],
+["foram confrontados", "State"],
+["resultando", "State"],
+["elaboração", "Intensional Action"],
+["punível", "Intensional State"],
+["acrescenta", "Reporting"]
+]

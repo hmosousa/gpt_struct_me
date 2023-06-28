@@ -1,0 +1,19 @@
+[
+["deslocar-se", "Occurrence"],
+["visita", "Occurrence"],
+["conversações", "Occurrence"],
+["libertação", "State"],
+["dados como desaparecidos", "State"],
+["divulgada", "Reporting"],
+["citar", "Reporting"],
+["procurar obter", "Intensional Action"],
+["obter", "Intensional Action"],
+["libertação", "State"],
+["desaparecer", "Occurrence"],
+["cobrir", "Intensional Action"],
+["considerar", "Intensional State"],
+["detido", "State"],
+["visitas confirmadas", "State"],
+["encerramento", "State"],
+["regresso", "Occurrence"]
+]

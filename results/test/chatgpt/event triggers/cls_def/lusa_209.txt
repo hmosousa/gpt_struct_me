@@ -1,0 +1,10 @@
+[
+  ["aterra", "Occurrence"],
+  ["falha no motor", "State"],
+  ["alerta", "Reporting"],
+  ["motor parado", "State"],
+  ["aterragem de emergência", "Occurrence"],
+  ["aterrado", "State"],
+  ["pertence", "Intensional State"],
+  ["fazia a ligação", "Intensional Action"]
+]

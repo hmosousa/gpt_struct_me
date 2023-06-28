@@ -1,0 +1,8 @@
+[
+  ["identificou", "Occurrence"],
+  ["apreendeu", "Aspectual"],
+  ["elaborou", "Intensional Action"],
+  ["decorreu", "Occurrence"],
+  ["apreendido", "Aspectual"],
+  ["remetidos", "Intensional State"]
+]

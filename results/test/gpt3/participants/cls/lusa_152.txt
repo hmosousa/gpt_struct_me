@@ -1,0 +1,1 @@
+[["Governo de Jacarta", "Organization"], ["Indonésia", "Location"], ["FPI", "Organization"], ["Mohammad Mahfud", "Person"], ["Frente de Defesa Islâmica", "Organization"], ["Indonésia", "Location"], ["sharia", "Nature"], ["Rizieg Shihab", "Person"]]

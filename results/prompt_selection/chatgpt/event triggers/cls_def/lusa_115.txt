@@ -1,0 +1,12 @@
+[
+["devolvidos", "Occurrence"],
+["anunciou", "Reporting"],
+["entregues", "Occurrence"],
+["incluindo", "Aspectual"],
+["são", "State"],
+["situado", "State"],
+["referiu", "Reporting"],
+["passam a integrar", "Occurrence"],
+["adotadas", "Intensional Action"],
+["garantam", "Intensional Action"]
+]

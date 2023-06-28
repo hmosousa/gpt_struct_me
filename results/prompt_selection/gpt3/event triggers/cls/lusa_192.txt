@@ -1,0 +1,1 @@
+[["morre", "Occurrence"], ["esfaqueado", "Occurrence"], ["desentendimento", "Occurrence"], ["óbito", "State"], ["arma branca", "Aspectual"], ["suspeito", "Reporting"], ["crime", "Perception"], ["homicídio", "Intensional Action"], ["Polícia Judiciária", "Intensional State"]]

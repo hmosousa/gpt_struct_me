@@ -1,0 +1,16 @@
+[
+  ["Mulher", "Person"],
+  ["mariscadores", "Organization"],
+  ["Murtosa", "Location"],
+  ["Aveiro", "Location"],
+  ["Bombeiros", "Organization"],
+  ["GNR", "Organization"],
+  ["cais da Torreira", "Location"],
+  ["viatura", "Object"],
+  ["bivalves", "Object"],
+  ["pescadores", "Person"],
+  ["senhora", "Person"],
+  ["Hospital de Aveiro", "Facility"],
+  ["coliformes fecais", "Nature"],
+  ["águas da ria de Aveiro", "Nature"]
+]

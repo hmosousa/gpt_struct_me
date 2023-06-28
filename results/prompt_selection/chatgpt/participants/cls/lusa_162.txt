@@ -1,0 +1,17 @@
+[
+  ["Homem", "Person"],
+  ["ex-companheira", "Person"],
+  ["Vila Nova de Gaia", "Location"],
+  ["disparo", "Object"],
+  ["arma de fogo", "Object"],
+  ["GNR", "Organization"],
+  ["Comando Territorial da GNR do Porto", "Organization"],
+  ["Lusa", "Organization"],
+  ["Rua da Figueirinha", "Location"],
+  ["Grijó", "Location"],
+  ["Porto", "Location"],
+  ["vítima", "Person"],
+  ["relação", "Object"],
+  ["10 anos", "Other"],
+  ["Polícia Judiciária", "Organization"]
+]

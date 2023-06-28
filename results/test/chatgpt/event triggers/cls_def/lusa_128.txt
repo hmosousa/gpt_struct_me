@@ -1,0 +1,13 @@
+[
+  ["encerrou", "Occurrence"],
+  ["reunia", "State"],
+  ["detetaram", "Perception"],
+  ["funcionar", "State"],
+  ["ocorreu", "Occurrence"],
+  ["fiscalização", "Aspectual"],
+  ["cumprimento", "Intensional Action"],
+  ["identificada", "Intensional State"],
+  ["terminar", "Intensional Action"],
+  ["elaboração", "Occurrence"],
+  ["contraordenação", "State"]
+]

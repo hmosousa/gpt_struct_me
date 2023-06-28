@@ -1,0 +1,13 @@
+[
+  ["Cabeceiras de Basto", "Date"],
+  ["00:00", "Time"],
+  ["52 anos", "Duration"],
+  ["balas de borracha", "Set"],
+  ["munições reais", "Set"],
+  ["Refojos de Basto", "Date"],
+  ["Braga", "Date"],
+  ["detido", "Date"],
+  ["hoje", "Date"],
+  ["juiz de instrução", "Date"],
+  ["Polícia Judiciária", "Date"]
+]

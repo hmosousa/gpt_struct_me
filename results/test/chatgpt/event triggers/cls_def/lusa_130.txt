@@ -1,0 +1,9 @@
+[
+  ["apreendeu", "Occurrence"],
+  ["identificado", "Reporting"],
+  ["elaborado", "Occurrence"],
+  ["ocorreu", "Occurrence"],
+  ["detetado", "Perception"],
+  ["apreendeu", "Occurrence"],
+  ["devolvida", "Intensional Action"]
+]

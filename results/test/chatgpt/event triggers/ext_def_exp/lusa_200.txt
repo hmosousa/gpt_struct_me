@@ -1,0 +1,1 @@
+["morreu", "cair", "telhado", "limpar", "acidente", "compareceram"]

@@ -1,0 +1,13 @@
+[
+  ["atropela", "Occurrence"],
+  ["manifestação", "State"],
+  ["Black Lives Matter", "State"],
+  ["Nova Iorque", "State"],
+  ["feridos", "State"],
+  ["transportados", "Occurrence"],
+  ["detido", "Intensional Action"],
+  ["incidente", "State"],
+  ["mortos", "State"],
+  ["bombeiros", "State"],
+  ["ambulâncias", "State"]
+]

@@ -1,0 +1,10 @@
+[
+  ["GNR", "Organization"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["UCC", "Organization"],
+  ["GNR", "Organization"],
+  ["Sistema Integrado de Vigilância e Comando e Controlo", "Object"],
+  ["UCC", "Organization"],
+  ["GNR", "Organization"],
+  ["GNR", "Organization"]
+]

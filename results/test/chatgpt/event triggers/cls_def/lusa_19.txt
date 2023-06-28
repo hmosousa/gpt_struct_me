@@ -1,0 +1,9 @@
+[
+  ["fogo posto", "Intensional Action"],
+  ["incêndio", "Occurrence"],
+  ["casa desabitada", "State"],
+  ["Câmara de Lobos", "State"],
+  ["habitação", "State"],
+  ["danos provocados pelo fogo", "State"],
+  ["Bombeiros de Câmara de Lobos", "Reporting"]
+]

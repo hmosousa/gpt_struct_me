@@ -1,0 +1,15 @@
+[
+  ["GNR", "Organization"],
+  ["caçadeira", "Object"],
+  ["pistola", "Object"],
+  ["armas de ar comprimido", "Object"],
+  ["coldre", "Object"],
+  ["Felgueiras", "Location"],
+  ["Porto", "Location"],
+  ["violência doméstica", "Nature"],
+  ["Guarda", "Organization"],
+  ["vítima", "Person"],
+  ["companheiro", "Person"],
+  ["munições", "Object"],
+  ["Tribunal Judicial de Felgueiras", "Organization"]
+]

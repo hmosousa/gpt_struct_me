@@ -1,0 +1,1 @@
+["detidos", "disparado", "armas de fogo", "feridos", "danos", "viaturas estacionadas", "avançou", "explicou", "incidente", "fuga", "intercetados", "detidos", "registar", "invólucros de balas", "suspeitos", "posse", "carregador", "munições", "detido", "entregue"]

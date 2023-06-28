@@ -1,0 +1,23 @@
+[
+  ["Edifício da Luanda Medical Center", "Facility"],
+  ["hotel", "Facility"],
+  ["projeto imobiliário", "Object"],
+  ["Estado", "Location"],
+  ["Procuradoria-Geral da República", "Organization"],
+  ["Angola", "Location"],
+  ["Serviço Nacional de Recuperação de Ativos", "Organization"],
+  ["clínica Luanda Medical Center", "Facility"],
+  ["hotéis Monalisa Residence", "Facility"],
+  ["Talatona", "Location"],
+  ["projeto imobiliário Torres Eucaliptos", "Object"],
+  ["edifício Instituto Sapiens", "Facility"],
+  ["Rua Amílcar Cabral", "Location"],
+  ["distrito da Ingombota", "Location"],
+  ["Méssene – Investimentos Limitada", "Organization"],
+  ["Heavy Group – Investimentos Limitada", "Organization"],
+  ["Universal Sabedoria", "Organization"],
+  ["Instituto Nacional de Segurança Social", "Organization"],
+  ["empresas privadas", "Organization"],
+  ["Estado", "Location"],
+  ["PGR", "Organization"]
+]

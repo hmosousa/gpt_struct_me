@@ -1,0 +1,12 @@
+[
+  ["Homem de 61 anos", "Person"],
+  ["Portalegre", "Location"],
+  ["automóvel", "Object"],
+  ["Carreiras", "Location"],
+  ["Lusa", "Organization"],
+  ["GNR", "Organization"],
+  ["Polícia Judiciária", "Organization"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["óbito", "Nature"],
+  ["serviço de Medicina Legal do hospital de Portalegre", "Facility"]
+]

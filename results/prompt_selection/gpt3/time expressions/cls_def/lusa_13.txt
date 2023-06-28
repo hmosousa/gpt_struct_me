@@ -1,0 +1,1 @@
+[["25 de novembro", "Date"], ["hoje", "Date"], ["Maximiliano Trimarchi", "Set"], ["telefone", "Set"], ["Leopoldo Luque", "Set"], ["Agustina Cosachov", "Set"], ["início de novembro", "Date"], ["60 anos", "Duration"]]

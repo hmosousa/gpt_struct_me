@@ -1,0 +1,1 @@
+["hoje", "segunda-feira", "05:30", "segunda-feira", "72 anos", "74 anos"]

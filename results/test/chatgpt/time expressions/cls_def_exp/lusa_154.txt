@@ -1,0 +1,1 @@
+[["terça-feira", "Date"], ["na quarta-feira", "Date"], ["primeiro interrogatório judicial", "Time"], ["prisão preventiva", "Duration"]]

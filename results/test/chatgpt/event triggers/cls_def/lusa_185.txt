@@ -1,0 +1,13 @@
+[
+  ["morreu", "Occurrence"],
+  ["cair", "Occurrence"],
+  ["trabalhava", "State"],
+  ["caído", "State"],
+  ["disse", "Reporting"],
+  ["teria", "Reporting"],
+  ["estava", "State"],
+  ["sido", "State"],
+  ["declarado", "Reporting"],
+  ["mobilizada", "Reporting"],
+  ["tomou", "Reporting"]
+]

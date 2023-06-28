@@ -1,0 +1,14 @@
+[
+  ["Homem de Amarante", "Person"],
+  ["mulher", "Person"],
+  ["GNR", "Organization"],
+  ["Tribunal de Instrução Criminal", "Organization"],
+  ["Penafiel", "Location"],
+  ["filha", "Person"],
+  ["bebidas alcoólicas", "Object"],
+  ["maus-tratos", "Nature"],
+  ["residência", "Facility"],
+  ["familiares", "Person"],
+  ["medidas de coação", "Other"],
+  ["pulseira eletrónica", "Object"]
+]

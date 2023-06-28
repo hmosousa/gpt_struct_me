@@ -1,0 +1,9 @@
+[
+  ["MP", "Organization"],
+  ["GNR de Braga", "Facility"],
+  ["Ministério Público", "Organization"],
+  ["Procuradoria-Geral Regional do Porto", "Organization"],
+  ["Núcleo de Investigação Criminal", "Facility"],
+  ["2011", "Other"],
+  ["2016", "Other"]
+]

@@ -1,0 +1,16 @@
+[
+  ["GNR de Leiria", "Organization"],
+  ["descarga ilegal", "Other"],
+  ["efluentes suinícolas", "Nature"],
+  ["freguesia da Bidoeira de Cima", "Location"],
+  ["Concelho de Leiria", "Location"],
+  ["Comando Territorial da GNR", "Organization"],
+  ["Núcleo de Proteção Ambiental de Leiria", "Organization"],
+  ["descarga ilegal", "Other"],
+  ["efluente pecuário", "Nature"],
+  ["exploração agropecuária", "Facility"],
+  ["militares da GNR", "Person"],
+  ["efluentes pecuários", "Nature"],
+  ["lagoa de armazenagem de efluentes pecuários", "Facility"],
+  ["auto de contraordenação", "Object"]
+]

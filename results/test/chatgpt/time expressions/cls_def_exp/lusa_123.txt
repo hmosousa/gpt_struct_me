@@ -1,0 +1,1 @@
+[["domingo", "Date"], ["hoje", "Date"]]

@@ -1,0 +1,1 @@
+["morre", "acidente de trabalho", "queda em altura", "falecer", "transportada por ambulância", "helitransportada", "alerta foi dado", "operações de socorro", "bombeiros de Mogadouro", "ambulância de Suporte Imediato de Vida", "Viatura Medica de Emergência e Reanimação", "INEM", "acionado o helicóptero do INEM", "GNR de Mogadouro"]

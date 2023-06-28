@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["segunda-feira", "Date"], ["uma mulher de 25 anos", "Set"], ["um homem com 33 anos", "Set"]]

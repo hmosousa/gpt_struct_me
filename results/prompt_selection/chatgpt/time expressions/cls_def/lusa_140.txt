@@ -1,0 +1,9 @@
+[
+  ["hoje", "Date"],
+  ["27 de novembro", "Date"],
+  ["uma ação de patrulhamento", "Duration"],
+  ["efluentes pecuários", "Set"],
+  ["uma lagoa de armazenagem de efluentes pecuários", "Set"],
+  ["descarga de efluente pecuário diretamente para o solo", "Set"],
+  ["uma coima no valor máximo de 144 mil euros", "Duration"]
+]

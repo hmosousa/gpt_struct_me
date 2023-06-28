@@ -1,0 +1,12 @@
+[
+  ["atentado", "Occurrence"],
+  ["mortas", "State"],
+  ["feridas", "State"],
+  ["veículo ter avançado", "Occurrence"],
+  ["solidariedade", "Perception"],
+  ["manifestou", "Reporting"],
+  ["recuperação", "State"],
+  ["detido", "Intensional Action"],
+  ["apreendido", "Intensional State"],
+  ["incidente", "Occurrence"]
+]

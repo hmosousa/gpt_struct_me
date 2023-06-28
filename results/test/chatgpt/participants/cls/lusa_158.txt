@@ -1,0 +1,16 @@
+[
+  ["Homem", "Person"],
+  ["Monção", "Location"],
+  ["Barreiro", "Location"],
+  ["Tangil", "Location"],
+  ["Viana do Castelo", "Location"],
+  ["proteção civil", "Organization"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["INEM", "Organization"],
+  ["Instituto Nacional de Emergência Médica", "Organization"],
+  ["Lusa", "Organization"],
+  ["Bombeiros de Monção", "Organization"],
+  ["Bombeiros de Valença", "Organization"],
+  ["Suporte Imediato de Vida", "Facility"],
+  ["Melgaço", "Location"]
+]

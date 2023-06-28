@@ -1,0 +1,11 @@
+[
+  ["PJ da Guiné-Bissau", "Organization"],
+  ["homem", "Person"],
+  ["cocaína", "Object"],
+  ["aeroporto internacional Osvaldo Vieira", "Location"],
+  ["Bissau", "Location"],
+  ["cidadão luso-guineense", "Person"],
+  ["Ministério Público", "Organization"],
+  ["outubro", "Other"],
+  ["três homens", "Person"]
+]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["Estrada Nacional 10-8", "Time"], ["06:55", "Time"], ["Hospital de São Bernardo", "Time"]]

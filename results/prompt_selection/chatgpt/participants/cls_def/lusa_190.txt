@@ -1,0 +1,20 @@
+[
+  ["Homem", "Person"],
+  ["Barreiro", "Location"],
+  ["atirador", "Person"],
+  ["fuga", "Other"],
+  ["homem", "Person"],
+  ["tiros", "Object"],
+  ["caçadeira", "Object"],
+  ["agência Lusa", "Organization"],
+  ["Direção Nacional da Polícia de Segurança Pública", "Organization"],
+  ["PSP", "Organization"],
+  ["incidente", "Other"],
+  ["suspeita", "Other"],
+  ["homicídio", "Other"],
+  ["armas de fogo", "Object"],
+  ["ocorrência", "Other"],
+  ["Polícia Judiciária", "Organization"],
+  ["investigação", "Other"],
+  ["caso", "Other"]
+]

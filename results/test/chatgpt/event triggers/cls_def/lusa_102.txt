@@ -1,0 +1,14 @@
+[
+  ["detido", "Occurrence"],
+  ["caçar", "Intensional Action"],
+  ["detido", "Reporting"],
+  ["caçar", "Aspectual"],
+  ["caçar", "Intensional Action"],
+  ["intercetaram", "Occurrence"],
+  ["constituído arguido", "State"],
+  ["crime do exercício da caça", "Intensional State"],
+  ["encaminhado para o Tribunal das Caldas da Rainha", "Reporting"],
+  ["apreensão de uma espingarda de caça", "Occurrence"],
+  ["apreensão de dois cartuchos de calibre 12", "Occurrence"],
+  ["apreensão de diversos materiais e acessórios relativos a caça", "Occurrence"]
+]

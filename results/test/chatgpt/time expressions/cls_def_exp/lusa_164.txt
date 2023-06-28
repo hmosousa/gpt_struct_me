@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["segundo e terceiro grau", "Set"], ["13:41", "Time"], ["distrito de Braga", "Set"]]

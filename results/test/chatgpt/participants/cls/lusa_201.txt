@@ -1,0 +1,21 @@
+[
+  ["Homem", "Person"],
+  ["Felgueiras", "Location"],
+  ["árvore", "Nature"],
+  ["Regilde", "Location"],
+  ["Lusa", "Organization"],
+  ["bombeiros", "Organization"],
+  ["queda", "Object"],
+  ["ravina", "Location"],
+  ["corporação", "Organization"],
+  ["comandante", "Person"],
+  ["Vizela", "Location"],
+  ["Bombeiros de Felgueiras", "Organization"],
+  ["ambulância", "Facility"],
+  ["viatura de desencarceramento", "Facility"],
+  ["viatura de resgate em grande ângulo", "Facility"],
+  ["equipa", "Organization"],
+  ["Viatura Médica de Emergência e Reanimação (VMER) do Vale do Sousa", "Facility"],
+  ["Hospital de Guimarães", "Facility"],
+  ["GNR", "Organization"]
+]

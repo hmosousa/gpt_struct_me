@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["homem", "Person"], ["Idanha-a-Nova", "Location"], ["Castelo Branco", "Location"], ["Núcleo de Investigação Criminal (NIC)", "Facility"], ["canábis", "Object"], ["liamba", "Object"], ["balança", "Object"], ["moinho", "Object"], ["Posto Territorial de Idanha-a-Nova da GNR", "Facility"], ["Tribunal Judicial de Idanha-a-Nova", "Facility"]]

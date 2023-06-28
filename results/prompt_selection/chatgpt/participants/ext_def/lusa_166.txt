@@ -1,0 +1,1 @@
+["homem", "automóvel", "Estádio da Luz", "Lisboa", "agência Lusa", "Comando Metropolitano de Lisboa", "Cometlis", "PSP", "polícia", "freguesia de São Domingos de Benfica", "condutor", "detenção", "infração", "Rádio Renascença", "relvado", "instalações", "estádio do Benfica"]

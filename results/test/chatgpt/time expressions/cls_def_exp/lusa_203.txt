@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["14:28", "Time"], ["alguns metros antes da localidade de Cortiço da Serra", "Distance"], ["VMER", "Set"], ["Núcleo de Investigação de Crimes em Acidentes de Viação da GNR", "Set"], ["cinco viaturas", "Set"], ["dez elementos", "Set"], ["Bombeiros Voluntários de Celorico da Beira", "Set"], ["VMER da Guarda", "Set"], ["GNR", "Set"]]

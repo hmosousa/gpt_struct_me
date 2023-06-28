@@ -1,0 +1,1 @@
+[["morto a tiro", "Occurrence"], ["atirador", "State"], ["fuga", "State"], ["incidente", "Occurrence"], ["tiroteio", "Occurrence"], ["homicídio", "Occurrence"], ["armas de fogo", "Occurrence"], ["investigação", "Reporting"]]

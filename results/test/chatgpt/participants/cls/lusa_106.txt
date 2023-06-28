@@ -1,0 +1,17 @@
+[
+  ["GNR", "Organization"],
+  ["Vila do Conde", "Location"],
+  ["homem", "Person"],
+  ["estupefacientes", "Object"],
+  ["GNR", "Organization"],
+  ["Vila do Conde", "Location"],
+  ["heroína", "Object"],
+  ["cocaína", "Object"],
+  ["suspeito", "Person"],
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["Tribunal Judicial de Vila do Conde", "Organization"],
+  ["Estabelecimento Prisional do Porto", "Facility"],
+  ["Tribunal Judicial de Vila do Conde", "Organization"],
+  ["nota de imprensa", "Object"]
+]

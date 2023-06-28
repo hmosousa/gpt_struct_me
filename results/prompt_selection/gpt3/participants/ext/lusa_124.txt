@@ -1,0 +1,1 @@
+["Criança", "GNR", "Lusa", "Comando Geral da GNR", "viaturas", "bombeiros", "Instituto Nacional de Emergência Médica (INEM)", "polícia"]

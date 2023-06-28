@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["10:54", "Time"], ["Avenida Almirante Reis", "Set"]]

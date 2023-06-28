@@ -1,0 +1,13 @@
+[
+  ["derrubou", "Occurrence"],
+  ["matou", "Occurrence"],
+  ["morreu", "Occurrence"],
+  ["sofreu", "Occurrence"],
+  ["atingindo", "Occurrence"],
+  ["transportada", "Occurrence"],
+  ["sofreu", "Occurrence"],
+  ["ocorreu", "Occurrence"],
+  ["circulava", "State"],
+  ["derrubado", "State"],
+  ["atingiu", "State"]
+]

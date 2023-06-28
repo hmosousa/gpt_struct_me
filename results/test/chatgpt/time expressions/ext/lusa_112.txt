@@ -1,0 +1,1 @@
+["hoje", "segunda-feira", "ontem", "na noite de segunda-feira", "em dezembro passado"]

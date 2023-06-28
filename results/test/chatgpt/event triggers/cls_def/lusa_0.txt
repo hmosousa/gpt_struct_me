@@ -1,0 +1,19 @@
+[
+  ["acabou", "Occurrence"],
+  ["festa", "State"],
+  ["ilegal", "Aspectual"],
+  ["reunia", "State"],
+  ["anunciado", "Reporting"],
+  ["denúncia", "Reporting"],
+  ["existência", "State"],
+  ["música", "State"],
+  ["deslocaram-se", "Intensional Action"],
+  ["fiscalizar", "Intensional Action"],
+  ["desmobilizaram", "Intensional Action"],
+  ["cumprimento", "State"],
+  ["referido", "Reporting"],
+  ["proprietário", "State"],
+  ["identificado", "State"],
+  ["elaborado", "Intensional Action"],
+  ["auto de contraordenação", "State"]
+]

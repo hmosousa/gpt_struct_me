@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["últimos anos", "Duration"], ["2016", "Time"], ["2017", "Time"], ["início do mês de dezembro", "Date"], ["medidas de restrição impostas pelo Governo para travar a pandemia de covid-19 no país", "Set"]]

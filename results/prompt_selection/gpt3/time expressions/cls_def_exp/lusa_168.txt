@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["três a quatro metros", "Duration"], ["10:33", "Time"]]

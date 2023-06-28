@@ -1,0 +1,13 @@
+[
+  ["Homem", "Person"],
+  ["restaurante", "Facility"],
+  ["Cajados", "Location"],
+  ["Palmela", "Location"],
+  ["Setúbal", "Location"],
+  ["GNR", "Organization"],
+  ["Lusa", "Organization"],
+  ["São Bernardo", "Facility"],
+  ["água", "Nature"],
+  ["CDOS", "Organization"],
+  ["Águas de Moura", "Location"]
+]

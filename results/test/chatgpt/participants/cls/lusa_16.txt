@@ -1,0 +1,14 @@
+[
+  ["Hyderabad", "Location"],
+  ["polícia local", "Organization"],
+  ["muro", "Object"],
+  ["chuva", "Nature"],
+  ["inundações", "Nature"],
+  ["barcos", "Object"],
+  ["sul da Ásia", "Location"],
+  ["Índia", "Location"],
+  ["Bangladesh", "Location"],
+  ["Nepal", "Location"],
+  ["enchentes", "Nature"],
+  ["junho", "Other"]
+]

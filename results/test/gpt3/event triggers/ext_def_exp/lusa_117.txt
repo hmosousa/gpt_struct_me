@@ -1,0 +1,1 @@
+["estado grave", "atropelado", "autocarro", "Santo Tirso", "assistido", "transportado", "Bombeiros", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "Viatura Médica", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte Imediato", "Vida", "GNR", "corporação"]

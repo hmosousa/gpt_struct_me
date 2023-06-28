@@ -1,0 +1,17 @@
+[
+  ["Automóvel", "Object"],
+  ["Black Lives Matter", "Organization"],
+  ["Manhattan", "Location"],
+  ["Nova Iorque", "Location"],
+  ["Estados Unidos", "Location"],
+  ["autoridades", "Organization"],
+  ["feridos", "Person"],
+  ["hospitais", "Facility"],
+  ["France-Presse", "Organization"],
+  ["polícia de Nova Iorque", "Organization"],
+  ["NYPD", "Organization"],
+  ["condutor", "Person"],
+  ["porta-voz da polícia", "Person"],
+  ["corporações de bombeiros", "Organization"],
+  ["ambulâncias", "Facility"]
+]

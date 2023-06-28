@@ -1,0 +1,1 @@
+[["morre", "Occurrence"], ["atropelamento", "Occurrence"], ["Vila Maior", "State"], ["GNR", "Reporting"], ["Viatura Médica de Emergência e Reanimação (VMER)", "Perception"], ["manobra de marcha-atrás", "Aspectual"], ["alerta", "Intensional Action"], ["mobilizados", "Intensional State"]]

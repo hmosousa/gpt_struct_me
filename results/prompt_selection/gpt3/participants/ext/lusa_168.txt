@@ -1,0 +1,1 @@
+["Homem", "Ponte de Lima", "Viana do Castelo", "Carlos Lima", "Bombeiros de Ponte de Lima", "freguesia de Ribeira", "Comando Distrital de Operações de Socorro (CDOS)", "SIV", "operacionais", "Viatura de Emergência Médica (VMER)", "GNR"]

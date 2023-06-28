@@ -1,0 +1,1 @@
+[["Homem", "State"], ["cisterna de camião em Estarreja", "State"], ["encontrado morto", "Occurrence"], ["alerta", "Reporting"], ["desaparecido", "Perception"], ["manutenção", "Aspectual"], ["causa da morte", "Intensional Action"], ["cadáver", "Intensional State"]]

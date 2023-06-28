@@ -1,0 +1,10 @@
+[
+  ["Ministério Público", "Organization"],
+  ["Braga", "Location"],
+  ["Amares", "Location"],
+  ["Procuradoria-Geral Distrital do Porto", "Organization"],
+  ["arguido", "Person"],
+  ["companheira", "Person"],
+  ["filha", "Person"],
+  ["vítima", "Person"]
+]

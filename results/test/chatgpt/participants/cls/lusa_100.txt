@@ -1,0 +1,12 @@
+[
+  ["Quincy Promes", "Person"],
+  ["Ajax", "Organization"],
+  ["De Telegraaf", "Organization"],
+  ["Abcoude", "Location"],
+  ["Utrecht", "Location"],
+  ["Países Baixos", "Location"],
+  ["Twente", "Organization"],
+  ["Spartak de Moscovo", "Organization"],
+  ["Sevilha", "Organization"],
+  ["2019/20", "Object"]
+]

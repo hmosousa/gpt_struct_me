@@ -1,0 +1,16 @@
+[
+["violência doméstica", "Occurrence"],
+["homem detido", "State"],
+["vigilância eletrónica", "State"],
+["violência física", "Occurrence"],
+["injúrias", "Occurrence"],
+["ameaças de morte", "Occurrence"],
+["ex-companheira", "State"],
+["separação", "Occurrence"],
+["perseguir a vítima", "Intensional Action"],
+["botão de pânico", "State"],
+["medida de proteção", "Intensional State"],
+["antecedentes criminais", "State"],
+["ilícitos da mesma natureza", "State"],
+["proibido de contactar a vítima", "Intensional State"]
+]

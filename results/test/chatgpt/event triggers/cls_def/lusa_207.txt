@@ -1,0 +1,18 @@
+[
+  ["detidos", "Reporting"],
+  ["disparos", "Occurrence"],
+  ["detidos", "Reporting"],
+  ["intercetados", "Reporting"],
+  ["danos", "State"],
+  ["disparos", "Occurrence"],
+  ["fuga", "State"],
+  ["detidos", "Reporting"],
+  ["registar", "Reporting"],
+  ["danos", "State"],
+  ["encontravam", "State"],
+  ["invólucros", "State"],
+  ["balas", "State"],
+  ["detido", "Reporting"],
+  ["entregue", "Reporting"],
+  ["Polícia Judiciária", "Intensional State"]
+]

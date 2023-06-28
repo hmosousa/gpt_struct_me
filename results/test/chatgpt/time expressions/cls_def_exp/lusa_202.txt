@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["cerca das 10:00", "Time"], ["um quarto de dormir", "Duration"], ["na casa dos 70 anos", "Duration"]]

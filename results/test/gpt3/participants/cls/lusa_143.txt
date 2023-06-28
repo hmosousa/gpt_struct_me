@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["12.300 doses de haxixe", "Object"], ["Mértola", "Location"], ["Beja", "Location"], ["segunda-feira", "Other"], ["Tribunal Judicial de Beja", "Facility"], ["Estrada Nacional 122", "Location"], ["viatura", "Object"], ["droga", "Object"], ["veículo", "Object"], ["telemóvel", "Object"]]

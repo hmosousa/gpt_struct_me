@@ -1,0 +1,16 @@
+[
+["impedem", "Occurrence"],
+["tentativa de tráfico", "State"],
+["crianças", "State"],
+["frustrou", "Occurrence"],
+["tráfico", "State"],
+["República Democrática do Congo", "State"],
+["informaram", "Reporting"],
+["porta-voz", "State"],
+["detidos", "Occurrence"],
+["operação", "State"],
+["colaboração", "State"],
+["terceira registada", "State"],
+["início do ano", "State"],
+["julho", "State"]
+]

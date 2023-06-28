@@ -1,0 +1,17 @@
+[
+["morreu", "Occurrence"],
+["mantido em cativeiro", "State"],
+["jihadistas", "Reporting"],
+["morreu", "Occurrence"],
+["transferido para tratamento", "Intensional Action"],
+["confirmo", "Reporting"],
+["morto", "Intensional State"],
+["sequestrado", "Occurrence"],
+["fazia campanha", "Occurrence"],
+["libertado", "Occurrence"],
+["troca de", "Reporting"],
+["libertados", "State"],
+["sofri nenhuma violência", "Intensional State"],
+["ficou em segundo lugar", "State"],
+["eleições presidenciais", "Occurrence"]
+]

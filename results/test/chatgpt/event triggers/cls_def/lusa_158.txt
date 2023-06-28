@@ -1,0 +1,14 @@
+[
+["morre", "Occurrence"],
+["atingido por", "Aspectual"],
+["procedia ao seu abate", "Intensional Action"],
+["morreu", "Occurrence"],
+["cortava", "Intensional Action"],
+["foi declarado", "Reporting"],
+["acionado", "Reporting"],
+["estaria a fazer trabalhos florestais", "Intensional State"],
+["foi dado", "Reporting"],
+["acionadas", "Reporting"],
+["apontavam para a existência de", "Perception"],
+["compareceram", "Occurrence"]
+]

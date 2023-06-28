@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["14 anos", "Duration"], ["18:16", "Time"], ["Rua Luís Gonzaga Mendes de Carvalho", "Time"]]

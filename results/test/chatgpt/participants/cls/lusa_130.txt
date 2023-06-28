@@ -1,0 +1,9 @@
+[
+  ["GNR", "Organization"],
+  ["Valença", "Location"],
+  ["Viana do Castelo", "Location"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["GNR", "Organization"],
+  ["Matosinhos", "Location"],
+  ["Unidade de Controlo Costeiro", "Organization"]
+]

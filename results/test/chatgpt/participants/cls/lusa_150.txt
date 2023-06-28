@@ -1,0 +1,17 @@
+[
+  ["Governo português", "Organization"],
+  ["famílias das vítimas", "Person"],
+  ["atentado", "Other"],
+  ["Alemanha", "Location"],
+  ["pessoas", "Person"],
+  ["veículo", "Object"],
+  ["zona pedonal", "Location"],
+  ["polícia local", "Organization"],
+  ["Twitter", "Object"],
+  ["Ministério dos Negócios Estrangeiros", "Organization"],
+  ["motorista", "Person"],
+  ["equipas de resgate", "Organization"],
+  ["centro da cidade", "Location"],
+  ["Frankfurt", "Location"],
+  ["Luxemburgo", "Location"]
+]

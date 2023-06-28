@@ -1,0 +1,1 @@
+[["na terça-feira", "Date"], ["cinco anos", "Duration"], ["entretanto", "Time"], ["3,4 mil milhões de euros", "Set"], ["15%", "Set"], ["cinco mil", "Set"], ["até 20%", "Set"], ["terceiro trimestre", "Time"], ["mesmo trimestre do ano passado", "Time"]]

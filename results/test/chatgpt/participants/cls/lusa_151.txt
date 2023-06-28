@@ -1,0 +1,15 @@
+[
+  ["Soumaila Cissé", "Person"],
+  ["Governo do Mali", "Organization"],
+  ["jihadistas", "Organization"],
+  ["França", "Location"],
+  ["novo coronavírus", "Nature"],
+  ["família", "Person"],
+  ["seu partido", "Organization"],
+  ["Agência France-Presse", "Organization"],
+  ["União para a República e a Democracia", "Organization"],
+  ["Tumbuktu", "Location"],
+  ["Sophie Pétronin", "Person"],
+  ["italianos", "Person"],
+  ["engenheiro de computação", "Other"]
+]

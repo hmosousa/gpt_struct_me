@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["06:55", "Time"], ["16 elementos", "Set"], ["cinco veículos", "Set"]]

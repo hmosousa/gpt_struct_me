@@ -1,0 +1,1 @@
+["morreu", "acidente", "ferida", "autoestrada do Norte", "sábado à noite", "fonte da GNR", "ocorreu", "quilómetro quatro", "sentido Norte/Sul", "envolveu", "feridos", "sem gravidade", "encarcerada", "viaturas", "transportada", "hospital", "trânsito", "cortado", "circulava", "faixa lateral", "bombeiros", "Instituto Nacional de Emergência Médica", "polícia", "viaturas"]

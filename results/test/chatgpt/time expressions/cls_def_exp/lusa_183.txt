@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["últimos meses", "Duration"], ["por qualquer forma ou meio", "Set"], ["num raio de 500 metros", "Set"]]

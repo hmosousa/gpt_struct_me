@@ -1,0 +1,1 @@
+["hoje", "quarta-feira", "ontem", "dezembro", "hoje de manhã"]

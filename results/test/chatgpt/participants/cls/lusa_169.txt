@@ -1,0 +1,19 @@
+[
+  ["Homem", "Person"],
+  ["mãe", "Person"],
+  ["Valongo", "Location"],
+  ["GNR do Porto", "Organization"],
+  ["violência doméstica", "Nature"],
+  ["antecedentes criminais", "Other"],
+  ["ameaça agravada", "Nature"],
+  ["injúrias", "Nature"],
+  ["ofensas à integridade física", "Nature"],
+  ["medidas de coação", "Other"],
+  ["alimentação", "Object"],
+  ["local onde este vivia", "Location"],
+  ["arguido", "Person"],
+  ["dinheiro", "Object"],
+  ["drogas", "Object"],
+  ["residência", "Facility"],
+  ["mandado de detenção", "Other"]
+]

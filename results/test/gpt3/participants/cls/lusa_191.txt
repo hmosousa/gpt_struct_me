@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Oleiros", "Location"], ["66 anos", "Person"], ["Comando Distrital de Operações de Socorro", "Organization"], ["Centro Hospitalar e Universitário de Coimbra", "Facility"], ["bombeiros", "Organization"], ["hábitação", "Object"], ["operacionais", "Person"], ["viaturas", "Object"]]

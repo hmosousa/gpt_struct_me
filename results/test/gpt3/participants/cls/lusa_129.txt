@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["caçadeira", "Object"], ["pistola", "Object"], ["armas de ar comprimido", "Object"], ["coldre", "Object"], ["mulher", "Person"], ["25 anos", "Other"], ["companheiro", "Person"], ["33 anos", "Other"], ["calibre 12", "Other"], ["calibre 6,35mm", "Other"], ["64 munições", "Other"], ["Tribunal Judicial de Felgueiras", "Facility"]]

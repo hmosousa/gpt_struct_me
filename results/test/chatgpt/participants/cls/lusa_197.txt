@@ -1,0 +1,11 @@
+[
+  ["Homem", "Person"],
+  ["Vila Nova de Gaia", "Location"],
+  ["Gulpilhares", "Location"],
+  ["fonte policial", "Organization"],
+  ["hospital Santos Silva", "Facility"],
+  ["Vila de Gaia", "Location"],
+  ["Porto", "Location"],
+  ["bombeiros de Valadares", "Organization"],
+  ["Polícia Judiciária", "Organization"]
+]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["25 anos", "Duration"], ["terceiro grau", "Set"], ["membros superiores e inferiores", "Set"], ["08:37", "Time"], ["cozinha da casa", "Set"], ["Sapadores de Vila Nova de Gaia", "Set"], ["Bombeiros da Aguda", "Set"], ["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Set"], ["parcialmente", "Set"], ["8:51", "Time"]]

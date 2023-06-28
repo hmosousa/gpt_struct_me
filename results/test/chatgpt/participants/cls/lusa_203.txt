@@ -1,0 +1,18 @@
+[
+  ["Homem", "Person"],
+  ["Celorico da Beira", "Location"],
+  ["Estrada Nacional 17", "Location"],
+  ["Guarda", "Location"],
+  ["proteção civil", "Organization"],
+  ["GNR", "Organization"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["Comando Territorial da GNR da Guarda", "Organization"],
+  ["Cortiço da Serra", "Location"],
+  ["Bombeiros Voluntários de Celorico da Beira", "Organization"],
+  ["Viatura Médica de Emergência e Reanimação", "Facility"],
+  ["Núcleo de Investigação de Crimes em Acidentes de Viação da GNR", "Organization"],
+  ["cinco viaturas", "Object"],
+  ["dez elementos", "Person"],
+  ["VMER da Guarda", "Facility"],
+  ["CDOS", "Organization"]
+]

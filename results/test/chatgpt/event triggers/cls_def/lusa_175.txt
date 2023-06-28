@@ -1,0 +1,15 @@
+[
+  ["constituído", "State"],
+  ["detido", "Occurrence"],
+  ["constituído", "Intensional State"],
+  ["detenção", "Occurrence"],
+  ["investigação", "Occurrence"],
+  ["suspeitas", "Perception"],
+  ["duração", "Aspectual"],
+  ["buscas", "Occurrence"],
+  ["resultou", "Reporting"],
+  ["apreensão", "Occurrence"],
+  ["detido", "Intensional State"],
+  ["constituído", "State"],
+  ["remetidos", "Reporting"]
+]

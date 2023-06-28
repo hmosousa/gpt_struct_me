@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["13:55", "Time"], ["cerca de 150 metros antes do embate", "Duration"], ["pelo menos até às 16:30", "Duration"]]

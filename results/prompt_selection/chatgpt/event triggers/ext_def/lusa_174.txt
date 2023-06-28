@@ -1,0 +1,1 @@
+["encontrado morto", "alerta foi dado", "encontrava-se desaparecido", "estava a fazer a manutenção", "encontrava-se aberta", "não conseguiu determinar a causa da morte", "tomou conta da ocorrência", "fez o transporte do cadáver"]

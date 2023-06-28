@@ -1,0 +1,14 @@
+[
+  ["socorrido", "Occurrence"],
+  ["caiu", "Occurrence"],
+  ["socorrido", "Intensional Action"],
+  ["transportado", "Intensional Action"],
+  ["adiantou", "Reporting"],
+  ["teve lugar", "Occurrence"],
+  ["foi efetuado", "Intensional Action"],
+  ["passava", "State"],
+  ["viu", "Perception"],
+  ["está livre de perigo", "Intensional State"],
+  ["foi levado", "Intensional Action"],
+  ["se encontra internado", "Intensional State"]
+]

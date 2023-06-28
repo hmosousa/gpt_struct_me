@@ -1,0 +1,18 @@
+[
+  ["roubaram", "Occurrence"],
+  ["fuga", "State"],
+  ["assalto", "Occurrence"],
+  ["consumado", "State"],
+  ["levaram", "Occurrence"],
+  ["detido", "State"],
+  ["procurado", "State"],
+  ["procura", "Intensional Action"],
+  ["envolvidos", "Intensional State"],
+  ["atuaram", "Occurrence"],
+  ["tapada", "State"],
+  ["monte", "State"],
+  ["procura", "Intensional Action"],
+  ["envolvidos", "Intensional State"],
+  ["procura", "Intensional Action"],
+  ["envolvidos", "Intensional State"]
+]

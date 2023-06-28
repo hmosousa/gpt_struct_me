@@ -1,0 +1,13 @@
+[
+  ["isolamento profilático", "State"],
+  ["estado", "Occurrence"],
+  ["Presidente francês, Emmanuel Macron, que testou positivo ao novo coronavírus", "Occurrence"],
+  ["teste positivo", "Occurrence"],
+  ["isolamento profilático preventivo", "State"],
+  ["avaliação do grau de risco", "Reporting"],
+  ["deslocação a São Tomé e Príncipe e Guiné Bissau", "Occurrence"],
+  ["realizou hoje de manhã um teste para deteção de Covid-19", "Occurrence"],
+  ["cancelar essa deslocação", "Intensional Action"],
+  ["mantém toda a atividade executiva e a agenda de trabalho", "Intensional State"],
+  ["não apresenta quaisquer sintomas", "Intensional State"]
+]

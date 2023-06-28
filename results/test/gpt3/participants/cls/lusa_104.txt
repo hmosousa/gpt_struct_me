@@ -1,0 +1,1 @@
+[["pai", "Person"], ["filhos", "Person"], ["México", "Location"], ["norte", "Location"], ["Sonora", "Location"], ["Hidalgo", "Location"], ["mãe das crianças", "Person"], ["polícia", "Organization"], ["Suspeito", "Person"], ["rapazes", "Person"], ["avô das crianças", "Person"], ["mulher", "Person"], ["modo", "Other"], ["grande dor", "Other"], ["vingança", "Other"]]

@@ -1,0 +1,1 @@
+[["quinta-feira", "Date"], ["2.765 euros", "Duration"], ["205 quilos", "Set"], ["20 quilos", "Set"], ["60 mil euros", "Duration"]]

@@ -1,0 +1,1 @@
+[["cerca de 60 anos", "Duration"], ["Gandarela", "Time"], ["distrito de Braga", "Time"], ["hoje", "Date"], ["INEM", "Time"], ["21:45 de domingo", "Time"], ["primeiros meios de socorro", "Time"], ["via pública", "Time"], ["01:00 de hoje", "Time"]]

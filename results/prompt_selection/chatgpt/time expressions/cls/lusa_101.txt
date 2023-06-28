@@ -1,0 +1,20 @@
+[
+  ["39 anos", "Age"],
+  ["Penafiel", "Location"],
+  ["Porto", "Location"],
+  ["hoje", "Date"],
+  ["violência física", "Duration"],
+  ["injúrias", "Duration"],
+  ["ameaças de morte", "Duration"],
+  ["ex-companheira", "Set"],
+  ["42 anos", "Age"],
+  ["residência", "Set"],
+  ["local de trabalho", "Set"],
+  ["botão de pânico", "Set"],
+  ["medida de proteção", "Duration"],
+  ["teleassistência", "Set"],
+  ["antecedentes criminais", "Duration"],
+  ["mesma natureza", "Duration"],
+  ["proibido de contactar", "Duration"],
+  ["vítima", "Set"]
+]

@@ -1,0 +1,1 @@
+[["hoje de manhã", "Date"], ["cerca das 07:00", "Time"], ["no domingo, entre as 20:00 e as 21:30", "Set"]]

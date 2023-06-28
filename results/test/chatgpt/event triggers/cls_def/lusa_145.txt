@@ -1,0 +1,18 @@
+[
+  ["detém", "Occurrence"],
+  ["tráfico de droga", "State"],
+  ["deteve", "Occurrence"],
+  ["suspeitas da prática do crime de tráfico de droga", "State"],
+  ["cidade de Borba", "State"],
+  ["distrito de Évora", "State"],
+  ["presente", "Occurrence"],
+  ["Tribunal de Vila Viçosa", "State"],
+  ["interrogatório", "Occurrence"],
+  ["medidas de coação", "State"],
+  ["apreendeu", "Occurrence"],
+  ["heroína", "State"],
+  ["balança digital", "State"],
+  ["tesoura", "State"],
+  ["sacos de plástico para acondicionamento de doses individuais", "State"],
+  ["dinheiro", "State"]
+]

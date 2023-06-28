@@ -1,0 +1,16 @@
+[
+  ["rixa", "Occurrence"],
+  ["feridos", "State"],
+  ["desordem", "Occurrence"],
+  ["envolveu", "Occurrence"],
+  ["começado", "Occurrence"],
+  ["terminou", "Occurrence"],
+  ["ficou ferido", "State"],
+  ["transportado", "Reporting"],
+  ["deslocou-se", "Reporting"],
+  ["encontrado", "State"],
+  ["danificadas", "State"],
+  ["disparos", "Occurrence"],
+  ["alerta", "Reporting"],
+  ["investigação", "Intensional State"]
+]

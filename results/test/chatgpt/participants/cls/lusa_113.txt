@@ -1,0 +1,10 @@
+[
+  ["Ricardo Pinheiro", "Person"],
+  ["José Mendes", "Person"],
+  ["Presidência da República", "Organization"],
+  ["primeiro-ministro", "Person"],
+  ["Nelson de Sousa", "Person"],
+  ["Palácio de Belém", "Location"],
+  ["Câmara de Campo Maior", "Facility"],
+  ["Portalegre", "Location"]
+]

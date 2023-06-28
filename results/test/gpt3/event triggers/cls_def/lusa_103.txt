@@ -1,0 +1,1 @@
+[["detido", "State"], ["suspeitas", "Perception"], ["ateado", "Intensional Action"], ["interceção", "Occurrence"], ["colocado", "Intensional Action"], ["ateando-lhes", "Intensional Action"], ["receberam", "State"], ["inalação", "State"], ["deflagrou", "Occurrence"], ["extinto", "Occurrence"], ["conhecimento", "Reporting"], ["investigação", "Aspectual"]]

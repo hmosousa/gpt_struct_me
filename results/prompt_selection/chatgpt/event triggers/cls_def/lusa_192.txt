@@ -1,0 +1,14 @@
+[
+  ["morre", "Occurrence"],
+  ["esfaqueado", "Occurrence"],
+  ["informou", "Reporting"],
+  ["ocorrido", "Occurrence"],
+  ["declarado", "Occurrence"],
+  ["pedir ajuda", "Intensional Action"],
+  ["envolveu", "Aspectual"],
+  ["detido", "Occurrence"],
+  ["tentativa de fuga", "Intensional Action"],
+  ["acionada", "Occurrence"],
+  ["preservado", "Intensional State"],
+  ["fitas de segurança", "Intensional State"]
+]

@@ -1,0 +1,1 @@
+[["Homem de 61 anos", "Person"], ["Marvão", "Location"], ["Proteção Civil", "Organization"], ["GNR", "Organization"], ["Estrada Municipal 524", "Facility"], ["Portalegre", "Location"], ["VMER", "Organization"], ["Beirã", "Location"], ["CDOS", "Organization"], ["Medicina Legal", "Organization"], ["bombeiros", "Organization"], ["corporação de Marvão", "Organization"]]

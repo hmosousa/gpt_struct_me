@@ -1,0 +1,1 @@
+[["Homem de 61 anos", "Person"], ["automóvel", "Object"], ["Portalegre", "Location"], ["GNR", "Organization"], ["Polícia Judiciária", "Organization"], ["Carreiras", "Location"], ["Comando Distrital de Operações de Socorro (CDOS)", "Organization"], ["Portalegre", "Location"], ["hospital de Portalegre", "Facility"]]

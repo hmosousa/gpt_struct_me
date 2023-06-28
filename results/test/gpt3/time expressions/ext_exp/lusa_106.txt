@@ -1,0 +1,1 @@
+["domingo", "seis anos e seis meses", "seis anos e seis meses"]

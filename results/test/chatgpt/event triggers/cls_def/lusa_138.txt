@@ -1,0 +1,11 @@
+[
+  ["encontrou", "Occurrence"],
+  ["desaparecida", "State"],
+  ["encontrou", "Occurrence"],
+  ["detetada", "State"],
+  ["transportada", "Occurrence"],
+  ["procurada", "Occurrence"],
+  ["retomadas", "Occurrence"],
+  ["encontrada", "State"],
+  ["mobilizados", "Occurrence"]
+]

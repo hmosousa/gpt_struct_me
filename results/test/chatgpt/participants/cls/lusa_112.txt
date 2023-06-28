@@ -1,0 +1,17 @@
+[
+  ["Estado Islâmico", "Organization"],
+  ["grupo ‘jihadista’ Estado Islâmico (EI)", "Organization"],
+  ["EI", "Organization"],
+  ["comunicado", "Object"],
+  ["redes Telegram", "Object"],
+  ["soldado do califado", "Person"],
+  ["sinagoga", "Location"],
+  ["ópera", "Location"],
+  ["agência de propaganda Amaq", "Organization"],
+  ["atentado", "Object"],
+  ["polícia", "Organization"],
+  ["Viena", "Location"],
+  ["jovem", "Person"],
+  ["Macedónia do Norte", "Location"],
+  ["Síria", "Location"]
+]

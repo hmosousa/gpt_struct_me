@@ -1,0 +1,15 @@
+[
+  ["Jovem", "Person"],
+  ["Amadora", "Location"],
+  ["jovem", "Person"],
+  ["17 anos", "Other"],
+  ["Casal da Mira", "Location"],
+  ["Lisboa", "Location"],
+  ["Lusa", "Organization"],
+  ["PSP", "Organization"],
+  ["Comando Metropolitano de Lisboa", "Organization"],
+  ["Cometlis", "Organization"],
+  ["Hospital Professor Doutor Fernando Fonseca", "Facility"],
+  ["Amadora-Sintra", "Location"],
+  ["Polícia Judiciária", "Organization"]
+]

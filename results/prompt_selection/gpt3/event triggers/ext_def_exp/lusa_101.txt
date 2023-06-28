@@ -1,0 +1,1 @@
+["colocado", "vigilância", "eletrónica", "suspeito", "violência", "física", "injúrias", "ameaças", "morte", "ex-companheira", "indicou", "aceitou", "separação", "perseguir", "residência", "local de trabalho", "aplicado", "medida", "proteção", "teleassistência", "antecedentes", "criminais", "ilícitos", "natureza", "contactar", "vítima"]

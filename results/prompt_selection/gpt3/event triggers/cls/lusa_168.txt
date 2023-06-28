@@ -1,0 +1,1 @@
+[["Cair de andaime", "Occurrence"], ["Estado grave", "State"], ["Transportado", "Reporting"], ["Acidente de trabalho", "Occurrence"], ["Alerta", "Reporting"], ["Compareceram", "Reporting"], ["Viatura de Emergência Médica", "Aspectual"], ["GNR", "Intensional Action"]]

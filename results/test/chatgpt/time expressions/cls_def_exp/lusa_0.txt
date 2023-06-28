@@ -1,0 +1,1 @@
+[["no sábado", "Date"], ["hoje", "Date"], ["na sequência de uma denúncia", "Duration"], ["normas referentes à pandemia de covid-19", "Set"], ["um auto de contraordenação", "Duration"]]

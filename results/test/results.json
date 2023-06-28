@@ -1,0 +1,158 @@
+[
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.7349397590361446,
+            "precision": 0.5846645367412141,
+            "f1": 0.6512455516014236
+        },
+        "relaxed": {
+            "f1": 0.7296538780043932
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.41767068273092367,
+            "precision": 0.5683060109289617,
+            "f1": 0.48148148148148145
+        },
+        "relaxed": {
+            "f1": 0.7175473438360034
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.35789473684210527,
+            "precision": 0.35859375,
+            "f1": 0.3582439024390243
+        },
+        "relaxed": {
+            "f1": 0.5095380240404808
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.13216374269005848,
+            "precision": 0.2736077481840194,
+            "f1": 0.17823343848580442
+        },
+        "relaxed": {
+            "f1": 0.612426728290071
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.5328947368421053,
+            "precision": 0.4188210961737332,
+            "f1": 0.46902142443543715
+        },
+        "relaxed": {
+            "f1": 0.5168205292819912
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.256140350877193,
+            "precision": 0.27302477793361385,
+            "f1": 0.2643131930300973
+        },
+        "relaxed": {
+            "f1": 0.3854450410557169
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5863453815261044,
+            "precision": 0.34515366430260047,
+            "f1": 0.4345238095238095
+        },
+        "relaxed": {
+            "f1": 0.47999336097274253
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.4779116465863454,
+            "precision": 0.3927392739273927,
+            "f1": 0.43115942028985504
+        },
+        "relaxed": {
+            "f1": 0.5068613903960001
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.4662768031189084,
+            "precision": 0.4010731052984574,
+            "f1": 0.4312240850910402
+        },
+        "relaxed": {
+            "f1": 0.47351257968531946
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.4425438596491228,
+            "precision": 0.5067805123053741,
+            "f1": 0.4724888784827909
+        },
+        "relaxed": {
+            "f1": 0.6140975313581176
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14269005847953217,
+            "precision": 0.23106060606060605,
+            "f1": 0.17642805495300073
+        },
+        "relaxed": {
+            "f1": 0.6008789208338825
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.33289473684210524,
+            "precision": 0.4954308093994778,
+            "f1": 0.3982161594963274
+        },
+        "relaxed": {
+            "f1": 0.6815337347794098
+        }
+    }
+]

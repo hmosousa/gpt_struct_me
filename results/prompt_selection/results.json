@@ -1,0 +1,626 @@
+[
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.74,
+            "precision": 0.6166666666666667,
+            "f1": 0.6727272727272727
+        },
+        "relaxed": {
+            "f1": 0.800945165945166
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.32335329341317365,
+            "precision": 0.2983425414364641,
+            "f1": 0.3103448275862069
+        },
+        "relaxed": {
+            "f1": 0.5126593421240566
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.5223880597014925,
+            "precision": 0.42168674698795183,
+            "f1": 0.4666666666666667
+        },
+        "relaxed": {
+            "f1": 0.516826528752542
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.72,
+            "precision": 0.43902439024390244,
+            "f1": 0.5454545454545455
+        },
+        "relaxed": {
+            "f1": 0.613286195286195
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.3652694610778443,
+            "precision": 0.34990439770554493,
+            "f1": 0.357421875
+        },
+        "relaxed": {
+            "f1": 0.4887886133308942
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.4989339019189765,
+            "precision": 0.36,
+            "f1": 0.4182305630026809
+        },
+        "relaxed": {
+            "f1": 0.39884499754556046
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.8,
+            "precision": 0.7017543859649122,
+            "f1": 0.7476635514018691
+        },
+        "relaxed": {
+            "f1": 0.8180880230880231
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2994011976047904,
+            "precision": 0.2640845070422535,
+            "f1": 0.28063610851262866
+        },
+        "relaxed": {
+            "f1": 0.4874701162772892
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.5138592750533049,
+            "precision": 0.41986062717770034,
+            "f1": 0.4621284755512943
+        },
+        "relaxed": {
+            "f1": 0.4988976240822346
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.64,
+            "precision": 0.31683168316831684,
+            "f1": 0.42384105960264906
+        },
+        "relaxed": {
+            "f1": 0.44511766903731187
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1317365269461078,
+            "precision": 0.2920353982300885,
+            "f1": 0.1815680880330124
+        },
+        "relaxed": {
+            "f1": 0.5728084551507037
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.19402985074626866,
+            "precision": 0.21513002364066194,
+            "f1": 0.2040358744394619
+        },
+        "relaxed": {
+            "f1": 0.29281542461732785
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.72,
+            "precision": 0.4931506849315068,
+            "f1": 0.5853658536585366
+        },
+        "relaxed": {
+            "f1": 0.6381370851370852
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.3532934131736527,
+            "precision": 0.33146067415730335,
+            "f1": 0.3420289855072463
+        },
+        "relaxed": {
+            "f1": 0.4921213794595659
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.509594882729211,
+            "precision": 0.35778443113772457,
+            "f1": 0.4204045734388742
+        },
+        "relaxed": {
+            "f1": 0.4107680380011458
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6,
+            "precision": 0.38961038961038963,
+            "f1": 0.47244094488188976
+        },
+        "relaxed": {
+            "f1": 0.5720815295815296
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14770459081836326,
+            "precision": 0.3148936170212766,
+            "f1": 0.2010869565217391
+        },
+        "relaxed": {
+            "f1": 0.5850370849276201
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.16631130063965885,
+            "precision": 0.23423423423423423,
+            "f1": 0.19451371571072318
+        },
+        "relaxed": {
+            "f1": 0.34181297469269445
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.48,
+            "precision": 0.4444444444444444,
+            "f1": 0.4615384615384615
+        },
+        "relaxed": {
+            "f1": 0.6841269841269841
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.10379241516966067,
+            "precision": 0.2857142857142857,
+            "f1": 0.15226939970717424
+        },
+        "relaxed": {
+            "f1": 0.6565092246056075
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.006396588486140725,
+            "precision": 0.0234375,
+            "f1": 0.010050251256281405
+        },
+        "relaxed": {
+            "f1": 0.4232438274392515
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.44,
+            "precision": 0.55,
+            "f1": 0.48888888888888893
+        },
+        "relaxed": {
+            "f1": 0.7063095238095238
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.08782435129740519,
+            "precision": 0.2913907284768212,
+            "f1": 0.13496932515337423
+        },
+        "relaxed": {
+            "f1": 0.6351087373825469
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.021321961620469083,
+            "precision": 0.07575757575757576,
+            "f1": 0.033277870216306155
+        },
+        "relaxed": {
+            "f1": 0.41008176095309945
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.42,
+            "precision": 0.45652173913043476,
+            "f1": 0.43749999999999994
+        },
+        "relaxed": {
+            "f1": 0.8244182900432901
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.530938123752495,
+            "precision": 0.4208860759493671,
+            "f1": 0.46954986760812006
+        },
+        "relaxed": {
+            "f1": 0.4726089087070318
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.4520255863539446,
+            "precision": 0.5564304461942258,
+            "f1": 0.4988235294117647
+        },
+        "relaxed": {
+            "f1": 0.6523892902978019
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.54,
+            "precision": 0.3103448275862069,
+            "f1": 0.39416058394160586
+        },
+        "relaxed": {
+            "f1": 0.5613658645276292
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.3273453093812375,
+            "precision": 0.31417624521072796,
+            "f1": 0.3206256109481916
+        },
+        "relaxed": {
+            "f1": 0.48367187124805777
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.4136460554371002,
+            "precision": 0.37093690248565964,
+            "f1": 0.3911290322580645
+        },
+        "relaxed": {
+            "f1": 0.42549192964891625
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.36,
+            "precision": 0.3829787234042553,
+            "f1": 0.37113402061855666
+        },
+        "relaxed": {
+            "f1": 0.7873970573077717
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.4810379241516966,
+            "precision": 0.3591654247391952,
+            "f1": 0.4112627986348123
+        },
+        "relaxed": {
+            "f1": 0.4405951153409296
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.44349680170575695,
+            "precision": 0.47165532879818595,
+            "f1": 0.45714285714285713
+        },
+        "relaxed": {
+            "f1": 0.5670700598293628
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.66,
+            "precision": 0.20121951219512196,
+            "f1": 0.308411214953271
+        },
+        "relaxed": {
+            "f1": 0.33693344354058635
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14570858283433133,
+            "precision": 0.26353790613718414,
+            "f1": 0.18766066838046272
+        },
+        "relaxed": {
+            "f1": 0.6041228562111681
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.34328358208955223,
+            "precision": 0.48493975903614456,
+            "f1": 0.4019975031210986
+        },
+        "relaxed": {
+            "f1": 0.6283760316523874
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.54,
+            "precision": 0.40298507462686567,
+            "f1": 0.4615384615384615
+        },
+        "relaxed": {
+            "f1": 0.5824170274170274
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.38323353293413176,
+            "precision": 0.384,
+            "f1": 0.3836163836163836
+        },
+        "relaxed": {
+            "f1": 0.4802053691883401
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.43070362473347545,
+            "precision": 0.4080808080808081,
+            "f1": 0.4190871369294606
+        },
+        "relaxed": {
+            "f1": 0.47228170903612987
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.58,
+            "precision": 0.23015873015873015,
+            "f1": 0.32954545454545453
+        },
+        "relaxed": {
+            "f1": 0.44212878787878795
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1497005988023952,
+            "precision": 0.25510204081632654,
+            "f1": 0.18867924528301883
+        },
+        "relaxed": {
+            "f1": 0.5749916245009195
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.34968017057569295,
+            "precision": 0.4293193717277487,
+            "f1": 0.38542890716803757
+        },
+        "relaxed": {
+            "f1": 0.602804690194221
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.36,
+            "precision": 0.2647058823529412,
+            "f1": 0.30508474576271183
+        },
+        "relaxed": {
+            "f1": 0.5910155122655123
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.05588822355289421,
+            "precision": 0.2616822429906542,
+            "f1": 0.09210526315789473
+        },
+        "relaxed": {
+            "f1": 0.5333455014095769
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.15991471215351813,
+            "precision": 0.41899441340782123,
+            "f1": 0.2314814814814815
+        },
+        "relaxed": {
+            "f1": 0.6541284898963469
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.42,
+            "precision": 0.3442622950819672,
+            "f1": 0.3783783783783784
+        },
+        "relaxed": {
+            "f1": 0.6008170995670996
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.03992015968063872,
+            "precision": 0.2564102564102564,
+            "f1": 0.0690846286701209
+        },
+        "relaxed": {
+            "f1": 0.5472722014953311
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2068230277185501,
+            "precision": 0.5300546448087432,
+            "f1": 0.29754601226993865
+        },
+        "relaxed": {
+            "f1": 0.6970866775420348
+        }
+    }
+]

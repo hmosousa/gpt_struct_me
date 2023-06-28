@@ -1,0 +1,21 @@
+[
+  ["GNR", "Organization"],
+  ["dois homens", "Person"],
+  ["34 e os 43 anos", "Other"],
+  ["Sines", "Location"],
+  ["Setúbal", "Location"],
+  ["1.673 doses de estupefacientes", "Object"],
+  ["Guarda Nacional Republicana", "Organization"],
+  ["sábado", "Other"],
+  ["patrulhamento", "Other"],
+  ["tráfico de estupefacientes", "Nature"],
+  ["concelho de Sines", "Location"],
+  ["heroína", "Object"],
+  ["cocaína", "Object"],
+  ["844 euros em numerário", "Object"],
+  ["um veículo", "Object"],
+  ["quatro telemóveis", "Object"],
+  ["Tribunal Judicial de Santiago do Cacém", "Facility"],
+  ["primeiro interrogatório judicial", "Other"],
+  ["eventuais medidas de coação", "Other"]
+]

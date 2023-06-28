@@ -1,0 +1,13 @@
+[
+  ["ficar", "State"],
+  ["baleado", "Occurrence"],
+  ["ficar", "State"],
+  ["ter sido baleado", "Occurrence"],
+  ["dar", "Occurrence"],
+  ["referir", "Reporting"],
+  ["ser desconhecidas", "State"],
+  ["ser identificados", "State"],
+  ["ser detidos", "State"],
+  ["entregar", "Intensional Action"],
+  ["investigação", "Intensional State"]
+]

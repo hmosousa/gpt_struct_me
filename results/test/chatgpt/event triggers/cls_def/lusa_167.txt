@@ -1,0 +1,14 @@
+[
+  ["encontrado", "Occurrence"],
+  ["morto", "State"],
+  ["encontrado", "Reporting"],
+  ["afirmou", "Reporting"],
+  ["há", "State"],
+  ["suspeitas", "State"],
+  ["caído", "Occurrence"],
+  ["tentar perceber", "Intensional Action"],
+  ["confirmado", "State"],
+  ["transportado", "Occurrence"],
+  ["estiveram", "State"],
+  ["apoiados", "State"]
+]

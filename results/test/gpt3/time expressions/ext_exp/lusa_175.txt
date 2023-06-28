@@ -1,0 +1,1 @@
+["hoje", "sexta-feira", "cerca de um mês"]

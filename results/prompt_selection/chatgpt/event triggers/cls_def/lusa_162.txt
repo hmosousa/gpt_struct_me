@@ -1,0 +1,14 @@
+[
+  ["mata", "Occurrence"],
+  ["disparo", "Occurrence"],
+  ["detido", "State"],
+  ["tentar", "Intensional Action"],
+  ["suicídio", "Intensional State"],
+  ["ocorrer", "State"],
+  ["referir", "Reporting"],
+  ["cometer", "Intensional Action"],
+  ["terminar", "Intensional Action"],
+  ["passar", "State"],
+  ["alçada", "State"],
+  ["Polícia Judiciária", "Reporting"]
+]

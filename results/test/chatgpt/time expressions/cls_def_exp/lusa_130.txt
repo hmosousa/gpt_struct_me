@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["quinta-feira", "Date"], ["durante uma ação de fiscalização rodoviária", "Duration"], ["2,5 centímetros", "Duration"]]

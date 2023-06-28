@@ -1,0 +1,1 @@
+["hoje", "domingo", "No mesmo comunicado", "No domingo"]

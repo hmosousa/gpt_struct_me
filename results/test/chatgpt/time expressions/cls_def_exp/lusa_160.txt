@@ -1,0 +1,1 @@
+[["sábado", "Date"], ["hoje", "Date"], ["início de outubro", "Date"], ["três quilogramas", "Set"], ["um quilograma", "Set"]]

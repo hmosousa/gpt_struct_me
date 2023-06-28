@@ -1,0 +1,15 @@
+[
+  ["GNR", "Organization"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["ria de Aveiro", "Location"],
+  ["viveiros ilegais", "Object"],
+  ["crustáceos", "Nature"],
+  ["enguia-europeia", "Nature"],
+  ["2.765 euros", "Object"],
+  ["Guarda", "Organization"],
+  ["Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção", "Organization"],
+  ["CITES", "Organization"],
+  ["águas interiores", "Location"],
+  ["coima máxima de 60 mil euros", "Object"],
+  ["meio natural", "Location"]
+]

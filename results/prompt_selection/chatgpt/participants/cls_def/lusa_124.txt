@@ -1,0 +1,17 @@
+[
+  ["Criança", "Person"],
+  ["acidente", "Other"],
+  ["autoestrada do Norte", "Location"],
+  ["São João da Talha", "Location"],
+  ["Loures", "Location"],
+  ["sábado à noite", "Other"],
+  ["hospital", "Facility"],
+  ["Lusa", "Organization"],
+  ["Comando Geral da GNR", "Organization"],
+  ["viaturas", "Object"],
+  ["trânsito", "Other"],
+  ["bombeiros", "Organization"],
+  ["Instituto Nacional de Emergência Médica", "Organization"],
+  ["polícia", "Organization"],
+  ["viaturas", "Object"]
+]

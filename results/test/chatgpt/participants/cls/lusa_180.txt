@@ -1,0 +1,23 @@
+[
+  ["Homem", "Person"],
+  ["Penafiel", "Location"],
+  ["companheira", "Person"],
+  ["juiz de instrução", "Organization"],
+  ["Ministério Público", "Organization"],
+  ["Polícia Judiciária", "Organization"],
+  ["instituição de acolhimento", "Facility"],
+  ["mulher", "Person"],
+  ["arguido", "Person"],
+  ["exploração sexual", "Other"],
+  ["via pública", "Location"],
+  ["proveitos", "Object"],
+  ["crime", "Other"],
+  ["sujeição", "Other"],
+  ["promessa", "Other"],
+  ["produto estupefaciente", "Object"],
+  ["MP", "Organization"],
+  ["comarca de Porto-Este", "Location"],
+  ["tráfico de pessoas para exploração sexual", "Other"],
+  ["sequestro", "Other"],
+  ["violação", "Other"]
+]

@@ -1,0 +1,18 @@
+[
+["detém", "Occurrence"],
+["anunciou", "Reporting"],
+["detenção", "Occurrence"],
+["flagrante delito", "State"],
+["suspeitas", "Intensional State"],
+["prática", "Intensional Action"],
+["localizado", "State"],
+["detido", "State"],
+["busca domiciliária", "Occurrence"],
+["apreendidos", "State"],
+["utilizava", "Intensional Action"],
+["partilhar", "Intensional Action"],
+["vai ser presente", "Intensional State"],
+["interrogatório judicial", "Occurrence"],
+["aplicação", "Intensional Action"],
+["medidas de coação", "Intensional State"]
+]

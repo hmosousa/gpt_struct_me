@@ -1,0 +1,1 @@
+["encontrado", "retirado", "alertada", "viram", "boiar", "aguardar", "iniciadas", "estiveram"]

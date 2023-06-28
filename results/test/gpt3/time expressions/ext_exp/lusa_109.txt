@@ -1,0 +1,1 @@
+["hoje", "quinta-feira", "madrugada"]

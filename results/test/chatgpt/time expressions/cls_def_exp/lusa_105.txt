@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["no momento da travessia", "Time"], ["ao princípio da noite de domingo", "Time"]]

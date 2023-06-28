@@ -1,0 +1,1 @@
+[["passada quarta-feira", "Date"], ["na passada quarta-feira", "Date"], ["primeiro interrogatório judicial", "Time"]]

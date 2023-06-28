@@ -1,0 +1,11 @@
+[
+  ["devolvidos", "State"],
+  ["anunciou", "Reporting"],
+  ["entregues", "State"],
+  ["incluindo", "Aspectual"],
+  ["situado", "Intensional State"],
+  ["referiu", "Reporting"],
+  ["passam a integrar", "State"],
+  ["adotadas", "Intensional Action"],
+  ["garantam", "Intensional Action"]
+]

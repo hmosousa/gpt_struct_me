@@ -1,0 +1,1 @@
+["detém", "detido", "apreendido", "busca", "identificação", "apurou", "antecedentes criminais", "tráfico", "estupefacientes", "furtos", "roubos", "pendente", "mandado de condução", "estabelecimento prisional", "cumprimento", "pena", "conduzido", "remetidos"]

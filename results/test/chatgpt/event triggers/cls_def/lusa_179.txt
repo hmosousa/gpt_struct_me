@@ -1,0 +1,13 @@
+[
+["morre", "Occurrence"],
+["despiste", "Occurrence"],
+["conduzia", "State"],
+["morreu", "Occurrence"],
+["declarado", "State"],
+["ocupante", "State"],
+["acidente", "Occurrence"],
+["encaminhado", "State"],
+["alerta", "Reporting"],
+["mobilizados", "Intensional Action"],
+["apoiados", "Intensional State"]
+]

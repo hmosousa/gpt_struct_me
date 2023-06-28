@@ -1,0 +1,1 @@
+["hoje", "seis meses", "25 de março", "outubro"]

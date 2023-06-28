@@ -1,0 +1,1 @@
+["acidente", "ferida", "morreu", "hospital", "gravidade", "autoestrada", "zona", "sábado", "noite", "GNR", "quilómetro", "sentido", "ligeiros", "feridos", "encarcerada", "viaturas", "transportada", "trânsito", "cortado", "faixa", "lateral", "bombeiros", "Instituto Nacional de Emergência Médica", "INEM", "polícia", "viaturas"]

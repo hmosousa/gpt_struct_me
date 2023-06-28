@@ -1,0 +1,1 @@
+["feriu", "disparos", "parar", "atingido", "desobedecer", "intimidação", "detido", "informada"]

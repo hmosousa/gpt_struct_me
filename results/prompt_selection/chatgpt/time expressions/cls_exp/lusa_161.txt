@@ -1,0 +1,1 @@
+[["2017", "Date"], ["2016", "Date"], ["2017 e 2019", "Duration"], ["05 de outubro", "Date"]]

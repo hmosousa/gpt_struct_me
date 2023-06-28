@@ -1,0 +1,1 @@
+[["no domingo", "Date"], ["anos", "Duration"], ["em 2012", "Date"], ["em 2017", "Date"]]

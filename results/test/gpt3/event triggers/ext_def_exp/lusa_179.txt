@@ -1,0 +1,1 @@
+["morreu", "despiste", "automóvel", "disseram", "indicaram", "óbito", "declarado", "ocupante", "veículo", "passageiros", "ocorreu", "zona", "freguesia", "encaminhado", "alerta", "mobilizados", "bombeiros", "corporação", "elementos", "apoiados", "viaturas"]

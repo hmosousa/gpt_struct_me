@@ -1,0 +1,1 @@
+[["detenção", "Occurrence"], ["maus-tratos", "Occurrence"], ["ameaças de morte", "Occurrence"], ["refugiou", "Occurrence"], ["encontro", "Occurrence"], ["interrogatório judicial", "Occurrence"], ["aplicada a medida de coação de prisão preventiva", "Occurrence"], ["reforço", "Occurrence"], ["Posto Territorial da Trofa", "Occurrence"]]

@@ -1,0 +1,1 @@
+[["madrugada de segunda-feira", "Date"], ["hoje", "Date"], ["segunda-feira", "Date"], ["cerca das 05:30", "Time"], ["de 72 anos", "Duration"]]

@@ -1,0 +1,17 @@
+[
+  ["morre", "Occurrence"],
+  ["incêndio", "Occurrence"],
+  ["deflagrou", "Occurrence"],
+  ["inalação", "Perception"],
+  ["fumo", "State"],
+  ["morreu", "Occurrence"],
+  ["encontrava morto", "State"],
+  ["fogo", "State"],
+  ["consumido", "State"],
+  ["alerta", "Reporting"],
+  ["extinguiram", "Occurrence"],
+  ["encontraram", "Occurrence"],
+  ["causas", "State"],
+  ["vítima", "State"],
+  ["70 anos", "State"]
+]

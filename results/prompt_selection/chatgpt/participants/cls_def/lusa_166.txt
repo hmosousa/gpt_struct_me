@@ -1,0 +1,17 @@
+[
+  ["Homem", "Person"],
+  ["Estádio da Luz", "Facility"],
+  ["automóvel", "Object"],
+  ["Lisboa", "Location"],
+  ["agência Lusa", "Organization"],
+  ["Comando Metropolitano de Lisboa", "Organization"],
+  ["PSP", "Organization"],
+  ["freguesia de São Domingos de Benfica", "Location"],
+  ["condutor", "Person"],
+  ["detido", "Other"],
+  ["Rádio Renascença", "Organization"],
+  ["relvado", "Facility"],
+  ["polícia", "Organization"],
+  ["instalações", "Facility"],
+  ["Benfica", "Location"]
+]

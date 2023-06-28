@@ -1,0 +1,1 @@
+["hoje", "início do ano", "julho"]

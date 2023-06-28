@@ -1,0 +1,11 @@
+[
+  ["homem", "Person"],
+  ["mãe", "Person"],
+  ["irmã", "Person"],
+  ["GNR", "Organization"],
+  ["machada", "Object"],
+  ["navalha", "Object"],
+  ["habitação", "Facility"],
+  ["militares", "Person"],
+  ["Tribunal Judicial de Seia", "Facility"]
+]

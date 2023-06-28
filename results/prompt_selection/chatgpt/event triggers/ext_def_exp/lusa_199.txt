@@ -1,0 +1,1 @@
+["morreu", "sofreu", "acidente", "derrubou", "poste de eletricidade", "atingindo", "circulava", "transportada", "morreu", "atingiu", "sofreu", "acidente", "provocou", "queda", "poste de eletricidade", "envolveu", "veículo", "decidiu", "averiguar", "ordenou", "abertura", "processo de averiguação", "colaborar", "lamentando", "endereçando", "condolências"]

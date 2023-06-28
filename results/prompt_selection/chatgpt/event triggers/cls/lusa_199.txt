@@ -1,0 +1,21 @@
+[
+  ["morreu", "Occurrence"],
+  ["sofreu", "Occurrence"],
+  ["derrubou", "Intensional Action"],
+  ["atingindo", "Intensional Action"],
+  ["transportada", "Intensional Action"],
+  ["morreu", "Occurrence"],
+  ["sobreu", "Occurrence"],
+  ["ocorreu", "Occurrence"],
+  ["provocou", "Intensional Action"],
+  ["queda", "State"],
+  ["envolveu", "Intensional Action"],
+  ["decidiu", "Intensional Action"],
+  ["averiguar", "Intensional Action"],
+  ["ordenou", "Intensional Action"],
+  ["abertura", "State"],
+  ["averiguação", "State"],
+  ["colaborar", "Intensional Action"],
+  ["lamentando", "Reporting"],
+  ["endereçando", "Reporting"]
+]

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["Lunda Norte", "Time"], ["Luanda", "Time"], ["este ano", "Time"], ["no início do ano", "Time"], ["em julho", "Time"]]

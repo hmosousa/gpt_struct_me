@@ -1,0 +1,1 @@
+["baleado", "disparo", "fugiu", "atingida", "conduzida", "hospital", "indicou", "corporação", "ferido", "ligeiro", "alerta", "autoridades", "chamada", "investigar", "competência", "reservada", "órgão", "policia", "criminal", "razões", "crime", "determinar"]

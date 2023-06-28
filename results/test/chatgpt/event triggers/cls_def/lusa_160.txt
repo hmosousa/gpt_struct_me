@@ -1,0 +1,15 @@
+[
+  ["detém", "Reporting"],
+  ["deteve", "Reporting"],
+  ["transportava", "Occurrence"],
+  ["detido", "State"],
+  ["será presente", "State"],
+  ["detido", "State"],
+  ["deteve", "Reporting"],
+  ["deteve", "Reporting"],
+  ["envolvimento", "Intensional State"],
+  ["aquisição", "Intensional Action"],
+  ["entrega", "Intensional Action"],
+  ["facilitação", "Intensional Action"],
+  ["introdução", "Intensional Action"]
+]

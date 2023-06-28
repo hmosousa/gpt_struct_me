@@ -1,0 +1,22 @@
+[
+["Desabamento de casa", "Occurrence"],
+["mata", "Intensional Action"],
+["pelo menos oito pessoas", "State"],
+["chuvas sem precedentes", "State"],
+["graves inundações", "State"],
+["mataram", "Intensional Action"],
+["policia local", "Reporting"],
+["mortos", "State"],
+["outras quatro pessoas", "State"],
+["hospitalizadas", "Intensional State"],
+["muro ter caído", "Occurrence"],
+["casa vizinha", "State"],
+["impacto", "State"],
+["forte chuva em Hyderabad", "State"],
+["quebrou um recorde estabelecido há 20 anos", "Intensional State"],
+["registando-se inundações em áreas baixas da cidade", "Occurrence"],
+["autoridades usaram barcos para retirar pessoas", "Intensional Action"],
+["9,6 milhões de pessoas em todo o sul da Ásia foram afetadas por severas inundações este ano", "State"],
+["550 pessoas morreram na Índia, Bangladesh e Nepal", "Occurrence"],
+["milhões foram deslocadas das suas casas desde que as enchentes começaram, em junho", "State"]
+]

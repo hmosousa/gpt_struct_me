@@ -1,0 +1,17 @@
+[
+  ["hoje", "Date"],
+  ["52 anos", "Duration"],
+  ["acidente", "Set"],
+  ["camião", "Set"],
+  ["poste de eletricidade", "Set"],
+  ["Rua da Constituição", "Set"],
+  ["PSP", "Set"],
+  ["Relações Públicas", "Set"],
+  ["Comando Metropolitano da PSP do Porto", "Set"],
+  ["Hospital de Santo António", "Set"],
+  ["funcionário", "Set"],
+  ["bombas de gasolina", "Set"],
+  ["07:50", "Time"],
+  ["Câmara do Porto", "Set"],
+  ["Empresa Municipal de Ambiente do Porto", "Set"]
+]

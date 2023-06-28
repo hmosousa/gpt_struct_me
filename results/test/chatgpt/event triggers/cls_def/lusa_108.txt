@@ -1,0 +1,15 @@
+[
+["atropelada", "Occurrence"],
+["protesto", "State"],
+["mariscadores", "Aspectual"],
+["informaram", "Reporting"],
+["ocorreu", "Occurrence"],
+["tentando", "Intensional Action"],
+["evitar", "Intensional Action"],
+["forçou", "Intensional Action"],
+["atropelado", "Occurrence"],
+["sofreu", "Occurrence"],
+["transportada", "Intensional Action"],
+["referiu", "Reporting"],
+["coliformes fecais", "Intensional State"]
+]

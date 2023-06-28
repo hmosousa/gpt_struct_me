@@ -1,0 +1,1 @@
+[["quinta-feira", "Date"], ["20 quilos", "Duration"]]

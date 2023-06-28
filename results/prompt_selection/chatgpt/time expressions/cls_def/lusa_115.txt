@@ -1,0 +1,8 @@
+[
+  ["hoje", "Date"],
+  ["Torres Eucaliptos", "Set"],
+  ["Instituto Sapiens", "Set"],
+  ["Luanda Medical Center", "Set"],
+  ["Rua Amílcar Cabral", "Set"],
+  ["distrito da Ingombota", "Set"]
+]

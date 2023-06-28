@@ -1,0 +1,1 @@
+["aprovação", "salvação", "aceitação", "redução salarial", "ajuda", "empréstimos", "recusa", "sindicato", "cedência", "emprestar", "reduzir despesas", "suprimir postos de trabalho", "baixas salariais", "perda de lucro"]

@@ -1,0 +1,1 @@
+[["julho", "Time"], ["esta manhã", "Time"], ["novembro", "Time"], ["quatro anos", "Duration"], ["desde 2012", "Duration"], ["em 2019/20", "Date"]]

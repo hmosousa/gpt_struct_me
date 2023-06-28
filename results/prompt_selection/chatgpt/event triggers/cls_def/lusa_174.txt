@@ -1,0 +1,21 @@
+[
+  ["encontrado", "Occurrence"],
+  ["morto", "State"],
+  ["cisterna", "Aspectual"],
+  ["camião", "Aspectual"],
+  ["funcionário", "Aspectual"],
+  ["Transportadora J Amaral", "Aspectual"],
+  ["alerta", "Reporting"],
+  ["manutenção", "Intensional Action"],
+  ["desaparecido", "State"],
+  ["Bombeiros de Estarreja", "Aspectual"],
+  ["causa da morte", "Intensional State"],
+  ["Delegada de Saúde", "Aspectual"],
+  ["Polícia Judiciária", "Aspectual"],
+  ["tomou conta", "Intensional Action"],
+  ["Viatura Médica de Emergência e Reanimação de Aveiro", "Aspectual"],
+  ["transporte", "Intensional Action"],
+  ["cadáver", "Aspectual"],
+  ["Hospital Infante D. Pedro", "Aspectual"],
+  ["fonte dos bombeiros", "Aspectual"]
+]

@@ -1,0 +1,1 @@
+["encontrado", "morto", "alerta", "visto", "sem vida", "constataram", "ferimentos", "solicitada", "intervenção", "investigando", "caso", "vivia", "sozinho", "visto", "com vida", "óbito", "declarado", "encaminhado", "serviço de Medicina Legal", "hospital de Portalegre"]

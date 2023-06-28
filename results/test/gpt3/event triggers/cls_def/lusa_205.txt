@@ -1,0 +1,1 @@
+[["Prisão preventiva", "State"], ["crime violência doméstica", "Occurrence"], ["denúncia", "Reporting"], ["injuriado", "Perception"], ["ameaçado de morte", "Aspectual"], ["destruiu", "Intensional Action"], ["intimidar", "Intensional State"]]

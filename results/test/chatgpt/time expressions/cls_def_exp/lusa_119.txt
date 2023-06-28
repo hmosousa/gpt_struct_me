@@ -1,0 +1,1 @@
+[["hoje de manhã", "Time"], ["18 a 20 de dezembro", "Date"], ["cancelar essa deslocação", "Set"]]

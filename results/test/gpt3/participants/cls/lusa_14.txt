@@ -1,0 +1,1 @@
+[["Autoridades judiciais", "Organization"], ["Maximiliano Trimarchi", "Person"], ["Diego Maradona", "Person"], ["San Isidro", "Location"], ["Leopoldo Luque", "Person"], ["Agustina Cosachov", "Person"], ["Maradona", "Person"]]

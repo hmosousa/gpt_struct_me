@@ -1,0 +1,17 @@
+[
+  ["Homem", "Person"],
+  ["ciclomotor", "Object"],
+  ["veículo ligeiro", "Object"],
+  ["Setúbal", "Location"],
+  ["homem", "Person"],
+  ["Estrada Nacional 10-8", "Location"],
+  ["Mitrena", "Location"],
+  ["PSP", "Organization"],
+  ["Proteção Civil", "Organization"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["Lusa", "Organization"],
+  ["Hospital de São Bernardo", "Facility"],
+  ["bombeiros", "Organization"],
+  ["corporações de Palmela e Sapadores de Setúbal", "Organization"],
+  ["viatura médica de emergência e reanimação (VMER)", "Object"]
+]
