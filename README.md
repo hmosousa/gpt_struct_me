@@ -30,7 +30,7 @@ The repository utilizes the [Text2Story Lusa Corpus](https://rdm.inesctec.pt/dat
 
 ```sh
 resources
-└── lusa
+└── lusa_news
     ├── lusa_0.ann
     ├── lusa_0.txt
     ├── lusa_100.ann

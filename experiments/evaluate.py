@@ -38,7 +38,7 @@ def read_predicions() -> dict:
 
 def read_annoations() -> dict:
     """Read and structure the annotations of the corpus."""
-    lusa_path = RESOURCE_PATH / "lusa"
+    lusa_path = RESOURCE_PATH / "lusa_news"
     documents = read_lusa(lusa_path)
 
     annotations = {}
