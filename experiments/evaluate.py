@@ -1,18 +1,22 @@
 """Parse models predictions."""
 
 import json
+from pathlib import Path
+
+import fire
+import pandas as pd
 
 from constants import RESOURCE_PATH, ROOT
 
 from src.reader import read_lusa
 from src.evaluate import strict_metrics, relaxed_metrics
 
-RESULTS_PATH = ROOT / "results" / "test"
+RESULTS_PATH = ROOT / "results"
 
 
-def read_predicions() -> dict:
+def read_predicions(path: Path) -> dict:
     """Read and structure the predictions of the models."""
-    predictions_path = RESULTS_PATH / "predictions.json"
+    predictions_path = path / "predictions.json"
     content = json.loads(predictions_path.read_text())
 
     predictions = {}
@@ -80,12 +84,37 @@ def evaluate(predicitons: dict, annotations: dict) -> list:
     return results
 
 
-if __name__ == "__main__":
+def make_results_table(results: list) -> pd.DataFrame:
+    for result in results:
+        strict = result.pop("strict")
+        result["precision"] = strict["precision"]
+        result["recall"] = strict["recall"]
+        result["f1"] = strict["f1"]
 
+        relaxed = result.pop("relaxed")
+        result["f1_r"] = relaxed["f1"]
+    df = pd.DataFrame(results)
+    df.sort_values(["model", "entity", "f1"], inplace=True)
+    df.reset_index(drop=True, inplace=True)
+    return df
+
+
+
+def main(mode: str = "test", store_table: bool = True) -> None:
+    path = RESULTS_PATH / mode
+    predictions = read_predicions(path)
     annotations = read_annoations()
-    predictions = read_predicions()
 
     results = evaluate(predictions, annotations)
 
-    output_path = RESULTS_PATH / "results.json"
+    output_path = path / "results.json"
     json.dump(results, output_path.open("w"), indent=4)
+
+    if store_table:
+        table = make_results_table(results)
+        print(table.to_string())
+        table.to_csv(path / "results.csv", index=False)
+        
+
+if __name__ == "__main__":
+    fire.Fire(main)

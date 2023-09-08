@@ -51,7 +51,7 @@ def heideltime(docs):
 
 def main():
     """Main script."""
-    lusa = read_lusa(RESOURCE_PATH / "lusa")
+    lusa = read_lusa(RESOURCE_PATH / "lusa_news")
 
     docs2drop = SAMPLE_DOCS_IDS + list(EXAMPLERS.values())
     test_docs = [doc for doc in lusa if doc.id not in docs2drop]

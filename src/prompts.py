@@ -12,11 +12,18 @@ class Prompter:
 
     def __init__(
         self,
-        task: str,
         entity: str,
+        task: str = "extraction",
         example: Document = None,
         definition: bool = False,
     ):
+        """Initialize the prompter.
+        Args:
+            entity: ["event triggers", "time expressions", "participants"]
+            task: ["extraction", "classification"]
+            example: A document to be used as an example.
+            definition: Whether to include the definition of the entity.
+        """
         self.task = task
         self.entity = entity
 
@@ -59,7 +66,8 @@ class Prompter:
 
         template = "\n\n".join(template)
         self.template = Template(
-            f"{template}\n\nInput:\n\"$text\"\n\nOutput:\n")
+            f"{template}\n\nInput:\n\"$text\"\n\nOutput:\n"
+        )
 
     def _get_extraction_annotation(self, doc):
         """Get the annotation for the extraction task."""

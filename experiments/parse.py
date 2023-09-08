@@ -1,11 +1,16 @@
 """Parse models predictions."""
 
 import json
+import logging
 from pathlib import Path
+
+import fire 
 
 from constants import ROOT
 
-RESULTS_PATH = ROOT / "results" / "test"
+logging.basicConfig(level=logging.INFO)
+
+RESULTS_PATH = ROOT / "results"
 
 
 def read_json(filepath: Path) -> dict:
@@ -16,14 +21,15 @@ def read_json(filepath: Path) -> dict:
         return answer
 
     except json.decoder.JSONDecodeError:
+        logging.info(f"Wasn't able to parse {filepath}")
         print(filepath)
         return []
 
 
-def read_predictions():
+def read_predictions(path: Path):
     """Parse the prediction files."""
     predictions = []
-    filepaths = RESULTS_PATH.glob("**/*.txt")
+    filepaths = path.glob("**/*.txt")
     for filepath in filepaths:
         *_, model, entity, template, _ = filepath.parts
         doc = filepath.stem
@@ -54,13 +60,15 @@ def read_predictions():
     return predictions
 
 
-def main() -> None:
+def main(mode: str = "prompt_selection") -> None:
     """Run the script."""
-    predictions = read_predictions()
+    path = RESULTS_PATH / mode
 
-    predictions_path = RESULTS_PATH / "predictions.json"
+    predictions = read_predictions(path)
+
+    predictions_path = path / "predictions.json"
     json.dump(predictions, predictions_path.open("w"), indent=4)
 
 
 if __name__ == "__main__":
-    main()
+    fire.Fire(main)
