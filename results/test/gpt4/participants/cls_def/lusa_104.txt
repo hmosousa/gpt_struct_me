@@ -1,0 +1,20 @@
+[
+["Três pessoas", "Person"],
+["hipopótamo", "Nature"],
+["província angolana do Bié", "Location"],
+["município de Camacupa", "Location"],
+["rádio pública", "Organization"],
+["rio Kwanza", "Nature"],
+["embarcação artesanal", "Object"],
+["oito pessoas", "Person"],
+["um dos sobreviventes", "Person"],
+["camponeses", "Person"],
+["os mortos", "Person"],
+["uma criança", "Person"],
+["administrador comunal da Muinha", "Person"],
+["Baptista Sambango", "Person"],
+["administrador municipal", "Person"],
+["rio", "Nature"],
+["ponte", "Facility"],
+["população", "Person"]
+]

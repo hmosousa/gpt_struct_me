@@ -1,0 +1,1 @@
+["Mulher", "mariscadores", "Murtosa", "Bombeiros", "GNR", "condutor", "viatura", "pescadores", "senhora", "Hospital de Aveiro", "GNR", "mariscadores da Torreira"]

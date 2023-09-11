@@ -1,0 +1,23 @@
+[
+  ["GNR", "Organization"],
+  ["Sines", "Location"],
+  ["Setúbal", "Location"],
+  ["Guarda Nacional Republicana", "Organization"],
+  ["34", "Person"],
+  ["43", "Person"],
+  ["1.673 doses de estupefacientes", "Object"],
+  ["sábado", "Other"],
+  ["patrulhamento", "Other"],
+  ["Sines", "Location"],
+  ["estupefacientes", "Object"],
+  ["Sines", "Location"],
+  ["Setúbal", "Location"],
+  ["Setúbal", "Location"],
+  ["GNR", "Organization"],
+  ["1.570 doses de heroína", "Object"],
+  ["103 doses de cocaína", "Object"],
+  ["844 euros em numerário", "Object"],
+  ["um veículo", "Object"],
+  ["quatro telemóveis", "Object"],
+  ["Tribunal Judicial de Santiago do Cacém", "Facility"]
+]

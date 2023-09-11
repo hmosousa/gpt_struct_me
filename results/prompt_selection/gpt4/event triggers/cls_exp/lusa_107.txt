@@ -1,0 +1,18 @@
+[
+["atropelada", "Occurrence"],
+["protesto", "Occurrence"],
+["informaram", "Reporting"],
+["ocorreu", "Occurrence"],
+["tentar sair", "Intensional Action"],
+["tentaram evitar", "Intensional Action"],
+["incendiou-se", "Occurrence"],
+["forçou", "Intensional Action"],
+["atropelado", "Occurrence"],
+["sofreu", "Occurrence"],
+["transportada", "Occurrence"],
+["colocou em fuga", "Intensional Action"],
+["foi identificado", "State"],
+["estão em protesto", "State"],
+["poderem trabalhar", "Intensional State"],
+["foram detetadas", "State"]
+]

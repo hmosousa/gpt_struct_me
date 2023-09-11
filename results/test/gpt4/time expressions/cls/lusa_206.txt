@@ -1,0 +1,4 @@
+[
+["hoje", "Date"],
+["por volta das 12:00", "Time"]
+]

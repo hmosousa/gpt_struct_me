@@ -1,0 +1,8 @@
+[
+["Homem", "Person"],
+["Barreiro", "Location"],
+["atirador", "Person"],
+["agência Lusa", "Organization"],
+["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"],
+["Polícia Judiciária", "Organization"]
+]

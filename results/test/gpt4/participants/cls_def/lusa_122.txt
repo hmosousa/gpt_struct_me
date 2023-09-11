@@ -1,0 +1,16 @@
+[
+["Alex Apolinário", "Person"],
+["Alverca", "Organization"],
+["Campeonato de Portugal", "Organization"],
+["corpo clínico do Hospital de Vila Franca de Xira", "Organization"],
+["Facebook do clube", "Facility"],
+["ribatejanos", "Person"],
+["Alverca Futebol SAD", "Organization"],
+["profissionais de saúde", "Person"],
+["clubes", "Organization"],
+["atletas", "Person"],
+["instituições", "Organization"],
+["adeptos de todo o mundo", "Person"],
+["SAD alverquense", "Organization"],
+["União de Almeirim", "Organization"]
+]

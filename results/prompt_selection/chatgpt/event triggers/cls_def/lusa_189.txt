@@ -1,9 +1,1 @@
-[
-["morre", "Occurrence"],
-["acidente de trabalho", "State"],
-["queda em altura", "Occurrence"],
-["falecer", "Occurrence"],
-["transportada por ambulância", "Occurrence"],
-["acionado o helicóptero do INEM", "Occurrence"],
-["tomou conta da ocorrência", "Reporting"]
-]
+[["Homem morto a tiro", "Occurrence"], ["atirador em fuga", "State"], ["homem foi hoje morto a tiro", "Occurrence"], ["baleado com dois tiros de caçadeira", "Occurrence"], ["atirador está em fuga", "State"], ["incidente ocorreu às 20:20 de hoje", "Occurrence"], ["circunstâncias do tiroteio", "State"], ["suspeita de homicídio envolvendo armas de fogo", "State"], ["ocorrência está a ser acompanhada pela Polícia Judiciária", "State"], ["responsável pelo investigação do caso", "State"]]

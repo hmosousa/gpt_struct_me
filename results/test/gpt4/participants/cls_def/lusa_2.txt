@@ -1,0 +1,14 @@
+[
+["Homem", "Person"],
+["Mem Martins", "Location"],
+["Sintra", "Location"],
+["Algueirão-Mem Martins", "Location"],
+["Lisboa", "Location"],
+["agência Lusa", "Organization"],
+["Comando Metropolitano de Lisboa (Cometlis)", "Organization"],
+["Estrada de Mem Martins", "Location"],
+["Hospital Professor Doutor Fernando Fonseca (Amadora-Sintra)", "Facility"],
+["Cometlis", "Organization"],
+["PSP", "Organization"],
+["Polícia Judiciária (PJ)", "Organization"]
+]

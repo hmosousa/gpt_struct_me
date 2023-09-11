@@ -1,0 +1,20 @@
+[
+["Governo", "Organization"],
+["Ricardo Pinheiro", "Person"],
+["José Mendes", "Person"],
+["secretário de Estado do Planeamento", "Facility"],
+["deputado socialista", "Person"],
+["Presidência da República", "Facility"],
+["Presidente da República", "Person"],
+["primeiro-ministro", "Person"],
+["José Fernandes Gomes Mendes", "Person"],
+["Ricardo Miguel Furtado Pinheiro", "Person"],
+["ministro do Planeamento", "Person"],
+["Nelson de Sousa", "Person"],
+["Palácio de Belém", "Facility"],
+["presidente da Câmara de Campo Maior", "Person"],
+["Câmara de Campo Maior", "Facility"],
+["distrito de Portalegre", "Location"],
+["deputado", "Person"],
+["eleições legislativas", "Event"]
+]

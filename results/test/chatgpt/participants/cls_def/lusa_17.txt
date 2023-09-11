@@ -1,0 +1,16 @@
+[
+  ["Dirigente da Casa Branca", "Organization"],
+  ["Síria", "Location"],
+  ["cidadãos dos EUA", "Person"],
+  ["Wall Street Journal", "Organization"],
+  ["Associated Press", "Organization"],
+  ["Donald Trump", "Person"],
+  ["Kash Patel", "Person"],
+  ["jornalista Austin Tice", "Person"],
+  ["Texas", "Location"],
+  ["Majd Kamalmaz", "Person"],
+  ["Estado da Virgínia", "Location"],
+  ["regime de Damasco", "Organization"],
+  ["embaixada norte-americana", "Facility"],
+  ["embaixador", "Person"]
+]

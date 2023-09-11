@@ -1,0 +1,11 @@
+[
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["mãe", "Person"],
+  ["Gondomar", "Location"],
+  ["Porto", "Location"],
+  ["violência doméstica", "Nature"],
+  ["militares", "Organization"],
+  ["armas brancas", "Object"],
+  ["Tribunal Judicial do Porto", "Facility"]
+]

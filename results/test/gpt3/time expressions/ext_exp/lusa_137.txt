@@ -1,1 +1,1 @@
-["hoje", "setembro de 2019", "quarta-feira", "hoje"]
+["segunda-feira", "17:00", "noite", "manh\u00e3", "15:40"]

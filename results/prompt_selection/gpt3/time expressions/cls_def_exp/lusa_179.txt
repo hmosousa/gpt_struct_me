@@ -1,0 +1,1 @@
+[["2017", "Date"], ["26 anos", "Duration"], ["alguns dias", "Duration"], ["atualidade", "Set"]]

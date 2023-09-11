@@ -1,0 +1,19 @@
+[
+["Dois homens de 22 e 33 anos", "Person"],
+["Casal dos Machados", "Location"],
+["Lisboa", "Location"],
+["Lusa", "Organization"],
+["PSP", "Organization"],
+["várias pessoas", "Person"],
+["armas de fogo", "Object"],
+["bombas de gasolina da Avenida Infante D. Henrique", "Facility"],
+["Largo Maria Judite de Carvalho", "Location"],
+["Casal dos Machados", "Location"],
+["freguesia do Parque das Nações", "Location"],
+["homem de 33 anos", "Person"],
+["Hospital de Santa Maria", "Facility"],
+["ferido ligeiro, de 22 anos", "Person"],
+["cartucho de arma de fogo", "Object"],
+["Três viaturas", "Object"],
+["Polícia Judiciária", "Organization"]
+]

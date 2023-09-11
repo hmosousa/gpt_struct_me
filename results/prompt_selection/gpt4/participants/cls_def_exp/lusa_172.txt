@@ -1,0 +1,19 @@
+[
+["Corpo de homem", "Person"],
+["Lagoa", "Location"],
+["Algarve", "Location"],
+["homem", "Person"],
+["60 e 70 anos", "Other"],
+["praia da Estaquinha", "Location"],
+["concelho de Lagoa", "Location"],
+["Autoridade Marítima", "Organization"],
+["pescador", "Person"],
+["arriba", "Nature"],
+["praia de Lagoa", "Location"],
+["distrito de Faro", "Location"],
+["Estação Salva-vidas de Ferragudo", "Facility"],
+["marina de Portimão", "Location"],
+["delegada de saúde de Lagoa", "Person"],
+["gabinete de medicina legal de Portimão", "Facility"],
+["Polícia Marítima de Portimão", "Organization"]
+]

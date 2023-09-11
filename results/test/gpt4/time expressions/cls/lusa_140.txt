@@ -1,0 +1,4 @@
+[
+["hoje", "Date"],
+["novembro de 2011 a outubro de 2016", "Duration"]
+]

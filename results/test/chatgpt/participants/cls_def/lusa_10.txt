@@ -1,0 +1,14 @@
+[
+  ["GNR", "Organization"],
+  ["homem", "Person"],
+  ["Cabeceiras de Basto", "Location"],
+  ["fonte policial", "Organization"],
+  ["freguesia de Refojos de Basto", "Location"],
+  ["concelho de Cabeceiras de Basto", "Location"],
+  ["distrito de Braga", "Location"],
+  ["Comando Territorial da GNR em Braga", "Organization"],
+  ["militares", "Organization"],
+  ["detido", "Person"],
+  ["juiz de instrução", "Person"],
+  ["Polícia Judiciária", "Organization"]
+]

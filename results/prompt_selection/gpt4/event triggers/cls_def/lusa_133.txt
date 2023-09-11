@@ -1,0 +1,18 @@
+[
+["GNR apreende em Aveiro 390 quilogramas de atum-rabilho", "Occurrence"],
+["A GNR apreendeu 390 quilogramas de atum-rabilho", "Occurrence"],
+["A apreensão ocorreu na segunda-feira durante uma ação de fiscalização", "Occurrence"],
+["Durante a operação, os militares encontraram num veículo \"77 quilos de atum-rabilho\"", "Occurrence"],
+["acabando no seguimento das posteriores diligências por localizar \"a embarcação de pesca responsável, tendo ainda no seu interior 313 quilos de atum-rabilho\"", "Occurrence"],
+["foram identificados o condutor do veículo e o mestre da embarcação", "Occurrence"],
+["elaborado o \"auto de contraordenação pelo facto de estar interdito o transporte e a captura desta espécie, uma infração punível com uma coima até 37.500 euros\"", "Occurrence"],
+["O pescado apreendido, após ter sido sujeito a um controlo higiossanitário, foi considerado próprio para consumo e doado a uma instituição de solidariedade social", "Occurrence"],
+["cuja captura está interdita", "State"],
+["podendo levar a uma coima até 37.500 euros", "State"],
+["com o objetivo de controlar o cumprimento das regras de descarga, transporte, comercialização e regime de primeira venda de pescado fresco", "Intensional Action"],
+["revelou hoje em comunicado a Guarda", "Reporting"],
+["refere a nota de imprensa", "Reporting"],
+["acrescenta a GNR", "Reporting"],
+["Ainda segundo a Guarda", "Reporting"],
+["acrescenta o comunicado", "Reporting"]
+]

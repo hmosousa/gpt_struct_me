@@ -1,0 +1,18 @@
+[
+  ["GNR", "Organization"],
+  ["dois homens", "Person"],
+  ["máquinas de jogo ilegal", "Object"],
+  ["Amarante", "Location"],
+  ["Vila Meã", "Location"],
+  ["Porto", "Location"],
+  ["fonte policial", "Other"],
+  ["suspeitos", "Person"],
+  ["30 e 60 anos", "Other"],
+  ["estabelecimentos de restauração e bebidas", "Facility"],
+  ["telemóvel", "Object"],
+  ["tablet", "Object"],
+  ["computador com impressora", "Object"],
+  ["nove litros de bebidas espirituosas", "Object"],
+  ["estampilha fiscal", "Object"],
+  ["Tribunal Judicial de Amarante", "Facility"]
+]

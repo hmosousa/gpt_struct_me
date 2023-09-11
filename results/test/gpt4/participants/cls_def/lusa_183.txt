@@ -1,0 +1,14 @@
+[
+["Homem", "Person"],
+["ex-companheira", "Person"],
+["Gaia", "Location"],
+["homem de 28 anos", "Person"],
+["GNR", "Organization"],
+["pulseira eletrónica", "Object"],
+["detido", "Person"],
+["vítima", "Person"],
+["militares da GNR", "Person"],
+["suspeito", "Person"],
+["vítima, de 30 anos", "Person"],
+["veículo da vítima", "Object"]
+]

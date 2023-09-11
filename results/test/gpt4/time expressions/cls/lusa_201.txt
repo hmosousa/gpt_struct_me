@@ -1,0 +1,4 @@
+[
+["hoje", "Date"],
+["cerca das 10:00", "Time"]
+]

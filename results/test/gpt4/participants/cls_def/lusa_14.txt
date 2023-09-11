@@ -1,0 +1,17 @@
+[
+["Autoridades policiais angolanas", "Organization"],
+["Serviço de investigação Criminal (SIC)", "Organization"],
+["três crianças da República Democrática do Congo (RDCongo)", "Person"],
+["cidade do Dundo", "Location"],
+["província angolana da Lunda Norte", "Location"],
+["porta-voz do SIC na Lunda Norte, Veríssimo Pandamari", "Person"],
+["crianças com 9 e 12 anos", "Person"],
+["dois supostos traficantes", "Person"],
+["Luanda", "Location"],
+["capital de Angola", "Location"],
+["Veríssimo Pandamari", "Person"],
+["agência noticiosa angolana, Angop", "Organization"],
+["homens", "Person"],
+["operação denominada \"Kudissanga\"", "Other"],
+["populares", "Person"]
+]

@@ -1,1 +1,1 @@
-["na quarta-feira", "hoje", "até ao momento", "por ano"]
+["segunda-feira", "dezembro passado", "22 meses", "dezembro"]

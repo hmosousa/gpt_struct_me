@@ -1,1 +1,1 @@
-["esta tarde", "segunda-feira", "17:00", "noite", "esta manhã", "15:40"]
+["hoje", "s\u00e1bado"]

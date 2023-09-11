@@ -1,0 +1,14 @@
+[
+  ["Homem de 25 anos", "Person"],
+  ["incêndio", "Nature"],
+  ["casa", "Facility"],
+  ["Arcozelo", "Location"],
+  ["Vila Nova de Gaia", "Location"],
+  ["Lusa", "Organization"],
+  ["Sapadores", "Organization"],
+  ["08:37", "Other"],
+  ["cozinha", "Facility"],
+  ["Bombeiros da Aguda", "Organization"],
+  ["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Facility"],
+  ["Proteção Civil", "Organization"]
+]

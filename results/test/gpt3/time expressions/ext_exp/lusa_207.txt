@@ -1,1 +1,1 @@
-["hoje", "12:00"]
+["ter\u00e7a-feira \u00e0 noite", "21:49"]

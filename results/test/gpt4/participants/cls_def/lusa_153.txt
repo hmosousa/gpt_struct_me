@@ -1,0 +1,13 @@
+[
+["homem da Trofa", "Person"],
+["GNR", "Organization"],
+["Núcleo de Investigação e Apoio a Vítimas Específicas (NIAVE) do Porto", "Organization"],
+["Porto", "Location"],
+["Trofa", "Location"],
+["esposa", "Person"],
+["mulher", "Person"],
+["suspeito", "Person"],
+["detido", "Person"],
+["Tribunal Judicial de Matosinhos", "Facility"],
+["Posto Territorial da Trofa", "Facility"]
+]

@@ -1,1 +1,0 @@
-["ferido", "eletrocutado", "alerta", "transportada", "habitação", "Deslocaram-se"]

@@ -1,1 +1,1 @@
-["hoje", "meses", "últimos meses"]
+["hoje", "15:30"]

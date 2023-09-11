@@ -1,0 +1,1 @@
+["julho", "novembro", "esta manh\u00e3", "quatro anos", "28 anos", "2019/20"]

@@ -1,0 +1,4 @@
+[
+["na passada quarta-feira", "Date"],
+["hoje", "Date"]
+]

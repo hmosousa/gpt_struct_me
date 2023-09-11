@@ -1,0 +1,19 @@
+[
+["Mulher atropelada durante protesto de mariscadores na Murtosa", "Occurrence"],
+["Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa", "Occurrence"],
+["durante um protesto com cerca de dezenas de mariscadores", "Occurrence"],
+["O caso ocorreu cerca das 12:50", "Occurrence"],
+["o condutor da viatura era um homem que transportava bivalves", "State"],
+["estaria a tentar sair do local", "Intensional Action"],
+["Os pescadores tentaram evitar que ele saísse de lá", "Intensional Action"],
+["A situação incendiou-se um bocadinho", "Occurrence"],
+["o senhor forçou a saída com a viatura", "Intensional Action"],
+["tendo atropelado uma senhora", "Occurrence"],
+["a mulher sofreu ferimentos ligeiros", "Occurrence"],
+["tendo sido transportada para o Hospital de Aveiro", "Occurrence"],
+["o condutor se colocou em fuga", "Intensional Action"],
+["já foi identificado", "State"],
+["Os mariscadores da Torreira estão em protesto há mais de uma semana", "State"],
+["devido ao facto de não poderem trabalhar", "State"],
+["por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro", "State"]
+]

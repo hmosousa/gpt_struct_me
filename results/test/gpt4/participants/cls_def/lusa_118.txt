@@ -1,0 +1,22 @@
+[
+["Covid-19", "Nature"],
+["Costa", "Person"],
+["Macron", "Person"],
+["Paris", "Location"],
+["O primeiro-ministro português", "Person"],
+["Presidente francês", "Person"],
+["Emmanuel Macron", "Person"],
+["novo coronavírus", "Nature"],
+["Palácio do Eliseu", "Facility"],
+["primeiro-ministro", "Person"],
+["autoridades de saúde", "Organization"],
+["gabinete de António Costa", "Organization"],
+["agência Lusa", "Organization"],
+["São Tomé e Príncipe", "Location"],
+["Guiné Bissau", "Location"],
+["18 a 20 de dezembro", "Other"],
+["teste para deteção de Covid-19", "Object"],
+["agenda pública", "Other"],
+["atividade executiva", "Other"],
+["agenda de trabalho", "Other"]
+]

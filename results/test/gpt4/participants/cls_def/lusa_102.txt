@@ -1,0 +1,19 @@
+[
+["Homem", "Person"],
+["PSP", "Organization"],
+["prédio habitacional em Espinho", "Facility"],
+["Espinho", "Location"],
+["distrito de Aveiro", "Location"],
+["16 feridos", "Person"],
+["autor do incêndio", "Person"],
+["hall de entrada do referido prédio", "Facility"],
+["16 pessoas", "Person"],
+["unidade hospitalar", "Facility"],
+["incêndio", "Nature"],
+["prédio", "Facility"],
+["fogo", "Nature"],
+["19:55 de sábado", "Other"],
+["20:20", "Other"],
+["Bombeiros Voluntários de Espinho", "Organization"],
+["Polícia Judiciária", "Organization"]
+]

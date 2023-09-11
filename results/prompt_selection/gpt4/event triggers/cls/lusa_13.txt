@@ -1,0 +1,14 @@
+[
+["fazem buscas", "Occurrence"],
+["realizaram", "Occurrence"],
+["ocorrida", "State"],
+["apreendido", "Occurrence"],
+["ordenadas", "Intensional Action"],
+["saber", "Perception"],
+["morreu", "Occurrence"],
+["realizou", "Occurrence"],
+["participou", "Occurrence"],
+["submetido", "Occurrence"],
+["abriu", "Occurrence"],
+["determinar", "Intensional Action"]
+]

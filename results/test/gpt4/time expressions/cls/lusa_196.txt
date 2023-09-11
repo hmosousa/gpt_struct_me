@@ -1,0 +1,5 @@
+[
+["31 anos", "Duration"],
+["ao final da manhã de hoje", "Time"],
+["11:45", "Time"]
+]

@@ -1,1 +1,1 @@
-["hoje", "últimos meses", "meses", "500 metros"]
+["hoje", "meses", "\u00faltimos meses"]

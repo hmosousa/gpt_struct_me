@@ -1,0 +1,16 @@
+[
+["Quatro homens", "Person"],
+["PSP", "Organization"],
+["dois veículos", "Object"],
+["Rego", "Location"],
+["Lisboa", "Location"],
+["viaturas estacionadas", "Object"],
+["fonte policial", "Person"],
+["Comando Metropolitano de Lisboa da PSP", "Organization"],
+["autoridades", "Organization"],
+["vários invólucros de balas", "Object"],
+["um dos suspeitos", "Person"],
+["carregador", "Object"],
+["várias munições", "Object"],
+["Polícia Judiciária", "Organization"]
+]

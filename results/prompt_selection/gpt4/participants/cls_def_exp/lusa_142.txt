@@ -1,0 +1,13 @@
+[
+["GNR", "Organization"],
+["mulher de 36 anos", "Person"],
+["Mértola", "Location"],
+["Beja", "Location"],
+["Posto Territorial de Mértola", "Facility"],
+["Tribunal Judicial de Beja", "Facility"],
+["Estrada Nacional 122", "Location"],
+["viatura", "Object"],
+["12.300 doses de haxixe", "Object"],
+["veículo", "Object"],
+["telemóvel", "Object"]
+]

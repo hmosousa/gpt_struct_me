@@ -1,0 +1,1 @@
+[["encerrado", "Occurrence"], ["reunia", "Occurrence"], ["encerrado", "Occurrence"], ["reunia", "Occurrence"], ["detetaram", "Reporting"], ["funcionar", "State"], ["ocorreu", "Occurrence"], ["fiscalização", "State"], ["cumprimento", "State"], ["referentes", "State"], ["identificada", "State"], ["terminar", "I_Action"], ["resultando", "Occurrence"], ["elaboração", "State"]]

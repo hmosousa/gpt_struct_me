@@ -1,8 +1,0 @@
-[
-  ["balear", "Occurrence"],
-  ["detido", "State"],
-  ["suspeito", "State"],
-  ["detenção", "State"],
-  ["aplicada", "State"],
-  ["prisão preventiva", "Intensional State"]
-]

@@ -1,1 +1,1 @@
-["hoje", "2013", "sete anos", "outubro"]
+["meio-dia", "hoje"]

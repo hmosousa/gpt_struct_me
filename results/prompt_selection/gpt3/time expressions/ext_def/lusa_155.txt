@@ -1,0 +1,1 @@
+["hoje à tarde", "hoje", "à tarde"]

@@ -1,0 +1,15 @@
+[
+["Homem morre", "Occurrence"],
+["ciclomotor que conduzia ser colhido por veículo ligeiro", "Occurrence"],
+["homem de 34 anos morreu", "Occurrence"],
+["ciclomotor que conduzia ter sido colhido por um veículo ligeiro", "Occurrence"],
+["óbito do homem foi declarado", "State"],
+["corpo sido encaminhado para o serviço de Medicina legal", "Occurrence"],
+["alerta", "Reporting"],
+["foi dado", "Occurrence"],
+["mobilizados bombeiros e veículos", "Intensional Action"],
+["corporações de Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER)", "State"],
+["PSP", "State"],
+["16 elementos", "State"],
+["apoiados por cinco veículos", "State"]
+]

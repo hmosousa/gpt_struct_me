@@ -1,1 +1,1 @@
-[["Homem", "Person"], ["rio Tua", "Location"], ["Valverde da Gestosa", "Location"], ["Mirandela", "Location"], ["GNR", "Organization"], ["Lusa", "Organization"], ["Polícia Judiciária", "Organization"]]
+[["Homem", "Person"], ["Santa Maria da Feira", "Location"], ["Romariz", "Location"], ["Bombeiros de Arrifana", "Organization"], ["tampa do poço", "Object"], ["vizinho", "Person"], ["GNR de Santa Maria da Feira", "Organization"], ["hospital de Santa Maria da Feira", "Facility"]]

@@ -1,1 +1,0 @@
-[["PJ", "Organization"], ["Celorico de Basto", "Location"], ["Gandarela", "Location"], ["Braga", "Location"], ["INEM", "Organization"], ["Lusa", "Organization"], ["Cruz Vermelha", "Organization"], ["Guimarães", "Location"]]

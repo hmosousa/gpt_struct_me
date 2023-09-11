@@ -1,9 +1,0 @@
-[
-  ["ferido", "State"],
-  ["eletrocutado", "Occurrence"],
-  ["ficou", "State"],
-  ["alerta foi dado", "Reporting"],
-  ["transportada", "Occurrence"],
-  ["eletrocussão aconteceu", "Occurrence"],
-  ["Deslocaram-se", "Intensional Action"]
-]

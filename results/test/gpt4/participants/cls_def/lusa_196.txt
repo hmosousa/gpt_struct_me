@@ -1,0 +1,20 @@
+[
+["Homem", "Person"],
+["Vila Nova de Gaia", "Location"],
+["autor do disparo", "Person"],
+["homem de 31 anos", "Person"],
+["Gulpilhares", "Location"],
+["fonte policial", "Person"],
+["vítima", "Person"],
+["braço esquerdo", "Object"],
+["hospital Santos Silva", "Facility"],
+["Vila de Gaia", "Location"],
+["distrito do Porto", "Location"],
+["bombeiros de Valadares", "Organization"],
+["fonte desta corporação", "Person"],
+["ferido ligeiro", "Person"],
+["autoridades", "Organization"],
+["Polícia Judiciária", "Organization"],
+["órgão de polícia criminal", "Organization"],
+["crime", "Other"]
+]

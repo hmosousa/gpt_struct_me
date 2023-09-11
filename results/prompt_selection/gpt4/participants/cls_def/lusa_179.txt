@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Penafiel", "Location"],
+["companheira", "Person"],
+["juiz de instrução", "Person"],
+["homem de 47 anos de idade", "Person"],
+["Ministério Público (MP) de Penafiel", "Organization"],
+["mulher", "Person"],
+["fonte policial", "Person"],
+["Polícia Judiciária", "Organization"],
+["vítima", "Person"],
+["vítima, de 26 anos", "Person"],
+["instituição de acolhimento", "Facility"],
+["pessoas sujeitas a este tipo de crime", "Person"],
+["arguido", "Person"],
+["polícia", "Organization"],
+["suspeito", "Person"],
+["produto estupefaciente", "Object"],
+["MP junto da comarca de Porto-Este, em Penafiel", "Organization"],
+["crimes de tráfico de pessoas para exploração sexual, sequestro e violação", "Other"]
+]

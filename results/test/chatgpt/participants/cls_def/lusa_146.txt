@@ -1,0 +1,10 @@
+[
+  ["GNR", "Organization"],
+  ["Seia", "Location"],
+  ["Comando Territorial da GNR da Guarda", "Organization"],
+  ["NICCOA", "Organization"],
+  ["NPA", "Organization"],
+  ["Gouveia", "Location"],
+  ["Veterinário Municipal de Seia", "Organization"],
+  ["Tribunal Judicial de Seia", "Organization"]
+]

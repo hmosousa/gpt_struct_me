@@ -1,0 +1,1 @@
+[["aterra", "Occurrence"], ["emergência", "State"], ["falha", "Occurrence"], ["motor", "State"], ["aterrou", "Occurrence"], ["emergência", "State"], ["motor parado", "State"], ["dado", "Reporting"], ["aterrou", "Occurrence"], ["incidentes", "Occurrence"], ["registo", "State"], ["pertence", "State"], ["fazia", "Aspectual"], ["ligação", "State"], ["aeroportos", "State"]]

@@ -1,1 +1,0 @@
-["morreu", "cair", "telhado", "trabalhava", "disse", "alerta", "dado", "óbito", "declarado", "mobilizada", "viatura", "emergencia", "reanimação", "bombeiros", "tomou", "conta"]

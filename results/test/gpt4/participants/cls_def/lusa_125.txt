@@ -1,0 +1,23 @@
+[
+["GNR", "Organization"],
+["785 quilos de haxixe", "Object"],
+["dois homens", "Person"],
+["barco", "Object"],
+["Olhão", "Location"],
+["Unidade de Controlo Costeiro (UCC)", "Organization"],
+["domingo", "Other"],
+["produto estupefaciente", "Object"],
+["duas embarcações", "Object"],
+["Algarve", "Location"],
+["Guarda Nacional Republicana (GNR)", "Organization"],
+["Sistema Integrado de Vigilância e Comando e Controlo (SIVICC)", "Facility"],
+["meios marítimos da UCC", "Object"],
+["embarcação que estava a receber o produto estupefaciente", "Object"],
+["dois tripulantes", "Person"],
+["24 e 26 anos", "Other"],
+["embarcação de fibra", "Object"],
+["cinco metros de comprimento", "Other"],
+["22 fardos de haxixe", "Object"],
+["785 quilos", "Other"],
+["dois milhões de euros", "Other"]
+]

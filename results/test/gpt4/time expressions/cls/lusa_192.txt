@@ -1,0 +1,8 @@
+[
+["12 anos", "Duration"],
+["hoje", "Date"],
+["36 anos", "Duration"],
+["2013", "Date"],
+["sete anos", "Duration"],
+["outubro", "Date"]
+]

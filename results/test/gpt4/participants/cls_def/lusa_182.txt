@@ -1,0 +1,15 @@
+[
+["Homem de Amarante", "Person"],
+["vítima", "Person"],
+["Amarante", "Location"],
+["mulher", "Person"],
+["GNR", "Organization"],
+["Tribunal de Instrução Criminal em Penafiel", "Facility"],
+["homem", "Person"],
+["mulher de 46 anos", "Person"],
+["filha menor", "Person"],
+["residência", "Facility"],
+["familiares", "Person"],
+["Tribunal de Instrução Criminal", "Organization"],
+["pulseira eletrónica", "Object"]
+]

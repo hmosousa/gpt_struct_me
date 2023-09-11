@@ -1,0 +1,1 @@
+[["atropelamento", "Occurrence"], ["morto", "State"], ["ferido grave", "State"], ["transportado", "I_Action"], ["declarada", "I_Action"], ["circulavam", "State"], ["atropelados", "Occurrence"], ["ve\u00edculo ligeiro", "State"], ["alerta", "Occurrence"], ["dado", "I_Action"], ["informa", "Reporting"], ["estarem", "State"], ["operacionais", "State"], ["viaturas", "State"]]

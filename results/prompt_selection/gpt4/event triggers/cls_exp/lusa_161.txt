@@ -1,0 +1,13 @@
+[
+["mata", "Occurrence"],
+["matou", "Occurrence"],
+["disparo", "Occurrence"],
+["detido", "State"],
+["tentar", "Intensional Action"],
+["suicídio", "Occurrence"],
+["ocorreu", "Occurrence"],
+["cometido", "Occurrence"],
+["terminar", "Intensional Action"],
+["relação", "State"],
+["passou", "Aspectual"]
+]

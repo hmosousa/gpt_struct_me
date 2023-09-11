@@ -1,0 +1,1 @@
+[["sábado", "Date"], ["no decorrer de uma ação de patrulhamento", "Duration"], ["34 e os 43 anos", "Set"], ["1.673 doses", "Set"], ["1.570 doses", "Set"], ["103 doses", "Set"], ["844 euros", "Set"], ["quatro telemóveis", "Set"]]

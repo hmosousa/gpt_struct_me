@@ -1,0 +1,23 @@
+[
+["morre", "Occurrence"],
+["ser esfaqueado", "Occurrence"],
+["morreu", "Occurrence"],
+["ter sido esfaqueado", "Occurrence"],
+["desentendimento", "Occurrence"],
+["informou", "Reporting"],
+["terá ocorrido", "Occurrence"],
+["óbito", "State"],
+["sido declarado", "State"],
+["ter ido pedir ajuda", "Intensional Action"],
+["desentendimento", "Occurrence"],
+["envolveu", "Occurrence"],
+["sido esfaqueado", "Occurrence"],
+["recolher informações", "Intensional Action"],
+["avançou", "Reporting"],
+["terá sido detido", "State"],
+["tentativa de fuga", "Occurrence"],
+["aguarda", "Intensional State"],
+["foi acionada", "State"],
+["tratar de um crime", "State"],
+["encontrava-se preservado", "State"]
+]

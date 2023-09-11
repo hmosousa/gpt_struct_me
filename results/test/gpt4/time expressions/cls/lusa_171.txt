@@ -1,0 +1,8 @@
+[
+["quatro anos e meio", "Duration"],
+["hoje", "Date"],
+["16 de maio de 2020", "Date"],
+["04:20", "Time"],
+["06:00", "Time"],
+["cinco anos", "Duration"]
+]

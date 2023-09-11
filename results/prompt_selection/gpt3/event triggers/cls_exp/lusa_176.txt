@@ -1,0 +1,1 @@
+[["morre", "State"], ["ciclomotor", "Occurrence"], ["colhido", "Occurrence"], ["veículo ligeiro", "Occurrence"], ["disseram", "Reporting"], ["indicou", "Reporting"], ["alerta", "Perception"], ["mobilizados", "Aspectual"], ["corporações", "Intensional Action"], ["viatura médica", "Intensional Action"], ["elementos", "Intensional State"], ["veículos", "Intensional State"]]

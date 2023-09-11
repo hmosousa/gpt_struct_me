@@ -1,0 +1,16 @@
+[
+  ["Violência doméstica", "Other"],
+  ["Homem de Amarante", "Person"],
+  ["movimentos controlados", "Object"],
+  ["vítima refugiada", "Person"],
+  ["GNR", "Organization"],
+  ["Tribunal de Instrução Criminal", "Organization"],
+  ["Penafiel", "Location"],
+  ["consumidor de bebidas alcoólicas", "Person"],
+  ["mulher de 46 anos", "Person"],
+  ["filha menor", "Person"],
+  ["residência", "Facility"],
+  ["familiares", "Person"],
+  ["medidas de coação", "Other"],
+  ["pulseira eletrónica", "Object"]
+]

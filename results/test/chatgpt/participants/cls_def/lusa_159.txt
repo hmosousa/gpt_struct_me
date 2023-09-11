@@ -1,0 +1,22 @@
+[
+  ["PJ da Guiné-Bissau", "Organization"],
+  ["homem", "Person"],
+  ["cocaína", "Object"],
+  ["aeroporto", "Location"],
+  ["Polícia Judiciária", "Organization"],
+  ["sábado", "Other"],
+  ["três quilogramas", "Object"],
+  ["Lisboa", "Location"],
+  ["força policial", "Organization"],
+  ["comunicado", "Other"],
+  ["cidadão luso-guineense", "Person"],
+  ["droga", "Object"],
+  ["cintura", "Object"],
+  ["aeroporto internacional Osvaldo Vieira", "Location"],
+  ["Bissau", "Location"],
+  ["Ministério Público", "Organization"],
+  ["outubro", "Other"],
+  ["22 anos de idade", "Other"],
+  ["âmbito", "Other"],
+  ["aquisição, entrega e facilitação na introdução", "Other"]
+]

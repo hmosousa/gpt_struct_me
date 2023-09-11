@@ -1,0 +1,12 @@
+[
+["Homem", "Person"],
+["Óbidos", "Location"],
+["Guarda Nacional Republicana", "Organization"],
+["GNR", "Organization"],
+["Posto Territorial de Óbidos", "Facility"],
+["Núcleo de Proteção Ambiental das Caldas da Rainha", "Organization"],
+["Tribunal das Caldas da Rainha", "Facility"],
+["espingarda de caça", "Object"],
+["dois cartuchos de calibre 12", "Object"],
+["materiais e acessórios relativos a caça", "Object"]
+]

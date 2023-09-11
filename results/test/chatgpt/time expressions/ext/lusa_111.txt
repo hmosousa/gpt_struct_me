@@ -1,1 +1,1 @@
-[]
+["hoje", "segunda-feira", "ontem", "noite de segunda-feira", "dezembro passado"]

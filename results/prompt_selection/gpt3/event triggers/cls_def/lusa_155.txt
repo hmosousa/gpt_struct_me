@@ -1,0 +1,1 @@
+[["agressão", "Occurrence"], ["transportada", "Reporting"], ["fuga", "Occurrence"], ["agressão", "Occurrence"], ["consumo", "Occurrence"], ["proibido", "Aspectual"], ["ferimentos", "Occurrence"], ["mobilizados", "Reporting"]]

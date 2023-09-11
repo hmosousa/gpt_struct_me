@@ -1,0 +1,4 @@
+[
+["hoje", "Date"],
+["29 de outubro", "Date"]
+]

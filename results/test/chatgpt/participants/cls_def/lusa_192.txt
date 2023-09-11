@@ -1,0 +1,23 @@
+[
+  ["Tribunal de Viana do Castelo", "Organization"],
+  ["homem", "Person"],
+  ["outro", "Person"],
+  ["Tribunal de Viana do Castelo", "Organization"],
+  ["homem", "Person"],
+  ["cidade", "Location"],
+  ["homem", "Person"],
+  ["arma do crime", "Object"],
+  ["juiz presidente do coletivo", "Person"],
+  ["arguido", "Person"],
+  ["prisão preventiva", "Facility"],
+  ["sala de audiências", "Facility"],
+  ["dois crimes", "Other"],
+  ["ofensa à integridade física qualificada", "Other"],
+  ["detenção de arma proibida", "Other"],
+  ["magistrada", "Person"],
+  ["prova documental e testemunhal", "Object"],
+  ["julgamento", "Other"],
+  ["coletivo", "Organization"],
+  ["homem", "Person"],
+  ["mãe da vítima mortal", "Person"]
+]

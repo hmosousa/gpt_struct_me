@@ -1,1 +1,0 @@
-[["detido", "State"], ["caçar", "Occurrence"], ["GNR", "Reporting"], ["intercetaram", "Perception"], ["constituído", "Aspectual"], ["exercício", "Intensional Action"], ["apreensão", "Intensional State"]]

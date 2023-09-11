@@ -1,0 +1,6 @@
+[
+["12 anos", "Duration"],
+["sábado à noite", "Set"],
+["21:40 de sábado", "Time"],
+["23:30 de sábado", "Time"]
+]

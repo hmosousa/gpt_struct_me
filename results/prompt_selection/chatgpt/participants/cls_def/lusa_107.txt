@@ -1,0 +1,17 @@
+[
+["Mulher", "Person"],
+["protesto de mariscadores", "Event"],
+["Murtosa", "Location"],
+["Bombeiros", "Organization"],
+["GNR", "Organization"],
+["cais da Torreira", "Location"],
+["condutor da viatura", "Person"],
+["bivalves", "Object"],
+["pescadores", "Person"],
+["senhora", "Person"],
+["Hospital de Aveiro", "Facility"],
+["mariscadores da Torreira", "Group"],
+["semana", "Time"],
+["coliformes fecais", "Object"],
+["águas da ria de Aveiro", "Location"]
+]

@@ -1,0 +1,17 @@
+[
+["morre", "Occurrence"],
+["acidente", "Occurrence"],
+["disse", "Reporting"],
+["Trata-se", "State"],
+["envolve", "Occurrence"],
+["trabalhava", "State"],
+["acabaria por não resistir", "Occurrence"],
+["falecer", "Occurrence"],
+["estava a ser transportada", "Aspectual"],
+["seria helitransportada", "Intensional Action"],
+["explicou", "Reporting"],
+["alerta foi dado", "Reporting"],
+["estiveram envolvido", "State"],
+["acionado", "Intensional Action"],
+["tomou conta", "Intensional Action"]
+]

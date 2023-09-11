@@ -1,0 +1,15 @@
+[
+["detém", "Occurrence"],
+["deteve", "Occurrence"],
+["apreendido", "State"],
+["divulgou", "Reporting"],
+["indicou", "Reporting"],
+["efetuada", "Occurrence"],
+["referenciado", "State"],
+["detiveram", "Occurrence"],
+["avançou", "Reporting"],
+["foram apreendidas", "State"],
+["vão ser presentes", "Occurrence"],
+["interrogatório", "State"],
+["aplicação", "State"]
+]

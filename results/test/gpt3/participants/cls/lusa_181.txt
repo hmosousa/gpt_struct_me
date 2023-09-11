@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Austrália", "Location"], ["oceano Índico", "Location"], ["Cable", "Location"], ["22 quilómetros", "Object"], ["areia branca", "Object"], ["1929", "Object"], ["CSIRO", "Organization"], ["2.210 exemplares adultos", "Object"], ["tubarões brancos", "Nature"]]

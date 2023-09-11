@@ -1,1 +1,1 @@
-["sábado", "hoje", "pandemia de covid-19"]
+["no domingo", "hoje", "em comunicado", "ainda em mar"]

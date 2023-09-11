@@ -1,1 +1,0 @@
-["Criança", "GNR", "Comando Geral da GNR", "bombeiros", "Instituto Nacional de Emergência Médica", "polícia"]

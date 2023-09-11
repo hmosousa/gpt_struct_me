@@ -1,0 +1,8 @@
+[
+["hoje", "Date"],
+["48 anos", "Duration"],
+["durante a tarde", "Time"],
+["às 16:05", "Time"],
+["ao final da tarde", "Time"],
+["na segunda-feira", "Date"]
+]

@@ -1,0 +1,14 @@
+[
+["GNR", "Organization"],
+["dois homens", "Person"],
+["Sines", "Location"],
+["Setúbal", "Location"],
+["Guarda Nacional Republicana", "Organization"],
+["comando territorial de Setúbal da GNR", "Organization"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["euros", "Object"],
+["um veículo", "Object"],
+["quatro telemóveis", "Object"],
+["Tribunal Judicial de Santiago do Cacém", "Facility"]
+]

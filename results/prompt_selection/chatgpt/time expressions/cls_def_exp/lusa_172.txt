@@ -1,0 +1,1 @@
+[["hoje à tarde", "Time"], ["entre 60 e 70 anos", "Duration"]]

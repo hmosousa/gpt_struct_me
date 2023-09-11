@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["69 anos", "Duration"], ["hoje", "Date"], ["estado de coma", "Set"], ["hoje à tarde", "Time"], ["hoje", "Date"], ["outras duas pessoas", "Duration"]]

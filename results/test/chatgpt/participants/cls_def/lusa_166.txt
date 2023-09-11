@@ -1,0 +1,9 @@
+[
+  ["Homem", "Person"],
+  ["aldeia de Fráguas", "Location"],
+  ["Tondela", "Location"],
+  ["GNR", "Organization"],
+  ["Comando Territorial da GNR de Viseu", "Organization"],
+  ["Instituto Nacional de Medicina Legal", "Organization"],
+  ["Comando Distrital de Operações de Socorro de Viseu", "Organization"]
+]

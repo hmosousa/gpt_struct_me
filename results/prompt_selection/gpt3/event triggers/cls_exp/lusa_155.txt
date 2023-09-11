@@ -1,0 +1,1 @@
+[["agressão", "Occurrence"], ["estado de coma", "State"], ["fuga", "Occurrence"], ["consumo de álcool", "Occurrence"], ["proibido o consumo de álcool", "Aspectual"], ["envolvidas nesta ocorrência", "Reporting"], ["sofreram ferimentos ligeiros", "Perception"], ["mobilizados para o local", "Intensional Action"]]

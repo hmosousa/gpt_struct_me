@@ -1,0 +1,1 @@
+[["ferido", "State"], ["eletrocutado", "State"], ["ficou", "Aspectual"], ["ferido", "State"], ["eletrocutado", "State"], ["disse", "Reporting"], ["alerta", "Occurrence"], ["dado", "Reporting"], ["transportada", "I_Action"], ["eletrocussão", "Occurrence"], ["aconteceu", "Occurrence"], ["acrescentou", "Reporting"], ["Deslocaram-se", "I_Action"]]

@@ -1,1 +1,0 @@
-["05:30", "segunda-feira", "madrugada"]

@@ -1,0 +1,11 @@
+[
+["Homem mata ex-companheira com tiro em Vila Nova de Gaia", "Occurrence"],
+["Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia", "Occurrence"],
+["foi detido numa altura em que estaria a tentar o suicídio com a mesma arma", "Occurrence"],
+["disse fonte da GNR", "Reporting"],
+["o crime ocorreu cerca das 10:30 na Rua da Figueirinha, em Grijó, Vila Nova de Gaia", "Occurrence"],
+["o homem tem 62 anos", "State"],
+["A vítima era 20 anos mais nova", "State"],
+["o homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos", "Occurrence"],
+["O caso passou para a alçada da Polícia Judiciária", "Occurrence"]
+]

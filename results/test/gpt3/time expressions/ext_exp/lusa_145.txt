@@ -1,1 +1,1 @@
-["hoje", "sábado", "segunda-feira", "Vila Viçosa"]
+["meio ano"]

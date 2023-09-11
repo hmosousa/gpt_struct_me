@@ -1,0 +1,20 @@
+[
+["detém", "Occurrence"],
+["apreende", "Occurrence"],
+["deteve", "Occurrence"],
+["apreendeu", "Occurrence"],
+["foi divulgado", "Reporting"],
+["foi detida", "Occurrence"],
+["é hoje presente", "State"],
+["refere", "Reporting"],
+["decorrer", "Aspectual"],
+["demonstrou", "Perception"],
+["foi abordada", "Occurrence"],
+["efetuaram", "Occurrence"],
+["busca", "Intensional Action"],
+["revista", "Intensional Action"],
+["permitiu", "Intensional State"],
+["apurar", "Perception"],
+["tinha", "State"],
+["apreender", "Intensional Action"]
+]

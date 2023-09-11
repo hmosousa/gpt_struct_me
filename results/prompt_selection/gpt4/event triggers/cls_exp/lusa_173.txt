@@ -1,0 +1,12 @@
+[
+["encontrado morto", "State"],
+["dado", "Reporting"],
+["estaria a fazer", "Intensional State"],
+["encontrava-se desaparecido", "State"],
+["trabalhar", "Intensional Action"],
+["conseguiu determinar", "Perception"],
+["compareceu", "Occurrence"],
+["tomou conta", "Intensional Action"],
+["esteve", "State"],
+["fez o transporte", "Intensional Action"]
+]

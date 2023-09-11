@@ -1,0 +1,18 @@
+[
+["apreendeu", "Occurrence"],
+["captura", "State"],
+["levar", "Intensional Action"],
+["revelou", "Reporting"],
+["ocorreu", "Occurrence"],
+["controlar", "Intensional Action"],
+["refere", "Reporting"],
+["encontraram", "Occurrence"],
+["localizar", "Intensional Action"],
+["acrescenta", "Reporting"],
+["identificados", "Perception"],
+["elaborado", "Intensional Action"],
+["punível", "State"],
+["apreendido", "State"],
+["considerado", "State"],
+["doado", "Intensional Action"]
+]

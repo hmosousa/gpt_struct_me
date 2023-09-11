@@ -1,0 +1,16 @@
+[
+  ["Violência doméstica", "Other"],
+  ["Prisão preventiva", "Other"],
+  ["homem de 26 anos", "Person"],
+  ["Foz Côa", "Location"],
+  ["mãe", "Person"],
+  ["irmã", "Person"],
+  ["concelho de Foz Côa", "Location"],
+  ["GNR", "Organization"],
+  ["Guarda", "Organization"],
+  ["machada", "Object"],
+  ["navalha", "Object"],
+  ["habitação", "Facility"],
+  ["vítimas", "Person"],
+  ["Tribunal Judicial de Seia", "Facility"]
+]

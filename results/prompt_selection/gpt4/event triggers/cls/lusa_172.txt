@@ -1,0 +1,13 @@
+[
+["encontrado", "Occurrence"],
+["revelou", "Reporting"],
+["caído", "Occurrence"],
+["dado o alerta", "Reporting"],
+["ativada", "Occurrence"],
+["procedeu", "Occurrence"],
+["transportando-o", "Occurrence"],
+["declarado", "Reporting"],
+["transportado", "Occurrence"],
+["especificou", "Reporting"],
+["tomou conta", "Occurrence"]
+]

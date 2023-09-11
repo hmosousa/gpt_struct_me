@@ -1,0 +1,12 @@
+[
+["Homem", "Person"],
+["Ribeira Brava", "Location"],
+["Lusa", "Organization"],
+["bombeiros", "Organization"],
+["Bombeiros Voluntários da Ribeira Brava e Ponta do Sol", "Organization"],
+["Madeira", "Location"],
+["Roberto Gonçalves", "Person"],
+["Câmara Municipal da Ribeira Brava", "Organization"],
+["Ricardo Nascimento", "Person"],
+["forças policiais", "Organization"]
+]

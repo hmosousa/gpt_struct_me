@@ -1,0 +1,17 @@
+[
+["Autoridades", "Organization"],
+["homem desaparecido", "Person"],
+["rio Guadiana", "Location"],
+["Autoridade Marítima Nacional", "Organization"],
+["homem", "Person"],
+["Foz de Odeleite", "Location"],
+["concelho de Castro Marim", "Location"],
+["homem de nacionalidade romena", "Person"],
+["dois pescadores", "Person"],
+["Capitão do Porto de Vila Real de Santo António", "Person"],
+["Polícia Marítima", "Organization"],
+["Estação Salva-vidas de Vila Real de Santo António", "Facility"],
+["Centro de Coordenação de Busca e Salvamento Marítimo de Lisboa", "Facility"],
+["Lusa", "Organization"],
+["Autoridade Marítima Nacional", "Organization"]
+]

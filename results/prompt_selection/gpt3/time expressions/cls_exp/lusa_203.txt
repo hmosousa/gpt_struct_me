@@ -1,0 +1,1 @@
+[["junho deste ano", "Date"], ["2018", "Date"], ["Em 2018", "Date"], ["hoje", "Date"]]

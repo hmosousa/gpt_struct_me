@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["60 anos", "Other"], ["Matosinhos", "Location"], ["telhado", "Object"], ["sua habitação", "Location"], ["Rua Augusto Gil", "Location"], ["Leixões", "Location"]]

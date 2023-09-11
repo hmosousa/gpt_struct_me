@@ -1,1 +1,0 @@
-[["sábado", "Date"], ["hoje", "Date"], ["normas referentes à pandemia de covid-19", "Time"]]

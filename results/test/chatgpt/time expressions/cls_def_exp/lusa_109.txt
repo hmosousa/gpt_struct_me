@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["madrugada de quinta-feira", "Time"], ["distrito de Magude", "Set"], ["zona protegida", "Set"]]

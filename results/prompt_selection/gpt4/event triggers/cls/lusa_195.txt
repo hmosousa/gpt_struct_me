@@ -1,0 +1,20 @@
+[
+["detém", "Occurrence"],
+["suspeito", "State"],
+["balear", "Occurrence"],
+["anunciado", "Reporting"],
+["disparado", "Occurrence"],
+["conflito", "Occurrence"],
+["almoçar", "Occurrence"],
+["alvejar", "Occurrence"],
+["ferimentos", "State"],
+["fugiu", "Occurrence"],
+["indiciado", "State"],
+["crimes", "State"],
+["homicídio qualificado", "State"],
+["detenção", "State"],
+["omissão", "State"],
+["interrogatório judicial", "Occurrence"],
+["aplicada", "Occurrence"],
+["prisão preventiva", "State"]
+]

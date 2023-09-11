@@ -1,0 +1,15 @@
+[
+["Encontrado corpo de homem em zona rochosa na costa da Terceira", "Occurrence"],
+["O corpo de um homem \"a boiar junto a uma zona rochosa na costa leste da Terceira\", nos Açores, foi detetado", "Occurrence"],
+["desconhecendo-se as causas da morte", "State"],
+["anunciou hoje a Autoridade Marítima", "Reporting"],
+["o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado", "Reporting"],
+["\"a presença do corpo de um homem a boiar” numa área de domínio público marítimo", "Occurrence"],
+["a informação foi recebida através da Polícia de Segurança Pública (PSP)", "Reporting"],
+["o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local", "Occurrence"],
+["confirmaram \"a presença do corpo de um homem, de 62 anos, já cadáver\"", "Perception"],
+["O corpo \"foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória\"", "Occurrence"],
+["já que se encontrava numa \"zona de difícil acesso", "State"],
+["tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo", "Occurrence"],
+["onde será autopsiado para se apurar as causas da morte", "Intensional Action"]
+]

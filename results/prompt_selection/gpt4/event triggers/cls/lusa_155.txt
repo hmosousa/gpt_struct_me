@@ -1,0 +1,16 @@
+[
+["ferido", "State"],
+["agressão", "Occurrence"],
+["disse", "Reporting"],
+["indicou", "Reporting"],
+["transportada", "Occurrence"],
+["efetuada", "Occurrence"],
+["embriagada", "State"],
+["fuga", "Occurrence"],
+["conduzindo", "Aspectual"],
+["motivada", "State"],
+["proibido", "State"],
+["sofreram", "Occurrence"],
+["transportadas", "Occurrence"],
+["mobilizados", "Occurrence"]
+]

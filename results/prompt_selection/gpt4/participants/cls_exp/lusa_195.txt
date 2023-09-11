@@ -1,0 +1,19 @@
+[
+["PJ", "Organization"],
+["homem", "Person"],
+["jovem", "Person"],
+["coletividade de Setúbal", "Organization"],
+["Polícia Judiciária (PJ) de Setúbal", "Organization"],
+["homem de 63 anos", "Person"],
+["restaurante", "Facility"],
+["Alto da Guerra", "Location"],
+["polícia", "Organization"],
+["sexagenário", "Person"],
+["grupo", "Person"],
+["arma de fogo", "Object"],
+["ombro e braço", "Object"],
+["detido", "Person"],
+["crimes de homicídio qualificado na forma tentada, detenção de arma proibida e omissão de auxílio", "Other"],
+["primeiro interrogatório judicial", "Other"],
+["medida de coação de prisão preventiva", "Other"]
+]

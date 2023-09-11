@@ -1,0 +1,15 @@
+[
+["GNR", "Organization"],
+["25 cães", "Object"],
+["Seia", "Location"],
+["um homem", "Person"],
+["58 anos", "Person"],
+["animais de companhia", "Object"],
+["concelho de Seia", "Location"],
+["distrito da Guarda", "Location"],
+["Comando Territorial da GNR da Guarda", "Organization"],
+["Núcleo de Investigação de Crimes e Contraordenações Ambientais (NICCOA)", "Organization"],
+["Núcleo de Proteção Ambiental (NPA) de Gouveia", "Organization"],
+["Veterinário Municipal de Seia", "Person"],
+["Tribunal Judicial de Seia", "Facility"]
+]

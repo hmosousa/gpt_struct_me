@@ -1,0 +1,17 @@
+[
+  ["Avião", "Object"],
+  ["aeroporto de Lisboa", "Location"],
+  ["motor", "Object"],
+  ["Aeroporto Humberto Delgado", "Facility"],
+  ["Polícia de Segurança Pública", "Organization"],
+  ["Lusa", "Organization"],
+  ["aeronave", "Object"],
+  ["fonte", "Other"],
+  ["17:50", "Other"],
+  ["18:32", "Other"],
+  ["incidentes", "Other"],
+  ["companhia aérea Jota Aviation", "Organization"],
+  ["aeroportos de Farnborough", "Location"],
+  ["Inglaterra", "Location"],
+  ["‘site’ da ANA-Aeroportos de Portugal", "Organization"]
+]

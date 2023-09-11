@@ -1,1 +1,1 @@
-["segunda-feira", "seguimento", "auto de contraordenação"]
+["12:00", "12:30", "14:30"]

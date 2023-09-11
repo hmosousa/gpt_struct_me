@@ -1,1 +1,0 @@
-[["sexta-feira", "Date"], ["cerca de um mês", "Duration"]]

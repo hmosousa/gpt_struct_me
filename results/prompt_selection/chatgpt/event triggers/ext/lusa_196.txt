@@ -1,1 +1,0 @@
-["detenção", "baleado", "disparado", "conflito", "almoçar", "alvejar", "fugiu", "homicídio qualificado", "detenção de arma proibida", "omissão de auxílio", "prisão preventiva"]

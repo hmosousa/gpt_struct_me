@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["25 de novembro", "Date"], ["início de novembro", "Time"], ["dois dias", "Duration"], ["60 anos", "Duration"]]
+[["25 de novembro", "Date"], ["hoje", "Date"], ["início de novembro", "Date"], ["60 anos", "Duration"], ["dois dias", "Duration"]]

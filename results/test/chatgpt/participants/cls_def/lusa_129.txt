@@ -1,0 +1,23 @@
+[
+  ["GNR", "Organization"],
+  ["Valença", "Location"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["GNR", "Organization"],
+  ["Valença", "Location"],
+  ["Viana do Castelo", "Location"],
+  ["berbigão", "Object"],
+  ["37.400 euros", "Object"],
+  ["GNR", "Organization"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["Valença", "Location"],
+  ["Viana do Castelo", "Location"],
+  ["berbigão", "Object"],
+  ["37.400 euros", "Object"],
+  ["GNR", "Organization"],
+  ["Unidade de Controlo Costeiro", "Organization"],
+  ["Matosinhos", "Location"],
+  ["berbigão", "Object"],
+  ["berbigão", "Object"],
+  ["2,5 centímetros", "Object"],
+  ["cerastoderma edule", "Object"]
+]

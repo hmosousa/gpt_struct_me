@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["este ano", "Time"], ["1929", "Time"], ["2019", "Time"], ["cerca de 2.210 exemplares", "Duration"]]

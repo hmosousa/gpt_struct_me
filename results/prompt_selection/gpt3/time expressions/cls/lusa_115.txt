@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["Talatona", "Set"], ["Rua Amílcar Cabral", "Set"], ["Instituto Nacional de Segurança Social", "Set"], ["património imobiliário do Estado", "Set"], ["normal funcionamento", "Duration"]]

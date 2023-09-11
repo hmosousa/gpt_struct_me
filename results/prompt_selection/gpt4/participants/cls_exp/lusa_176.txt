@@ -1,0 +1,20 @@
+[
+["Homem", "Person"],
+["ciclomotor", "Object"],
+["veículo ligeiro", "Object"],
+["Setúbal", "Location"],
+["homem de 34 anos", "Person"],
+["Estrada Nacional 10-8", "Location"],
+["Mitrena", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro (CDOS) de Setúbal", "Organization"],
+["agência Lusa", "Organization"],
+["Hospital de São Bernardo", "Facility"],
+["CDOS", "Organization"],
+["bombeiros", "Organization"],
+["corporações de Palmela", "Organization"],
+["Sapadores de Setúbal", "Organization"],
+["viatura médica de emergência e reanimação (VMER)", "Object"],
+["PSP", "Organization"]
+]

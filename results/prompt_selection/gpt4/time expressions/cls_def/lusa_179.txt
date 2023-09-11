@@ -1,0 +1,1 @@
+[["2017", "Date"], ["hoje", "Date"], ["desde 2017", "Set"], ["até a atualidade", "Set"]]

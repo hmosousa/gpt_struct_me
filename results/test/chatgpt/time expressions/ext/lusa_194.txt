@@ -1,1 +1,1 @@
-["hoje", "perto do meio-dia"]
+["cerca de 60 anos", "hoje", "21:45 de domingo", "já 01:00 de hoje"]

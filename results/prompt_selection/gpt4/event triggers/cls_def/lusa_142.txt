@@ -1,0 +1,15 @@
+[
+["GNR detém suspeita de tráfico de droga", "Occurrence"],
+["apreende 12.300 doses de haxixe", "Occurrence"],
+["GNR deteve uma mulher de 36 anos", "Occurrence"],
+["mulher foi detida", "Occurrence"],
+["é hoje presente ao Tribunal Judicial de Beja", "Occurrence"],
+["aplicação de medidas de coação", "Occurrence"],
+["ação de patrulhamento", "Occurrence"],
+["demonstrou um comportamento nervoso", "State"],
+["ter sido abordada por militares da GNR", "Occurrence"],
+["militares efetuaram uma busca à viatura", "Occurrence"],
+["uma revista à mulher", "Occurrence"],
+["tinha droga na sua posse", "State"],
+["apreender as 12.300 doses de haxixe", "Occurrence"]
+]

@@ -1,0 +1,5 @@
+[
+["hoje", "Date"],
+["junho deste ano", "Date"],
+["2018", "Date"]
+]

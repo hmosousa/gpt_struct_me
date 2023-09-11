@@ -1,0 +1,16 @@
+[
+["morre", "Occurrence"],
+["acidente de trabalho", "Occurrence"],
+["vítima de um acidente de trabalho", "State"],
+["queda em altura", "Occurrence"],
+["trabalhava", "State"],
+["obra de construção civil", "State"],
+["não resistir aos ferimentos", "Occurrence"],
+["falecer", "Occurrence"],
+["transportada por ambulância", "Occurrence"],
+["alerta foi dado", "Reporting"],
+["operações de socorro", "Occurrence"],
+["envolvido meios dos bombeiros", "Occurrence"],
+["acionado o helicóptero", "Intensional Action"],
+["tomou conta da ocorrência", "Intensional Action"]
+]

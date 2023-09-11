@@ -1,0 +1,18 @@
+[
+["Belmonte", "Location"],
+["GNR", "Organization"],
+["um homem de 47 anos", "Person"],
+["ex-companheira", "Person"],
+["Comando Territorial da GNR de Castelo Branco", "Organization"],
+["agência Lusa", "Organization"],
+["postos de Belmonte e Caria", "Facility"],
+["vítima", "Person"],
+["sua ex-companheira, de 33 anos", "Person"],
+["três carabinas de ar comprimido", "Object"],
+["uma caçadeira", "Object"],
+["uma reprodução de arma de fogo", "Object"],
+["uma pistola de ar comprimido", "Object"],
+["uma faca de ponta e mola", "Object"],
+["diversas munições de diferentes calibres", "Object"],
+["Tribunal Judicial da Covilhã", "Organization"]
+]

@@ -1,0 +1,19 @@
+[
+["GNR", "Organization"],
+["Aveiro", "Location"],
+["atum-rabilho", "Nature"],
+["porto de pesca costeira da Gafanha da Nazaré", "Facility"],
+["Guarda", "Organization"],
+["segunda-feira", "Other"],
+["veículo", "Object"],
+["77 quilos de atum-rabilho", "Nature"],
+["embarcação de pesca", "Object"],
+["313 quilos de atum-rabilho", "Nature"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"],
+["auto de contraordenação", "Object"],
+["37.500 euros", "Other"],
+["pescado apreendido", "Nature"],
+["controlo higiossanitário", "Other"],
+["instituição de solidariedade social", "Organization"]
+]

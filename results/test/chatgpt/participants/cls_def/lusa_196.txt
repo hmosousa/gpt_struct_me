@@ -1,0 +1,9 @@
+[
+  ["Homem", "Person"],
+  ["Vila Nova de Gaia", "Location"],
+  ["disparo", "Object"],
+  ["fonte policial", "Organization"],
+  ["bombeiros de Valadares", "Organization"],
+  ["hospital Santos Silva", "Facility"],
+  ["Polícia Judiciária", "Organization"]
+]

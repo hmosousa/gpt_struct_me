@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["Penafiel", "Set"], ["distrito do Porto", "Set"], ["de 39 anos", "Duration"], ["de 42 anos", "Duration"], ["já", "Time"]]

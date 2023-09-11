@@ -1,0 +1,1 @@
+[["atropelada", "Occurrence"], ["protesto", "Occurrence"], ["Murtosa", "State"], ["dezenas", "Reporting"], ["12:50", "Perception"], ["fuga", "Aspectual"], ["colocou", "Intensional Action"], ["detetadas", "Intensional State"]]

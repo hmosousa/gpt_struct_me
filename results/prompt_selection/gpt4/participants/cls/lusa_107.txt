@@ -1,0 +1,15 @@
+[
+["Mulher", "Person"],
+["mariscadores", "Person"],
+["Murtosa", "Location"],
+["Bombeiros", "Organization"],
+["GNR", "Organization"],
+["cais da Torreira", "Location"],
+["Lusa", "Organization"],
+["condutor da viatura", "Person"],
+["pescadores", "Person"],
+["senhora", "Person"],
+["Hospital de Aveiro", "Facility"],
+["mariscadores da Torreira", "Person"],
+["ria de Aveiro", "Location"]
+]

@@ -1,0 +1,1 @@
+[["atropelado", "Occurrence"], ["estado grave", "State"], ["transportado", "Occurrence"], ["acidente", "Occurrence"], ["prestar assistência", "Reporting"], ["Viatura Médica de Emergência e Reanimação", "Perception"], ["Ambulância de Suporte Imediato de Vida", "Perception"], ["GNR local", "Perception"]]

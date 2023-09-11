@@ -1,0 +1,1 @@
+[["Homem de 84 anos", "Person"], ["Santa Marta de Penaguião", "Location"], ["GNR", "Organization"], ["Vasco Correia", "Person"], ["Viatura Médica de Emergência e Reanimação (VMER)", "Facility"], ["carinha", "Object"], ["GNR", "Organization"], ["INEM", "Organization"], ["bombeiros de Santa Marta de Penaguião", "Organization"]]

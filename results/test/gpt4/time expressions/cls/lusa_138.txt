@@ -1,0 +1,6 @@
+[
+["hoje", "Date"],
+["73 anos", "Duration"],
+["50 anos", "Duration"],
+["sábado", "Date"]
+]

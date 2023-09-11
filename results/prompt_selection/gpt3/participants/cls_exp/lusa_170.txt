@@ -1,0 +1,1 @@
+[["homem", "Person"], ["Terceira", "Location"], ["Autoridade Marítima", "Organization"], ["Polícia Marítima de Angra do Heroísmo", "Organization"], ["Polícia de Segurança Pública", "Organization"], ["Bombeiros Voluntários da Praia da Vitória", "Organization"], ["Hospital de Angra do Heroísmo", "Facility"], ["62 anos", "Other"]]

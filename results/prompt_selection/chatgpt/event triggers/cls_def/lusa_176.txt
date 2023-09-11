@@ -1,0 +1,1 @@
+[["morre", "Occurrence"], ["conduzia", "State"], ["colhido", "Occurrence"], ["disseram", "Reporting"], ["indicou", "Reporting"], ["declarado", "Reporting"], ["encaminhado", "Reporting"], ["dado", "Reporting"], ["mobilizados", "Reporting"], ["apoiados", "Reporting"]]

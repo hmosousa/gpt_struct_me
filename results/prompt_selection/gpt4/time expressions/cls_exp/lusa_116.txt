@@ -1,0 +1,5 @@
+[
+["14 anos", "Duration"],
+["hoje", "Date"],
+["18:16", "Time"]
+]

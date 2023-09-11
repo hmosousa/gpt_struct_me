@@ -1,0 +1,23 @@
+[
+  ["GNR", "Organization"],
+  ["confeitaria da Feira", "Location"],
+  ["Dois homens", "Person"],
+  ["caixa registadora", "Object"],
+  ["confeitaria", "Facility"],
+  ["Santa Maria da Feira", "Location"],
+  ["autoridades", "Organization"],
+  ["fonte oficial da GNR", "Organization"],
+  ["assalto", "Event"],
+  ["Milheirós de Poiares", "Location"],
+  ["Santa Maria da Feria", "Location"],
+  ["Aveiro", "Location"],
+  ["cara tapada", "Object"],
+  ["montante em dinheiro", "Object"],
+  ["fonte", "Object"],
+  ["assaltantes", "Person"],
+  ["Milheirós de Poiares", "Location"],
+  ["procura do homem", "Event"],
+  ["monte", "Location"],
+  ["meios do dispositivo territorial da GNR", "Organization"],
+  ["Destacamento de Intervenção daquela força policial", "Organization"]
+]

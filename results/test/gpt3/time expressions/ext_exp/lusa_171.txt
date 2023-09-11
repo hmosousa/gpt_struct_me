@@ -1,1 +1,1 @@
-["segunda-feira", "12:00 locais (13:00 em Lisboa)", "segunda-feira"]
+["16 de maio de 2020", "04:20", "06:00"]

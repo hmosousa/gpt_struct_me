@@ -1,0 +1,1 @@
+["Mulher", "mariscadores", "Bombeiros", "GNR", "condutor", "viatura", "pescadores", "senhora", "ferimentos", "Hospital de Aveiro", "coliformes fecais", "águas da ria de Aveiro"]

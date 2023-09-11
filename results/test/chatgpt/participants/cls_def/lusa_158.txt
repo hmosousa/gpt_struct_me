@@ -1,0 +1,11 @@
+[
+  ["Homem de 48 anos", "Person"],
+  ["Barcelos", "Location"],
+  ["Chorente", "Location"],
+  ["Braga", "Location"],
+  ["Comando Distrital de Operações de Socorros", "Organization"],
+  ["CDOS", "Organization"],
+  ["Braga", "Location"],
+  ["Hospital de Barcelos", "Facility"],
+  ["Bombeiros Voluntários de Viatodos", "Organization"]
+]

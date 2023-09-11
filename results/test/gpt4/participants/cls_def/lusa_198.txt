@@ -1,0 +1,16 @@
+[
+["Grua de camião", "Object"],
+["poste de iluminação", "Object"],
+["Porto", "Location"],
+["homem de 52 anos", "Person"],
+["Lusa", "Organization"],
+["PSP", "Organization"],
+["Relações Públicas do Comando Metropolitano da PSP do Porto", "Organization"],
+["Rua da Constituição", "Location"],
+["Hospital de Santo António", "Facility"],
+["funcionário de umas bombas de gasolina", "Person"],
+["Câmara do Porto", "Organization"],
+["Empresa Municipal de Ambiente do Porto", "Organization"],
+["município", "Organization"],
+["família", "Person"]
+]

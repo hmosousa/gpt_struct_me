@@ -1,0 +1,23 @@
+[
+["Homem", "Person"],
+["garrafa", "Object"],
+["restaurante", "Facility"],
+["Palmela", "Location"],
+["homem de 69 anos", "Person"],
+["proprietário de um restaurante em Cajados", "Person"],
+["Cajados", "Location"],
+["concelho de Palmela", "Location"],
+["Setúbal", "Location"],
+["fonte da GNR", "Person"],
+["agência Lusa", "Organization"],
+["vítima", "Person"],
+["hospital de São Bernardo", "Facility"],
+["mulher", "Person"],
+["automóvel", "Object"],
+["proprietário do restaurante", "Person"],
+["Comando Distrital de Operações de Socorro (CDOS) de Setúbal", "Organization"],
+["duas pessoas", "Person"],
+["ambulância", "Object"],
+["bombeiros da corporação de Águas de Moura", "Organization"],
+["Águas de Moura", "Location"]
+]

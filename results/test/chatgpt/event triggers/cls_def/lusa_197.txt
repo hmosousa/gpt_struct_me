@@ -1,8 +1,0 @@
-[
-  ["baleado", "Occurrence"],
-  ["fugiu", "Aspectual"],
-  ["atingida", "Occurrence"],
-  ["conduzida", "Intensional Action"],
-  ["investigar", "Intensional Action"],
-  ["determinar", "Intensional Action"]
-]

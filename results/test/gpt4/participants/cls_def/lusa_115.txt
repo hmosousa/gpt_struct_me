@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Alcobaça", "Location"],
+["homem de 75 anos", "Person"],
+["Fervença", "Location"],
+["freguesia de Maiorga", "Location"],
+["concelho de Alcobaça", "Location"],
+["GNR", "Organization"],
+["familiar", "Person"],
+["vítima", "Person"],
+["agência Lusa", "Organization"],
+["Diogo Morgado", "Person"],
+["comandante do Destacamento Territorial das Caldas da Rainha da GNR", "Person"],
+["Polícia Judiciária", "Organization"],
+["corpo", "Object"],
+["residência da vítima", "Facility"],
+["distrito de Leiria", "Location"],
+["serviço de Medicina Legal de Leiria", "Facility"],
+["Polícia Judiciária de Leiria", "Organization"],
+["Lusa", "Organization"]
+]

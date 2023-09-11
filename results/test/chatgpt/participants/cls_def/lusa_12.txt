@@ -1,0 +1,21 @@
+[
+  ["Autoridades", "Organization"],
+  ["homem", "Person"],
+  ["rio Guadiana", "Location"],
+  ["Autoridade Marítima Nacional", "Organization"],
+  ["buscas", "Action"],
+  ["êxito", "Other"],
+  ["Foz de Odeleite", "Location"],
+  ["concelho de Castro Marim", "Location"],
+  ["comunicado", "Object"],
+  ["nacionalidade romena", "Other"],
+  ["pescadores", "Person"],
+  ["Capitão do Porto de Vila Real de Santo António", "Person"],
+  ["embarcação da Polícia Marítima", "Object"],
+  ["embarcação da Estação Salva-vidas de Vila Real de Santo António", "Object"],
+  ["alerta", "Other"],
+  ["Centro de Coordenação de Busca e Salvamento Marítimo de Lisboa", "Organization"],
+  ["segunda-feira", "Other"],
+  ["Lusa", "Organization"],
+  ["fonte da Autoridade Marítima Nacional", "Organization"]
+]

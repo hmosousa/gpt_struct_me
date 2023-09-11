@@ -1,0 +1,15 @@
+[
+["Unidade de Controlo Costeiro", "Organization"],
+["rio Guadiana", "Location"],
+["Algarve", "Location"],
+["GNR", "Organization"],
+["115 fardos de haxixe com 3.785 quilos", "Object"],
+["uma embarcação de alta velocidade", "Object"],
+["Foz de Odeleite", "Location"],
+["militares da GNR", "Person"],
+["suspeitos", "Person"],
+["território espanhol", "Location"],
+["autoridades policiais espanholas", "Organization"],
+["Sistema Integrado de Vigilância, Comando e Controlo (SIVICC)", "Organization"],
+["Polícia Judiciária (PJ)", "Organization"]
+]

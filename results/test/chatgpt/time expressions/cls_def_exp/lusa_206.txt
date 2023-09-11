@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["distrito de Évora", "Time"], ["Unidade Local de Investigação Criminal de Évora", "Time"]]

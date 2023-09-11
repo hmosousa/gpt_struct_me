@@ -1,0 +1,1 @@
+[["quarta-feira", "Date"], ["hoje", "Date"], ["na sequência", "Duration"], ["num ombro e braço", "Duration"], ["do local", "Set"], ["primeiro interrogatório judicial", "Time"], ["prisão preventiva", "Time"]]

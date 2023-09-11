@@ -1,1 +1,0 @@
-["baleado", "fugiu", "atingida", "conduzida", "investigar", "crime", "determinar"]

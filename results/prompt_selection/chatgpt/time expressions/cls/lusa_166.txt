@@ -1,4 +1,0 @@
-[
-  ["tarde de hoje", "Time"],
-  ["pelas 15:00", "Time"]
-]

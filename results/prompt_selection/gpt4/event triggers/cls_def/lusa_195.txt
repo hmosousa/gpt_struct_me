@@ -1,0 +1,16 @@
+[
+["detém", "Occurrence"],
+["suspeito de balear", "State"],
+["deteve", "Occurrence"],
+["ter baleado", "Occurrence"],
+["anunciado", "Reporting"],
+["disparado", "Occurrence"],
+["encontrava a almoçar", "State"],
+["alvejar", "Occurrence"],
+["provocando-lhe ferimentos", "Occurrence"],
+["fugiu", "Occurrence"],
+["está indiciado", "State"],
+["foi presente a primeiro interrogatório judicial", "Occurrence"],
+["aplicada a medida de coação", "Occurrence"],
+["prisão preventiva", "State"]
+]

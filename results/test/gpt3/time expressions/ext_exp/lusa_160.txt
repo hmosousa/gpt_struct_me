@@ -1,1 +1,1 @@
-["sábado", "hoje", "início de outubro", "22 anos de idade", "Lisboa", "Osvaldo Vieira"]
+["2017", "2016", "2017", "2019", "05 de outubro"]

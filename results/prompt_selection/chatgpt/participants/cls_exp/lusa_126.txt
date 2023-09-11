@@ -1,0 +1,1 @@
+[["GNR", "Organization"], ["Sines", "Location"], ["Setúbal", "Location"], ["Guarda Nacional Republicana", "Organization"], ["Santiago do Cacém", "Location"]]

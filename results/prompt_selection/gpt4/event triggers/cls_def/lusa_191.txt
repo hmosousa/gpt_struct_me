@@ -1,0 +1,22 @@
+[
+["Homem morre", "Occurrence"],
+["ser esfaqueado", "Occurrence"],
+["morreu", "State"],
+["ter sido esfaqueado", "Occurrence"],
+["desentendimento", "Occurrence"],
+["informou", "Reporting"],
+["esfaqueamento terá ocorrido", "Occurrence"],
+["óbito sido declarado", "State"],
+["vítima terá ido pedir ajuda", "Occurrence"],
+["desentendimento entre dois indivíduos", "Occurrence"],
+["envolveu uma arma branca", "Occurrence"],
+["um deles sido esfaqueado", "Occurrence"],
+["recolher informações", "Intensional Action"],
+["suspeito do crime terá sido detido", "Occurrence"],
+["tentativa de fuga", "Occurrence"],
+["aguarda mais dados", "Intensional State"],
+["Polícia Judiciária (PJ) já foi acionada", "Occurrence"],
+["tratar de um crime de homicídio", "State"],
+["local do crime encontrava-se preservado", "State"],
+["forças policiais e com fitas de segurança", "State"]
+]

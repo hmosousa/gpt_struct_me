@@ -1,0 +1,15 @@
+[
+["GNR", "Organization"],
+["Aveiro", "Location"],
+["atum-rabilho", "Object"],
+["porto de pesca costeira da Gafanha da Nazaré", "Location"],
+["Guarda", "Organization"],
+["segunda-feira", "Other"],
+["veículo", "Object"],
+["embarcação de pesca", "Object"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"],
+["pescado", "Object"],
+["controlo higiossanitário", "Other"],
+["instituição de solidariedade social", "Organization"]
+]

@@ -1,0 +1,10 @@
+[
+["ficou", "State"],
+["atropelado", "Occurrence"],
+["disse", "Reporting"],
+["assistido", "Perception"],
+["transportado", "Aspectual"],
+["ocorreu", "Occurrence"],
+["prestar assistência", "Intensional Action"],
+["disse", "Reporting"]
+]

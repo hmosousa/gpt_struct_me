@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["69 anos", "Duration"], ["cidade de Braga", "Set"], ["Dume", "Set"]]

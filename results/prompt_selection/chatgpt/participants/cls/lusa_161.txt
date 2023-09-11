@@ -1,17 +1,1 @@
-[
-  ["MP", "Organization"],
-  ["homem", "Person"],
-  ["companheira", "Person"],
-  ["Braga", "Location"],
-  ["Amares", "Location"],
-  ["Ministério Público", "Organization"],
-  ["Braga", "Location"],
-  ["abuso sexual de crianças agravado", "Other"],
-  ["vítima", "Person"],
-  ["Procuradoria-Geral Distrital do Porto", "Organization"],
-  ["nota", "Other"],
-  ["arguido", "Person"],
-  ["trato sexual", "Other"],
-  ["filha", "Person"],
-  ["despacho de acusação", "Other"]
-]
+[["Homem", "Person"], ["ex-companheira", "Person"], ["Vila Nova de Gaia", "Location"], ["arma de fogo", "Object"], ["fonte", "Organization"], ["GNR", "Organization"], ["Comando Territorial da GNR do Porto", "Organization"], ["Rua da Figueirinha", "Location"], ["Grijó", "Location"], ["Porto", "Location"], ["Polícia Judiciária", "Organization"]]

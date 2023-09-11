@@ -1,1 +1,0 @@
-[["um pouco antes das 00:00", "Time"], ["hoje", "Date"]]

@@ -1,5 +1,0 @@
-[
-  ["tarde de hoje", "Time"],
-  ["15:00", "Time"],
-  ["detenção", "Duration"]
-]

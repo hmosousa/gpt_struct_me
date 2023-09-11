@@ -1,0 +1,14 @@
+[
+["Homem", "Person"],
+["Tondela", "Location"],
+["homem de 54 anos", "Person"],
+["ribeira na aldeia de Fráguas", "Location"],
+["concelho de Tondela", "Location"],
+["agência Lusa", "Organization"],
+["GNR", "Organization"],
+["Comando Territorial da GNR de Viseu", "Organization"],
+["Instituto Nacional de Medicina Legal", "Organization"],
+["Comando Distrital de Operações de Socorro de Viseu", "Organization"],
+["nove operacionais", "Person"],
+["quatro veículos", "Object"]
+]

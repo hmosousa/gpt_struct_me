@@ -1,0 +1,19 @@
+[
+["Homem preso preventivamente", "Occurrence"],
+["obrigar companheira a prostituir-se", "Intensional Action"],
+["Um juiz de instrução ordenou a prisão preventiva", "Occurrence"],
+["Ministério Público (MP) de Penafiel indiciou", "Reporting"],
+["Polícia Judiciária, que deteve o homem", "Occurrence"],
+["levou a juiz de instrução", "Occurrence"],
+["a vítima, de 26 anos, foi colocada numa instituição de acolhimento", "Occurrence"],
+["a mulher “vivia em comunhão de vida desde 2017 com o arguido", "State"],
+["a sujeitava a exploração sexual na via pública", "Intensional Action"],
+["ficando com os proveitos obtidos dessa prática", "Aspectual"],
+["a vítima fugiu algumas vezes", "Occurrence"],
+["era localizada pelo suspeito", "Occurrence"],
+["obrigada ou convencida a voltar para junto de si", "Intensional Action"],
+["sob promessa de receber produto estupefaciente do qual é dependente", "Intensional State"],
+["que o arguido lhe cedia", "Occurrence"],
+["MP junto da comarca de Porto-Este, em Penafiel, indicia o homem", "Reporting"],
+["pela prática dos crimes de tráfico de pessoas para exploração sexual, sequestro e violação", "Occurrence"]
+]

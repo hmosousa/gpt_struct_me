@@ -1,0 +1,11 @@
+[
+  ["Homem", "Person"],
+  ["mercado de Arroios", "Location"],
+  ["Lisboa", "Location"],
+  ["PSP", "Organization"],
+  ["Comando Metropolitano de Lisboa", "Organization"],
+  ["Cometlis", "Organization"],
+  ["rua Ângela Pinto", "Location"],
+  ["café", "Facility"],
+  ["Polícia Judiciária", "Organization"]
+]

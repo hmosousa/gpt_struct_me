@@ -1,0 +1,1 @@
+["hoje", "no sábado"]

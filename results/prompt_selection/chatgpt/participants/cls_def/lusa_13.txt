@@ -1,10 +1,15 @@
 [
+  ["Autoridades judiciais", "Organization"],
   ["Maximiliano Trimarchi", "Person"],
   ["Diego Maradona", "Person"],
   ["procuradoria-geral de San Isidro", "Organization"],
+  ["Trimarchi", "Person"],
+  ["Maradona", "Person"],
+  ["San André", "Location"],
+  ["Buenos Aires", "Location"],
   ["Leopoldo Luque", "Person"],
-  ["hematoma subdural", "Object"],
-  ["psiquiatra Agustina Cosachov", "Person"],
-  ["justiça argentina", "Organization"],
-  ["antigo futebolista", "Object"]
+  ["Agustina Cosachov", "Person"],
+  ["Maradona", "Person"],
+  ["Maradona", "Person"],
+  ["Argentina", "Location"]
 ]

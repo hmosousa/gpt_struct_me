@@ -1,0 +1,14 @@
+[
+["Homem", "Person"],
+["tubarão", "Nature"],
+["praia", "Location"],
+["Austrália", "Location"],
+["agências internacionais", "Organization"],
+["Cable", "Location"],
+["oceano Índico", "Location"],
+["polícia", "Organization"],
+["paramédicos", "Person"],
+["praia", "Facility"],
+["CSIRO", "Organization"],
+["tubarões brancos", "Nature"]
+]

@@ -1,0 +1,17 @@
+[
+["Homem", "Person"],
+["Famalicão", "Location"],
+["Vale de S. Martinho", "Location"],
+["Vila Nova de Famalicão", "Location"],
+["Hospital de São João", "Facility"],
+["Porto", "Location"],
+["bombeiros locais", "Organization"],
+["homem de 58 anos", "Person"],
+["Bombeiros Voluntários Famalicenses", "Organization"],
+["Lusa", "Organization"],
+["Hospital de São João", "Facility"],
+["gasolina", "Object"],
+["Viatura Médica de Emergência e Reanimação (VMER)", "Facility"],
+["Hospital de Famalicão", "Facility"],
+["distrito de Braga", "Location"]
+]

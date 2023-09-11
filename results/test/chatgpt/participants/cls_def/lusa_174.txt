@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Paredes", "Location"], ["GNR", "Organization"], ["Guarda", "Organization"], ["Núcleo de Investigação Criminal (NIC) de Penafiel", "Organization"], ["sexta-feira", "Other"], ["Tribunal Judicial de Paredes", "Organization"]]

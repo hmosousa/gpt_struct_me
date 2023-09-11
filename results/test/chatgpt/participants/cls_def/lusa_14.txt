@@ -1,0 +1,14 @@
+[
+  ["Autoridades policiais angolanas", "Organization"],
+  ["Serviço de investigação Criminal (SIC)", "Organization"],
+  ["República Democrática do Congo (RDCongo)", "Location"],
+  ["cidade do Dundo", "Location"],
+  ["Lunda Norte", "Location"],
+  ["autoridades angolanas", "Organization"],
+  ["porta-voz do SIC na Lunda Norte", "Person"],
+  ["Veríssimo Pandamari", "Person"],
+  ["supostos traficantes", "Person"],
+  ["Luanda", "Location"],
+  ["Angola", "Location"],
+  ["agência noticiosa angolana, Angop", "Organization"]
+]

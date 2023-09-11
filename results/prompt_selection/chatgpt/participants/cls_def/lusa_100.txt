@@ -1,0 +1,13 @@
+[
+  ["Violência doméstica", "Nature"],
+  ["Pulseira eletrónica", "Object"],
+  ["homem", "Person"],
+  ["Penafiel", "Location"],
+  ["Porto", "Location"],
+  ["ex-companheira", "Person"],
+  ["GNR", "Organization"],
+  ["comunicado", "Object"],
+  ["botão de pânico", "Object"],
+  ["medida de proteção", "Object"],
+  ["teleassistência", "Organization"]
+]

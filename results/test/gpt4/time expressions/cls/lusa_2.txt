@@ -1,0 +1,5 @@
+[
+["domingo à noite", "Time"],
+["hoje", "Date"],
+["às 23:30", "Time"]
+]

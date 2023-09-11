@@ -1,0 +1,10 @@
+[
+["GNR de Leiria", "Organization"],
+["Bidoeira de Cima", "Location"],
+["Leiria", "Location"],
+["Comando Territorial da GNR", "Organization"],
+["Núcleo de Proteção Ambiental de Leiria", "Organization"],
+["militares da GNR", "Person"],
+["lagoa de armazenagem de efluentes pecuários", "Facility"],
+["exploração agropecuária", "Facility"]
+]

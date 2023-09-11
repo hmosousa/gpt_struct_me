@@ -1,13 +1,1 @@
-[
-  ["acusou", "Reporting"],
-  ["abuso sexual de crianças agravado", "Occurrence"],
-  ["vítima", "State"],
-  ["abuso sexual", "Occurrence"],
-  ["começado", "Occurrence"],
-  ["tinha", "State"],
-  ["arguido", "State"],
-  ["passou a viver", "Occurrence"],
-  ["manteve trato sexual", "Occurrence"],
-  ["aproveitando-se", "Intensional Action"],
-  ["despacho de acusação", "State"]
-]
+[["matou", "Occurrence"], ["disparo", "Occurrence"], ["detido", "State"], ["tentar", "Intensional Action"], ["suicídio", "Occurrence"], ["disparo", "Occurrence"], ["ocorreu", "Occurrence"], ["tem", "State"], ["cometido", "Occurrence"], ["terminar", "Occurrence"], ["mantiveram", "State"], ["passou", "State"]]

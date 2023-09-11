@@ -1,7 +1,0 @@
-[
-  ["morre", "Occurrence"],
-  ["cair", "Occurrence"],
-  ["limpar", "Intensional Action"],
-  ["disse", "Reporting"],
-  ["compareceram", "Occurrence"]
-]

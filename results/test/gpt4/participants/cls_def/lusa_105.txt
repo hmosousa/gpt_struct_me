@@ -1,0 +1,17 @@
+[
+["GNR", "Organization"],
+["homem de 38 anos", "Person"],
+["Vila do Conde", "Location"],
+["estupefacientes", "Object"],
+["veículo", "Object"],
+["12 doses de heroína", "Object"],
+["nove doses de cocaína", "Object"],
+["suspeito", "Person"],
+["Guarda", "Organization"],
+["mandado de condução a estabelecimento prisional", "Object"],
+["Tribunal Judicial de Vila do Conde", "Organization"],
+["pena de seis anos e seis meses de prisão efetiva", "Other"],
+["Estabelecimento Prisional do Porto", "Facility"],
+["factos", "Other"],
+["nota de imprensa", "Object"]
+]

@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Penafiel", "Location"], ["Ministério Público", "Organization"], ["Polícia Judiciária", "Organization"], ["vítima", "Person"], ["arguido", "Person"], ["MP", "Organization"], ["Porto-Este", "Location"], ["tráfico de pessoas", "Other"], ["sequestro", "Other"], ["violação", "Other"]]

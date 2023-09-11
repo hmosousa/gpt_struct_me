@@ -1,0 +1,22 @@
+[
+["GNR", "Organization"],
+["Maia", "Location"],
+["homem de 59 anos", "Person"],
+["pai", "Person"],
+["concelho da Maia", "Location"],
+["distrito do Porto", "Location"],
+["agressor", "Person"],
+["prisão", "Facility"],
+["setembro de 2019", "Other"],
+["vítima", "Person"],
+["seu pai, de 89 anos", "Person"],
+["dinheiro", "Object"],
+["vício de consumo de estupefacientes", "Other"],
+["mandado de detenção", "Object"],
+["quarta-feira", "Other"],
+["militares da GNR do Posto Territorial da Maia", "Organization"],
+["detido", "Person"],
+["primeiro interrogatório judicial", "Other"],
+["Tribunal de Instrução Criminal de Matosinhos", "Organization"],
+["medidas de coação", "Other"]
+]

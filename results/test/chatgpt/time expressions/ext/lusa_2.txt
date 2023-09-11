@@ -1,1 +1,1 @@
-["domingo à noite", "no distrito de Lisboa", "Estrada de Mem Martins", "Hospital Professor Doutor Fernando Fonseca", "Comando Metropolitano de Lisboa", "Polícia Judiciária"]
+["domingo à noite", "no local", "às 23:30"]

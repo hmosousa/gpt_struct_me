@@ -1,0 +1,15 @@
+[
+["Homem", "Person"],
+["Famalicão", "Location"],
+["Jesufrei", "Location"],
+["Vila Nova de Famalicão", "Location"],
+["Comando Distrital de Operações de Socorro de Braga", "Organization"],
+["vítima", "Person"],
+["telhado", "Object"],
+["óbito", "Other"],
+["viatura médica de emergência e reanimação (VMER)", "Facility"],
+["bombeiros", "Organization"],
+["seis homens", "Person"],
+["três viaturas", "Object"],
+["GNR", "Organization"]
+]

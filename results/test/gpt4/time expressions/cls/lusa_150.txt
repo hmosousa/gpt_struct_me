@@ -1,0 +1,8 @@
+[
+["hoje", "Date"],
+["seis meses", "Duration"],
+["71 anos", "Duration"],
+["dia 25 de março", "Date"],
+["outubro", "Date"],
+["três eleições", "Set"]
+]

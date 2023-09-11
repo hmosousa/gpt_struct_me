@@ -1,0 +1,20 @@
+[
+["preso", "State"],
+["ordenou", "Intensional Action"],
+["indiciou", "Reporting"],
+["prostituir-se", "Intensional State"],
+["informou", "Reporting"],
+["deteve", "Occurrence"],
+["levou", "Intensional Action"],
+["colocada", "State"],
+["vivia", "State"],
+["sujeitava", "Intensional Action"],
+["fugiu", "Occurrence"],
+["submetida", "State"],
+["localizada", "Perception"],
+["obrigada", "State"],
+["convencida", "Perception"],
+["voltar", "Intensional Action"],
+["cedia", "Intensional Action"],
+["indicia", "Reporting"]
+]

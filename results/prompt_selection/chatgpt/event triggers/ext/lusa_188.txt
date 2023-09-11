@@ -1,0 +1,1 @@
+["morre em acidente de trabalho", "acidente de trabalho", "queda em altura", "falecer", "transportada por ambulância", "helitransportada para um hospital", "alerta foi dado", "operações de socorro", "acionado o helicóptero", "tomou conta da ocorrência"]

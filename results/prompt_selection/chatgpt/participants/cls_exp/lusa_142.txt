@@ -1,0 +1,12 @@
+[
+  ["GNR", "Organization"],
+  ["Mértola", "Location"],
+  ["GNR", "Organization"],
+  ["Beja", "Location"],
+  ["GNR", "Organization"],
+  ["Tribunal Judicial de Beja", "Facility"],
+  ["GNR", "Organization"],
+  ["Estrada Nacional 122", "Location"],
+  ["Mértola", "Location"],
+  ["GNR", "Organization"]
+]

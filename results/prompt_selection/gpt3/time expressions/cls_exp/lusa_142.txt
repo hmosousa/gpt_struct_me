@@ -1,0 +1,1 @@
+[["segunda-feira", "Date"], ["hoje", "Date"], ["Tribunal Judicial de Beja", "Set"], ["Estrada Nacional 122", "Set"], ["primeiro interrogatório", "Time"], ["eventual aplicação de medidas de coação", "Time"]]

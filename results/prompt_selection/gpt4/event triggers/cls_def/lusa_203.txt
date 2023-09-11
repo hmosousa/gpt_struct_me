@@ -1,0 +1,15 @@
+[
+["Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China", "Occurrence"],
+["sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China", "Occurrence"],
+["noticiaram hoje os meios de comunicação estatais", "Reporting"],
+["O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário", "Occurrence"],
+["o suspeito sido identificado pelos media com o sobrenome Yang", "Reporting"],
+["O suspeito foi detido", "Occurrence"],
+["o motivo do ataque permanece desconhecido", "State"],
+["A lei chinesa restringe a venda e posse de armas de fogo", "State"],
+["os ataques em massa são geralmente realizados com facas ou explosivos caseiros", "State"],
+["Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade", "Reporting"],
+["um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano", "Occurrence"],
+["tendo sido condenado à morte", "Occurrence"],
+["Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim", "Occurrence"]
+]

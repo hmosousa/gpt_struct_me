@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["ao longo de meio ano", "Duration"]]

@@ -1,9 +1,0 @@
-[
-  ["sofreu", "Occurrence"],
-  ["queimaduras", "State"],
-  ["manuseava", "Intensional Action"],
-  ["conduzido", "Intensional Action"],
-  ["sabendo-se", "Reporting"],
-  ["relacionado", "Aspectual"],
-  ["transporte", "Intensional Action"]
-]

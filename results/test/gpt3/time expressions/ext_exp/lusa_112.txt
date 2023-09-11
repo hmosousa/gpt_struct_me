@@ -1,1 +1,1 @@
-["hoje", "segunda-feira", "ontem", "segunda-feira", "dezembro passado"]
+["hoje", "20:30"]

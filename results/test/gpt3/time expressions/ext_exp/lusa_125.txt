@@ -1,1 +1,1 @@
-["sábado", "hoje"]
+["domingo", "hoje", "Sistema Integrado de Vigil\u00e2ncia e Comando e Controlo (SIVICC)"]

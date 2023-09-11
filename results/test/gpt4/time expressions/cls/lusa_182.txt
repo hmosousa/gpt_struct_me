@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["47 anos", "Duration"], ["46 anos", "Duration"], ["últimos meses", "Duration"], ["quase diária", "Set"], ["500 metros", "Duration"]]

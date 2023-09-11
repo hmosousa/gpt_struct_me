@@ -1,0 +1,15 @@
+[
+["Grua de camião derrubou poste de iluminação", "Occurrence"],
+["matou homem de 52 anos", "Occurrence"],
+["Um homem de 52 anos morreu", "Occurrence"],
+["um outro sofreu ferimentos ligeiros", "Occurrence"],
+["acidente com um camião", "Occurrence"],
+["derrubou um poste de eletricidade", "Occurrence"],
+["o poste de iluminação foi derrubado", "Occurrence"],
+["atingindo o homem", "Occurrence"],
+["A vítima ainda foi transportada", "Occurrence"],
+["acabou por morrer", "Occurrence"],
+["A estrutura atingiu ainda o funcionário", "Occurrence"],
+["sofreu ferimentos ligeiros", "Occurrence"],
+["O acidente ocorreu", "Occurrence"]
+]

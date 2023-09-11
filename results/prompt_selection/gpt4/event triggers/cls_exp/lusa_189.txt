@@ -1,0 +1,10 @@
+[
+["morto", "State"],
+["tiro", "Occurrence"],
+["atirador em fuga", "State"],
+["baleado", "State"],
+["incidente ocorreu", "Occurrence"],
+["tratando-se de uma suspeita de homicídio", "State"],
+["está a ser acompanhada", "Aspectual"],
+["investigação", "Intensional Action"]
+]

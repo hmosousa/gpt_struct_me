@@ -1,0 +1,1 @@
+[["PJ", "Organization"], ["homem de Penafiel", "Person"], ["mulher", "Person"], ["Diretoria do Norte", "Organization"], ["GNR", "Organization"], ["Duas Igrejas", "Location"], ["Penafiel", "Location"], ["Porto", "Location"]]

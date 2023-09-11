@@ -1,14 +1,1 @@
-[
-["morte", "Occurrence"],
-["buscas", "Occurrence"],
-["investigação", "State"],
-["negligência", "State"],
-["morto", "Intensional State"],
-["realizou", "Aspectual"],
-["apreendido", "Aspectual"],
-["participou", "Aspectual"],
-["submetido", "Aspectual"],
-["abriu", "Aspectual"],
-["determinar", "Intensional Action"],
-["assistência", "State"]
-]
+[["buscas", "Occurrence"], ["realizaram", "Intensional Action"], ["buscas", "Occurrence"], ["apreendido", "Intensional Action"], ["morreu", "Occurrence"], ["realizou", "Intensional Action"], ["participou", "Intensional Action"], ["submetido", "Occurrence"], ["abriu", "Intensional Action"]]

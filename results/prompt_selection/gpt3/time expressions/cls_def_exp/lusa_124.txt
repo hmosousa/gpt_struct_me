@@ -1,1 +1,0 @@
-[["sábado à noite", "Time"], ["sábado", "Date"], ["21:40", "Time"], ["quilómetro quatro", "Duration"], ["23:30", "Time"]]

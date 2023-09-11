@@ -1,0 +1,17 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Cabeceiras de Basto", "Location"],
+["bagos de borracha", "Object"],
+["balas de borracha", "Object"],
+["fonte policial", "Person"],
+["Refojos de Basto", "Location"],
+["Braga", "Location"],
+["Comando Territorial da GNR em Braga", "Organization"],
+["agência Lusa", "Organization"],
+["militares", "Person"],
+["unidade hospitalar", "Facility"],
+["posto da GNR em Cabeceiras", "Facility"],
+["juiz de instrução", "Person"],
+["Polícia Judiciária", "Organization"]
+]

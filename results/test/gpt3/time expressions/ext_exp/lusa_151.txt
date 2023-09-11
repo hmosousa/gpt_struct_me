@@ -1,1 +1,1 @@
-["hoje", "seis meses", "25 de março", "outubro", "seis meses"]
+["hoje", "início do mês de dezembro", "2016", "2017", "dezembro"]

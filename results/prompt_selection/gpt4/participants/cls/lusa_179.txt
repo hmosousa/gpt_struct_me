@@ -1,0 +1,17 @@
+[
+["Homem", "Person"],
+["Penafiel", "Location"],
+["companheira", "Person"],
+["juiz de instrução", "Person"],
+["Ministério Público (MP) de Penafiel", "Organization"],
+["mulher", "Person"],
+["Polícia Judiciária", "Organization"],
+["vítima", "Person"],
+["instituição de acolhimento para pessoas sujeitas a este tipo de crime", "Facility"],
+["arguido", "Person"],
+["polícia", "Organization"],
+["suspeito", "Person"],
+["produto estupefaciente", "Object"],
+["MP junto da comarca de Porto-Este, em Penafiel", "Organization"],
+["crimes de tráfico de pessoas para exploração sexual, sequestro e violação", "Other"]
+]

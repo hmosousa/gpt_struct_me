@@ -1,0 +1,1 @@
+["detetado", "alertado", "confirmaram", "retirado", "transportado", "autopsiado"]

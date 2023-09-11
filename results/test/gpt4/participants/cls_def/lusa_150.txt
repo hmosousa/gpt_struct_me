@@ -1,0 +1,20 @@
+[
+["Covid-19", "Other"],
+["Governo do Mali", "Organization"],
+["Soumaila Cissé", "Person"],
+["jihadistas", "Person"],
+["França", "Location"],
+["família", "Person"],
+["partido", "Organization"],
+["Agência France-Presse", "Organization"],
+["AFP", "Organization"],
+["esposa", "Person"],
+["União para a República e a Democracia", "Organization"],
+["URD", "Organization"],
+["Tumbuktu", "Location"],
+["Noroeste", "Location"],
+["Sophie Pétronin", "Person"],
+["italianos", "Person"],
+["200 detidos", "Person"],
+["engenheiro de computação", "Person"]
+]

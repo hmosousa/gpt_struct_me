@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["junho deste ano", "Date"], ["2018", "Date"], ["uma faca", "Set"], ["sete pessoas", "Set"], ["outras sete", "Set"], ["uma sauna", "Set"], ["balneário", "Set"], ["segurança", "Set"], ["jardim de infância", "Set"], ["centro comercial", "Set"]]

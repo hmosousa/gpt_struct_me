@@ -1,0 +1,1 @@
+["hoje", "junho deste ano", "2018"]

@@ -1,0 +1,19 @@
+[
+["Homem", "Person"],
+["Felgueiras", "Location"],
+["homem de 31 anos", "Person"],
+["Regilde", "Location"],
+["bombeiros", "Organization"],
+["vítima", "Person"],
+["corporação de Felgueiras", "Organization"],
+["Júlio Pereira", "Person"],
+["bombeiro em Vizela", "Person"],
+["equipa de grande ângulo da corporação", "Organization"],
+["Bombeiros de Felgueiras", "Organization"],
+["ambulância", "Object"],
+["viatura de desencarceramento", "Object"],
+["viatura de resgate em grande ângulo", "Object"],
+["equipa da Viatura Médica de Emergência e Reanimação (VMER) do Vale do Sousa", "Organization"],
+["Hospital de Guimarães", "Facility"],
+["GNR", "Organization"]
+]

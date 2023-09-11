@@ -1,0 +1,14 @@
+[
+["Polícia Judiciária", "Organization"],
+["suspeito", "Person"],
+["menores", "Person"],
+["Évora", "Location"],
+["homem de 56 anos", "Person"],
+["distrito de Évora", "Location"],
+["Unidade Local de Investigação Criminal de Évora", "Organization"],
+["telemóveis", "Object"],
+["ficheiros informáticos", "Object"],
+["imagens de menores em situações de cariz sexual", "Object"],
+["detido", "Person"],
+["primeiro interrogatório judicial", "Facility"]
+]

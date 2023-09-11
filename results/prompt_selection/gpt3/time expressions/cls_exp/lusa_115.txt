@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["Instituto Sapiens", "Set"], ["Luanda Medical Center", "Set"], ["Monalisa Residence", "Set"], ["Torres Eucaliptos", "Set"]]

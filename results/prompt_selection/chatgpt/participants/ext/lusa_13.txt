@@ -1,1 +1,1 @@
-["Maximiliano Trimarchi", "Diego Maradona", "Leopoldo Luque", "Agustina Cosachov"]
+["Maximiliano Trimarchi", "Diego Maradona", "San Isidro", "Leopoldo Luque", "Agustina Cosachov"]

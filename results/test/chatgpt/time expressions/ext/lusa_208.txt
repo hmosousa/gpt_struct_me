@@ -1,1 +1,1 @@
-["terça-feira à noite", "21:49"]
+["hoje", "pelas 17:50", "pelas 18:32"]

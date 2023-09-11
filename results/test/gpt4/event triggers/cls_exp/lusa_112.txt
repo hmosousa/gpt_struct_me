@@ -1,0 +1,1 @@
+[["substitui", "I_Action"], ["anunciada", "Reporting"], ["aceitou", "Perception"], ["proposta", "Occurrence"], ["exoneração", "Occurrence"], ["nomeação", "Occurrence"], ["posse", "Occurrence"], ["terá lugar", "Aspectual"], ["foi presidente", "State"], ["eleito", "Occurrence"], ["eleições legislativas", "Occurrence"]]

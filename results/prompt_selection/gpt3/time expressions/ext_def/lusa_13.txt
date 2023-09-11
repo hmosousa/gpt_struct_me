@@ -1,1 +1,1 @@
-["25 de novembro", "hoje", "início de novembro", "dois dias", "60 anos"]
+["25 de novembro", "hoje", "dois dias", "início de novembro", "60 anos"]

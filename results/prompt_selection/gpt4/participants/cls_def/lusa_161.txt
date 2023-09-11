@@ -1,0 +1,15 @@
+[
+["Homem", "Person"],
+["ex-companheira", "Person"],
+["Vila Nova de Gaia", "Location"],
+["GNR", "Organization"],
+["Comando Territorial da GNR do Porto", "Organization"],
+["agência Lusa", "Organization"],
+["Rua da Figueirinha", "Location"],
+["Grijó", "Location"],
+["Porto", "Location"],
+["homem", "Person"],
+["vítima", "Person"],
+["mulher", "Person"],
+["Polícia Judiciária", "Organization"]
+]

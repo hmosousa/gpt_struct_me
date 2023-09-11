@@ -1,0 +1,10 @@
+[
+  ["GNR", "Organization"],
+  ["Felgueiras", "Location"],
+  ["Porto", "Location"],
+  ["Guarda", "Organization"],
+  ["mulher de 25 anos", "Person"],
+  ["companheiro", "Person"],
+  ["homem com 33 anos", "Person"],
+  ["Tribunal Judicial de Felgueiras", "Organization"]
+]

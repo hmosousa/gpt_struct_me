@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["cidade de Trier", "Time"]]

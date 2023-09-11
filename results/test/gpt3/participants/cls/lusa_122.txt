@@ -1,0 +1,1 @@
+[["Alex Apolinário", "Person"], ["Alverca", "Organization"], ["Campeonato de Portugal", "Organization"], ["Hospital de Vila Franca de Xira", "Facility"], ["Alverca Futebol SAD", "Organization"], ["União de Almeirim", "Organization"], ["Campeonato de Portugal", "Organization"]]

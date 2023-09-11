@@ -1,0 +1,10 @@
+[
+["esta tarde", "Time"],
+["desde segunda-feira", "Date"],
+["hoje", "Date"],
+["cerca de dois quilómetros", "Duration"],
+["17:00 de segunda-feira", "Time"],
+["durante a noite", "Duration"],
+["esta manhã", "Time"],
+["pelas 15:40", "Time"]
+]

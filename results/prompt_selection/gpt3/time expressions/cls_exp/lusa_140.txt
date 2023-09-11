@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["27 de novembro", "Date"], ["dia 27 de novembro", "Date"]]

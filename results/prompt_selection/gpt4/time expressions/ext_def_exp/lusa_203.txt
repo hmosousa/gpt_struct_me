@@ -1,0 +1,1 @@
+["hoje", "Em junho deste ano", "Em 2018"]

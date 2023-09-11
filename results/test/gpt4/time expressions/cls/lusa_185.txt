@@ -1,0 +1,6 @@
+[
+["ao início da madrugada de hoje", "Time"],
+["na manhã de domingo", "Time"],
+["Por volta das 19:30", "Time"],
+["depois da meia-noite", "Time"]
+]

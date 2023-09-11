@@ -1,0 +1,12 @@
+[
+  ["Cadáver de homem", "Person"],
+  ["rio Douro", "Location"],
+  ["Vila Nova de Gaia", "Location"],
+  ["Polícia Marítima", "Organization"],
+  ["comandante da capitania do Porto", "Person"],
+  ["Rui Santos Amaral", "Person"],
+  ["cais flutuante de Santa Marinha", "Facility"],
+  ["Polícia Judiciária", "Organization"],
+  ["Sapadores de Vila Nova de Gaia", "Organization"],
+  ["Bombeiros de Coimbrões", "Organization"]
+]

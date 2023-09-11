@@ -1,0 +1,18 @@
+[
+  ["Homem de 61 anos", "Person"],
+  ["Marvão", "Location"],
+  ["Proteção Civil", "Organization"],
+  ["GNR", "Organization"],
+  ["Estrada Municipal 524", "Facility"],
+  ["Portalegre", "Location"],
+  ["Lusa", "Organization"],
+  ["VMER", "Organization"],
+  ["hospital de Portalegre", "Facility"],
+  ["Comando Distrital de Operações de Socorro", "Organization"],
+  ["CDOS", "Organization"],
+  ["Bica", "Location"],
+  ["Beirã", "Location"],
+  ["Medicina Legal do hospital de Portalegre", "Facility"],
+  ["bombeiros", "Organization"],
+  ["corporação de Marvão", "Organization"]
+]

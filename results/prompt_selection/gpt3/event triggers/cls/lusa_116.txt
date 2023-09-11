@@ -1,0 +1,1 @@
+[["jovem de 14 anos", "State"], ["ser atropelado por autocarro em Santo Tirso", "Occurrence"], ["ficou hoje em estado grave", "Reporting"], ["ter sido atropelado por um autocarro", "Perception"], ["foi transportado pelos Bombeiros da Vila das Aves", "Aspectual"], ["acidente ocorreu pela 18:16", "Intensional Action"], ["prestar assistência", "Intensional State"]]
