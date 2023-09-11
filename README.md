@@ -59,3 +59,49 @@ The following table compares the results obtained from out-of-the-box baselines 
 |                   | ChatGPT     | 50.7  | 44.3  |   47.2  |     61.4    |
 
 The results show that the combination of the best prompts and GPT models outperform (using strict $F_1$) the baseline in the extraction of participants and time expressions but failed to reach the same results in the extraction of events.
+
+## Run Experiments
+
+All the scripts to replicate the experimentation process are placed on the `experiments` folder. This folder contains three scripts of great importance: 
+
+- `prompt_selection.py` which is used to assess the best prompt template for a given model. If one whiches to select the best prompt template for the `gp4` model, one can do it by executing the following command:  `python experiments/prompt_selection.pt --mid gpt4`.
+
+- After having the produced text by the model one has to parse the answers. This can be made by running the `parse.py` script with the following command `python experiments/parse.py --mode prompt_selection`. This will produce a `predictions.json` on the `results/prompt_selection` folder.
+
+- Having the predictions we are now in a position to compare them with the annotations. By running `python experiments/evalaute.py --mode prompt_selection` one will produce a `results.json` on the `results/prompt_selection` folder that contains the predictions, recall, $F_1$ score, and relaxed $F_1$ score.
+
+- From the values attained by the `evaluate.py` script one can assert what is the best template according to a given criterion. For our research we consider the strict $F_1$ score. After idenfiying the best template one has to go to the `constants.py` on the `experiments` folder and add the best template for the model-entity pair. 
+
+- With that done we can now run the `experiments/test.py` script.
+  
+These scripts are meant to be executed recursively and in the presented order. That is, first, the best template is selected by executing the `prompt_selection.py` script, and only after that, you should run the `test.py` script.
+
+To assert what is the list of models supported, the user can set the `--help` flag on any of the scripts.
+
+## Running Experiments
+
+The `experiments` folder contains scripts to replicate the experimentation process:
+
+1. **Prompt Selection**: To assess the best prompt template for a specific model (e.g., `gpt4`), execute the following command:
+   ```sh
+   python experiments/prompt_selection.py -m gpt4
+   ```
+
+2. **Parsing**: After obtaining the model-generated text, parse the answers using the `parse.py` script:
+   ```sh
+   python experiments/parse.py --mode prompt_selection
+   ```
+
+3. **Evaluation**: To compare predictions with annotations, run the `evaluate.py` script:
+   ```sh
+   python experiments/evaluate.py --mode prompt_selection
+   ```
+
+4. **Template Selection**: Based on evaluation results, identify the best template and add it to the `constants.py` file in the `experiments` folder.
+
+5. **Final Experiment**: Run the `test.py` script to execute the final experiment.
+   ```sh
+   python experiments/test.py -m gpt4
+   ```
+   
+These scripts should be executed sequentially in the order presented. You can use the `--help` flag on any script to view supported options and commands.
