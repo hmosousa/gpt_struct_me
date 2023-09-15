@@ -1,0 +1,9 @@
+[
+"Grua de camião derrubou poste de iluminação no Porto e matou homem de 52 anos",
+"Um homem de 52 anos morreu",
+"Um outro sofreu ferimentos ligeiros",
+"O poste de iluminação foi derrubado pela grua do camião atingindo o homem que circulava na rua",
+"A vítima ainda foi transportada com vida para o Hospital de Santo António, mas acabou por morrer",
+"A estrutura atingiu ainda o funcionário de umas bombas de gasolina, que sofreu ferimentos ligeiros",
+"O acidente ocorreu cerca das 07:50"
+]

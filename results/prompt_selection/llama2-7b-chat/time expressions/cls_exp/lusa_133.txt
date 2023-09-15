@@ -1,0 +1,22 @@
+[["GNR", "Date"], ["Aveiro", "Location"], ["390 quilogramas", "Duration"], ["37.500 euros", "Set"], ["segunda-feira", "Date"], ["Ação de fiscalização", "Set"], ["Embarcação de pesca", "Set"], ["77 quilos", "Duration"], ["313 quilos", "Duration"], ["condutor do veículo", "Person"], ["mestre da embarcação", "Person"]]
+Explanation:
+* "GNR" is a date expression, indicating the date of the event.
+* "Aveiro" is a location expression, indicating the location where the event occurred.
+* "390 quilogramas" is a duration expression, indicating the amount of time the event lasted.
+* "37.500 euros" is a set expression, indicating the value of the event.
+* "segunda-feira" is a date expression, indicating the day of the week the event occurred.
+* "Ação de fiscalização" is a set expression, indicatingthe type of event that occurred.
+* "Embarcação de pesca" is a set expression, indicating the type of vessel involved in the event.
+* "77 quilos" is a duration expression, indicating the amount of time the event lasted.
+* "313 quilos" is a duration expression, indicating the amount of time the event lasted.
+* "condutor do veículo" is a person expression, indicating the person involved in the event.
+* "mestre da embarcação" is a person expression, indicating the person involved in the event.
+
+Note:
+* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are defined as follows:
+	+ Date: A date expression.
+	+ Location: A location expression.
+	+ Duration: A duration expression.
+	+ Set: A set expression.
+	+ Person: A person expression.

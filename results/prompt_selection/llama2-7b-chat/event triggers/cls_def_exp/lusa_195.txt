@@ -1,0 +1,34 @@
+[
+{
+"entity": "PJ",
+"class": "State"
+},
+{
+"entity": "homem",
+"class": "Person"
+},
+{
+"entity": "jovem",
+"class": "Person"
+},
+{
+"entity": "coletividade",
+"class": "Place"
+},
+{
+"entity": "restaurante",
+"class": "Place"
+},
+{
+"entity": "Alto da Guerra",
+"class": "Place"
+},
+{
+"entity": "polícia",
+"class": "Organization"
+},
+{
+"entity": "PJ",
+"class": "Organization"
+}
+]

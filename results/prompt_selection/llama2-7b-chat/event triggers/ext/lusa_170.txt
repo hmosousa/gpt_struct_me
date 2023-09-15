@@ -1,0 +1,16 @@
+[
+"Encontrado corpo de homem em zona rochosa na costa da Terceira",
+"O corpo de um homem",
+"A boiar junto a uma zona rochosa na costa leste da Terceira",
+"Detetado na segunda-feira",
+"Desconhecendo-se as causas da morte",
+"Alertado pelas 12:00 locais (13:00 em Lisboa)",
+"Autoridade Marítima",
+"Polícia Marítima de Angra do Heroísmo",
+"Comando-Local",
+"Polícia de Segurança Pública (PSP)",
+"Delegado de saúde",
+"Retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
+"Transportado para o Hospital de Angra do Heroísmo",
+"Autopsiado para se apurar as causas da morte"
+]

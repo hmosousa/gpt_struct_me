@@ -1,0 +1,13 @@
+[
+{entity: "Homem de 48 anos", class: "State"},
+{entity: "Acidente de trabalho", class: "Occurrence"},
+{entity: "Queda em altura", class: "Aspectual"},
+{entity: "Vítima", class: "Perception"},
+{entity: "Trabalhava numa obra de construção civil", class: "Intensional Action"},
+{entity: "Transportada por ambulância", class: "Intensional State"}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are extracted from the input text using a combination of named entity recognition and part-of-speech tagging.
+* The classes are assigned based on the semantic meaning of the entities, using a predefined set of classes.
+* The output list represents the event triggers in the input text, which are the events or actions that occurred or are happening in the story.

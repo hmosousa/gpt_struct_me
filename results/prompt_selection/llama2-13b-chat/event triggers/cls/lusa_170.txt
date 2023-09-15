@@ -1,0 +1,35 @@
+[
+["Encontrado corpo de homem", "State"],
+["de homem", "Occurrence"],
+["em zona rochosa", "Perception"],
+["na costa da Terceira", "Location"],
+["O corpo de um homem", "Aspectual"],
+["a boiar junto a uma zona rochosa", "Intensional Action"],
+["na segunda-feira", "Temporal"],
+["desconhecendo-se as causas da morte", "Reporting"],
+["anunciou hoje a Autoridade Marítima", "Reporting"],
+["Segundo um comunicado enviado às redações", "Reporting"],
+["o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado", "Reporting"],
+["pelas 12:00 locais (13:00 em Lisboa) de segunda-feira", "Temporal"],
+["para 'a presença do corpo de um homem a boiar' numa área de domínio público marítimo", "Reporting"],
+["A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP)", "Reporting"],
+["e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local", "Reporting"],
+["onde confirmaram 'a presença do corpo de um homem, de 62 anos, já cadáver'", "Perception"],
+["O corpo 'foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória'", "Intensional Action"],
+["já que se encontrava numa 'zona de difícil acesso'", "Aspectual"],
+["tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo", "Intensional Action"],
+["onde será autopsiado para se apurar as causas da morte", "Intensional Action"]
+]
+
+Explanation:
+
+* State: "Encontrado corpo de homem" (the stateof the body being found)
+* Occurrence: "de homem" (the occurrence of the body being found)
+* Perception: "em zona rochosa" (the perception of the body being in a rocky area)
+* Location: "na costa da Terceira" (the location of the body on the coast of Terceira)
+* Aspectual: "O corpo de um homem" (the aspect of the body being that of a man)
+* Intensional Action: "a boiar junto a uma zona rochosa" (the intention of the body being in the water near a rocky area)
+* Temporal: "na segunda-feira" (the day of the week the body was found)
+* Reporting: "anunciou hoje a Autoridade Marítima" (the reporting of the body being found by the maritime authority)
+* Reporting: "Segundo um comunicado enviado às redações" (the reporting of the body being found through a communication sent to the press)
+* Perception: "onde confirmaram 'a presença do corpo de um homem,

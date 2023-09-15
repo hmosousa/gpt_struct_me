@@ -1,0 +1,28 @@
+[
+["Homem de 69 anos", "Person"],
+["proprietário do restaurante", "Person"],
+["mulher", "Person"],
+["restaurante", "Facility"],
+["Cajados", "Location"],
+["Palmela", "Location"],
+["Setúbal", "Location"],
+["GNR", "Organization"],
+["Lusa", "Organization"],
+["hospital de São Bernardo", "Facility"],
+["Comando Distrital de Operações de Socorro (CDOS)", "Organization"],
+["bombeiros da corporação de Águas de Moura", "Organization"],
+["automóvel", "Object"]
+]
+
+Explanation:
+The input text describes an event where a 69-year-old man, the proprietor of a restaurant in Cajados, was seriously injured after being attacked with a bottle by a woman, who then fled the scene. The victim was transported to the hospital in a coma, and two other people who were involved in the incident suffered minor injuries. The text also mentions the GNR (National Republican Guard) and the CDOS (District Operations Command) of Setúbal, as well as the hospital and the restaurant.
+
+The output is a list of participants, where each element is a list containing the entity and its corresponding class. The classes used are:
+
+* Person: Used for individuals, such as the 69-year-old man, the woman who committed the assault, and the two people who suffered minor injuries.
+* Facility: Used for locations where events took place, such as the restaurant and the hospital.
+* Location: Used for geographical locations, such as Cajados, Palmela, and Setúbal.
+* Organization: Used for institutions and organizations, such as the GNR, Lusa, and the CDOS.
+* Object: Used for objects that are relevant to the event, such as the bottle used in the assault.
+
+Note that some entities in the input text may belong to multiple classes. For example, the restaurant could be classified as both a Facility and a Location. However, for the purpose of this task, we are only considering a single class per entity.

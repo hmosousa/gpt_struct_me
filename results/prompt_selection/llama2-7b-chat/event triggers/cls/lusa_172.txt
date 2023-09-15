@@ -1,0 +1,34 @@
+[
+{
+"entity": "Corpo de homem",
+"class": "State"
+},
+{
+"entity": "Praia da Estaquinha",
+"class": "Location"
+},
+{
+"entity": "Lagoa",
+"class": "Location"
+},
+{
+"entity": "Algarve",
+"class": "Location"
+},
+{
+"entity": "Faro",
+"class": "Location"
+},
+{
+"entity": "Estação Salva-vidas de Ferragudo",
+"class": "Organization"
+},
+{
+"entity": "Polícia Marítima de Portimão",
+"class": "Organization"
+}
+]
+]
+
+Explanation:
+The output is a list of JSON objects, where each object represents an event trigger. The "entity" field contains the name of the entity that triggered the event (e.g. "Corpo de homem" for the body of a man), and the "class" field contains the class of the trigger (e.g. "State" for the body of aman). The output also includes the location of the event (e.g. "Praia da Estaquinha") and the organizations involved (e.g. "Estação Salva-vidas de Ferragudo" and "Polícia Marítima de Portimão").

@@ -1,0 +1,7 @@
+[
+"Autoridades judiciais",
+"Maximiliano Trimarchi",
+"Diego Maradona",
+"Leopoldo Luque",
+"Agustina Cosachov"
+]

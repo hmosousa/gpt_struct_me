@@ -1,0 +1,8 @@
+[
+"homem de 52 anos",
+"outro homem",
+"funcionário de bombas de gasolina"
+]
+
+Explanation:
+The participants in this text are the people involved in the accident: the 52-year-old man who died, the other man who was injured, and the gas station attendant who was also injured.

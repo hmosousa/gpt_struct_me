@@ -1,0 +1,28 @@
+[
+{
+"entity": "corpo",
+"class": "Aspectual"
+},
+{
+"entity": "polícia",
+"class": "Reporting"
+},
+{
+"entity": "polícia",
+"class": "Reporting"
+},
+{
+"entity": "bombeiros",
+"class": "Intensional Action"
+},
+{
+"entity": "hospital",
+"class": "Intensional State"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Aspectual, Reporting, Intensional Action, and Intensional State.
+* The output includes all the entities mentioned in the input text, with their corresponding classes.
+* The input text is a news article about the discovery of a dead body on a rocky coast in the Azores, Portugal.
+* The output is a list of JSON objects, where each object represents a single entity and its corresponding class.

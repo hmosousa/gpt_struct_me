@@ -1,0 +1,11 @@
+["hoje", "52 anos", "Rua da Constituição", "07:50"]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "hoje" (today)
+* "52 anos" (52 years old)
+* "Rua da Constituição" (a street name, but also a temporal reference point)
+* "07:50" (a specific time)
+
+These expressions can be extracted and returned as a list of strings, which can then be used for further processing or analysis.

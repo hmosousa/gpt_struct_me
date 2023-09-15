@@ -1,0 +1,13 @@
+[
+"GNR detém dois homens por tráfico de droga em Sines",
+"detém",
+"2 homens",
+"34-43 anos",
+"tráfico de droga",
+"Sines",
+"distrito de Setúbal",
+"1.673 doses de estupefacientes",
+"apresentados ao Tribunal Judicial de Santiago do Cacém",
+"primeiro interrogatório judicial",
+"medidas de coação"
+]

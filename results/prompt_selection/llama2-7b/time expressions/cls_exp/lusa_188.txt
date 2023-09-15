@@ -1,0 +1,5 @@
+"2019-07-25T19:00:00.000Z"
+
+Explanation:
+The output is a string with the date and time of the event.
+

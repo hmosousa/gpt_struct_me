@@ -1,0 +1,51 @@
+[
+{
+"entity": "Violência doméstica",
+"class": "Date"
+},
+{
+"entity": "Pulseira eletrónica",
+"class": "Device"
+},
+{
+"entity": "Homem detido",
+"class": "Person"
+},
+{
+"entity": "Ex-companheira",
+"class": "Person"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Distrito do Porto",
+"class": "Location"
+},
+{
+"entity": "Penafiel",
+"class": "Location"
+},
+{
+"entity": "Separação",
+"class": "Event"
+},
+{
+"entity": "Perseguição",
+"class": "Event"
+},
+{
+"entity": "Botão de pânico",
+"class": "Device"
+},
+{
+"entity": "Teleassistência",
+"class": "Service"
+},
+{
+"entity": "Proibido de contactar",
+"class": "Restriction"
+}
+]
+Note: The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.

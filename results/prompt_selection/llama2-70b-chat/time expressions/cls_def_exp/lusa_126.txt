@@ -1,0 +1,21 @@
+[
+["GNR", "Date"],
+["sábado", "Time"],
+["1.673", "Duration"],
+["1.570", "Duration"],
+["103", "Duration"],
+["844", "Duration"],
+["quatro", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "GNR" refers to the Guarda Nacional Republicana, which is a date-related entity.
+* "sábado" means "Saturday" in Portuguese, and it is a time-related entity.
+* "1.673" and "1.570" are quantities of drugs, which can be classified as durations.
+* "103" is also a quantity of drugs and can be classified as a duration.
+* "844" is a quantity of money, which can be classified as a duration.
+* "quatro" means "four" in Portuguese, and it is a set-related entity.
+
+The output is a list of pairs, where each pair consists of the temporal expression and itscorresponding class. The classes used in this example are "Date", "Time", "Duration", and "Set".

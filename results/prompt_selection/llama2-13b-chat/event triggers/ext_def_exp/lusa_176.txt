@@ -1,0 +1,11 @@
+["morreu", "colhido", "óbito", "declarado", "encaminhado", "mobilizados", "veículos", "bombeiros", "PSP", "VMER"]
+
+Note:
+- "morreu" and "óbito" are synonyms, but "óbito" is more formal.
+- "colhido" is a verb, but in this context it's used as an event trigger.
+- "declarado" and "encaminhado" are also verbs, but they're used as event triggers.
+- "mobilizados" is a verb, but it's used as an event trigger.
+- "veículos" is a plural noun, but it's used as an event trigger.
+- "bombeiros" is a plural noun, but it's used as an event trigger.
+- "PSP" is an acronym for "Polícia de Segurança Pública".
+- "VMER" is an acronym for "Viatura Médica de Emergência e Reanimação".

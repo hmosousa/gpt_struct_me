@@ -1,0 +1,1 @@
+["homem", "ciclomotor", "veículo ligeiro", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "Lusa", "hospital de São Bernardo", "bombeiros", "corporações de Palmela e Sapadores de Setúbal", "viatura médica de emergência e reanimação"]

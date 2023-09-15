@@ -1,0 +1,15 @@
+[
+"Corpo de homem",
+"homem",
+"Autoridade Marítima",
+"pescador",
+"Estaquinha",
+"Lagoa",
+"Algarve",
+"Faro",
+"Estação Salva-vidas",
+"Ferragudo",
+"Portimão",
+"gabinete de medicina legal",
+"Polícia Marítima"
+]

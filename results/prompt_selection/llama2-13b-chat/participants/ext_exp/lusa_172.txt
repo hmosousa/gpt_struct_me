@@ -1,0 +1,1 @@
+["Corpo de homem", "homem", "Lagoa", "Algarve", "praia da Estaquinha", "pescador", "Faro", "Estação Salva-vidas de Ferragudo", "marina de Portimão", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]

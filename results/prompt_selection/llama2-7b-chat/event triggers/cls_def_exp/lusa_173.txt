@@ -1,0 +1,47 @@
+[
+{
+"Homem",
+"Occurrence"
+},
+{
+"Homem",
+"Death"
+},
+{
+"Homem",
+"Manutenção",
+"Intensional Action"
+},
+{
+"Cisterna",
+"Object"
+},
+{
+"Camão",
+"Object"
+},
+{
+"Transportadora J Amaral",
+"Aspectual"
+},
+{
+"GNR",
+"Organization"
+},
+{
+"Lusa",
+"Organization"
+},
+{
+"Aveiro",
+"Location"
+},
+{
+"Sábado",
+"Date"
+},
+{
+"Hospital Infante D. Pedro",
+"Location"
+}
+]

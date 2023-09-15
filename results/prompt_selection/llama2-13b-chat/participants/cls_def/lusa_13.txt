@@ -1,0 +1,19 @@
+[
+["Maximiliano Trimarchi", "Person"],
+["Diego Maradona", "Person"],
+["Leopoldo Luque", "Person"],
+["Agustina Cosachov", "Person"],
+["procuradoria-geral de San Isidro", "Organization"],
+["polícia", "Organization"]
+]
+
+Explanation:
+
+* Maximiliano Trimarchi is a person and the motorist of Diego Maradona.
+* Diego Maradona is a person and the former Argentine football player who passed away.
+* Leopoldo Luque is a person and the doctor who performed the operation on Maradona.
+* Agustina Cosachov is a person and the psychiatrist who participated in the operation.
+* procuradoria-geral de San Isidro is an organization and the prosecutor's office that ordered the searches.
+* polícia is an organization and the police force that carried out the searches.
+
+Note: In this example, the output is a JSON-parseable list of participants, where each element is a list of two strings: the first string is the entity (person, organization, etc.), and the second string is the class (Person, Organization, etc.).

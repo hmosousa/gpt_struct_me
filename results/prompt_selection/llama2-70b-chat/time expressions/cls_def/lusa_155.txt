@@ -1,0 +1,38 @@
+[
+["hoje", "Date"],
+["à tarde", "Time"],
+["69 anos", "Duration"],
+["hoje", "Date"],
+["em estado de coma", "Duration"],
+["agora", "Time"],
+["este", "Duration"],
+["proibido", "Set"],
+["nesta ocorrência", "Duration"],
+["ambos", "Duration"],
+["uma", "Duration"],
+["outra", "Duration"],
+["segundo", "Time"],
+["uma", "Duration"],
+["outra", "Duration"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into four different classes: Date, Time, Duration, and Set.
+
+* "hoje" (today) is a Date.
+* "à tarde" (this afternoon) is a Time.
+* "69 anos" (69 years old) is a Duration.
+* "hoje" (today) is a Date.
+* "em estado de coma" (in a coma) is a Duration.
+* "agora" (now)is a Time.
+* "este" (this) is a Duration.
+* "proibido" (prohibited) is a Set.
+* "nesta ocorrência" (in this occurrence) is a Duration.
+* "ambos" (both) is a Duration.
+* "uma" (one) is a Duration.
+* "outra" (other) is a Duration.
+* "segundo" (second) is a Time.
+* "uma" (one) is a Duration.
+* "outra" (other) is a Duration.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

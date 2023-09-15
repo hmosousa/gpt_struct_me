@@ -1,0 +1,33 @@
+["Homem", "mata", "ex-companheira", "tiro", "Vila Nova de Gaia", "Um", "homem", "matou", "hoje", "com", "um", "disparo", "de", "arma", "de", "fogo", "a", "ex-companheira", "em", "Vila Nova de Gaia", "e", "foi", "detido", "numa", "altura", "em", "que", "estaria", "a", "tentar", "o", "suicídio", "com", "a", "mesma", "arma", "diz", "fonte", "da", "GNR", "Fonte", "do", "Comando", "Territorial", "da", "GNR", "do", "Porto", "referiu", "à", "agência", "Lusa", "que", "o", "crime", "ocorreu", "cerca", "das", "10", "30", "na", "Rua", "da","Figueirinha", "em", "Grijó", "Vila", "Nova", "de", "Gaia", "distrito", "do", "Porto", "e", "que", "o", "homem", "tem", "62", "anos", "A", "vítima", "era", "20", "anos", "mais", "nova", "A", "fonte", "admite", "que", "o", "homem", "tenha", "cometido", "o", "crime", "em", "retaliação", "por", "a", "mulher", "ter", "optado", "por", "terminar", "a", "relação", "que", "ambos", "mantiveram", "durante", "10", "anos", "O", "caso", "passou", "para", "a", "alçada", "da", "Polícia", "Judiciária"]
+
+Hints:
+- Use the `split` method to break the text into individual words.
+- Use the `filter` method to remove unwanted words.
+- Use the `join` method to combine the remaining words into a single string.
+- Use the `map` method to extract the participants from the text.
+
+Examples:
+Extract participants from the following text:
+
+"The cat sat on the mat."
+
+Output:
+["cat", "sat", "mat"]
+
+Extract participants from the following text:
+
+"The cat sat on the mat and the dog sat on the rug."
+
+Output:
+["cat", "sat", "mat", "dog", "sat", "rug"]
+
+Extract participants from the following text:
+
+"The cat sat on the mat and the dog sat on the rug and the cat sat on the mat."
+
+Output:
+["cat", "sat", "mat", "dog", "sat", "rug", "cat", "sat", "mat"]
+
+Extract participants from the following text:
+
+"The cat sat on the mat and the dog sat on the rug and the cat sat on the mat and the dog sat on the rug."

@@ -1,0 +1,40 @@
+[
+{
+"entity": "corpo de homem",
+"class": "Occurrence"
+},
+{
+"entity": "zona rochosa",
+"class": "Location"
+},
+{
+"entity": "costa da Terceira",
+"class": "Location"
+},
+{
+"entity": "Autoridade Marítima",
+"class": "Organization"
+},
+{
+"entity": "Comando-Local da Polícia Marítima de Angra do Heroísmo",
+"class": "Organization"
+},
+{
+"entity": "Polícia de Segurança Pública (PSP)",
+"class": "Organization"
+
+},
+{
+"entity": "Polícia Marítima de Angra do Heroísmo",
+"class": "Organization"
+},
+{
+"entity": "delegado de saúde",
+"class": "Person"
+},
+{
+"entity": "equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
+"class":"Organization"
+
+}
+]

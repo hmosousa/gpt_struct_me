@@ -1,0 +1,70 @@
+[
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{
+"entity": "Mulher",
+"class": "Occurrence"
+},
+{

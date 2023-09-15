@@ -1,0 +1,26 @@
+[
+["Homem", "Date"],
+["34 anos", "Duration"],
+["hoje", "Date"],
+["09:56", "Time"],
+["sábado", "Date"],
+["desde", "Duration"],
+["Aberta", "Set"],
+["Polícia Judiciária", "Date"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Date"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+
+1. "Homem" - Date (representing a specific point in time)
+2. "34 anos" - Duration (representing a time period)
+3. "hoje" - Date (representing a specific point in time)
+4. "09:56" - Time (representing a specific time of day)
+5. "sábado" - Date (representing a specific point in time)
+6. "desde" - Duration (representing a time period)
+7. "Aberta" - Set (representing a set of possible values, in this case, a set of states)
+8. "Polícia Judiciária" - Date (representing a specific point in time)
+9. "Viatura Médica de Emergência e Reanimação de Aveiro" - Date (representing a specific point in time)
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

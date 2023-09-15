@@ -1,0 +1,25 @@
+[
+["GNR", "State"],
+["homens", "Occurrence"],
+["droga", "Occurrence"],
+["Sines", "Location"],
+["Setúbal", "Location"],
+["estupefacientes", "Aspectual"],
+["heroína", "Aspectual"],
+["cocaína", "Aspectual"],
+["numerário", "Aspectual"],
+["veículo", "Object"],
+["telemóveis", "Object"],
+["Tribunal Judicial de Santiago do Cacém", "Location"]
+]
+
+Explanation:
+
+* GNR is a state (the entity is the GNR and the class is State)
+* homens is an occurrence (the entity is the men and the class is Occurrence)
+* droga is an occurrence (the entity is the drugs and the class is Occurrence)
+* Sines and Setúbal are locations (the entity is the cities and the class is Location)
+* estupefacientes, heroína, and cocaína are aspects (the entity is the drugs and the class is Aspectual)
+* numerário is an aspect (the entity is the money and the class is Aspectual)
+* veículo and telemóveis are objects (the entity is the vehicle and the phone and the class is Object)
+* Tribunal Judicial de Santiago do Cacém is a location (the entity is the court and the class is Location)

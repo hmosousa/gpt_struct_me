@@ -1,0 +1,44 @@
+[
+{
+"participant": "GNR",
+"class": "Organization"
+},
+{
+"participant": "deteus",
+"class": "Person"
+},
+{
+"participant": "Sines",
+"class": "Location"
+},
+{
+"participant": "distrito de Setúbal",
+"class": "Location"
+},
+{
+"participant": "Tribunal Judicial de Santiago do Cacém",
+"class": "Facility"
+},
+{
+"participant": "numerário",
+"class": "Object"
+},
+{
+"participant": "veículo",
+"class": "Object"
+}
+]
+]
+
+Explanation:
+The participants in this scenario are:
+
+* GNR (Organization)
+* two detained individuals (Person)
+* Sines (Location)
+* district of Setúbal (Location)
+* Tribunal Judicial de Santiago do Cacém (Facility)
+* money (Object)
+* vehicle (Object)
+
+Note: The class label is a string that identifies the type of participant (e.g. "Person", "Location", etc.).

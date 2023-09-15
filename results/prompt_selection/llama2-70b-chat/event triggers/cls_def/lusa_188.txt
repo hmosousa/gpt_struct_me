@@ -1,0 +1,23 @@
+[
+["Homem de 48 anos", "State"],
+["acidente de trabalho", "Occurrence"],
+["Um homem de 48 morreu", "Reporting"],
+["trata-se de um acidente que envolve uma queda em altura", "Aspectual"],
+["o homem de 48 anos trabalhava numa obra de construção civil", "Intensional State"],
+["a vítima acabaria por não resistir aos ferimentos", "Intensional Action"],
+["acabando por falecer", "State"],
+["foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros", "Occurrence"],
+["A GNR de Mogadouro tomou conta da ocorrência", "Reporting"]
+]
+
+Explanation:
+
+* "Homem de 48 anos" is a state, as it describes a person's age.
+* "acidente de trabalho" is an occurrence, as it refers to a specific event that happened at work.
+* "Um homemde 48 morreu" is reporting, as it reports on the death of a person.
+* "trata-se de um acidente que envolve uma queda em altura" is aspectual, as it describes the nature of the accident.
+* "o homem de 48 anos trabalhava numa obra de construção civil" is intensional state, as it describes the person's job.
+* "a vítima acabaria por não resistir aos ferimentos" is intensional action, as it describes the victim's fate.
+* "acabando por falecer" is a state, as it describes the victim's final state.
+* "foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros" is an occurrence, as it refers to a specific event involving the helicopter.
+* "A GNR de Mogadouro tomou conta da ocorrência" is reporting, as it reports on the GNR's response to the event.

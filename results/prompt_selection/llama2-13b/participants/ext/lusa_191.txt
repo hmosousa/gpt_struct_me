@@ -1,0 +1,110 @@
+"Homem", "morre", "esfaqueado", "costas", "mercado", "Arroios", "Lisboa", "sequência", "desentendimento", "agência", "Lusa", "PSP", "Cometlis", "rua", "Ângela Pinto", "cabeça", "pedir", "ajuda", "desentendimento", "indivíduos", "arma", "branca", "esfaqueado", "zona", "costas", "polícia", "informações", "caso", "detido", "Avenida", "Almirante", "Reis", "fuga", "dados", "suspeito", "crime", "PJ", "acionada", "homicídio", "cabeça", "fitas", "segurança"
+
+Explanation:
+The task is to extract all participants.
+
+The input is a JSON-parseable list of strings.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article.
+
+The output is a list of all participants.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings.
+
+The output is a list of strings.
+
+The input is a list of strings

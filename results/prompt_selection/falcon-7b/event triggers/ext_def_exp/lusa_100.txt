@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "text": "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel",
+    "type": "event",
+    "timestamp": "2021-09-16T00:00:00.000Z",
+    "source": "https://www.portugal.pt/noticias/2021/09/16/violencia-domestic-pulseira-eletronica-homem-detido-penafiel",
+    "source_url": "https://www.portugal.pt/noticias/2021/09/16/violencia-domestic-pulseira-eletronica-homem-detido-penafiel",
+    "source_title": "Portugal.pt",
+    "source_author": "Portugal.pt",
+    "source_author_url": "https://www.portugal.pt",
+    "source_author_name": "Portugal.pt",
+    "source_author_name_url": "https://www.portugal.pt",
+    "source_author_name_name": "Portugal.pt",
+    "source_author_name_name_url": "https://www.portugal.pt",
+    "source_author_name_name_name_url": "https://www.portugal.pt",
+    "source_author_name_name_name_name_url": "https://www.portugal.pt",
+    "source_author_name_name_name_

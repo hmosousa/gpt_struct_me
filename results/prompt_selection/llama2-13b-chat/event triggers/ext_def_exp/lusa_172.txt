@@ -1,0 +1,10 @@
+["encontrado", "caído", "recolha", "transportado", "declarado"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "encontrado" (found) - indicating the discovery of the body
+* "caído" (fallen) - indicating the alleged fall of the man into the sea
+* "recolha" (recovery) - indicating the recovery of the body
+* "transportado" (transported) - indicating the transportation of the body
+* "declarado" (declared) - indicating the declaration of the death at the scene.

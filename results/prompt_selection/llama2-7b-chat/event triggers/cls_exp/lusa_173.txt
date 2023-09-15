@@ -1,0 +1,34 @@
+[
+{
+"entity": "Homem",
+"class": "State"
+},
+{
+"entity": "Cisterna",
+"class": "Location"
+},
+{
+"entity": "Camão",
+"class": "Object"
+},
+{
+"entity": "Transportadora J Amaral",
+"class": "Organization"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Delegada de Saúde",
+"class": "Person"
+},
+{
+"entity": "Polícia Judiciária",
+"class": "Organization"
+},
+{
+"entity": "Viatura Médica de Emergência e Reanimação de Aveiro",
+"class": "Object"
+}
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "text": "PJ detém homem suspeito de balear jovem em coletividade de Setúbal",
+    "type": "event",
+    "timestamp": "2021-04-29T00:00:00.000Z",
+    "source": "https://www.pjsetubal.pt/noticias/2021/04/29/pj-detem-homem-suspeito-de-balear-jovem-em-coletividade-de-setubal.html"
+  },
+  {
+    "id": "2",
+    "text": "A Polícia Judiciária de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira, no restaurante de uma coletividade de Setúbal",
+    "type": "event",
+    "timestamp": "2021-04-29T00:00:00.000Z",
+    "source": "https://www.pjsetubal.pt/noticias/2021/04/29/a-pj-de-setubal-deteve-um-homem-de-63-anos-suspeito-de-ter-baleado-um-jovem-na-passada-quarta-feira-no-restaurante-de-uma-coletividade-de-setubal.html"
+  },
+  {
+    "id": "3",
+    "text": "Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade, no Alto da Guerra",
+    "type": "event",
+    "timestamp": "202

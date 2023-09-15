@@ -1,0 +1,9 @@
+["Homem morto", "atirador", "Direção Nacional da Polícia de Segurança Pública (PSP)", "Polícia Judiciária"]
+
+Explanation:
+The input text describes a shooting incident in which a man was killed and the perpetrator is on the run. The text mentions the victim, the perpetrator, and two law enforcement agencies involved in the investigation: the Direção Nacional da Polícia de Segurança Pública (PSP) and the Polícia Judiciária. Therefore, the participants in this incident are:
+
+1. "Homem morto" (the victim)
+2. "atirador" (the perpetrator)
+3. "Direção Nacional da Polícia de Segurança Pública (PSP)" (one of the law enforcement agencies involved in the investigation)
+4. "Polícia Judiciária" (the other law enforcement agency involved in the investigation)

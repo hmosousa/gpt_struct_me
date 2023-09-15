@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Transportadora J Amaral", "Organization"],
+["GNR de Aveiro", "Organization"],
+["Bombeiros de Estarreja", "Organization"],
+["Delegada de Saúde", "Organization"],
+["Polícia Judiciária", "Organization"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Object"],
+["Hospital Infante D. Pedro", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Transportadora J Amaral" is an organization.
+* "GNR de Aveiro" is an organization.
+* "Bombeiros de Estarreja" is an organization.
+* "Delegada de Saúde" is an organization.
+* "Polícia Judiciária" is an organization.
+* "Viatura Médica de Emergência e Reanimação de Aveiro" is an object.
+* "Hospital Infante D. Pedro" is a location.

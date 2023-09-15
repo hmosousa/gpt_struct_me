@@ -1,0 +1,4 @@
+["Homem morto", "atirador em fuga"]
+
+Explanation:
+The task is to extract all participants mentioned in the text. In this case, there are two participants: "Homem morto" and "atirador em fuga". The output should be a JSON-parseable list of strings, where each string represents one participant.

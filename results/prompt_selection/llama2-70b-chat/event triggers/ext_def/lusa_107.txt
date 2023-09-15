@@ -1,0 +1,11 @@
+[
+"mulher atropelada",
+"protesto de mariscadores",
+"homem transportava bivalves",
+"tentaram evitar que ele saísse",
+"situação incendiou-se",
+"senhor forçou a saída",
+"atropelou uma senhora",
+"mulher sofreu ferimentos ligeiros",
+"condutor se colocou em fuga"
+]

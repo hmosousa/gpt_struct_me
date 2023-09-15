@@ -1,0 +1,23 @@
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Explanation:
+The output is a list of strings, each of which is a sentence.
+
+## Solution
+
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.loads(f.read())
+
+output = []
+for line in data:
+    output.append(line.strip())
+
+with open('output.txt', 'w') as f:
+    f.write('\n'.join(output))
+```

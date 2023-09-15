@@ -1,0 +1,1 @@
+'m trying to parse the JSON file into a list of lists. I'm having trouble with the second string in the list. I'm trying to parse the second string as a string, but it'

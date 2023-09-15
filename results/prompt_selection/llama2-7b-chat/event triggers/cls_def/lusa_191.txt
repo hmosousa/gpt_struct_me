@@ -1,0 +1,35 @@
+[
+{
+"entity": "homem",
+"class": "State"
+},
+{
+"entity": "esfaqueamento",
+"class": "Action"
+},
+{
+"entity": "mercado",
+"class": "Location"
+},
+{
+"entity": "Lisboa",
+"class": "Location"
+},
+{
+"entity": "PSP",
+"class": "Organization"
+},
+{
+"entity": "Cometlis",
+"class": "Organization"
+},
+{
+"entity": "suspeito",
+"class": "Person"
+},
+{
+"entity": "polícia",
+"class": "Organization"
+
+}
+]

@@ -1,0 +1,34 @@
+[
+{
+"entity": "Mulher",
+"class": "State"
+},
+{
+"entity": "Protesto",
+"class": "Event"
+},
+{
+"entity": "Mariscadores",
+"class": "Entity"
+},
+{
+"entity": "Cais da Torreira",
+"class": "Location"
+},
+{
+"entity": "Torreira",
+"class": "Location"
+},
+{
+"entity": "Hospital de Aveiro",
+"class": "Location"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Bombeiros",
+"class": "Organization"
+}
+]

@@ -1,0 +1,21 @@
+[
+["homem", "Date"],
+["jovem", "Time"],
+["coletividade", "Set"],
+["Alto da Guerra", "Set"],
+["sexagenário", "Duration"],
+["ferimentos", "Duration"],
+["omissão", "Duration"]
+]
+
+Explanation:
+
+* "homem" is a Date entity because it refers to a person and not an action or event.
+* "jovem" is a Time entity because it refers to a person's age.
+* "coletividade" is a Set entity because it refers to a collection of people.
+* "Alto da Guerra" is a Set entity because it refers to a geographical location.
+* "sexagenário" is a Duration entity because it refers to a person's age.
+* "ferimentos" is a Duration entity because it refers to the duration of the injuries.
+* "omissão" is a Duration entity because it refers to the duration of the omission of aid.
+
+Note: In this example, the output is a JSON-parseable list where each elementis a list with two strings. The first string is the entity and the second is the class.

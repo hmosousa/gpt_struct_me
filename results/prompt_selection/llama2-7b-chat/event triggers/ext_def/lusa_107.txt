@@ -1,0 +1,21 @@
+[
+{
+"event": "protesto",
+"time": "hoje",
+"location": "Murtosa",
+"involved": [
+{
+"person": "dezenas de mariscadores",
+"role": "protesters"
+},
+{
+"person": "um homem",
+"role": "driver"
+
+},
+{
+"person": "uma mulher",
+"role": "victim"
+}
+]
+]

@@ -1,0 +1,19 @@
+[
+["Homem de 48 anos", "Person"],
+["Mogadouro", "Location"],
+["Vilarinhos dos Galegos", "Location"],
+["Bragança", "Location"],
+["Lusa", "Organization"],
+["José Carrasco", "Person"],
+["INEM", "Organization"],
+["Macedo de Cavaleiros", "Location"],
+["GNR", "Organization"]
+]
+
+Note:
+The output is a list of entities and their corresponding classes. The classes are defined in the task description.
+
+Explanation:
+The input text describes an accident that occurred in Mogadouro, where a 48-year-old man died after falling from a height while working on a construction site. The text mentions various entities, including the victim, the location of the accident, the organizations involved in the rescue efforts, and the helicopter used for transportation.
+
+The output list contains the extracted entities and their corresponding classes. For example, "Homem de 48 anos" (48-year-old man) is classified as "Person", "Mogadouro" is classified as "Location", and "Lusa" is classified as "Organization".

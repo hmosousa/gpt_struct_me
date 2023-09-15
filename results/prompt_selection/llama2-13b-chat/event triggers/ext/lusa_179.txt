@@ -1,0 +1,26 @@
+
+[
+"obrigar companheira a prostituir-se",
+"prostituir-se",
+"exploração sexual na via pública",
+"sujeitar a exploração sexual",
+"fugiu algumas vezes",
+"localizada pelo suspeito",
+"obrigada ou convencida a voltar para junto de si",
+"receber produto estupefaciente"
+]
+
+Explanation:
+
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event or action. In this text, the event triggers are:
+
+1. "obrigar companheira a prostituir-se" - The word "obrigar" indicates that the man forced his partner to prostitute herself.
+2. "prostituir-se" - This phrase indicates that the woman was forced to engage in prostitution.
+3. "exploração sexual na via pública" - The phrase "exploração sexual" indicates that the man was engaging in sexual exploitation, and "na via pública" indicates that it was happening in a public place.
+4. "sujeitar a exploração sexual" - The phrase "sujeitar a exploração sexual" indicates that the man was subjecting the woman to sexual exploitation.
+5. "fugiu algumas vezes" - The phrase "fugiu algumas vezes" indicates that the woman tried to escape from the situation.
+6. "localizada pelo suspeito" - The phrase "localizada pelo suspeito" indicates that the man was able to find the woman and bring her back.
+7. "obrigada ou convencida a voltar para junto de si" - The phrase "obrigada ou convencida a voltar para junto de si" indicates that the man was able to coerce or convince the woman to return to him.
+8. "receber produto estupefaciente" - The phrase "receber produto estupefaciente" indicates that the man was providing the woman with drugs.
+
+All of these phrases are event triggers because they indicate the occurrence of specific events or actions in the text.

@@ -1,0 +1,22 @@
+[
+{
+"Autoridades judiciais",
+"Occurrence"
+},
+{
+"Autoridades judiciais",
+"Reporting"
+},
+{
+"Autoridades judiciais",
+"Aspectual"
+},
+{
+"Autoridades judiciais",
+"Intensional Action"
+},
+{
+"Autoridades judiciais",
+"Intensional State"
+}
+]

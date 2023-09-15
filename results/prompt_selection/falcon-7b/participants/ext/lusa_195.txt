@@ -1,0 +1,7 @@
+'m trying to extract the text from the JSON file, but I'm having trouble with the "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" part.
+I've tried to use the json.loads() function, but it doesn't work.
+I've also tried to use the json.loads() function with the "strict" parameter, but it doesn't work either.
+I've also tried to use the json.loads() function with the "allow_non_ascii" parameter, but it doesn't work either.
+I've also tried to use the json.loads() function with the "allow_non_ascii" parameter and the "strict" parameter, but it doesn't work either.
+I've also tried to use the json.loads() function with the "allow_non_ascii" parameter and the "strict" parameter and the "allow_non_ascii" parameter, but it doesn't work either.
+I've also tried to use the json.loads() function with the "allow_non_ascii" parameter and the "strict" parameter and the "allow_non_ascii" parameter and the "allow_non_

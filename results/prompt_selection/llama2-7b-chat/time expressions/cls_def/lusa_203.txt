@@ -1,0 +1,49 @@
+[
+{entity: "Homem", class: "Person" },
+{entity: "pessoas", class: "Number" },
+{entity: "facas", class: "Object" },
+{entity: "ataque", class: "Event" },
+{entity: "Kaiyuan", class: "Location" },
+{entity: "Liaoning", class: "Location" },
+{entity: "China", class: "Location" },
+{entity: "suspeito", class: "Person" },
+{entity: "Yang", class: "Person" },
+{entity: "motivo", class: "Concept" },
+{entity: "arma", class: "Object" },
+{entity: "venda", class: "Action" },
+{entity: "posse", class: "Action" },
+{entity: "ataques", class: "Event" },
+{entity: "mes", class: "Time" },
+{entity: "junho", class: "Time" },
+{entity: "2018", class: "Time" },
+{entity: "Pequim", class: "Location" }
+]
+
+Expected output:
+[
+{entity: "Homem", class: "Person" },
+{entity: "pessoas", class: "Number" },
+{entity: "facas", class: "Object" },
+{entity: "ataque", class: "Event" },
+{entity: "Kaiyuan", class: "Location" },
+{entity: "Liaoning", class: "Location" },
+{entity: "China", class: "Location" },
+{entity: "suspeito", class: "Person" },
+{entity: "Yang", class: "Person" },
+{entity: "motivo", class: "Concept" },
+{entity: "arma", class: "Object" },
+{entity: "venda", class: "Action" },
+{entity: "posse", class: "Action" },
+{entity: "ataques", class: "Event" },
+{entity: "mes", class: "Time" },
+{entity: "junho", class: "Time" },
+{entity: "2018", class: "Time" },
+{entity: "Pequim", class: "Location" }
+]
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article in Portuguese, and the output is a list of entities and their corresponding classes.
+* The classes are: Person, Number, Object, Event, Location, Time, and Concept.
+* The entities are: Homem, pessoas, facas, ataque, Kaiyuan, Liaoning, China, suspeito, Yang, motivo, arma, venda, posse, ataques, mes, junho, 2018, and Pequim.
+* The output list includes all the entities found in the input article, along with their corresponding classes.

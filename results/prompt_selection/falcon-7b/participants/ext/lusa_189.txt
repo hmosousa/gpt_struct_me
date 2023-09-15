@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "date": "2020-09-16T20:20:00.000Z"
+    },
+    {
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "date": "2020-09-16T20:20:00.000Z"
+    }
+]
+
+I'm trying to extract all the names of the participants from the above JSON.
+I've tried using the following code:
+var json = {
+    "data": [
+        {
+            "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+            "date": "2020-09-16T20:20:00.000Z"
+        },
+        {

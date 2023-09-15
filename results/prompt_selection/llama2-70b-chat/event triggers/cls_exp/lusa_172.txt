@@ -1,0 +1,39 @@
+[
+["Corpo de homem", "State"],
+["homem aparentando entre 60 e 70 anos", "State"],
+["praia da Estaquinha", "Location"],
+["concelho de Lagoa", "Location"],
+["Algarve", "Location"],
+["Autoridade Marítima", "Reporting"],
+["homem, um pescador", "Occurrence"],
+["caído ao mar", "Occurrence"],
+["pesca lúdica", "Aspectual"],
+["arriba", "Location"],
+["praia de Lagoa", "Location"],
+["distrito de Faro", "Location"],
+["Estação Salva-vidas de Ferragudo", "Reporting"],
+["marina de Portimão", "Location"],
+["delegada de saúde de Lagoa", "Reporting"],
+["gabinete de medicina legal de Portimão", "Location"],
+["Polícia Marítima de Portimão", "Reporting"]
+]
+
+Explanation:
+
+* "Corpode homem" is classified as "State" because it refers to the physical state of the person's body.
+* "homem aparentando entre 60 e 70 anos" is classified as "State" because it refers to the person's age.
+* "praia da Estaquinha" is classified as "Location" because it refers to the location where the body was found.
+* "concelho de Lagoa" is classified as "Location" because it refers to the location where the body was found.
+* "Algarve" is classified as "Location" because it refers to the location where the body was found.
+* "Autoridade Marítima" is classified as "Reporting" because it refers to the authority that reported the incident.
+* "homem, um pescador" is classified as "Occurrence" because it refers to the person's occupation.
+* "caído ao mar" is classified as "Occurrence" because it refers to the incident of the person falling into the sea.
+* "pesca lúdica" is classified as "Aspectual" because it refers to the type of fishing the person was doing.
+* "arriba" is classified as "Location" because it refers to the location where the person was fishing.
+* "praia de Lagoa" is classified as "Location" because it refers to the location where the person was fishing.
+* "distrito de Faro" is classified as "Location" because it refers to the location where the person was fishing.
+* "Estação Salva-vidas de Ferragudo" is classified as "Reporting" because it refers to the authority that responded to the incident.
+* "marina de Portimão" is classified as "Location" because it refers to the location where the body was taken.
+* "delegada de saúde de Lagoa" is classified as "Reporting" because it refers to the authority that declared the person dead.
+* "gabinete de medicina legal de Portimão" is classified as "Location" because it refers to the location where the body was taken.
+* "Polícia Marítima de

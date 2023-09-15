@@ -1,0 +1,45 @@
+[
+{
+"entity": "GNR",
+"class": "State"
+},
+{
+"entity": "390 quilogramas de atum-rabilho",
+"class": "Quantity"
+},
+{
+"entity": "embarcation",
+"class": "Object"
+
+},
+{
+"entity": "condutor",
+"class": "Person"
+
+},
+{
+"entity": "mestre",
+"class": "Person"
+
+},
+{
+"entity": "infraction",
+"class": "Event"
+
+},
+{
+"entity": "coima",
+"class": "Amount"
+
+},
+{
+"entity": "institution",
+"class": "Organization"
+
+},
+{
+"entity": "solidarity",
+"class": "Concept"
+
+}
+]

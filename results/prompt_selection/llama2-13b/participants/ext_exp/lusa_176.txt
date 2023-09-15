@@ -1,0 +1,104 @@
+"Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal"
+
+Explanation:
+The first line is the title of the article.
+
+The second line is the body of the article.
+
+The third line is the author of the article.
+
+The fourth line is the date of the article.
+
+The fifth line is the URL of the article.
+
+The sixth line is the source of the article.
+
+The seventh line is the title of the article.
+
+The eighth line is the body of the article.
+
+The ninth line is the author of the article.
+
+The tenth line is the date of the article.
+
+The eleventh line is the URL of the article.
+
+The twelfth line is the source of the article.
+
+The thirteenth line is the title of the article.
+
+The fourteenth line is the body of the article.
+
+The fifteenth line is the author of the article.
+
+The sixteenth line is the date of the article.
+
+The seventeenth line is the URL ofthe article.
+
+The eighteenth line is the source of the article.
+
+The nineteenth line is the title of the article.
+
+The twentieth line is the body of the article.
+
+The twenty-first line is the author of the article.
+
+The twenty-second line is the date of the article.
+
+The twenty-third line is the URL of the article.
+
+The twenty-fourth line is the source of the article.
+
+The twenty-fifth line is the title of the article.
+
+The twenty-sixth line is the body of the article.
+
+The twenty-seventh line is the author of the article.
+
+The twenty-eighth line is the date of the article.
+
+The twenty-ninth line is the URL of the article.
+
+The thirtieth line is the source of the article.
+
+The thirty-first line is the title of the article.
+
+The thirty-second line is the body of the article.
+
+The thirty-third line is the author of the article.
+
+The thirty-fourth line is the date of the article.
+
+The thirty-fifth line is the URL of the article.
+
+The thirty-sixth line is the source of the article.
+
+The thirty-seventh line is the title of the article.
+
+The thirty-eighth line is the body of the article.
+
+The thirty-ninth line is the author of the article.
+
+The fortieth line is the date of the article.
+
+The forty-first line is the URL of the article.
+
+The forty-second line is the source of the article.
+
+The forty-third line is the title of the article.
+
+The forty-fourth line is the body of the article.
+
+The forty-fifth line is the author of the article.
+
+The forty-sixth line is the date of the article.
+
+The forty-seventh line is the URL of the article.
+
+The forty-eighth line is the source of the article.
+
+The forty-ninth line is the title of the article.
+
+The fiftieth line is the body of the article.
+
+The fifty-first line is the author of the article

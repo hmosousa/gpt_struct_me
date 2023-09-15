@@ -1,0 +1,6 @@
+[
+"homem morto",
+"atirador",
+"Direção Nacional da Polícia de Segurança Pública (PSP)",
+"Polícia Judiciária"
+]

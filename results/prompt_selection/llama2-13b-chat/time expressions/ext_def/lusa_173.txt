@@ -1,0 +1,1 @@
+["hoje", "sábado", "9h56", "depois de sábado"]

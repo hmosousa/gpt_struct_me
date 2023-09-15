@@ -1,0 +1,28 @@
+[
+["GNR", "Date"],
+["detém", "Date"],
+["dos homens", "Time"],
+["pelo tráfico de droga", "Duration"],
+["em Sines", "Location"],
+["no distrito de Setúbal", "Location"],
+["tendo apreendido", "Action"],
+["1.673 doses de estupefacientes", "Quantity"],
+["em comunicado", "Source"],
+["a Guarda Nacional Republicana (GNR)", "Entity"],
+["na operação", "Action"],
+["foram apreendidas", "Action"],
+["1.570 doses de heroína", "Quantity"],
+["103 doses de cocaína", "Quantity"],
+["844 euros em numerário", "Quantity"],
+["um veículo", "Quantity"],
+["quatro telemóveis", "Quantity"]
+]
+
+Explanation:
+
+* "GNR" is an entity and "detém" is a date.
+* "dos homens" is a timeexpression and "pelo tráfico de droga" is a duration.
+* "em Sines" and "no distrito de Setúbal" are locations.
+* "tendo apreendido" is an action and "1.673 doses de estupefacientes" is a quantity.
+* "em comunicado" and "a Guarda Nacional Republicana (GNR)" are entities and "na operação" is an action.
+* "foram apreendidas" is an action and "1.570 doses de heroína", "103 doses de cocaína", "844 euros em numerário", "um veículo", and "quatro telemóveis" are quantities.

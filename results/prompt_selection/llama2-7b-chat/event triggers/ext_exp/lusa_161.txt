@@ -1,0 +1,16 @@
+[
+"Homem mata ex-companheira",
+"com tiro em Vila Nova de Gaia",
+"Um homem matou hoje com um disparo de arma de fogo a ex-companheira",
+"em Vila Nova de Gaia",
+"e foi detido numa altura em que estaria a tentar o suicídio com a mesma arma",
+"dize fonte da GNR",
+"Fonte do Comando Territorial da GNR do Porto",
+"referiu à agência Lusa que o crime ocorreu cerca das 10:30 na Rua da Figueirinha",
+"em Grijó, Vila Nova de Gaia",
+"distrito do Porto",
+"e que o homem tem 62 anos",
+"A vítima era 20 anos mais nova",
+"A fonte admitiu que o homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos",
+"O caso passoupara a alçada da Polícia Judiciária"
+]

@@ -1,0 +1,14 @@
+[
+["Maximiliano Trimarchi", "Person"],
+["Diego Maradona", "Person"],
+["Leopoldo Luque", "Person"],
+["Agustina Cosachov", "Person"],
+["Autoridades judiciais", "Organization"],
+["San Isidro", "Location"],
+["Buenos Aires", "Location"],
+["Argentina", "Location"],
+["Maradona", "Other"]
+]
+
+Explanation:
+Maximiliano Trimarchi and Diego Maradona are people, directly involved in the event. Leopoldo Luque and Agustina Cosachov are people, involved in the event as medical professionals. Autoridades judiciais is an organization, responsible for the investigation. San Isidro, Buenos Aires, and Argentina are locations, relevant to the event. Maradona is an other entity, as it refers to the deceased person, the investigation is about.

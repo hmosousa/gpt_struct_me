@@ -1,0 +1,24 @@
+[
+["Homem", "State"],
+["prisão preventiva", "Occurrence"],
+["Ministério Público", "Intensional State"],
+["obrigar a mulher", "Intensional Action"],
+["prostituir-se", "Aspectual"],
+["vítima", "State"],
+["sujeitava", "Intensional State"],
+["exploração sexual", "Aspectual"],
+["sujeição", "State"],
+["fugiu", "Occurrence"],
+["localizada", "Occurrence"],
+["obrigada ou convencida", "Intensional Action"],
+["receber produto estupefaciente", "Intensional State"],
+["dependente", "State"],
+["MP", "Intensional State"],
+["comarca de Porto-Este", "State"],
+["Penafiel", "State"]
+]
+
+Note:
+The event triggers are not limited to the ones provided in the example, it's a sample of what could be extracted from the given text.
+
+Can you extract and classify all event triggers from the given text?

@@ -1,0 +1,50 @@
+[
+{
+"entity": "GNR",
+"class": "State"
+},
+{
+"entity": "homens",
+"class": "Occurrence"
+},
+{
+"entity": "droga",
+"class": "Aspectual"
+},
+{
+"entity": "Sines",
+"class": "Location"
+},
+{
+"entity": "distrito",
+"class": "Aspectual"
+},
+{
+"entity": "Setúbal",
+"class": "Location"
+},
+{
+"entity": "patrulhamento",
+"class": "Action"
+},
+{
+"entity": "local",
+"class": "Aspectual"
+},
+{
+"entity": "transação",
+"class": "Action"
+},
+{
+"entity": "militares",
+"class": "Intensional Action"
+},
+{
+"entity": "Tribunal Judicial",
+"class": "Location"
+},
+{
+"entity": "Santiago do Cacém",
+"class": "Location"
+}
+]

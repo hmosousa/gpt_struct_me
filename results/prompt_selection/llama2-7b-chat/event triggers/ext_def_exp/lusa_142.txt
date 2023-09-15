@@ -1,0 +1,19 @@
+[
+"GNR detém suspeita de tráfico de droga",
+"apresende 12.300 doses de haxixe",
+"Mértola",
+"Beja",
+"Tribunal Judicial de Beja",
+"primeiro interrogatório",
+"medidas de coação",
+"demonstrou um comportamento nervoso",
+"Estrada Nacional 122",
+"viatura",
+"busca",
+"revisão",
+"apurou",
+"droga",
+"haxixe",
+"veículo",
+"telemóvel"
+]

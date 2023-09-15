@@ -1,0 +1,19 @@
+[
+["Homem", "Date"],
+["10:30", "Time"],
+["62", "Duration"],
+["10", "Set"]
+]
+
+Explanation:
+
+* "Homem" is a noun and belongs to the class "Entity".
+* "10:30" is a time expression and belongs to the class "Time".
+* "62" is a number and belongs to the class "Duration".
+* "10" is a number and belongs to the class "Set".
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input text is in Portuguese.
+* The classes are: Date, Time, Duration, and Set.

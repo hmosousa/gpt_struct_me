@@ -1,0 +1,34 @@
+[
+{
+"participant": "Corpo de homem",
+"class": "Person"
+},
+{
+"participant": "Autoridade Marítima",
+"class": "Organization"
+},
+{
+"participant": "Estaquinha",
+"class": "Location"
+},
+{
+"participant": "Lagoa",
+"class": "Location"
+},
+{
+"participant": "Faro",
+"class": "Location"
+},
+{
+"participant": "Portimão",
+"class": "Location"
+},
+{
+"participant": "Polícia Marítima",
+"class": "Organization"
+}
+]
+]
+
+Explanation:
+The input text describes an incident where a man's body was found floating in the sea near the beach of Estaquinha in the Algarve region of Portugal. The text mentions various participants involved in the incident, including the body of the man, the Authority Maritime, the beach of Estaquinha, the town of Lagoa, and the cityof Faro. The output is a list of participants with their corresponding class labels, where "Person" represents the body of the man, "Organization" represents the Authority Maritime, "Location" represents the beach of Estaquinha, Lagoa, and Faro, and "Organization" represents the Polícia Marítima.

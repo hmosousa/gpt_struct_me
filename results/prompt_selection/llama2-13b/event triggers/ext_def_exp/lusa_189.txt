@@ -1,0 +1,23 @@
+["morto", "tiro", "Barreiro", "atirador", "fuga", "homem", "baleado", "caçadeira", "Direção Nacional da Polícia de Segurança Pública", "PSP", "incidente", "ocorreu", "circunstâncias", "suspeita", "homicídio", "armas de fogo", "Polícia Judiciária"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Hints:
+- The event triggers are not necessarily nouns.
+- The event triggers are not necessarily verbs.
+- The event triggers are not necessarily adjectives.
+- The event triggers are not necessarily adverbs.
+- The event triggers are not necessarily prepositions.
+- The event triggers are not necessarily conjunctions.
+- The event triggers are not necessarily interjections.
+- The event triggers are not necessarily pronouns.
+- The event triggers are not necessarily determiners.
+- The event triggers are not necessarily quantifiers.
+- The event triggers are not necessarily particles.
+- The event triggers are not necessarily punctuation.
+- The event triggers are not necessarily symbols.
+- The event triggers are not necessarily whitespace.
+- The event triggers are not necessarily numbers.
+- The event triggers are not necessarily letters.
+- The event triggers are not necessarily words.

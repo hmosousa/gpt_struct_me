@@ -1,0 +1,64 @@
+[
+  "Homem",
+  "ferido",
+  "com",
+  "gravidade",
+  "após",
+  "agressão",
+  "com",
+  "uma",
+  "garrafa",
+  "num",
+  "restaurante",
+  "em",
+  "Palmela"
+]
+
+Examples:
+[
+  "Homem",
+  "ferido",
+  "com",
+  "gravidade",
+  "após",
+  "agressão",
+  "com",
+  "uma",
+  "garrafa",
+  "num",
+  "restaurante",
+  "em",
+  "Palmela"
+]
+
+Knowledge:
+No instances:
+  - "Homem"
+  - "ferido"
+  - "com"
+  - "gravidade"
+  - "após"
+  - "agressão"
+  - "com"
+  - "uma"
+  - "garrafa"
+  - "num"
+  -"restaurante"
+  - "em"
+  - "Palmela"
+
+Inferred:
+  - "Homem"
+  - "ferido"
+  - "com"
+  - "gravidade"
+  - "após"
+  - "agressão"
+  - "com"
+  - "uma"
+  - "garrafa"
+  - "num"
+  - "restaurante"
+  - "em"
+  - "Palmela"
+

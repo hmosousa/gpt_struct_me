@@ -1,0 +1,26 @@
+[
+["homem", "Person"],
+["PJ", "Organization"],
+["jovem", "Person"],
+["coletividade", "Location"],
+["Alto da Guerra", "Location"],
+["arma de fogo", "Object"],
+["ferimentos", "Nature"],
+["crimes", "Other"]
+]
+
+Explanation:
+
+* "homem" is a person
+* "PJ" is an organization
+* "jovem" is a person
+* "coletividade" is a location
+* "Alto da Guerra" is a location
+* "arma de fogo" is an object
+* "ferimentos" is a nature
+* "crimes" is an other
+
+Note:
+
+* "homicídio qualificado" is a crime, but it is not included in the output since it is not a direct object or a location.
+* "detido" is a person, but it is not included in the output since it is not the main subject of the sentence.

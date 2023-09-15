@@ -1,0 +1,13 @@
+'m trying to extract the text from the JSON file, but I'm having trouble with the "Autoridades judiciais fazem buscas em casa de motorista de Maradona" part.
+I've tried to use the json.load() function, but it doesn't work.
+I've also tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads() function, but it doesn't work either.
+I've tried to use the json.loads()

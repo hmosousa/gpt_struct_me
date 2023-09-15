@@ -1,0 +1,63 @@
+[
+{
+"entity": "Homem",
+"class": "State"
+},
+{
+"entity": "desentendimento",
+"class": "Occurrence"
+},
+{
+"entity": "arma branca",
+"class": "Aspectual"
+},
+{
+"entity": "indivíduo",
+"class": "Aspectual"
+},
+{
+"entity": "tentativa de fuga",
+"class": "Action"
+},
+{
+"entity": "suspeito",
+"class": "Aspectual"
+},
+{
+"entity": "polícia",
+"class": "Agent"
+},
+{
+"entity": "PJ",
+"class": "Agent"
+},
+{
+"entity": "local do crime",
+"class": "Aspectual"
+}
+]
+]
+
+Explanation:
+The output is a JSON-parseable list of event triggers, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+In this example, theentities are:
+* Homem (Man)
+* Desentendimento (Desentendimento) (Occurrence)
+* Arma branca (White weapon) (Aspectual)
+* Indivíduo (Individual) (Aspectual)
+* Tentativa de fuga (Attempted flight) (Action)
+* Suspeito (Suspect) (Aspectual)
+* Polícia (Police) (Agent)
+* PJ (Public Prosecution Office) (Agent)
+* Local do crime (Crime scene) (Aspectual)
+
+The classes are:
+
+* State (State)
+* Occurrence (Occurrence)
+* Aspectual (Aspectual)
+* Action (Action)
+* Agent (Agent)
+
+Each element in the output represents a trigger event, which is a combination of an entity and a class. For example, the first element in the output represents the event "Homem (Man) - State", which means that a man was in a state of being. The second element represents the event "Desentendimento (Desentendimento) - Occurrence",which means that an occurrence of a disagreement happened.
+The output can be used to train a machine learning model to classify events in text data, or to generate a summary of the events in the text.

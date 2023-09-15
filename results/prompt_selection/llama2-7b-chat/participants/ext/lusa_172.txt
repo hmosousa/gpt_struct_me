@@ -1,0 +1,13 @@
+[
+"Corpo de homem encontrado a boiar no mar em Lagoa",
+"O corpo de um homem aparentando entre 60 e 70 anos",
+"Autoridade Marítima",
+"Lagoa",
+"Algarve",
+"Pescador",
+"Faro",
+"Estaquinha",
+"Portimão",
+"Gabinete de medicina legal",
+"Polícia Marítima de Portimão"
+]

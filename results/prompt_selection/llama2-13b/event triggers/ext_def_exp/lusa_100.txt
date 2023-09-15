@@ -1,0 +1,36 @@
+["violência", "doméstica", "pulseira", "eletrónica", "homem", "detido", "penafiel", "violência", "física", "injúrias", "ameaças", "morte", "ex-companheira", "42", "anos", "suspeito", "violência", "física", "injúrias", "ameaças", "morte", "ex-companheira", "42", "anos", "separação", "perseguir", "vítima", "residência", "trabalho", "medida", "proteção", "teleassistência", "antecedentes", "criminais", "ilícitos", "natureza", "proibido", "contactar", "vítima"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Hints:
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are usedto describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words thatare used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the words that are used to describe the event.
+- The event triggers are not necessarily the

@@ -1,0 +1,23 @@
+[
+["Homem de 48 anos", "State"],
+["acidente de trabalho", "Occurrence"],
+["Vilarinhos dos Galegos", "Location"],
+["Mogadouro", "Location"],
+["Bragança", "Location"],
+["Lusa", "Organization"],
+["bombeiros de Mogadouro", "Organization"],
+["José Carrasco", "Person"],
+["ambulância de Suporte Imediato de Vida", "Object"],
+["Viatura Medica de Emergência e Reanimação", "Object"],
+["Instituto Nacional e Emergência Médica", "Organization"],
+["GNR de Mogadouro", "Organization"]
+]
+
+Note:
+- "Homem de 48 anos" and "acidente de trabalho" are the main entities and events of the text.
+- "Vilarinhos dos Galegos" and "Mogadouro" are locations where the event occurred.
+- "Lusa" is an organization that reported the event.
+- "bombeiros de Mogadouro" and "GNR de Mogadouro" are organizations involved in the response to the event.
+- "José Carrasco" is a person involved in the response to the event.
+- "ambulância de Suporte Imediato de Vida" and "Viatura Medica de Emergência e Reanimação" are objects used in the response to the event.
+- "Instituto Nacional e Emergência Médica" is an organization that provided the helicopter used in the response to the event.

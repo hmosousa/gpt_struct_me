@@ -1,0 +1,37 @@
+[
+{
+"participant": "PJ",
+"class": "Organization"
+},
+{
+"participant": "homem",
+"class": "Person"
+},
+{
+"participant": "restaurante",
+"class": "Location"
+},
+{
+"participant": "coletividade",
+"class": "Location"
+},
+{
+"participant": "grupo de convivas",
+"class": "Group"
+},
+{
+"participant": "vítima",
+"class": "Person"
+}
+]
+]
+
+Explanation:
+The input text describes an incident where a 63-year-old man was arrested for shooting a young person in a restaurant in Setúbal, Portugal. The text mentions the following participants:
+* PJ (Polícia Judiciária): Organization
+* homem (man): Person
+* restaurante (restaurant): Location
+* coletividade (community center): Location
+* grupo de convivas (group of diners): Group
+* vítima (victim): Person
+The task is to extract and classify these participants into their respective categories (Person, Organization, Location, Nature, Facility, and Other).

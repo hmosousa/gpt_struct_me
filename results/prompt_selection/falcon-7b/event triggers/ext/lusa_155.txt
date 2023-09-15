@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "name": "Homem ferido com gravidade após agressão com uma garrafa num restaurante em Palmela",
+    "description": "Um homem de 69 anos, proprietário de um restaurante em Cajados, no concelho de Palmela (Setúbal), ficou hoje ferido com gravidade, após ter sido agredido no seu estabelecimento, com uma garrafa, disse fonte da GNR.",
+    "created_at": "2021-09-16T18:00:00.000Z",
+    "updated_at": "2021-09-16T18:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Homem ferido com gravidade após agressão com uma garrafa num restaurante em Palmela",
+    "description": "Segundo a fonte da GNR, a agressão foi efetuada hoje à tarde por uma mulher, \"aparentemente embriagada\", que se pôs em fuga conduzindo um automóvel.",
+    "created_at": "2021-09-16T18:00:00.000Z",
+    "updated_at": "2021-09-16T18:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Homem ferido com gravidade após agressão com uma garrafa num restaurante em Palmela",
+    "description": "A agressão, de acordo com a guarda, foi motivada pelo facto de \

@@ -1,0 +1,1 @@
+["Jovem de 14 anos", "Santo Tirso", "Vila das Aves", "Proteção Civil", "Bombeiros da Vila das Aves", "Hospital São João", "Porto", "Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR"]

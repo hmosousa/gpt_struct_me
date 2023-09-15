@@ -1,0 +1,11 @@
+[
+"Homem morto",
+"tiro no Barreiro",
+"atirador em fuga",
+"incidente ocorreu",
+"20:20 de hoje",
+"circunstâncias do tiroteio",
+"suspeita de homicídio",
+"armas de fogo",
+"Polícia Judiciária"
+]

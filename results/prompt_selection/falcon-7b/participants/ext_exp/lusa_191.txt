@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Homem morre após ser esfaqueado nas costas junto ao mercado de Arroios em Lisboa",
+    "date": "2021-09-16T10:54:00.000Z",
+    "location": "Lisboa",
+    "description": "Um homem de 29 anos morreu hoje depois de ter sido esfaqueado nas costas junto ao mercado de Arroios, em Lisboa, na sequência de um desentendimento, informou à agência Lusa a PSP.",
+    "source": "Lusa",
+    "url": "https://www.lusa.pt/noticias/homem-morre-apos-ser-esfaqueado-nas-costas-liso-em-lisboa-na-sequencia-desentendimento-informa-a-psp/",
+    "id": "1",
+    "image": "https://www.lusa.pt/noticias/homem-morre-apos-ser-esfaqueado-nas-costas-liso-em-lisboa-na-sequencia-desentendimento-informa-a-psp/1.jpg",
+    "video": "https://www.lusa.pt/noticias/homem-morre-apos-ser-esfaqueado-nas-costas-liso-em-lisboa-na-sequencia-desentendimento-informa-a-psp/1.mp4",
+    "link": "https://www.lusa.pt/noticias/

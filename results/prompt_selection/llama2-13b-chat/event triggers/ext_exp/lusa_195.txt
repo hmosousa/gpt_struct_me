@@ -1,0 +1,11 @@
+["homem suspeito de balear jovem", "conflito com um grupo de convivas", "disparo de arma de fogo", "ferimentos consideráveis num ombro e braço", "homicídio qualificado na forma tentada", "detenção de arma proibida", "omissão de auxílio"]
+
+Explanation:
+
+* "homem suspeito de balear jovem" is an event trigger.
+* "conflito com um grupo de convivas" is an event trigger.
+* "disparo de arma de fogo" is an event trigger.
+* "ferimentos consideráveis num ombro e braço" is an event trigger.
+* "homicídio qualificado na forma tentada" is an event trigger.
+* "detenção de arma proibida" is an event trigger.
+* "omissão de auxílio" is an event trigger.

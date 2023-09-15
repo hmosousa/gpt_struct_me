@@ -1,0 +1,22 @@
+[
+{
+"Homem",
+"Person"
+},
+{
+"Ex-companheira",
+"Person"
+},
+{
+"Vila Nova de Gaia",
+"Location"
+},
+{
+"GNR",
+"Organization"
+},
+{
+"Polícia Judiciária",
+"Organization"
+}
+]

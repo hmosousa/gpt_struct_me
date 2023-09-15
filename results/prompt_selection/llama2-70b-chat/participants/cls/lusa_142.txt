@@ -1,0 +1,20 @@
+[
+["GNR", "Organization"],
+["mulher", "Person"],
+["Mértola", "Location"],
+["Beja", "Location"],
+["Estrada Nacional 122", "Location"],
+["viatura", "Object"],
+["telemóvel", "Object"],
+["haxixe", "Nature"]
+]
+
+Explanation:
+
+* GNR is an organization, so it is classified as "Organization".
+* The woman is a person, so it is classified as "Person".
+* Mértola and Beja are locations, so they are classified as "Location".
+* Estrada Nacional 122 is a location, so it is classified as "Location".
+* The vehicle is an object, so it is classified as "Object".
+* The telemóvel is an object, so it is classified as "Object".
+* Haxixe is a nature, so it is classified as "Nature".

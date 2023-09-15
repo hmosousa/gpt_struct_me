@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "name": "GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola",
+    "date": "2021-09-14T00:00:00.000Z",
+    "description": "A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.",
+    "url": "https://www.noticias.sapo.pt/noticias/2021/09/14/gnt-detem-suspeita-de-trafico-de-droga-e-apreende-12-300-doses-de-haxixe-em-mertola/",
+    "image": "https://www.noticias.sapo.pt/noticias/2021/09/14/gnt-detem-suspeita-de-trafico-de-droga-e-apreende-12-300-doses-de-haxixe-em-mertola/img/2021/09/14/

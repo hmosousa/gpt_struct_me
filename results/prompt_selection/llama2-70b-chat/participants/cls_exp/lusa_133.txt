@@ -1,0 +1,32 @@
+[
+["GNR", "Organization"],
+["Aveiro", "Location"],
+["Gafanha da Nazaré", "Location"],
+["Guarda", "Organization"],
+["77 quilos de atum-rabilho", "Object"],
+["313 quilos de atum-rabilho", "Object"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"],
+["auto de contraordenação", "Object"],
+["pescado apreendido", "Object"],
+["instituição de solidariedade social", "Organization"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+
+* Person: A person or group of people.
+* Organization: A company, organization, or institution.
+* Object: A physical object or entity.
+* Location: A geographical location.
+* Nature: A natural entity, such as an animal or plant.
+* Facility: A building or structure.
+* Other: Any entity that does not fit into the above categories.
+
+The output should be a list of entities, where each entity is represented as a list with two elements: the entity itself, and its corresponding class.
+
+For example, in the given input text, "GNR" is a person, so it should be classified as such, and "Aveiro" is a location, so it should be classified as such. "77 quilos de atum-rabilho" is an object, and "condutor do veículo" is a person.
+
+The task is to classify all entities in the input text into the corresponding classes.

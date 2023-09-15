@@ -1,0 +1,20 @@
+[
+["Grua de camião", "State"],
+["homem de 52 anos", "Occurrence"],
+["poste de iluminação", "Aspectual"],
+["hospital de Santo António", "Intensional Action"],
+["bombas de gasolina", "Intensional State"]
+]
+
+Explanation:
+
+* Grua de camião: State (the truck's crane is in a state of being derrubed)
+* homem de 52 anos: Occurrence (the man's death is an occurrence)
+* poste de iluminação: Aspectual (the power pole is in a state of being knocked down)
+* hospital de Santo António: Intensional Action (the hospital is the place where the victim was taken)
+* bombas de gasolina: Intensional State (the gas pumps are in a state of being affected)
+
+Note:
+
+* Intensional Action and Intensional State are not actual classes, but rather a way to categorize the entities based on their relationship with the main action/state described in the text.
+* The classes are not exhaustive, and other classes could be added or used differently depending on the specific context and requirements.

@@ -1,0 +1,37 @@
+[
+["Homem", "State"],
+["34 anos", "Aspectual"],
+["Transportadora J Amaral", "Occurrence"],
+["Estarreja", "Location"],
+["hoje", "Reporting"],
+["morto", "State"],
+["cisterna de um camião", "Location"],
+["manutenção", "Intensional Action"],
+["desaparecido", "State"],
+["sábado", "Aspectual"],
+["Joaquim Rebelo", "Perception"],
+["Bombeiros de Estarreja", "Occurrence"],
+["Polícia Judiciária", "Occurrence"],
+["Delegada de Saúde", "Occurrence"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Occurrence"],
+["Hospital Infante D. Pedro", "Location"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to the person's current state (deceased).
+* "34 anos" is classified as "Aspectual"because it describes the age of the person at the time of their death.
+* "Transportadora J Amaral" is classified as "Occurrence" because it refers to the company where the person worked.
+* "Estarreja" is classified as "Location" because it refers to the location where the person was found dead.
+* "hoje" is classified as "Reporting" because it refers to the fact that the event is currently happening.
+* "morto" is classified as "State" because it refers to the person's current state (deceased).
+* "cisterna de um camião" is classified as "Location" because it refers to the location where the person's body was found.
+* "manutenção" is classified as "Intensional Action" because it refers to the action the person was performing when they died.
+* "desaparecido" is classified as "State" because it refers to the person's state of being missing.
+* "sábado" is classified as "Aspectual" because it describes the day of the week when the person went missing.
+*"Joaquim Rebelo" is classified as "Perception" because it refers to the person's name and their role as the commander of the bombeiros.
+* "Bombeiros de Estarreja" is classified as "Occurrence" because it refers to the organization that responded to the event.
+* "Polícia Judiciária" is classified as "Occurrence" because it refers to the organization that is investigating the death.
+* "Delegada de Saúde" is classified as "Occurrence" because it refers to the organization that is responsible for the health and safety of the community.
+* "Viatura Médica de Emergência e Reanimação de Aveiro" is classified as "Occurrence" because it refers to the organization that responded to the event.
+* "Hospital Infante D. Pedro" is classified as "Location" because it refers to the location where the person's body was taken.

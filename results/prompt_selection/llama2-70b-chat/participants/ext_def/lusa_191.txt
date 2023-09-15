@@ -1,0 +1,7 @@
+[
+"homem de 29 anos",
+"PSP",
+"Comando Metropolitano de Lisboa (Cometlis)",
+"suspeito do crime",
+"Polícia Judiciária (PJ)"
+]

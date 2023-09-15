@@ -1,0 +1,20 @@
+[
+["Homem", "Person"],
+["atirador", "Person"],
+["Barreiro", "Location"],
+["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"],
+["Polícia Judiciária", "Organization"],
+["suspeita de homicídio envolvendo armas de fogo", "Nature"]
+]
+
+Explanation:
+The input text describes a fatal shooting incident in Barreiro, where a man was killed and the shooter is on the run. The text mentions the Direção Nacional da Polícia de Segurança Pública (PSP) and the Polícia Judiciária, which are both organizations involved in the investigation of the crime. The suspected homicide is also classified as a nature entity.
+
+The output is a list of six elements, each containing a participant entity and its corresponding class. The entities are:
+
+* "Homem" (Person) - the victim of the shooting
+* "atirador" (Person) - the shooter
+* "Barreiro" (Location) - thelocation where the shooting took place
+* "Direção Nacional da Polícia de Segurança Pública (PSP)" (Organization) - the police organization involved in the investigation
+* "Polícia Judiciária" (Organization) - the judicial police organization responsible for the investigation
+* "suspeita de homicídio envolvendo armas de fogo" (Nature) - the suspected crime, classified as a nature entity.

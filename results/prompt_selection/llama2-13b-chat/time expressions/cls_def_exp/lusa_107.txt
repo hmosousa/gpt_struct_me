@@ -1,0 +1,27 @@
+[
+["Mulher", "Date"],
+["atropelada", "Time"],
+["sem gravidade", "Duration"],
+["12:50", "Time"],
+["Torreira", "Set"],
+["Lusa", "Entity"],
+["Bombeiros", "Entity"],
+["GNR", "Entity"]
+]
+
+Explanation:
+
+* "Mulher" is a noun and belongs to the class "Entity".
+* "atropelada" is an adjective and belongs to the class "Time".
+* "sem gravidade" is an adjective and belongs to the class "Duration".
+* "12:50" is a time expression and belongs to the class "Time".
+* "Torreira" is a proper noun and belongs to the class "Set".
+* "Lusa" is a proper noun and belongs to the class "Entity".
+* "Bombeiros" is a proper noun and belongs to the class "Entity".
+* "GNR" is a proper noun and belongs to the class "Entity".
+
+Note:
+
+* In this example, the input text is in Portuguese.
+* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
+* The classes used in this example are: Date, Time, Duration, and Set.

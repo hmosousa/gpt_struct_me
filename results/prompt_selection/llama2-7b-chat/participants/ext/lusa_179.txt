@@ -1,0 +1,12 @@
+[
+"Homem",
+"Penafiel",
+"Ministério Público",
+"Juiz de Instrução",
+"Polícia Judiciária",
+"Vítima",
+"Produto Estupefaciente",
+"Crimes de Tráfico de Pessoas para Exploração Sexual",
+"Sequestro",
+"Violação"
+]

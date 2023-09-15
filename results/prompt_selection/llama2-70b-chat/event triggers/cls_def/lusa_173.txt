@@ -1,0 +1,34 @@
+[
+["Homem", "State"],
+["encontrado", "Occurrence"],
+["morto", "State"],
+["em cisterna de camião", "Aspectual"],
+["em Estarreja", "Location"],
+["Um homem de 34 anos", "Intensional State"],
+["funcionário da Transportadora J Amaral", "Intensional State"],
+["hoje", "Reporting"],
+["alerta", "Reporting"],
+["pelas 09:56", "Reporting"],
+["desaparecido", "State"],
+["desde sábado", "Aspectual"],
+["A cisterna onde o funcionário da transportadora estava a trabalhar", "Aspectual"],
+["aberta", "State"],
+["a causa da morte", "Intensional State"],
+["a Delegada de Saúde", "Intensional State"],
+["a Polícia Judiciária", "Intensional State"],
+["No local", "Location"],
+["a Viatura Médica de Emergência e Reanimação de Aveiro", "Intensional State"],
+["transporte do cadáver", "Intensional Action"],
+["para o Hospital Infante D. Pedro", "Location"]
+]
+
+Note:
+The output is a list of pairs, where each pair consists of an entity (first element) and a class (second element). The classes are:
+
+* State: refers to a state of being or a condition
+* Occurrence: refers to an event or happening
+* Reporting: refers to a report or statement about an event
+* Aspectual: refers to a description of an aspect or feature of an event
+* Intensional State: refers to a state of being that is intended or planned
+* Intensional Action: refers to an action that is intended or planned
+* Location: refers to a place or location where an event occurs.

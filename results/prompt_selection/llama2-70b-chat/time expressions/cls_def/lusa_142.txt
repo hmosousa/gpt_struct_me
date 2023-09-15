@@ -1,0 +1,30 @@
+[
+["GNR", "Date"],
+["12.300", "Quantity"],
+["122", "Duration"],
+["segunda-feira", "Date"],
+["hoje", "Date"],
+["Beja", "Location"],
+["Mértola", "Location"],
+["Estrada Nacional", "Location"],
+["vila", "Location"],
+["36", "Quantity"],
+["anos", "Duration"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+
+* "GNR" - Date (abbreviation for Guarda Nacional Republicana, which is a Portuguese law enforcement agency)
+* "12.300" - Quantity (number of doses of haxixe seized)
+* "122" - Duration (number of the national road where the suspect was arrested)
+* "segunda-feira" - Date (Portuguese for "Monday", indicating the day of the week when the suspect was detained)
+* "hoje" - Date (Portuguese for "today", indicating the current day)
+* "Beja" - Location (city where the suspect was taken for questioning)
+* "Mértola" - Location (city where the suspect was arrested)
+* "Estrada Nacional" - Location (national road where the suspect was arrested)
+* "vila" - Location (Portuguese for "town", indicating the type of location where the suspect was arrested)
+* "36" - Quantity (age of the suspect)
+* "anos" - Duration (Portuguese for "years", indicating the unit of time for the suspect's age)
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

@@ -1,0 +1,11 @@
+[
+"PJ",
+"homem suspeito",
+"jovem",
+"polícia",
+"presumível agressor",
+"vítima",
+"grupo de convivas",
+"sexagenário",
+"detido"
+]

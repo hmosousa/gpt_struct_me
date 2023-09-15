@@ -1,0 +1,5 @@
+[
+"Homem de 69 anos",
+"Mulher, apparentemente embriagada",
+"Outras duas pessoas"
+]

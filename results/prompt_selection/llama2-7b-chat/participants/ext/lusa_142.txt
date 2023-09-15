@@ -1,0 +1,15 @@
+[
+"GNR",
+"36 years old woman",
+"Mértola",
+"Beja",
+"12.300 doses of hashish",
+"Estrada Nacional 122",
+"nervous behavior",
+"patrol",
+"busca",
+"review",
+"droga",
+"vehicle",
+"telemóvel"
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "date": "2019-04-13T09:56:00.000Z",
+        "time": "09:56",
+        "duration": "00:00:00",
+        "class": "Date"
+    },
+    {
+        "date": "2019-04-13T09:56:00.000Z",
+        "time": "09:56",
+        "duration": "00:00:00",
+        "class": "Time"
+    },
+    {
+        "date": "2019-04-13T09:56:00.000Z",
+        "time": "09:56",
+        "duration": "00:00:00",
+        "class": "Duration"
+    },
+    {
+        "date": "2019-04-13T09:56:00.000Z",
+        "time": "09:56",
+        "duration": "00:00:00",
+        "class": "Set"
+    }
+]
+
+Input:
+"Homem encontrado morto em cisterna de camião em Estarreja"
+
+Output:
+[
+    {
+        "date": "2019-04-13T09:56:00.000Z",
+        "time": "09:56",
+        "duration": "00:00:00",
+        "class": "Date"
+    },
+    {
+        "date": "2019-04-13T09:56:00.000Z

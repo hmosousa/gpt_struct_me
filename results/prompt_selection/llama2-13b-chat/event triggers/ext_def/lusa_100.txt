@@ -1,0 +1,11 @@
+["violência física", "injúrias", "ameaças de morte", "separação", "perseguição", "teleassistência"]
+
+Explanation:
+The input text describes an event of domestic violence, where a man was arrested and put under electronic surveillance after allegedly physically abusing his ex-partner. The event triggers are:
+
+* "violência física" (physical violence)
+* "injúrias" (injuries)
+* "ameaças de morte" (threats of death)
+* "separação" (separation)
+* "perseguição" (persecution)
+* "teleassistência" (electronic surveillance)

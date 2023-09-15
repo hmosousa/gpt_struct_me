@@ -1,0 +1,54 @@
+[
+    {
+        "entity": "Violência doméstica",
+        "class": "Pulseira eletrónica para homem detido em Penafiel"
+    },
+    {
+        "entity": "Pulseira eletrónica para homem detido em Penafiel",
+        "class": "Set"
+    },
+    {
+        "entity": "Homem de 39 anos",
+        "class": "Set"
+    },
+    {
+        "entity": "Suspeito",
+        "class": "Set"
+    },
+    {
+        "entity": "Violência física",
+        "class": "Set"
+    },
+    {
+        "entity": "Injúria",
+        "class": "Set"
+    },
+    {
+        "entity": "Ameaça de morte",
+        "class": "Set"
+    },
+    {
+        "entity": "Ex-companheira",
+        "class": "Set"
+    },
+    {
+        "entity": "42 anos",
+        "class": "Set"
+    },
+    {
+        "entity": "GNR",
+        "class": "Set"
+    },
+    {
+        "entity": "Autoridade policial",
+        "class": "Set"
+    },
+    {
+        "entity": "Separação",
+        "class": "Set"
+    },
+    {
+        "entity": "Perseguir",
+        "class": "Set"
+    },
+    {

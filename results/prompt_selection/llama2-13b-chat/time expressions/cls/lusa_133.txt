@@ -1,0 +1,25 @@
+[
+["GNR", "Date"],
+["Apreende", "Time"],
+["390 quilogramas de atum-rabilho", "Duration"],
+["cuja captura está interdita", "Set"],
+["37.500 euros", "Set"],
+["segunda-feira", "Date"],
+["77 quilos de atum-rabilho", "Duration"],
+["313 quilos de atum-rabilho", "Duration"],
+["condutor do veículo", "Entity"],
+["mestre da embarcação", "Entity"],
+["auto de contraordenação", "Set"]
+]
+
+Explanation:
+
+* "GNR" is an entity and "Date" is the class.
+* "Apreende" is a verb and "Time" is the class.
+* "390 quilogramas de atum-rabilho" is a noun phrase and "Duration" is the class.
+* "cuja captura está interdita" is a phrase and "Set" is the class.
+* "37.500 euros" is a noun phrase and "Set" is the class.
+* "segunda-feira" is a noun phrase and "Date" is the class.
+* "77 quilos de atum-rabilho" and "313 quilos de atum-rabilho" are noun phrases and "Duration" is the class.
+* "condutor do veículo" and "mestre da embarcação" are entities and "Entity" is the class.
+* "auto de contraordenação" is a phrase and "Set" is the class.

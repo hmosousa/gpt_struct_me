@@ -1,0 +1,22 @@
+[
+["Homem", "Date"],
+["Prisão preventiva", "Time"],
+["47 anos de idade", "Duration"],
+["2017", "Set"],
+["vítima", "Duration"],
+["26 anos", "Duration"],
+["exploração sexual", "Duration"],
+["fugiu", "Duration"],
+["localizada", "Duration"],
+["produto estupefaciente", "Duration"]
+]
+
+Explanation:
+
+* "Homem" and "vítima" are entities, not time expressions.
+* "Prisão preventiva" is a time expression, indicating the duration of the preventive prison.
+* "47 anos de idade" is a duration expression, indicating the age of the accused.
+* "2017" is a set expression, indicating the year when the events took place.
+* "exploração sexual" is a duration expression, indicating the duration of the sexual exploitation.
+* "fugiu" and "localizada" are duration expressions, indicating the frequency of the victim's escape attempts and the accused's ability tolocate her.
+* "produto estupefaciente" is a duration expression, indicating the duration of the victim's dependence on drugs.

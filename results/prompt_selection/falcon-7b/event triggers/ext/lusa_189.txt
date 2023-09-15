@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "title": "Homem morto a tiro no Barreiro, atirador em fuga",
+    "description": "Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).",
+    "created_at": "2021-08-11T20:20:20.000Z",
+    "updated_at": "2021-08-11T20:20:20.000Z",
+    "author": "Lusa",
+    "author_id": "1",
+    "author_name": "Lusa",
+    "author_email": "lusa@lusa.pt",
+    "author_url": "https://

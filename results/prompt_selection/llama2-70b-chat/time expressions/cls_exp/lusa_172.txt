@@ -1,0 +1,28 @@
+[
+["hoje à tarde", "Time"],
+["60 e 70 anos", "Date"],
+["hoje", "Time"],
+["Lagoa", "Set"],
+["Faro", "Set"],
+["Estaquinha", "Set"],
+["Portimão", "Set"],
+["Ferragudo", "Set"],
+["Lagoa", "Set"],
+["Portimão", "Set"]
+]
+
+Explanation:
+The input text contains several time expressions:
+
+* "hoje à tarde" (this afternoon)
+* "60 e 70 anos" (between 60 and 70 years old)
+* "hoje" (today)
+
+The output is a list of pairs, where each pair consists of the time expression and its corresponding class. The classes are:
+
+* Time: for expressions that refer to a specific time of day or a time period (e.g. "hoje à tarde", "hoje")
+* Date: for expressions that refer to a specific date or age (e.g. "60 e 70 anos")
+* Duration: for expressions that refer to a length of time (e.g. "uma hora")
+* Set: for expressions that refer to a specific set of items (e.g. "Lagoa", "Faro")
+
+Note that the input text also contains place names, which are not time expressions and therefore are not included in the output.

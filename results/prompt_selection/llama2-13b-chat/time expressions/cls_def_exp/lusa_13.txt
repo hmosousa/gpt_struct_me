@@ -1,0 +1,35 @@
+[
+["Autoridades judiciais", "Date"],
+["hoje", "Time"],
+["realizaram", "Verb"],
+["buscas", "Duration"],
+["no apartamento de Maximiliano Trimarchi", "Location"],
+["no âmbito da investigação por alegada negligência na morte do ex-futebolista argentino", "Set"],
+["em comunicado", "Verb"],
+["a procuradoria-geral de San Isidro", "Location"],
+["refere que as buscas", "Verb"],
+["foram ordenadas", "Verb"],
+["depois de saber que Trimarchi estava junto de Maradona quando este morreu", "Cause"],
+["na sua casa", "Location"],
+["em San André", "Location"],
+["na província de Buenos Aires", "Location"],
+["a dois dias após a morte de Maradona", "Time"],
+["a justiça argentina abriu um inquérito", "Verb"]
+]
+
+Explanation:
+
+* "Autoridades judiciais" is a noun phrase and its class is "Date" because it refers to a specific point in time (the current day).
+* "hoje" is an adverb and its class is "Time" because it modifies the verb "realizaram" and indicates the time when the action took place.
+* "realizaram" is a verb and its class is "Verb" because it is the main verb of the sentence.
+* "buscas" is a noun phrase and its class is "Duration" because it refers to a period of time.
+* "no apartamento de Maximiliano Trimarchi" is a prepositional phrase and its class is "Location" because it describes the location where the action took place.
+* "no âmbito da investigação por alegada negligência na morte do ex-futebolista argentino" is a prepositional phrase and its class is "Set" because it describes the context in which the action took place.
+* "em comunicado" is an adverb and its class is "Verb" because it modifies the verb "refere" andindicates the manner in which the information was communicated.
+* "a procuradoria-geral de San Isidro" is a noun phrase and its class is "Location" because it describes the location of the procuradoria-geral.
+* "refere que as buscas" is a verb phrase and its class is "Verb" because it is the main verb of the sentence.
+* "foram ordenadas" is a verb phrase and its class is "Verb" because it is the main verb of the sentence.
+* "depois de saber que Trimarchi estava junto de Maradona quando este morreu" is a prepositional phrase and its class is "Cause" because it explains why the buscas were ordered.
+* "na sua casa" is a prepositional phrase and its class is "Location" because it describes the location where Maradona died.
+* "em San André" is a prepositional phrase and its class is "Location" because it describes the location of Maradona's house.
+* "na província de Buenos Aires" is a prepositional phrase and its class is

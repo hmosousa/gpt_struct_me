@@ -1,0 +1,24 @@
+[
+["GNR", "Organization"],
+["homens", "Person"],
+["Sines", "Location"],
+["droga", "Object"],
+["estupefacientes", "Object"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["euros", "Object"],
+["veículo", "Object"],
+["telemóveis", "Object"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* Homens is a person.
+* Sines is a location.
+* Droga is an object.
+* Estupefacientes is an object.
+* Heroína and cocaína are objects.
+* Euros is an object.
+* Veículo is an object.
+* Telemóveis is an object.

@@ -1,0 +1,31 @@
+[
+["Homem", "Date"],
+["morto", "Time"],
+["a tiro", "Set"],
+["no Barreiro", "Location"],
+["atirador", "Person"],
+["em fuga", "Set"],
+["hoje", "Date"],
+["baleado", "Time"],
+["com dois tiros de caçadeira", "Duration"],
+["o incidente", "Set"],
+["ocorreu", "Time"],
+["às 20:20 de hoje", "Date"],
+["não adiantando", "Set"],
+["mais informações sobre as circunstâncias do tiroteio", "Set"]
+]
+
+Explanation:
+
+* "Homem" and "atirador" are classified as "Person"
+* "morto" and "baleado" are classified as "Time"
+* "a tiro" and "com dois tiros de caçadeira" are classified as "Set"
+* "no Barreiro" and "ocorreu" are classified as "Location"
+*"em fuga" and "não adiantando" are classified as "Set"
+* "hoje" and "às 20:20 de hoje" are classified as "Date"
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Date, Time, Duration, and Set.
+* The entities are: Homem, atirador, morto, a tiro, no Barreiro, o incidente, hoje, baleado, com dois tiros de caçadeira, não adiantando, mais informações sobre as circunstâncias do tiroteio.

@@ -1,0 +1,20 @@
+[
+["Homem", "Person"],
+["Ex-companheira", "Person"],
+["GNR", "Organization"],
+["Comando Territorial da GNR", "Organization"],
+["Lusa", "Organization"],
+["Rua da Figueirinha", "Location"],
+["Grijó", "Location"],
+["Vila Nova de Gaia", "Location"],
+["Porto", "Location"],
+["Polícia Judiciária", "Organization"]
+]
+
+Explanation:
+
+* "Homem" and "ex-companheira" are both classified as "Person".
+* "GNR" and "Comando Territorial da GNR" are both classified as "Organization".
+* "Lusa" is classified as "Organization".
+* "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", and "Porto" are all classified as "Location".
+* "Polícia Judiciária" is classified as "Organization".

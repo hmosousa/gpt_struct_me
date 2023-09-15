@@ -1,0 +1,25 @@
+'m using the following code:
+import requests
+import json
+
+url = ""
+
+response = requests.get(url)
+
+data = json.loads(response.text)
+
+print(data)
+
+I'm getting the following error:
+Traceback (most recent call last):
+  File "C:/Users/user/Desktop/python/python_practice/python_practice.py", line 9, in <module>
+    data = json.loads(response.text)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\__init__.py", line 1, in <module>
+    from. import dumps
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\dumps.py", line 1, in <module>
+    from. import pretty
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\pretty.py", line 1, in <module>
+    from. import _pretty
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\_pretty.py", line 1, in <module>
+    from. import _pretty_pretty
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\_pretty_pretty.py

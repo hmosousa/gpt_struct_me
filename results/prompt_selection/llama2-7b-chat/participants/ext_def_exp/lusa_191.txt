@@ -1,0 +1,15 @@
+[
+"Homem",
+"Lisboa",
+"Arroios",
+"mercado",
+"PSP",
+"Cometlis",
+"rua Ângela Pinto",
+"café",
+"suspeito",
+"Avenida Almirante Reis",
+"Polícia Judiciária",
+"Lusa",
+"PJ"
+]

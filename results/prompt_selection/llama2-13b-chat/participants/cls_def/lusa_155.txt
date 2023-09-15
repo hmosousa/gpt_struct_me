@@ -1,0 +1,19 @@
+[
+["Homem", "Person"],
+["Mulher", "Person"],
+["Bombeiros", "Organization"],
+["GNR", "Organization"],
+["Hospital de São Bernardo", "Location"],
+["Setúbal", "Location"],
+["Cajados", "Location"],
+["Agressão", "Event"]
+]
+
+Explanation:
+
+* "Homem" and "Mulher" are both classified as "Person" because they are individuals involved in the event.
+* "Bombeiros" is classified as "Organization" because it is a group of people who provide a service.
+* "GNR" is classified as "Organization" for the same reason.
+* "Hospital de São Bernardo" is classified as "Location" because it is a physical place where the events took place.
+* "Setúbal" and "Cajados" are both classified as "Location" for the same reason.
+* "Agressão" is classified as "Event" because it is the central action that took place.

@@ -1,0 +1,14 @@
+[
+"Homem",
+"proprietário de um restaurante",
+"Cajados",
+"Palmela",
+"Setúbal",
+"GNR",
+"vítima",
+"hospital de São Bernardo",
+"São Bernardo",
+"Comando Distrital de Operações de Socorro",
+"CDOS",
+"águas de Moura"
+]

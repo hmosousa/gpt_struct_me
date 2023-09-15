@@ -1,0 +1,38 @@
+[
+["Encontrado corpo de homem", "State"],
+["de homem", "Occurrence"],
+["em zona rochosa", "Location"],
+["na costa da Terceira", "Location"],
+["segundo-feira", "Temporal"],
+["desconhecendo-se as causas da morte", "Aspectual"],
+["anunciou hoje", "Reporting"],
+["a Autoridade Marítima", "Agent"],
+["segundo um comunicado", "Reporting"],
+["enviado às redações", "Reporting"],
+["pelas 12:00 locais", "Temporal"],
+["13:00 em Lisboa", "Temporal"],
+["a presença do corpo de um homem a boiar", "Perception"],
+["numa área de domínio público marítimo", "Location"],
+["a informação foi recebida", "Reporting"],
+["através da Polícia de Segurança Pública (PSP)", "Source"],
+["o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local", "Action"],
+["where confirmed 'a presença do corpo de um homem, de 62 anos, já cadáver'", "Perception"],
+["o corpo foi retirado do local", "Action"],
+["pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Action"],
+["e posteriormente transportado para o Hospital de Angra do Heroísmo", "Action"],
+["where será autopsiado para se apurar as causas da morte", "Action"]
+]
+
+Note:
+
+* State: refers to the state of the entity, in this case, the body of the man.
+* Occurrence: refers to the occurrence of the event, in this case, the finding of the body.
+* Location: refers to the location where the event took place, in this case, the coast of the Terceira island.
+* Temporal: refers to the temporal information of the event, in this case, the day of the week and the time.
+*Aspectual: refers to the aspect of the event, in this case, the fact that the cause of death is unknown.
+* Reporting: refers to the fact that the information is being reported by an entity, in this case, the Authority Marítima.
+* Agent: refers to the entity that performed the action, in this case, the Police Marítima.
+* Source: refers to the source of the information, in this case, the Polícia de Segurança Pública (PSP).
+* Action: refers to the action that was taken, in this case, the retrieval of the body and its transportation to the hospital.
+
+Please note that the output is a list of lists, where each list contains two strings: the entity and the class.

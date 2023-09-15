@@ -1,0 +1,46 @@
+[
+    {
+        "entity": "Homem",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Barreiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Tiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Fuga",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {

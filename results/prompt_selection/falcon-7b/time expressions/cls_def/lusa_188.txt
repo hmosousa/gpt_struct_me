@@ -1,0 +1,78 @@
+[
+    {
+        "entity": "Homem",
+        "class": "Person"
+    },
+    {
+        "entity": "Morre",
+        "class": "Event"
+    },
+    {
+        "entity": "Vítima",
+        "class": "Person"
+    },
+    {
+        "entity": "Morte",
+        "class": "Event"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Place"
+    },
+    {
+        "entity": "Concelho",
+        "class": "Place"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Place"
+    },
+    {
+        "entity": "Distrito",
+        "class": "Place"
+    },
+    {
+        "entity": "Bragança",
+        "class": "Place"
+    },
+    {
+        "entity": "Concelho",
+        "class": "Place"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Place"
+    },
+    {
+        "entity": "Vilarinhos dos Galegos",
+        "class": "Place"
+    },
+    {
+        "entity": "Concelho",
+        "class": "Place"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Place"
+    },
+    {
+        "entity": "Distrito",
+        "class": "Place"
+    },
+    {
+        "entity": "Bragança",
+        "class": "Place"
+    },
+    {
+        "entity": "Concelho",
+        "class": "Place"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Place"
+    },
+    {
+        "entity": "Homem",
+        "class": "Person"
+    },
+    {

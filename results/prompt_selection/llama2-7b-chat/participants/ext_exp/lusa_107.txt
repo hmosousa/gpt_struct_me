@@ -1,0 +1,14 @@
+[
+"Mulher",
+"44",
+"Torreira",
+"Aveiro",
+"Murtosa",
+"Bombeiros",
+"GNR",
+"Cais da Torreira",
+"Tentou sair",
+"Fugida",
+"Hospital de Aveiro",
+"Mariscadores"
+]

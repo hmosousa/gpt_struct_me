@@ -1,0 +1,31 @@
+[
+{
+"entity": "PJ",
+"class": "Organization"
+},
+{
+"entity": "homem",
+"class": "Person"
+},
+{
+"entity": "restaurante",
+"class": "Location"
+},
+{
+"entity": "coletividade",
+"class": "Location"
+},
+{
+"entity": "grupo de convivas",
+"class": "Group"
+},
+{
+"entity": "arma de fogo",
+"class": "Object"
+},
+{
+"entity": "vítima",
+"class": "Person"
+}
+]
+]

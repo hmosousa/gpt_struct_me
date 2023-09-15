@@ -1,0 +1,17 @@
+[["Homem", "Date"], ["morto", "Time"], ["a tiro", "Duration"], ["hoje", "Date"], ["20:20", "Time"], ["não adiantando", "Duration"], ["suspeita", "Set"]]
+Explanation:
+* "Homem" is a date expression, indicating that a man was killed.
+* "morto" is a time expression, indicating that the man was killed.
+* "a tiro" is a duration expression, indicating that the man was killed with a single shot.
+* "hoje" is a date expression, indicating that the incident occurred today.
+* "20:20" is a time expression, indicating the exact time of the incident (9:20 PM).
+* "não adiantando" is a duration expression, indicating that the incident occurred without warning.
+* "suspeita" is a set expression, indicating that the incident is being investigated as a suspected homicide.
+
+Note:
+* The output is a JSON-parseable list, where each element is a list with two strings. Thefirst string is the entity, and the second string is the class.
+* The classes are defined as follows:
+	+ Date: A date expression represents a specific point in time, such as a birthday or anniversary.
+	+ Time: A time expression represents a specific time of day, such as 9:00 AM or 5:00 PM.
+	+ Duration: A duration expression represents a specific amount of time, such as 30 seconds or 2 hours.
+	+ Set: A set expression represents a category or group of things, such as a set of colors or a set of numbers. In this case, the set expression "suspeita" indicates that the incident is being investigated as a suspected homicide.

@@ -1,0 +1,19 @@
+[
+["Homem", "State"],
+["companheira", "Occurrence"],
+["MP", "Reporting"],
+["Polícia Judiciária", "Perception"],
+["vítima", "Aspectual"],
+["arguido", "Intensional Action"],
+["prostituir-se", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" is a State entity, as it refers to the person who is the subject of the event.
+* "companheira" is an Occurrence entity, as it refers to the event of the woman being forced into prostitution.
+* "MP" is a Reporting entity, as it is the source of the information about the event.
+* "Polícia Judiciária" is a Perception entity, as it is the entity that perceives the event.
+* "vítima" is an Aspectual entity, as it refers to the aspect of the event that is being described (i.e. the woman being a victim of exploitation).
+* "arguido" is an Intensional Action entity, as it refers to theaction of the man in forcing the woman into prostitution.
+* "prostituir-se" is an Intensional State entity, as it refers to the state of the woman being forced into prostitution.

@@ -1,0 +1,30 @@
+[
+{
+"Grua de camião",
+"Occurrence"
+},
+{
+"Homem de 52 anos",
+"Aspectual"
+},
+{
+"Poste de iluminação",
+"Object"
+},
+{
+"Rua da Constituição",
+"Location"
+},
+{
+"Hospital de Santo António",
+"Location"
+},
+{
+"Functivo de bombas de gasolina",
+"Object"
+},
+{
+"Acidente",
+"Event"
+}
+]

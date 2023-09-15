@@ -1,0 +1,34 @@
+[
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Torreira",
+"class": "Location"
+},
+{
+"entity": "Cais da Torreira",
+"class": "Location"
+},
+{
+"entity": "Murtosa",
+"class": "Location"
+},
+{
+"entity": "Aveiro",
+"class": "Location"
+},
+{
+"entity": "Hospital de Aveiro",
+"class": "Location"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Bombeiros",
+"class": "Organization"
+}
+]

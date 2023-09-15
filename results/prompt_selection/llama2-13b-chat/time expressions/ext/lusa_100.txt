@@ -1,0 +1,19 @@
+[
+"hoje",
+"em",
+"informou",
+"antes",
+"agora",
+"já",
+"usava"
+]
+
+Explanation:
+
+* "hoje" is an adverb indicating the day of the week.
+* "em" is a preposition indicating the location where the event took place.
+* "informou" is a verb in the past tense indicating the source of the information.
+* "antes" is an adverb indicating the time before the event.
+* "agora" is an adverb indicating the current time.
+* "já" is an adverb indicating the past time.
+* "usava" is a verb in the past tense indicating the habitual action of the victim.

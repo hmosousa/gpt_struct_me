@@ -1,0 +1,79 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element is the date, the second is the time, the third is the duration, and the fourth is the set.
+
+Constraints:
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSONstring.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSONstring.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON string.
+- The input is a valid JSON

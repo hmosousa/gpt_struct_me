@@ -1,0 +1,13 @@
+[
+"found dead",
+"34 years old",
+"Tuesday",
+"09:56",
+"since Saturday",
+"cause of death",
+"open cistern",
+" delegate of health",
+"police judiciary",
+"medical emergency and resuscitation vehicle",
+"hospital Infante D. Pedro"
+]

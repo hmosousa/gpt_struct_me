@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "class": "Person"
+    },
+    {
+        "id": "2",
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "class": "Organization"
+    },
+    {
+        "id": "3",
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "class": "Object"
+    },
+    {
+        "id": "4",
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "class": "Location"
+    },
+    {
+        "id": "5",
+        "name": "Homem morto a tiro no Barreiro, atirador em fuga",
+        "class": "Nature"
+    },
+    {
+        "id": "6

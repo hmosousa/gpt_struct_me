@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2020-09-16T20:20:00.000Z",
+        "time": "20:20",
+        "duration": "20:00",
+        "class": "Homicide"
+    },
+    {
+        "date": "2020-09-16T20:20:00.000Z",
+        "time": "20:20",
+        "duration": "20:00",
+        "class": "Suspicious Death"
+    },
+    {
+        "date": "2020-09-16T20:20:00.000Z",
+        "time": "20:20",
+        "duration": "20:00",
+        "class": "Assault"
+    },
+    {
+        "date": "2020-09-16T20:20:00.000Z",
+        "time": "20:20",
+        "duration": "20:00",
+        "class": "Robbery"
+    },
+    {
+        "date": "2020-09-16T20:20:00.000Z

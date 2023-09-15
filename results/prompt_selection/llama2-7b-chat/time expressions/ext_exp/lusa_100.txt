@@ -1,0 +1,17 @@
+[
+"pulseira eletronica",
+"39 anos",
+"42 anos",
+"violência física",
+"injúrias",
+"ameaças de morte",
+"separação",
+"perseguir",
+"residência",
+"local de trabalho",
+"botão de pânico",
+"teleassistência",
+"antecedentes criminais",
+"ilícitos da mesma natureza",
+"proibido de contactar a vítima"
+]

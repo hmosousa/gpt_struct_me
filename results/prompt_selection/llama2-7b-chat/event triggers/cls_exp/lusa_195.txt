@@ -1,0 +1,43 @@
+[
+{
+"entity": "PJ",
+"class": "State"
+},
+{
+"entity": "homem",
+"class": "Entity"
+},
+{
+"entity": "jovem",
+"class": "Entity"
+},
+{
+"entity": "coletividade",
+"class": "Aspectual"
+},
+{
+"entity": "restaurante",
+"class": "Aspectual"
+},
+{
+"entity": "Alto da Guerra",
+"class": "Aspectual"
+},
+{
+"entity": "polícia",
+"class": "Intensional Action"
+},
+{
+"entity": "detido",
+"class": "Intensional State"
+}
+]
+]
+
+Explanation:
+
+* State: PJ (Polícia Judiciária) is in a state of detaining a suspect.
+* Entity: PJ, homem, jovem, coletividade, restaurante, Alto da Guerra are entities in the text.
+* Aspectual: coletividade, restaurante, Alto da Guerra are aspects of the entities.
+* Intensional Action: polícia (police) is performing an intensional action (detaining) on detido.
+* Intensional State: detido is in an intensional state (being detained) after being accused of the crimes.

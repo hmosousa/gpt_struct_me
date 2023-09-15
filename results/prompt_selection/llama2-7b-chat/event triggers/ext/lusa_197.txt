@@ -1,0 +1,10 @@
+[
+"Grua de camião derrubou poste de iluminação",
+"Poste de iluminação derrubado",
+"Homem de 52 anos morreu",
+"Homem sofreu ferimentos ligeiros",
+"Vítima transportada com vida para hospital",
+"Vítima acabou por morrer",
+"Estruatura atingiu funcionário de bombas de gasolina",
+"Funcionário sofreu ferimentos ligeiros"
+]

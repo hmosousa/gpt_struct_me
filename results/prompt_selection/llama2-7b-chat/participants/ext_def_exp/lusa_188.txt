@@ -1,0 +1,17 @@
+[
+"Homem de 48 anos",
+"Vítima de acidente de trabalho",
+"Mogadouro",
+"Concelho de Mogadouro",
+"Distrito de Bragança",
+"Lusa",
+"Fonte dos bombeiros",
+"Comandante dos bombeiros de Mogadouro",
+"José Carrasco",
+"Meios dos bombeiros de Mogadouro",
+"Ambulância de Suporte Imediato de Vida (SIV)",
+"Viatura Medica de Emergência e Reanimação (VMER)",
+"Instituto Nacional e Emergência Médica (INEM)",
+"Helicóptero do INEM estacionado em Macedo de Cavaleiros"
+"GNR de Mogadouro"
+]

@@ -1,0 +1,30 @@
+[
+["PJ", "Organization"],
+["homem", "Person"],
+["Setúbal", "Location"],
+["restaurante", "Facility"],
+["coletividade", "Organization"],
+["presumível agressor", "Person"],
+["vítima", "Person"],
+["conflito", "Nature"],
+["arma de fogo", "Object"],
+["sexagenário", "Person"],
+["jovem", "Person"],
+["crimes", "Nature"],
+["homicídio qualificado", "Nature"],
+["detenção de arma proibida", "Nature"],
+["omissão de auxílio", "Nature"],
+["primeiro interrogatório judicial", "Facility"],
+["medida de coação de prisão preventiva", "Facility"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and classes. Your goal is to extract and classify all participants in the text, using the given classes.
+
+You can use the same approach as before, by creating a list of all the entities in the text, and then classifying them according to their type. You can use the classes you defined before, or create new ones if needed.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+
+You can use the same code you wrote for the previous task, but with some adjustments to handle the new input text and classes.

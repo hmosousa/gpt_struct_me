@@ -1,0 +1,14 @@
+[
+"hoje",
+"52 anos",
+"07:50"
+]
+
+Explanation:
+The input text contains three time expressions:
+
+* "hoje" (today)
+* "52 anos" (52 years old)
+* "07:50" (7:50 AM)
+
+The output is a JSON-parseable list of strings containing these three time expressions.

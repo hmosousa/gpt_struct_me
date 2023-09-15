@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso",
+    "description": "Um jovem de 14 anos ficou hoje em estado grave após ter sido atropelado por um autocarro na Vila das Aves, concelho de Santo Tirso, disse à Lusa fonte da Proteção Civil.",
+    "created_at": "2021-09-16T18:16:00.000Z",
+    "updated_at": "2021-09-16T18:16:00.000Z"
+  },
+  {
+    "id": "2

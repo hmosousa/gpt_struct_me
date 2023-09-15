@@ -1,0 +1,58 @@
+[
+{
+"entity": "Homem",
+"class": "Person"
+},
+{
+"entity": "pessoas",
+"class": "Number"
+},
+{
+"entity": "ataque",
+"class": "Event"
+},
+{
+"entity": "facas",
+"class": "Object"
+},
+{
+"entity": "motivo",
+"class": "Concept"
+},
+{
+"entity": "arma",
+"class": "Object"
+},
+{
+"entity": "escola",
+"class": "Location"
+},
+{
+"entity": "jardim",
+"class": "Location"
+},
+{
+"entity": "região",
+"class": "Location"
+},
+{
+"entity": "Guangxi",
+"class": "Location"
+},
+{
+"entity": "Pequim",
+"class": "Location"
+},
+{
+"entity": "sul",
+"class": "Location"
+}
+]
+]
+
+Note:
+
+* The input text is in Portuguese, but the task is the same as the English one.
+* The output is a JSON-parseable list of entities and their corresponding classes.
+* Each element in the list is a JSON object with two strings: "entity" and "class".
+* The "entity" string is the name of the entity (e.g. "Homem", "pessoas", "ataque", etc.), and the "class" string is the class of the entity (e.g. "Person", "Number", "Event", etc.).

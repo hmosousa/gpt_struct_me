@@ -1,0 +1,41 @@
+[
+["Grua de camião", "Occurrence"],
+["derrubou", "Action"],
+["poste de iluminação", "State"],
+["homem de 52 anos", "State"],
+["morreu", "State"],
+["outro", "State"],
+["sofreu ferimentos ligeiros", "State"],
+["acidente", "Occurrence"],
+["com um camião", "Action"],
+["derrubou", "Action"],
+["poste de eletricidade", "State"],
+["Rua da Constituição", "State"],
+["Porto", "State"],
+["PSP", "State"],
+["fonte", "State"],
+["Lusa", "State"],
+["Relações Públicas", "State"],
+["Comando Metropolitano", "State"],
+["PSP do Porto", "State"],
+["hospital de Santo António", "State"],
+["vítima", "State"],
+["funcionário", "State"],
+["bombas de gasolina", "State"],
+["acidente", "Occurrence"],
+["07:50", "State"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* Occurrence: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* State: refers to any state, situation, or condition that exists or persists during a period of time.
+* Action: refers to any action, activity, or process that takes place or occurs within a specified period of time.
+* Reporting: refers to any reporting, description, or account of an event or state.
+* Perception: refers to any perception, observation, or sensing of an event or state.
+* Aspectual: refers to any aspectual information, such as the time, duration, or frequency of an event or state.
+* Intensional Action: refers to any action or activity that is intended or planned to take place.
+* Intensional State: refers to any state or situation that is intended or planned to exist or persist.
+
+The task is to extract and classify all event triggers in the giventext. Event triggers are the words or phrases that indicate the occurrence of an event, such as "derrubou", "morreu", "sofreu ferimentos ligeiros", "ocorreu". The output should be a list of pairs, where each pair contains the entity and its corresponding class.

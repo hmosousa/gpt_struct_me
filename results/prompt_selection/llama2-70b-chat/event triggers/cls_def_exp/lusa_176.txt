@@ -1,0 +1,47 @@
+[
+["Homem morre", "Occurrence"],
+["ciclomotor que conduzia", "State"],
+["veículo ligeiro", "State"],
+["Estrada Nacional 10-8", "Location"],
+["Mitrena", "Location"],
+["Setúbal", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro (CDOS)", "Organization"],
+["Hospital de São Bernardo", "Location"],
+["Medicina legal", "Aspectual"],
+["VMER", "State"],
+["PSP", "Organization"],
+["Sapadores de Setúbal", "Organization"],
+["Palmela", "Location"]
+]
+
+Note:
+The event triggers are not limited to the ones provided in the example, it's a sample of what could be extracted from the given text.
+
+Note 2:
+The classes used in the output are not exhaustive, it's a sample of what could be used, you can use other classes that you findmore appropriate.
+
+Note 3:
+The output should be a JSON-parseable list, so the elements should be enclosed in square brackets and separated by commas.
+
+Note 4:
+The input text is in Portuguese, so the event triggers and classes should be in Portuguese as well.
+
+Note 5:
+You can use Named Entity Recognition (NER) techniques to help you identify the entities in the text.
+
+Note 6:
+You can use Part-of-speech tagging (POS) techniques to help you identify the parts of speech of the words in the text.
+
+Note 7:
+You can use Dependency Parsing techniques to help you identify the relationships between the words in the text.
+
+Note 8:
+You can use Word Sense Disambiguation (WSD) techniques to help you identify the meaning of the words in the text.
+
+Note 9:
+You can use Coreference Resolution techniques to help you identify the relationships between the entities in the text.
+
+Note 10:
+You can use Semantic Role Labeling (SRL) techniques to help you identify the roles played bythe entities in the text.

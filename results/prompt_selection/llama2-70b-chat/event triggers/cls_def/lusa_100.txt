@@ -1,0 +1,25 @@
+[
+["Violência doméstica", "Occurrence"],
+["Pulseira eletrônica", "State"],
+["homem", "Intensional Action"],
+["colocado", "State"],
+["suspeito", "Intensional State"],
+["persegui", "Intensional Action"],
+["não aceitou", "Intensional State"],
+["separação", "Occurrence"],
+["começou", "Occurrence"],
+["perseguiu", "Intensional Action"],
+["vítima", "State"],
+["botão de pânico", "State"],
+["proibido", "State"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair consists of an entity and its corresponding class. The classes are:
+
+* Occurrence: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* State: refers to a state or condition that exists or persists over a period of time.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers toa state or condition that is intended or planned.
+
+In the example, "Violência doméstica" is classified as an Occurrence, as it refers to a specific event or incident of domestic violence. "Pulseira eletrônica" is classified as a State, as it refers to a condition or state that exists or persists over a period of time (the man is wearing an electronic bracelet). "homem" is classified as an Intensional Action, as it refers to the man's action of persecuting his ex-partner. "colocado" is classified as a State, as it refers to the man's condition of being placed under electronic surveillance. "suspeito" is classified as an Intensional State, as it refers to the man's state of being suspected of domestic violence. "persegui" is classified as an Intensional Action, as it refers to the man's action of persecuting his ex-partner. "não aceitou" is classified as an Intensional State, as it refers to the man's state of not accepting the separation."separação" is classified as an Occurrence, as it refers to the specific event or incident of the separation. "começou" is classified as an Occurrence, as it refers to the specific event or incident of the man beginning to persecute his ex-partner. "perseguiu" is classified as an Intensional Action, as it refers to the man's action of persecuting his ex-partner. "vítima" is classified as a State, as it refers to the woman's condition of being a victim of domestic violence. "botão de pânico" is classified as a State, as it refers to the woman's condition of having a panic button. "proibido" is classified as a State, as it refers to the man's condition of being prohibited from contacting the victim.

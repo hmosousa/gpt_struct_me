@@ -1,0 +1,7 @@
+'m trying to extract the "Violência doméstica" string from the input.
+I've tried to use the following code:
+var input = "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel";
+var output = input.split(":");
+
+But it doesn't work.
+ @Barmar I've tried to use the following code: var input = "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel"; var output = input.split(":"); But it doesn't work. @Barmar I've tried to use the following code: var input = "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel"; var output = input.split(":"); But it doesn't w

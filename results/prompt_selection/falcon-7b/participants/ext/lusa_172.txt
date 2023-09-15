@@ -1,0 +1,24 @@
+'m trying to extract the participants from the JSON file.
+I've tried to use the following code:
+import json
+
+with open('data.json') as f:
+    data = json.load(f)
+
+for participant in data['participants']:
+    print(participant)
+
+But it doesn't work.
+ @Barmar I've tried to use the following code: `with open('data.json') as f:
+    data = json.load(f)
+
+for participant in data['participants']:
+    print(participant)` `data['participants']` is a list, not a dictionary. I've tried to use the following code: `with open('data.json') as f:
+    data = json.load(f)
+
+for participant in data['participants']:
+    print(participant)` `data['participants']` is a list, not a dictionary. I've tried to use the following code: `with open('data.json') as f:
+    data = json.load(f)
+
+for participant in data['participants']:
+    print(participant)` `data['participants']`

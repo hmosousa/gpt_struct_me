@@ -1,0 +1,12 @@
+[["PJ detém homem suspeito de balear jovem em coletividade de Setúbal", "Date"], ["PJ detém homem suspeito de balear jovem em coletividade de Setúbal", "Time"], ["PJ detém homem suspeito de balear jovem em coletividade de Setúbal", "Duration"], ["PJ detém homem suspeito de balear jovem em coletividade de Setúbal", "Set"]]
+Explanation:
+* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" is a date expression, as it refers to a specific point in time (the past).
+* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" is a time expression, as it refers to a specific time of day (the past).
+* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal"is a duration expression, as it refers to a specific amount of time (the past).
+* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" is a set expression, as it refers to a specific set of things (the past).
+
+Note:
+* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+* The input is a sentence from a news article, and the output is a list of time expressions extracted from the sentence.
+* The classes are defined as follows:
+																																																																																																																																																																																																																																																																																																																																																																						

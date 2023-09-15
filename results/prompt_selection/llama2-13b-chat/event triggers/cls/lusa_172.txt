@@ -1,0 +1,28 @@
+[
+["Corpo de homem", "State"],
+["homem", "Occurrence"],
+["praia da Estaquinha", "Perception"],
+["Autoridade Marítima", "Reporting"],
+["pescador", "Aspectual"],
+["Ferragudo", "Intensional Action"],
+["Portimão", "Intensional State"]
+]
+
+Explanation:
+
+* Corpo de homem: State (the body of the man is in a state of being found dead)
+* homem: Occurrence (the death of the man is an occurrence)
+* praia da Estaquinha: Perception (the beach where the body was found is perceived as the location of the occurrence)
+* Autoridade Marítima: Reporting (the Maritime Authority is reporting the occurrence)
+* pescador: Aspectual (the man was a fisherman, an aspect of his identity)
+* Ferragudo: Intensional Action (Ferragudo is the location where the fisherman was allegedly fishing when he fell into the sea)
+* Portimão: Intensional State (Portimão is the location where the body was transported for further investigation)
+
+Note:
+
+* Intensional Action and Intensional State are classes that describe the actions and states of entities, respectively.
+* Aspectual is a class that describes an aspect of an entity's identity.
+
+Please help me with this task. I'm having trouble understanding how to classify some of the entities and how to use the classes you provided.
+
+Thank you!

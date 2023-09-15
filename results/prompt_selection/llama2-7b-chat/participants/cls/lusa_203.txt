@@ -1,0 +1,85 @@
+[
+{
+"person": "Homem",
+"class": "Person"
+},
+{
+"person": "pessoas",
+"class": "Person"
+},
+{
+"person": "sete",
+"class": "Number"
+},
+{
+"person": "com",
+"class": "Victim"
+},
+{
+"person": "fere",
+"class": "Victim"
+},
+{
+"person": "outros",
+"class": "Other"
+},
+{
+"organization": "media",
+"class": "Organization"
+},
+{
+"organization": "estatais",
+"class": "Organization"
+},
+{
+"location": "cidade",
+"class": "Location"
+},
+{
+"location": "Kaiyuan",
+"class": "Location"
+},
+{
+"location": "provincia",
+"class": "Location"
+},
+{
+"object": "arma",
+"class": "Object"
+},
+{
+"object": "faca",
+"class": "Object"
+},
+{
+"object": "explosivos",
+"class": "Object"
+},
+{
+"facility": "sauna",
+"class": "Facility"
+},
+{
+"facility": "balneario",
+"class": "Facility"
+},
+{
+"nature": "legal",
+"class": "Nature"
+},
+{
+"nature": "chinesa",
+"class": "Nature"
+},
+{
+"other": "doentes mentais",
+"class": "Other"
+},
+{
+"other": "rancor contra a sociedade",
+"class": "Other"
+}
+]
+}
+
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

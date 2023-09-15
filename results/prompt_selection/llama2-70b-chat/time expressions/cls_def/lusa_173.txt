@@ -1,0 +1,24 @@
+[
+["hoje", "Date"],
+["09:56", "Time"],
+["sábado", "Date"],
+["desde sábado", "Duration"],
+["34 anos", "Duration"],
+["10:00", "Time"],
+["14:00", "Time"],
+["2023", "Date"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "hoje" (today) is a date expression.
+* "09:56" (9:56 am) is a time expression.
+* "sábado" (Saturday) is a date expression.
+* "desde sábado" (since Saturday) is a duration expression.
+* "34 anos" (34 years) is a duration expression.
+* "10:00" (10:00 am) is a time expression.
+* "14:00" (2:00 pm) is a time expression.
+* "2023" is a date expression.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class (Date, Time, Duration, or Set).

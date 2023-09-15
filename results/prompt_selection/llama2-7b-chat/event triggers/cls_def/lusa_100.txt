@@ -1,0 +1,34 @@
+[
+{
+"Violência doméstica",
+"Occurrence"
+},
+{
+"Homem detido",
+"Aspectual"
+},
+{
+"Pulseira eletrónica",
+"Intensional Action"
+},
+{
+"Vigilância eletrónica",
+"Intensional State"
+},
+{
+"Separação",
+"State"
+},
+{
+"Perseguir",
+"Action"
+},
+{
+"Botão de pânico",
+"State"
+},
+{
+"Proibido de contactar",
+"Intensional State"
+}
+]

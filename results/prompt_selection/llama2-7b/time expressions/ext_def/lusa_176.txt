@@ -1,0 +1,47 @@
+["after", "34", "years", "old", "man", "died", "after", "cyclist", "was", "hit", "by", "light", "vehicle", "in", "Setúbal"]
+
+Explanation:
+The first time expression is "after".
+The second time expression is "34 years old".
+The third time expression is "man died".
+The fourth time expression is "after cyclist was hit by light vehicle in Setúbal".
+
+Examples:
+["after", "34", "years", "old", "man", "died", "after", "cyclist", "was", "hit", "by", "light", "vehicle", "in", "Setúbal"]
+
+Constraints:
+1 <= time expressions.length <= 100
+time expressions[i] will only contain the characters [a-zA-Z] and [0-9].
+time expressions[i] will not contain any punctuation.
+time expressions[i] will not contain any whitespace.
+time expressions[i] will not contain any special characters.
+time expressions[i] will not contain any non-alphanumeric characters.
+time expressions[i] will not contain any non-ASCII characters.
+time expressions[i] will not contain any non-English characters.
+time expressions[i] will not contain any non-Latin characters.
+time expressions[i] will not contain any non-Roman characters.
+time expressions[i] will not contain any non-Western characters.
+time expressions[i] will not contain any non-Cyrillic characters.
+time expressions[i] will not contain any non-Greek characters.
+time expressions[i] will not contain any non-Hebrew characters.
+time expressions[i] will not contain any non-Arabic characters.
+time expressions[i] will not contain any non-Chinese characters.
+time expressions[i] will not contain any non-Japanese characters.
+time expressions[i] will not contain any non-Korean characters.
+time expressions[i] will not contain any non-Thai characters.
+time expressions[i] will not contain any non-Vietnamese characters.
+time expressions[i] will not contain any non-Cyrillic characters.
+time expressions[i] will not contain any non-Greek characters.
+time expressions[i] will not contain any non-Hebrew characters.
+time expressions[i] will not contain any non-Arabic characters.
+time expressions[i] will not contain any non-Chinese characters.
+time expressions[i] will not contain any non-Japanese characters.
+time expressions[i] will not contain any non-Korean characters.
+time expressions[i] will not contain any non-Thai characters.
+time expressions[i] will not contain any non-Vietnamese characters.
+time expressions[i] will not contain any non-Cyrillic characters.
+time expressions[i] will not contain any non-Greek characters.
+time expressions[i] will not contain any non-Hebrew characters.
+time expressions[i] will not contain any non-Arabic characters.
+time expressions[i] will not contain any non-Chinese characters.
+time expressions[i] will not contain any non-Japanese characters.

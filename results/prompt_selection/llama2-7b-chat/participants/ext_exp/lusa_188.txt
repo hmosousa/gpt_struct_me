@@ -1,0 +1,21 @@
+[
+"Homem de 48 anos",
+"Vítima de acidente de trabalho",
+"Mogadouro",
+"Concelho de Mogadouro",
+"Distrito de Bragança",
+"Lusa fonte dos bombeiros",
+"Comandante dos bombeiros de Mogadouro",
+"José Carrasco",
+"INEM",
+"Viatura Medica de Emergência e Reanimação",
+"VMER",
+"Instituto Nacional e Emergência Médica",
+"GNR de Mogadouro",
+"Tomou conta da ocorrência"
+]
+Explanation:
+The task is to extract all the participants involved in the accident, including the victim, the location, the emergency services, and the authorities. The output should be a JSON-parseable list of strings, with each string representing a participant.
+The input text contains several mentions of participants, including the victim, the emergency services, and the authorities. The task is to extract these mentions and convert them into a JSON-parseable list of strings.
+For example, the victim's name is mentioned as "Homem de 48 anos" in the input text. This should be extracted and included in the output list as a string. Similarly, the location where the accident occurred is mentioned as "Mogadouro" and "Concelho de Mogadouro", which should also be included in the output list.
+The output list should contain all the participants involved in the accident, including their names, positions, and the organizations they represent.

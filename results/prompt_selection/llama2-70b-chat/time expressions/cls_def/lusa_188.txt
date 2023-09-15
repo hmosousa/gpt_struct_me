@@ -1,0 +1,18 @@
+[
+["Homem de 48 anos", "Date"],
+["hoje", "Time"],
+["17 horas", "Time"],
+["48 anos", "Duration"],
+["trata-se", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "Homem de 48 anos" refers to a specific date in the past (the man's age) and can be classified as a Date.
+* "hoje" means "today" and is a Time expression.
+* "17 horas" is also a Time expression, referring to a specific time of day.
+* "48 anos" is a Duration expression, referring to a period of time that the man had lived.
+* "trata-se" is a Set expression, used to indicate that the accident involved a specific set of circumstances.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class (Date, Time, Duration, or Set).

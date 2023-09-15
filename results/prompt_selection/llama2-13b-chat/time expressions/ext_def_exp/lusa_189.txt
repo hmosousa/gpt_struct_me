@@ -1,0 +1,4 @@
+["hoje", "às 20:20", "não adiantando"]
+
+Explanation:
+The input text contains three time expressions: "hoje" (today), "às 20:20" (at 8:20 PM), and "não adiantando" (not disclosing). These expressions are extracted and listed in the output.

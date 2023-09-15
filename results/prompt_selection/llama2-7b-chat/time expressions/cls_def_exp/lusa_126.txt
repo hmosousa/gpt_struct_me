@@ -1,0 +1,58 @@
+[
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Guarda Nacional Republicana",
+"class": "Organization"
+},
+{
+"entity": "Sines",
+"class": "Location"
+},
+{
+"entity": "Setúbal",
+"class": "Location"
+},
+{
+"entity": "Tribunal Judicial de Santiago do Cacém",
+"class": "Location"
+},
+{
+"entity": "heroína",
+"class": "Drug"
+},
+{
+"entity": "cocaína",
+"class": "Drug"
+},
+{
+"entity": "numerário",
+"class": "Currency"
+},
+{
+"entity": "veículo",
+"class": "Vehicle"
+},
+{
+"entity": "telemóveis",
+"class": "Device"
+}
+]
+
+Explanation:
+The output is a list of JSON objects, where each object represents a time expression and has two fields: "entity" and "class". The "entity" field contains the name of the time expression, and the "class" field contains the class to which the time expression belongs.
+In this example, the time expressions are:
+* "GNR" (Organization)
+* "Guarda Nacional Republicana" (Organization)
+* "Sines" (Location)
+* "Setúbal" (Location)
+* "Tribunal Judicial de Santiago do Cacém" (Location)
+* "heroína" (Drug)
+* "cocaína" (Drug)
+* "numerário" (Currency)
+* "veículo" (Vehicle)
+* "telemóveis" (Device)
+
+Each of these time expressions is classified according to its semantic meaning, and the class field contains the appropriate class label.

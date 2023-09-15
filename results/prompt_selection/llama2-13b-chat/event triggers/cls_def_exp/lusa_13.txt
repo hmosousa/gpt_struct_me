@@ -1,0 +1,29 @@
+[
+["Autoridades judiciais", "State"],
+["Maximiliano Trimarchi", "Occurrence"],
+["Diego Maradona", "Aspectual"],
+["San Isidro", "Location"],
+["San André", "Location"],
+["Leopoldo Luque", "Person"],
+["Agustina Cosachov", "Person"],
+["hematoma subdural", "Aspectual"],
+["inquérito", "State"]
+]
+
+Explanation:
+
+* Autoridades judiciais: State (the authorities are in a state of performing the searches)
+* Maximiliano Trimarchi: Occurrence (the search is an occurrence)
+* Diego Maradona: Aspectual (Maradona is the aspect of the event, as he is the one affected by the search)
+* San Isidro: Location (the place where the search was performed)
+* San André: Location (the place where Maradona died)
+* Leopoldo Luque: Person (the doctor who participated in the operation)
+* Agustina Cosachov: Person (the psiquiatra who participated in the operation)
+* hematoma subdural: Aspectual (the hematoma is an aspect of the event)
+* inquérito: State (the investigation is a state of the event)
+
+Note:
+
+* The output is a list of entities and their corresponding classes, where each entity is a string and each class is a string.
+* The entities are in the first column, and the classes are in the second column.
+* The classes are based on the definition of the event triggers provided in the task.

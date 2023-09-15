@@ -1,0 +1,18 @@
+[
+{entity: "Homem", class: "Date"},
+{entity: "10:30", class: "Time"},
+{entity: "Rua da Figueirinha", class: "Location"},
+{entity: "62", class: "Age"},
+{entity: "20", class: "Age"},
+{entity: "10 anos", class: "Duration"},
+{entity: "Grijó", class: "Location"},
+{entity: "Vila Nova de Gaia", class: "Location"},
+{entity: "Porto", class: "Location"},
+{entity: "Polícia Judiciária", class: "Organization"}]
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence from a news article.
+* The task is to extract and classify all time expressions in the input sentence.
+* The classes are: Date, Time, Duration, and Location.
+* The output is a list of JSON objects, where each object representsa time expression and has two fields: entity and class.

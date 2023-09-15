@@ -1,0 +1,78 @@
+[
+{
+"entity": "Encontrado",
+"class": "corpus"
+},
+{
+"entity": "corpo",
+"class": "corpus"
+},
+{
+"entity": "homem",
+"class": "corpus"
+},
+{
+"entity": "a boiar",
+"class": "corpus"
+},
+{
+"entity": "na zona rochosa",
+"class": "corpus"
+},
+{
+"entity": "da costa leste",
+"class": "corpus"
+},
+{
+"entity": "da Terceira",
+"class": "corpus"
+},
+{
+"entity": "nos Açores",
+"class": "corpus"
+},
+{
+"entity": "detetado",
+"class": "corpus"
+},
+{
+"entity": "na segunda-feira",
+"class": "corpus"
+},
+{
+"entity": "conhecendo-se",
+"class": "corpus"
+},
+{
+"entity": "as causas da morte",
+"class": "corpus"
+},
+{
+"entity": "sem saber",
+"class": "corpus"
+},
+{
+"entity": "a PSP",
+"class": "corpus"
+},
+{
+"entity": "e o delegado de saúde",
+"class": "corpus"
+},
+{
+"entity": "confirmaram",
+"class": "corpus"
+},
+{
+"entity": "a presença do corpo",
+"class": "corpus"
+},
+{
+"entity": "de um homem",
+"class": "corpus"
+},
+{
+"entity": "de 62 anos",
+"class": "corpus"
+},
+{

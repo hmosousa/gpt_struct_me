@@ -1,0 +1,42 @@
+[
+    {
+        "entity": "Homem morto a tiro no Barreiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Um homem foi hoje morto a tiro no Barreiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "baleado com dois tiros de caçadeira",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "e o atirador está em fuga",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP)",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "indicou que o incidente ocorreu às 20:20 de hoje",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso.",
+        "class": "Occurrence"
+    }
+]
+
+Example:
+[
+    {
+        "entity": "Homem morto a tiro no Barreiro",
+        "class": "Occurrence"
+    },
+    {

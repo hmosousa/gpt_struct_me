@@ -1,0 +1,19 @@
+[
+"derrubou",
+"matou",
+"morreu",
+"sofreu",
+"ferimentos",
+"acidente",
+"derrubou",
+"poste",
+"eletricidade",
+"Rua da Constituição",
+"Porto",
+"lived",
+"Hospital de Santo António",
+"ferimentos ligeiros",
+"estructura",
+"funcionário",
+"bombas de gasolina"
+]

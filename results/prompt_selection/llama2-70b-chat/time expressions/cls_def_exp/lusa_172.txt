@@ -1,0 +1,30 @@
+[
+["hoje à tarde", "Time"],
+["60 e 70 anos", "Duration"],
+["hoje", "Date"],
+["Lagoa", "Set"],
+["Algarve", "Set"],
+["Faro", "Set"],
+["Estaquinha", "Set"],
+["Portimão", "Set"],
+["Ferragudo", "Set"],
+["Lagoa", "Set"],
+["Portimão", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+
+* "hoje à tarde" - Time (specific time of day)
+* "60 e 70 anos" - Duration (range of years)
+* "hoje" - Date (specific day)
+* "Lagoa" - Set (location)
+* "Algarve" - Set (location)
+* "Faro" - Set (location)
+* "Estaquinha" - Set (location)
+* "Portimão" - Set (location)
+* "Ferragudo" - Set (location)
+* "Lagoa" - Set (location)
+* "Portimão" - Set (location)
+
+Note that some locations appear twice in the output list, as they are mentioned twice in the input text. Also, "hoje" can be classified as both Time and Date, but for the purpose of this task, we're classifying it as Time.

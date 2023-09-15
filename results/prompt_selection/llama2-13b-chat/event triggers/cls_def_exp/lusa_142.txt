@@ -1,0 +1,30 @@
+[
+["GNR", "State"],
+["mulher", "Occurrence"],
+["droga", "Aspectual"],
+["viatura", "Perception"],
+["Estrada Nacional 122", "Location"],
+["Mértola", "Location"],
+["Beja", "Location"],
+["Tribunal Judicial de Beja", "Location"],
+["primeiro interrogatório", "Reporting"],
+["medidas de coação", "Reporting"]
+]
+
+Explanation:
+
+* GNR: State (the entity is in a state of being the GNR)
+* mulher: Occurrence (the entity is an occurrence of a woman)
+* droga: Aspectual (the entity is described as having the aspect of being drugs)
+* viatura: Perception (the entity is perceived as a vehicle)
+* Estrada Nacional 122: Location (the entity is located on the Estrada Nacional 122)
+* Mértola: Location (the entity is located in Mértola)
+* Beja: Location (the entity is located in Beja)
+* Tribunal Judicial de Beja: Location (the entity is located at the Tribunal Judicial de Beja)
+* primeiro interrogatório: Reporting (the entity is reported as being at the first interrogatory)
+* medidas de coação: Reporting (the entity is reported as having applied measures of coercion)
+
+Note:
+
+* The output is a list of pairs of entities and their corresponding classes, where each entity is represented by a string and each class is represented by a string.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

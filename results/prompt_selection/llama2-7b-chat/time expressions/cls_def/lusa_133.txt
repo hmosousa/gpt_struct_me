@@ -1,0 +1,11 @@
+[["GNR", "Date"], ["Apreensão", "Date"], ["390 quilogramas", "Duration"], ["37.500 euros", "Money"], ["segunda-feira", "Date"], ["Aveiro", "Location"], ["Guarda", "Organization"], ["infração", "Crime"], ["37.500 euros", "Money"]]
+Explanation:
+* "GNR" is a date expression, representing the date of the event.
+* "Apreensão" is a date expression, representing the date of the aprehension.
+* "390 quilogramas" is a duration expression, representing the amount of atum-rabilho aprehended.
+* "37.500 euros" is a money expression, representing the amount of money involved in the crime.
+* "segunda-feira" is a date expression, representing the day of the week when the event occurred.
+* "Aveiro" is a location expression, representing the location where the event occurred.
+* "Guarda" is anorganization expression, representing the organization involved in the event.
+* "infração" is a crime expression, representing the crime committed.
+* "37.500 euros" is a money expression, representing the amount of money involved in the crime.

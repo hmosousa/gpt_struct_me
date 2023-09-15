@@ -1,0 +1,36 @@
+[
+["Jovem", "Date"],
+["de 14 anos", "Duration"],
+["em estado grave", "Set"],
+["pós ser atropelado por autocarro", "Event"],
+["na Vila das Aves", "Location"],
+["hoje", "Date"],
+["na Rua Luís Gonzaga Mendes de Carvalho", "Location"],
+["prestar assistência", "Event"],
+["para além dos Bombeiros da Vila das Aves", "Set"],
+["esteve", "Event"],
+["a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Set"],
+["a Ambulância de Suporte Imediato de Vida de Santo Tirso", "Set"],
+["a GNR local", "Set"]
+]
+
+Explanation:
+
+* Jovem: Date (the entity is a person and the class is a date)
+* de 14 anos: Duration (the entity is a person and the class is a duration)
+* em estado grave: Set (the entityis a person and the class is a set)
+* pós ser atropelado por autocarro: Event (the entity is an action and the class is an event)
+* na Vila das Aves: Location (the entity is a place and the class is a location)
+* hoje: Date (the entity is a date and the class is a date)
+* na Rua Luís Gonzaga Mendes de Carvalho: Location (the entity is a place and the class is a location)
+* prestar assistência: Event (the entity is an action and the class is an event)
+* para além dos Bombeiros da Vila das Aves: Set (the entity is a group of people and the class is a set)
+* esteve: Event (the entity is a state and the class is an event)
+* a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão: Set (the entity is a group of people and the class is a set)
+* a Ambulância de Suporte Imediato de Vida de Santo Tirso: Set (the entityis a group of people and the class is a set)
+* a GNR local: Set (the entity is a group of people and the class is a set)
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Date, Duration, Set, Event, Location.

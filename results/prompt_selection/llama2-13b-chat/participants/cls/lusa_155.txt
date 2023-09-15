@@ -1,0 +1,27 @@
+[
+["Homem", "Person"],
+["Garrafa", "Object"],
+["Restaurante", "Facility"],
+["Palmela", "Location"],
+["Setúbal", "Location"],
+["GNR", "Organization"],
+["Lusa", "Organization"],
+["CDOS", "Organization"],
+["bombeiros", "Organization"],
+["águas de mourra", "Organization"]
+]
+
+Explanation:
+
+* "Homem" and "mulher" are both classified as "Person".
+* "Garrafa" is classified as "Object".
+* "Restaurante" is classified as "Facility".
+* "Palmela" and "Setúbal" are both classified as "Location".
+* "GNR", "Lusa", and "CDOS" are all classified as "Organization".
+* "bombeiros" and "águas de mourra" are both classified as "Organization".
+
+Note:
+
+* The output is a JSON-parseable list where each elementis a list with two strings. The first string is the entity and the second is the class.
+* The entities are in the format of a list to allow for multiple entities to be extracted from the input text.
+* The classes are in the format of a list to allow for multiple classes to be assigned to each entity.

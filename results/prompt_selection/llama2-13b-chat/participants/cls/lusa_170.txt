@@ -1,0 +1,19 @@
+[
+["Encontrado corpo de homem", "Person"],
+["Terceira", "Location"],
+["Açores", "Location"],
+["Polícia Marítima", "Organization"],
+["Polícia de Segurança Pública", "Organization"],
+["Bombeiros Voluntários da Praia da Vitória", "Organization"],
+["Hospital de Angra do Heroísmo", "Location"],
+["cadáver", "Object"]
+]
+
+Explanation:
+
+* "Encontrado corpo de homem" is a person.
+* "Terceira" and "Açores" are locations.
+* "Polícia Marítima" and "Polícia de Segurança Pública" are organizations.
+* "Bombeiros Voluntários da Praia da Vitória" is an organization.
+* "Hospital de Angra do Heroísmo" is a location.
+* "cadáver" is an object.

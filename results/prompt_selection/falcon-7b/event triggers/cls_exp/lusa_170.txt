@@ -1,0 +1,6 @@
+'m trying to extract the information from the JSON file and put it into a dictionary. I'm having trouble with the JSON file. I'm not sure how to extract the information from the JSON file. I'm not sure how to put the information into a dictionary.
+I'm using the following code:
+import json
+
+with open('data.json') as f:
+    data =

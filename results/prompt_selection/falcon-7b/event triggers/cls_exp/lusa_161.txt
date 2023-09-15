@@ -1,0 +1,50 @@
+[
+    {
+        "entity": "Homem",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Matar",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Tiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Vila Nova de Gaia",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Ex-companheira",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Matar",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Companheira",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Vila Nova de Gaia",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Homem",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Matar",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Tiro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Vila Nova de Gaia",
+        "class": "Occurrence"
+    },
+    {

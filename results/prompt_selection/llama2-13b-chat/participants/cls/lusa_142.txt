@@ -1,0 +1,26 @@
+[
+["Person", "Woman"],
+["Organization", "GNR"],
+["Object", "12,300 doses of haxixe"],
+["Location", "Mértola"],
+["Nature", "Drug trafficking"],
+["Facility", "Posto Territorial de Mértola"],
+["Other", "Tribunal Judicial de Beja"]
+]
+
+Explanation:
+
+* Person: Woman (36 years old)
+* Organization: GNR (Portuguese National Republican Guard)
+* Object: 12,300 doses of haxixe (a type of drug)
+* Location: Mértola (a town in the Alentejo region of Portugal)
+* Nature: Drug trafficking
+* Facility: Posto Territorial de Mértola (a GNR facility)
+* Other: Tribunal Judicial de Beja (a court in Beja, Portugal)
+
+Note:
+
+* "demonstrou um comportamento nervoso" is a phrase in Portuguese that can be translated to "showed nervous behavior"
+* "apurar" is a verb in Portuguese that can be translated to "to find out" or "to discover"
+* "efetuou" is a verb in Portuguese that can be translated to "to perform" or "to carry out"
+* "revisão" is a noun in Portuguese that can be translated to "review" or "inspection"

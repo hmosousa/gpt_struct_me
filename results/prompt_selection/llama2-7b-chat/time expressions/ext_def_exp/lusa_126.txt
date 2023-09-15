@@ -1,0 +1,3 @@
+[
+"GNR detém", "deteve", "dias", "horas", "minutos", "segundos", "anos", "meses", "semanas", "dias", "horas", "minutos", "segundos"]
+]

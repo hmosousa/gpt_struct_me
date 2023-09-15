@@ -1,0 +1,2 @@
+
+[ "acidente de trabalho", "queda em altura", "trabalhava numa obra de construção civil", "ferimentos", "falecer", "ambulância", "helitransportada", "hospital de referência", "alerta", "socorro", "bombeiros", "SIV", "Viatura Medica de Emergência e Reanimação", "INEM", "helicóptero", "GNR" ]

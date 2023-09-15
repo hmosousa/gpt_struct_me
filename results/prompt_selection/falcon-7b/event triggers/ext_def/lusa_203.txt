@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China",
+    "type": "event"
+  },
+  {
+    "text": "Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.",
+    "type": "event"
+  },
+  {
+    "text": "O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o suspeito sido identificado pelos media com o sobrenome Yang.",
+    "type": "event"
+  },
+  {
+    "text": "O suspeito foi detido, mas o motivo do ataque permanece desconhecido.",
+    "type": "event"
+  },
+  {
+    "text": "A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros.",
+    "type": "event"
+  },
+  {
+    "text": "Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade.",
+    "type": "event"
+  },
+  {
+    "text": "Em ataques anteriores, um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte.",
+    "type": "event"
+  },
+  {
+    "text": "Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim.",
+    "type": "event"
+  }
+]
+
+Example:
+{

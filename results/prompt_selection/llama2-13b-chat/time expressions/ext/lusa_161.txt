@@ -1,0 +1,9 @@
+[
+"10:30",
+"10 anos"
+]
+
+Explanation:
+
+* 10:30: time expression indicating the time of day when the crime occurred.
+* 10 anos: time expression indicating the duration of the relationship between the victim and the perpetrator.

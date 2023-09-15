@@ -1,0 +1,43 @@
+[
+  "GNR",
+  "a",
+  "preende",
+  "em",
+  "Aveiro",
+  "390",
+  "quilogramas",
+  "de",
+  "atum-rabilho"
+]
+
+Examples:
+[
+  "GNR",
+  "a",
+  "preende",
+  "em",
+  "Aveiro",
+  "390",
+  "quilogramas",
+  "de",
+  "atum-rabilho"
+]
+
+Knowledge:
+No knowledge base.
+
+Solution:
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.load(f)
+
+participants = [
+    participant
+    for participant in data['participants']
+    if participant not in ['GNR', 'a', 'preende', 'em', 'Aveiro', '390', 'quilogramas', 'de', 'atum-rabilho']
+]
+
+print(participants)
+```

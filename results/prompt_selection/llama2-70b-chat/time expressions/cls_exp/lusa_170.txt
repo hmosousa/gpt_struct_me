@@ -1,0 +1,14 @@
+[
+["segunda-feira", "Date"],
+["12:00 locais", "Time"],
+["13:00 em Lisboa", "Time"],
+["62 anos", "Duration"],
+["já cadáver", "Set"]
+]
+
+Explanation:
+
+* "segunda-feira" is classified as a Date.
+* "12:00 locais" and "13:00 em Lisboa" are classified as Times.
+* "62 anos" is classified as a Duration.
+* "já cadáver" is classified as a Set (a set of states, in this case, "cadáver").

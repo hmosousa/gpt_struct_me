@@ -1,0 +1,43 @@
+[
+["GNR", "State"],
+["detém", "Occurrence"],
+["suspeita", "Perception"],
+["tráfico", "Intensional Action"],
+["doses", "Aspectual"],
+["haxixe", "State"],
+["Mértola", "State"],
+["mulher", "State"],
+["36", "Aspectual"],
+["ano", "Aspectual"],
+["deteve", "Occurrence"],
+["Tribunal", "State"],
+["Judicial", "State"],
+["Beja", "State"],
+["interrogatório", "Intensional Action"],
+["eventual", "Intensional Action"],
+["aplicação", "Intensional Action"],
+["medidas", "Aspectual"],
+["coação", "State"]
+]
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese law enforcement agency.
+* "detém" is an Occurrence entity, as it refers to the act of detaining someone.
+* "suspeita" is a Perception entity, as it refers to the suspicion of wrongdoing.
+* "tráfico" is an Intensional Action entity, as it refers to the act of trafficking drugs.
+* "doses" is an Aspectual entity, as it refers to the quantity of drugs.
+* "haxixe" is a State entity, as it refers to the drug haxixe.
+* "Mértola" is a State entity, as it refers to the location where the events took place.
+* "mulher" is a State entity, as it refers to the woman who was detained.
+* "36" is an Aspectual entity, as it refers to the age of the woman.
+* "ano" is an Aspectual entity, as it refers to the year in which the events took place.
+* "deteve" is an Occurrence entity, as it refers to the act of detaining someone.
+* "Tribunal" is a State entity, as it refers to the Tribunal Judicial de Beja, a court in Portugal.
+* "Judicial" is a State entity, as it refers to the judicial system.
+* "Beja" is a State entity, as it refers to the location of the court.
+* "interrogatório" is an Intensional Action entity, as it refers to the act of interrogating someone.
+* "eventual" is an Intensional Action entity, as it refers to the potential application of measures.
+* "aplicação" is an Intensional Action entity, as it refers to the act of applying measures.
+* "medidas" is an Aspectual entity, as it refers to the measures that can be applied.
+* "coação" is a State entity, as it refers to the coercion that can be applied to someone.

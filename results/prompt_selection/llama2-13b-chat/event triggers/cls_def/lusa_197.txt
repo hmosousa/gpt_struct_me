@@ -1,0 +1,23 @@
+[
+["Grua de camião", "State"],
+["homem de 52 anos", "Occurrence"],
+["poste de iluminação", "Aspectual"],
+["hospital de Santo António", "Perception"],
+["bombas de gasolina", "Aspectual"],
+["Rua da Constituição", "Location"]
+]
+
+Explanation:
+
+* Grua de camião: State (the truck's crane is in a state of being used to derrub the post)
+* homem de 52 anos: Occurrence (the man's death is an occurrence)
+* poste de iluminação: Aspectual (the post is in a state of being derrubed)
+* hospital de Santo António: Perception (the hospital is perceived as the place where the victim was transported)
+* bombas de gasolina: Aspectual (the gasoline pumps are in a state of being used)
+* Rua da Constituição: Location (the street is located in the city)
+
+Note:
+
+* The output is a list of tuples, where each tuple contains two strings: the first string is the entity, and the second string is the class.
+* The classes are: State, Occurrence, Aspectual, Perception, and Location.
+* The entities are: Grua de camião, homem de 52 anos, poste de iluminação, hospital de Santo António, bombas de gasolina, and Rua da Constituição.

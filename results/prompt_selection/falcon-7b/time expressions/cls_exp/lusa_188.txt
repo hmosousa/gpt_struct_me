@@ -1,0 +1,28 @@
+[
+    {
+        "date": "2019-09-11T00:00:00.000Z",
+        "time": "2019-09-11T00:00:00.000Z",
+        "duration": "PT0H0M0S",
+        "class": "Homem de 48 anos morre em acidente de trabalho em Mogadouro"
+    },
+    {
+        "date": "2019-09-11T00:00:00.000Z",
+        "time": "2019-09-11T00:00:00.000Z",
+        "duration": "PT0H0M0S",
+        "class": "Um homem de 48 morre vítima de acidente de trabalho"
+    },
+    {
+        "date": "2019-09-11T00:00:00.000Z",
+        "time": "2019-09-11T00:00:00.000Z",
+        "duration": "PT0H0M0S",
+        "class": "Um homem de 48 anos morre vítima de acidente de trabalho"
+    },
+    {
+        "date": "2019-09-11T00:00:00.000Z",
+        "time": "2019-09-11T00:00:00.000Z",
+        "duration": "PT0H0M0S",
+        "class": "Um homem de 48 anos morre vítima de acidente de trabalho"
+    },
+    {
+        "date": "2019-09-11T00:00:00.000Z",
+        "time": "2019-09-11T00

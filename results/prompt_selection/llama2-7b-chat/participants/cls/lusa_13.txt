@@ -1,0 +1,43 @@
+[
+{
+"participant": "Autoridades judiciais",
+"class": "Person"
+},
+{
+"participant": "Maximiliano Trimarchi",
+"class": "Person"
+},
+{
+"participant": "Diego Maradona",
+"class": "Person"
+},
+{
+"participant": "Leopoldo Luque",
+"class": "Person"
+},
+{
+"participant": "Agustina Cosachov",
+"class": "Person"
+},
+{
+"participant": "Polícia",
+"class": "Organization"
+},
+{
+"participant": "San Isidro",
+"class": "Location"
+}
+]
+
+Explanation:
+The participants in this scenario are:
+
+* Autoridades judiciais (Judicial Authorities): A group of people responsible for the investigation and prosecution of crimes, in this case, the death of Diego Maradona.
+* Maximiliano Trimarchi (Motorista de Diego Maradona): The driver of Diego Maradona.
+* Diego Maradona (Ex-futebolista argentino): The former Argentine football player who died on November 25th.
+* Leopoldo Luque (Médico de Maradona): The doctor who treated Maradona.
+* Agustina Cosachov (Psiquiatra): The psychiatrist who treated Maradona.
+* Polícia (Police): The law enforcement agency responsible for carrying out the searches and investigations.
+* San Isidro (Província de Buenos Aires): The province where Maradona's house is located.
+
+Note: The class label is a simple string that identifies the type of participant, it can be used to group similar participants together, or to create a hierarchy of participants based on their role or nature.

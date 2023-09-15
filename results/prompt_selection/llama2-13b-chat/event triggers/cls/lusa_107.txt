@@ -1,0 +1,24 @@
+[
+["Mulher", "State"],
+["atropelada", "Occurrence"],
+["sem gravidade", "Aspectual"],
+["Torreira", "Location"],
+["Bombeiros", "Reporting"],
+["GNR", "Reporting"],
+["condutor", "Intensional Action"],
+["viatura", "Intensional Action"],
+["ferimentos", "Aspectual"],
+["hospital", "Location"]
+]
+
+Explanation:
+
+* "Mulher" is a State entity, and "atropelada" is an Occurrence trigger.
+* "sem gravidade" is an Aspectual trigger.
+* "Torreira" is a Location entity.
+* "Bombeiros" and "GNR" are both Reporting entities.
+* "condutor" is an Intensional Action entity, and "viatura" is an Intensional Action trigger.
+* "ferimentos" is an Aspectual trigger.
+* "hospital" is a Location entity.
+
+Note: The output is a JSON-parseable list, where each element is alist of two strings, representing the entity and the class.

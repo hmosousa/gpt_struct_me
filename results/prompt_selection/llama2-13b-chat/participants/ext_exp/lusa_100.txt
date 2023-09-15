@@ -1,0 +1,20 @@
+["Violência doméstica", "Pulseira eletrónica", "homem", "detido", "Penafiel", "ex-companheira", "42 anos", "GNR", "separação", "perseguiu", "residência", "trabalho", "botão de pânico", "teleassistência", "antecedentes criminais"]
+
+Explanation:
+The task is to extract all participants in the text, which are the entities that are mentioned as doing or experiencing something. In this case, the participants are:
+
+* "Violência doméstica" (the topic of the text)
+* "Pulseira eletrónica" (the device used to monitor the suspect)
+* "homem" (the suspect)
+* "detido" (the suspect was detained)
+* "Penafiel" (the location where the suspect was detained)
+* "ex-companheira" (the victim)
+* "42 anos" (the age of the victim)
+* "GNR" (the Portuguese National Republican Guard,the law enforcement agency that issued the statement)
+* "separação" (the separation between the suspect and the victim)
+* "perseguiu" (the suspect pursued the victim)
+* "residência" (the suspect's residence)
+* "trabalho" (the victim's workplace)
+* "botão de pânico" (the panic button that the victim used)
+* "teleassistência" (the teleassistance service that provided the panic button)
+* "antecedentes criminais" (the suspect's criminal record)

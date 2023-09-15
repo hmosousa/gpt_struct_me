@@ -1,0 +1,7 @@
+["ciclomotor colhido por veículo ligeiro", "homem morre após ciclomotor colhido", "óbito declarado no local", "corpo encaminhado para Medicina legal", "alerta dado às 06:55", "bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal", "viatura médica de emergência e reanimação (VMER)", "PSP"]
+
+Note:
+
+* The list of event triggers should be in the format of a JSON-parseable list of strings.
+* Each event trigger should be a unique string, with no duplicates.
+* The list should include all the event triggers present in the input text.

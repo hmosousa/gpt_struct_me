@@ -1,0 +1,19 @@
+[
+["Homem", "Person"],
+["ciclomotor", "Object"],
+["veículo ligeiro", "Object"],
+["Estrada Nacional 10-8", "Location"],
+["Mitrena", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro (CDOS)", "Organization"],
+["Hospital de São Bernardo", "Facility"],
+["bombeiros", "Organization"],
+["veículos", "Object"],
+["VMER", "Object"],
+["Palmela", "Location"],
+["Sapadores de Setúbal", "Organization"]
+]
+
+Note:
+The output is a list of pairs, where each pair consists of the entity mentioned in the text and its corresponding class. The classes are based on the definitions provided in the task description.

@@ -1,0 +1,17 @@
+[
+"Homem mata sete pessoas",
+"Faca",
+"Nordeste da China",
+"Kaiyuan",
+"Liaoning",
+"Suspeito Yang",
+"Detido",
+"Motivo desconhecido",
+"Law restricts gun sales",
+"Ataques in massa with knives or homemade explosives",
+"Past attackers described as mentally ill or holding grudges against society",
+"School security guard wounds 39 with knife in kindergarten attack",
+"Death sentence",
+"2018 attack in Beijing",
+"Man kills one and injures 12 with knife in shopping mall attack"
+]

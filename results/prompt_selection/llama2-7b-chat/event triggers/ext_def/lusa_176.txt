@@ -1,0 +1,20 @@
+[
+"Homem morre",
+"ciclomotor",
+"ser colhido",
+"veículo ligeiro",
+"Estrada Nacional 10-8",
+"Mitrena",
+"Setúbal",
+"PSP",
+"Proteção Civil",
+"Comando Distrital de Operações de Socorro",
+"CDOS",
+"Hospital de São Bernardo",
+"Palmela",
+"Sapadores de Setúbal",
+"bombeiros",
+"VMER",
+"PSP",
+"emerência e reanimação"
+]

@@ -1,0 +1,9 @@
+[
+  ["Mulher", "Occurrence"],
+  ["Mulher", "State"],
+  ["Mulher", "Perception"],
+  ["Mulher", "Aspectual"],
+  ["Mulher", "Intensional Action"],
+  ["Mulher", "Intensional State"]
+]
+

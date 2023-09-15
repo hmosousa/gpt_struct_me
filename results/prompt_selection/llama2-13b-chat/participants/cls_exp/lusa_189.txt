@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["Barreiro", "Location"],
+["caçadeira", "Object"],
+["atirador", "Person"],
+["fuga", "Other"],
+["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"],
+["Polícia Judiciária", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Barreiro" is a location.
+* "caçadeira" is an object.
+* "atirador" is a person.
+* "fuga" is an other.
+* "Direção Nacional da Polícia de Segurança Pública (PSP)" is an organization.
+* "Polícia Judiciária" is an organization.
+
+Note:
+
+* The output is a list of lists, where each inner list contains two strings: the entity and the class.
+* The classes are: Person, Organization, Object, Location, Other.
+* The entities are: Homem, Barreiro, caçadeira, atirador, fuga, Direção Nacional da Polícia de Segurança Pública (PSP), Polícia Judiciária.

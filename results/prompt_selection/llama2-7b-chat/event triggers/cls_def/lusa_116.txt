@@ -1,0 +1,42 @@
+[
+{
+"Jovem",
+"State"
+},
+{
+"Autocarro",
+"Object"
+},
+{
+"Vila das Aves",
+"Place"
+},
+{
+"Hospital São João",
+"Place"
+},
+{
+"Rua Luís Gonzaga Mendes de Carvalho",
+"Place"
+},
+{
+"Proteção Civil",
+"Organization"
+},
+{
+"Bombeiros",
+"Organization"
+},
+{
+"Viatura Médica",
+"Organization"
+},
+{
+"Ambulância",
+"Organization"
+},
+{
+"GNR",
+"Organization"
+}
+]

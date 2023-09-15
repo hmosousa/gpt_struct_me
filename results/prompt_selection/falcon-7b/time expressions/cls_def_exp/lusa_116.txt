@@ -1,0 +1,58 @@
+[
+    {
+        "entity": "Jovem",
+        "class": "Person"
+    },
+    {
+        "entity": "de 14 anos",
+        "class": "Age"
+    },
+    {
+        "entity": "em estado grave",
+        "class": "Condition"
+    },
+    {
+        "entity": "após ser atropelado",
+        "class": "Event"
+    },
+    {
+        "entity": "por autocarro",
+        "class": "Transport"
+    },
+    {
+        "entity": "em Santo Tirso",
+        "class": "Location"
+    },
+    {
+        "entity": "concelho de Santo Tirso",
+        "class": "Place"
+    },
+    {
+        "entity": "um jovem de 14 anos",
+        "class": "Person"
+    },
+    {
+        "entity": "ficou hoje",
+        "class": "Time"
+    },
+    {
+        "entity": "em estado grave",
+        "class": "Condition"
+    },
+    {
+        "entity": "após ter sido atropelado",
+        "class": "Event"
+    },
+    {
+        "entity": "por autocarro",
+        "class": "Transport"
+    },
+    {
+        "entity": "em Santo Tirso",
+        "class": "Location"
+    },
+    {
+        "entity": "concelho de Santo Tirso",
+        "class": "Place"
+    },
+    {

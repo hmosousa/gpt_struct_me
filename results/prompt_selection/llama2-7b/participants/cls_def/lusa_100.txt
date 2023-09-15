@@ -1,0 +1,28 @@
+[
+  ["Violência doméstica", "Person"],
+  ["Pulseira eletrónica", "Object"],
+  ["Penafiel", "Location"],
+  ["Porto", "Location"],
+  ["Violência física", "Nature"],
+  ["Injúrias", "Nature"],
+  ["Ameaças de morte", "Nature"],
+  ["Separação", "Nature"],
+  ["Perseguir", "Nature"],
+  ["Residência", "Location"],
+  ["Local de trabalho", "Location"],
+  ["Botão de pânico", "Object"],
+  ["Teleassistência", "Other"]
+]
+
+Explanation:
+
+Person: Violência doméstica
+
+Object: Pulseira eletrónica
+
+Location: Penafiel, Porto
+
+Nature: Violência física, injúrias, ameaças de morte
+
+Other: Separação, perseguir, residência, local de trabalho, botão de pânico, teleassistência
+

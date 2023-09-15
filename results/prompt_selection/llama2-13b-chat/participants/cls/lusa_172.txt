@@ -1,0 +1,27 @@
+[
+["Corpo", "Object"],
+["homem", "Person"],
+["Lagoa", "Location"],
+["Algarve", "Location"],
+["praia da Estaquinha", "Location"],
+["Autoridade Marítima", "Organization"],
+["Estação Salva-vidas de Ferragudo", "Organization"],
+["delegada de saúde de Lagoa", "Person"],
+["gabinete de medicina legal de Portimão", "Location"]
+]
+
+Explanation:
+
+* Corpo is an object.
+* homem is a person.
+* Lagoa and Algarve are locations.
+* praia da Estaquinha is a location.
+* Autoridade Marítima is an organization.
+* Estação Salva-vidas de Ferragudo is an organization.
+* delegada de saúde de Lagoa is a person.
+* gabinete de medicina legal de Portimão is a location.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are in the first column and the classes are in the second column.

@@ -1,0 +1,38 @@
+[
+{
+"entity": "Jovem de 14 anos",
+"class": "State"
+},
+{
+"entity": "Autocarro",
+"class": "Object"
+},
+{
+"entity": "Vila das Aves",
+"class": "Location"
+},
+{
+"entity": "Hospital São João",
+"class": "Location"
+},
+{
+"entity": "Rua Luís Gonzaga Mendes de Carvalho",
+"class": "Location"
+},
+{
+"entity": "Bombeiros da Vila das Aves",
+"class": "Organization"
+},
+{
+"entity": "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão",
+"class": "Organization"
+},
+{
+"entity": "Ambulância de Suporte Imediato de Vida de Santo Tirso",
+"class": "Organization"
+},
+{
+"entity": "GNR local",
+"class": "Organization"
+}
+]

@@ -1,0 +1,14 @@
+["Homem de 48 anos morre em acidente de trabalho em Mogadouro", "Occurrence"]
+["Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.", "Reporting"]
+["Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.", "Perception"]
+["O alerta foi dado cerca das 17 horas.", "Aspectual"]
+["Nas operações de socorro estiveramenvolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).", "Intensional Action"]
+["Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros", "Intensional State"]
+
+Expected Output:
+["Homem de 48 anos morre em acidente de trabalho em Mogadouro", "Occurrence"]
+["Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.", "Reporting"]
+["Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.", "Perception"]
+["O alerta foi dado cerca das 17 horas.", "Aspectual"]
+["Nas operações de socorro estiveramenvolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)..", "Intensional Action"]
+["Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros", "Intensional State"]

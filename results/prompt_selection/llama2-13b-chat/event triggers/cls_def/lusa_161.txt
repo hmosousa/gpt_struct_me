@@ -1,0 +1,30 @@
+[
+["Homem", "State"],
+["ex-companheira", "Occurrence"],
+["tiro", "Occurrence"],
+["arma de fogo", "Aspectual"],
+["suicídio", "Intensional Action"],
+["Rua da Figueirinha", "Perception"],
+["Grijó", "Perception"],
+["Vila Nova de Gaia", "Perception"],
+["distrito do Porto", "Perception"],
+["62 anos", "Intensional State"],
+["20 anos mais nova", "Intensional State"]
+]
+
+Explanation:
+
+* Homem: State (the man is in a state of being the perpetrator of the crime)
+* ex-companheira: Occurrence (the death of the woman is an event that occurred)
+* tiro: Occurrence (the shooting is an event that occurred)
+* arma de fogo: Aspectual (the weapon used is relevant to the event)
+* suicídio: Intensional Action (the man's intent to commit suicide is an action that is relevant to the event)
+*Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto: Perception (these are locations that are relevant to the event)
+* 62 anos, 20 anos mais nova: Intensional State (the ages of the man and the victim are relevant to the event)
+
+Note:
+
+* State and Occurrence are the most common classes in the list, as events are often described in terms of their effects on the state of things or the occurrence of a specific action.
+* Aspectual and Intensional Action are used to describe the attributes of the events, such as the weapon used or the intent behind the action.
+* Perception is used to describe the locations and other sensory information that are relevant to the event.
+* Intensional State is used to describe the state of affairs that is relevant to the event, such as the ages of the parties involved.

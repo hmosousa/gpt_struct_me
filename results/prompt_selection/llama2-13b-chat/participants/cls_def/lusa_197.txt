@@ -1,0 +1,17 @@
+[
+["Grua de camião", "Object"],
+["homem de 52 anos", "Person"],
+["funcionário de bombas de gasolina", "Person"],
+["Rua da Constituição", "Location"],
+["Hospital de Santo António", "Location"],
+["PSP", "Organization"]
+]
+
+Explanation:
+
+* Grua de camião: Object
+* homem de 52 anos: Person
+* funcionário de bombas de gasolina: Person
+* Rua da Constituição: Location
+* Hospital de Santo António: Location
+* PSP: Organization

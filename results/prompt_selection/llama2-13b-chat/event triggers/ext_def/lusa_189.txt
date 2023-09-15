@@ -1,0 +1,8 @@
+["Homem morto a tiro no Barreiro", "atirador em fuga", "20:20", "hoje", "suspeita de homicídio envolvendo armas de fogo", "Polícia Judiciária"]
+
+Note:
+- "hoje" is not a trigger, it's a temporal adverb.
+- "20:20" is not a trigger, it's a temporal phrase.
+- "suspeita de homicídio envolvendo armas de fogo" is not a trigger, it's a descriptive phrase.
+
+Please, help me to extract the event triggers from the text.

@@ -1,0 +1,26 @@
+[
+["PJ", "Date"],
+["quarta-feira", "Date"],
+["hoje", "Date"],
+["Alto da Guerra", "Location"],
+["sexagenário", "Duration"],
+["jovem", "Duration"],
+["ombro e braço", "Duration"],
+["homicídio qualificado", "Set"],
+["detenção de arma proibida", "Set"],
+["omissão de auxílio", "Set"],
+["primeiro interrogatório judicial", "Date"],
+["coação de prisão preventiva", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding classification:
+
+* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" - "PJ" is a date expression (Polícia Judiciária) and "hoje" is also a date expression (today).
+* "A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira" - "passada quarta-feira" is a date expression (last Wednesday).
+* "Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade, no Alto da Guerra" - "Alto da Guerra" is a location expression.
+* "A polícia adianta que o sexagenário acabou por alvejar um jovem do grupo com um disparo de arma de fogo, provocando-lhe ferimentos consideráveis num ombro e braço" - "sexagenário" is a duration expression (63 years old) and "jovem" is also a duration expression (young). "ombro e braço" is also a duration expression (shoulder and arm).
+* "O detido, que fugiu do local,está indiciado pelos crimes de homicídio qualificado na forma tentada, detenção de arma proibida e omissão de auxílio" - "homicídio qualificado" is a set expression (qualified murder), "detenção de arma proibida" is also a set expression (prohibited weapon detention), and "omissão de auxílio" is also a set expression (failure to assist).
+* "Já foi presente a primeiro interrogatório judicial, tendo-lhe sido aplicada a medida de coação de prisão preventiva" - "Já" is a date expression (already) and "primeiro interrogatório judicial" is also a date expression (first judicial interrogation). "coação de prisão preventiva" is a set expression (preventive detention).
+
+The output is a JSON-parseable list where each element is a list with two strings: the first string is the entity, and the second is the class. The classes are "Date", "Time", "Duration", and "Set".

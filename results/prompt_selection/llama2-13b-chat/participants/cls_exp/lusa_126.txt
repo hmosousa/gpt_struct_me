@@ -1,0 +1,23 @@
+[
+["GNR", "Organization"],
+["homens", "Person"],
+["tráfico de droga", "Object"],
+["Sines", "Location"],
+["estupefacientes", "Object"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["numerário", "Object"],
+["veículo", "Object"],
+["telemóveis", "Object"],
+["Tribunal Judicial de Santiago do Cacém", "Location"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* homens is a person.
+* tráfico de droga is an object.
+* Sines is a location.
+* estupefacientes, heroína, cocaína, and numerário are objects.
+* veículo and telemóveis are objects.
+* Tribunal Judicial de Santiago do Cacém is a location.

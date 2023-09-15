@@ -1,0 +1,23 @@
+[
+"mata",
+"ferem",
+"ataque",
+"com uma faca",
+"nordeste da China",
+"Kaiyuan",
+"provincia de Liaoning",
+"suspeito",
+"Yang",
+"detido",
+"motivo",
+"arma de fogo",
+"ataques em massa",
+"facas ou explosivos caseiros",
+"doentes mentais",
+"rancor contra a sociedade",
+"escola",
+"jardim de infância",
+"região sul de Guangxi",
+"condeixo",
+"Pequim"
+]

@@ -1,0 +1,14 @@
+[
+"homem morre",
+"esfaqueado",
+"Lisboa",
+"mercado de Arroios",
+"desentendimento",
+"arme branca",
+"zona das costas",
+"suspeito",
+"tentativa de fuga",
+"polícia judiciária",
+"PJ",
+"crime de homicídio"
+]

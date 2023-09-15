@@ -1,0 +1,35 @@
+[
+["Encontrado corpo de homem", "Occurrence"],
+["corpo de um homem", "State"],
+["a boiar", "Aspectual"],
+["na costa da Terceira", "Location"],
+["desconhecendo-se as causas da morte", "Intensional State"],
+["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Reporting"],
+["Polícia de Segurança Pública (PSP)", "Reporting"],
+["piquete da Polícia Marítima de Angra do Heroísmo", "Reporting"],
+["delegado de saúde", "Reporting"],
+["corpo de um homem, de 62 anos", "State"],
+["já cadáver", "State"],
+["local", "Location"],
+["zona de difícil acesso", "Location"],
+["Hospital de Angra do Heroísmo", "Location"],
+["autopsiado", "Intensional Action"]
+]
+
+Note:
+
+* "Encontrado corpo de homem" is classified as Occurrence because it refers to the event of finding a dead body.
+* "corpo de um homem" is classified as State because it refers to the physical state of the body.
+* "a boiar" is classified as Aspectual because it refers to the way the body was found, floating.
+* "na costa da Terceira" is classified as Location because it refers to the place where the body was found.
+* "desconhecendo-se as causas da morte" is classified as Intensional State because it refers to the unknown circumstances surrounding the death.
+* "Comando-Local da Polícia Marítima de Angra do Heroísmo" is classified as Reporting because it refers to the authority that received the information.
+* "Polícia de Segurança Pública (PSP)" is classified as Reporting because it refers to the authority that received the information.
+* "piquete da Polícia Marítima de Angra do Heroísmo" is classified as Reporting because it refers to the authority that received the information.
+* "delegado de saúde" is classified as Reporting because it refers to the authority that received the information.
+* "corpo de um homem, de 62 anos" is classified as State because it refers to the physical state of the body.
+* "já cadáver" is classified as State because it refers to the physical state of the body.
+* "local" is classified as Location because it refers to the place where the body was found.
+* "zona de difícil acesso" is classified as Location because it refers to the place where the body was found.
+* "Hospital de Angra do Heroísmo" is classified as Location because it refers to the place where the body was taken.
+* "autopsiado" is classified as Intensional Action because it refers to the action of performing an autopsy to determine the cause of death.

@@ -1,0 +1,19 @@
+[
+{entity: "Homem", class: "Person" },
+{entity: "Mulher", class: "Person" },
+{entity: "Penafiel", class: "Location" },
+{entity: "Porto-Este", class: "Location" },
+{entity: "Ministério Público", class: "Organization" },
+{entity: "Polícia Judiciária", class: "Organization" },
+{entity: "Juiz de Instrução", class: "Person" },
+{entity: "Instituição de Acolhimento", class: "Location" }
+]
+
+Explanation:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+In this output, we have the following entities and classes:
+* Person: Homem, Mulher
+* Location: Penafiel, Porto-Este
+* Organization: Ministério Público, Polícia Judiciária, Juiz de Instrução
+* Institution: Instituiçãode Acolhimento
+Note that some entities have multiple classes, as they can be classified in different ways depending on the context. For example, "Penafiel" can be classified as both a location and a city, while "Juiz de Instrução" can be classified as both a person and an institution.

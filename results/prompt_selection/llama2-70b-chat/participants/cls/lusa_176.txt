@@ -1,0 +1,27 @@
+[
+["Homem", "Person"],
+["ciclomotor", "Object"],
+["veículo ligeiro", "Object"],
+["Estrada Nacional 10-8", "Location"],
+["Mitrena", "Location"],
+["Setúbal", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["Hospital de São Bernardo", "Facility"],
+["Palmela", "Location"],
+["Sapadores de Setúbal", "Organization"],
+["VMER", "Object"],
+["emergência e reanimação", "Nature"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are the ones you defined.
+
+This task is a classic example of named entity recognition (NER) and classification. Your goal is to identify and classify all the entities in the given text into the predefined classes.
+
+You can use any technique or tool you like tosolve this task. Some popular approaches for NER include rule-based methods, machine learning models, and deep learning models like BERT and its variants.
+
+You can also use pre-trained NER models and fine-tune them on your dataset to improve performance.
+
+Please submit your solution in the format specified above. Good luck!

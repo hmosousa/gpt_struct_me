@@ -1,0 +1,1 @@
+["Homem de 29 anos", "PSP", "Cometlis", "Lisboa", "rua Ângela Pinto", "café", "suspeito", "Avenida Almirante Reis", "Polícia Judiciária"]

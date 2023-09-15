@@ -1,0 +1,18 @@
+[
+["2017", "Date"],
+["hoje", "Date"],
+["desde 2017", "Duration"],
+["até a atualidade", "Duration"],
+["algumas vezes", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "2017" is a specific year and can be classified as a Date.
+* "hoje" means "today" and can also be classified as a Date.
+* "desde 2017" means "since 2017" and can be classified as a Duration.
+* "até a atualidade" means "until the present" and can also be classified as a Duration.
+* "algumas vezes" means "sometimes" and can be classified as a Set.
+
+Note that the classes used in this task are specific to the context of temporal expressions in Portuguese, and may not be directly applicable to other languages or contexts.

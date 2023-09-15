@@ -1,0 +1,38 @@
+[
+{
+"Jovem",
+"Person"
+},
+{
+"Autocarro",
+"Object"
+},
+{
+"Vila das Aves",
+"Location"
+},
+{
+"Proteção Civil",
+"Organization"
+},
+{
+"Hospital São João",
+"Facility"
+},
+{
+"Bombeiros",
+"Organization"
+},
+{
+"Viatura Médica",
+"Facility"
+},
+{
+"Ambulância",
+"Facility"
+},
+{
+"GNR",
+"Organization"
+}
+]

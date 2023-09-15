@@ -1,0 +1,79 @@
+[
+    {
+        "entity": "Homem",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Morre",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Lisboa",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pública",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Comissão de Segurança Pú

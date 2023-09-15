@@ -1,0 +1,28 @@
+[
+["Homem", "Set"],
+["69 anos", "Date"],
+["hoje", "Time"],
+["após", "Duration"],
+["à tarde", "Time"],
+["proibido", "Set"],
+["ambulância", "Set"],
+["outra", "Set"],
+["por meios próprios", "Set"],
+["bombeiros", "Set"]
+]
+
+Explanation:
+The input text contains several time expressions that can be classified into different categories. Here's a breakdown of each time expression and its corresponding class:
+
+* "Homem" - Set (this is not a time expression, but a noun referring to a person)
+* "69 anos" - Date (this is a numerical date expression representing the age of the man)
+* "hoje" - Time (this is a time expression indicating the current day)
+* "após" - Duration (this is a time expression indicating "after" or "later")
+* "à tarde" - Time (this is a time expression indicating the afternoon)
+* "proibido" - Set(this is not a time expression, but a verb meaning "forbidden")
+* "ambulância" - Set (this is not a time expression, but a noun referring to an ambulance)
+* "outra" - Set (this is not a time expression, but a pronoun referring to another person)
+* "por meios próprios" - Set (this is not a time expression, but a phrase indicating that someone was transported by their own means)
+* "bombeiros" - Set (this is not a time expression, but a noun referring to firefighters)
+
+The output is a list of pairs, where each pair consists of the time expression and its corresponding class.

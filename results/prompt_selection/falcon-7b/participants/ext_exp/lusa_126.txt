@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "João",
+    "age": "34"
+  },
+  {
+    "id": "2",
+    "name": "Pedro",
+    "age": "43"
+  }
+]
+
+I'm trying to parse the JSON file into a list of strings, but I'm getting an error.
+I've tried to use JSON.parse() and JSON.parse(data) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'm getting an error.
+I've tried to use JSON.parse(data, function(err, result){console.log(result)}) but I'

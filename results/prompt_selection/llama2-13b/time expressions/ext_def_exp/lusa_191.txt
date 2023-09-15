@@ -1,0 +1,10 @@
+["2019-05-15T10:54:00Z", "2019-05-15T14:34:00Z"]
+
+Explanation:
+The first time expression is "10:54" and the second one is "14:34".
+
+Note:
+The time expressions are in the format "HH:MM".
+
+Reference:
+https://www.w3.org/TR/time-ml/#temporal-expression

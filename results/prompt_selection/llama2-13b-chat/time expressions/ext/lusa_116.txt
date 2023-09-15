@@ -1,0 +1,9 @@
+[
+"18:16",
+"hoje"
+]
+
+Explanation:
+
+* 18:16: time of the accident
+* hoje: today (in Portuguese)

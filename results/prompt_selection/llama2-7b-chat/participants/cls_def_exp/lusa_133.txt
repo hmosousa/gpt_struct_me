@@ -1,0 +1,12 @@
+[["GNR", "Organization"], ["condutor do veículo", "Person"], ["mestre da embarcação", "Person"], ["atu-rabilho", "Object"], ["Aveiro", "Location"], ["Gafanha da Nazaré", "Location"], ["390 quilogramas", "Quantity"], ["37.500 euros", "Quantity"], ["infração punível", "Nature"], ["instituição de solidariedade social", "Other"]]
+Explanation:
+* "GNR" is an organization.
+* "condutor do veículo" is a person.
+* "mestre da embarcação" is a person.
+* "atu-rabilho" is an object.
+* "Aveiro" is a location.
+* "Gafanha da Nazaré" is a location.
+* "390 quilogramas" is a quantity.
+* "37.500 euros" is a quantity.
+* "infração punível" is a nature.
+* "instituição de solidariedade social" is an other.

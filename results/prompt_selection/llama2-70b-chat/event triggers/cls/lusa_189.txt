@@ -1,0 +1,26 @@
+[
+["Homem", "State"],
+["morto", "Occurrence"],
+["tiro", "Reporting"],
+["Barreiro", "Location"],
+["atirador", "Perception"],
+["em fuga", "Aspectual"],
+["homicídio", "Intensional Action"],
+["investigação", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to a person's death, which is a state of being.
+* "morto" is classified as "Occurrence" because it refers to the fact that the person died, which is an event that occurred.
+* "tiro" is classified as "Reporting" because it refers to the act of shooting, which is an action that is being reported.
+* "Barreiro" is classified as "Location" because it refers to the location where the shooting took place.
+* "atirador" is classified as "Perception" because it refers to the person who pulled the trigger, which is a perception of the event.
+* "em fuga" is classified as "Aspectual" because it refers to the fact that the shooter is currently fleeing, which is an aspect of the event.
+* "homicídio" is classified as "Intensional Action" because it refers to the act of killing someone, which is an intentional action.
+* "investigação" is classified as "Intensional State" because it refers to the state of being investigated, which is an intentional state.
+
+Note:
+
+* The class "Location" could also be classified as "State", but in this case, it is more appropriate to classify it as "Location" because it refers to a specific place where the event occurred, rather than a state of being.
+* The class "Aspectual" could also be classified as "Reporting", but in this case, it is more appropriate to classify it as "Aspectual" because it refers to an aspect of the event, rather than the act of reporting it.

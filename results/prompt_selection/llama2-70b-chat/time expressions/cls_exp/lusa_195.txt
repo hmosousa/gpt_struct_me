@@ -1,0 +1,29 @@
+[
+["PJ", "Date"],
+["quarta-feira", "Date"],
+["hoje", "Date"],
+["Alto da Guerra", "Location"],
+["sexagenário", "Duration"],
+["jovem", "Duration"],
+["ombro e braço", "Duration"],
+["homicídio qualificado", "Set"],
+["detenção de arma proibida", "Set"],
+["omissão de auxílio", "Set"],
+["primeiro interrogatório judicial", "Date"],
+["coação de prisão preventiva", "Set"]
+]
+
+Explanation:
+
+* "PJ" is classified as "Date" because it refers to the day of the week (Wednesday) when the event occurred.
+* "quarta-feira" is classified as "Date" because it refers to the day of the week (Wednesday) when the event occurred.
+* "hoje" is classified as "Date" because it refers to the current day.
+* "Alto da Guerra" is classified as "Location" becauseit refers to a specific location where the event occurred.
+* "sexagenário" is classified as "Duration" because it refers to a period of time (60 years) that the person has lived.
+* "jovem" is classified as "Duration" because it refers to a period of time (youth) that the person is in.
+* "ombro e braço" is classified as "Duration" because it refers to a period of time (shoulder and arm) that the person was injured.
+* "homicídio qualificado" is classified as "Set" because it refers to a set of circumstances (qualified homicide) that the person is accused of.
+* "detenção de arma proibida" is classified as "Set" because it refers to a set of circumstances (prohibited weapon) that the person is accused of.
+* "omissão de auxílio" is classified as "Set" because it refers to a set of circumstances (omission of aid) that the person is accused of.
+* "primeiro interrogatório judicial" is classified as "Date" because it refers to the day of the first judicial interrogation.
+* "coação de prisão preventiva" is classified as "Set" because it refers to a set of circumstances (preventive detention) that the person is under.

@@ -1,0 +1,20 @@
+[
+"Homem",
+"mata",
+"ex-companheira",
+"Vila Nova de Gaia",
+"um homem",
+"disparo",
+"arma de fogo",
+"tentar o suicídio",
+"GNR",
+"Rua da Figueirinha",
+"Grijó",
+"Vila Nova de Gaia",
+"distrito do Porto",
+"62 anos",
+"20 anos mais nova",
+"relação",
+"terminar a relação",
+"Polícia Judiciária"
+]

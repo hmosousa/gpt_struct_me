@@ -1,0 +1,7 @@
+[
+"Polícia Judiciária (PJ)",
+"homem de 63 anos",
+"jovem",
+"grupo de convivas",
+"vítima"
+]

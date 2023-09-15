@@ -1,0 +1,9 @@
+[
+  ["Homem", "Occurrence"],
+  ["Homem", "State"],
+  ["Homem", "Perception"],
+  ["Homem", "Aspectual"],
+  ["Homem", "Intensional Action"],
+  ["Homem", "Intensional State"]
+]
+

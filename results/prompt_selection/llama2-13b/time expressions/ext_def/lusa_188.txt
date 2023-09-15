@@ -1,0 +1,17 @@
+["48 anos", "48", "anos", "morre", "acidente", "trabalho", "Mogadouro", "Um", "homem", "48", "morreu", "hoje", "vítima", "acidente", "trabalho", "localidade", "Vilarinhos", "Galegos", "Concelho", "Mogadouro", "distrito", "Bragança", "Trata-se", "acidente", "envolve", "queda", "altura", "trabalhava", "obra", "construção", "civil", "vítima", "acabaria", "resistir", "ferimentos", "falecer", "transportada", "campo", "futebol", "helitransportada", "hospital", "referência", "alerta", "dado", "cerca", "17", "horas", "operações", "socorro", "envolvido", "meios", "bombeiros", "Mogadouro", "ambulância", "Suporte", "Imediato", "Vida", "VMER", "INEM", "acionado", "helicóptero", "Macedo", "Cavaleiros", "GNR", "tomou", "cont", "ocorrência"]
+
+Explanation:
+The task is to extract all time expressions from the given text.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output should be a JSON-parseable list of strings.
+
+Input:
+"Homem de 48 anos morre em acidente de trabalho em Mogadouro
+Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.
+"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.
+O alerta foi dado cerca das 17 horas.
+Nas operações de socorro estiveram envolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).
+Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros
+A GNR de Mogadouro tomou conta da o

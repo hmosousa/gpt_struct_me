@@ -1,0 +1,30 @@
+[
+["Jovem de 14 anos", "Person"],
+["Um jovem de 14 anos", "Person"],
+["autocarro", "Object"],
+["Vila das Aves", "Location"],
+["Proteção Civil", "Organization"],
+["Bombeiros da Vila das Aves", "Organization"],
+["Hospital São João", "Facility"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
+["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Organization"],
+["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Organization"],
+["GNR local", "Organization"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and classes. Your goal is to extract and classify all participants in the given text.
+
+You can use the same approach as before, but you'll need to adjust the rules to match the new classes and inputtext.
+
+Here's a hint to get you started:
+
+1. Start by identifying the entities in the text. You can use a technique like named entity recognition to help you identify them.
+2. Once you have a list of entities, you can start classifying them into the different classes.
+3. Use a combination of rules and heuristics to determine the class of each entity. For example, you can use the context in which the entity appears to help determine its class.
+4. Test your approach on a few examples to make sure it's working correctly.
+5. Finally, output the list of classified entities in the format specified in the task.
+
+Good luck! Let me know if you have any questions or need further clarification.

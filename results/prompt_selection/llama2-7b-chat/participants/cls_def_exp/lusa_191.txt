@@ -1,0 +1,28 @@
+[
+{
+"participants": [
+{
+"entity": "Homem",
+"class": "Person"
+},
+{
+"entity": "Mercado de Arroios",
+"class": "Location"
+},
+{
+"entity": "PSP",
+"class": "Organization"
+},
+{
+"entity": "Comando Metropolitano de Lisboa",
+"class": "Organization"
+},
+{
+"entity": "Suspeito",
+"class": "Person"
+}
+]
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

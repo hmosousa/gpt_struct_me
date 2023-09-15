@@ -1,0 +1,16 @@
+[
+{entity: "Homem de 48 anos", class: "Occurrence"},
+{entity: "Acidente de trabalho", class: "Occurrence"},
+{entity: "Queda em altura", class: "Occurrence"},
+{entity: "Vítima", class: "Aspectual"},
+{entity: "Ferimentos", class: "Aspectual"},
+{entity: "Transportada", class: "Action"},
+{entity: "Ambulância", class: "Object"},
+{entity: "Campo de futebol", class: "Location"},
+{entity: "Hospital de referência", class: "Location"},
+{entity: "INEM", class: "Organization"},
+{entity: "GNR", class: "Organization"}
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

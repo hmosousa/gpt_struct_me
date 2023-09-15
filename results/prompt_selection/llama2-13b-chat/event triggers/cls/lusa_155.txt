@@ -1,0 +1,34 @@
+[
+["Homem", "State"],
+["Garrafa", "Occurrence"],
+["Restaurante", "Aspectual"],
+["Palmela", "Location"],
+["Setúbal", "Location"],
+["GNR", "Reporting"],
+["Lusa", "Reporting"],
+["Proprietário do restaurante", "Intensional Action"],
+["Mulher", "Intensional Action"],
+["Fugida", "Intensional Action"],
+["Automóvel", "Intensional Action"],
+["Consumo de bebidas alcoólicas", "Perception"],
+["Proibido o consumo de álcool na via pública", "Perception"],
+["Ferimentos ligeiros", "Aspectual"],
+["Hospital de São Bernardo", "Aspectual"],
+["Bombeiros da corporação de Águas de Moura", "Aspectual"]
+]
+
+Explanation:
+
+* "Homem" and "Garrafa" are in the "State" class because they are the entities that are in a state (the man is injured andthe glass is the weapon used in the attack).
+* "Restaurante" is in the "Aspectual" class because it is the place where the event occurred.
+* "Palmela" and "Setúbal" are in the "Location" class because they are the locations where the event occurred.
+* "GNR" and "Lusa" are in the "Reporting" class because they are the sources that reported the event.
+* "Proprietário do restaurante" is in the "Intensional Action" class because it is the action performed by the owner of the restaurant (not allowing the woman to consume alcoholic beverages).
+* "Mulher" is in the "Intensional Action" class because it is the action performed by the woman (attacking the man with a glass).
+* "Fugida" is in the "Intensional Action" class because it is the action performed by the woman (fleeing the scene in a car).
+* "Automóvel" is in the "Intensional Action" class because it is the means by which the woman fled the scene.
+* "Consumo de bebidasalcoólicas" is in the "Perception" class because it is the perception of the event (the woman was drinking alcoholic beverages).
+* "Proibido o consumo de álcool na via pública" is in the "Perception" class because it is the perception of the event (the owner of the restaurant did not allow the woman to consume alcoholic beverages in public).
+* "Ferimentos ligeiros" is in the "Aspectual" class because it is a characteristic of the event (the man and two other people suffered minor injuries).
+* "Hospital de São Bernardo" is in the "Aspectual" class because it is a location related to the event (the man and the two other people were taken to the hospital).
+* "Bombeiros da corporação de Águas de Moura" is in the "Aspectual" class because it is a location related to the event (the firefighters from the corporation of Águas de Moura were mobilized to the scene).

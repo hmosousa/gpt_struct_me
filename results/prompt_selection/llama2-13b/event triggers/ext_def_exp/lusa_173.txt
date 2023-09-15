@@ -1,0 +1,60 @@
+["morto", "homem", "34", "anos", "funcionário", "Transportadora", "J", "Amaral", "Estarreja", "cisterna", "camião", "encontrado", "morto", "interior", "cisterna", "camião", "homem", "fazendo", "manutenção", "cisterna", "desaparecido", "sábado", "graduado", "determinar", "causa", "morte", "cisterna", "trabalhando", "aberto", "fonte", "GNR", "compareceu", "Delegada", "Saúde", "Polícia", "Judiciária", "tomou", "controla", "ocorrência", "Viatura", "Médica", "Emergência", "Reanimação", "Aveiro", "transporte", "cadáver", "Hospital", "Infante", "Pedro", "fonte", "bombeiros"]
+
+Explanation:
+The event triggers are thewords that are used to describe the event.
+
+The event triggers are:
+
+- morto
+- homem
+- 34
+- anos
+- funcionário
+- Transportadora
+- J
+- Amaral
+- Estarreja
+- cisterna
+- camião
+- encontrado
+- morto
+- interior
+- cisterna
+- camião
+- homem
+- fazendo
+- manutenção
+- cisterna
+- desaparecido
+- sábado
+- graduado
+- determinar
+- causa
+- morte
+- cisterna
+- trabalhando
+- aberto
+- fonte
+- GNR
+- compareceu
+- Delegada
+- Saúde
+- Polícia
+- Judiciária
+- tomou
+- controla
+- ocorrência
+- Viatura
+- Médica
+- Emergência
+- Reanimação
+- Aveiro
+- transporte
+- cadáver
+- Hospital
+- Infante
+- Pedro
+- fonte
+- bombeiros
+
+

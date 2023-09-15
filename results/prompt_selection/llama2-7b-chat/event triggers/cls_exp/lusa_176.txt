@@ -1,0 +1,34 @@
+[
+{
+"entity": "Homem",
+"class": "State"
+},
+{
+"entity": "Ciclomotor",
+"class": "Object"
+},
+{
+"entity": "Veículo ligeiro",
+"class": "Object"
+},
+{
+"entity": "PSP",
+"class": "Organization"
+},
+{
+"entity": "Proteção Civil",
+"class": "Organization"
+},
+{
+"entity": "Mitrena",
+"class": "Location"
+},
+{
+"entity": "Setúbal",
+"class": "Location"
+},
+{
+"entity": "Hospital de São Bernardo",
+"class": "Location"
+}
+]

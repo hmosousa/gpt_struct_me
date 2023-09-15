@@ -1,0 +1,18 @@
+[
+["hoje", "Time"],
+["25 de novembro", "Date"],
+["em novembro", "Duration"],
+["dois dias após a morte de Maradona", "Duration"],
+["60 anos", "Duration"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories.
+
+* "hoje" (today) is a time expression that refers to the current day and can be classified as "Time".
+* "25 de novembro" (November 25th) is a date expression that refers to a specific day in the past and can be classified as "Date".
+* "em novembro" (in November) is a duration expression that refers to a period of time in the past and can be classified as "Duration".
+* "dois dias após a morte de Maradona" (two days after Maradona's death) is a duration expression that refers to a period of time after a specific event and can be classified as "Duration".
+* "60 anos" (60 years) is a duration expression that refersto a period of time in the past and can be classified as "Duration".
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

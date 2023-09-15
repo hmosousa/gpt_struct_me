@@ -1,0 +1,34 @@
+[
+{
+"participant": "Homem",
+"class": "Person"
+},
+{
+"participant": "Veículo ligeiro",
+"class": "Vehicle"
+},
+{
+"participant": "PSP",
+"class": "Organization"
+},
+{
+"participant": "Proteção Civil",
+"class": "Organization"
+},
+{
+"participant": "Bombeiros",
+"class": "Organization"
+},
+{
+"participant": "Sapadores",
+"class": "Organization"
+},
+{
+"participant": "Hospital de São Bernardo",
+"class": "Location"
+},
+{
+"participant": "Estrada Nacional 10-8",
+"class": "Location"
+}
+]

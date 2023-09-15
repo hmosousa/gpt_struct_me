@@ -1,0 +1,74 @@
+[
+["Homem", "Date"],
+["mata", "Verb"],
+["ex-companheira", "Noun"],
+["tiro", "Verb"],
+["em", "Preposition"],
+["Vila Nova de Gaia", "Location"],
+["hoje", "Adverb"],
+["cerca", "Adverb"],
+["das", "Preposition"],
+["10:30", "Time"],
+["na", "Preposition"],
+["Rua da Figueirinha", "Location"],
+["em", "Preposition"],
+["Grijó", "Location"],
+["Vila Nova de Gaia", "Location"],
+["distrito do Porto", "Location"],
+["e", "Conjunction"],
+["que", "RelativePronoun"],
+["o", "Article"],
+ ["homem", "Noun"],
+ ["tem", "Verb"],
+ ["62", "Number"],
+ ["anos", "Noun"],
+ ["a", "Article"],
+ ["vítima", "Noun"],
+ ["era", "Verb"],
+ ["20", "Number"],
+ ["anos", "Noun"],
+ ["mais", "Adverb"],
+ ["jovem", "Adjective"],
+ ["do", "Preposition"],
+ ["que", "RelativePronoun"],
+ ["mantiveram", "Verb"],
+ ["durante", "Adverb"],
+ ["10", "Number"],
+ ["anos", "Noun"],
+ ["tanto", "Adverb"],
+ ["o", "Article"],
+ ["caso", "Noun"]
+]
+
+Explanation:
+
+1. "Homem" is a noun and "mata" is a verb.
+2. "ex-companheira" is a noun.
+3. "tiro" is a verb.
+4. "em" is a preposition.
+5. "Vila Nova de Gaia" is a location.
+6. "hoje" is an adverb.
+7. "cerca" is an adverb.
+8. "das" is a preposition.
+9. "10:30" is a time.
+10. "na" is a preposition.
+11. "Rua da Figueirinha" is a location.
+12. "em" is a preposition.
+13. "Grijó" is a location.
+14. "Vila Nova de Gaia" is a location.
+15. "distrito do Porto" is a location.
+16. "e" is a conjunction.
+17. "que" is a relative pronoun.
+18. "o" is an article.
+19. "homem" is a noun.
+20. "tem" is a verb.
+21. "62" is a number.
+22. "anos" is a noun.
+23. "a" is an article.
+24. "vítima" is a noun.
+25. "era" is a verb.
+26. "20" is a number.
+27. "anos" is a noun.
+28. "mais" is an adverb.
+29. "jovem" is an adjective.
+30. "

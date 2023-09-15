@@ -1,0 +1,17 @@
+[
+"Homem ferido com gravidade",
+"Proprietário de restaurante em Cajados",
+"69 anos",
+"Palmela",
+"GNR",
+"Vítima",
+"Em estado de coma",
+"Hospital de São Bernardo",
+"Setúbal",
+"Mulher embriagada",
+"Automóvel",
+"Proibido o consumo de álcool na via pública",
+"Comando Distrital de Operações de Socorro",
+"CDOS",
+"Bombeiros da corporação de Águas de Moura"
+]

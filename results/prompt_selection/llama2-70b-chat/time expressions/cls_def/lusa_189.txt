@@ -1,0 +1,17 @@
+[
+["hoje", "Date"],
+["20:20", "Time"],
+["20:20", "Duration"],
+["hoje", "Date"],
+["20:20", "Time"],
+["20:20", "Duration"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "hoje" (today) is a date expression and should be classified as such.
+* "20:20" (8:20 PM) is a time expression and should be classified as such.
+* "20:20" (8:20 PM) is also a duration expression, as it represents a specific point in time, and should be classified as such.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

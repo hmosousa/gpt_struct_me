@@ -1,0 +1,7 @@
+["Grua de camião derrubou poste de iluminação", "homem de 52 anos morreu", "outro sofreu ferimentos ligeiros", "acidente com um camião", "poste de eletricidade", "Rua da Constituição", "Porto", "vítima foi transportada com vida para o Hospital de Santo António", "estructura atingiu ainda o funcionário de bombas de gasolina"]
+
+Note:
+- The list of strings should be in the format of a JSON-parseable list.
+- The strings should be in the order they appear in the text.
+- The strings should not include any punctuation or special characters, only the words and spaces.
+- The strings should be separated by commas, with no spaces between the commas.

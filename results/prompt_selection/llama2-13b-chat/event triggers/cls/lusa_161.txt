@@ -1,0 +1,26 @@
+[
+["Homem", "State"],
+["ex-companheira", "Occurrence"],
+["tiro", "Occurrence"],
+["arma de fogo", "Aspectual"],
+["suicídio", "Intensional Action"],
+["Rua da Figueirinha", "Perception"],
+["Grijó", "Perception"],
+["Vila Nova de Gaia", "Perception"],
+["distrito do Porto", "Perception"],
+["62 anos", "Intensional State"],
+["20 anos mais nova", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" and "ex-companheira" are entities.
+* "tiro" and "arma de fogo" are occurrences.
+* "suicídio" is an intensional action.
+* "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", and "distrito do Porto" are perceptions.
+* "62 anos" and "20 anos mais nova" are intensional states.
+
+Note:
+
+* The outputis a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

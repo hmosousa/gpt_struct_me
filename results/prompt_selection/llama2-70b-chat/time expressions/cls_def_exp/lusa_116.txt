@@ -1,0 +1,16 @@
+[
+["14 anos", "Duration"],
+["hoje", "Date"],
+["18:16", "Time"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "14 anos" is a duration, as it represents a period of time that has passed or will pass.
+* "hoje" is a date, as it refers to the current day.
+* "18:16" is a time, as it represents a specific time of day.
+* "Rua Luís Gonzaga Mendes de Carvalho" is a set, as it refers to a specific location.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class (Duration, Date, Time, or Set).

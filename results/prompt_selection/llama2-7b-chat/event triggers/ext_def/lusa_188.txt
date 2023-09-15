@@ -1,0 +1,16 @@
+[
+"Homem de 48 anos morre em acidente de trabalho",
+"Um homem de 48 anos morreu",
+"Vítima de acidente de trabalho",
+"Acidente em altura",
+"Queda em altura",
+"Transportado por ambulância",
+"Faleceu quando estava a ser transportada",
+"Helitransportado para hospital de referência",
+"Operações de socorro",
+"Meios dos bombeiros de Mogadouro",
+"Ambulância de Suporte Imediato de Vida (SIV)",
+"Viatura Medica de Emergência e Reanimação (VMER)",
+"Instituto Nacional e Emergência Médica (INEM)",
+"Helicóptero do INEM estacionado em Macedo de Cavaleiros"
+]

@@ -1,0 +1,37 @@
+[
+{
+"participant": "Mulher",
+"class": "Person"
+},
+{
+"participant": "Homem",
+"class": "Person"
+},
+{
+"participant": "Viatura",
+"class": "Object"
+},
+{
+"participant": "Cais",
+"class": "Location"
+},
+{
+"participant": "Torreira",
+"class": "Location"
+},
+{
+"participant": "Bombeiros",
+"class": "Organization"
+},
+{
+"participant": "GNR",
+"class": "Organization"
+}
+]
+]
+
+Explanation:
+The input text describes a situation where a woman was hit by a vehicle during a protest of fishermen in the Murtosa district of Aveiro. The text mentions several participants, including the woman who was hit, the driver of the vehicle, and various organizations and locations involved in the protest.
+The task is to extract and classify each participant in the text into one of the following classes:Person, Organization, Object, Location, Nature, or Facility.
+For example, the woman who was hit is a Person, the driver of the vehicle is an Object, and the Murtosa district is a Location. The organizations involved, such as the Bombeiros and the GNR, are Organizations. The nature of the protest is Nature.
+Note that some participants may belong to more than one class, depending on the context. For example, the woman who was hit could also be classified as a Victim.

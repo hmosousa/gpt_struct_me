@@ -1,0 +1,12 @@
+["segunda-feira", "12:00 locais", "13:00 em Lisboa", "domingo"]
+
+Explanation:
+
+* "segunda-feira" is a day of the week.
+* "12:00 locais" and "13:00 em Lisboa" are times of day, specifically 12:00 PM and 1:00 PM, respectively.
+* "domingo" is a day of the week, but it is not relevant to the text.
+
+Note:
+
+* The times are in the format of "HH:MM", where HH is the hour in 24-hour format and MM is the minute.
+* The day of the week is in the format of "day of the week", where the day is spelled out in full (e.g. "segunda-feira" instead of "Monday").

@@ -1,0 +1,49 @@
+[
+["GNR", "State"],
+["homens", "State"],
+["tráfico de droga", "Occurrence"],
+["doses de estupefacientes", "State"],
+["sábado", "State"],
+["local", "State"],
+["militares", "State"],
+["transação", "Occurrence"],
+["apreendidas", "Occurrence"],
+["heroína", "State"],
+["cocaína", "State"],
+["numerário", "State"],
+["veículo", "State"],
+["telemóveis", "State"],
+["Tribunal Judicial", "State"],
+["interrogatório judicial", "Occurrence"],
+["medidas de coação", "Occurrence"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the name of the entity and its corresponding class. The classes are:
+
+* State: refers to a state or situation that exists or occurs within a specific time period.
+* Occurrence: refers to an event or happening that takes place within a specific time period.
+* Reporting: refersto the act of reporting or describing an event or situation.
+* Perception: refers to the act of perceiving or observing an event or situation.
+* Aspectual: refers to the aspect or phase of an event or situation.
+* Intensional Action: refers to an action or activity that is intended or planned.
+* Intensional State: refers to a state or situation that is intended or planned.
+
+In this task, you will be given a text and you must extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event or situation. For example, in the text "The dog ran across the field", "ran" is an event trigger that indicates the occurrence of the event "the dog running".
+
+You will need to use the classes defined above to classify each event trigger. For example, if you encounter the event trigger "ran", you would classify it as an "Occurrence" because it refers to an event or happening that takes place within a specific time period.
+
+Your output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity (the word or phrasethat triggered the event) and the second is the class (the category that best describes the event or situation).
+
+For example, if you encounter the text "The dog ran across the field", your output would be:
+
+[
+["ran", "Occurrence"],
+["dog", "State"]
+]
+
+Note that the same word or phrase can trigger multiple events or situations, so you may need to classify it differently depending on the context. For example, in the text "The dog ran across the field, but then it stopped", the word "ran" would be classified as an "Occurrence" because it refers to an event or happening that takes place within a specific time period, while the word "stopped" would be classified as a "State" because it refers to a state or situation that exists or occurs within a specific time period.
+
+You will be given multiple texts to classify, and you must provide a JSON-parseable list for each text. Your output will be evaluated based on its accuracy and completeness.
+
+Good luck!

@@ -1,0 +1,62 @@
+[
+{
+"entity": "GNR",
+"class": "State"
+},
+{
+"entity": "mulher",
+"class": "Person"
+},
+{
+"entity": "Mértola",
+"class": "Place"
+},
+{
+"entity": "Estrada Nacional 122",
+"class": "Location"
+},
+{
+"entity": "viatura",
+"class": "Object"
+},
+{
+"entity": "droga",
+"class": "Aspectual"
+},
+{
+"entity": "haxixe",
+"class": "Aspectual"
+}
+]
+
+Expected output:
+[
+{
+"entity": "GNR",
+"class": "State"
+},
+{
+"entity": "mulher",
+"class": "Person"
+},
+{
+"entity": "Mértola",
+"class": "Place"
+},
+{
+"entity": "Estrada Nacional 122",
+"class": "Location"
+},
+{
+"entity": "viatura",
+"class": "Object"
+},
+{
+"entity": "droga",
+"class": "Aspectual"
+},
+{
+"entity": "haxixe",
+"class": "Aspectual"
+}
+]

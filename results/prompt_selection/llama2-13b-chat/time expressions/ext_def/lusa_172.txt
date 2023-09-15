@@ -1,0 +1,13 @@
+["hoje à tarde", "uma época entre 60 e 70 anos", "naquela praia de Lagoa", "do distrito de Faro", "depois de ter sido dado o alerta", "na Estação Salva-vidas de Ferragudo", "para a marina de Portimão", "no local", "no gabinete de medicina legal de Portimão"]
+
+Explanation:
+
+* "hoje à tarde" is a time expression indicating the current time of day (afternoon).
+* "uma época entre 60 e 70 anos" is a time expression indicating the age of the deceased person (between 60 and 70 years old).
+* "naquela praia de Lagoa" is a time expression indicating the location where the body was found (on that beach in Lagoa).
+* "do distrito de Faro" is a time expression indicating the location of the deceased person's residence (in the Faro district).
+* "depois de ter sido dado o alerta" is a time expression indicating the sequence of events (after thealert was given).
+* "na Estação Salva-vidas de Ferragudo" is a time expression indicating the location where the body was transported (at the Ferragudo lifeguard station).
+* "para a marina de Portimão" is a time expression indicating the destination of the body transport (to the Portimão marina).
+* "no local" is a time expression indicating the location where the death was declared (on the spot).
+* "no gabinete de medicina legal de Portimão" is a time expression indicating the location where the body was taken for further examination (at the Portimão morgue).

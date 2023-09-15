@@ -1,0 +1,12 @@
+[
+"Homem",
+"Transportadora J Amaral",
+"Estarreja",
+"GNR de Aveiro",
+"Lusa",
+"Joaquim Rebelo",
+"Delegada de Saúde",
+"Polícia Judiciária",
+"Viatura Médica de Emergência e Reanimação de Aveiro",
+"Hospital Infante D. Pedro"
+]

@@ -1,0 +1,27 @@
+[
+  "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel",
+  "Um homem de 39 anos foi colocado sob vigilância eletrónica, em Penafiel, distrito do Porto, suspeito de violência física, injúrias e ameaças de morte à ex-companheira, de 42 anos, informou hoje fonte da GNR.
+Em comunicado, a autoridade policial indicou que o suspeito "não aceitou a separação e começou a perseguir a vítima na sua residência e no local de trabalho".
+A mulher já usava um botão de pânico, que lhe tinha sido aplicado por medida de proteção por teleassistência.
+O homem, com antecedentes criminais por ilícitos da mesma natureza, ficou ainda proibido de contactar a vítima."
+]
+
+Examples:
+[
+  "Violência doméstica: Pulseira eletrónica parahomem detido em Penafiel",
+  "Um homem de 39 anos foi colocado sob vigilância eletrónica, em Penafiel, distrito do Porto, suspeito de violência física, injúrias e ameaças de morte à ex-companheira, de 42 anos, informou hoje fonte da GNR.
+Em comunicado, a autoridade policial indicou que o suspeito "não aceitou a separação e começou a perseguir a vítima na sua residência e no local de trabalho".
+A mulher já usava um botão de pânico, que lhe tinha sido aplicado por medida de proteção por teleassistência.
+O homem, com antecedentes criminais por ilícitos da mesma natureza, ficou ainda proibido de contactar a vítima."
+]
+
+Solution:
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.loads(f.read())
+
+for item in data:
+   print(item)
+```

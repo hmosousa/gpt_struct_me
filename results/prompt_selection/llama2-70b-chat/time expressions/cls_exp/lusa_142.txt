@@ -1,0 +1,36 @@
+[
+["GNR", "Date"],
+["12.300", "Quantity"],
+["122", "Duration"],
+["segunda-feira", "Date"],
+["hoje", "Date"],
+["Beja", "Location"],
+["Mértola", "Location"]
+]
+
+Explanation:
+The input text contains several time expressions:
+
+* "GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola" - This sentence contains a date expression "em Mértola" which can be classified as Location.
+* "A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado." - This sentence contains three date expressions: "hoje", "Mértola" and "Beja". "Hoje" can be classified as Date, "Mértola" and "Beja" can be classified as Location.
+* "A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira" - This sentence contains a date expression "segunda-feira" which can be classified as Date.
+* "Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que ela tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel." - This sentence does not contain any time expressions.
+
+The output should be a list of tuples, where each tuple contains the entity (the first string) and its corresponding class (the second string). The classes are:
+
+* Date: for expressions that refer to a specific date or time.
+* Location: for expressions that refer to a specific location.
+* Quantity: for expressions that refer to a quantity or amount.
+* Duration: for expressions that refer to a duration of time.
+* Set: for expressions that refer to a set or group of items.
+
+In this case, the output should be:
+[
+["GNR", "Date"],
+["12.300", "Quantity"],
+["122", "Duration"],
+["segunda-feira", "Date"],
+["hoje", "Date"],
+["Beja", "Location"],
+["Mértola", "Location"]
+]

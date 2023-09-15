@@ -1,0 +1,7 @@
+[
+"Homem de 47 anos de idade",
+"Mulher de 26 anos",
+"Juiz de instrução",
+"Ministério Público (MP)",
+"Polícia Judiciária"
+]

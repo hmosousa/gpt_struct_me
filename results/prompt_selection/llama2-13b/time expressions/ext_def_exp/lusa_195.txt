@@ -1,0 +1,52 @@
+["segundos", "minutos", "horas", "dias", "meses", "anos"]
+
+Explanation:
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, theycan also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicateinformation about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The output is a JSON-parseable list of strings.
+
+The input is a news article. The task is to extract all time expressions

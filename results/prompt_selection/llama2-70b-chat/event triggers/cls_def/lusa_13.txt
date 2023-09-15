@@ -1,0 +1,38 @@
+[
+["Autoridades judiciais", "State"],
+["buscas", "Occurrence"],
+["em casa de motorista de Maradona", "Aspectual"],
+["Maximiliano Trimarchi", "State"],
+["motorista de Diego Maradona", "State"],
+["no âmbito da investigação", "Intensional Action"],
+["por alegada negligência na morte do ex-futebolista argentino", "Intensional State"],
+["ocorrida em 25 de novembro", "Occurrence"],
+["Em comunicado", "State"],
+["a procuradoria-geral de San Isidro", "State"],
+["refere", "Intensional Action"],
+["que as buscas", "Occurrence"],
+["foram ordenadas", "Intensional Action"],
+["depois de saber que Trimarchi estava junto de Maradona quando este morreu", "Intensional State"],
+["na sua casa", "Aspectual"],
+["em San André", "Aspectual"],
+["na província de Buenos Aires", "Aspectual"],
+["A polícia já realizou perícias", "Occurrence"],
+["aos telemóveis de Leopoldo Luque", "State"],
+["médico de Maradona", "State"],
+["que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro", "Occurrence"],
+["e da psiquiatra Agustina Cosachov", "State"],
+["Dois dias após a morte de Maradona", "Occurrence"],
+["de 60 anos", "State"],
+["a justiça argentina abriu um inquérito", "Intensional Action"],
+["para determinar se houve negligência médica na assistência ao antigo futebolista", "Intensional State"]
+]
+
+Note:
+
+* The input text is in Portuguese, but the output should be in English.
+* The entities and classes should be in lowercase.
+* The output should be a JSON-parseable list, with each element being a list of two strings, the first being the entity and thesecond being the class.
+* The classes should be from the given list: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* The entities and classes should be accurately identified and classified according to their context in the input text.
+
+This task is a sample task and the given input text is a sample text. The actual task will have a different input text and the model should be able to classify the entities and classes accurately based on the context.

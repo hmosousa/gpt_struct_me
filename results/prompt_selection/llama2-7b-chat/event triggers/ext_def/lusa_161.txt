@@ -1,0 +1,14 @@
+[
+"Homem mata ex-companheira",
+"tiro em Vila Nova de Gaia",
+"matou ex-companheira",
+"detido",
+"tentar suicídio",
+"GNR",
+"crime",
+"Rua da Figueirinha",
+"Grijó",
+"Vila Nova de Gaia",
+"Porto",
+"Polícia Judiciária"
+]

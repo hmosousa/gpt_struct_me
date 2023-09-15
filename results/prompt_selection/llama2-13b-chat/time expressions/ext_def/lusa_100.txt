@@ -1,0 +1,20 @@
+[
+"hoje",
+"anos",
+"meses",
+"diplomas",
+"segundos"
+]
+
+Explanation:
+
+* "hoje" is an adverb indicating the day of the week and the current date.
+* "anos" is a noun indicating a period of time, specifically one year.
+* "meses" is a noun indicating a period of time, specifically one month.
+* "diplomas" is a noun indicating a period of time, specifically a degree or a certificate.
+* "segundos" is a noun indicating a period of time, specifically one second.
+
+Note:
+
+* The word "teleassistência" is not included in the list of time expressions, as it is not a temporal expression, but rather a noun indicating a type of assistance.
+* The word "proibido" is not included in the list of time expressions, as it is not a temporal expression, but rather a verb indicating a prohibition.

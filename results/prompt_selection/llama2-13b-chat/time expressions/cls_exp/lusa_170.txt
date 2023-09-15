@@ -1,0 +1,28 @@
+[
+["Encontrado", "Date"],
+["segunda-feira", "Date"],
+["12:00 locais", "Time"],
+["13:00 em Lisboa", "Time"],
+["a boiar", "Duration"],
+["na costa leste da Terceira", "Location"],
+["do homem", "Entity"],
+["62 anos", "Entity"],
+["cadáver", "Entity"],
+["do local", "Location"],
+["pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Entity"],
+["para o Hospital de Angra do Heroísmo", "Location"],
+["será autopsiado para se apurar as causas da morte", "Set"]
+]
+
+Explanation:
+
+* "Encontrado" is a Date because it refers to the day the body was found.
+* "segunda-feira" is a Date because it refers to the day of the week the body was found.
+* "12:00 locais" and "13:00 em Lisboa" are Times because they refer to the time the body was found.
+* "a boiar" is a Duration because it refers to the time the body was in the water.
+* "na costa leste da Terceira" and "do homem" are Locations because they refer to where the body was found and the person who was found.
+* "62 anos" and "cadáver" are Entities because they refer to the age of the person and the state of the body.
+* "do local" is a Location because it refers to the place where the body was found.
+* "pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória" is an Entity because it refers to the team that retrieved the body.
+* "para o Hospital de Angra do Heroísmo" is a Location because it refers to where the body was taken.
+* "será autopsiado para se apurar as causas da morte" is a Set because it refers to the action that will be taken to determine the cause of death.

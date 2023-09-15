@@ -1,0 +1,29 @@
+[
+["GNR", "Organization"],
+["Aveiro", "Location"],
+["atum-rabilho", "Object"],
+["390 quilogramas", "Quantity"],
+["cumprimento das regras", "Object"],
+["descida", "Object"],
+["transporte", "Object"],
+["comercialização", "Object"],
+["primeira venda", "Object"],
+["pescado fresco", "Object"],
+["embarcação de pesca", "Object"],
+["77 quilos", "Quantity"],
+["313 quilos", "Quantity"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"]
+]
+
+Explanation:
+
+* GNR is an organization, so it is classified as such.
+* Aveiro is a location, so it is classified as such.
+* atum-rabilho is an object, so it is classified as such.
+* 390 quilogramas is a quantity, so it is classified as such.
+* cumprimento das regras, descida, transporte, comercialização, and primeira venda are all objects, so they are classified as such.
+* pescado fresco is an object, so it is classified as such.
+* embarcação de pesca is an object, so it is classified as such.
+* 77 quilos and 313 quilos are quantities, so they are classified as such.
+* condutor do veículo and mestre da embarcação are both people, so they are classified as such.

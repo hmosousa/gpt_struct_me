@@ -1,0 +1,61 @@
+[
+    {
+        "entity": "Grua de camião",
+        "class": "Set"
+    },
+    {
+        "entity": "Poste de iluminação",
+        "class": "Set"
+    },
+    {
+        "entity": "Homem de 52 anos",
+        "class": "Person"
+    },
+    {
+        "entity": "Morreu",
+        "class": "Verb"
+    },
+    {
+        "entity": "Ligeiros",
+        "class": "Adjective"
+    },
+    {
+        "entity": "Poste de eletricidade",
+        "class": "Place"
+    },
+    {
+        "entity": "Rua da Constituição",
+        "class": "Place"
+    },
+    {
+        "entity": "Porto",
+        "class": "Place"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    },
+    {
+        "entity": "Comando Metropolitano",
+        "class": "Organization"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    },
+    {
+        "entity": "PSP",
+        "class": "Organization"
+    }

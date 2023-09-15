@@ -1,0 +1,9 @@
+[
+"Homem ferido com gravidade",
+"Agressão com garrafa",
+"Vítima transportada em estado de coma",
+"Mulher embriagada",
+"Consumo de álcool na via pública",
+"Ferimentos ligeiros",
+"Bombeiros mobilizados"
+]

@@ -1,0 +1,13 @@
+[
+"Encontrado corpo de homem",
+"O corpo de um homem",
+"Homem de 62 anos",
+"Zona rochosa",
+"Costa da Terceira",
+"Autoridade Marítima",
+"Comando-Local da Polícia Marítima de Angra do Heroísmo",
+"Polícia de Segurança Pública (PSP)",
+"Delegado de saúde",
+"Equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
+"Hospital de Angra do Heroísmo"
+]

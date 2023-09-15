@@ -1,0 +1,18 @@
+[
+{
+"entity": "corpo de homem",
+"class": "Occurrence"
+},
+{
+"entity": "Autoridade Marítima",
+"class": "Organization"
+},
+{
+"entity": "Estação Salva-vidas de Ferragudo",
+"class": "Organization"
+},
+{
+"entity": "Polícia Marítima de Portimão",
+"class": "Organization"
+}
+]

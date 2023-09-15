@@ -1,0 +1,21 @@
+[
+["homem", "Person"],
+["PJ", "Organization"],
+["jovem", "Person"],
+["coletividade", "Location"],
+["Alto da Guerra", "Location"],
+["arma de fogo", "Object"],
+["ferimentos", "Nature"],
+["crimes", "Other"]
+]
+
+Explanation:
+
+1. "homem" is a person.
+2. "PJ" is an organization.
+3. "jovem" is a person.
+4. "coletividade" is a location.
+5. "Alto da Guerra" is a location.
+6. "arma de fogo" is an object.
+7. "ferimentos" is a nature.
+8. "crimes" is an other.

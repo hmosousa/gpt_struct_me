@@ -1,0 +1,9 @@
+[
+"sete",
+"sete",
+"uma",
+"uma",
+"dois",
+"três",
+"trinta e nove"
+]

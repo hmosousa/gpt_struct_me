@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Autoridade Marítima", "Organization"],
+["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"],
+["Polícia de Segurança Pública (PSP)", "Organization"],
+["Piquete da Polícia Marítima de Angra do Heroísmo", "Organization"],
+["Delegado de saúde", "Person"],
+["Bombeiros Voluntários da Praia da Vitória", "Organization"],
+["Hospital de Angra do Heroísmo", "Facility"]
+]
+
+Explanation:
+
+* "Homem" is classified as "Person" because it refers to an individual person.
+* "Autoridade Marítima" is classified as "Organization" because it is a maritime authority, which is an organization.
+* "Comando-Local da Polícia Marítima de Angra do Heroísmo" is classified as "Organization" because it is a local police command, which is an organization.
+* "Polícia de Segurança Pública (PSP)" is classified as "Organization" because it is a public security police force, which is an organization.
+* "Piquete da Polícia Marítima de Angra do Heroísmo" is classified as "Organization" because it is a marine police unit, which is an organization.
+* "Delegado de saúde" is classified as "Person" because it refers to a health delegate, which is an individual person.
+* "Bombeiros Voluntários da Praia da Vitória" is classified as "Organization" because it is a volunteer firefighter unit, which is an organization.
+* "Hospital de Angra do Heroísmo" is classified as "Facility" because it is a hospital, which is a physical location or facility.

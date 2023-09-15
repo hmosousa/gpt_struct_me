@@ -1,0 +1,70 @@
+[
+    {
+        "entity": "Grua de camião",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Poste de iluminação",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Homem de 52 anos",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Porto",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Relações Públicas",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Poste de iluminação",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Rua da Constituição",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Porto",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "PSP",
+        "class": "Occurrence"
+    },
+    {

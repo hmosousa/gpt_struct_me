@@ -1,0 +1,23 @@
+[
+["Vítima", "Person"],
+["Suspeito", "Person"],
+["GNR", "Organization"],
+["Teleassistência", "Object"],
+["Residência", "Location"],
+["Local de trabalho", "Location"]
+]
+
+Explanation:
+
+* Vítima: Person
+* Suspeito: Person
+* GNR: Organization
+* Teleassistência: Object
+* Residência: Location
+* Local de trabalho: Location
+
+Note:
+
+* The input text is in Portuguese.
+* The participants are classified based on their roles in the situation, such as victim, suspect, and organization.
+* The output is a JSON-parseable list of participants, with each element consisting of two strings: the entity and the class.

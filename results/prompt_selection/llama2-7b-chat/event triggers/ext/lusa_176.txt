@@ -1,0 +1,13 @@
+[
+"Homem morre após ciclomotor ser colhido por veículo ligeiro",
+"Ciclomotor conduzia 34-anos-old man",
+"Veículo ligeiro colheu ciclomotor",
+"Mitrena, Setúbal",
+"Estrada Nacional 10-8",
+"06:55",
+"Bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal",
+"Uma viatura médica de emergência e reanimação (VMER)",
+"PSP",
+"Serviço de Medicina legal do Hospital de São Bernardo",
+"06:55"
+]

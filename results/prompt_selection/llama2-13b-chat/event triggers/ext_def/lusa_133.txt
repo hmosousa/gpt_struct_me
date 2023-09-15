@@ -1,0 +1,18 @@
+["Apreensão", "fiscalização", "descarga", "transporte", "comercialização", "primeira venda", "pescado fresco", "embarcação de pesca", "condutor", "mestre", "coima", "infração", "higiossanitário", "solidariedade social"]
+
+Explanation:
+
+* Apreensão: The event of the seizure of the 390 kilograms of tuna.
+* Fiscalização: The act of controlling the compliance with regulations.
+* Descarga: The event of unloading the tuna from the vehicle.
+* Transporte: The event of transporting the tuna.
+* Comercialização: The event of selling the tuna.
+* Primeira venda: The event of selling the tuna for the first time.
+* Pescado fresco: The event of the tuna being fresh.
+* Embarcação de pesca: The event of the fishing boat being involved in the seizure.
+* Condutor: The persondriving the vehicle.
+* Mestre: The person in charge of the fishing boat.
+* Coima: The fine for the infraction.
+* Infração: The act of breaking the law.
+* Higiossanitário: The event of the tuna being subjected to a hygiene and sanitary inspection.
+* Solidariedade social: The event of the tuna being donated to a social solidarity institution.

@@ -1,0 +1,28 @@
+[
+["Grua de camião", "Object"],
+["homem de 52 anos", "Person"],
+["homem", "Person"],
+["poste de iluminação", "Object"],
+["Rua da Constituição", "Location"],
+["PSP", "Organization"],
+["Comando Metropolitano da PSP do Porto", "Organization"],
+["Hospital de Santo António", "Facility"],
+["bombas de gasolina", "Object"],
+["funcionário", "Person"]
+]
+
+Explanation:
+The input text describes an accident where a crane truck knocked down a light pole, killing a 52-year-old man and slightly injuring another person. The participants in this event can be identified as:
+
+* Grua de camião (Object): The crane truck that knocked down the light pole.
+* Homem de 52 anos (Person): The victim who died in the accident.
+* Homem (Person): The other person who was slightly injured.
+* Poste de iluminação (Object): Thelight pole that was knocked down.
+* Rua da Constituição (Location): The location where the accident occurred.
+* PSP (Organization): The Portuguese Public Security Police, which is responsible for investigating the accident.
+* Comando Metropolitano da PSP do Porto (Organization): The Porto branch of the PSP, which is responsible for the investigation.
+* Hospital de Santo António (Facility): The hospital where the victim was taken after the accident.
+* Bombas de gasolina (Object): The gas pumps that were nearby and were affected by the accident.
+* Funcionário (Person): The employee who was slightly injured while working at the gas pumps.
+
+Therefore, the output should be a list of pairs, where each pair consists of the entity mentioned in the text and its corresponding class (Person, Organization, Object, Location, Nature, Facility, or Other).

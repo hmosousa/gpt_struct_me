@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Homem de 48 anos morre em acidente de trabalho em Mogadouro",
+        "class": "Person"
+    },
+    {
+        "id": "2",
+        "name": "Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança",
+        "class": "Organization"
+    },
+    {
+        "id": "3",
+        "name": "Trata-se de um acidente que envolve uma queda em altura",
+        "class": "Object"
+    },
+    {
+        "id": "4",
+        "name": "O homem de 48 anos trabalhava numa obra de construção civil",
+        "class": "Nature"
+    },
+    {
+        "id": "5",
+        "name": "Acidentes de trabalho são a principal causa de morte no trabalho",
+        "class": "Nature"
+    },
+    {
+        "id": "6",
+        "name": "A vítima acabaria por não resistir aos ferimentos",
+        "class": "Nature"
+    },
+    {
+        "id": "7",
+        "name": "Falecer quando estava a ser transportado por ambulância",
+        "class": "Nature"
+    },
+    {
+        "id": "8",
+        "name": "Transportado para um hospital de referência",
+        "class": "Nature"
+    },
+    {
+        "id": "9",
+        "name": "O alerta foi dado cerca das 17 horas",
+        "class": "Nature"
+    },
+    {
+        "id": "10",
+        "name": "O alerta foi dado cerca das 17 horas",
+        "class": "Nature"
+    },
+    {
+        "id": "11",
+        "name": "O alerta foi dado cerca das 17 horas",
+        "class": "Nature"
+    },
+    {

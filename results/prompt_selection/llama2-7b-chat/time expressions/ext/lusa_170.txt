@@ -1,0 +1,12 @@
+[
+"a boiar",
+"segunda-feira",
+"12:00 locais",
+"13:00 em Lisboa",
+"62 anos",
+"cadáver",
+"grande ângulo",
+"Praia da Vitória",
+"zona de difícil acesso",
+"Hospital de Angra do Heroísmo"
+]

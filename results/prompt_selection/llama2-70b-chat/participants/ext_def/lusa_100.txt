@@ -1,0 +1,7 @@
+[
+"homem de 39 anos",
+"ex-companheira, de 42 anos",
+"GNR",
+"mulher",
+"homem"
+]

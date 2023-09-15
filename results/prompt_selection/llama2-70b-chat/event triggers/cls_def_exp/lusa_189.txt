@@ -1,0 +1,22 @@
+[
+["Homem morto", "Occurrence"],
+["atirador em fuga", "Occurrence"],
+["hoje", "Aspectual"],
+["às 20:20", "Aspectual"],
+["incidente", "Occurrence"],
+["suspeita de homicídio", "Intensional Action"],
+["investigação", "Intensional State"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair consists of an entity and its corresponding class.
+
+* "Homem morto" is classified as "Occurrence" because it refers to an event that took place, specifically a person being killed.
+* "atirador em fuga" is also classified as "Occurrence" because it refers to an event that took place, specifically the shooter fleeing the scene.
+* "hoje" is classified as "Aspectual" because it refers to a time period during which the event took place.
+* "às 20:20" is also classified as "Aspectual" because it refers to a specific time at which theevent took place.
+* "incidente" is classified as "Occurrence" because it refers to an event that took place, specifically the shooting incident.
+* "suspeita de homicídio" is classified as "Intensional Action" because it refers to a suspected action or event that is being investigated.
+* "investigação" is classified as "Intensional State" because it refers to a state of being investigated.
+
+Note that some entities may have multiple possible classes, depending on the context and interpretation of the sentence. The classes used in this example are based on one possible interpretation of the sentence.

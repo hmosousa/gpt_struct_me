@@ -1,0 +1,72 @@
+[
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "mulher",
+"class": "Person"
+},
+{
+"entity": "Mértola",
+"class": "Location"
+},
+{
+"entity": "Beja",
+"class": "Location"
+},
+{
+"entity": "Estrada Nacional 122",
+"class": "Location"
+},
+{
+"entity": "viatura",
+"class": "Vehicle"
+},
+{
+"entity": "droga",
+"class": "Drug"
+},
+{
+"entity": "haxixe",
+"class": "Drug"
+}
+]
+
+Expected output:
+[
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "mulher",
+"class": "Person"
+},
+{
+"entity": "Mértola",
+"class": "Location"
+},
+{
+"entity": "Beja",
+"class":"Location"
+},
+{
+"entity": "Estrada Nacional 122",
+"class": "Location"
+},
+{
+"entity": "viatura",
+"class": "Vehicle"
+},
+{
+"entity": "droga",
+"class": "Drug"
+},
+{
+"entity": "haxixe",
+"class": "Drug"
+}
+]
+Note:
+The output is a list of JSON objects, where each object represents a time expression and has two fields: "entity" and "class". The "entity" field contains the name of the entity (e.g. "GNR", "mulher", "Mértola", etc.), and the "class" field contains the class of the entity (e.g. "Organization", "Person", "Location", etc.).

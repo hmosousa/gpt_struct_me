@@ -1,0 +1,12 @@
+["segunda-feira", "390 quilogramas de atum-rabilho", "313 quilos de atum-rabilho", "37.500 euros", "2ª-feira"]
+
+Explanation:
+The input text contains several time expressions, which are:
+
+* "segunda-feira" (Monday)
+* "390 quilogramas de atum-rabilho" (390 kilograms of atum-rabilho)
+* "313 quilos de atum-rabilho" (313 kilograms of atum-rabilho)
+* "37.500 euros" (37,500 euros)
+* "2ª-feira" (Monday)
+
+These time expressions are extracted and listed in the output, in the format of a JSON-parseable list of strings.

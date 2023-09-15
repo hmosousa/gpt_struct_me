@@ -1,0 +1,32 @@
+[
+["Autoridades judiciais", "Date"],
+["hoje", "Time"],
+["apartamento de Maximiliano Trimarchi", "Set"],
+["25 de novembro", "Date"],
+["em comunicado", "Text"],
+["San Isidro", "Set"],
+["procuradoria-geral", "Text"],
+["Realizaram", "Verb"],
+["perícias", "Noun"],
+["telemóveis", "Noun"],
+["Leopoldo Luque", "Name"],
+["Agustina Cosachov", "Name"],
+["dois dias", "Duration"],
+["60 anos", "Duration"]
+]
+
+Explanation:
+
+* "Autoridades judiciais" is a noun phrase and its class is "Date" because it refers to the day when the authorities performed the searches.
+* "hoje" is an adverb and its class is "Time" because it indicates the time when the searches were performed.
+* "apartamento de Maximiliano Trimarchi" is a noun phrase and itsclass is "Set" because it refers to the location where the searches were performed.
+* "25 de novembro" is a date and its class is "Date" because it refers to the date when Maradona died.
+* "em comunicado" is a prepositional phrase and its class is "Text" because it provides additional information about the searches.
+* "San Isidro" is a proper noun and its class is "Set" because it refers to the location where the procuradoria-geral is located.
+* "procuradoria-geral" is a proper noun and its class is "Text" because it refers to the name of the institution that issued the statement.
+* "Realizaram" is a verb and its class is "Verb" because it indicates the action performed by the authorities.
+* "perícias" is a noun phrase and its class is "Noun" because it refers to the expertise performed by the authorities.
+* "telemóveis" is a noun phrase and its class is "Noun" because it refers to the devices used by the authorities to perform the expertise.
+* "Leopoldo Luque" and "Agustina Cosachov" are proper nouns and their classes are "Name" because they refer to the individuals who performed the expertise.
+* "dois dias" is an adverbial phrase and its class is "Duration" because it indicates the time elapsed since Maradona's death.
+* "60 anos" is a noun phrase and its class is "Duration" because it indicates the age of Maradona at the time of his death.

@@ -1,0 +1,50 @@
+["esfaqueado", "morre", "morreu", "hoje", "sequência", "informou", "agência", "PSP", "Comando", "Metropolitano", "Lisboa", "Cometlis", "ocorrido", "rua", "Ângela", "Pinto", "pedir", "ajuda", "envolveu", "arma", "branca", "terá", "desentendimento", "indivíduos", "detido", "Avenida", "Almirante", "Reis", "fuga", "informações", "polícia", "aguarda", "dados", "relativamente", "suspeito", "crime", "PJ", "acionada", "homicídio", "Cerca", "fitas", "segurança"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+The event triggers are:
+
+- esfaqueado
+- morre
+- morreu
+- hoje
+- sequência
+- informou
+- agência
+- PSP
+- Comando
+- Metropolitano
+- Lisboa
+- Cometlis
+- ocorrido
+- rua
+- Ângela
+- Pinto
+- pedir
+- ajuda
+- envolveu
+- arma
+- branca
+- terá
+- desentendimento
+- indivíduos
+- detido
+- Avenida
+- Almirante
+- Reis
+- fuga
+- informações
+- polícia
+- aguarda
+- dados
+- relativamente
+- suspeito
+- crime
+- PJ
+- ação
+- homicídio
+- Cerca
+- fitas
+- segurança
+

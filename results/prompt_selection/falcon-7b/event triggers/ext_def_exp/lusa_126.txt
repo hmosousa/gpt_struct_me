@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "text": "GNR detém dois homens por tráfico de droga em Sines"
+  },
+  {
+    "id": "2",
+    "text": "A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal"
+  },
+  {
+    "id": "3",
+    "text": "tendo apreendido 1.673 doses de estupefacientes"
+  },
+  {
+    "id": "4",
+    "text": "dúvidas, contacte-nos"
+  },
+  {
+    "id": "5",
+    "text": "comunicado, a Guarda Nacional Republicana (GNR)"
+  },
+  {
+    "id": "6",
+    "text": "indicou que a detenção dos dois suspeitos foi efetuada"
+  },
+  {
+    "id": "7",
+    "text": "no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes"
+  },
+  {
+    "id": "8",
+    "text": "no concelho de Sines"
+  },
+  {
+    "id": "9",
+    "text": "e após verificarem movimentações suspeitas"
+  },
+  {
+    "id": "10",
+    "text": "em local já referenciado por tráfico de estupefacientes"
+  },
+  {
+    "id": "11",
+    "text": "os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação"
+  },
+  {
+    "id": "12",
+    "text": "e foram apreendidas 1.570 doses de heroína"
+  },
+  {

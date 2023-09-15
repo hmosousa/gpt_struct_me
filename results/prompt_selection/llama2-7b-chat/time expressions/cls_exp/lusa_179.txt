@@ -1,0 +1,39 @@
+[
+{
+"entity": "Homem",
+"class": "Date"
+},
+{
+"entity": "Penafiel",
+"class": "Location"
+},
+{
+"entity": "2017",
+"class": "Date"
+},
+{
+"entity": "2022",
+"class": "Duration"
+},
+{
+"entity": "mulher",
+"class": "Person"
+},
+{
+"entity": "arguido",
+"class": "Person"
+},
+{
+"entity": "Polícia Judiciária",
+"class": "Organization"
+},
+{
+"entity": "Ministério Público",
+"class": "Organization"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are extracted from the text using a combination of tokenization, part-of-speech tagging, and named entity recognition.
+* The classes are assigned based on the typeof information associated with each entity. For example, "Date" is assigned to the entity "Homem" because the text mentions a specific date in relation to the man's actions.
+* The output list includes all entities and classes mentioned in the input text.

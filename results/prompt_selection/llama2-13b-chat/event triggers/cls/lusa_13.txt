@@ -1,0 +1,23 @@
+[
+["Autoridades judiciais", "State"],
+["Maximiliano Trimarchi", "Occurrence"],
+["Diego Maradona", "Aspectual"],
+["San Isidro", "Location"],
+["San André", "Location"],
+["Leopoldo Luque", "Person"],
+["Agustina Cosachov", "Person"],
+["telemóveis", "Object"],
+["hematoma subdural", "Aspectual"],
+["inquérito", "State"]
+]
+
+Explanation:
+
+* "Autoridades judiciais" is a state, as it refers to the current state of the investigation.
+* "Maximiliano Trimarchi" is an occurrence, as it refers to the fact that the authorities searched his apartment.
+* "Diego Maradona" is an aspectual, as it refers to the person who died.
+* "San Isidro" and "San André" are locations, as they refer to the places where the events occurred.
+* "Leopoldo Luque" and "Agustina Cosachov" arepeople, as they are the doctors who participated in the operation.
+* "telemóveis" is an object, as it refers to the devices that were aprehended.
+* "hematoma subdural" is an aspectual, as it refers to the medical condition that Maradona had.
+* "inquérito" is a state, as it refers to the ongoing investigation.

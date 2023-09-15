@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "text": "Mulher atropelada durante protesto de mariscadores na Murtosa",
+    "type": "event",
+    "time": "2019-09-11T12:50:00.000Z",
+    "source": "GNR",
+    "source_url": "https://www.lusa.pt/noticias/mulher-atropelada-em-protesto-de-mariscadores-na-murtosa-aveiro-2019-09

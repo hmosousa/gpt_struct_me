@@ -1,0 +1,9 @@
+["hoje", "à tarde", "em estado de coma", "hoje à tarde", "onze"]
+
+Explanation:
+
+* "hoje" is a time expression indicating the current day.
+* "à tarde" is a time expression indicating the afternoon.
+* "em estado de coma" is a medical expression indicating the patient's condition.
+* "hoje à tarde" is a time expression indicating the current afternoon.
+* "onze" is a time expression indicating the hour of 11.

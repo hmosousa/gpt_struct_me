@@ -1,0 +1,47 @@
+[
+{
+"entity": "Homem",
+"class": "Person"
+},
+{
+"entity": "Garrafa",
+"class": "Object"
+},
+{
+"entity": "Restaurante",
+"class": "Place"
+},
+{
+"entity": "Palmela",
+"class": "Location"
+},
+{
+"entity": "Cajados",
+"class": "Location"
+},
+{
+"entity": "Setúbal",
+"class": "Location"
+},
+{
+"entity": "Hospital de São Bernardo",
+"class": "Location"
+},
+{
+"entity": "Comando Distrital de Operações de Socorro",
+"class": "Organization"
+},
+{
+"entity": "Guarda",
+"class": "Organization"
+},
+{
+"entity": "Bombeiros da corporação de Águas de Moura",
+"class": "Organization"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with twostrings. The first string is the entity and the second is the class.
+* The entities are: Person, Object, Place, Location.
+* The classes are: Person, Object, Place, Location, Organization.
+* The output is a list of 8 elements, where each element represents a different entity and class.

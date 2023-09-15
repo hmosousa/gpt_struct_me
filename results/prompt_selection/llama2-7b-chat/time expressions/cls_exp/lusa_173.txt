@@ -1,0 +1,41 @@
+[
+{
+"entity": "Homem",
+"class": "Date"
+},
+{
+"entity": "09:56",
+"class": "Time"
+},
+{
+"entity": "Sábado",
+"class": "Date"
+},
+{
+"entity": "Hospital Infante D. Pedro",
+"class": "Location"
+},
+{
+"entity": "Transportadora J Amaral",
+"class": "Organization"
+},
+{
+"entity": "GNR de Aveiro",
+"class": "Organization"
+},
+{
+"entity": "Delegada de Saúde",
+"class": "Person"
+},
+{
+"entity": "Polícia Judiciária",
+"class": "Organization"
+},
+{
+"entity": "Viatura Médica de Emergência e Reanimação de Aveiro",
+"class": "Location"
+}
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and thesecond is the class.

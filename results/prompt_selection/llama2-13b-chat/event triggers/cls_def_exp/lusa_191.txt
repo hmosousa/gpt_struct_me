@@ -1,0 +1,33 @@
+[
+["Homem", "State"],
+["morre", "Occurrence"],
+["esfaqueado", "Aspectual"],
+["nas costas", "Perception"],
+["junto ao mercado de Arroios", "Location"],
+["em Lisboa", "Location"],
+["na sequência de um desentendimento", "Intensional Action"],
+["terá ocorrido na rua Ângela Pinto", "Location"],
+["pelas 10:54", "Time"],
+["tendo o óbito sido declarado dentro de um café", "Perception"],
+["where the victim went to seek help", "Location"],
+["Terá sido um desentendimento entre dois indivíduos que envolveu uma arma branca", "Intensional Action"],
+["having one of them been stabbed in the back", "Aspectual"],
+["Ainda a recolher informações sobre o caso", "Reporting"],
+["a PSP avançou que o suspeito do crime terá sido detido na Avenida Almirante Reisapós tentativa de fuga", "Reporting"],
+["A polícia referiu que aguarda mais dados relativamente ao suspeito", "Reporting"],
+["À Lusa, fonte da polícia adiantou ainda que a Polícia Judiciária (PJ) já foi acionada por se tratar de um crime de homicídio", "Reporting"]
+]
+
+Explanation:
+
+1. "Homem" is a noun and belongs to the class "State" because it refers to the state of being a man.
+2. "morre" is a verb and belongs to the class "Occurrence" because it refers to the event of dying.
+3. "esfaqueado" is an adjective and belongs to the class "Aspectual" because it describes the manner in which the subject died.
+4. "nas costas" is a prepositional phrase and belongs to the class "Perception" because it describes the location of the wound.
+5. "junto ao mercado de Arroios" is a prepositional phrase and belongs to the class "Location"because it describes the location where the event took place.
+6. "em Lisboa" is a prepositional phrase and belongs to the class "Location" because it describes the location where the event took place.
+7. "na sequência de um desentendimento" is a prepositional phrase and belongs to the class "Intensional Action" because it describes the cause of the event.
+8. "terá ocorrido na rua Ângela Pinto" is a prepositional phrase and belongs to the class "Location" because it describes the location where the event took place.
+9. "pelas 10:54" is a prepositional phrase and belongs to the class "Time" because it describes the time when the event took place.
+10. "tendo o óbito sido declarado dentro de um café" is a prepositional phrase and belongs to the class "Perception" because it describes the location where the victim went to seek help.
+11. "Terá sido um desentendimento entre dois indivíduos que envolveu uma arma branca" is a prepositional

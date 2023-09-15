@@ -1,0 +1,33 @@
+[
+{
+"Encontrado corpo": "homem",
+"Class": "Person"
+},
+{
+"Corpo": "corpo",
+"Class": "Object"
+},
+{
+"Zona rochosa": "zona rochosa",
+"Class": "Location"
+},
+{
+"Terceira": "Terceira",
+"Class": "Location"
+},
+{
+"Autoridade Marítima": "Autoridade Marítima",
+"Class": "Organization"
+},
+{
+"Polícia Marítima": "Polícia Marítima",
+"Class": "Organization"
+},
+{
+"Polícia de Segurança Pública": "Polícia de Segurança Pública",
+"Class": "Organization"
+
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

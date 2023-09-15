@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2020-02-08T00:00:00.000Z",
+        "time": "2020-02-08T00:00:00.000Z",
+        "duration": "2020-02-08T00:00:00.000Z",
+        "class": "Time"
+    },
+    {
+        "date": "2020-02-08T00:00:00.000Z",
+        "time": "2020-02-08T00:00:00.000Z",
+        "duration": "2020-02-08T00:00:00.000Z",
+        "class": "Duration"
+    },
+    {
+        "date": "2020-02-08T00:00:00.000Z",
+        "time": "2020-02-08T00:00:00.000Z",
+        "duration": "2020-02-08T00:00:00.000Z",
+        "class": "Set"
+    }
+]
+
+I'm trying to extract the time expressions from the JSON file and classify them into the appropriate classes.
+I'm using the following code:
+import json
+import re
+
+with open('data.json') as f:
+    data = json.load(f)
+
+for i in data:
+    date = i['date']
+    time = i['time']
+    duration = i['duration']
+    class = i['class']
+
+    if re.search('(?<=\s)(?P<date>\d{4}-\d{2}-\d{2}-\d{2}-\d{

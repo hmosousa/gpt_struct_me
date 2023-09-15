@@ -1,0 +1,4 @@
+["12.300 doses de haxixe", "segunda-feira", "hoje", "primeiro interrogatório", "eventual aplicação de medidas de coação"]
+
+Hint:
+There are several time expressions in the text. Some of them are explicit (e.g. "segunda-feira", "hoje"), while others are implicit (e.g. "no decorrer de uma ação de patrulhamento").

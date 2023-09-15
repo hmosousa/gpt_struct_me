@@ -1,0 +1,9 @@
+[["Homem", "Date"], ["morto", "Date"], ["hoje", "Date"], ["20:20", "Time"], ["tiro", "Duration"], ["caçadeira", "Set"], ["PSP", "Organization"], ["Lusa", "Organization"], ["Direção Nacional", "Organization"], ["Polícia Judiciária", "Organization"]]
+Explanation:
+* "Homem" is classified as "Date" because it refers to a person who died.
+* "morto" is classified as "Date" because it is a verb that means "dead".
+* "hoje" is classified as "Date" because it means "today".
+* "20:20" is classified as "Time" because it is a specific time of day.
+* "tiro" is classified as "Duration" because it means "shot".
+* "caçadeira" is classified as "Set" because it is a type of weapon.
+* "PSP", "Lusa", "Direção Nacional", and "Polícia Judiciária" areclassified as "Organization" because they are names of organizations mentioned in the text.

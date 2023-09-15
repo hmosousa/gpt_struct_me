@@ -1,0 +1,12 @@
+[
+"PJ detém homem suspeito de balear jovem",
+"conflito com um grupo de convivas",
+"disparou sobre a vítima",
+"alvejar um jovem do grupo",
+"ferimentos consideráveis num ombro e braço",
+"fugiu do local",
+"indiciado pelos crimes de homicídio qualificado na forma tentada",
+"detenção de arma proibida",
+"omissão de auxílio",
+"prisão preventiva"
+]

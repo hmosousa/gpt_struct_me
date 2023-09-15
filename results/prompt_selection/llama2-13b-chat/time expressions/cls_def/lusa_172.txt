@@ -1,0 +1,47 @@
+[
+["Corpo", "Date"],
+["homem", "Time"],
+["encontrado", "Set"],
+["hoje", "Time"],
+["tarde", "Time"],
+["praia", "Set"],
+["da Estaquinha", "Set"],
+["Lagoa", "Set"],
+["Algarve", "Set"],
+["revelou", "Time"],
+["as autoridades", "Set"],
+["caído", "Time"],
+["praia de Lagoa", "Set"],
+["do distrito de Faro", "Set"],
+["alerta", "Time"],
+["para o avistamento de um corpo a boiar no mar", "Set"],
+["Estação Salva-vidas de Ferragudo", "Set"],
+["procedeu à recolha do corpo", "Time"],
+["transportando-o para a marina de Portimão", "Time"],
+["o óbito foi declarado no local pela delegada de saúde de Lagoa", "Time"],
+["tendo o corpo sido transportado para o gabinete de medicinalegal de Portimão", "Time"]
+]
+
+Explanation:
+
+* Corpo: Date (the entity "Corpo" is a date)
+* homem: Time (the entity "homem" is a time)
+* encontrado: Set (the entity "encontrado" is a set)
+* hoje: Time (the entity "hoje" is a time)
+* tarde: Time (the entity "tarde" is a time)
+* praia: Set (the entity "praia" is a set)
+* da Estaquinha: Set (the entity "da Estaquinha" is a set)
+* Lagoa: Set (the entity "Lagoa" is a set)
+* Algarve: Set (the entity "Algarve" is a set)
+* revelou: Time (the entity "revelou" is a time)
+* as autoridades: Set (the entity "as autoridades" is a set)
+* caído: Time (the entity "caído" is a time)
+* praia de Lagoa: Set (the entity "praia de Lagoa" is a set)
+* do distrito de Faro: Set (the entity "do distrito de Faro" is a set)
+* alerta: Set (the entity "alerta" is a set)
+* para o avistamento de um corpo a boiar no mar: Set (the entity "para o avistamento de um corpo a boiar no mar" is a set)
+* Estação Salva-vidas de Ferragudo: Set (the entity "Estação Salva-vidas de Ferragudo" is a set)
+* procedeu à recolha do corpo: Time (the entity "procedeu à recolha do corpo" is a time)
+* transportando-o para a marina de Portimão: Time (the entity "transportando-o para a marina de Portimão" is a time)
+* o óbito foi declarado no local pela delegada de saúde de Lagoa: Time (the entity "o óbito foi declarado no local pela delegada de saúde de Lagoa" is a time)
+* tendo o

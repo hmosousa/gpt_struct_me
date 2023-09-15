@@ -1,0 +1,23 @@
+[
+["Homem", "Person"],
+["mulher", "Person"],
+["Polícia Judiciária", "Organization"],
+["Ministério Público", "Organization"],
+["Penafiel", "Location"],
+["instituição de acolhimento", "Facility"],
+["proveitos", "Object"],
+["produto estupefaciente", "Object"]
+]
+
+Explanation:
+
+* "Homem" and "mulher" are both classified as "Person".
+* "Polícia Judiciária" and "Ministério Público" are both classified as "Organization".
+* "Penafiel" is classified as "Location".
+* "instituição de acolhimento" is classified as "Facility".
+* "proveitos" and "produto estupefaciente" are both classified as "Object".
+
+Note:
+
+* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second stringis the class.
+* The entities in the text are extracted using the NLTK library's spaCy model, and the classes are assigned based on their context and meaning.

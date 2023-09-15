@@ -1,0 +1,18 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element is the entity and the second is the class.
+
+Example:
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+

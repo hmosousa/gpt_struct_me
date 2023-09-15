@@ -1,0 +1,16 @@
+[
+["12:50", "Time"],
+["hoje", "Date"],
+["cerca de uma semana", "Duration"],
+["já", "Set"]
+]
+
+Explanation:
+The input text contains four time expressions: "12:50", "hoje", "cerca de uma semana", and "já".
+
+* "12:50" is a time expression that can be classified as "Time".
+* "hoje" is a date expression that can be classified as "Date".
+* "cerca de uma semana" is a duration expression that can be classified as "Duration".
+* "já" is a set expression that can be classified as "Set".
+
+Therefore, the output should be a JSON-parseable list with four elements, each containing the time expression and its corresponding class.

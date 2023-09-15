@@ -1,0 +1,50 @@
+[
+{
+"entity": "Homem",
+"class": "Aspectual"
+},
+{
+"entity": "pessoas",
+"class": "Count"
+},
+{
+"entity": "facas",
+"class": "Object"
+},
+{
+"entity": "ataque",
+"class": "Event"
+},
+{
+"entity": "suspeito",
+"class": "Person"
+},
+{
+"entity": "motivo",
+"class": "Aspectual"
+},
+{
+"entity": "lei chinesa",
+"class": "Law"
+},
+{
+"entity": "arma de fogo",
+"class": "Object"
+},
+{
+"entity": "ataques em massa",
+"class": "Event"
+},
+{
+"entity": "escola",
+"class": "Location"
+},
+{
+"entity": "jardim de infância",
+"class": "Location"
+},
+{
+"entity": "centro comercial",
+"class": "Location"
+}
+]

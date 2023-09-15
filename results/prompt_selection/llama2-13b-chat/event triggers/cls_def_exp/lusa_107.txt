@@ -1,0 +1,25 @@
+[
+["Mulher", "State"],
+["atropelada", "Occurrence"],
+["protesto", "Reporting"],
+["mariscadores", "Aspectual"],
+["Torreira", "Location"],
+["viatura", "Object"],
+["condutor", "Agent"],
+["ferimentos", "State"],
+["hospital", "Location"]
+]
+
+Explanation:
+
+* "Mulher" is a State, as it describes a permanent condition of the person.
+* "atropelada" is an Occurrence, as it describes a specific event that happened to the woman.
+* "protesto" is a Reporting event, as it describes an ongoing action or situation.
+* "mariscadores" is an Aspectual event, as it describes the ongoing action of the fishermen.
+* "Torreira" is a Location, as it describes a specific place.
+* "viatura" is an Object, as it describes a specific vehicle.
+* "condutor" is an Agent, as it describes the person who was driving the vehicle.
+* "ferimentos" is a State, as it describes the injuries sustained by the woman.
+* "hospital" is a Location, as it describes a specific place where the woman was taken.
+
+Note: The output is a JSON-parseable list, where each element is a list with two strings, representing the entity and the class.

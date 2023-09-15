@@ -1,0 +1,18 @@
+'m trying to parse the JSON file and get the text of the "Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal"
+I'm using the following code:
+import json
+
+with open('data.json') as f:
+    data = json.load(f)
+
+for i in data:
+    print(i)
+
+But I'm getting the following error:
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\python\data.py", line 4, in <module>
+    data = json.load(f)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\__init__.py", line 108, in load
+    return self.load_string(s, **kw)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\json\__init__.py", line 101, in load_string
+    return self.load_

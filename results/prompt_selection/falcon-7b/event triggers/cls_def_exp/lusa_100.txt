@@ -1,0 +1,66 @@
+[
+    {
+        "entity": "Violência doméstica",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Pulseira eletrónica para homem",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Homem de 39 anos",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Suspeito",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Violência física",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Injúria",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Ameaça de morte",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Ex-companheira",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Penafiel",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Local de trabalho",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Teleassistência",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Botão de pânico",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Ilícitos da mesma natureza",
+        "class": "Intensional State"
+    },
+    {
+        "entity": "Proibido de contactar",
+        "class": "Intensional State"
+    }
+]
+
+Example:
+[
+    {
+        "entity": "Violência doméstica",
+        "class": "Intensional State"
+    },
+    {

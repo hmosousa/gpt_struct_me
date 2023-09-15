@@ -1,0 +1,22 @@
+[
+"homem morto",
+"tiro no Barreiro",
+"atirador em fuga",
+"incidente ocorreu",
+"20:20 de hoje",
+"suspeita de homicídio",
+"armas de fogo",
+"Polícia Judiciária"
+]
+Explanation:
+The task is to extract all the event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this case, the event triggers are:
+* "homem morto" (dead man)
+* "tiro no Barreiro" (shooting in Barreiro)
+* "atirador em fuga" (shooter in flight)
+* "incidente ocorreu" (incident occurred)
+* "20:20 de hoje" (20:20 today)
+* "suspeita de homicídio" (suspicion of murder)
+* "armas de fogo" (firearms)
+* "Polícia Judiciária" (Public Prosecutor's Office)
+
+Note that some of these event triggers are mentioned multiple times in the text, but they are only listed once in the output.

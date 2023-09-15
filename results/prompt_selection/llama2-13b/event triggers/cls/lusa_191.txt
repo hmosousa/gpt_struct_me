@@ -1,0 +1,142 @@
+"Homem": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"morre": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"após": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"ser": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"esfaqueado": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+ "Intensional Action",
+  "Intensional State"
+]
+
+"nas": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"costas": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"junto": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"ao": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"mercado": [
+  "State",
+  "Occurrence",
+  "Reporting",
+ "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"de": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"Arroios": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"em": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"Lisboa": [
+  "State",
+  "Occurrence",
+  "Reporting",
+  "Perception",
+  "Aspectual",
+  "Intensional Action",
+  "Intensional State"
+]
+
+"Um": [
+  "

@@ -1,0 +1,8 @@
+[
+"homem",
+"pescador",
+"Autoridade Marítima",
+"Estação Salva-vidas de Ferragudo",
+"delegada de saúde de Lagoa",
+"Polícia Marítima de Portimão"
+]

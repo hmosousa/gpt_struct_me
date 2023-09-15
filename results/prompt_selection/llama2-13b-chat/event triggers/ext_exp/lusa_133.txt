@@ -1,0 +1,18 @@
+
+[
+"apreensao",
+"atum-rabilho",
+"cumprimento",
+"descarca",
+"transporte",
+"comercialização",
+"primeira venda",
+"pescado fresco",
+"embarcação de pesca",
+"condutor",
+"mestre",
+"coima",
+"infração",
+"higiossanitário",
+"solidariedade social"
+]

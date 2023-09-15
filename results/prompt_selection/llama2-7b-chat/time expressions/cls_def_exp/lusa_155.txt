@@ -1,0 +1,41 @@
+[
+{
+"entity": "um homem de 69 anos",
+"class": "Set"
+},
+{
+"entity": "restaurante em Cajados",
+"class": "Set"
+},
+{
+"entity": "Palmela",
+"class": "Set"
+},
+{
+"entity": "concelho de Palmela",
+"class": "Set"
+},
+{
+"entity": "GNR",
+"class": "Set"
+},
+{
+"entity": "hospital de São Bernardo",
+"class": "Set"
+},
+{
+"entity": "Setúbal",
+"class": "Set"
+},
+{
+"entity": "Comando Distrital de Operações de Socorro",
+"class": "Set"
+},
+{
+"entity": "bombeiros da corporação de Águas de Moura",
+"class": "Set"
+}
+]
+
+Note:
+The output is a list of JSON objects, where each object represents a temporal expression and has two fields: "entity" and "class". The "entity" field contains the name of the entity expressed by the temporal expression, and the "class" field contains the class of the entity according to the definition provided.

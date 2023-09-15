@@ -1,0 +1,78 @@
+[
+    {
+        "entity": "Homem de 48 anos",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Morre",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Concelho de Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Distrito de Bragança",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Bragança",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Distrito de Bragança",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Concelho de Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Distrito de Bragança",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {
+        "entity": "Mogadouro",
+        "class": "Occurrence"
+    },
+    {

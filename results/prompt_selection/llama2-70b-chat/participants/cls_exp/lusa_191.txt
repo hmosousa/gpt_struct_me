@@ -1,0 +1,30 @@
+[
+["Homem", "Person"],
+["Lisboa", "Location"],
+["mercado de Arroios", "Location"],
+["PSP", "Organization"],
+["Comando Metropolitano de Lisboa", "Organization"],
+["Cometlis", "Organization"],
+["polícia", "Organization"],
+["PJ", "Organization"],
+["Avenida Almirante Reis", "Location"],
+["Polícia Judiciária", "Organization"],
+["crime de homicídio", "Nature"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each participant in the text into one of the predefined classes. The classes are:
+
+* Person: A person or individual involved in the text.
+* Organization: A group or organization involved in the text.
+* Object: A physical object or entity involved in the text.
+* Location: A location or place mentioned in the text.
+* Nature: A natural entity or phenomenon mentioned in the text.
+* Facility: A man-made structure or facility mentioned in the text.
+* Other: Any other entity or concept that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity mentioned in the text, and the second string is the class label.
+
+In this task, the input text is in Portuguese, and the entities and classes should be identified and classified accordingly.

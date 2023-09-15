@@ -1,0 +1,28 @@
+[
+["Mulher", "Person"],
+["mariscadores", "Organization"],
+["Uma mulher de 44 anos", "Person"],
+["condutor da viatura", "Person"],
+["GNR", "Organization"],
+["Lusa", "Organization"],
+["Torreira", "Location"],
+["Aveiro", "Location"],
+["Hospital de Aveiro", "Facility"],
+["ria de Aveiro", "Location"]
+]
+
+Explanation:
+The input text describes a situation where a woman was hit by a car during a protest of mariscadores (shellfish farmers) in Murtosa, Aveiro. The participants in this situation can be identified as:
+
+* Mulher (woman) - Person
+* Mariscadores (shellfish farmers) - Organization
+* Uma mulher de 44 anos (a 44-year-old woman) - Person
+* Condutor da viatura (driver of the vehicle) - Person
+* GNR (National Republican Guard) - Organization
+* Lusa (news agency) - Organization
+* Torreira (location of the protest) - Location
+* Aveiro (location of the hospital) - Location
+* Hospital de Aveiro (Aveiro Hospital) - Facility
+* Ria de Aveiro (Aveiro River) - Location
+
+Therefore, the output is a list of pairs, where each pair consists of the name of the participant and its corresponding class.

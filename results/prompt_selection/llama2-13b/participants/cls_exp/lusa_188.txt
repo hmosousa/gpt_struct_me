@@ -1,0 +1,30 @@
+[
+  [
+    "Person",
+    "Organization"
+  ],
+  [
+    "Organization",
+    "Object"
+  ],
+  [
+    "Object",
+    "Location"
+  ],
+  [
+    "Location",
+    "Nature"
+  ],
+  [
+    "Nature",
+    "Facility"
+  ],
+  [
+    "Facility",
+    "Other"
+  ],
+  [
+    "Other",
+    "Other"
+  ]
+]
