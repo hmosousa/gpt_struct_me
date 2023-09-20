@@ -1,8 +1,0 @@
-'m trying to parse a JSON file with the following code:
-import json
-
-with open('data.json') as f:
-    data = json.load(f)
-
-for event in data['events']:
-    print(event)

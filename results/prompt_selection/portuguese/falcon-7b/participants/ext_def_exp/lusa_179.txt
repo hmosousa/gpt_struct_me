@@ -1,7 +1,0 @@
-["Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se", "Um juiz de instrução ordenou a prisão preventiva de um homem de 47 anos de idade que o Ministério Público (MP) de Penafiel indiciou por obrigar a mulher com quem vivia a prostituir-se, informou hoje fonte policial.", "Em comunicado, a Polícia Judiciária, que deteve o homem e o levou a juiz de instrução por indicação do MP, revela ainda que a vítima, de 26 anos, foi colocada numa instituição de acolhimento para pessoas sujeitas a este tipo de crime.", "A mulher “vivia em comunhão de vida desde 2017 com o arguido, que a sujeitava a exploração sexual na via pública, ficando com os proveitos obtidos dessa prática", segundo a PJ.", "Desde essa altura e até a atualidade, relata a polícia, “a vítima fugiu algumas vezes da sujeição a que estava submetida, mas era localizada pelo suspeito e obrigada ou convencida a voltar para junto de si, sob promessa de receber produto estupefaciente do qual é dependente, que o arguido lhe cedia."]
-
-Input:
-"Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se"
-
-Output:
-"[

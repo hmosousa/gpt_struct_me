@@ -1,8 +1,0 @@
-[
-  {
-    "id": "1",
-    "text": "Homem morre após ser esfaqueado nas costas junto ao mercado de Arroios em Lisboa",
-    "type": "text",
-    "timestamp": "2021-08-11T14:34:00.000Z",
-    "source": "Lusa",
-    "source_url": "https://www.lusa.pt/noticias/

@@ -1,8 +1,0 @@
-["Homem encontrado morto em cisterna de camião em Estarreja", "Uma mulher de 34 anos, funcionária da Transportadora J Amaral, em Estarreja, foi hoje encontrada morta no interior da cisterna de um camião, disse à Lusa fonte da GNR de Aveiro.
-O alerta foi dado pelas 09:56 e a mulher, que alegadamente estaria a fazer a manutenção da cisterna, encontrava-se desaparecida desde sábado, acrescentou à Lusa o comandante dos Bombeiros de Estarreja, Joaquim Rebelo.
-A cisterna onde a funcionária da transportadora estava a trabalhar encontrava-se aberta, acrescentou o graduado, que não conseguiu determinar a causa da morte.
-Ainda segundo a fonte da GNR compareceu no local a Delegada de Saúde e a Polícia Judiciária, que tomou conta da ocorrência.
-No local esteve também a Viatura Médica de Emergência e Reanimação de Aveiro, que fez o transporte do cadáver para o Hospital Infante D. Pedro, acrescentou a fonte dos bombeiros."
-
-Output:
-"[

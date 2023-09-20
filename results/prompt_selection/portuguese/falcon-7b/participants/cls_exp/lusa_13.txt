@@ -1,5 +1,0 @@
-'m not sure if I'm doing this right, but I'm trying to extract the information from the article and put it into a JSON file.
-I'm using the following code:
-import json
-
-with open('
