@@ -1,0 +1,1 @@
+["Friday", "last Friday", "last week", "two weeks ago", "six weeks ago"]

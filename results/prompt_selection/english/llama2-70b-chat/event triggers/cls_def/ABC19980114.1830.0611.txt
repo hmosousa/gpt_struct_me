@@ -1,0 +1,65 @@
+[
+["TWA Flight eight hundred went down", "Occurrence"],
+["TWA pilot Steven Snyder", "State"],
+["TWA's eight hundred heavy climb and maintain one five thousand", "State"],
+["a pilot from a nearby flight calls in", "Occurrence"],
+["explosion up ahead of us", "Occurrence"],
+["TWA eight hundred", "State"],
+["controller at Boston center tries to raise TWA eight hundred", "Action"],
+["TWA eight hundred", "State"],
+["pilot for more details", "Action"],
+["It- It just blew up in the air", "Occurrence"],
+["two fireballs go down to the, to the water", "Occurrence"],
+["big small, ah, smoke", "State"],
+[" controllers could not contact the plane", "State"],
+["someone said a prayer", "Action"],
+["TWA eight hundred center", "State"],
+["God bless him", "Action"]
+]
+
+Note:
+The classes are not mutually exclusive, and an event can belong to multiple classes.
+
+This task is a bit tricky, as it requires identifying the events described in the text and classifying them into the appropriate categories. Here's a breakdown of the events and their corresponding classes:
+
+1. "TWA Flight eight hundred went down" - Occurrence
+2. "TWA pilot Steven Snyder" - State
+3. "TWA's eight hundred heavy climb and maintain one five thousand" - State
+4. "a pilot from a nearby flight calls in" - Occurrence
+5. "explosion up ahead of us" - Occurrence
+6. "TWA eight hundred" - State
+7. "controller at Boston center tries to raise TWA eight hundred" - Action
+8. "TWA eight hundred" - State
+9. "pilot for more details" - Action
+10. "It- It just blew up in the air" - Occurrence
+11. "two fireballs go down to the, to the water" - Occurrence
+12. "big small, ah, smoke" - State
+13. "controllers could not contact the plane" - State
+14. "someone said a prayer" - Action
+15. "TWA eight hundred center" - State
+16. "God bless him" - Action
+
+The classes are not mutually exclusive, and an event can belong to multiple classes. For example, "TWA eight hundred went down" can be classified as both an Occurrence and a State.
+
+Here's the JSON-parseable list of events and their classes:
+
+[
+["TWA Flight eight hundred went down", "Occurrence"],
+["TWA pilot Steven Snyder", "State"],
+["TWA's eight hundred heavy climb and maintain one five thousand", "State"],
+["a pilot from a nearby flight calls in", "Occurrence"],
+["explosion up ahead of us", "Occurrence"],
+["TWA eight hundred", "State"],
+["controller at Boston center tries to raise TWA eight hundred", "Action"],
+["TWA eight hundred", "State"],
+["pilot for more details", "Action"],
+["It- It just blew up in the air", "Occurrence"],
+["two fireballs go down to the, to the water", "Occurrence"],
+["big small, ah, smoke", "State"],
+["controllers could not contact the plane", "State"],
+["someone said a prayer", "Action"],
+["TWA eight hundred center", "State"],
+["God bless him", "Action"]
+]
+
+I hope this helps! Let me know if you have any questions.

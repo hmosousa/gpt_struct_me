@@ -1,0 +1,16 @@
+[
+"yesterday",
+"1988",
+"1989",
+"next year",
+"seven cents a share",
+"six cents a share",
+"1988 recapitalization",
+"1989 operating results",
+"1985 million of bank debt",
+"$54 million in scheduled payments",
+"$121 million in prepayments",
+"$82.8 million from operating cash flow",
+"zero-coupon subordinated debt",
+"assets sales"
+]

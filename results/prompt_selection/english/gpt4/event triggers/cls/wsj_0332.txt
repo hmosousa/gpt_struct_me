@@ -1,0 +1,23 @@
+[
+["is making", "Intensional Action"],
+["bid", "Occurrence"],
+["said", "Reporting"],
+["offer", "Occurrence"],
+["has already been accepted", "State"],
+["give", "Intensional Action"],
+["said", "Reporting"],
+["were considering", "Intensional State"],
+["merger", "Occurrence"],
+["said", "Reporting"],
+["would fund", "Intensional Action"],
+["acquisition", "Occurrence"],
+["would be followed", "Aspectual"],
+["restructuring", "Occurrence"],
+["including", "Aspectual"],
+["addition", "Occurrence"],
+["possibly further acquisitions", "Occurrence"],
+["said", "Reporting"],
+["would seek", "Intensional Action"],
+["make", "Intensional Action"],
+["public share offering", "Occurrence"]
+]

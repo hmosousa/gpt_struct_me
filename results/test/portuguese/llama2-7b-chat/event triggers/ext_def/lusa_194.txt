@@ -1,0 +1,18 @@
+[
+"morte",
+"investiga",
+"violenta",
+"homem",
+"60 anos",
+"Celorico de Basto",
+"Gandarela",
+"Braga",
+"lesão grave cranioencefálica",
+"INEM",
+"socorro",
+"Cruz Vermelha",
+"paragem cardiorrespiratória",
+"morgue",
+"Guimarães",
+"01:00"
+]

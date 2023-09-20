@@ -1,0 +1,17 @@
+[
+"morre",
+"caindo",
+"telhado",
+"limpar",
+"homem",
+"Matosinhos",
+"distrito",
+"Porto",
+"acidente",
+"Rua",
+"Augusto",
+"Gil",
+"sete",
+"bombeiros",
+"Leixões"
+]

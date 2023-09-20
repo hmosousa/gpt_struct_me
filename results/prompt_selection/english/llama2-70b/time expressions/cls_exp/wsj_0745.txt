@@ -1,0 +1,24 @@
+["General Motors Corp.", "Set"], ["$15 million", "Duration"], ["U.S.", "Location"], ["Detroit", "Location"], ["No. 1 U.S. auto maker", "Set"], ["Jaguar", "Set"], ["Tuesday", "Date"], ["Ford", "Set"], ["Britain", "Location"], ["London", "Location"], ["Dearborn", "Location"], ["Michigan", "Location"], ["December 31st, 1986", "Date"], ["House of Commons", "Set"], ["Britoil PLC", "Set"], ["Detroit", "Location"], ["Coventry", "Location"]]
+"""
+import json
+from datetime import date, timedelta
+
+def extract_time(text):
+   """Extract time expressions from text and return them as a list of strings"""
+   # TODO: Implement this function
+   raise NotImplementedError()
+
+def classify_time(times):
+   """Classify each time expression in times into one of four classes: Date, Time, Duration, Set"""
+   # TODO: Implement this function
+   raise NotImplementedError()
+
+if __name__ == '__main__':
+   with open('data/jaguar-news.txt') as f:
+       news = f.read().lower()
+   
+   times = extract_time(news)
+   print("Times found:\n{}".format('\n'.join(times)))
+   
+   classes = [classify_time(t) for t in times]
+   print("\nClasses found:\n{}".format('\n'.join([json.dumps(c) for c in classes])))

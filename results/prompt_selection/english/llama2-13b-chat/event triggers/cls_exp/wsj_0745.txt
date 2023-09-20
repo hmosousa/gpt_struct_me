@@ -1,0 +1,43 @@
+
+[
+["General Motors Corp.", "State"],
+["Jaguar PLC", "State"],
+["Ford Motor Co.", "State"],
+["Britain", "State"],
+["U.S.", "State"],
+["Detroit", "Location"],
+["London", "Location"],
+["Conservative", "Political Party"],
+["Parliament", "Government"],
+["Select Committee on Trade and Industry", "Government"],
+["House of Commons", "Government"],
+["Britoil PLC", "Company"],
+["British Petroleum Co.", "Company"],
+["Britain's water and electricity industries", "Industry"]
+]
+
+Explanation:
+
+1. General Motors Corp. - State (entity) and Aspectual (class)
+2. Jaguar PLC - State (entity) and Aspectual (class)
+3. Ford Motor Co. - State (entity) and Aspectual (class)
+4. Britain - State (entity) and Aspectual (class)
+5. U.S. - State (entity) and Aspectual (class)
+6. Detroit - Location (entity) and Aspectual (class)
+7. London - Location (entity) and Aspectual (class)
+8. Conservative - Political Party (entity) and Aspectual (class)
+9. Parliament - Government (entity) and Aspectual (class)
+10. Select Committee on Trade and Industry - Government (entity) and Aspectual (class)
+11. House of Commons - Government (entity) and Aspectual (class)
+12. Britoil PLC - Company (entity) and Aspectual (class)
+13. British Petroleum Co. - Company (entity) and Aspectual (class)
+14. Britain's water and electricity industries - Industry (entity) and Aspectual (class)
+
+Note:
+
+* State refers to the entity's current status or condition, such as being a company, government, or location.
+* Aspectual refers to the entity's relationship to the event or action described in the text, such as being the subject or object of the action.
+* Location refers to the entity's physical location.
+* Political Party and Government refer to the entity's political affiliation or role in government.
+* Company refers to the entity's status as a business organization.
+* Industry refers to the entity's primary area of activity or product.

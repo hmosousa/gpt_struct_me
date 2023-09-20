@@ -1,0 +1,66 @@
+[
+["last week", "Date"],
+["Tuesday", "Date"],
+["yesterday", "Date"],
+["15%", "Set"],
+["$15 million", "Duration"],
+["30%", "Set"],
+["an eventual 30%", "Duration"],
+["near-record 720 pence ($11.60)", "Date"],
+["nearly 4%", "Duration"],
+["Dec. 31, 1990", "Date"],
+["14 months", "Duration"],
+["part of a nationalistic practice", "Duration"],
+["1984", "Date"],
+["100%", "Set"],
+["a special shareholders' meeting", "Date"],
+["current financial difficulties", "Duration"],
+["$2.5 billion ($4 billion)", "Duration"],
+["1988", "Date"],
+["this week", "Date"],
+["Tuesday", "Date"],
+["unrelated", "Duration"],
+["over lunch Tuesday", "Date"],
+["marginal Tory seats", "Duration"],
+["Coventry", "Date"],
+["electricity industries", "Duration"],
+["controversial plans", "Duration"],
+["Prime Minister Margaret Thatcher", "Date"],
+["any request", "Duration"],
+["early removal", "Duration"],
+["friendly suitor bid", "Duration"],
+["Sir John Egan", "Date"],
+["the key", "Duration"]
+]
+
+Explanation:
+
+* "last week" and "Tuesday" are classified as Dates.
+* "yesterday" is classified as a Date.
+* "15%" and "30%" are classified as Sets.
+* "$15 million" and "near-record 720 pence ($11.60)" are classified as Durations.
+* "an eventual 30%" is classified as a Duration.
+* "nearly 4%" is classified as a Duration.
+* "Dec. 31, 1990" is classified as a Date.
+* "14 months" is classified as a Duration.
+* "part of a nationalistic practice" is classified as a Duration.
+* "1984" is classified as a Date.
+* "100%" is classified as a Set.
+* "a special shareholders' meeting" is classified as a Date.
+* "current financial difficulties" is classified as a Duration.
+* "$2.5 billion ($4 billion)" is classified as a Duration.
+* "1988" is classified as a Date.
+* "this week" is classified as a Date.
+* "Tuesday" is classified as a Date.
+* "unrelated" is classified as a Duration.
+* "over lunch Tuesday" is classified as a Date.
+* "marginal Tory seats" is classified as a Duration.
+* "Coventry" is classified as a Date.
+* "electricity industries" is classified as a Duration.
+* "controversial plans" is classified as a Duration.
+* "Prime Minister Margaret Thatcher" is classified as a Date.
+* "any request" is classified as a Duration.
+* "early removal" is classified as a Duration.
+* "friendly suitor bid" is classified as a Duration.
+* "Sir John Egan" is classified as a Date.
+* "the key" is classified as a Duration.

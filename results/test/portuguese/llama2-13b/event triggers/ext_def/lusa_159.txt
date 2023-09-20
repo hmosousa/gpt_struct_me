@@ -1,0 +1,24 @@
+["PJ da Guiné-Bissau detém homem com três quilos de cocaína no aeroporto", "A Polícia Judiciária da Guiné-Bissau deteve no sábado um homem na posse de três quilogramas de cocaína, quando tentava embarcar num voo com destino a Lisboa, anunciou aquela força policial, em comunicado.", "Segundo o comunicado, o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura e foi detido no aeroporto internacional Osvaldo Vieira, em Bissau.", "A PJ acrescenta que o homem, com 47 anos de idade, será hoje presente ao Ministério Público.", "No início de outubro, a PJ já tinha detido também no aeroporto Osvaldo Vieira um outro cidadão luso-guineense, com 22 anos de idade, na posse de um quilograma de cocaína, quando se preparava para viajar para Lisboa.", "No âmbito daquela detenção, a PJ deteve igualmente três homens por alegado envolvimento na \"aquisição, entrega e facilitação na introdução\" da droga no interior do aeroporto."]
+
+Explanation:
+The event triggers are the sentences that contain the word "detém" (detain).
+
+Subtask:
+Extract all event triggers.
+
+Definition:
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ da Guiné-Bissau detém homem com três quilos de cocaína no aeroporto
+A Polícia Judiciária da Guiné-Bissau deteve no sábado um homem na posse de três quilogramas de cocaína, quando tentava embarcar num voo com destino a Lisboa, anunciou aquela força policial, em comunicado.
+Segundo o comunicado, o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura e foi detido no aeroporto internacional Osvaldo Vieira, em Bissau.
+A PJ acrescenta que o homem, com 47 anos de idade, será hoje presente ao Ministério Público.
+No início de outubro, a PJ já tinha detido também no aeroporto Osvaldo Vieira um outro cidadão luso-guineense, com 22 anos de idade, na posse de um quilograma de cocaína, quando se preparava para viajar para Lisboa.
+No âmbito daquela detenção, a PJ deteve igualmente três homens por alegado envolvimento na \"aquisição, entrega e facilitação na introdução\" da droga no interior do aeroporto."
+
+Output:
+["PJ da Guiné-Bissau detém homem com três quilos de cocaína no aeroporto", "A Polícia Judiciária da Guiné-Bissau deteve no sábado um homem na posse de três quilogramas de cocaína, quando tentava embarcar num voo com destino a Lisboa, anunciou aquela força policial, em comunicado.", "Segundo o comunicado, o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura e foi detido no aeroporto internacional Osvaldo Vieira, em Bissau.", "A PJ acrescenta que o homem, com 47 anos de idade, será ho

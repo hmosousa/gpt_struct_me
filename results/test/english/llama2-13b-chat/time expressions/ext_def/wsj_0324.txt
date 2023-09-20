@@ -1,0 +1,10 @@
+["$423 million", "20 million", "one-eighth", "19", "last year", "about"]
+
+Explanation:
+
+* "$423 million" is a specific point in time, representing the amount paid for the acquisition.
+* "20 million" is a specific point in time, representing the number of fully diluted shares.
+* "one-eighth" is a unit of time, representing the fraction of QVC shares paid for each CVN share.
+* "19" is a specific point in time, representing the number of QVC shares paid for each CVN share.
+* "last year" is a time period, representing the time frame in which the sales of the video shopping industry occurred.
+* "about" is a hedge that indicates an approximation or an estimate.

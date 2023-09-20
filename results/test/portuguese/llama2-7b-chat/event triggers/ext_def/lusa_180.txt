@@ -1,0 +1,16 @@
+[
+"detém",
+"falsificação",
+"testes",
+"fins de viagem",
+"localização",
+"obrigatório",
+"quarentena",
+"emissão",
+"turismo",
+"cumulativo",
+"casos",
+"óbitos",
+"pessoas",
+"recuperadas"
+]

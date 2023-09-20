@@ -1,0 +1,14 @@
+[
+"30 e 60 anos",
+"30 dias",
+"60 dias",
+"11 autos de contraordenação",
+"11 dias"
+]
+
+Explanation:
+
+* "30 e 60 anos" is a time expression indicating the age range of the suspects.
+* "30 dias" and "60 dias" are time expressions indicating the time frame for the suspects to respond to the contravention notices.
+* "11 autos de contraordenação" is a time expression indicating the number of contravention notices issued.
+* "11 dias" is a time expression indicating the time frame for the notices to be responded to.

@@ -1,0 +1,35 @@
+[
+["Detido", "Person"],
+["pai", "Person"],
+["filhos", "Object"],
+["três", "Object"],
+["anos", "Object"],
+["Sonora", "Location"],
+["Hidalgo", "Location"],
+["procuradores", "Organization"],
+["gabinete", "Organization"],
+["telefonou", "Action"],
+["avô", "Person"],
+["polícia", "Organization"],
+["discutiu", "Action"],
+["matou", "Action"],
+["causar", "Action"],
+["dor", "Object"]
+]
+
+Explanation:
+
+* Detido is a person, as it refers to the individual who was detained.
+* Pai is a person, as it refers to the father of the children.
+* Filhos is an object, as it refers to the children.
+* Três is an object, as it refers to the number three.
+* Anos is an object, as it refers to the age of the children.
+* Sonora and Hidalgo are locations, as they are names of states in Mexico.
+* Procuradores and gabinete are organizations, as they refer to the prosecutors' office and the government office, respectively.
+* Telefonou is an action, as it refers to the act of calling.
+* Avô is a person, as it refers to the grandfather of the children.
+* Polícia is an organization, as it refers to the police.
+* Discutiu is an action, as it refers to the act of discussing.
+* Matou is an action, as it refers to the act of killing.
+* Causar is an action, as it refers to the act of causing.
+* Dor is an object, as it refers to the pain caused by the death of the children.

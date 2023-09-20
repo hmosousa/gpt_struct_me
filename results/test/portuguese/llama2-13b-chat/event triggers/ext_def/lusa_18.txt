@@ -1,0 +1,7 @@
+["fogo posto", "incêndio", "suspeitas de fogo posto", "habitação desabitada", "não há manutenção", "danos provocados pelo fogo"]
+
+Note:
+- "fogo" and "incêndio" are not considered as separate events, but as a single event.
+- "suspeitas de fogo posto" is considered as a single event, not as two separate events.
+- "não há manutenção" is not considered as an event, but as a description of the state of the house.
+- "danos provocados pelo fogo" is not considered as an event, but as a description of the consequences of the fire.

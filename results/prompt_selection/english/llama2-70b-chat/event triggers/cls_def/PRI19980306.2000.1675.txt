@@ -1,0 +1,15 @@
+[
+["For The World", "Occurrence"],
+["this is Pamela McCall in the BBC news room in London", "State"],
+["More heavy gunfire in the Serbian province of Kosovo", "Occurrence"],
+["It's the second day of an offensive by the security forces against villages populated by ethnic Albanians", "Occurrence"],
+["BBC correspondent Karyn Coleman reports from Kosovo", "Reporting"],
+["There were more accounts of people fleeing from the villages near where the offensive was taking place", "Occurrence"],
+["They were too afraid to stay, fearing the forces may also move their operations further afield", "Intensional State"],
+["By mid afternoon, official Serb sources were saying the operation was over", "Occurrence"],
+["but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", "Occurrence"],
+["The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", "Intensional State"]
+]
+
+Explanation:
+The first element, "For The World", is an occurrence as it refers to a specific event or situation. The second element, "this is Pamela McCall in the BBC news room in London", is a state as it describes a specific condition or situation that exists at a particular time. The third element, "More heavy gunfire in the Serbian province of Kosovo", is an occurrence as it refers to a specific event or situation. The fourth element, "It's the second day of an offensive by the security forces against villages populated by ethnic Albanians", is an occurrence as it refers to a specific event or situation. The fifth element, "BBC correspondent Karyn Coleman reports from Kosovo", is reporting as it refers to the act of providing information or commentary on a particular event or situation. The sixth element, "There were more accounts of people fleeing from the villages near where the offensive was taking place", is an occurrence as it refers to a specific event or situation. The seventh element, "They were too afraid to stay, fearing the forces may also move their operations further afield", is an intensional state as it refers to a specific mental state or attitude of the people in question. The eighth element, "By mid afternoon, official Serb sources were saying the operation was over", is an occurrence as it refers to a specific event or situation. The ninth element, "but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", is an occurrence as it refers to a specific event or situation. The tenth element, "The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", is an intensional state as it refers to a specific mental state or attitude of the ethnic Albanians in question.

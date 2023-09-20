@@ -1,0 +1,18 @@
+[
+"Dec. 1",
+"Nov. 10",
+"1989",
+"1990",
+"beyond"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Dec. 1" (specific date)
+* "Nov. 10" (specific date)
+* "1989" (year)
+* "1990" (year)
+* "beyond" (time period)
+
+These time expressions are extracted and represented as a JSON-parseable list of strings.

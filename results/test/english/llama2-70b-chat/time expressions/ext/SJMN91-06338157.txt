@@ -1,0 +1,9 @@
+[
+"Wednesday",
+"last week",
+"Monday",
+"last week",
+"the younger Bush",
+"the president",
+"Sunday"
+]

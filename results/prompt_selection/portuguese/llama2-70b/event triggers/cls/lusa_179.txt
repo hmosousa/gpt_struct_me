@@ -1,0 +1,39 @@
+[['Homem', 'State'], ['preso', 'Occurrence'], ['preventivamente', 'Aspectual'], ['Penafiel', 'Reporting'], ['por', 'Intensional Action'], ['obligar', 'Perception'], ['companheira', 'State'], ['prostituir-se', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.tag import pos_tag
+from nltk.chunk import ne_chunk
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the list of classes and their definitions
+with open('classes.json') as f:
+   classes = json.load(f)
+
+# Remove punctuation from text
+def remove_punctuation(text):
+   return " ".join([word for word in text if not word.isalpha()])
+
+# Tokenize words into sentences
+def tokenizer(text):
+   return [sentence.split(" ") for sentence in text.split(".")]
+
+# Get all tokens that are not stopwords or punctuation
+def get_tokens(text):
+   return [word for sent in tokenizer(remove_punctuation(text)) for word in sent if word not in stopwords.words('portuguese')]
+
+# Get all entities (nouns, proper nouns, adjectives, etc.)
+def get_entities(text):
+   return [pos[0].lower() for sent in tokenizer(remove_punctuation(text)) for pos in pos_tag(get_tokens(sent))]
+
+# Get all chunks with a NE tag
+def get_chunks(text):
+   return [chunk.label().replace("-", "") for chunk in ne_chunk(get_tokens(text), binary=True)]
+
+# Classify each entity based on its class definition
+def classifier(entity, classes):
+   # If it's an occurrence, check if it has a verb
+   if 'Occurrence' in classes:
+       if any(["V" in pos for pos in pos_tag(entity)]) and len(entity) >

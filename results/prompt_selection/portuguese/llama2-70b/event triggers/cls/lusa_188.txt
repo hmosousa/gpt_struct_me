@@ -1,0 +1,51 @@
+[['Homem', 'State'], ['de', 'Occurrence'], ['48', 'Aspectual'], ['anos', 'Reporting'], ['morre', 'Intensional Action'], ['em', 'Perception'], ['acidente', 'State'], ['de', 'Occurrence'], ['trabalho', 'State'], ['em', 'Perception'], ['Mogadouro', 'State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+stoplist = set(stopwords.words('portuguese'))
+ps = PorterStemmer()
+
+def get_classes():
+   """
+   Returns the list of classes to be used in this task.
+   
+   :return: List with all the classes for this task.
+   """
+   return ["State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Intensional State"]
+
+def classify(word, tag):
+   """
+   Classifies a given token according to its POS-tag and returns it as a string.
+   
+   :param word: The token to be classified.
+   :type word: str
+   :param tag: The POS-tag of the token.
+   :type tag: str
+   :return: String representing the class of the token.
+   """
+   if tag == 'NN':
+       return "State"
+   elif tag == 'VB' or tag == 'VG':
+       return "Intensional Action"
+   elif tag == 'VS':
+       return "Intensional State"
+   elif tag == 'RP':
+       return "Aspectual"
+   elif tag == 'IN':
+       return "Reporting"
+   elif tag == 'CC':
+       return "Occurrence"
+   else:
+       return "Perception"
+
+def extract_triggers(text):
+   """
+   Extracts event triggers from a text.
+   
+   :param text: Text where the event triggers are going to be extracted.
+   :type text

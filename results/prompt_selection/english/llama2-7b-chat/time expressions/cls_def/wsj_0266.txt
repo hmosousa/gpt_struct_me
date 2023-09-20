@@ -1,0 +1,8 @@
+[
+{entity: "Oct. 23", class: "Date"},
+{entity: "two years ago", class: "Duration"},
+{entity: "10 most significant events", class: "Set"},
+{entity: "the money-fund concept", class: "Set"},
+{entity: "Harry Brown", class: "Person"},
+{entity: "the SEC", class: "Organization"}
+]

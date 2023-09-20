@@ -1,0 +1,33 @@
+[
+["GNR", "State"],
+["homem", "Occurrence"],
+["balas de borracha", "Aspectual"],
+["arma de fogo", "Aspectual"],
+["desobedecer", "Intensional Action"],
+["cessar os disparos", "Intensional State"],
+["militares", "State"],
+["disparos de intimidação", "Aspectual"],
+["detido", "State"],
+["ferimentos ligeiros", "State"],
+["unidade hospitalar", "State"],
+["posto da GNR", "State"],
+["juiz de instrução", "State"],
+["Polícia Judiciária", "State"]
+]
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese military police force.
+* "homem" is an Occurrence entity, as it refers to a man who was shot by the GNR.
+* "balas de borracha" is an Aspectual entity, as it refers to the rubber bullets used by the GNR.
+* "arma de fogo" is an Aspectual entity, as it refers to the firearm used by the man.
+* "desobedecer" is an Intensional Action entity, as it refers to the man's action of disobeying the GNR's order to stop shooting.
+* "cessar os disparos" is an Intensional State entity, as it refers to the desired state of the GNR, which is to have the man stop shooting.
+* "militares" is a State entity, as it refers to the military personnel who are part of the GNR.
+* "disparos de intimidação" is an Aspectual entity, as it refers to the warning shots fired by the GNR.
+* "detido" is a State entity, as it refers to the man who was detained by the GNR.
+* "ferimentos ligeiros" is a State entity, as it refers to the man's minor injuries.
+* "unidade hospitalar" is a State entity, as it refers to the hospital where the man was treated.
+* "posto da GNR" is a State entity, as it refers to the GNR post where the man was taken after being detained.
+* "juiz de instrução" is a State entity, as it refers to the judge who will oversee the man's case.
+* "Polícia Judiciária" is a State entity, as it refers to the Portuguese criminal police force, which will be informed about the case.

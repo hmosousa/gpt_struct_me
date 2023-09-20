@@ -1,0 +1,27 @@
+[['Dominion Textile', 'Occurrence'], ['holders', 'Reporting'], ['adopted', 'Aspectual'], ['shareholder-rights plan', 'Intensional Action'], ['annual meeting', 'Perception'], ['so-called poison pill', 'State'], ['took effect', 'Aspectual'], ['Aug. 9', 'State'], ['pending ratification', 'Intensional State'], ['holders', 'Reporting'], ['Rights', 'State'], ['attached', 'Aspectual'], ['company\'s common shares', 'State'], ['were issued', 'Aspectual'], ['hostile bidder', 'State'], ['acquires', 'Aspectual'], ['more than 20%', 'State'], ['shares outstanding', 'State'], ['Once triggered', 'Aspectual'], ['the rights', 'State'], ['allow holders', 'Intensional Action'], ['buy additional shares', 'Intensional Action'], ['50%', 'State'], ['then current market price', 'State'], ['board\'s discretion', 'State'], ['receive securities or assets', 'Intensional Action']]
+"""
+import json
+from nltk import word_tokenize, pos_tag
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+
+stoplist = set(stopwords.words('english'))
+ps = PorterStemmer()
+
+def get_class(word):
+   """Return the class of a given word."""
+   if word in stoplist: return None
+   
+   tagged_word = pos_tag([word])[0][1].lower()
+   if tagged_word == "noun": return "Occurrence"
+   elif tagged_word == "verb": return "Action"
+   else: return "Other"
+
+def extract_triggers(text):
+   """Extract and classify all event triggers from text."""
+   tokens = word_tokenize(text)
+   tags = [pos_tag([t]) for t in tokens]
+   classes = []
+   for i, (word, tag) in enumerate(tags):
+       #

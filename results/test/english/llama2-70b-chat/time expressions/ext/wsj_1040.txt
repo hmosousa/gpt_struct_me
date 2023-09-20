@@ -1,0 +1,6 @@
+["Dec. 15", "Nov. 17", "18.375"]
+
+Explanation:
+The output is a list of time expressions found in the input text. The first element is "Dec. 15", which is the date mentioned in the phrase "payable Dec. 15". The second element is "Nov. 17", which is the date mentioned in the phrase "stock of record Nov. 17". The third element is "18.375", which is the price mentioned in the phrase "In New York Stock Exchange composite trading yesterday, Oneida's shares closed at $18.375 a share, unchanged".
+
+Note that the format of the output is a JSON-parseable list of strings, which means that the list elements are enclosed in square brackets and separated by commas, and each element is a string. This format is convenient for further processing and analysis of the time expressions.

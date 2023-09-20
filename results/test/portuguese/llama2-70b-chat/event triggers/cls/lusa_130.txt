@@ -1,0 +1,39 @@
+[
+["GNR", "State"],
+["homem", "Occurrence"],
+["cultivo", "Aspectual"],
+["tráfico", "Aspectual"],
+["droga", "State"],
+["Idanha-a-Nova", "State"],
+["Núcleo de Investigação Criminal (NIC)", "State"],
+["terreno agrícola", "State"],
+["suspeito", "Occurrence"],
+["militares", "State"],
+["apreenderam", "Intensional Action"],
+["seis quilos de cabeças de canábis", "State"],
+["2,25 quilos de liamba", "State"],
+["26 pés de canábis", "State"],
+["uma balança", "State"],
+["um moinho", "State"],
+["Posto Territorial de Idanha-a-Nova", "State"],
+["Tribunal Judicial de Idanha-a-Nova", "State"]
+]
+
+Note:
+The input text is in Portuguese, and the output should be in English.
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese law enforcement agency.
+* "homem" is an Occurrence entity, as it refers to a man who was detained.
+* "cultivo" and "tráfico" are Aspectual entities, as they refer to the cultivation and trafficking of drugs, respectively.
+* "droga" is a State entity, as it refers to drugs in general.
+* "Idanha-a-Nova" is a State entity, as it refers to a city in Portugal.
+* "Núcleo de Investigação Criminal (NIC)" is a State entity, as it refers to a criminal investigation unit.
+* "terreno agrícola" is a State entity, as it refers to an agricultural land.
+* "suspeito" is an Occurrence entity, as it refers to a suspect.
+* "militares" is a State entity, as it refers to the military personnel who detained the suspect.
+* "apreenderam" is an Intensional Action entity, as it refers to the act of detaining the suspect.
+* "seis quilos de cabeças de canábis", "2,25 quilos de liamba", "26 pés de canábis", "uma balança", and "um moinho" are all State entities, as they refer to physical objects.
+* "Posto Territorial de Idanha-a-Nova" is a State entity, as it refers to a territorial post of the GNR in Idanha-a-Nova.
+* "Tribunal Judicial de Idanha-a-Nova" is a State entity, as it refers to a court in Idanha-a-Nova.

@@ -1,0 +1,11 @@
+
+[
+  ["BELFAST", "State"],
+  ["BELFAST", "Occurrence"],
+  ["BELFAST", "Reporting"],
+  ["BELFAST", "Perception"],
+  ["BELFAST", "Aspectual"],
+  ["BELFAST", "Intensional Action"],
+  ["BELFAST", "Intensional State"]
+]
+

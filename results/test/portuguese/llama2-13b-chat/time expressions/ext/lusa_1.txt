@@ -1,0 +1,11 @@
+[
+"quarta-feira",
+"hoje",
+"onze"
+]
+
+Explanation:
+
+* "quarta-feira" is a time expression indicating the day of the week on which the events described in the text took place.
+* "hoje" is a time expression indicating the current day, which is the day on which the text is being written or spoken.
+* "onze" is a time expression indicating the hour of the day, specifically 11 o'clock.

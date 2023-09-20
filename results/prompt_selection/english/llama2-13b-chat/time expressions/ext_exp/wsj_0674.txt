@@ -1,0 +1,11 @@
+[
+"intends to seek control",
+"currently holds",
+"has an aggregate market value of",
+"reflecting inventory write-downs",
+"for the year ended",
+"down from",
+"up from",
+"very positive",
+"feels positively about"
+]

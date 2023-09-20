@@ -1,0 +1,15 @@
+[
+"Governo português",
+"famílias das vítimas",
+"atentado",
+"Trier",
+"Alemanha",
+"povo alemão",
+"autoridades alemãs",
+"motorista",
+"veículo",
+"polícia de Trier",
+"centro da cidade",
+"resgate",
+"fronteira com o Luxemburgo"
+]

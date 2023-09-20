@@ -1,0 +1,1 @@
+[["recognized", "Occurrence"], ["listed", "Occurrence"], ["creation", "Occurrence"], ["named", "Occurrence"], ["innovated", "Occurrence"], ["thought out", "Occurrence"]]

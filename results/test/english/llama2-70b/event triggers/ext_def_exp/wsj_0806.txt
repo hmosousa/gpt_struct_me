@@ -1,0 +1,1 @@
+["subsidiary", "offering", "price", "debt", "purposes", "acquisitions", "shares", "outstanding", "total"]

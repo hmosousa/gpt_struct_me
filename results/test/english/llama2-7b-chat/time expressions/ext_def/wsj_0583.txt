@@ -1,0 +1,55 @@
+[
+"Polly Peck International Inc.",
+"Sansui Electric Co.",
+"1980",
+"September",
+"1985",
+"RJR Nabisco Inc.",
+"Del Monte foods unit",
+"Toshiba Corp.",
+"1980",
+"1985",
+"Asia Advisory Services Inc.",
+"Aiwa Co.",
+"Pioneer Electric Corp.",
+"1980",
+"1985",
+"Booz-Allen amp Hamilton (Japan) Inc.",
+"Yoshihisa Murasawa",
+"Joann S. Lublin"
+]
+
+Note:
+The time expressions in the input text are:
+
+* "last week"
+* "yesterday"
+* "tomorrow"
+* "1980"
+* "1985"
+* "several years ago"
+* "recent years"
+* "in recent years"
+* "the past few years"
+* "the past year"
+* "the past few months"
+* "the past few weeks"
+* "the past month"
+* "the past few days"
+* "the past few hours"
+* "the past few minutes"
+* "the past few seconds"
+
+Note:
+The time expressions in the output text are:
+
+* "last year"
+* "last month"
+* "last week"
+* "tomorrow"
+* "1980"
+* "1985"
+
+Note:
+The time expressions in the input text are in the format of "last week", "yesterday", "tomorrow", "last year", "last month", "1980", "1985".
+The time expressions in the output text are in the format of "last year", "last month", "last week", "tomorrow".

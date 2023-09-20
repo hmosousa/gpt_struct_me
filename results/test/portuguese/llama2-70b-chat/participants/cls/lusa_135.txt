@@ -1,0 +1,33 @@
+[
+["GNR", "Organization"],
+["rio Guadiana", "Location"],
+["Algarve", "Location"],
+["haxixe", "Object"],
+["embarcação de alta velocidade", "Object"],
+["Foz de Odeleite", "Location"],
+["Espanha", "Location"],
+["SIVICC", "Facility"],
+["Polícia Judiciária", "Organization"],
+["PJ", "Organization"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all participants in the text, but this time you have to classify them into one of the following classes:
+
+* Person
+* Organization
+* Object
+* Location
+* Nature
+* Facility
+* Other
+
+The input text is in Portuguese, and it describes a seizure of drugs and a high-speed boat by the GNR (National Republican Guard) in the Guadiana River, near the border with Spain. The text also mentions the SIVICC (Integrated System of Vigilance, Command and Control) and the Polícia Judiciária (Judicial Police).
+
+Your task is to extract and classify all participants in the text, and output them in a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+For example, the entity "GNR" should be classified as "Organization", and the entity "rio Guadiana" should be classified as "Location". The entity "haxixe" should be classified as "Object", and the entity "embarcação de alta velocidade" should also be classified as "Object". The entity "Foz de Odeleite" should be classified as "Location", and the entity "Espanha" should be classified as "Location". The entity "SIVICC" should be classified as "Facility", and the entity "Polícia Judiciária" should be classified as "Organization".
+
+Note that some entities may be classified as "Other" if they don't fit into any of the above classes.

@@ -1,0 +1,8 @@
+[
+{entity: "AVON RENT-A-CAR amp TRUCK Corp", class: "State"},
+{entity: "Common stock", class: "Aspectual"},
+{entity: "Class C warrants", class: "Intensional Action"},
+{entity: "Class A warrants", class: "Intensional Action"},
+{entity: "Class B warrants", class: "Intensional Action"},
+{entity: "Warrants", class: "Aspectual"}
+]

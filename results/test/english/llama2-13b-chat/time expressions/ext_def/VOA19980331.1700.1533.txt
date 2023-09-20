@@ -1,0 +1,7 @@
+[
+"five months ago",
+"two to six days",
+"a year or two",
+"um",
+"over the years"
+]

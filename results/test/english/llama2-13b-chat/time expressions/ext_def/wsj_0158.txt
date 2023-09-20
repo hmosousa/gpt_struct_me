@@ -1,0 +1,18 @@
+[
+"six months",
+"27 years",
+"several years",
+"personal reasons",
+"no business reason",
+"no disagreement over policy",
+"London-based",
+"tomorrow",
+"five pence",
+"913 pence",
+"$14.43",
+"American depositary shares",
+"three shares",
+"U.S. over-the-counter market",
+"unchanged",
+"$43.875"
+]

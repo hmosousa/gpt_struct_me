@@ -1,0 +1,7 @@
+["in the early 1980s", "1983", "1985", "1988"]
+
+Explanation:
+* "in the early 1980s" is a temporal expression representing a time period.
+* "1983" is a specific point in time represented by a year.
+* "1985" is a specific point in time represented by a year.
+* "1988" is a specific point in time represented by a year.

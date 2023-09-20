@@ -1,0 +1,41 @@
+[
+["For The World", "Date"],
+["this is Pamela McCall", "Time"],
+["in the BBC news room in London", "Location"],
+["More heavy gunfire", "Duration"],
+["in the Serbian province of Kosovo", "Location"],
+["It's the second day", "Duration"],
+["of an offensive", "Set"],
+["by the security forces", "Set"],
+["against villages populated by ethnic Albanians", "Set"],
+["BBC correspondent Karyn Coleman reports from Kosovo", "Time"],
+["There were more accounts of people fleeing", "Duration"],
+["from the villages near where the offensive was taking place", "Location"],
+["They were too afraid to stay", "Duration"],
+["fearing the forces may also move their operations further afield", "Duration"],
+["By mid afternoon", "Time"],
+["official Serb sources were saying the operation was over", "Duration"],
+["but that has not yet been confirmed from Belgrade", "Location"],
+["the capital of Serbia", "Location"],
+["which is where the whole attack is thought to have been planned", "Duration"],
+["The ethnic Albanians here in Kosovo are considerably worried", "Duration"],
+["about the future", "Duration"],
+["and fear they are witnessing the beginnings of a much wider conflict", "Duration"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair contains a string (the entity) and a class (Date, Time, Duration, or Set). The classes are based on the type of temporal information conveyed by the entity.
+
+Date:
+Indicates a specific point in time, such as "For The World" (a specific date).
+
+Time:
+Indicates a specific time of day, such as "this is Pamela McCall" (a specific time).
+
+Duration:
+Indicates a length of time, such as "More heavy gunfire" (a duration of time).
+
+Set:
+Indicates a set or category of time, such as "in the Serbian province of Kosovo" (a set of locations).
+
+Note that some entities can be classified under more than one class. For example, "BBC correspondent Karyn Coleman reports from Kosovo" can be classified under both Time (a specific time) and Location (a specific location). However, in this task, each entity should only be classified under one class.

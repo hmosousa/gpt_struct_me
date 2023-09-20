@@ -1,0 +1,1 @@
+[["Ogden Projects Inc.", "State"], ["net income", "Occurrence"], ["$6.6 million", "Reporting"], ["or 18 cents a share", "Perception"], ["in the third quarter", "Aspectual"], ["Fairfield, N.J.", "Intensional Action"], ["New York", "Intensional State"]]

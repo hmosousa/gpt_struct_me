@@ -1,0 +1,30 @@
+[
+["Estado Islâmico", "Organization"],
+["jihadista", "Nature"],
+["Viena", "Location"],
+["soldado do califado", "Person"],
+["Amaq", "Organization"],
+["combatente do Estado Islâmico", "Person"],
+["Macedónia do Norte", "Location"],
+["Síria", "Location"],
+["polícia", "Organization"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+
+This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+
+* Person: A person or individual.
+* Organization: A group or organization.
+* Object: A physical object or entity.
+* Location: A geographical location.
+* Nature: A natural entity or phenomenon.
+* Facility: A man-made structure or entity.
+* Other: Any entity that does not fit into the above categories.
+
+The input text is in Portuguese, but the output should be in English. The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+
+For example, the entity "Estado Islâmico" should be classified as "Organization", and the entity "Viena" should be classified as "Location". The entity "soldado do califado" should be classified as "Person", and the entity "Amaq" should be classified as "Organization".
+
+The task requires understanding the meaning of the text and identifying the entities in the text. It also requires knowledge of the predefined classes and their meanings. The output should be accurate and consistent with the given classes.

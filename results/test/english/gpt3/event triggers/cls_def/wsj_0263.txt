@@ -1,0 +1,1 @@
+[["declared", "State"], ["split", "Occurrence"], ["boosted", "Reporting"], ["dividend", "Perception"], ["split", "Aspectual"], ["payable", "Intensional Action"], ["raised", "Intensional State"], ["outstanding", "State"], ["reported", "Reporting"], ["rose", "Intensional State"], ["earned", "Intensional State"], ["sales", "State"]]

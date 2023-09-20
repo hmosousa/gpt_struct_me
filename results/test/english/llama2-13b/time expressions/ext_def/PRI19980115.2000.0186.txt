@@ -1,0 +1,9 @@
+["1991", "1996", "1999"]
+
+Explanation:
+The time expressions are "1991", "1996", and "1999".
+
+Note:
+The time expressions are not necessarily in chronological order.
+
+

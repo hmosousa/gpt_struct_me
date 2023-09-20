@@ -1,0 +1,5 @@
+["recapitalization", "restructuring", "write-off", "transaction costs", "bank debt", "interest rate", "interest expenses", "bank indebtedness", "recapitalization", "payments", "operating cash flow", "zero-coupon subordinated debt", "assets sales"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+

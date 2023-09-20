@@ -1,0 +1,31 @@
+[['National Intergroup Inc', 'State'], ['$5.3 million', 'Occurrence'], ['third quarter', 'Reporting'], ['$15 million', 'Occurrence'], ['R.D. Werner Co.', 'Perception'], ['Greenville, Pa', 'Aspectual'], ['pact', 'Intensional Action'], ['rolling division', 'Intensional State'], ['year-ago third quarter', 'Reporting'], ['$22.5 million', 'Occurrence'], [', or 97 cents a share', 'Aspectual'], ['gain', 'Intensional State'], ['steel tube company', 'Intensional State'], ['$778.6 million', 'Occurrence'], ['possible sale', 'Intensional Action'], ['Hawesville, Ky', 'Aspectual'], ['working capital changes', 'Intensional State'], ['additional proceeds', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words from NLTK corpus"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using the Porter Stemmer algorithm"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def tag_tokens(tokens):
+   """Tags tokens with POS tags"""
+   tagged = pos_tag(tokens)
+   return tagged
+
+def classify_entity(entity, entity_classifier):
+   """Classifies an entity based on its POS tag and returns a tuple containing the entity and its class"""
+   if entity[1][0].startswith("N") or entity[1][0].startswith("V"):
+       return (entity[0], "State")
+   elif entity[1][0].startswith("J"):
+       return (entity[0], "Occurrence

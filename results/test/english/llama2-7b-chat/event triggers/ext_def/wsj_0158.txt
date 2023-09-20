@@ -1,0 +1,22 @@
+[
+"resigned",
+"pursue unspecified interests",
+"amicable separation",
+"personal reasons",
+"no business reason",
+"no disagreement over policy",
+"board directorship",
+"executive committee",
+"people of tomorrow",
+"strategy",
+"profits",
+"departure",
+"irrelevant for the company",
+"change in strategy",
+"profit expectations",
+"depositary shares",
+"London market",
+"U.S. over-the-counter market",
+"director of corporate affairs",
+"director of group quality programs"
+]

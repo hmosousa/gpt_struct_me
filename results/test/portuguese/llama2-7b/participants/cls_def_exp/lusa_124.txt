@@ -1,0 +1,17 @@
+[["Covid-19: GNR acabou com festa ilegal com 50 pessoas em São Brás de Alportel", "Obj"], ["A GNR acabou", "Org"], ["no sábado", "Loc"], ["com uma festa ilegal", "Per"], ["num bar", "Loc"], ["em Corotelo", "Loc"], ["concelho de São Brás de Alportel", "Loc"], ["que reunia", "Per"], ["cerca de 50 pessoas", "Per"], ["foi hoje", "Loc"], ["anunciado", "Loc"], ["em comunicado", "Org"], ["o Comando Territorial", "Org"], ["de Faro", "Loc"], ["da GNR", "Org"], ["adianta", "Loc"], ["que", "Per"], ["na sequência", "Loc"], ["de uma denúncia", "Per"], ["a informar", "Per"], ["sobre a existência", "Per"], ["de uma festa", "Per"], ["com música ao vivo", "Per"], ["num estabelecimento", "Loc"], ["de bebidas", "Loc"], ["militares", "Per"], ["do Posto Territorial", "Org"], ["de São de Alportel", "Loc"], ["deslocaram-se", "Loc"], ["ao local", "Loc"], ["para fiscalizar", "Per"], ["a ocorrência", "Per"], ["os militares", "Per"], ["desmobilizaram", "Per"], ["as pessoas", "Per"], ["para", "Loc"], ["cumprimento", "Per"], ["das normas", "Per"], ["referentes à pandemia", "Per"], ["de covid-19", "Per"], ["na nota", "Loc"], ["é ainda", "Loc"], ["referido", "Loc"], ["que", "Per"], ["o proprietário", "Per"], ["foi identificado", "Per"], ["e foi elaborado", "Per"], ["um auto de contraordenação", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: GNR detém 10 pessoas em festa em Albufeira
+A GNR detém, no domingo, 10 pessoas em uma festa em Albufeira, informou hoje o Comando Territorial de Faro.
+Segundo a nota, os militares foram deslocados às 00h30 para fiscalizar uma festa em Albufeira, no concelho de Albufeira, que reunia cerca de 100 pessoas.
+A GNR detém, no domingo, 10 pessoas em uma festa em Albufeira, informou hoje o Comando Territorial de Faro.
+Segundo a nota, os militares foram deslocados às 00h30 para fiscalizar uma festa em Albufeira, no concelho de Albufeira, que reunia cerca de 100 pessoas.
+A GNR detém, no domingo, 10 pessoas em uma festa em Albufeira, informou hoje o Comando Territorial de Faro.
+Segundo a nota, os militares foram deslocados às 00h30 para fiscalizar uma festa em Albufeira, no concelho de Albufeira, que reunia cerca de 100 pessoas.
+A GNR detém, no domingo, 10 pessoas em uma festa em Albufeira, informou hoje o Comando Territorial de Faro.
+Segundo a nota, os militares foram deslocados às 00h30 para fiscalizar uma festa em Albufeira, no concelho de Albufeira, que reunia cerca de 100 pessoas.
+A GNR detém, no domingo, 10 pessoas em uma festa em Albufeira, informou hoje o Comando Territorial de Faro.
+Segundo a nota, os militares foram deslocados às 00h30 para fiscalizar uma festa em Albufeira, no concelho de Albufeira, que reunia cerca

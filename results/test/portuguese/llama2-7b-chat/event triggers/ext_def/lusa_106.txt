@@ -1,0 +1,14 @@
+[
+"Automóvel atropela várias pessoas",
+"Manifestação 'Black Lives Matter'",
+"Manhattan",
+"Nova Iorque",
+"EUA",
+"Incidente",
+"Acidente ou ação intencional",
+"Vários feridos",
+"Hospitais da 'Big Apple'",
+"Detido no local",
+"Porta-voz da polícia",
+"Mortos",
+"Corporações de bombeiros e ambulâncias"]

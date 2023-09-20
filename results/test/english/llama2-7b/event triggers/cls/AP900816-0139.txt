@@ -1,0 +1,31 @@
+
+[
+  {
+    "entity": "The Persian Gulf showdown between Iraq and the United States took a more personal turn Thursday when Iraq's Saddam Hussein called President Bush a liar and said the outbreak of holy war could bring thousands of Americans home in coffins.",
+    "class": "State"
+  },
+  {
+    "entity": "After a two-hour meeting at his Kennebunkport home with King Hussein of Jordan, Bush said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Bush, commenting on the two-week gulf crisis from his vacation home in Maine, said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Bush, commenting on the two-week gulf crisis from his vacation home in Maine, said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Bush, commenting on the two-week gulf crisis from his vacation home in Maine, said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Bush, commenting on the two-week gulf crisis from his vacation home in Maine, said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Bush, commenting on the two-week gulf crisis from his vacation home in Maine, said he saw little reason to be optimistic about a settlement of the dispute, which stems from Iraq's invasion of oil-wealthy Kuwait and its subsequent military buildup on the border of Saudi Arabia.",
+    "class": "Intensional State"
+  }
+]

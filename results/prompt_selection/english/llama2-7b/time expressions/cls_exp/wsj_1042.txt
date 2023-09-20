@@ -1,0 +1,16 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+
+Date: 2010-05-10
+
+Time: 10:00
+
+Duration: 10
+
+Set: 1

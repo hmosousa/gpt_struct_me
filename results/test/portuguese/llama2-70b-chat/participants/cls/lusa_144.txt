@@ -1,0 +1,60 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Borba", "Location"],
+["Évora", "Location"],
+["Lusa", "Organization"],
+["Destacamento Territorial de Estremoz", "Organization"],
+["Tribunal de Vila Viçosa", "Facility"],
+["heroína", "Object"],
+["balança digital", "Object"],
+["tesoura", "Object"],
+["sacos de plástico", "Object"],
+["dinheiro", "Object"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+
+* Person: A person or group of people.
+* Organization: A company, institution, or organization.
+* Object: A physical object or entity.
+* Location: A place or location.
+* Nature: A natural entity, such as a plant or animal.
+* Facility: A building or structure, such as a hospital or school.
+* Other: Any entity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+
+In this example, the input text is in Portuguese, and the entities and classes are:
+
+* GNR: Organization
+* homem: Person
+* Borba: Location
+* Évora: Location
+* Lusa: Organization
+* Destacamento Territorial de Estremoz: Organization
+* Tribunal de Vila Viçosa: Facility
+* heroína: Object
+* balança digital: Object
+* tesoura: Object
+* sacos de plástico: Object
+* dinheiro: Object
+
+The output should be:
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Borba", "Location"],
+["Évora", "Location"],
+["Lusa", "Organization"],
+["Destacamento Territorial de Estremoz", "Organization"],
+["Tribunal de Vila Viçosa", "Facility"],
+["heroína", "Object"],
+["balança digital", "Object"],
+["tesoura", "Object"],
+["sacos de plástico", "Object"],
+["dinheiro", "Object"]
+]

@@ -1,0 +1,77 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The fourth element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The first element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The second element of the list is a list of two strings. The first string is the entity and the second is the class.
+
+The third element of the list

@@ -1,0 +1,31 @@
+[
+"10:00",
+"hoje",
+"na sequência de",
+"possível inalação de fumo",
+"segundo",
+"da corporação dos Bombeiros Voluntários da Ribeira Brava e Ponta do Sol",
+"quando lá chegámos",
+"no quarto onde se encontrava a vítima",
+"mas não o quarto onde a vítima se encontrava",
+"referiu",
+"encontraram",
+"ja sem vida no interior",
+"as forças policiais ainda estão a apurar as causas do incêndio"
+]
+
+Explanation:
+
+1. 10:00 - time expression indicating the time the alert was given.
+2. hoje - time expression indicating the current day.
+3. na sequência de - prepositional phrase indicating the cause of the incident.
+4. possível inalação de fumo - time expression indicating the possible cause of death.
+5. segundo - time expression indicating the source of the information.
+6. da corporação dos Bombeiros Voluntários da Ribeira Brava e Ponta do Sol - time expression indicating the source of the information.
+7. quando lá chegámos - time expression indicating when the firefighters arrived.
+8. no quarto onde se encontrava a vítima - time expression indicating where the victim was found.
+9. mas não o quarto onde a vítima se encontrava - time expression indicating the victim was not in the room where the fire started.
+10. referiu - time expression indicating the source of the information.
+11. encontraram - time expression indicating when the victim was found.
+12. ja sem vida no interior - time expression indicating the victim was already dead when found.
+13. as forças policiais ainda estão a apurar as causas do incêndio - time expression indicating the investigation is ongoing.

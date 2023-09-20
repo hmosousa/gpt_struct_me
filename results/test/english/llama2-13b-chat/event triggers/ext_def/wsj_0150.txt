@@ -1,0 +1,11 @@
+["merged into Primerica Corp.", "cleared the transaction", "paid 0.82 share for each Williams share", "delisted from the New York Stock Exchange", "closed at $23.25", "down 12.5 cents", "acquired certain assets", "assumed certain liabilities"]
+
+Explanation:
+
+* "merged into Primerica Corp." is an event trigger because it indicates that a specific action (the merger) has taken place.
+* "cleared the transaction" is an event trigger because it indicates that a specific action (the transaction) has been approved or completed.
+* "paid 0.82 share for each Williams share" is an event trigger because it indicates that a specific action (the payment) has taken place.
+* "delisted from the New York Stock Exchange" is an event trigger because it indicates that a specific action (the delisting) has taken place.
+* "closed at $23.25" is not an event trigger because it simply states a fact about the current state of the Williams shares, rather than indicating a specific action or change.
+* "down 12.5 cents" is not an event trigger for the same reason.
+* "acquired certain assets" and "assumed certain liabilities" are not event triggers because they are simply statements about the transaction and do not indicate any specific actions or changes.

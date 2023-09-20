@@ -1,0 +1,20 @@
+[
+["homem", "Person"],
+["pai", "Person"],
+["GNR", "Organization"],
+["Porto", "Location"],
+["setembro de 2019", "Date"],
+["estupefacientes", "Object"],
+["mandado de detenção", "Object"],
+["Tribunal de Instrução Criminal de Matosinhos", "Facility"]
+]
+
+Explanation:
+
+* "homem" and "pai" are both classified as "Person" because they are individuals.
+* "GNR" is classified as "Organization" because it is a group of people working together.
+* "Porto" is classified as "Location" because it is a physical place.
+* "setembro de 2019" is classified as "Date" because it is a specific point in time.
+* "estupefacientes" is classified as "Object" because it is a physical substance.
+* "mandado de detenção" is classified as "Object" because it is a legal document.
+* "Tribunal de Instrução Criminal de Matosinhos" is classified as "Facility" because it is a physical location where legal proceedings take place.

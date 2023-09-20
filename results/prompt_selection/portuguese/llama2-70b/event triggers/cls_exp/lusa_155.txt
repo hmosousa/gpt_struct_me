@@ -1,0 +1,43 @@
+[['Homem', 'Occurrence'], ['ferido', 'Aspectual'], ['com', 'State'], ['gravidade', 'Intensional State'], ['depois', 'Reporting'], ['da', 'Perception'], ['agressao', 'Action'], ['com', 'State'], ['uma', 'State'], ['garrafa', 'State'], ['num', 'State'], ['restaurante', 'State'], ['em', 'State'], ['Palmela', 'State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the list of classes and their definitions
+classes = []
+with open('../data/classes.json') as f:
+   classes = json.load(f)
+
+# Create a dictionary with all the words in each class
+class_dicts = {}
+for c in classes:
+   class_dicts[c["name"]] = set()
+   for d in c["definitions"]:
+       for w in d["words"]:
+           class_dicts[c["name"]].add(w)
+
+# Tokenize the text into sentences
+sentences = [word_tokenize(x) for x in text.split(".")]
+
+# Strip punctuation from tokens
+def strip_punctuation(tokens):
+   return [t if t not in string.punctuation else "" for t in tokens]
+
+# Remove stopwords from tokenized sentences
+stoplist = set(stopwords.words("portuguese"))
+def remove_stopwords(tokens, stoplist=stoplist):
+   return [t for t in tokens if t not in stoplist]
+
+# Stem tokens using Porter stemming algorithm
+porter = PorterStemmer()
+def porter_stem(tokens):
+   return [porter.stem(t) for t in tokens]
+
+# Tag POS of tokens
+pos_tags = pos_tag(strip_punctuation(remove_stopwords(porter_stem(sentence))))
+
+#

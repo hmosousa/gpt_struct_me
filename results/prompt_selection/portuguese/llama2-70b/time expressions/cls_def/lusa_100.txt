@@ -1,0 +1,45 @@
+[["Penafiel", Location], ["Porto", Location], ["39", Age], ["42", Age]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from datetime import date
+from collections import Counter
+
+# Load the data from the file
+with open('data/task10.json', 'r') as f:
+   data = json.load(f)
+
+# Create an empty list to store all time expressions
+time_expressions = []
+
+# Iterate over each document in the dataset
+for doc in data['documents']:
+   # Get the text of the document and tokenize it
+   text = doc['text'].lower()
+   tokens = word_tokenize(text)
+
+   # Remove punctuation marks
+   for i in range(len(tokens)):
+       if tokens[i] == ',':
+           del tokens[i]
+       elif tokens[i][-1].isdigit():
+           del tokens[i]
+
+   # Strip the tokens
+   tokens = [t.strip() for t in tokens]
+
+   # Remove stop words
+   tokens = [w for w in tokens if not w in stopwords.words("portuguese")]
+
+   # Apply stemming
+   stems = [PorterStemmer().stem(word) for word in tokens]
+
+   # Find all temporal expressions
+   for i, j in zip(range(len(stems)), range(1, len(stems)+1)):
+       if (j - 2 < i <= j):
+           if ((stems[i] + " " + stems[i+1]) in ["ano", "anos"] or
+                   (stems[i] + " " + stems[i+1] + " " + stems[i+2]) in ["meses", "mês", "dias", "dia", "horas", "hora", "minutos", "minuto", "segundos", "segundo"]):
+               time_expressions.append([stems

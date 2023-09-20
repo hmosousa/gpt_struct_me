@@ -1,0 +1,1 @@
+[["AVON RENT-A-CAR amp TRUCK Corp.", "Reporting"], ["dividend", "Occurrence"], ["common stock", "Aspectual"], ["3.3 million common shares outstanding", "State"], ["1.1 million Class C warrants", "State"], ["$5.50", "State"], ["90 days", "State"], ["Class A", "Aspectual"], ["Class B", "Aspectual"], ["unclassified warrants", "Aspectual"], ["one-third warrant", "Perception"]]

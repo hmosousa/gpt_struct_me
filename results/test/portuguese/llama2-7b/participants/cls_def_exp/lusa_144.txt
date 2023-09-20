@@ -1,0 +1,13 @@
+[["GNR", "Org"], ["detém", "Per"], ["suspeito", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["em", "Loc"], ["Borba", "Loc"], ["distrito", "Loc"], ["Évora", "Loc"], ["suspeitas", "Per"], ["prática", "Per"], ["do", "Per"], ["crime", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["na", "Loc"], ["cidade", "Loc"], ["de", "Loc"], ["Borba", "Loc"], ["distrito", "Loc"], ["Évora", "Loc"], ["segurança", "Org"], ["detve", "Per"], ["um", "Per"], ["homem", "Per"], ["de", "Per"], ["31", "Per"], ["anos", "Per"], ["por", "Per"], ["suspeitas", "Per"], ["prática", "Per"], ["do", "Per"], ["crime", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["na", "Loc"], ["cidade", "Loc"], ["de", "Loc"], ["Borba", "Loc"], ["distrito", "Loc"], ["Évora", "Loc"], ["militares", "Org"], ["do", "Org"], ["Destacamento", "Org"], ["Territorial", "Org"], ["de", "Org"], ["Estremoz", "Loc"], ["sábado", "Loc"], ["vai", "Per"], ["presentar", "Per"], ["no", "Loc"], ["Tribunal", "Loc"], ["de", "Loc"], ["Vila", "Loc"], ["Viçosa", "Loc"], ["primeiro", "Per"], ["interrogatório", "Per"], ["e", "Per"], ["eventual", "Per"], ["aplicação", "Per"], ["medidas", "Per"], ["de", "Per"], ["coação", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém suspeito de tráfico de droga em Borba
+A GNR deteve um homem de 31 anos por suspeitas da prática do crime de tráfico de droga na cidade de Borba, distrito de Évora, disse hoje à agência Lusa fonte daquela força de segurança.
+Segundo a mesma fonte, o homem foi detido por militares do Destacamento Territorial de Estremoz no sábado e vai ser presente na segunda-feira ao Tribunal de Vila Viçosa para primeiro interrogatório e eventual aplicação de medidas de coação.
+A GNR apreendeu ao suspeito 24,3 gramas de heroína, uma balança digital, uma tesoura, sacos de plástico para acondicionamento de doses individuais e cerca de 150 euros em dinheiro."
+
+Output:
+[["GNR", "Org"], ["detém", "Per"], ["suspeito", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["em", "Loc"], ["Borba", "Loc"], ["distrito", "Loc"], ["Évora", "Loc"], ["suspeitas", "Per"], ["prática", "Per"], ["do", "Per"], ["crime", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["na", "Loc"], ["cidade", "Loc"], ["de", "Loc"], ["Borba", "Loc"], ["distrito", "Loc"], ["Évora", "Loc"], ["segurança", "Org"], ["detve", "Per"], ["um", "Per"], ["homem", "Per"], ["de", "Per"], ["31", "Per"], ["anos", "Per"], ["por", "Per"], ["suspeitas", "Per"], ["prática", "Per"], ["do", "Per"], ["crime", "Per"], ["

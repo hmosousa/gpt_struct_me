@@ -1,0 +1,34 @@
+[
+{
+"State": "Travelers Corp.",
+"Class": "State"
+},
+{
+"Entity": "net income",
+"Class": "Aspectual"
+},
+{
+"Entity": "claims",
+"Class": "Occurrence"
+},
+{
+"Entity": "revenue",
+"Class": "Aspectual"
+},
+{
+"Entity": "earnings",
+"Class": "Intensional Action"
+},
+{
+"Entity": "employee benefits",
+"Class": "Intensional State"
+},
+{
+"Entity": "California earthquake",
+"Class": "Aspectual"
+},
+{
+"Entity": "Hurricane Hugo",
+"Class": "Occurrence"
+}
+]

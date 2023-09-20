@@ -1,0 +1,16 @@
+[
+"year ending June 30, 1990",
+"current fiscal year",
+"fiscal 1989",
+"1989"
+]
+
+Explanation:
+The input text contains four time expressions:
+
+1. "year ending June 30, 1990" - a specific point in time (June 30, 1990)
+2. "current fiscal year" - a time period that is currently ongoing
+3. "fiscal 1989" - a specific point in time (1989)
+4. "1989" - a specific point in time (1989)
+
+These time expressions are extracted and returned in a JSON-parseable list of strings.

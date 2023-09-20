@@ -1,0 +1,11 @@
+[
+"said",
+"continuing",
+"reached",
+"seeking",
+"is",
+"making",
+"standing",
+"reap",
+"accepting"
+]

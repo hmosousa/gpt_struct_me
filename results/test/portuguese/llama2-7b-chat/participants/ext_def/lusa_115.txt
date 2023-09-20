@@ -1,0 +1,11 @@
+[
+"Homem",
+"Vítima",
+"Familiar",
+"Agente",
+"Polícia Judiciária",
+"GNR",
+"Concelho de Alcobaça",
+"Freguesia de Maiorga",
+"Distrito de Leiria"
+]

@@ -1,0 +1,1 @@
+[["pleased", "Occurrence"], ["note", "Reporting"], ["recognized", "Perception"], ["money-fund", "Aspectual"], ["concept", "Intensional Action"], ["creation", "Intensional State"]]

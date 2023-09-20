@@ -1,0 +1,32 @@
+[
+["this coming Sunday", "Date"],
+["March eighth", "Date"],
+["twenty years", "Duration"],
+["seventy-five percent", "Duration"],
+["the past twenty years", "Duration"],
+["today", "Date"],
+["the right to work", "Set"],
+["the right to survival", "Set"],
+["a nation of widows", "Set"],
+["their families", "Set"],
+["international aid", "Set"],
+["the capital Kabul", "Location"],
+["the women of Kabul", "Set"],
+["Afghanistan", "Location"],
+["peace and justice", "Set"]
+]
+
+Explanation:
+
+* "this coming Sunday" and "March eighth" are both dates and are classified as such.
+* "twenty years" is a duration and is classified as such.
+* "seventy-five percent" is a duration and is classified as such.
+* "the past twenty years" is a duration and is classified as such.
+* "today" is a date and is classified as such.
+* "the right to work" and "the right to survival" are both sets of rights and are classified as such.
+* "a nation of widows" and "their families" are both sets of people and are classified as such.
+* "international aid" is a set of resources and is classified as such.
+* "the capital Kabul" is a location and is classified as such.
+* "the women of Kabul" is a set of people and is classified as such.
+* "Afghanistan" is a location and is classified as such.
+* "peace and justice" is a set of concepts and is classified as such.

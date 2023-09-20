@@ -1,0 +1,7 @@
+["manuseava", "gasolina", "Vale de S. Martinho", "Vila Nova de Famalicão", "Hospital de São João", "Porto", "fonte dos bombeiros", "Lusa", "vítima", "Hospital de Famalicão", "Braga", "VMER"]
+
+Explanation:
+The event triggers are the words that are related to the event.
+
+Reference:
+https://www.aclweb.org/anthology/2019.acl-main.100.pdf

@@ -1,0 +1,16 @@
+[
+"first quarter",
+"quarter ended Sept. 29",
+"fourth quarter ended June 30",
+"fiscal first quarter",
+"fiscal year",
+"Sparcstation 1",
+"June 30",
+"Sept. 29",
+"1988 period",
+"April",
+"Digital Equipment Corp.",
+"Hewlett-Packard Co.",
+"International Business Machines Corp.",
+"Next Inc."
+]

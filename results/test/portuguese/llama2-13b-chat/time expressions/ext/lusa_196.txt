@@ -1,0 +1,11 @@
+[
+"final da manhã",
+"hoje",
+"11:45"
+]
+
+Explanation:
+
+* "final da manhã" is a time expression indicating the end of the morning.
+* "hoje" is a time expression indicating today.
+* "11:45" is a time expression indicating 11:45 AM.

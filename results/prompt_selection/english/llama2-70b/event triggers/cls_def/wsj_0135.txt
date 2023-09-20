@@ -1,0 +1,36 @@
+["Elco Industries Inc.", "Occurrence"], ["net income", "Reporting"], ["$1.65 a share", "Aspectual"], ["Rockford, Ill.", "State"], ["fasteners", "Intensional Action"], ["slightly above", "Perception"], ["fiscal 1989 sales", "Reporting"], ["$155 million", "Aspectual"], ["industrial unit", "State"], ["margin pressures", "State"], ["lower demand", "State"], ["$7.8 million", "Aspectual"], ["$13.625", "Aspectual"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ne_chunk
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the data from the file
+with open('data/events.json', 'r') as fp:
+   events = json.load(fp)
+
+# Create an empty list for storing the results
+results = []
+
+for sentence in events['sentences']:
+   # Tokenize the sentence into words and remove punctuation marks
+   tokens = [word for word in word_tokenize(sentence)]
+   tokens = [word.strip() for word in tokens if not word.startswith("'") and not word.endswith(".'")]
+   
+   # Remove stopwords
+   filtered_tokens = [word for word in tokens if word not in set(stopwords.words())]
+
+   # Stem each token using the Porter stemming algorithm
+   stems = [PorterStemmer().stem(word) for word in filtered_tokens]
+
+   # Tag parts of speech for each token
+   tagged_tokens = pos_tag(filtered_tokens)
+
+   # Chunk the tagged tokens to extract named entities
+   chunks = ne_chunk(tagged_tokens, binary=True)
+
+   # Iterate over all the chunks and add them to a dictionary with their corresponding class

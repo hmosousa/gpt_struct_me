@@ -1,0 +1,16 @@
+[
+["GNR", "Organization"],
+["Covid-19", "Nature"],
+["São Brás de Alportel", "Location"],
+["Corotelo", "Location"],
+["proprietário", "Person"],
+["militares", "Person"]
+]
+
+Explanation:
+
+* "GNR" is classified as "Organization" because it is an abbreviation for Guarda Nacional Republicana, which is a Portuguese law enforcement agency.
+* "Covid-19" is classified as "Nature" because it is a disease caused by a virus.
+* "São Brás de Alportel" and "Corotelo" are classified as "Location" because they are names of places.
+* "proprietário" is classified as "Person" because it refers to the owner of the establishment, who is a human being.
+* "militares" is classified as "Person" because it refers to the members of the military who were involved in the operation.

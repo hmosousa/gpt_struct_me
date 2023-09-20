@@ -1,0 +1,10 @@
+[
+  ["BUDAPEST", "State"],
+  ["BUDAPEST", "Occurrence"],
+  ["BUDAPEST", "Reporting"],
+  ["BUDAPEST", "Perception"],
+  ["BUDAPEST", "Aspectual"],
+  ["BUDAPEST", "Intensional Action"],
+  ["BUDAPEST", "Intensional State"]
+]
+

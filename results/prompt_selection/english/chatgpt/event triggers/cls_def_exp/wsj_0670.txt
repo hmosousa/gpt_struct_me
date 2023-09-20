@@ -1,0 +1,14 @@
+[
+["expects", "Reporting"],
+["report", "Reporting"],
+["sell", "Intensional Action"],
+["offset", "Intensional State"],
+["gain", "Intensional State"],
+["earned", "Occurrence"],
+["sale", "Occurrence"],
+["explore", "Intensional Action"],
+["subject", "State"],
+["provides", "State"],
+["produces", "Occurrence"],
+["had", "State"]
+]

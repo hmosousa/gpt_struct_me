@@ -1,0 +1,75 @@
+[
+["In Washington", "Date"],
+["today", "Date"],
+["released", "Date"],
+["last", "Date"],
+["conversation", "Date"],
+["controllers", "Date"],
+["TWA", "Airline"],
+["flight", "Airline"],
+["eight hundred", "Airline"],
+["climb", "Duration"],
+["maintain", "Duration"],
+["one", "Duration"],
+["five", "Duration"],
+["thousand", "Number"],
+["leavin", "Duration"],
+["three", "Duration"],
+["minute", "Duration"],
+["later", "Duration"],
+["pilot", "Person"],
+["nearby", "Location"],
+["flight", "Airline"],
+["call", "Communication"],
+["center", "Location"],
+["ident", "Communication"],
+["response", "Communication"],
+["details", "Communication"],
+["big", "Adjective"],
+["smoke", "Noun"],
+["water", "Noun"],
+["prayer", "Communication"],
+["TWA", "Airline"],
+["center", "Location"],
+["I", "Person"],
+["think", "Communication"],
+["God", "Noun"],
+["bless", "Communication"]],
+["Lisa", "Person"],
+["Stark", "Person"],
+["ABC", "Media"],
+["Washington", "Location"]],
+["In", "Preposition"],
+["Washington", "Location"]],
+["today", "Date"]],
+["released", "Date"],
+["air", "Noun"],
+["traffic", "Noun"],
+["control", "Noun"],
+["tapes", "Noun"]],
+
+]
+Note:
+* Date: 3 instances
+* Time: 0 instances
+* Duration: 3 instances
+* Set: 0 instances
+
+Explanation:
+* "In Washington today" is a date expression.
+* "last conversation" is a date expression.
+* "released air traffic control tapes" is a date expression.
+* "a minute and a half later" is a duration expression.
+* "climb maintain one five thousand" is a duration expression.
+* "leavin- three thousand" is a duration expression.
+* "But a minute and a half later" is a duration expression.
+* "a pilot from a nearby flight calls in" is a duration expression.
+* "Ah, we just saw an explosion" is a duration expression.
+* "At one point, when it became clear controllers could not contact the plane" is a duration expression.
+* "someone said a prayer" is a duration expression.
+
+
+
+
+
+

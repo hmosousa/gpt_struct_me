@@ -1,0 +1,1 @@
+["homem", "funcionário", "J Amaral", "GNR de Aveiro", "homem", "manutenção", "sábado", "Joaquim Rebelo", "Bombeiros de Estarreja", "cisterna", "graduado", "Saúde", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro"]

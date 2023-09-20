@@ -1,0 +1,46 @@
+[["June 30", Date], ["$1.65", Number], ["fiscal 1989", Date], ["$155 million", Number], ["fiscal 1989", Date], ["$7.8 million", Number]]
+"""
+import re
+from datetime import date
+
+def extract_time(text):
+   """
+   Extract time expressions from text
+   
+   Parameters
+   ----------
+   text : str
+       Text to be processed
+       
+   Returns
+   -------
+   list
+       List of tuples containing extracted time expression and class
+   """
+   # Regex for dates
+   regex = r'\b(?P<date>\d{4})?\D*(?P<month>[A-Z][a-z]{2})\D*\d{1,2}\b|\b(?P<day>Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\b|\b(?P<year>\d{4})?(?P<month>[A-Z][a-z]{2})\D*\d{1,2}\b'
+   pattern = re.compile(regex)
+   matches = [match.groupdict() for match in pattern.finditer(text)]
+   dates = []
+   for match in matches:
+       if 'date' in match:
+           year = int(match['date'])
+           month = match['month']
+           day = int(match['day'])
+           try:
+               date_obj = date(year=year, month=month, day=day)
+               dates.append((str(date_obj), "Date"))
+           except ValueError as e:
+               print("Value error: ", e)
+           
+       elif 'year' in match:
+           year = int(match['year'])
+           month = match['month']
+           try:
+               date_obj = date(year=year, month=month)
+               dates.append((str(date_obj), "Date"))
+           except ValueError as e:
+               print("Value error: ", e)
+   
+   # Regex for times
+   regex = r'\b(?P<

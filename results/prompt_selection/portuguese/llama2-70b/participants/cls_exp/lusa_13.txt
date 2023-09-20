@@ -1,0 +1,16 @@
+[['Autoridades', 'Organization'], ['judiciais', 'Facility'], ['argentinas', 'Location'], ['realizaram', 'Nature'], ['hoje', 'Other'], ['buscas', 'Object'], ['apartamento', 'Facility'], ['Maximiliano', 'Person'], ['Trimarchi', 'Person'], ['motorista', 'Occupation'], ['Diego', 'Person'], ['Maradona', 'Person'], ['âmbito', 'Other'], ['investigação', 'Action'], ['alegada', 'Adjective'], ['negligência', 'Noun'], ['morte', 'Death'], ['ex-futebolista', 'Profession'], ['ocorrida', 'Verb'], ['25', 'Date'], ['novembro', 'Month'], ['.', 'Punctuation'], ['Em', 'Preposition'], ['comunicado', 'Noun'], ['procuradoria-geral', 'Facility'], ['San Isidro', 'Place'], ['refere', 'Verb'], ['saber', 'Verb'], ['Trimarchi', 'Person'], ['estava', 'Verb'], ['junto', 'Adverb'], ['morreu', 'Verb'], ['sua casa', 'Facility'], ['San André', 'Place'], ['província', 'Region'], ['Buenos Aires', 'City']]
+"""
+import json
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer, SnowballStemmer
+from nltk.tokenize import word_tokenize
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import Truncated

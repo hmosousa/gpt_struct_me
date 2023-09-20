@@ -1,0 +1,38 @@
+[
+{
+"National Intergroup Inc.",
+"Reporting"
+},
+{
+"R.D. Werner Co.",
+"Purchase"
+},
+{
+"National Aluminum",
+"Sale"
+},
+{
+"Steel tube company",
+"Sale"
+},
+{
+"Hawesville, Ky",
+"Possibility of sale"
+},
+{
+"Extrusion division",
+"Sale"
+},
+{
+"Working capital changes",
+"Audit adjustments"
+},
+{
+"Building products",
+"Industry"
+},
+{
+"Construction industries",
+"Industry"
+}
+]

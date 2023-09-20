@@ -1,0 +1,1 @@
+[["Dime Savings Bank of New York", "State"], ["Starpointe Savings Bank of Somerset, N.J.", "State"], ["FDIC", "State"], ["yesterday", "Occurrence"], ["30 days", "Occurrence"], ["A closing date", "Reporting"], ["The thrifts", "Perception"], ["the transaction", "Aspectual"], ["agreed", "Intensional Action"], ["the purchase", "Intensional State"]]

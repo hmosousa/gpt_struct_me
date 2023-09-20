@@ -1,0 +1,1 @@
+[["year ending June 30, 1990", "Date"], ["fiscal year", "Date"], ["fiscal 1989", "Date"], ["$1.65 a share", "Set"], ["fiscal 1989 sales", "Set"], ["$155 million", "Set"], ["$7.8 million", "Set"], ["$1.65 a share", "Set"]]

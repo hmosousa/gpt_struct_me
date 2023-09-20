@@ -1,0 +1,11 @@
+[
+"Homem encontrado morto em ribeira",
+"Um homem de 54 anos foi encontrado morto",
+"Morto em ribeira na aldeia de Fráguas",
+"Não há suspeitas de crime",
+"Caído da berma da via para a ribeira",
+"Poderá, eventualmente, ter havido um acidente",
+"Corpo transportado para o Instituto Nacional de Medicina Legal",
+"Nove operacionais estiveram no local",
+"Quatro veículos foram usados para o socorro"
+]

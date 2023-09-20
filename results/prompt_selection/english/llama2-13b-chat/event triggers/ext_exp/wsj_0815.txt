@@ -1,0 +1,8 @@
+["sale of individual units", "potential buyers", "unsolicited tender offer", "DIG Acquisition Corp", "Rose Partners Limited Partnership"]
+
+Explanation:
+
+* "sale of individual units" is an event trigger because it indicates that Di Giorgio is considering selling off some of its units.
+* "potential buyers" is an event trigger because it suggests that there are other parties interested in acquiring Di Giorgio's units.
+* "unsolicited tender offer" is an event trigger because it indicates that DIG Acquisition Corp. is making an unsolicited offer to acquire Di Giorgio.
+* "DIG Acquisition Corp" and "Rose Partners Limited Partnership" are event triggers because they are the companies involved in the potential acquisition.

@@ -1,0 +1,24 @@
+[
+["Oct. 23", "Date"],
+["two years ago", "Duration"],
+["20th century", "Date"],
+[" Reserve Fund", "Set"],
+["Harry Brown", "Person"],
+["myself", "Person"],
+["telephone redemptions", "Duration"],
+["daily dividends", "Duration"],
+["total elimination of share certificates", "Duration"],
+["constant $1 pershare pricing", "Duration"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair contains a time expression and its corresponding class.
+
+* "Oct. 23" is classified as a Date.
+* "two years ago" is classified as a Duration.
+* "20th century" is classified as a Date.
+* " Reserve Fund" is classified as a Set.
+* "Harry Brown" and "myself" are classified as Persons.
+* "telephone redemptions", "daily dividends", "total elimination of share certificates", and "constant $1 pershare pricing" are classified as Durations.
+
+Note that the same word can have different classes depending on the context. For example, " Reserve Fund" is a Set in the context of the sentence, but it could be classified as a Date or a Duration in a different context.

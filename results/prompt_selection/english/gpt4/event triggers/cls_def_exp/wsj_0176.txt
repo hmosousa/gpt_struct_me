@@ -1,0 +1,16 @@
+[
+["has told", "Reporting"],
+["is laying off", "Occurrence"],
+["were told", "Reporting"],
+["going to be centralized", "Intensional Action"],
+["said", "Reporting"],
+["would result", "Intensional State"],
+["earned", "Occurrence"],
+["rose", "Occurrence"],
+["was", "State"],
+["offset", "Occurrence"],
+["set up", "Occurrence"],
+["has been", "State"],
+["has been cutthroat", "State"],
+["have resulted", "Occurrence"]
+]

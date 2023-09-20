@@ -1,0 +1,10 @@
+[
+"meio ano",
+"56 doses",
+"17",
+"8",
+"6 telemóveis",
+"2 computadores",
+"1 máquina fotográfica",
+"1 aparelho GPS"
+]

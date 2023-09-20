@@ -1,0 +1,1 @@
+["next year", "three years", "1988", "1983", "20 months", "this year", "1990"]

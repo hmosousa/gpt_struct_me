@@ -1,0 +1,8 @@
+["declared a dividend", "issued", "exercised"]
+
+Explanation:
+The input text contains three event triggers:
+
+1. "declared a dividend" - This is an event trigger because it refers to a specific action taken by the company (declaring a dividend).
+2. "issued" - This is an event trigger because it refers to a specific action taken by the company (issuing additional warrants).
+3. "exercised" - This is an event trigger because it refers to a specific action that can be taken by the holders of the warrants (exercising their warrants to purchase common stock).

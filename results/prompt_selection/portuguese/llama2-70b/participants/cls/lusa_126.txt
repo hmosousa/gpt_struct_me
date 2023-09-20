@@ -1,0 +1,30 @@
+[['GNR', 'Organization'], ['Sines', 'Location']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import defaultdict
+
+# Load the data from file
+with open('data/task2-input.txt') as f:
+   text = f.read()
+
+# Tokenize and stem each sentence in the document
+tokens = []
+for sent in word_tokenize(text):
+   tokens += [PorterStemmer().stem(word) for word in sent if not word in set(stopwords.words("portuguese"))]
+
+# Create a dictionary of all words with their respective classes
+classes = defaultdict(list)
+for token in tokens:
+   # Get the class of this token
+   tagged = pos_tag([token])
+   class_ = tagged[0][1].split('.')[0]
+   
+   # Add it to its list
+   classes[class_].append(token)
+
+# Output the results
+print(json.dumps(classes))

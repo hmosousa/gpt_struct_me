@@ -1,0 +1,8 @@
+["detém suspeito", "localizado e detido", "apreendidos vários telemóveis", "partilhar conteúdos", "imagens de menores em situações de cariz sexual"]
+
+Note:
+- "detém suspeito" is a event trigger because it refers to the action of the police detaining a suspect.
+- "localizado e detido" is also an event trigger because it refers to the action of the police finding and detaining the suspect.
+- "apreendidos vários telemóveis" is an event trigger because it refers to the action of the police seizing several cell phones.
+- "partilhar conteúdos" is not an event trigger, it is a description of the content of the seized cell phones.
+- "imagens de menores em situações de cariz sexual" is an event trigger because it refers to the content of the seized cell phones and the suspected crime of child pornography.

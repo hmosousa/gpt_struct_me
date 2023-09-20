@@ -1,0 +1,8 @@
+[
+"dia de Natal",
+"no dia de Natal",
+"no concelho de Foz Côa",
+"no local no dia de Natal",
+"no momento de Natal",
+"na sequência de uma denúncia"
+]

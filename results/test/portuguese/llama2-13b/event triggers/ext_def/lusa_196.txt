@@ -1,0 +1,5 @@
+["baleado", "disparo", "fugiu", "homem", "manhã", "policial", "vítima", "Vila Nova de Gaia"]
+
+Explanation:
+The event triggers are the words that are related to the event.
+

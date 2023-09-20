@@ -1,0 +1,15 @@
+[
+"Homem morre",
+"atingido por árvore",
+"Monção",
+"Barreiro",
+"Tangil",
+"Viana do Castelo",
+"Comando Distrital de Operações de Socorro",
+"INEM",
+"Monção e Valença",
+"ambulâncias",
+"psicólogos",
+"Bombeiros de Monção e Valença",
+"Melgaço"
+]

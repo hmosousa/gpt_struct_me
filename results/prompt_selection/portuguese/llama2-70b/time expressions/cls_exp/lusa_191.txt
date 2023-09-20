@@ -1,0 +1,1 @@
+[["Homem", "Set"], ["29 anos", "Duration"], ["hoje", "Date"], ["depois", "Time"], ["costas", "Set"], ["mercado", "Set"], ["Arroios", "Location"], ["Lisboa", "Location"], ["desentendimento", "Set"], ["rue Angela Pinto", "Location"], ["10:54", "Time"], ["cofee", "Set"], ["zona das costas", "Set"], ["Almirante Reis", "Location"]]

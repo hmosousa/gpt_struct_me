@@ -1,0 +1,4 @@
+["Friday", "1988", "1995"]
+
+Explanation:
+The input text contains three time expressions: "Friday", "1988", and "1995". These time expressions are extracted and returned in a JSON-parseable list of strings.

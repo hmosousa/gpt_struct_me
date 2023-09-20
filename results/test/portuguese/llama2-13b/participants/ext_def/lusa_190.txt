@@ -1,0 +1,1 @@
+["homem", "gravemente", "ferido", "eletrocutado", "Oleiros", "distrito", "Castelo", "Branco", "Comando", "Distrital", "Operações", "Socorro", "alerta", "vítima", "transportada", "Centro", "Hospitalar", "Universitário", "Coimbra", "indicação", "bombeiros", "eletrocussão", "habitação", "deslocaram", "operacionais", "viaturas"]

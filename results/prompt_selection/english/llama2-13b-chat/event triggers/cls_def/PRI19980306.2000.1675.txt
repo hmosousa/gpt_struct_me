@@ -1,0 +1,27 @@
+[
+["For The World", "State"],
+["this is Pamela McCall", "Occurrence"],
+["in the BBC news room in London", "Location"],
+["more heavy gunfire in the Serbian province of Kosovo", "State"],
+["it's the second day of an offensive by the security forces against villages populated by ethnic Albanians", "Intensional Action"],
+["BBC correspondent Karyn Coleman reports from Kosovo", "Perception"],
+["there were more accounts of people fleeing from the villages near where the offensive was taking place", "Reporting"],
+["they were too afraid to stay, fearing the forces may also move their operations further afield", "Aspectual"],
+["by mid afternoon, official Serb sources were saying the operation was over", "Reporting"],
+["but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", "Reporting"],
+["the ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", "State"]
+]
+
+Explanation:
+
+1. "For The World" is a state, as it refers to the current state of the world.
+2. "this is Pamela McCall" is an occurrence, as it refers to a specific event or happening.
+3. "in the BBC news room in London" is a location, as it refers to a specific place.
+4. "more heavy gunfire in the Serbian province of Kosovo" is a state, as it refers to a specific condition or situation.
+5. "it's the second day of an offensive by the security forces against villages populated by ethnic Albanians" is an intensional action, as it refers to a specific action or event that is happening or has happened.
+6. "BBC correspondent Karyn Coleman reports from Kosovo" is a perception, as it refers to a specific report or account of an event.
+7. "there were more accounts of people fleeing from the villages near where the offensive was taking place" is a reporting, as it refers to a specific account or report of an event.
+8. "they were too afraid to stay, fearing the forces may also move their operations further afield" is an aspectual, as it refers to a specific aspect or feature of the event.
+9. "by mid afternoon, official Serb sources were saying the operation was over" is a reporting, as it refers to a specific account or report of an event.
+10. "but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned" is a reporting, as it refers to a specific account or report of an event.
+11. "the ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict" is a state, as it refers to a specific condition or situation.

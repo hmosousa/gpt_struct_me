@@ -1,0 +1,22 @@
+[
+{
+"Xerox Corp",
+"Occurrence"
+},
+{
+"Crum amp Forster",
+"Aspectual"
+},
+{
+"Crum amp Forster",
+"State"
+},
+{
+"Crum amp Forster",
+"Intensional Action"
+},
+{
+"Xerox Corp",
+"Intensional State"
+}
+]

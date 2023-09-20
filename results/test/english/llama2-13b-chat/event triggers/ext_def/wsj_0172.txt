@@ -1,0 +1,11 @@
+["acquisition", "completed", "agreement", "eliminate", "managers", "severance payments"]
+
+Explanation:
+The event triggers in the input text are:
+
+* "acquisition" (referring to the takeover of Midwest Financial Group Inc. by First of America Bank Corp.)
+* "completed" (indicating that the acquisition has been finalized)
+* "agreement" (mentioning the earlier agreement to acquire Midwest Financial)
+* "eliminate" (referring to the elimination of 13 management positions)
+* "managers" (mentioning the executives who will not be staying with the company)
+* "severance payments" (indicating that the company will make payments to these executives)

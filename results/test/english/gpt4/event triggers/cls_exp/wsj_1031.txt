@@ -1,0 +1,1 @@
+[["adopted", "OCCURRENCE"], ["make", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["entitle", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["said", "REPORTING"], ["aware", "PERCEPTION"], ["had", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"]]

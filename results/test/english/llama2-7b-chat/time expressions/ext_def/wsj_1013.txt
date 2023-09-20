@@ -1,0 +1,23 @@
+A list of time expressions in the given text:
+1. third quarter
+2. a year ago
+3. nine months
+4. June 30
+5. September 30
+6. 1994
+7. recently
+8. before
+9. in the past two weeks
+
+Note:
+The time expressions in the given text are:
+* specific points in time (e.g., third quarter, a year ago, nine months)
+* time periods (e.g., days, weeks, months, years)
+* time intervals (e.g., recently, before)
+* time ranges (e.g., in the past two weeks)
+
+
+
+
+
+

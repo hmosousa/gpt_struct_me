@@ -1,0 +1,46 @@
+[['Courtaulds PLC', 'Occurrence'], ['plans', 'Aspectual'], ['spin off', 'Intensional Action'], ['textiles operations', 'State'], ['restructuring', 'Reporting'], ['boost', 'Perception'], ['shareholder value', 'Occurrence']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words from NLTK corpus"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using Porter Stemmer"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def tag_tokens(tokens):
+   """Tags tokens with part-of-speech tags"""
+   tagged = pos_tag(tokens)
+   return tagged
+
+def classify_tags(tagged):
+   """Classifies each tagged token into a category"""
+   classes = {
+           "NN": ["State", "Occurrence"],
+           "VBD": ["Action", "Intensional Action"],
+           "VBN": ["Aspectual"],
+           "JJR": ["Perception"]}
+   classes["IN"] = ["Reporting"]
+   classes["TO"] = ["Reporting"]
+   classes["CCONJ"] = ["Reporting"]
+   classes["CD"] = ["Reporting"]
+   classes["DT"] = ["Reporting"]
+   classes["PRT"] = ["Reporting"]
+   classes["WRB"] = ["Reporting"]
+   classes["MD"] = ["Reporting"]
+   classes["VBZ"] = ["Reporting"]
+   classes["VBG"] = ["Reporting"]
+   classes["VBP"] = ["Reporting"]
+   classes["VB"] = ["Reporting"]
+   classes["WDT"] = ["Reporting"]
+   classes

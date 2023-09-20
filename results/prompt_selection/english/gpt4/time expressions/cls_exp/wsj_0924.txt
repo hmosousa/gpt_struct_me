@@ -1,0 +1,7 @@
+[
+["Aug. 9", "Date"],
+["the annual meeting", "Set"],
+["Sept. 30", "Date"],
+["a year ago", "Date"],
+["a year earlier", "Date"]
+]

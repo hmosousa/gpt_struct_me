@@ -1,0 +1,11 @@
+[
+"a boiar no rio Douro",
+"das 17:20",
+"agora"
+]
+
+Explanation:
+
+* "a boiar no rio Douro" is a time expression indicating the location where the body was found.
+* "das 17:20" is a time expression indicating the time when the body was found.
+* "agora" is a time expression indicating the present time.

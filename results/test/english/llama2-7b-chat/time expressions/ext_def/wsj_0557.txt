@@ -1,0 +1,21 @@
+[
+"RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million.
+in 12 months",
+"last year",
+"roughly 12% of total revenue",
+"two-part sale",
+"by February",
+"$2 billion of that debt has already been repaid",
+"top dollar for its smaller assets",
+"Baby Ruth and Butterfinger are both among the top-selling 15 chocolate bars in the U.S.",
+"RJR's overall share of the roughly $5.1 billion market is less than 5%",
+"Nestle's share of 7% before Friday's purchases is far below the shares of market leaders Hershey Foods Corp. and Mars Inc., which have about 40% and 36% of the market, respectively",
+"This means Nestle is now in the candybar business in a big way",
+"They've been given a mandate from Switzerland"
+"The new candy bars, "make an important contribution to our Nestle Foods commitment to this very important strategic unit",
+"For them, it makes all kinds of sense",
+"They've been given a mandate from Switzerland"
+]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression extracted from the given text.

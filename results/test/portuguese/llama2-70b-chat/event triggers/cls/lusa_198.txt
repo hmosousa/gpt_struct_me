@@ -1,0 +1,48 @@
+[
+["Grua de camião", "Occurrence"],
+["derrubou", "Aspectual"],
+["poste de iluminação", "State"],
+["homem de 52 anos", "State"],
+["morreu", "Intensional State"],
+["outro sofreu ferimentos ligeiros", "State"],
+["acidente", "Occurrence"],
+["Rua da Constituição", "State"],
+["Porto", "State"],
+["PSP", "Organization"],
+["fonte", "State"],
+["Comando Metropolitano", "Organization"],
+["Hospital de Santo António", "State"],
+["bombas de gasolina", "State"],
+["funcionário", "State"],
+["ferimentos ligeiros", "State"],
+["07:50", "State"],
+["Câmara do Porto", "Organization"],
+["Empresa Municipal de Ambiente do Porto", "Organization"],
+["veículo", "State"],
+["processo de averiguação interna", "Intensional Action"],
+["causas", "State"],
+["autoridades", "Organization"],
+["município", "Organization"],
+["familia", "State"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all event triggers in the given text.
+
+The classes in this task are:
+
+* State: Represents a state of being or a condition.
+* Occurrence: Represents an event or a happening.
+* Reporting: Represents a report or a statement about an event.
+* Perception: Represents a perception or an observation.
+* Aspectual: Represents an aspect or a feature of an event.
+* Intensional Action: Represents an action that is intended or planned.
+* Intensional State: Represents a state that is intended or planned.
+
+For example, in the sentence "Grua de camião derrubou poste de iluminação no Porto e matou homem de 52 anos", the word "derrubou" would be classified as an Occurrence, and the word "matou" would be classified as an Intensional State.
+
+As before, your output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class.
+
+Note that the input text is in Portuguese, so you may need to use a Portuguese language model or dictionary to accurately classify the words.

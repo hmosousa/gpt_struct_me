@@ -1,0 +1,16 @@
+[
+  ["State", "For his part, Fidel Castro is the ultimate political survivor."],
+  ["Occurrence", "The entire world will see images of the Pope in Cuba."],
+  ["Reporting", "It will give the rest of the world the view that Cuba is like any other nation, something the US has, of course, tried to persuade the world that it is not."],
+  ["Perception", "It is the US economic and political embargo which has kept Cuba in a box."],
+  ["Aspectual", "The main positive for Castro to invite the Pope is international, to be able to say to the rest of the world, this government is not as closed, as intolerant, uh as totalitarian as some make it out to be."],
+  ["Intensional Action", "One of the scenarios widely advanced before the visit is that through the Pope, Cuba, still led by Castro, can begin a more productive relationship with the world."],
+  ["Intensional State", "Those observers looking for a battle between uncompromising representatives and very different ideologies will, in all likelihood, be disappointed."],
+  ["State", "Castro has said that you can be a Communist and still be a Christian."],
+  ["Occurrence", "The question is who will Cubans believe?"],
+  ["Reporting", "The main negative is the risk that the Pope's visit will persuade a great many more Cubans to break loose of the Cuban government."],
+  ["Perception", "If so, then the Pope's visit would really open up a new chapter in the government's relations with its own society."],
+  ["Aspectual", "For the Cuban government, that is the risk."],
+  ["Intensional Action", "At the end of the broadcast this evening, one more trip around Havana to see what it's been like since the last time."],
+  ["Intensional State", "And in just a moment Diane Sawyer will have some other news."]
+]

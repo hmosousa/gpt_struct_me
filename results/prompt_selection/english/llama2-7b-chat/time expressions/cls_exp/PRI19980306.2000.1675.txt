@@ -1,0 +1,17 @@
+[
+{entity: "Pamela McCall", class: "Person"},
+{entity: "BBC", class: "Media"},
+{entity: "Kosovo", class: "Location"},
+{entity: "Serbia", class: "Location"},
+{entity: "Belgrade", class: "Location"},
+{entity: "ethnic Albanians", class: "Group"},
+{entity: "security forces", class: "Group"},
+{entity: "villages", class: "Location"},
+{entity: "mid afternoon", class: "Time"},
+{entity: "official Serb sources", class: "Group"},
+{entity: "future", class: "Time"},
+{entity: "Karyn Coleman", class: "Person"},
+{entity: "BBC news", class: "Media"}
+]
+
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,7 @@
+["in a unit of Henley Group Inc.", "last year", "in cash", "more than $110 million"]
+
+Explanation:
+The time expressions in the input text are:
+* "last year" (a year ago)
+* "more than $110 million" (a specific amount of money)
+Note that some time expressions can be ambiguous or depend on the context, but in this case, the output is a clear and concise list of the time expressions found in the text.

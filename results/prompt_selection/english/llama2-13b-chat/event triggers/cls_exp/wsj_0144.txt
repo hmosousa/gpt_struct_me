@@ -1,0 +1,17 @@
+[
+["Travelers Corp.", "State"],
+["Hurricane Hugo", "Occurrence"],
+["California earthquake", "Occurrence"],
+["commercial property/casualty lines", "Aspectual"],
+["personal property/casualty business", "Aspectual"],
+["group health insurance operations", "Intensional Action"],
+["first nine months", "Intensional State"]
+]
+
+Explanation:
+
+* "Travelers Corp." is a State entity.
+* "Hurricane Hugo" and "California earthquake" are Occurrence entities.
+* "commercial property/casualty lines" and "personal property/casualty business" are Aspectual entities.
+* "group health insurance operations" is an Intensional Action entity.
+* "first nine months" is an Intensional State entity.

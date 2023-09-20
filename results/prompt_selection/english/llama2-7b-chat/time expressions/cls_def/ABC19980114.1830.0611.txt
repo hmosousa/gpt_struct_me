@@ -1,0 +1,6 @@
+[
+["In Washington today", "Date"],
+["There was no hint of trouble", "Time"],
+["But a minute and a half later", "Duration"],
+["At one point", "Set"]
+]

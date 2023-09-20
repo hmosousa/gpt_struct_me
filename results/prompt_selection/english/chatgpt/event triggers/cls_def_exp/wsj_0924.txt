@@ -1,0 +1,1 @@
+[["adopted", "Occurrence"], ["took effect", "Occurrence"], ["acquires", "Occurrence"], ["triggered", "Occurrence"], ["buy", "Intensional Action"], ["receive", "Intensional Action"], ["posted", "Occurrence"], ["ended", "Occurrence"], ["had", "Occurrence"], ["compared", "Occurrence"]]

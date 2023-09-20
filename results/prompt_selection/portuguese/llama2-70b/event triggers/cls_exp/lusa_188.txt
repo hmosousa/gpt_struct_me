@@ -1,0 +1,35 @@
+[['Homem', 'State'], ['de', 'Occurrence'], ['48', 'Aspectual'], ['anos', 'Reporting'], ['morre', 'Intensional Action'], ['em', 'Perception'], ['acidente', 'State'], ['de', 'Occurrence'], ['trabalho', 'State'], ['em', 'Perception'], ['Mogadouro', 'State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the data from file
+with open('data/task2-input.txt') as f:
+   text = f.read()
+
+# Tokenize and tag each sentence in the document
+sentences = [word for sent in text.split('. ') for word in sent.lower().split() if not word in stopwords.words('portuguese')]
+tags = [[pos for word, pos in pos_tag(word_tokenize(s)) if not word == '' or not word in stopwords.words('portuguese')] for s in sentences]
+
+# Strip punctuation marks from words
+for i in range(len(tags)):
+   tags[i] = [[w.strip(".,;!?") for w in t] for t in tags[i]]
+
+# Remove all non-nouns and adjectives
+tags = [[t for t in s if t[1][0].startswith('N') or t[1][0].startswith('J')] for s in tags]
+
+# Stem all tokens
+for i in range(len(tags)):
+   tags[i] = [[PorterStemmer().stem(w) for w in t] for t in tags[i]]
+
+# Count occurrences of each token
+counts = Counter([t for s in tags for t in s])
+
+# Get the top 5 most frequent tokens per class
+classes = ['State', 'Occurrence', 'Reporting', 'Perception', 'Aspectual', 'Intensional Action', 'Intensional State']
+results = []
+for

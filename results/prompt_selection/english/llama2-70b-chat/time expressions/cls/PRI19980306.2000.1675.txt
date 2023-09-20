@@ -1,0 +1,49 @@
+[
+["For The World", "Date"],
+["this is Pamela McCall", "Time"],
+["in the BBC news room in London", "Location"],
+["More heavy gunfire", "Duration"],
+["in the Serbian province of Kosovo", "Location"],
+["It's the second day", "Duration"],
+["of an offensive", "Set"],
+["by the security forces", "Set"],
+["against villages populated by ethnic Albanians", "Set"],
+["BBC correspondent Karyn Coleman reports from Kosovo", "Time"],
+["There were more accounts of people fleeing", "Duration"],
+["from the villages near where the offensive was taking place", "Location"],
+["They were too afraid to stay", "Duration"],
+["fearing the forces may also move their operations further afield", "Duration"],
+["By mid afternoon", "Time"],
+["official Serb sources were saying the operation was over", "Set"],
+["but that has not yet been confirmed from Belgrade", "Location"],
+["the capital of Serbia", "Location"],
+["which is where the whole attack is thought to have been planned", "Set"],
+["The ethnic Albanians here in Kosovo are considerably worried", "Duration"],
+["about the future", "Set"],
+["and fear they are witnessing the beginnings of a much wider conflict", "Set"]
+]
+
+Explanation:
+
+* "For The World" is a date expression, specifically a day of the week.
+* "this is Pamela McCall" is a time expression, specifically a time of day.
+* "in the BBC news room in London" is a location expression.
+* "More heavy gunfire" is a duration expression, specifically a quantity of time.
+* "in the Serbian province of Kosovo" is a location expression.
+* "It's the second day" is a duration expression, specifically a quantity of time.
+* "of an offensive" is a set expression, specifically a category of event.
+* "by the security forces" is a set expression, specifically a category of entity.
+* "against villages populated by ethnic Albanians" is a set expression, specifically a category of location.
+* "BBC correspondent Karyn Coleman reports from Kosovo" is a time expression, specifically a time of day.
+* "There were more accounts of people fleeing" is a duration expression, specifically a quantity of time.
+* "from the villages near where the offensive was taking place" is a location expression.
+* "They were too afraid to stay" is a duration expression, specifically a quantity of time.
+* "fearing the forces may also move their operations further afield" is a duration expression, specifically a quantity of time.
+* "By mid afternoon" is a time expression, specifically a time of day.
+* "official Serb sources were saying the operation was over" is a set expression, specifically a category of event.
+* "but that has not yet been confirmed from Belgrade" is a location expression.
+* "the capital of Serbia" is a location expression.
+* "which is where the whole attack is thought to have been planned" is a set expression, specifically a category of event.
+* "The ethnic Albanians here in Kosovo are considerably worried" is a duration expression, specifically a quantity of time.
+* "about the future" is a set expression, specifically a category of event.
+* "and fear they are witnessing the beginnings of a much wider conflict" is a set expression, specifically a category of event.

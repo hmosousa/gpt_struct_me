@@ -1,0 +1,8 @@
+["recommend dividend", "stop paying dividend", "report third-quarter net"]
+
+Explanation:
+The input text contains three event triggers:
+
+1. "recommend dividend" - This event trigger is related to the action of the company's management recommending the reinstatement of the dividend.
+2. "stop paying dividend" - This event trigger is related to the action of the company stopping the payment of the dividend in the third quarter of 1984.
+3. "report third-quarter net" - This event trigger is related to the company reporting its third-quarter net income.

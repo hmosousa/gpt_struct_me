@@ -1,0 +1,8 @@
+["second day", "mid afternoon", "planned"]
+
+Explanation:
+The output is a list of time expressions found in the input text.
+
+"second day" refers to a time period of 24 hours.
+"mid afternoon" refers to a time period of a few hours in the afternoon.
+"planned" refers to a point in time in the past when the attack was planned.

@@ -1,0 +1,15 @@
+[["Um homem de 61 anos", "Per"], ["morto", "Per"], ["hoje de manhã", "Per"], ["em Carreiras", "Loc"], ["no concelho de Portalegre", "Loc"], ["dizia à agência Lusa", "Org"], ["fonte da GNR", "Org"], ["o alerta", "Per"], ["para a GNR", "Org"], ["foi dado", "Per"], ["cerca das 07:00", "Per"], ["populares", "Per"], ["no interior", "Loc"], ["do seu veículo", "Loc"], ["alegadamente", "Per"], ["sem vida", "Per"], ["os militares", "Org"], ["da GNR", "Org"], ["que foram ao local", "Per"], ["constataram", "Per"], ["que o homem", "Per"], ["tinha ferimentos", "Per"], ["na cara", "Per"], ["a solicitar", "Per"], ["a interven\u00c3\u00bao", "Org"], ["da Pol\u00edcia Judici\u00e1ria", "Org"], ["que est\u00e1 a investigar", "Per"], ["o caso", "Per"], ["adiantou", "Per"], ["a fonte", "Org"], ["da for\u00e7a", "Org"], ["de seguran\u00c7a", "Org"], ["o homem", "Per"], ["natural", "Per"], ["e residente", "Per"], ["em Carreiras", "Loc"], ["vivia", "Per"], ["sozinho", "Per"], ["e tinha sido visto", "Per"], ["com vida", "Per"], ["naquela localidade", "Loc"], ["no domingo", "Per"], ["entre as 20:00", "Per"], ["e as 21:30", "Per"], ["de acordo com", "Per"], ["a fonte", "Org"], ["do Comando Distrital", "Org"], ["de Opera\u00c7\u00f5es de Socorro", "Org"], ["(CDOS)", "Org"], ["de Portalegre", "Loc"], ["o óbito", "Per"], ["foi declarado", "Per"], ["no local", "Per"], ["tendo o corpo", "Per"], ["encaminhado", "Per"], ["para o servi\u00c7o", "Org"], ["de Medicina Legal", "Org"], ["do hospital", "Loc"], ["de Portalegre", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 61 anos encontrado morto dentro de automóvel em Portalegre
+Um homem de 61 anos foi encontrado morto hoje de manhã dentro do seu automóvel em Carreiras, no concelho de Portalegre, disse à agência Lusa fonte da GNR.
+Segundo a mesma fonte, o alerta para a GNR foi dado cerca das 07:00, após o homem ter sido visto por populares, no interior do seu veículo, alegadamente sem vida.
+Os militares da GNR que foram ao local constataram que o homem tinha ferimentos na cara, tendo sido solicitada a intervenção da Polícia Judiciária, que está a investigar o caso, adiantou a fonte da força de segurança.
+De acordo com a fonte da guarda, o homem, natural e residente em Carreiras, vivia sozinho e tinha sido visto com vida, naquela localidade, no domingo, entre as 20:00 e as 21:30.
+Segundo fonte do Comando Distrital de Opera\u00c7\u00f5es de Socorro (CDOS) de Portalegre, o óbito foi declarado no local, tendo o corpo sido encaminhado para o servi\u00c7o de Medicina Legal do hospital de Portalegre."
+
+Output:
+[["Um homem de 61 anos

@@ -1,0 +1,11 @@
+["by the close of business yesterday", "yesterday", "in some way", "last week", "last month", "next week", "next month", "this year", "next year"]
+Note:
+* "by the close of business yesterday" is a time expression that represents a specific point in time (yesterday).
+* "yesterday" is a time expression that represents a specific point in time (yesterday).
+* "in some way" is not a time expression.
+* "last week" is a time expression that represents a specific time period (last week).
+* "last month" is a time expression that represents a specific time period (last month).
+* "next week" is a time expression that represents a specific time period (next week).
+* "next month" is a time expression that represents a specific time period (next month).
+* "this year" is a time expression that represents a specific time period (this year).
+* "next year" is a time expression that represents a specific time period (next year).

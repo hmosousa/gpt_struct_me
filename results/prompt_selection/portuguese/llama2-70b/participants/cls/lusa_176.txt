@@ -1,0 +1,50 @@
+[['homem', 'Person'], ['ciclomotor', 'Object'], ['veículo ligeiro', 'Vehicle'], ['Setubal', 'Location']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.neighbors import NearestNeighbors
+
+# Load the data from a file
+with open('data/entities.json') as fp:
+   entities = json.load(fp)
+
+# Create a list of all possible classes
+classes = set()
+for entity in entities:
+   for class_name in entity["class"]:
+       if class_name not in classes:
+           classes.add(class_name)
+
+# Initialize the stemmer and tokenizer
+porter = PorterStemmer()
+stoplist = set(stopwords.words("portuguese"))
+
+def get_features(sentence):
+   """Returns a list with the features extracted from a sentence."""
+   # Tokenize the sentence
+   tokens = word_tokenize(sentence)
+   
+   # Remove punctuation marks
+   tokens = [t for t in tokens if t not in string.punctuation]
+   
+   # Strip accents
+   tokens = [t.lower().strip(string.ascii_letters + "ç") for t in tokens]
+   
+   # Filter out stop words
+   tokens = [w for w in tokens if w not in stoplist]
+   
+   return tokens
+
+def extract_entity(sentence, classifier):
+   """Extract an entity from a given sentence using a trained classifier."""
+   # Get the features from the sentence
+   features = get_features(sentence)
+   
+   # Find the nearest neighbor to the sentence's feature vector
+   nn = classifier.kneighbors([features], 1)[0][-1]
+   

@@ -1,0 +1,47 @@
+[['homem', 'Person'], ['ciclomotor', 'Object'], ['veículo ligeiro', 'Vehicle'], ['Setubal', 'Location']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.neighbors import NearestNeighbors
+
+# Load the data from a file
+with open('data/entities.json') as fp:
+   entities = json.load(fp)
+
+# Create a stemmer object for Portuguese words
+porter = PorterStemmer()
+
+# Initialize the list of classes and their respective lists of tokens
+classes = {}
+for entity in entities:
+   if not entity["class"] in classes:
+       classes[entity["class"]] = []
+   classes[entity["class"]].append(entity["tokens"])
+
+# Get all possible combinations of two-word phrases
+def get_combinations():
+   # Iterate over each class
+   for key, value in classes.items():
+       # For each token list in that class
+       for tokens in value:
+           # If there are more than one token in this list
+           if len(tokens) > 1:
+               # Generate all possible combinations of two elements
+               for i in range(len(tokens)):
+                   for j in range(i + 1, len(tokens)):
+                       yield (tokens[i], tokens[j])
+
+# Tokenize the text
+text = word_tokenize("Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal")
+
+# Remove stopwords from the text
+stoplist = set(stopwords.words('portuguese'))
+filtered_sentence = [w for w in text if not w in stoplist]
+
+# Tag the filtered sentence with POS tags
+tagged_sentence =

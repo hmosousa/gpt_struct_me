@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Vila Nova de Gaia", "Location"],
+["Sapadores de Vila Nova de Gaia", "Organization"],
+["Bombeiros da Aguda", "Organization"],
+["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Facility"],
+["Proteção Civil", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Vila Nova de Gaia" is a location.
+* "Sapadores de Vila Nova de Gaia" and "Bombeiros da Aguda" are organizations.
+* "Centro Hospitalar de Vila Nova de Gaia/Espinho" is a facility.
+* "Proteção Civil" is an organization.
+
+Note:
+
+* All the names of the entities are in Portuguese.
+* The names of the classes are in English.

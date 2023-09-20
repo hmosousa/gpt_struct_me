@@ -1,0 +1,1 @@
+[["PJ", "State"], ["homem", "Occurrence"], ["balear", "Reporting"], ["jovem", "Perception"], ["coletividade", "Aspectual"], ["Setúbal", "Intensional Action"]]

@@ -1,0 +1,12 @@
+[
+"Homem de 48 anos",
+"Vítima",
+"Colisão automóvel",
+"Barcelos",
+"Chorente",
+"Concelho de Barcelos (Braga)",
+"Comando Distrital de Operações de Socorros (CDOS)",
+"Bombeiros Voluntários de Viatodos"
+"Condutor",
+"Ferido ligeiro"
+]

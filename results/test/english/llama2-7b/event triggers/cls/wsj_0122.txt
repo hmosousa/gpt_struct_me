@@ -1,0 +1,2 @@
+[["Young's Market Co.", "State"], ["Young's Market Co.", "Occurrence"], ["Young's Market Co.", "Reporting"], ["Young's Market Co.", "Perception"], ["Young's Market Co.", "Aspectual"], ["Young's Market Co.", "Intensional Action"], ["Young's Market Co.", "Intensional State"]]
+

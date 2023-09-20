@@ -1,0 +1,28 @@
+[
+["Sicários", "Person"],
+["narcotráfico", "Other"],
+["Assassinos", "Person"],
+["Michoacán", "Location"],
+["Tangamandapio", "Location"],
+["Ministério Público", "Organization"],
+["trabalhadores agrícolas", "Person"],
+["vítimas", "Person"],
+["homens", "Person"],
+["mulher", "Person"],
+["corpos", "Object"],
+["ferimentos de bala", "Other"],
+["tortura", "Other"],
+["desmembrados", "Other"],
+["identidade", "Other"],
+["linhas de investigação", "Other"],
+["narcotráfico", "Other"],
+["cartéis rivais", "Other"],
+["violência", "Other"],
+["crime organizado", "Other"]
+]
+
+Note:
+The input text is in Portuguese.
+The output should be in English.
+The classes used in the output are the ones mentioned in the task description.
+The output should be a JSON-parseable list.

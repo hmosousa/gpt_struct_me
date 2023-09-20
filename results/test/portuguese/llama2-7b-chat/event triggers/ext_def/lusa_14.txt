@@ -1,0 +1,32 @@
+[
+{
+"event": "tentativa_de_tráfico_de_menores",
+"time": "2023-02-01T12:00:00",
+"location": "Dundo, Lunda Norte, Angola",
+"actors": [
+"Autoridades policiais angolanas",
+"Supostos traficantes"
+],
+"description": "O Serviço de investigação Criminal (SIC) frustrou a tentativa de tráfico de três crianças da República Democrática do Congo (RDCongo), na cidade do Dundo, província angolana da Lunda Norte, informaram hoje as autoridades angolanas.",
+"related_events": [
+{
+"event": "primeira_tentativa_de_tráfico_de_menores",
+"time": "2023-01-01T12:00:00",
+"location": "Angola",
+"actors": [
+"Autoridades policiais angolanas"
+],
+"description": "A primeira tentativa de tráfico de menores ocorreu em 1 de janeiro de 2023, quando as autoridades angolanas frustraram um plano de traficantes que pretendiam comercializar crianças da República Democrática do Congo."
+],
+"related_events": [
+{
+"event": "segunda_tentativa_de_tráfico_de_menores",
+"time": "2023-07-01T12:00:00",
+"location": "Angola",
+"actors": [
+"Autoridades policiais angolanas"
+],
+"description": "A segunda tentativa de tráfico de menores ocorreu em 1 de julho de 2023, quando as autoridades angolanas frustraram outro plano de traficantes que pretendiam comercializar crianças da República Democrática do Congo."
+]
+]
+]

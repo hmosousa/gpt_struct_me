@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Penafiel", "Location"], ["juiz", "Person"], ["Ministério Público (MP)", "Organization"], ["47 anos de idade", "Other"], ["mulher", "Person"], ["companheira", "Person"], ["prostituir-se", "Nature"], ["homem", "Person"], ["vítima", "Person"], ["instituição de acolhimento", "Facility"], ["crime", "Object"]]

@@ -1,0 +1,13 @@
+[["Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas", "Obj"], ["A GNR de Freamunde", "Org"], ["anunciou hoje", "Per"], ["ter encerrado", "Per"], ["um estabelecimento", "Org"], ["de restauração", "Fac"], ["e bebidas", "Fac"], ["que reunia", "Per"], ["cerca de 50 pessoas", "Per"], ["naquela localidade", "Loc"], ["do concelho", "Loc"], ["de Paços de Ferreira", "Loc"], ["Os militares", "Org"], ["detetaram que", "Per"], ["o estabelecimento", "Org"], ["estava a funcionar", "Per"], ["com música", "Per"], ["ao vivo", "Per"], ["o que", "Per"], ["ocorreu", "Per"], ["na sequ\u00eancia", "Per"], ["de uma a\u00e1o", "Per"], ["de fiscaliza\u00e7\u00f5o", "Per"], ["com vista", "Per"], ["ao cumprimento", "Per"], ["das normas", "Per"], ["referentes", "Per"], ["à pandemia", "Per"], ["covid-19", "Per"], ["A propriet\u00e1ria", "Per"], ["de 48 anos", "Per"], ["foi identificada", "Per"], ["tendo sido", "Per"], ["dada ordem", "Per"], ["para terminar", "Per"], ["o evento", "Per"], ["resultando", "Per"], ["na elabora\u00e7\u00f5o", "Per"], ["de um auto", "Per"], ["de contraordena\u00e7\u00f5", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas
+A GNR de Freamunde anunciou hoje ter encerrado um estabelecimento de restauração e bebidas que reunia cerca de 50 pessoas, naquela localidade do concelho de Paços de Ferreira.
+Os militares detetaram que o estabelecimento estava a funcionar com música ao vivo, o que ocorreu "na sequência de uma ação de fiscalização com vista ao cumprimento das normas referentes à pandemia covid-19", segundo um comunicado da autoridade.
+A proprietária, de 48 anos, foi identificada, tendo sido dada ordem para terminar o evento, resultando na elaboração de um auto de contraordenação."
+
+Output:
+[["Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas", "Obj"], ["A GNR de Freamunde", "Org"], ["anunciou hoje", "Per"], ["ter encerrado", "Per"], ["um estabelecimento", "Org"], ["de restauração", "Fac"], ["e bebidas", "Fac"], ["que reunia", "Per"], ["cerca de 50 pessoas", "Per"], ["naquela localidade", "Loc"], ["do concelho", "Loc"], ["de Paços de Ferreira", "Loc"], ["Os militares", "Org"], ["detetaram que", "Per"], ["o estabelecimento", "Org"], ["estava a funcionar", "Per"], ["com música", "Per"], ["ao vivo", "Per"], ["o que", "Per"], ["ocorreu", "Per"], ["na sequ\u00eancia", "Per"], ["de uma a\u00e1o", "Per"], ["de fiscaliza\u00e7\u00f5o", "Per"], ["com vista", "Per"], ["ao cumprimento", "Per"], ["das normas", "Per"], ["refer

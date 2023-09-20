@@ -1,0 +1,34 @@
+[["hoje", Date], ["às 20:20 de hoje", Time], ["20:20", Time]]
+"""
+import re
+from datetime import timedelta
+
+class TemporalExpression(object):
+   def __init__(self, text, type_of_temporal_expression=None):
+       self._text = text
+       self._type_of_temporal_expression = type_of_temporal_expression
+
+   @property
+   def text(self):
+       return self._text
+
+   @property
+   def type_of_temporal_expression(self):
+       return self._type_of_temporal_expression
+
+def extract_time_expressions(text):
+   """Extract time expressions from the given text and returns them in a list of TemporalExpressions objects.
+   
+   Args:
+       text (str) - The text to be processed.
+       
+   Returns:
+       A list of TemporalExpressions objects.
+   """
+   # TODO: Implement this function!
+   raise NotImplementedError()
+
+if __name__ == '__main__':
+   print("Testing extract_time_expressions()...")
+   assert extract_time_expressions('') == []
+   assert extract_time_expressions('Homem morto a tiro no Barreiro, atirador em fuga\nUm homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).\nA mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.\nDisse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do

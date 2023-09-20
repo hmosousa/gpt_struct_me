@@ -1,0 +1,24 @@
+[["November", Date], ["22nd", Date], ["May", Date], ["last May", Date], ["half of Cineplex's equity", Duration], ["33% of its voting rights through restricted voting shares", Set], ["all cash", Set], ["two years", Duration], ["$57 million", Amount], ["$100 million", Amount]]
+"""
+import json
+from datetime import date, timedelta
+
+def extract_time(text):
+   """Extract time expressions from text.
+   
+   Args:
+       text (str): Text to parse.
+       
+   Returns:
+       list: List of tuples where each tuple is [entity, class]
+   """
+   # TODO: Implement this function!
+   raise NotImplementedError()
+
+if __name__ == '__main__':
+   print('Example:')
+   example = '''Cineplex Odeon Corp. directors said the company's chairman and chief executive, Garth Drabinsky, is considering bidding 780.6 million Canadian dollars (US$666 million) to acquire the company.
+The board said Mr. Drabinsky and Vice Chairman Myron Gottlieb are negotiating financing before offering C$16.40 a share to acquire all of Cineplex's shares outstanding. The directors added that the two executives haven't reached a final decision to proceed with a bid and that until an offer is made the board will continue seeking higher offers from other bidders.
+The directors said if Messrs. Drabinsky and Gottlieb mail an offer to shareholders by Nov. 22, it will reimburse them a maximum of C$8.5 million for expenses related to a bid.
+"We consider that his bid is an acceptable bid," said Sandra Kolber, spokeswoman for the independent directors' committee appointed last May to solicit and review bids for the company in the wake of a dispute between Mr. Drabinsky and Cineplex's major shareholder, MCA Inc.
+MCA and Cineplex's other major shareholder, Montreal-based financier Charles Bronfman and his associ

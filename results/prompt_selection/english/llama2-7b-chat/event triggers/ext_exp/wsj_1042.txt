@@ -1,0 +1,9 @@
+["dividend", "warrants", "common shares", "Class C warrants", "issue date", "Class A warrants", "Class B warrants", "unclassified warrants"]
+Explanation:
+* "dividend" is an event trigger because Avon declared a dividend of one warrant for each three shares of common stock.
+* "warrants" is an event trigger because Avon issued 1.1 million Class C warrants and will issue additional 243,677 of the Class C warrants to holders of its Class A, Class B and unclassified warrants.
+* "common shares" is not an event trigger because it is not related to any specific event.
+* "Class C warrants" is an event trigger because Avon issued 1.1 million Class C warrants and will issue additional 243,677 of the Class C warrants to holders of its Class A, Class B and unclassified warrants.
+* "issue date" is not an event trigger because it is not related to any specific event.
+* "Class A warrants" and "Class B warrants" are not event triggers because they are not mentioned in the given text.
+* "unclassified warrants" is not an event trigger because it is not mentioned in the given text.

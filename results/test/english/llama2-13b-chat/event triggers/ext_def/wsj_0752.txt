@@ -1,0 +1,13 @@
+["3-for-2 split", "Dec. 7", "Nov. 22", "boosting the stock's liquidity", "Moonachie", "plastic film products"]
+
+Explanation:
+The input text contains several events that can be extracted and represented as a list of strings. The events are:
+
+* 3-for-2 split
+* Dec. 7
+* Nov. 22
+* boosting the stock's liquidity
+* Moonachie
+* plastic film products
+
+Each event is a string that represents a specific occurrence or action described in the text. The events are listed in the order they appear in the text.

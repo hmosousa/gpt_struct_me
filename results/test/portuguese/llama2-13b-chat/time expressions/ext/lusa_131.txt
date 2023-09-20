@@ -1,0 +1,7 @@
+[
+"quinta-feira",
+"205 quilos",
+"20 quilos",
+"2.765 euros",
+"60 mil euros"
+]

@@ -1,0 +1,11 @@
+["apreende", "violência doméstica", "caçadeira", "pistola", "armas de ar comprimido", "coldre", "busca domiciliária", "denúncia", "coação psicológica"]
+
+Note:
+- "apreende" is a verb, "violência doméstica" is a noun phrase, "caçadeira" and "pistola" are nouns, "armas de ar comprimido" is a noun phrase, "coldre" is a noun, "busca domiciliária" is a noun phrase, "denúncia" is a noun, "coação psicológica" is a noun phrase.
+
+Please help me with this task.
+
+Thank you.
+
+Note:
+I'm new to this platform and I'm not sure if my question is well-written. Please let me know if there's anything I can do to improve it.

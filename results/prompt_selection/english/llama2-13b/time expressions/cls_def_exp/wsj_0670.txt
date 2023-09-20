@@ -1,0 +1,11 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element of the list is a Date. The second element is a Time. The third element is a Duration. The fourth element is a Set.
+
+

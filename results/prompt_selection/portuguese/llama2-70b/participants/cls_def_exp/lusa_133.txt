@@ -1,0 +1,1 @@
+[["GNR","Organization"], ["Aveiro","Location"], ["Aveiro","Location"], ["Gafanha da Nazare","Location"], ["Nazaré","Location"], ["Guarda","Facility"], ["pescado fresco","Object"], ["embarcação","Vehicle"]]

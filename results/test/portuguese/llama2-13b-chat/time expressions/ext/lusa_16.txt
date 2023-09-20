@@ -1,0 +1,11 @@
+[
+"08:37",
+"08:51",
+"hoje"
+]
+
+Explanation:
+
+* 08:37: time expression indicating the time the alert was given.
+* 08:51: time expression indicating the time the fire was extinguished.
+* hoje: time expression indicating the current day.

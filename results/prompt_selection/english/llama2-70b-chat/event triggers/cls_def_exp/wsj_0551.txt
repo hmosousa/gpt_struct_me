@@ -1,0 +1,19 @@
+[
+["Trustcorp Inc.", "Occurrence"],
+["Society Corp.", "Occurrence"],
+["merger", "Intensional Action"],
+["agreed", "Intensional State"],
+["June", "State"],
+["buy", "Intensional Action"],
+["market value", "Aspectual"],
+["$450 million", "Aspectual"],
+["transaction", "Intensional Action"],
+["close", "Intensional State"],
+["year end", "State"]
+]
+
+Explanation:
+Trustcorp Inc. and Society Corp. are entities and are classified as Occurrences. The merger is an Intensional Action, as it is an action that is planned or intended to happen. Agreed is an Intensional State, as it describes a state of agreement between two parties. June is a State, as it describes a specific point in time. Buy is an Intensional Action, as it is an action that is planned or intended to happen. Market value and $450 million are Aspectual, as they describe the value of something. The transaction is an Intensional Action, as it is an action that is planned or intended to happen. Close is an Intensional State, as it describes a state of being closed. Year end is a State, as it describes a specific point in time.
+
+Note:
+The classes are not mutually exclusive, and an event can belong to multiple classes. For example, the event "buy" can be classified as both an Intensional Action and an Aspectual, as it describes both an action that is planned or intended to happen and a value associated with that action.

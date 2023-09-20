@@ -1,0 +1,13 @@
+["exploração de jogo ilegal", "apreensão de máquinas de jogo", "elaboração de autos de contraordenação", "fiscalização a estabelecimentos de restauração e bebidas", "apreensão de telemóvel", "apreensão de tablet", "apreensão de computador com impressora", "apreensão de bebidas espirituosas"]
+
+Note:
+
+* The list of event triggers should include all the events mentioned in the text, regardless of their grammatical category (noun, verb, adjective, etc.).
+* The list should be in the format of a JSON-parseable list of strings.
+* Each string in the list should represent a single event trigger.
+
+Hint:
+
+* Look for verbs, nouns, and adjectives that describe actions, states, or events in the text.
+* Pay attention to the temporal information in the text, such as "decorreu" and "remetidos", which indicate that the events took place in the past.
+* Use the present tense to describe the events, as they are being reported in the text.

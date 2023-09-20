@@ -1,0 +1,10 @@
+[
+  ["Xerox Corp.", "State"],
+  ["Xerox Corp.", "Occurrence"],
+  ["Xerox Corp.", "Reporting"],
+  ["Xerox Corp.", "Perception"],
+  ["Xerox Corp.", "Aspectual"],
+  ["Xerox Corp.", "Intensional Action"],
+  ["Xerox Corp.", "Intensional State"]
+]
+

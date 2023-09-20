@@ -1,0 +1,37 @@
+[['autoridades', 'State'], ['judiciais', 'Occurrence'], ['argentinas', 'Reporting'], ['realizaram', 'Perception'], ['hoje', 'Aspectual'], ['buscas', 'Intensional Action'], ['apartamento', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the data from file
+with open('data/task1.txt') as f:
+   text = f.read()
+
+# Tokenize and tag each sentence
+sentences = [word_tokenize(s) for s in text.split('.')[2:-3]] # Remove first two sentences (title + date) and last one (source)
+tags = [[pos_tag([w]) for w in sent] for sent in sentences]
+
+# Strip punctuation and remove stop words
+stoplist = set(stopwords.words("portuguese"))
+for i, sent in enumerate(tags):
+   tags[i] = [[tup[0].lower().strip(string.punctuation).strip() if tup[1][0] != "PUNCT" else "" for tup in sent]]
+
+# Get all entities
+entities = []
+for sent in tags:
+   for token in sent:
+       if len(token) > 1:
+           entities += token
+
+# Classify tokens
+classes = ["State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Intensional State"]
+classified = {}
+for entity in entities:
+   classified[entity] = classes[Counter([" ".join(pos_tag(e)[-1] for e in tags))[entity]).most_common(1)[0][0]]
+
+# Output
+print json.dumps(sorted(classified.items(), key=lambda x: x[0]))

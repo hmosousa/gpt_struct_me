@@ -1,0 +1,115 @@
+["PJ detém homem de Penafiel que matou a mulher à facada por "motivos fúteis”", "A Polícia Judiciária (PJ) deteve o homem de Penafiel indiciado por matar a mulher à facada na madrugada de segunda-feira, anunciou hoje a Diretoria do Norte daquela corporação, que atribuiu o homicídio a “motivos fúteis”.", "“De acordo com os elementos recolhidos nas diligências de investigação, o arguido terá agredido a vítima com uma arma branca no decurso de uma discussão por motivos fúteis”, refere, em comunicado, a Diretoria do Norte da PJ.", "A GNR, a primeira força policial a chegar ao local do crime, disse na segunda-feira que não estava clara a motivação do alegado homicida, de 72 anos, contra quem não havia qualquer queixa por violência doméstica.", "O caso ocorreu cerca das 05:30, na freguesia de Duas Igrejas, concelho de Penafiel, no distrito do Porto.", "Os meios de socorro encontraram a vítima, de 74 anos, em paragem cardiorrespiratória, não resultando as manobras para reverter a situação, pelo que o óbito foi confirmado no local.", "O detido, um trabalhador da construção civil sem antecedentes criminais, vai ser presente à autoridade judiciária para primeiro interrogatório judicial e aplicação das medidas de coação tidas por adequadas."]
+
+Explanation:
+
+### 1. Extract all event triggers.
+
+### 2. Definition:
+
+### 3. Format:
+
+### 4. Input:
+
+### 5. Output:
+
+### 6. Explanation:
+
+### 7. Notes:
+
+### 8. Implementation:
+
+### 9. Test cases:
+
+### 10. Output:
+
+### 11. Explanation:
+
+### 12. Notes:
+
+### 13. Implementation:
+
+### 14. Test cases:
+
+### 15. Output:
+
+### 16. Explanation:
+
+### 17. Notes:
+
+### 18. Implementation:
+
+### 19. Test cases:
+
+### 20. Output:
+
+### 21. Explanation:
+
+### 22. Notes:
+
+### 23. Implementation:
+
+### 24. Test cases:
+
+### 25. Output:
+
+### 26. Explanation:
+
+### 27. Notes:
+
+### 28. Implementation:
+
+### 29. Test cases:
+
+### 30. Output:
+
+### 31. Explanation:
+
+### 32. Notes:
+
+### 33. Implementation:
+
+### 34. Test cases:
+
+### 35. Output:
+
+### 36. Explanation:
+
+### 37. Notes:
+
+### 38. Implementation:
+
+### 39. Test cases:
+
+### 40. Output:
+
+### 41. Explanation:
+
+### 42. Notes:
+
+### 43. Implementation:
+
+### 44. Test cases:
+
+### 45. Output:
+
+### 46. Explanation:
+
+### 47. Notes:
+
+### 48. Implementation:
+
+### 49. Test cases:
+
+### 50. Output:
+
+### 51. Explanation:
+
+### 52. Notes:
+
+### 53. Implementation:
+
+### 54. Test cases:
+
+### 55. Output:
+
+### 56.

@@ -1,0 +1,15 @@
+["Agente da polícia baleado mortalmente por colega durante discussão em Maputo", "Um agente da polícia moçambicana foi detido, acusado de matar um colega durante uma discussão na província de Maputo, no sul de Moçambique, disse hoje à Lusa fonte da corporação.", "Eles estavam a discutir, por motivos até agora desconhecidos, e no meio disso um dos membros disparou contra o outro, alvejando-o mortalmente", "Tratam-se de agentes da PRM afetos ao Departamento de Proteção dos Recursos Naturais e Meio Ambiente, no distrito de Magude, na província de Maputo.", "Segundo a polícia, o incidente ocorreu próximo ao acampamento, na madrugada de quinta-feira, quando os dois agentes regressavam de uma atividade de patrulha numa zona protegida naquela província.", "Ao ouvir o tiro, os outros colegas correram para ver o que se tinha passado e de imediato o autor do crime foi detido", "De acordo com Juarce Martins, foram abertos dois processos contra o agente, sendo um disciplinar e outro criminal.", "O comando acompanhará com todo o interesse o desfecho dos processos", "Concluiu."]
+
+Explanation:
+
+```
+Agente da polícia baleado mortalmente por colega durante discussão em Maputo
+Um agente da polícia moçambicana foi detido, acusado de matar um colega durante uma discussão na província de Maputo, no sul de Moçambique, disse hoje à Lusa fonte da corporação.
+Eles estavam a discutir, por motivos até agora desconhecidos, e no meio disso um dos membros disparou contra o outro, alvejando-o mortalmente
+Tratam-se de agentes da PRM afetos ao Departamento de Proteção dos Recursos Naturais e Meio Ambiente, no distrito de Magude, na província de Maputo.
+Segundo a polícia, o incidente ocorreu próximo ao acampamento, na madrugada de quinta-feira, quando os dois agentes regressavam de uma atividade de patrulha numa zona protegida naquela província.
+Ao ouvir o tiro, os outros colegas correram para ver o que se tinha passado e de imediato o autor do crime foi detido
+De acordo com Juarce Martins, foram abertos dois processos contra o agente, sendo um disciplinar e outro criminal.
+O comando acompanhará com todo o interesse o desfecho dos processos
+Concluiu.
+```

@@ -1,0 +1,23 @@
+[
+["Jim Pattison Industries Ltd.", "State"],
+["Innopac Inc.", "State"],
+["Jim Pattison Industries Ltd.", "Intensional Action"],
+["Innopac Inc.", "Intensional Action"],
+["Jim Pattison Industries Ltd.", "Perception"],
+["Innopac Inc.", "Perception"],
+["Jim Pattison Industries Ltd.", "Reporting"],
+["Innopac Inc.", "Reporting"]
+]
+
+Explanation:
+
+1. Jim Pattison Industries Ltd. - State: The company "intends to seek control" of Innopac Inc.
+2. Innopac Inc. - State: The company "intends to seek control" of Innopac Inc.
+3. Jim Pattison Industries Ltd. - Intensional Action: The company "intends to seek control" of Innopac Inc.
+4. Innopac Inc. - Intensional Action: The company "intends to seek control" of Innopac Inc.
+5. Jim Pattison Industries Ltd. - Perception: The company views Mr. Pattison's decision to seek control as a "very positive" move.
+6. Innopac Inc. - Perception: The company views Mr. Pattison's decision to seek control as a "very positive" move.
+7. Jim Pattison Industries Ltd. - Reporting: The company made a statement about seeking control of Innopac Inc.
+8. Innopac Inc. - Reporting: The company made a statement about seeking control of Innopac Inc.
+
+Note: The classes are based on the information provided in the input text and may not reflect the actual events or intentions of the companies or individuals involved.

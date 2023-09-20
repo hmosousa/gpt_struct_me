@@ -1,0 +1,1 @@
+[["currently", "Time"], ["3.3 million", "Set"], ["1.1 million", "Set"], ["$5.50", "Set"], ["90 days", "Duration"], ["additional 243,677", "Set"], ["one-third", "Set"]]

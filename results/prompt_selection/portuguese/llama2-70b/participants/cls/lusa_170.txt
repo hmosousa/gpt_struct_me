@@ -1,0 +1,1 @@
+[["Encontrado","Person"], ["corpo","Object"], ["homem","Person"], ["en zona rochosa","Location"], ["na costa da Terceira","Location"]]

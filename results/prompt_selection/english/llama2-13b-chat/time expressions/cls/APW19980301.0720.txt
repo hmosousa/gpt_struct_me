@@ -1,0 +1,15 @@
+[
+["JERUSALEM", "Date"],
+["Sunday", "Time"],
+["1978", "Duration"],
+["U.N. Resolution 425", "Set"]
+]
+
+Explanation:
+
+* "JERUSALEM" is a Date.
+* "Sunday" is a Time.
+* "1978" is a Duration.
+* "U.N. Resolution 425" is a Set.
+
+Note: The input text is a news article, and the time expressions are extracted and classified based on their context and form.

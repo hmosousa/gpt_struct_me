@@ -1,0 +1,38 @@
+[
+["Homem", "Person"],
+["PSP", "Organization"],
+["Algueirão-Mem Martins", "Location"],
+["Lisboa", "Location"],
+["Estrada de Mem Martins", "Location"],
+["Hospital Professor Doutor Fernando Fonseca", "Facility"],
+["Comando Metropolitano de Lisboa", "Organization"],
+["Polícia Judiciária", "Organization"],
+["crime de homicídio", "Nature"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and classes. As before, your goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person or group of people, including their names, ages, genders, etc.
+* Organization: A company, institution, government agency, etc.
+* Object: A physical object or entity, such as a weapon, vehicle, building, etc.
+* Location: A geographical location, such as a city, street, park, etc.
+* Nature: A natural entity, such as a mountain, river, forest, etc.
+* Facility: A man-made structure or entity, such as a hospital, school, restaurant, etc.
+* Other: Any entity that doesn't fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+For example, if the input text is "John Smith, a 35-year-old man, was shot dead in the street", the output would be:
+[
+["John Smith", "Person"],
+["35-year-old man", "Person"],
+["shot dead", "Nature"],
+["street", "Location"]
+]
+
+Note that the same entity can have multiple classes. For example, in the previous example, "John Smith" is both a Person and a Victim (a subclass of Person).

@@ -1,0 +1,26 @@
+[
+["Suspeita de fogo posto", "Intensional Action"],
+["incêndio", "Occurrence"],
+["casa desabitada", "State"],
+["Jardim da Serra", "Aspectual"],
+["Câmara de Lobos", "Aspectual"],
+["Leonel Correia da Silva", "Perception"],
+["habitação", "State"],
+["manutenção", "State"],
+["inabitável", "State"],
+["danos", "State"],
+["materiais", "State"],
+["Bombeiros de Câmara de Lobos", "Reporting"]
+]
+
+Explanation:
+
+* "Suspeita de fogo posto" is classified as Intensional Action because it refers to a deliberate action of setting a fire.
+* "incêndio" is classified as Occurrence because it refers to an event that is happening or has happened.
+* "casa desabitada" is classified as State because it describes the state of the house, which is uninhabited.
+* "Jardim da Serra" and "Câmara de Lobos" are classified as Aspectual because they provide additional information about the location of the event.
+* "Leonel Correia da Silva" is classified as Perception because it refers to the statement of a person, the vereador, about the event.
+* "habitação" is classified as State because it describes the state of the house, which is now uninhabitable.
+* "manutenção" and "inabitável" are classified as State because they describe the state of the house, which lacks maintenance and is now uninhabitable.
+* "danos" and "materiais" are classified as State because they describe the result of the event, which is the damage caused by the fire.
+* "Bombeiros de Câmara de Lobos" is classified as Reporting because it refers to the action of the firefighters who fought the fire.

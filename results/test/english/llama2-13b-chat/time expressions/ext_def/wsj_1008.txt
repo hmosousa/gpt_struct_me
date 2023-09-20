@@ -1,0 +1,22 @@
+[
+"$28 million",
+"7.125",
+"22.5 million",
+"93.2%",
+"91.2%",
+"primary insurance",
+"particular policy"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "$28 million" (specific amount of money)
+* "7.125" (specific amount of money)
+* "22.5 million" (specific amount of money)
+* "93.2%" (percentage)
+* "91.2%" (percentage)
+* "primary insurance" (type of insurance)
+* "particular policy" (type of insurance)
+
+These time expressions are extracted and represented as a JSON-parseable list of strings.

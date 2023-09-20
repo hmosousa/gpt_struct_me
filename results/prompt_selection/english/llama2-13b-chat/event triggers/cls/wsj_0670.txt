@@ -1,0 +1,21 @@
+[
+["National Intergroup Inc.", "State"],
+["National Intergroup Inc.", "Occurrence"],
+["National Intergroup Inc.", "Reporting"],
+["National Intergroup Inc.", "Perception"],
+["National Intergroup Inc.", "Aspectual"],
+["National Intergroup Inc.", "Intensional Action"],
+["National Intergroup Inc.", "Intensional State"]
+]
+
+Explanation:
+
+1. State: The company expects to report a charge of $5.3 million.
+2. Occurrence: The company has agreed to sell the extrusion division for $15 million.
+3. Reporting: The company will report a gain of about $30 million in the quarter.
+4. Perception: The company continues to explore all options concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky.
+5. Aspectual: The sale of the extrusion division is subject to audit adjustments for working capital changes through the closing.
+6. Intensional Action: The agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years, depending on the plant's shipping levels.
+7. Intensional State: The extrusion unit produces bare and painted custom extrusions for building products and construction industries.
+
+Note: The output is a list of event triggers, where each event trigger is a pair of an entity and a class. The classes are State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

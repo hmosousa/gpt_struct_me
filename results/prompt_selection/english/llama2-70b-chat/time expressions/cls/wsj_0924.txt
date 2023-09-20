@@ -1,0 +1,18 @@
+[
+["Aug. 9", "Date"],
+["Sept. 30", "Date"],
+["4.7 million Canadian dollars", "Amount"],
+["4 million", "Amount"],
+["12 Canadian cents", "Amount"],
+["2.3 million", "Amount"],
+["14 Canadian cents", "Amount"],
+["348.2 million", "Amount"],
+["307.2", "Amount"]
+]
+
+Note:
+The input text contains two dates: "Aug. 9" and "Sept. 30". The first one should be classified as a Date, and the second one should be classified as a Date as well.
+
+The input text also contains several amounts: "4.7 million Canadian dollars", "4 million", "12 Canadian cents", "2.3 million", "14 Canadian cents", "348.2 million", and "307.2". All of them should be classified as Amount.
+
+The input text does not contain any time expressions that should be classified as Time, Duration, or Set.

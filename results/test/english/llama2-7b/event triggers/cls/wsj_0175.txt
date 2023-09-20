@@ -1,0 +1,10 @@
+[
+  ["Sony", "State"],
+  ["Sony", "Occurrence"],
+  ["Sony", "Reporting"],
+  ["Sony", "Perception"],
+  ["Sony", "Aspectual"],
+  ["Sony", "Intensional Action"],
+  ["Sony", "Intensional State"]
+]
+

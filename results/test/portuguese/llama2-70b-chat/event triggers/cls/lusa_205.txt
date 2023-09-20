@@ -1,0 +1,27 @@
+[
+["Polícia Judiciária", "State"],
+["homem", "Occurrence"],
+["56 anos", "Aspectual"],
+["residente no distrito de Évora", "State"],
+["suspeitas da prática do crime de pornografia de menores", "Intensional Action"],
+["telemóveis", "State"],
+["varios telemóveis", "Occurrence"],
+["mais de duas centenas de ficheiros informáticos", "Occurrence"],
+["imagens de menores em situações de cariz sexual", "Intensional State"],
+["detido", "State"],
+["primeiro interrogatório judicial", "Occurrence"]
+]
+
+Explanation:
+
+* "Polícia Judiciária" is a State entity, as it refers to the organization itself.
+* "homem" is an Occurrence entity, as it refers to the person being detained.
+* "56 anos" is an Aspectual entity, as it describes the age of the person.
+* "residente no distrito de Évora" is a State entity, as it refers to the person's place of residence.
+* "suspeitas da prática do crime de pornografia de menores" is an Intensional Action entity, as it refers to the suspected crime.
+* "telemóveis" is a State entity, as it refers to the devices used for the crime.
+* "varios telemóveis" is an Occurrence entity, as it refers to the number of devices found.
+* "mais de duas centenas de ficheiros informáticos" is an Occurrence entity, as it refers to the number of files found on the devices.
+* "imagens de menores em situações de cariz sexual" is an Intensional State entity, as it refers to the content of the files.
+* "detido" is a State entity, as it refers to the person being detained.
+* "primeiro interrogatório judicial" is an Occurrence entity, as it refers to the upcoming interrogation.

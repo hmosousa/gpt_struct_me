@@ -1,0 +1,11 @@
+[
+"no sábado",
+"no início de outubro",
+"hoje"
+]
+
+Explanation:
+
+* "no sábado" is a time expression indicating the day of the week on which the event occurred.
+* "no início de outubro" is a time expression indicating the beginning of the month of October.
+* "hoje" is a time expression indicating the current day.

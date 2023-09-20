@@ -1,0 +1,21 @@
+[
+"Cie. de Navigation Mixte",
+"1989",
+"$1.77 billion",
+"4.7 billion francs",
+"754.4 million",
+"20 years",
+"Philippe de Cholet",
+"Cholet-Dupont amp Cie",
+"Commission des Operations de Bourse",
+"10%",
+"Allianz",
+"Paribas",
+"18.7%",
+"48%",
+"11 billion francs",
+"full dividend rights",
+"partial dividends",
+"three Paribas shares",
+"one Navigation Mixte share"
+] 

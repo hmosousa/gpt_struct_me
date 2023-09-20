@@ -1,0 +1,8 @@
+[
+"final da manhã",
+"11:45",
+"horas",
+"dias",
+"meses",
+"anos"
+]

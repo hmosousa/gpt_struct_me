@@ -1,0 +1,15 @@
+[["descarga ilegal", "Obj"], ["efluentes suinícolas", "Per"], ["a freguesia", "Loc"], ["da Bidoeira de Cima", "Loc"], ["no concelho", "Loc"], ["de Leiria", "Loc"], ["a GNR", "Org"], ["de Leiria", "Loc"], ["o Comando Territorial", "Org"], ["do Núcleo de Proteção Ambiental", "Org"], ["de Leiria", "Loc"], ["a ação", "Per"], ["de patrulhamento", "Per"], ["os militares", "Per"], ["da GNR", "Org"], ["estavam", "Per"], ["numa", "Loc"], ["a descarga", "Per"], ["ilegal", "Per"], ["de um", "Per"], ["efluente pecuário", "Per"], ["para o solo", "Loc"], ["diretamente", "Per"], ["de uma lagoa", "Loc"], ["de armazenagem", "Loc"], ["de efluentes pecuários", "Per"], ["sem qualquer", "Per"], ["tipo", "Per"], ["de mecanismo", "Per"], ["que assegurasse", "Per"], ["a sua", "Per"], ["depuração", "Per"], ["após algumas", "Per"], ["diligências", "Per"], ["identificou", "Per"], ["o ponto", "Loc"], ["de origem", "Loc"], ["da descarga", "Per"], ["resultando", "Per"], ["na elaboração", "Per"], ["de um", "Per"], ["auto", "Per"], ["de contraordenação", "Per"], ["por descarga", "Per"], ["de efluente pecuário", "Per"], ["diretamente", "Per"], ["para o solo", "Loc"], ["punível", "Per"], ["com uma", "Per"], ["coima", "Per"], ["no valor máximo", "Per"], ["de 144 mil euros", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de segurança detetam 100 kg de cocaína em Portugal
+A Polícia Judiciária (PJ) detetou, na madrugada desta quarta-feira, 100 kg de cocaína, numa operação que teve lugar em Portugal, informou a PJ.
+A operação teve lugar na madrugada desta quarta-feira, na zona de Lisboa, e teve como alvo um grupo de pessoas ligadas a um grupo de traficantes de drogas.
+A PJ não precisou, até ao momento, informar a quantidade de pessoas detetadas.
+A operação teve lugar em conjunto com a Polícia de Segurança Pública (PSP) e a Guarda Nacional Republicana (GNR).
+A PJ não precisou, até ao momento, informar a quantidade de pessoas detetadas."
+
+Output:
+[["Autoridades de segurança", "Org"], ["detetam", "Per"], ["100 kg", "Per"], ["de cocaína", "Per"], ["em Portugal", "Loc"], ["a Polícia Judiciária", "Org"], ["detetou", "Per"], ["na madrugada", "Per"], ["desta quarta-feira", "Loc"], ["a PJ", "Org"], ["a operação", "Per"], ["teve lugar", "Per"], ["na zona", "Loc"], ["de Lisboa", "Loc"], ["teve como alvo", "Per"], ["um grupo", "Per"], ["de pessoas", "Per"], ["ligadas", "Per"], ["a um grupo", "Per"], ["de traficantes", "Per"], ["de drogas", "Per"], ["a operação", "Per"], ["teve lugar", "Per"], ["em conjunto", "Per"], ["com a Polícia de Segurança Pública", "Org"], ["e a Guarda Nacional Republicana", "Org"], ["a PJ", "Org"], ["não precisou", "Per"], ["informar", "Per"], ["a quantidade", "Per"], ["de pessoas",

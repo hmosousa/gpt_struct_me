@@ -1,0 +1,12 @@
+["1983", "1985", "1988"]
+
+Explanation:
+The year 1983 is mentioned in the first sentence.
+The year 1985 is mentioned in the second sentence.
+The year 1988 is mentioned in the third sentence.
+
+Note:
+The input is a string.
+
+
+

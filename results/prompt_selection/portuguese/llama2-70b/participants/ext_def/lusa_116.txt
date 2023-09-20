@@ -1,0 +1,1 @@
+["jovem", "autocarro", "vila das aves", "conselho de santo tirso", "protecao civil", "bombeiros da vila das aves", "hospital sao joao", "porto", "luis gonzaga mendes de carvalho", "viatura medica de emergencia e reanimacao de vila nova de famalicao", "ambulancia de suporte imediato de vida de santo tirso", "gnr"]

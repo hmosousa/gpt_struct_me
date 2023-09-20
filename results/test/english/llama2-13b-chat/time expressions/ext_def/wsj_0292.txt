@@ -1,0 +1,15 @@
+[
+"a year ago",
+"a year earlier",
+"the 1989 period",
+"the quarter-to-quarter comparison",
+"the modernization of a pulp and newsprint mill in Alabama"
+]
+
+Explanation:
+
+* "a year ago" refers to a specific point in time in the past (i.e. one year ago).
+* "a year earlier" refers to a specific point in time in the past (i.e. one year earlier).
+* "the 1989 period" refers to a specific time period in the past (i.e. 1989).
+* "the quarter-to-quarter comparison" refers to a comparison of two specific time periods (i.e. the current quarter and the previous quarter).
+* "the modernization of a pulp and newsprint mill in Alabama" refers to a specific event that took place in the past (i.e. the modernization of the mill).

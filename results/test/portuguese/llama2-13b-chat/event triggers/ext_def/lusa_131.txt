@@ -1,0 +1,22 @@
+["apreendeu", "viveiros", "crustáceos", "enguia-europeia", "patrulhamento", "regras", "captura", "pescado", "segurança", "marítima", "detetaram", "culturas", "águas", "licenciamento", "apreensão", "processo", "infrações", "puníveis", "coima", "devolvidos"]
+
+Explanation:
+
+* "apreendeu" is an event trigger because it indicates that the GNR (Portuguese Republican National Guard) carried out an action (the seizure of illegal shrimp farms).
+* "viveiros" is an event trigger because it refers to the physical structures where the crustaceans and eels were being raised.
+* "crustáceos" and "enguia-europeia" are event triggers because they refer to the living creatures that were being raised in the illegal farms.
+* "patrulhamento" is an event trigger because it refers to the GNR's action of patrolling the river.
+* "regras" is an event trigger because it refers to the rules and regulations that the GNR is enforcing.
+* "captura" is an event trigger because it refers to the act of capturing or seizing the illegal farms.
+* "pescado" is an event trigger because it refers to the fishing industry, which is related to the GNR's mission.
+* "segurança" and "marítima" are event triggers because they refer to the GNR's responsibility for ensuring safety and security in the maritime domain.
+* "detetaram" is an event trigger because it indicates that the GNR detected the illegal farms during their patrol.
+* "culturas" is an event trigger because it refers to the illegal farming activities.
+* "águas" is an event trigger because it refers to the water where the illegal farms were located.
+* "licenciamento" is an event trigger because it refers to the lack of licensing for the illegal farms.
+* "apreensão" is an event trigger because it indicates that the GNR seized the illegal farms.
+* "processo" is an event trigger because it refers to the legal process that will be carried out against those responsible for the infractions.
+* "infrações" is an event trigger because it refers to the violations of the law that were committed.
+* "puníveis" is an event trigger because it indicates that those responsible for the infractions can be punished.
+* "coima" is an event trigger because it refers to the fines that can be imposed on those responsible for the infractions.
+* "devolvidos" is an event trigger because it indicates that the living creatures that were being raised in the illegal farms were returned to their natural habitat.

@@ -1,0 +1,23 @@
+[
+["General Motors Corp. wants to buy as much as 15% of Jaguar PLC", "Occurrence"],
+["GM sought U.S. antitrust clearance last week", "Occurrence"],
+["GM doesn't own any Jaguar shares", "State"],
+["GM then wrote Jaguar that it intends", "Intensional Action"],
+["to go to that 15% level", "Aspectual"],
+["once it wins the U.S. clearance", "Occurrence"],
+["The GM move follows Tuesday's declaration by Ford", "Occurrence"],
+["Ford holds an unwelcome 12.45% stake in Jaguar", "State"],
+["Ford is prepared to bid for the entire company", "Intensional Action"],
+["GM is close to completing a friendly deal with Jaguar", "Occurrence"],
+["Speculative investors pushed up Jaguar's share price", "Occurrence"],
+["an all-out bidding war between the world's top auto giants", "Occurrence"],
+["Ford's vice president for finance, at a news conference", "Occurrence"],
+["The government retained the single share after selling its stake in Jaguar in 1984", "State"],
+["Ford is willing to bid for 100% of Jaguar's shares", "Intensional Action"],
+["Ford might succeed because many shareholders are speculators", "Occurrence"],
+["The government probably wouldn't give in readily to a hostile foray by Ford", "Occurrence"],
+["GM has pointed out that its willingness to settle for a minority stake", "Intensional Action"],
+["This week, the U.S. auto giant paid for 10 House of Commons members", "Occurrence"],
+["Politics also influences the government's thinking on the anti-takeover restriction", "Occurrence"],
+["Prime Minister Margaret Thatcher might be receptive to any request", "Occurrence"]
+]

@@ -1,0 +1,11 @@
+["atropelamento", "morrer", "ferido grave", "declarada cadáver", "circularem a pé", "veículo ligeiro", "alerta"]
+
+Note:
+- The list of events is not exhaustive, but it should include all the relevant events that can be extracted from the text.
+- The events should be in the format of a JSON-parseable list of strings.
+- The events should be in the same order as they appear in the text.
+
+Hint:
+- Look for verbs and verb phrases that indicate actions or states that occur in the text.
+- Pay attention to temporal expressions, such as "hoje" (today) and "segundo" (according to), which can help you identify events.
+- Use your knowledge of Portuguese to identify events that are not explicitly stated but can be inferred from the context.

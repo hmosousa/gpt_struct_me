@@ -1,0 +1,20 @@
+• time expressions:
+• yesterday
+• next year
+• this year
+• the year-earlier quarter
+• the quarter
+• the high end of the range
+• the low end of the previously reported range
+• the end of the year
+• the world-wide economy
+• the near term
+• this year
+• next year
+• the fourth quarter
+• the break-even point for next year
+• the low enough
+
+Note:
+• Time expressions are highlighted in bold.
+• The format of the output is a JSON-parseable list of strings.

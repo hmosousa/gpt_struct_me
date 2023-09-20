@@ -1,0 +1,9 @@
+[
+["recognized", "Perception"],
+["creation", "Occurrence"],
+["listed", "Reporting"],
+["innovated", "Intensional Action"],
+["thought out", "Intensional Action"],
+["elimination", "Occurrence"],
+["pricing", "State"]
+]

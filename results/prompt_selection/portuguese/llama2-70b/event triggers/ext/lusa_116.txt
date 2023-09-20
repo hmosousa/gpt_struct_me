@@ -1,0 +1,1 @@
+["jovem", "atropelado", "autocarro", "vila das aves", "conselho", "santo tirso", "protecao civil", "bombeiro", "hospital sao joao", "porto", "acidente", "viatura medica", "emergencia", "reanimacao", "famalicao", "ambulancia", "suporte imediato vida", "gnr"]

@@ -1,0 +1,1 @@
+[["The World", "State"], ["heavy gunfire", "Occurrence"], ["second day", "Reporting"], ["people fleeing", "Perception"], ["official Serb sources", "Aspectual"], ["operation was over", "Intensional Action"], ["much wider conflict", "Intensional State"]]

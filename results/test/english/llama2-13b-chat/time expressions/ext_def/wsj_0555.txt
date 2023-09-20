@@ -1,0 +1,13 @@
+["March 15, 2007", "2007", "52%", "6,542,000", "683,000", "9.58"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "March 15, 2007" (specific point in time)
+* "2007" (year)
+* "52%" (percentage)
+* "6,542,000" (amount of debentures)
+* "683,000" (number of common shares)
+* "9.58" (conversion price)
+
+Note that the output is a JSON-parseable list of strings, where each string represents a time expression.

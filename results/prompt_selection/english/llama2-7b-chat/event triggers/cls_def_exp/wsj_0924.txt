@@ -1,0 +1,9 @@
+[
+{entity: "Dominion Textile Inc.", class: "State"},
+{entity: "shareholder-rights plan", class: "Aspectual"},
+{entity: "hostile bidder", class: "Aspectual"},
+{entity: "shares", class: "Aspectual"},
+{entity: "net income", class: "Intensional Action"},
+{entity: "fiscal-first quarter", class: "Intensional State"},
+{entity: "sales", class: "Intensional State"}
+]

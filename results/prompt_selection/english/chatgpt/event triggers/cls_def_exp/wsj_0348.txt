@@ -1,0 +1,1 @@
+[["said", "Reporting"], ["jumped", "Occurrence"], ["soared", "Occurrence"], ["closed", "State"], ["began", "State"], ["has", "State"], ["reported", "Reporting"], ["rose", "Occurrence"]]

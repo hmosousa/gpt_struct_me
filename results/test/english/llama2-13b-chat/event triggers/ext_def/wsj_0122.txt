@@ -1,0 +1,11 @@
+["merger", "agreement", "closing", "December"]
+
+Explanation:
+The input text describes an event, specifically a merger, which is triggered by the approval of the transaction by the holders of more than a majority of the stock of the company. The event is characterized by the following triggers:
+
+* "merger" - the act of combining two companies into one
+* "agreement" - the contract or understanding reached between the companies
+* "closing" - the finalization of the transaction
+* "December" - the month in which the transaction is expected to be completed.
+
+These triggers are extracted from the text using a combination of part-of-speech tagging and named entity recognition.

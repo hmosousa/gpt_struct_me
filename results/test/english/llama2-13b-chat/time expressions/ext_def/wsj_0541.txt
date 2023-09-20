@@ -1,0 +1,16 @@
+[
+"Nov. 16",
+"March 1, 2011",
+"Friday",
+"last Monday"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Nov. 16" (specific date)
+* "March 1, 2011" (specific date)
+* "Friday" (day of the week)
+* "last Monday" (specific date, but not a specific day of the week)
+
+These time expressions are extracted and listed in the output, in the format of a JSON-parseable list of strings.

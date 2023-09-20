@@ -1,0 +1,23 @@
+[
+["Agente da polícia", "Person"],
+["Juarce Martins", "Person"],
+["Polícia da República de Moçambique", "Organization"],
+["Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "Organization"],
+["acampamento", "Location"],
+["madrugada", "Time"]
+]
+
+Explanation:
+
+* Agente da polícia: Person
+* Juarce Martins: Person
+* Polícia da República de Moçambique: Organization
+* Departamento de Proteção dos Recursos Naturais e Meio Ambiente: Organization
+* acampamento: Location
+* madrugada: Time
+
+Note:
+
+* The input text is in Portuguese.
+* The output is a list of participants, each with two strings: the entity and the class.
+* The classes are: Person, Organization, Location, Time.

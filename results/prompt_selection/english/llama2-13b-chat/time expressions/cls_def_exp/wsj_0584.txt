@@ -1,0 +1,16 @@
+[
+["The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks", "Date"],
+["Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner", "Time"],
+["The debt, estimated at $4.7 billion, could mortgage the cellular company's future earning power in order to placate some LIN holders in the short term", "Duration"],
+["Under previous terms, holders would have received a dividend of only $20 a share", "Set"],
+["In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise", "Set"],
+["McCaw, the largest provider of cellular telephone service in the U.S., already owns about 9.4% of LIN's stock", "Set"],
+["To mollify shareholders concerned about the long-term value of the company under the BellSouth-LIN agreement", "Set"],
+["BellSouth's revised proposal surprised many industry analysts, especially because of the company's willingness to accept some dilution of future earnings", "Time"],
+["For 1988, BellSouth earned $1.7 billion, or $3.51 a share, on revenue of $13.6 billion", "Date"],
+["In composite trading Friday on the New York Stock Exchange, BellSouth shares fell 87.5 cents to $52.125", "Date"],
+["In national over-the-counter trading, LIN shares soared $4.625 to closed at $112.625, while McCaw fell $2.50 a share to $37.75", "Date"],
+["The proposed BellSouth-LIN cellular company, including the newly acquired Metromedia stake, would give the new entity 55 million potential customers", "Set"],
+["Mr. Leon of Bear Stearns speculated that McCaw, in an attempt to buy time, might consider filing an antitrust suit against BellSouth with the Justice Department and U.S. District Judge Harold Greene", "Time"],
+["Indeed, McCaw seemed to hint at that option in a brief statement", "Time"]
+]

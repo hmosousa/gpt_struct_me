@@ -1,0 +1,38 @@
+["Homem de 60 anos morre em Matosinhos após cair de telhado que estava a limpar",
+"Um homem de 60 morreu hoje, em Matosinhos, no distrito do Porto, após cair do telhado da sua habitação, que estava a limpar, disse à Lusa fonte da PSP",
+"O acidente deu-se cerca das 15:30, na Rua Augusto Gil, tendo o homem caído de uma altura de sete metros, acrescentou a fonte.",
+"No local compareceram os bombeiros de Leixões."]
+
+Explanation:
+The time expressions are:
+"Homem de 60 anos morre em Matosinhos após cair de telhado que estava a limpar"
+"Um homem de 60 morreu hoje, em Matosinhos, no distrito do Porto, após cair do telhado da sua habitação, que estava a limpar, disse à Lusa fonte da PSP"
+"O acidente deu-se cerca das 15:30, na Rua Augusto Gil, tendo o homem caído de uma altura de sete metros, acrescentou a fonte."
+"No local compareceram os bombeiros de Leixões."
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	filePath := os.Args[1]
+
+	lines := strings.Split(filePath, "\n")
+
+	for _, line := range lines {
+		if strings.Contains(line, "de") {
+			fmt.Println(line)
+		}
+	}
+}

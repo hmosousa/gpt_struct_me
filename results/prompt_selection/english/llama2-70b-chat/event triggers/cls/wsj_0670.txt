@@ -1,0 +1,27 @@
+[
+["National Intergroup Inc.", "State"],
+["R.D. Werner Co.", "Occurrence"],
+["$5.3 million", "Reporting"],
+["$15 million", "Reporting"],
+["$30 million", "Reporting"],
+["National Aluminum", "State"],
+["$18 million", "Occurrence"],
+["$778.6 million", "Reporting"],
+["Hawesville, Ky", "Aspectual"],
+["two years", "Intensional Action"],
+["$40 million", "Intensional State"],
+["$1.5 million", "Intensional State"]
+]
+
+Explanation:
+
+* "National Intergroup Inc." is a State entity because it is a company name.
+* "R.D. Werner Co." is an Occurrence entity because it is a company name mentioned in the context of a specific event.
+* "$5.3 million" and "$15 million" are Reporting entities because they are amounts mentioned in the context of financial reporting.
+* "$30 million" is also a Reporting entity because it is an amount mentioned in the context of financial reporting, specifically as a gain.
+* "National Aluminum" is a State entity because it is a company name.
+* "$18 million" is an Occurrence entity because it is an amount mentioned in the context of a specific event, specifically the sale of a steel tube company.
+* "$778.6 million" is a Reporting entity because it is a revenue amount mentioned in the context of financial reporting.
+* "Hawesville, Ky" is an Aspectual entity because it is a location mentioned in the context of a potential sale.
+* "two years" is an Intensional Action entity because it is a time period mentioned in the context of a potential action, specifically the payment of additional proceeds.
+* "$40 million" and "$1.5 million" are Intensional State entities because they are amounts mentioned in the context of a potential sale, specifically the sale of the extrusion division.

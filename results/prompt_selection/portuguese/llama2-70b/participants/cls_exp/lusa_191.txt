@@ -1,0 +1,31 @@
+[['Homem', 'Person'], ['morre', 'Other'], ['após', 'Other'], ['ser', 'Other'], ['esfaqueado', 'Nature'], ['nas', 'Location'], ['costas', 'Facility'], ['junto', 'Organization'], ['mercado', 'Object'], ['Arroios', 'Location'], ['Lisboa', 'Location'], ['Um', 'Number'], ['homem', 'Person'], ['de', 'Preposition'], ['29', 'Number'], ['anos', 'Time'], ['morreu', 'Verb'], ['hoje', 'Time'], ['después', 'Time'], ['teria', 'Verb'], ['esfaqueado', 'Nature'], ['nas', 'Location'], ['costas', 'Facility'], ['junto', 'Organization'], ['mercado', 'Object'], ['Arroios', 'Location'], ['sequência', 'Other'], ['desentendimento', 'Other'], ['informou', 'Verb'], ['agência', 'Organization'], ['Lusa', 'Organization'], ['PSP', 'Organization'], ['.', 'Stop']]
+"""
+import re
+from nltk import word_tokenize, pos_tag
+from collections import Counter
+
+def get_pos(word):
+   """Returns the POS tag of a given word.
+   
+   Args:
+       word (str): The word to be analyzed.
+       
+   Returns:
+       str: The POS tag of the word.
+   """
+   return pos_tag([word])[0][1].lower()
+
+def classify(text):
+   """Classifies all words in a text according to their POS tags.
+   
+   Args:
+       text (str): A string containing the text to be classified.
+       
+   Returns:
+       list: A JSON-parseable list where each element is a list with two strings. 
+           The first string is the entity and the second is the class.
+   """
+   # Tokenizing the text into individual words
+   tokens = word_tokenize(text)
+   # Removing punctuation from the tokenized text
+   no_punctuation = [w for w

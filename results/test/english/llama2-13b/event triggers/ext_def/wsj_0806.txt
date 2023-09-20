@@ -1,0 +1,10 @@
+["registered","said","estimates","expects","owns"]
+
+Explanation:
+The event triggers are "registered", "said", "estimates", "expects" and "owns".
+
+Note:
+The input is a single sentence.
+
+Reference:
+https://www.nltk.org/book/ch06.html

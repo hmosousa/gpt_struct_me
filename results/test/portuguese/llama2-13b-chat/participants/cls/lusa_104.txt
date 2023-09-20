@@ -1,0 +1,25 @@
+[
+["Três mortos", "Person"],
+["hipopótamo", "Object"],
+["Kwanza", "Location"],
+["criança", "Person"],
+["Muinha", "Location"],
+["Baptista Sambango", "Person"],
+["ponte", "Facility"]
+]
+
+Explanation:
+
+* Três mortos: Person
+* hipopótamo: Object
+* Kwanza: Location
+* criança: Person
+* Muinha: Location
+* Baptista Sambango: Person
+* ponte: Facility
+
+Note:
+
+* The output is a list of lists, where each inner list contains two strings: the entity and the class.
+* The classes are: Person, Object, Location, Facility, and Other.
+* The entities are: Três mortos, hipopótamo, Kwanza, criança, Muinha, Baptista Sambango, and ponte.

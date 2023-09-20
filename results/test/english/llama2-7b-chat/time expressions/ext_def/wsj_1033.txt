@@ -1,0 +1,16 @@
+[
+"expected",
+"proposed",
+"yesterday",
+"October 31",
+"five years ago",
+"last year",
+"third quarter",
+"year-ago period",
+"5.9%",
+"46 cents a share",
+"49 cents a share",
+"2.9%",
+"$329.2 million",
+"$320 million"
+]

@@ -1,0 +1,13 @@
+[
+{
+"JERUSALEM", "Date"
+"1978", "1985", "2019"
+"NETANYAHU", "Time"
+"CABINET", "Duration"
+"MICHAEL EITAN", "Set"
+"UR IU LUBRANI", "Set"
+"SYRIA", "Set"
+"WALID MUALEM", "Set"
+"YITZHAK MORDECHAI", "Set"
+}
+] 

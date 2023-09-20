@@ -4,39 +4,6 @@ from dataclasses import dataclass
 
 
 class Document:
-    """Document with text and annotations."""
-
-    def __init__(self, id: str,  text: str, annotations: list):
-
-        self.id = id
-
-        # Remove DCT from annotations
-        for annotation in annotations:
-            if annotation.get("temporalfunction") == "Publication_Time":
-                self.dct = Timex(**annotation)
-                annotations.remove(annotation)
-                break
-
-        # Remove metadata from text and fix the annotation offsets.
-        title, author, *lines = text.split("\n")
-        metadata_offset = len(title) + len(author) + 2
-        for annotation in annotations:
-            if "offset" in annotation:
-                ann_offset = annotation["offset"].split()
-
-                # TODO: we are ignoring discontinuos offsets
-                ann_start = int(ann_offset[0])
-                ann_end = int(ann_offset[-1])
-
-                annotation["text"] = text[ann_start:ann_end]
-
-                annotation["offset"] = (
-                    ann_start - metadata_offset,
-                    ann_end - metadata_offset
-                )
-
-        self.text = "\n".join(lines)
-        self.annotations = annotations
 
     def __repr__(self) -> str:
         return f"Document(id={self.id})"
@@ -94,6 +61,67 @@ class Document:
     @property
     def movelinks(self):
         return self._get_annotation_object(MoveLink)
+
+
+class LusaDocument(Document):
+    """Document with text and annotations."""
+
+    def __init__(self, id: str,  text: str, annotations: list):
+
+        self.id = id
+
+        # Remove DCT from annotations
+        for annotation in annotations:
+            if annotation.get("temporalfunction") == "Publication_Time":
+                self.dct = Timex(**annotation)
+                annotations.remove(annotation)
+                break
+
+        # Remove metadata from text and fix the annotation offsets.
+        title, author, *lines = text.split("\n")
+        metadata_offset = len(title) + len(author) + 2
+        for annotation in annotations:
+            if "offset" in annotation:
+                ann_offset = annotation["offset"].split()
+
+                # TODO: we are ignoring discontinuos offsets
+                ann_start = int(ann_offset[0])
+                ann_end = int(ann_offset[-1])
+
+                annotation["text"] = text[ann_start:ann_end]
+
+                annotation["offset"] = (
+                    ann_start - metadata_offset,
+                    ann_end - metadata_offset
+                )
+
+        self.text = "\n".join(lines)
+        self.annotations = annotations
+
+
+class TimebankDocument(Document):
+
+    def __init__(self, id: str,  text: str, annotations: list):
+
+        self.id = id
+
+        self.text = text
+
+        # Format the annotaion to be in the same lingo as the Lusa dataset.
+        self.annotations = []
+        for annotation in annotations:
+            if annotation["id"].startswith("e"):
+                annotation["type"] = "Event"
+                annotation["offset"] = annotation.pop("endpoints")
+
+                self.annotations.append(annotation)
+
+            elif annotation["id"].startswith("t"):
+                annotation["time_type"] = annotation.pop("type")
+                annotation["type"] = "Time"
+                annotation["offset"] = annotation.pop("endpoints")
+
+                self.annotations.append(annotation)
 
 
 class Entity:

@@ -1,0 +1,22 @@
+[
+["The Reserve Fund", "State"],
+["Harry Brown", "Aspectual"],
+["telephone redemptions", "Perception"],
+["daily dividends", "Perception"],
+["total elimination of share certificates", "Perception"],
+["constant $1 pershare pricing", "Perception"],
+["innovated", "Intensional Action"],
+["painfully thought out", "Intensional Action"]
+]
+
+Explanation:
+
+* "The Reserve Fund" is a state, as it is a specific entity that exists.
+* "Harry Brown" is an aspectual entity, as it is a person who was involved in the creation of the money fund.
+* "telephone redemptions", "daily dividends", "total elimination of share certificates", and "constant $1 pershare pricing" are all perceptions, as they are characteristics of the money fund that can be observed.
+* "innovated" and "painfully thought out" are intensional actions, as they describe the process of creating the money fund.
+
+Note:
+
+* The output is a JSON-parseable list, where each element is a list of two strings. The first string is the entity, and the second string is the class.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

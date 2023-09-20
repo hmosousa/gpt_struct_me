@@ -1,0 +1,13 @@
+[['GNR', 'State'], ['deteve', 'Occurrence'], ['dois homens', 'Reporting'], ['com idades entre os 34 e os 43 anos', 'Aspectual'], ['por tráfico de droga', 'Intensional Action'], ['em Sines', 'Perception'], ['no distrito de Setúbal', 'Perception'], ['tendo apreendido 1.673 doses de estupefacientes', 'Intensional State'], ['divulgou hoje aquela força de segurança', 'Occurrence'], ['Em comunicado', 'Occurrence'], ['a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado', 'Occurrence'], ['no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes', 'Occurrence'], ['no concelho de Sines', 'Perception'], ['“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR', 'Occurrence'], ['Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis', 'Occurrence'], ['Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação', 'Occurrence']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import defaultdict
+
+# Load the data from file
+with open('data

@@ -1,0 +1,1 @@
+[["Homem","Occurrence"], ["ferido","State"], ["com gravidade","Aspectual"], ["depois","Reporting"], ["da","Perception"], ["agressão","Intensional Action"], ["com uma garrafa","Intensional State"], ["num restaurante","Location"], ["em Palmela","Location"]]

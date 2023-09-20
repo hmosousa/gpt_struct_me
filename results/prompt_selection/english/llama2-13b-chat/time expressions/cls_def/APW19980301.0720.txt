@@ -1,0 +1,17 @@
+[
+["Prime Minister Benjamin Netanyahu", "Date"],
+["Cabinet minister Michael Eitan", "Time"],
+["Uri Lubrani", "Set"],
+["Uzi Arad", "Duration"],
+["Danny Naveh", "Duration"]
+]
+
+Explanation:
+
+* Prime Minister Benjamin Netanyahu: Date (mentioned on Sunday)
+* Cabinet minister Michael Eitan: Time (said on Sunday)
+* Uri Lubrani: Set (mentioned Israel's willingness to talk about security)
+* Uzi Arad: Duration (left for Europe on Sunday)
+* Danny Naveh: Duration (left for Europe on Sunday)
+
+Note: The output is a list of temporal expressions extracted from the text, with each element consisting of two strings: the entity and the class. The classes are Date, Time, Duration, and Set.

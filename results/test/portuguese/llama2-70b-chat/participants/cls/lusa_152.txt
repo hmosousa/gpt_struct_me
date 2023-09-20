@@ -1,0 +1,32 @@
+[
+["Governo angolano", "Organization"],
+["Sílvia Lutucuta", "Person"],
+["Hospital Geral da província do Cunene", "Facility"],
+["Ondjiva", "Location"],
+["Angola", "Location"],
+["doente grave", "Person"],
+["recém-nascido", "Person"],
+["pacientes", "Person"],
+["equipa da linha da frente", "Organization"],
+["Hospital Municipal de Cuanhama", "Facility"],
+["Cuanhama", "Location"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and classes. As before, your goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person, including names of individuals.
+* Organization: A company, institution, or other organization.
+* Object: A tangible object or entity.
+* Location: A geographical location, including cities, countries, and regions.
+* Nature: A natural entity, such as a mountain, river, or animal.
+* Facility: A man-made structure or entity, such as a building, hospital, or park.
+* Other: Any other entity that doesn't fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+The input text is in Portuguese, so make sure to use the appropriate language model for this task.

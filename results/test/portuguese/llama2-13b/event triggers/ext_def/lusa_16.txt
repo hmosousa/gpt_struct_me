@@ -1,0 +1,1 @@
+["incêndio", "queimaduras", "cozinha", "Sapadores", "Bombeiros", "Aguda", "Vila Nova de Gaia", "Espinho", "Centro Hospitalar de Vila Nova de Gaia/Espinho", "Proteção Civil"]

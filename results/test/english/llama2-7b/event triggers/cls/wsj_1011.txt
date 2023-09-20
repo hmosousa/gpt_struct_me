@@ -1,0 +1,10 @@
+[
+  ["Delta Air Lines", "State"],
+  ["Delta Air Lines", "Occurrence"],
+  ["Delta Air Lines", "Reporting"],
+  ["Delta Air Lines", "Perception"],
+  ["Delta Air Lines", "Aspectual"],
+  ["Delta Air Lines", "Intensional Action"],
+  ["Delta Air Lines", "Intensional State"]
+]
+

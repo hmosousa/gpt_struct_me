@@ -1,0 +1,15 @@
+[['grua', 'Occurrence'], ['poste', 'Aspectual'], ['iluminacao', 'Reporting'], ['porto', 'State'], ['homem', 'Perception'], ['52', 'Intensional State'], ['anos', 'Intensional State'], ['morreu', 'Occurrence'], ['hoje', 'State'], ['outro', 'Perception'], ['sofreu', 'Occurrence'], ['ferimentos', 'Aspectual'], ['ligeiros', 'Aspectual'], ['sequencia', 'State'], ['derrubou', 'Occurrence'], ['camiao', 'Occurrence'], ['constituicao', 'State'], ['porto', 'State'], ['derrubou', 'Occurrence'], ['poste', 'Aspectual'], ['iluminacao', 'Reporting'], ['circulava', 'Occurrence'], ['rua', 'State'], ['victima', 'Perception'], ['transportada', 'Occurrence'], ['hospital', 'State'], ['santo', 'State'], ['antonio', 'State'], ['morreu', 'Occurrence'], ['estrutura', 'Occurrence'], ['atigiu', 'Occurrence'], ['funcionario', 'Occurrence'], ['bombas', 'Occurrence'], ['gasolina', 'Occurrence'], ['sofreu', 'Occurrence'], ['ferimentos', 'Aspectual'], ['ligeiros', 'Aspectual'], ['ocorreu', 'Occurrence']]
+"""
+import json
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+# Load the data from a file and split it into sentences
+with open('data/news-sentences.txt') as f:
+   news = [line for line in f if not line.startswith('#')]
+
+# Remove punctuation marks
+for i in range(len(news)):
+   news[i] = news[i].replace('.','').replace(',','').replace(';','').replace('?','').replace('!','').replace(':','').replace('\'','').replace('/','').replace('\\','').replace

@@ -1,0 +1,15 @@
+[
+"agreed",
+"paid",
+"was quoted",
+"down",
+"indicated value",
+"imported",
+"distributes",
+"rents",
+"promotional ads",
+"outstanding",
+"subject to approval",
+"disinterested directors",
+"shareholder approval"
+]

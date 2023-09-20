@@ -1,0 +1,113 @@
+[
+["In Washington today", "Date"],
+["the Federal Aviation Administration", "Date"],
+["night", "Time"],
+["TWA Flight eight hundred", "Date"],
+["exploded", "Duration"],
+["moment", "Duration"],
+["Lisa Stark", "Person"],
+["ABC's", "Organization"],
+["last conversation", "Duration"],
+["controllers", "Organization"],
+["TWA pilot Steven Snyder", "Person"],
+["TWA eight hundred", "Date"],
+["climb", "Action"],
+["maintain", "Action"],
+["one five thousand", "Number"],
+["leavin-", "Action"],
+["three thousand", "Number"],
+["minute and a half", "Duration"],
+["pilot", "Person"],
+["nearby flight", "Location"],
+["explosion", "Duration"],
+["ahead", "Location"],
+["sixteen thousand feet", "Number"],
+["controller", "Person"],
+["Boston center", "Location"],
+["TWA eight hundred", "Date"],
+["ident", "Action"],
+["no response", "Duration"],
+["later", "Time"],
+["controller", "Person"],
+["Eastwind pilot", "Person"],
+["more details", "Duration"],
+["blew up", "Duration"],
+["air", "Location"],
+["two fireballs", "Number"],
+["water", "Location"],
+["big small", "Number"],
+["smoke", "Duration"],
+["coming up", "Location"],
+[" controllers", "Organization"],
+["plane", "Location"],
+["prayer", "Action"],
+["TWA eight hundred center", "Person"],
+["I think that was him", "Person"],
+["I think so", "Person"],
+["God bless him", "Person"]
+]
+
+This is a list of 30 elements, where each element is a list of two strings. The first string is the entity, and the second string is the class.
+
+The classes are:
+
+* Date: Indicates a date or a time.
+* Time: Indicates a time of day.
+* Duration: Indicates a duration of time.
+* Set: Indicates a set of items.
+* Person: Indicates a person.
+* Organization: Indicates an organization.
+* Location: Indicates a location.
+* Action: Indicates an action.
+* Number: Indicates a number.
+
+The entities and their corresponding classes are:
+
+* "In Washington today" : Date
+* "the Federal Aviation Administration" : Organization
+* "night" : Time
+* "TWA Flight eight hundred" : Date
+* "exploded" : Duration
+* "moment" : Duration
+* "Lisa Stark" : Person
+* "ABC's" : Organization
+* "last conversation" : Duration
+* "controllers" : Organization
+* "TWA pilot Steven Snyder" : Person
+* "TWA eight hundred" : Date
+* "climb" : Action
+* "maintain" : Action
+* "one five thousand" : Number
+* "leavin-" : Action
+* "three thousand" : Number
+* "minute and a half" : Duration
+* "pilot" : Person
+* "nearby flight" : Location
+* "explosion" : Duration
+* "ahead" : Location
+* "sixteen thousand feet" : Number
+* "controller" : Person
+* "Boston center" : Location
+* "TWA eight hundred" : Date
+* "ident" : Action
+* "no response" : Duration
+* "later" : Time
+* "controller" : Person
+* "Eastwind pilot" : Person
+* "more details" : Duration
+* "blew up" : Duration
+* "air" : Location
+* "two fireballs" : Number
+* "water" : Location
+* "big small" : Number
+* "smoke" : Duration
+* "coming up" : Location
+* "controllers" : Organization
+* "plane" : Location
+* "prayer" : Action
+* "TWA eight hundred center" : Person
+* "I think that was him" : Person
+* "I think so" : Person
+* "God bless him" : Person
+
+The output is a list of

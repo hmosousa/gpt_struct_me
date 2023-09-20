@@ -1,0 +1,1 @@
+["hoje", "hora", "13:55", "150 metros", "dias", "meses", "anos"]

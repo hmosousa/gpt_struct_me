@@ -1,0 +1,13 @@
+[
+"third quarter",
+"a year ago",
+"yesterday",
+"18 cents a share",
+"4 cents a share",
+"75 cents",
+"14 apiece",
+"67 cents a share",
+"34 cents a share",
+"33%",
+"283.8 million"
+]

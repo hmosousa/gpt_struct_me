@@ -1,0 +1,10 @@
+[
+"hoje",
+"hora",
+"16:00",
+"21:00",
+"dias",
+"semanas",
+"meses",
+"anos"
+]

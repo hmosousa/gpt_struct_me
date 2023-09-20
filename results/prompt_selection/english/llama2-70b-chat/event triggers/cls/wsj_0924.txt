@@ -1,0 +1,28 @@
+[
+["Dominion Textile Inc.", "State"],
+["annual meeting", "Occurrence"],
+["shareholder-rights plan", "Intensional Action"],
+["hostile bidder", "Perception"],
+["20% of the shares outstanding", "Aspectual"],
+["additional shares", "Intensional State"],
+["net income", "State"],
+["4.7 million Canadian dollars", "State"],
+["fiscal-first quarter", "Occurrence"],
+["sales", "State"]
+]
+
+Explanation:
+
+* "Dominion Textile Inc." is a State entity.
+* "annual meeting" is an Occurrence event.
+* "shareholder-rights plan" is an Intensional Action entity.
+* "hostile bidder" is a Perception entity.
+* "20% of the shares outstanding" is an Aspectual entity.
+* "additional shares" is an Intensional State entity.
+* "net income" is a State entity.
+* "4.7 million Canadian dollars" is a State entity.
+* "fiscal-first quarter" is an Occurrence event.
+* "sales" is a State entity.
+
+Note:
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.

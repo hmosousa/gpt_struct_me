@@ -1,0 +1,19 @@
+[
+"sofre queimaduras",
+"manuseava gasolina",
+"Vale de S. Martinho",
+"Vila Nova de Famalicão",
+"Hospital de São João",
+"Porto",
+"58 anos",
+"segundo e terceiro graus",
+"13:41",
+"Famalicenses",
+"Vítima",
+"Levada",
+"Causa do acidente",
+"Manuseamento de gasolina",
+"VMER",
+"Hospital de Famalicão",
+"Braga"
+]

@@ -1,0 +1,22 @@
+[['GNR', 'Organization'], ['Aveiro', 'Location'], ['Atum-Rabilho', 'Object'], ['porto', 'Facility'], ['pesca costeira', 'Nature'], ['Gafanha da Nazare', 'Location'], ['Aveiro', 'Location'], ['Guarda', 'Person'], ['Monday', 'Date'], ['2nd', 'Date'], ['fiscalizacao', 'Other'], ['descarga', 'Other'], ['transporte', 'Other'], ['comercializacao', 'Other'], ['regime', 'Other'], ['primeira venda', 'Other'], ['pescado fresco', 'Other'], ['militares', 'Person'], ['embarcaçao', 'Facility'], ['condutor', 'Person'], ['mestre', 'Person']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Load the data from file
+with open('data/task1.txt') as f:
+   text = f.read()
+
+# Tokenize and stem each sentence in the document
+tokens = [word for sent in text.split('. ') for word in word_tokenize(sent)]
+stems = [PorterStemmer().stem(w) for w in tokens if not w in set(stopwords.words("portuguese"))]
+
+# Count the number of times a token appears in the corpus
+counts = Counter(stems).most_common()
+
+# Print the top 50 most common words
+for c, t in counts[:50]:
+   print(t + " : " + str(c))

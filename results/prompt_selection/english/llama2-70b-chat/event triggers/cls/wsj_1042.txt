@@ -1,0 +1,21 @@
+[
+["AVON RENT-A-CAR amp TRUCK Corp.", "State"],
+["declared a dividend", "Occurrence"],
+["one warrant for each three shares of common stock", "Aspectual"],
+["Currently", "State"],
+["3.3 million common shares outstanding", "State"],
+["1.1 million Class C warrants were issued", "Occurrence"],
+["Each of the Class C warrants", "Aspectual"],
+["will enable the holders to purchase one share of common stock at $5.50", "Intensional Action"],
+["The warrants may be exercised until 90 days after their issue date", "State"],
+["Avon also said it will issue an additional 243,677 of the Class C warrants", "Occurrence"],
+["to holders of its Class A, Class B and unclassified warrants", "State"],
+["Issuance of those warrants", "Occurrence"],
+["will be at the rate of one-third warrant for each warrant exercised", "Aspectual"]
+]
+
+I'm not sure how to approach this task. I've tried to identify the triggers in the given text, but I'm not sure how to classify them. Could you provide some guidance or examples of how to classify event triggers?
+
+Also, I'm not sure what the difference is between "Occurrence" and "State" classes. Could you explain the difference between these two classes?
+
+Thank you for your help!

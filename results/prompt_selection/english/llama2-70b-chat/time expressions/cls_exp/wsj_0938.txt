@@ -1,0 +1,38 @@
+[
+["780.6 million Canadian dollars", "Date"],
+["US$666 million", "Date"],
+["C$16.40 a share", "Date"],
+["Nov. 22", "Date"],
+["C$8.5 million", "Duration"],
+["last May", "Date"],
+["half of Cineplex's equity", "Duration"],
+["33% of its voting rights", "Duration"],
+["about 24% of the company's equity", "Duration"],
+["last April", "Date"],
+["two years", "Duration"],
+["$57 million", "Duration"],
+["Rank Organisation PLC", "Date"],
+["$100 million", "Duration"],
+["yesterday's announcement", "Date"],
+["$11", "Date"],
+["$12.875", "Date"],
+["C$16.40 level", "Date"]
+]
+
+Explanation:
+
+* "780.6 million Canadian dollars" and "US$666 million" are both classified as "Date" because they refer to specific monetary amounts at a particular point in time.
+* "C$16.40 a share" is classified as "Date" because it refers to a specific price at a particular point in time.
+* "Nov. 22" is classified as "Date" because it refers to a specific date in the future.
+* "C$8.5 million" is classified as "Duration" because it refers to a specific amount of money that will be spent over a period of time (in this case, the period of time is not specified).
+* "last May" is classified as "Date" because it refers to a specific point in time in the past.
+* "half of Cineplex's equity" and "33% of its voting rights" are both classified as "Duration" because they refer to specific proportions of ownership that have been held for an unspecified period of time.
+* "about 24% of the company's equity" is classified as "Duration" because it refers to a specific proportion of ownership that has been held for an unspecified period of time.
+* "last April" is classified as "Date" because it refers to a specific point in time in the past.
+* "two years" is classified as "Duration" because it refers to a specific period of time.
+* "$57 million" is classified as "Duration" because it refers to a specific amount of money that will be spent over a period of time (in this case, the period of time is not specified).
+* "Rank Organisation PLC" is classified as "Date" because it refers to a specific company that exists at a particular point in time.
+* "$100 million" is classified as "Duration" because it refers to a specific amount of money that will be spent over a period of time (in this case, the period of time is not specified).
+* "yesterday's announcement" is classified as "Date" because it refers to a specific event that occurred at a particular point in time.
+* "$11" and "$12.875" are both classified as "Date" because they refer to specific prices at a particular point in time.
+* "C$16.40 level" is classified as "Date" because it refers to a specific price at a particular point in time.

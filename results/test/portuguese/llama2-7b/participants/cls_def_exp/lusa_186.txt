@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["com cerca de 60 anos", "Per"], ["cai\u00e9", "Per"], ["hoje", "Per"], ["um poço", "Loc"], ["com cerca de 25 metros", "Per"], ["de profundidade", "Per"], ["em Romariz", "Loc"], ["Santa Maria da Feira", "Loc"], ["tendo sido", "Per"], ["resgatado", "Per"], ["sem ferimentos graves", "Per"], ["diz\u00e9", "Per"], ["à Lusa", "Org"], ["fonte", "Per"], ["dos Bombeiros", "Org"], ["de Arrifana", "Org"], ["A queda", "Per"], ["ocorreu", "Per"], ["devido", "Per"], ["ao facto", "Per"], ["da tampa", "Loc"], ["do poço", "Loc"], ["situado", "Loc"], ["na propriedade", "Loc"], ["de um vizinho", "Loc"], ["tendo-se", "Per"], ["partido", "Per"], ["quando", "Per"], ["o homem", "Per"], ["estava em cima", "Per"], ["acabando", "Per"], ["por cair", "Per"], ["at\u00e9", "Per"], ["à profundidade", "Per"], ["coberta", "Per"], ["por água", "Per"], ["acrescentou", "Per"], ["a fonte", "Per"], ["Recorrendo", "Per"], ["a uma equipa", "Per"], ["de grande \u00e1ngulo", "Per"], ["com o aux\u00edlio", "Per"], ["de cordas", "Per"], ["os bombeiros", "Org"], ["resgataram", "Per"], ["o homem", "Per"], ["cerca", "Per"], ["das 17:15", "Per"], ["ap\u00e9s", "Per"], ["o estabilizaram", "Per"], ["dado que", "Per"], ["estava em hipotermia", "Per"], ["tendo recusado", "Per"], ["o transporte", "Per"], ["para o hospital", "Loc"], ["de Santa Maria da Feira", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem armado faz vários reféns dentro de um banco na Geórgia
+Um homem armado fez hoje à tarde vários reféns, ainda em número incerto, dentro das instalações de um banco na Geórgia, informaram as autoridades desta ex-república soviética.
+O Ministério do Interior da Geórgia não precisou, até ao momento, quantas pessoas foram feitas reféns dentro do banco, localizado na cidade de Zugdidi (região oeste), ou quais são as exigências do agressor.
+A polícia isolou, entretanto, a zona onde fica a sucursal bancária e montou uma operação "para neutralizar o agressor", informou o ministério num comunicado.
+A televisão estatal da Geórgia, a Mtavari TV, noticiou que o sequestrador está armado com uma granada de mão e exige 500.000 dólares (cerca de 420.000 euros) em dinheiro.
+A Mtavari TV conseguiu falar com um dos reféns que indicou que o agressor mantém 19 pessoas dentro das instalações bancárias.
+O canal de televisão também divulgou um vídeo que mostra uma sala com pessoas sentadas no chão e um homem vestido com um uniforme militar, de rosto coberto, e armado com uma espingarda."
+
+Output:
+[["um homem armado", "Per"], ["fez", "Per"], ["hoje", "Per"], ["à tarde", "Per"], ["vários reféns", "Per"], ["estão", "Per"], ["em número", "Per"], ["incerto", "Per"], ["dentro", "

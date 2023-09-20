@@ -1,0 +1,46 @@
+["Travelers Corp.", "State"], ["third-quarter", "Occurrence"], ["Hugo", "Reporting"], ["$40 million", "Aspectual"], ["$3 billion", "Intensional Action"], ["California", "Perception"], ["earthquake", "Occurrence"], ["less than $10 million", "Aspectual"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+from itertools import chain
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.cluster import KMeans
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import normalize
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.svm import LinearSVC
+from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import NearestNeighbors
+from sklearn.naive_bayes import MultinomialNB, BernoulliNB
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.kernel_approximation import Nystroem
+from sklearn.externals import joblib
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import roc_curve
+from sklearn.metrics import auc
+import numpy as np
+import pandas as pd
+import re
+import os
+import sys
+import time
+import pickle
+import random
+import string
+import argparse
+import warnings
+warnings.filterwarnings("ignore")
+
+# Setup the parser for command line arguments
+parser = argparse.

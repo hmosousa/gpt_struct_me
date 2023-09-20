@@ -1,0 +1,7 @@
+["about", "one-eighth", "most", "last year"]
+
+Explanation:
+* "about" is a time expression used to indicate a general time period, in this case, the time it took to complete the acquisition.
+* "one-eighth" is a time expression used to indicate a specific time period, in this case, the ratio of the price paid per share.
+* "most" is a time expression used to indicate a general time period, in this case, the majority of the young and fast-growing market.
+* "last year" is a time expression used to indicate a specific time period, in this case, the sales figures for the video shopping industry in the previous year.

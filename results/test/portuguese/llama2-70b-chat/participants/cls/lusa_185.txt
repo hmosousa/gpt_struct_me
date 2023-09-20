@@ -1,0 +1,23 @@
+[
+["Homem", "Person"],
+["rio Tua", "Location"],
+["Mirandela", "Location"],
+["Valverde da Gestosa", "Location"],
+["GNR", "Organization"],
+["Lusa", "Organization"],
+["Polícia Judiciária", "Organization"],
+["domingo", "Nature"]
+]
+
+Explanation:
+
+* "Homem" is a person, so it belongs to the "Person" class.
+* "rio Tua" is a location, so it belongs to the "Location" class.
+* "Mirandela" is a location, so it belongs to the "Location" class.
+* "Valverde da Gestosa" is a location, so it belongs to the "Location" class.
+* "GNR" is an organization, so it belongs to the "Organization" class.
+* "Lusa" is an organization, so it belongs to the "Organization" class.
+* "Polícia Judiciária" is an organization, so it belongs to the "Organization" class.
+* "domingo" is a nature (day of the week), so it belongs to the "Nature" class.
+
+Note that some entities may belong to more than one class. For example, "rio Tua" could also be classified as "Nature" since it's a river, but in this case, it's being classified as "Location" since it's being used as a location.

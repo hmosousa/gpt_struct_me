@@ -1,0 +1,9 @@
+
+* "last week"
+* "two months"
+* "past two months"
+* "early September"
+* "Oct. 13"
+* "this month"
+* "this year"
+* "through Oct. 19"

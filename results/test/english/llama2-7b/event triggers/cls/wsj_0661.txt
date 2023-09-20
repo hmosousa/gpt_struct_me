@@ -1,0 +1,10 @@
+[
+  ["Dataproducts Corp.", "State"],
+  ["Dataproducts Corp.", "Occurrence"],
+  ["Dataproducts Corp.", "Reporting"],
+  ["Dataproducts Corp.", "Perception"],
+  ["Dataproducts Corp.", "Aspectual"],
+  ["Dataproducts Corp.", "Intensional Action"],
+  ["Dataproducts Corp.", "Intensional State"]
+]
+

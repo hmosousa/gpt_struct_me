@@ -1,0 +1,4 @@
+["stock split", "dividend", "quarterly dividend", "stock of record", "split will raise the number of shares outstanding", "net income rose", "earned"]
+
+Explanation:
+The input text describes an event (declaration of a 2-for-1 stock split and a 20% increase in quarterly dividend) and its consequences (increase in number of shares outstanding, and rise in net income). The output list contains all the event triggers found in the input text, in the format of JSON-parseable strings.

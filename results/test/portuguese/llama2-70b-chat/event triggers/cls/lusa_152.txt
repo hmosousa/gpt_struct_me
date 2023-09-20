@@ -1,0 +1,35 @@
+[
+["Governo angolano", "State"],
+["morte de duas pessoas", "Occurrence"],
+["incêndio hospitalar", "Occurrence"],
+["Hospital Geral da província do Cunene", "State"],
+["nota do Ministério da Saúde", "Reporting"],
+["governante", "State"],
+["deslocou", "Intensional Action"],
+["constatar os danos", "Intensional Action"],
+["doente grave", "State"],
+["recém-nascido", "State"],
+["cuidados especiais", "State"],
+["incêndio registado", "Occurrence"],
+["áreas do bloco operatório", "State"],
+["enfermarias cirúrgicas", "State"],
+["posto de armazenamento de oxigênio", "State"],
+["pacientes", "State"],
+["transferir", "Intensional Action"],
+["outras unidades hospitalares da zona", "State"],
+["equipa da linha da frente", "State"],
+["evitar o pior", "Intensional Action"],
+["demais doentes", "State"],
+["nov Hospital Municipal de Cuanhama", "State"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or a happening
+* Reporting: refers to a report or a description of an event
+* Perception: refers to a perception or an observation
+* Aspectual: refers to an aspect or a feature of something
+* Intensional Action: refers to an action or a process with a specific intention
+* Intensional State: refers to a state or a situation with a specific intention or purpose.

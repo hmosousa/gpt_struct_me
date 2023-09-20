@@ -1,0 +1,1 @@
+["Friday", "Thursday", "weeks", "past few weeks"]

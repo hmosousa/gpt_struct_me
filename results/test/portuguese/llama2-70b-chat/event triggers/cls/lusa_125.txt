@@ -1,0 +1,48 @@
+[
+["GNR", "State"],
+["apreende", "Occurrence"],
+["785 quilos de haxixe", "Aspectual"],
+["detém", "Occurrence"],
+["dois homens", "State"],
+["em barco", "State"],
+["ao largo de Olhão", "State"],
+["Unidade de Controlo Costeiro", "State"],
+["UCC", "State"],
+["transbordo", "Occurrence"],
+["produto estupefaciente", "Aspectual"],
+["SIVICC", "State"],
+["fardos de haxixe", "Aspectual"],
+["intercetada", "Occurrence"],
+["tripulantes", "State"],
+["detidos", "Occurrence"],
+["embarcação", "State"],
+["fibra", "State"],
+["comprimento", "State"],
+["valor estimado", "Aspectual"]
+]
+
+Note:
+The input text is in Portuguese, and the output should be in English.
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese military police force.
+* "apreende" is an Occurrence entity, as it refers to the action of seizing or capturing something.
+* "785 quilos de haxixe" is an Aspectual entity, as it refers to the quantity and type of substance seized.
+* "detém" is an Occurrence entity, as it refers to the action of detaining or holding someone or something.
+* "dois homens" is a State entity, as it refers to the two men who were detained.
+* "em barco" is a State entity, as it refers to the location where the men were detained, on a boat.
+* "ao largo de Olhão" is a State entity, as it refers to the location where the boat was intercepted, off the coast of Olhão.
+* "Unidade de Controlo Costeiro" is a State entity, as it refers to the coastal control unit of the GNR.
+* "UCC" is a State entity, as it is an abbreviation for the Unidade de Controlo Costeiro.
+* "transbordo" is an Occurrence entity, as it refers to the action of transferring something from one place to another.
+* "produto estupefaciente" is an Aspectual entity, as it refers to the type of substance being transferred, which is an illegal drug.
+* "SIVICC" is a State entity, as it refers to the integrated surveillance and command and control system used by the GNR.
+* "fardos de haxixe" is an Aspectual entity, as it refers to the packages of illegal drugs.
+* "intercetada" is an Occurrence entity, as it refers to the action of intercepting the boat.
+* "tripulantes" is a State entity, as it refers to the crew members of the boat.
+* "detidos" is an Occurrence entity, as it refers to the action of detaining the crew members.
+* "embarcação" is a State entity, as it refers to the boat.
+* "fibra" is a State entity, as it refers to the material used to make the boat.
+* "comprimento" is a State entity, as it refers to the length of the boat.
+* "valor estimado" is an Aspectual entity, as it refers to the estimated value of the seized drugs.

@@ -1,0 +1,19 @@
+[
+["Covid-19", "Other"],
+["GNR de Freamunde", "Organization"],
+["Paços de Ferreira", "Location"],
+["restaurante", "Object"],
+["50 pessoas", "Person"],
+["musica ao vivo", "Object"],
+["proprietária", "Person"]
+]
+
+Explanation:
+
+* Covid-19 is a disease, so it is classified as "Other".
+* GNR de Freamunde is an organization, so it is classified as "Organization".
+* Paços de Ferreira is a location, so it is classified as "Location".
+* restaurante is an object, so it is classified as "Object".
+* 50 pessoas is a person, so it is classified as "Person".
+* musica ao vivo is an object, so it is classified as "Object".
+* proprietária is a person, so it is classified as "Person".

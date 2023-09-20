@@ -1,0 +1,13 @@
+["lays off employees", "centralizes staff functions", "incurs a charge", "earns revenue", "experiences tough business", "pays out for natural disasters"]
+
+Note:
+The output should be a list of strings, where each string represents an event trigger. The events are:
+
+* Laying off employees
+* Centralizing staff functions
+* Incurring a charge
+* Earning revenue
+* Experiencing tough business
+* Paying out for natural disasters
+
+Please let me know if you have any questions or need further clarification.

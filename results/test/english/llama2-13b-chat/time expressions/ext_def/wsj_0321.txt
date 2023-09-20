@@ -1,0 +1,10 @@
+["yesterday", "by the close of business yesterday", "7.25%", "a share", "6% convertible preferred stock", "earlier"]
+
+Explanation:
+
+* "yesterday" is a time expression indicating the previous day.
+* "by the close of business yesterday" is a time expression indicating the end of the previous business day.
+* "7.25%" is a percentage, not a time expression.
+* "a share" is a unit of measurement, not a time expression.
+* "6% convertible preferred stock" is a type of stock, not a time expression.
+* "earlier" is a time expression indicating a time before the current time.

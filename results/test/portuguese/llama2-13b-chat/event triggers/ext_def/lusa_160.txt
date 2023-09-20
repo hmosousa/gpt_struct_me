@@ -1,0 +1,9 @@
+["abuso sexual de crianças agravado", "manteve trato sexual com a filha da companheira", "começou em 2017", "passou a viver com a companheira em 2016", "em Braga e em Amares"]
+
+Explanation:
+
+* "abuso sexual de crianças agravado" is an event trigger because it refers to a specific action (sexual abuse) that took place against a child, which is a serious crime.
+* "manteve trato sexual com a filha da companheira" is an event trigger because it refers to a specific action (maintaining sexual contact) that was taken by the accused towards the victim.
+* "começou em 2017" is an event trigger because it refers to the starting point of the abuse (2017).
+* "passou a viver com a companheira em 2016" is an event trigger because it refers to the accused moving in with the victim's mother (the companion).
+* "em Braga e em Amares" is not an event trigger, but rather a location where the events took place.

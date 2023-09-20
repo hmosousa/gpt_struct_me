@@ -1,0 +1,13 @@
+["job cuts", "cost cutting initiative", "profit drop", "shake up", "downsizing", "good news"]
+
+Explanation:
+The event triggers in the input text are:
+
+* "job cuts"
+* "cost cutting initiative"
+* "profit drop"
+* "shake up"
+* "downsizing"
+* "good news"
+
+These events are extracted based on their relevance to the text and their potential to advance the plot or develop characters. The list of event triggers is provided in JSON-parseable format.

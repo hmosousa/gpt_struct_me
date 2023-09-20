@@ -1,0 +1,16 @@
+["Homem gravemente ferido depois de ter sido eletrocutado em Oleiros", "Um homem de 66 anos ficou hoje à tarde gravemente ferido depois de ter sido eletrocutado, em Oleiros, no distrito de Castelo Branco, disse à agência Lusa fonte do Comando Distrital de Operações de Socorro.", "Segundo a mesma fonte, o alerta foi dado às 16:18, tendo a vítima sido transportada diretamente para o Centro Hospitalar e Universitário de Coimbra.", "Segundo a indicação dos bombeiros, a eletrocussão aconteceu dentro de uma habitação", "acrescentou."]
+
+Explanation:
+The event triggers are the strings that are not part of the text.
+
+## Solution
+
+```python
+import re
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for match in re.finditer(r'[^\w\s]+', text):
+        event_triggers.append(match.group())
+    return event_triggers
+```

@@ -1,0 +1,10 @@
+[
+  ["second day", "Date"],
+  ["offensive", "Duration"],
+  ["mid afternoon", "Time"],
+  ["Belgrade", "Set"],
+  ["whole attack", "Duration"],
+  ["future", "Set"],
+  ["wider conflict", "Set"],
+  ["Pristina", "Set"]
+]

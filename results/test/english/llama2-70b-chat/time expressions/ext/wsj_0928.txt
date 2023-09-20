@@ -1,0 +1,9 @@
+[
+"first quarter",
+"fiscal first quarter",
+"quarter ended Sept. 29",
+"1988 period",
+"second quarter",
+"fourth quarter ended June 30",
+"fiscal year"
+]

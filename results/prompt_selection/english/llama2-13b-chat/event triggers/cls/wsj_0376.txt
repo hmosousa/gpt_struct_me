@@ -1,0 +1,19 @@
+[
+["Courtaulds PLC", "State"],
+["Courtaulds PLC", "Occurrence"],
+["Courtaulds Textiles", "Aspectual"],
+["Courtaulds Textiles", "Intensional Action"],
+["Courtaulds Textiles", "Intensional State"],
+["Courtaulds PLC", "Reporting"],
+["Courtaulds PLC", "Perception"]
+]
+
+Explanation:
+
+1. "Courtaulds PLC announced plans" - State
+2. "to spin off its textiles operations" - Occurrence
+3. "to existing shareholders" - Aspectual
+4. "in a restructuring to boost shareholder value" - Intensional Action
+5. "The establishment of the separate company" - Intensional State
+6. "could be effective as early as next year's first quarter" - Reporting
+7. "Investors welcomed the move" - Perception

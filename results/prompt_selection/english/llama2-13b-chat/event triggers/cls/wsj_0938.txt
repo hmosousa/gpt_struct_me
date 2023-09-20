@@ -1,0 +1,12 @@
+
+[
+["Cineplex Odeon Corp.", "State"],
+["Cineplex Odeon Corp.", "Occurrence"],
+["Garth Drabinsky", "Aspectual"],
+["Myron Gottlieb", "Aspectual"],
+["Sandra Kolber", "Reporting"],
+["MCA Inc.", "Intensional Action"],
+["Charles Bronfman", "Intensional Action"],
+["Rank Organisation PLC", "Intensional State"],
+["Michael Gifford", "Intensional Action"]
+]

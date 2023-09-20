@@ -1,0 +1,9 @@
+[
+"acquired",
+"sold",
+"increased",
+"underwrites",
+"reinsurance company",
+"insurance companies",
+"owns"
+]

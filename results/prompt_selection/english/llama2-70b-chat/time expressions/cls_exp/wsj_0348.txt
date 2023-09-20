@@ -1,0 +1,49 @@
+[
+["Ogden Projects Inc.", "Date"],
+["third quarter", "Time"],
+["$6.6 million", "Duration"],
+["18 cents a share", "Set"],
+["$1.1 million", "Duration"],
+["four cents a share", "Set"],
+["$101.7 million", "Duration"],
+["$39.5 million", "Duration"],
+["August", "Date"],
+["yesterday", "Time"],
+["$26.875", "Set"],
+["$14", "Set"],
+["13 facilities", "Set"],
+["seven a year ago", "Duration"],
+["$27.1 million", "Duration"],
+["67 cents a share", "Set"],
+["$13.5 million", "Duration"],
+["34 cents a share", "Set"],
+["33%", "Duration"],
+["$378.1 million", "Duration"],
+["$283.8 million", "Duration"]
+]
+
+Explanation:
+
+* "Ogden Projects Inc." is a Date entity.
+* "third quarter" is a Time entity.
+* "6.6 million" is a Duration entity.
+* "18 cents a share" is a Set entity.
+* "1.1 million" is a Duration entity.
+* "four cents a share" is a Set entity.
+* "101.7 million" is a Duration entity.
+* "39.5 million" is a Duration entity.
+* "August" is a Date entity.
+* "yesterday" is a Time entity.
+* "26.875" is a Set entity.
+* "14" is a Set entity.
+* "13 facilities" is a Set entity.
+* "seven a year ago" is a Duration entity.
+* "27.1 million" is a Duration entity.
+* "67 cents a share" is a Set entity.
+* "13.5 million" is a Duration entity.
+* "34 cents a share" is a Set entity.
+* "33%" is a Duration entity.
+* "378.1 million" is a Duration entity.
+* "283.8 million" is a Duration entity.
+
+Note that some entities can be classified into more than one class. For example, "13 facilities" can be classified into both Set and Duration classes, depending on the context.

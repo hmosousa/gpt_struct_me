@@ -1,0 +1,10 @@
+["eletrocutado", "16:18", "Coimbra"]
+
+Explanation:
+The event triggers in the input text are:
+
+* "eletrocutado" (electrocution)
+* "16:18" (time of the incident)
+* "Coimbra" (location of the hospital)
+
+Note that the output is a JSON-parseable list of strings, with each string representing an event trigger.

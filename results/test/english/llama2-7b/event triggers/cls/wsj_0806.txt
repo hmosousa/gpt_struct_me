@@ -1,0 +1,10 @@
+[
+  ["HEALTHDYNE Inc.", "State"],
+  ["HEALTHDYNE Inc.", "Occurrence"],
+  ["HEALTHDYNE Inc.", "Reporting"],
+  ["HEALTHDYNE Inc.", "Perception"],
+  ["HEALTHDYNE Inc.", "Aspectual"],
+  ["HEALTHDYNE Inc.", "Intensional Action"],
+  ["HEALTHDYNE Inc.", "Intensional State"]
+]
+

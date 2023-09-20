@@ -1,0 +1,26 @@
+[['autoridades', 'State'], ['judiciais', 'Occurrence'], ['argentinas', 'Reporting'], ['realizaram', 'Perception'], ['hoje', 'Aspectual'], ['buscas', 'Intensional Action'], ['apartamento', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the data from file
+with open('data/task1.txt') as f:
+   text = f.read()
+
+# Tokenize and stem each sentence
+text = [word for sent in text.split('. ') for word in sent.lower().split() if not word in set(stopwords.words())]
+stems = [PorterStemmer().stem(w) for w in text]
+
+# Tag each token with its POS tag
+tokens = [[t, pos_tag([t])[0][1]] for t in stems]
+
+# Count the number of times each token appears
+counts = Counter(t[0] for t in tokens).most_common()
+
+# Print the top 25 most frequent words
+for (word, count) in counts[:25]:
+   print(f'{word}: {count}')

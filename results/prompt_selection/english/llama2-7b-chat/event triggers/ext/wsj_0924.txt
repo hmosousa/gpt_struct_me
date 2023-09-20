@@ -1,0 +1,14 @@
+[
+"adopted",
+"pending ratification",
+"acquires",
+"more than 20%",
+"triggers",
+"allow",
+"buy",
+"50%",
+"then current market price",
+"at the board's discretion",
+"receive",
+"assets"
+]

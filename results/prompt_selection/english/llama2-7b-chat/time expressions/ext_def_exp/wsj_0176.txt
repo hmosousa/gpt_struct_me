@@ -1,0 +1,21 @@
+[
+"early this week",
+"last nine months",
+"next three quarters",
+"first nine months",
+"last quarter",
+"this quarter",
+"next quarter",
+"three quarters",
+"nine months",
+"one quarter",
+"two quarters",
+"three quarters",
+"four quarters",
+"five quarters",
+"six quarters",
+"seven quarters",
+"eight quarters",
+"nine quarters",
+"ten quarters"
+]

@@ -1,0 +1,10 @@
+[
+  ["Montedison", "State"],
+  ["Montedison", "Occurrence"],
+  ["Montedison", "Reporting"],
+  ["Montedison", "Perception"],
+  ["Montedison", "Aspectual"],
+  ["Montedison", "Intensional Action"],
+  ["Montedison", "Intensional State"]
+]
+

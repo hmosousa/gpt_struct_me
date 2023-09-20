@@ -1,0 +1,22 @@
+[
+"Sunday",
+"Friday",
+"last week",
+"last year",
+"200",
+"39",
+"two months ago"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Sunday"
+* "Friday"
+* "last week"
+* "last year"
+* "200" (year)
+* "39" (number of deaths in a year)
+* "two months ago"
+
+All of these expressions are extracted and listed in the output. Note that the output is in JSON format, with each time expression represented as a string.

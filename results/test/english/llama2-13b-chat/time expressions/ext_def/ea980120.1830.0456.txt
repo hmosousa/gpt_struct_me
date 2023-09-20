@@ -1,0 +1,8 @@
+["today", "last night", "Vietnam War", "years"]
+
+Explanation:
+
+1. "today" - a temporal expression indicating the current day.
+2. "last night" - a temporal expression indicating the previous night.
+3. "Vietnam War" - a temporal expression indicating a specific time period, rather than a point in time.
+4. "years" - a temporal expression indicating a specific amount of time, rather than a point in time.

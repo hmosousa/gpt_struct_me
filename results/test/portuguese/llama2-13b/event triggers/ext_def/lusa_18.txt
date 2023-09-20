@@ -1,0 +1,8 @@
+["fogo", "incêndio", "freguesia", "concelho", "autarquia", "vereador", "agência", "autarca", "habitação", "manutenção", "danos", "combate", "incêndio"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Hint:
+The event triggers are not necessarily nouns.
+

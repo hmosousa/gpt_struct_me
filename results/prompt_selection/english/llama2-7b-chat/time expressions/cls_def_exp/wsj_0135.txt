@@ -1,0 +1,18 @@
+[
+["Elco Industries Inc.", "Company"],
+["year ending June 30, 1990", "Date"],
+["net income", "Finance"],
+["$1.65 a share", "Finance"],
+["sales", "Business"],
+["fiscal 1989", "Date"],
+["$155 million", "Business"],
+["industrial unit", "Business"],
+["margins", "Business"],
+["lower demand", "Business"],
+["fiscal 1989", "Date"],
+["$7.8 million", "Finance"],
+["$1.65 a share", "Finance"]
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

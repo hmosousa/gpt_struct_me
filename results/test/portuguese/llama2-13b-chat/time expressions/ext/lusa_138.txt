@@ -1,0 +1,23 @@
+[
+"mais de 73 anos",
+"50 anos",
+"hoje",
+"na sequência de uma denúncia",
+"os militares deslocaram-se ao local",
+"infligir maus-tratos físicos e psicológicos",
+"ameaças de morte com recurso a armas brancas",
+"duas armas brancas",
+"prática dos mesmos crimes"
+]
+
+Explanation:
+
+* "mais de 73 anos" is a time expression because it indicates a duration of more than 73 years.
+* "50 anos" is a time expression because it indicates a duration of 50 years.
+* "hoje" is a time expression because it indicates the current day.
+* "na sequência de uma denúncia" is a time expression because it indicates the order of events.
+* "os militares deslocaram-se ao local" is a time expression because it indicates the action of the military happening at a specific location.
+* "infligir maus-tratos físicos e psicológicos" is a time expression because it indicates the duration of the physical and psychological abuse.
+* "ameaças de morte com recurso a armas brancas" is a time expression because it indicates the duration of the threats of death.
+* "duas armas brancas" is a time expression because it indicates the number of weapons.
+* "prática dos mesmos crimes" is a time expression because it indicates the repetition of the same crimes.

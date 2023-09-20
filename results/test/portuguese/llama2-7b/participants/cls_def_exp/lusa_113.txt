@@ -1,0 +1,16 @@
+[["Pelo menos sete mortos", "Per"], ["sete em estado crítico", "Per"], ["num incêndio", "Obj"], ["em Hong Kong", "Loc"], ["Pelo menos sete pessoas", "Per"], ["mortar", "Per"], ["sete estão", "Per"], ["em estado crítico", "Per"], ["na sequência", "Per"], ["um incêndio", "Obj"], ["num edifício", "Loc"], ["residencial", "Loc"], ["em Hong Kong", "Loc"], ["noticiou", "Per"], ["hoje", "Per"], ["a imprensa", "Org"], ["local", "Loc"], ["As vítimas", "Per"], ["mortais", "Per"], ["três homens", "Per"], ["três mulheres", "Per"], ["uma criança", "Per"], ["de 09 anos", "Per"], ["noticiou", "Per"], ["o jornal", "Org"], ["South China Morning Post", "Org"], ["SCMP", "Org"], ["As vítimas", "Per"], ["mortais", "Per"], ["três homens", "Per"], ["três mulheres", "Per"], ["uma criança", "Per"], ["de 09 anos", "Per"], ["noticiou", "Per"], ["o jornal", "Org"], ["South China Morning Post", "Org"], ["SCMP", "Org"], ["As vítimas", "Per"], ["mortais", "Per"], ["três homens", "Per"], ["três mulheres", "Per"], ["uma criança", "Per"], ["de 09 anos", "Per"], ["noticiou", "Per"], ["o jornal", "Org"], ["South China Morning Post", "Org"], ["SCMP", "Org"], ["Os bombeiros", "Org"], ["informaram", "Per"], ["hoje", "Per"], ["numa conferência", "Loc"], ["de imprensa", "Org"], ["que", "Per"], ["não havia", "Per"], ["medidas", "Per"], ["de segurança", "Per"], ["contra incêndios", "Per"], ["no edifício", "Loc"], ["e que", "Per"], ["um dos presentes", "Per"], ["durante o evento", "Per"], ["conseguiu", "Per"], ["salvar-se", "Per"], ["ao subir", "Per"], ["pela janela", "Loc"], ["da casa de banho", "Loc"], ["do apartamento", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"A polícia investiga um homem que sequestrou uma mulher em um bar em Nova Iorque
+A polícia investiga um homem que sequestrou uma mulher em um bar em Nova Iorque, informou hoje a imprensa local.
+A mulher foi encontrada, no domingo à noite, numa rua próxima ao bar, onde estava presa por uma cadeia de ferro.
+A polícia não precisou, até ao momento, identificar o homem que sequestrou a mulher.
+A mulher foi levada para um hospital, onde está em estado crítico.
+A polícia não precisou, até ao momento, identificar o homem que sequestrou a mulher.
+A mulher foi levada para um hospital, onde está em estado crítico."
+
+Output:
+[["A polícia", "Per"], ["investiga", "Per"], ["um homem", "Per"], ["que", "Per"], ["sequestrou", "Per"], ["uma mulher", "Per"], ["em um bar", "Loc"], ["em Nova Iorque", "Loc"], ["informou", "Per"], ["hoje", "Per"], ["a imprensa", "Org"], ["local", "Loc"], ["A mulher", "Per"], ["foi", "Per"], ["encontrada", "Per"], ["no domingo", "Per"], ["à noite", "Per"], ["numa rua", "Loc"], ["próxima", "Loc"], ["ao bar", "Loc"], ["onde", "Loc"], ["estava", "Per"], ["

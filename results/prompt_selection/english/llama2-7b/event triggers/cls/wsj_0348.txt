@@ -1,0 +1,10 @@
+[
+  ["Ogden Projects Inc.", "State"],
+  ["Ogden Projects Inc.", "Occurrence"],
+  ["Ogden Projects Inc.", "Reporting"],
+  ["Ogden Projects Inc.", "Perception"],
+  ["Ogden Projects Inc.", "Aspectual"],
+  ["Ogden Projects Inc.", "Intensional Action"],
+  ["Ogden Projects Inc.", "Intensional State"]
+]
+

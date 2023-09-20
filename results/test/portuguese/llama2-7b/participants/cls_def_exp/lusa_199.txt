@@ -1,0 +1,32 @@
+[["um homem", "Per"], ["de 60 anos", "Age"], ["morre", "Per"], ["em Matosinhos", "Loc"], ["ap\u00e9s cair", "Per"], ["de telhado", "Obj"], ["que estava a limpar", "Per"], ["o acidente", "Per"], ["deu-se", "Per"], ["cerca", "Per"], ["das 15:30", "Time"], ["na Rua Augusto Gil", "Loc"], ["tendo", "Per"], ["o homem", "Per"], ["caído", "Per"], ["de uma altura", "Per"], ["de sete metros", "Per"], ["o local", "Loc"], ["compareceram", "Per"], ["os bombeiros", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 60 anos morre em Matosinhos após cair de telhado que estava a limpar
+Um homem de 60 morreu hoje, em Matosinhos, no distrito do Porto, após cair do telhado da sua habitação, que estava a limpar, disse à Lusa fonte da PSP
+O acidente deu-se cerca das 15:30, na Rua Augusto Gil, tendo o homem caído de uma altura de sete metros, acrescentou a fonte.
+No local compareceram os bombeiros de Leixões."
+
+Output:
+[["um homem", "Per"], ["de 60 anos", "Age"], ["morre", "Per"], ["em Matosinhos", "Loc"], ["ap\u00e9s cair", "Per"], ["de telhado", "Obj"], ["que estava a limpar", "Per"], ["o acidente", "Per"], ["deu-se", "Per"], ["cerca", "Per"], ["das 15:30", "Time"], ["na Rua Augusto Gil", "Loc"], ["tendo", "Per"], ["o homem", "Per"], ["caído", "Per"], ["de uma altura", "Per"], ["de sete metros", "Per"], ["o local", "Loc"], ["compareceram", "Per"], ["os bombeiros", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 60 anos morre em Matosinhos após cair de telhado que estava a limpar
+Um homem de 60 morreu hoje, em Matosinhos, no distrito do Porto, após cair do telhado da sua habitação, que estava a limpar, disse à Lusa fonte da PSP
+O acidente deu-se cerca das 15:30, na Rua Augusto Gil, tendo o homem caído de uma altura de sete metros, acrescentou a fonte.
+No local compareceram os bombeiros de Leixões."
+
+Output:
+[["um homem", "Per"], ["de 60 anos", "Age"], ["morre", "Per"], ["em Matosinhos", "Loc"], ["ap\u00e9s cair", "Per"], ["de telhado", "Obj"], ["que estava a limpar", "Per"], ["o acidente", "Per"], ["deu-se", "Per"], ["cerca", "Per"], ["das 15:30", "Time"], ["na Rua Augusto Gil", "Loc"], ["tendo", "Per"], ["o homem", "Per"], ["caído", "Per"], ["de uma altura", "Per"], ["de sete metros", "Per"], ["o local", "Loc"], ["compareceram", "Per"], ["os bombeiros", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 60 anos morre em Matosinhos após cair de telhado que estava a limpar
+Um homem de 60 morreu hoje, em M

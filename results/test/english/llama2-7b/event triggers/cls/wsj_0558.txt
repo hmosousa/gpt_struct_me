@@ -1,0 +1,10 @@
+[
+  ["Aetna Life amp Casualty Co.", "State"],
+  ["Aetna Life amp Casualty Co.", "Occurrence"],
+  ["Aetna Life amp Casualty Co.", "Reporting"],
+  ["Aetna Life amp Casualty Co.", "Perception"],
+  ["Aetna Life amp Casualty Co.", "Aspectual"],
+  ["Aetna Life amp Casualty Co.", "Intensional Action"],
+  ["Aetna Life amp Casualty Co.", "Intensional State"]
+]
+

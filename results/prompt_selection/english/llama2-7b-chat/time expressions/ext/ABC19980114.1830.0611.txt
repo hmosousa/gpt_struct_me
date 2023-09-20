@@ -1,0 +1,27 @@
+[
+"today",
+"last conversation",
+"moment",
+"climb",
+"maintain",
+"leavin-",
+"three thousand",
+"minute",
+"later",
+"explosion",
+"up ahead",
+"sixteen thousand feet",
+"hear center",
+"ident",
+"response",
+"details",
+"fireballs",
+"water",
+"big small",
+"smoke",
+"coming up",
+"God bless him",
+"I think so"
+]
+Note:
+The output is a JSON-parseable list of strings, where each string is a time expression extracted from the given text.

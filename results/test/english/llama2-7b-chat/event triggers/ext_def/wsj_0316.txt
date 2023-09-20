@@ -1,0 +1,10 @@
+[
+"agreed",
+"issued",
+"called",
+"has",
+"outstanding",
+"based",
+"approval",
+"completed"
+]

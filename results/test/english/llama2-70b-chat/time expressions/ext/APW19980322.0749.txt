@@ -1,0 +1,15 @@
+[
+"Sunday",
+"8-month-old truce",
+"20",
+"Feb",
+"10 days ago",
+"last week",
+"May",
+"10",
+"30",
+"50",
+"July",
+"summer",
+"this summer"
+]

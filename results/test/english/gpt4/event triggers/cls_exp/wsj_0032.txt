@@ -1,0 +1,1 @@
+[["began", "I_ACTION"], ["offer", "OCCURRENCE"], ["scheduled", "ASPECTUAL"], ["expire", "OCCURRENCE"], ["owns", "STATE"], ["offer", "OCCURRENCE"], ["launched", "ASPECTUAL"], ["agreement", "OCCURRENCE"]]

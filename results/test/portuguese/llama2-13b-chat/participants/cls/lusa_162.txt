@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["GNR", "Organization"],
+["bombeiros de Santa Marta de Penaguião", "Organization"],
+["Vila Maior", "Location"],
+["Vila Real", "Location"],
+["VMER", "Object"],
+["carinha", "Object"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "GNR" is an organization.
+* "bombeiros de Santa Marta de Penaguião" is an organization.
+* "Vila Maior" and "Vila Real" are locations.
+* "VMER" is an object.
+* "carinha" is an object.
+
+Note:
+
+* In this task, we are only considering nouns as entities.
+* We are not considering the verb "morre" (dies) as it is not an entity.
+* We are not considering the prepositional phrase "em Santa Marta de Penaguião" (in Santa Marta de Penaguião) as it is not an entity.
+* We are not considering the article "o" (the) as it is not an entity.

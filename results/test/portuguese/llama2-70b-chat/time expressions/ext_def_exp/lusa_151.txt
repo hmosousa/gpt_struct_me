@@ -1,0 +1,6 @@
+["hoje", "2016", "2017", "dezembro", "230 milhões", "2016", "2017", "dezembro"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

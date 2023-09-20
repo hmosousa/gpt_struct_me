@@ -1,0 +1,20 @@
+[
+"morre",
+"ferido",
+"desordem",
+"arma",
+"Lisboa",
+"Estrada",
+"Mem Martins",
+"Amadora-Sintra",
+"Hospital Professor Doutor Fernando Fonseca",
+"Cometlis",
+"PSP",
+"maneira",
+"reverter",
+"ferimentos",
+"situação",
+"crime",
+"homicídio",
+"PJ"
+]

@@ -1,0 +1,11 @@
+["GNR apreende vários tipos de armas de fogo em ação contra violência doméstica", "A GNR apreendeu uma caçadeira, uma pistola, duas armas de ar comprimido e um coldre no decurso de uma busca domiciliária, em Felgueiras, no distrito do Porto, no âmbito de uma denúncia de violência doméstica, foi hoje anunciado.", "Em comunicado, a Guarda explicou que após uma denúncia relacionada com um crime de violência doméstica, os militares \"foram ao local, onde a vítima, uma mulher de 25 anos, foi alvo de coação psicológica por parte do companheiro, um homem com 33 anos\".", "No âmbito da busca domiciliária operada na segunda-feira foi apreendida uma caçadeira de calibre 12, uma pistola de calibre 6,35mm, duas armas de ar comprimido, 64 munições e um coldre, descreve a nota de imprensa.", "Ainda segundo a GNR, os factos foram remetidos ao Tribunal Judicial de Felgueiras."]
+
+Explanation:
+
+Time expressions are:
+
+- "A GNR apreendeu uma caçadeira, uma pistola, duas armas de ar comprimido e um coldre no decurso de uma busca domiciliária, em Felgueiras, no distrito do Porto, no âmbito de uma denúncia de violência doméstica, foi hoje anunciado."
+- "Em comunicado, a Guarda explicou que após uma denúncia relacionada com um crime de violência doméstica, os militares \"foram ao local, onde a vítima, uma mulher de 25 anos, foi alvo de coação psicológica por parte do companheiro, um homem com 33 anos\".
+- "No âmbito da busca domiciliária operada na segunda-feira foi apreendida uma caçadeira de calibre 12, uma pistola de calibre 6,35mm, duas armas de ar comprimido, 64 munições e um coldre, descreve a nota de imprensa."
+- "Ainda segundo a GNR, os factos foram remetidos ao Tribunal Judicial de Felgueiras."
+

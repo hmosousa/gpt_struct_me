@@ -1,0 +1,1 @@
+[["GNR","Set"], ["suspeita","Set"], ["tráfico","Set"], ["droga","Set"], ["apreende","Date"], ["doses","Duration"], ["haXixe","Set"], ["Mértola","Location"]]

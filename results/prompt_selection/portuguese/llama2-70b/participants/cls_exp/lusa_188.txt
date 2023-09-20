@@ -1,0 +1,14 @@
+[['Homem', 'Person'], ['de 48 anos', 'Age'], ['morre', 'Death'], ['acidente de trabalho', 'Accident'], ['em', 'Location'], ['Mogadouro', 'City'], ['Um homem', 'Person'], ['de 48 morreu hoje', 'Age'], ['vítima', 'Person'], ['acidente de trabalho na localidade de Vilarinhos dos Galegos', 'Accident'], ['Concelho de Mogadouro', 'City'], ['distrito de Bragança', 'District'], ['Trata-se', 'Other'], ['uma queda em altura', 'Accident'], ['homem de 48 anos', 'Age'], ['trabalhava numa obra de construção civil', 'Work'], ['A vítima acabaria por não resistir aos ferimentos', 'Injury'], ['falecer quando estava a ser transportada por ambulância para o campo de futebol', 'Transportation'], ['onde depois seria helitransportada para um hospital de referência', 'Hospital'], ['O alerta foi dado cerca das 17 horas.', 'Time'], ['Nas operações de socorro estiveram envolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).', 'Organization'], ['Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros', 'Object'], ['A GNR de Mogadouro tomou conta da ocorrência.', 'Organization']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Load the data from file
+with open('data/news.json') as f:
+   news = json.load(f)
+
+# Create an empty list to store all entities and classes
+ent

@@ -1,0 +1,22 @@
+[
+["National Intergroup Inc.", "Date"],
+["third quarter", "Time"],
+["$15 million", "Duration"],
+["$30 million", "Duration"],
+["year-ago third quarter", "Date"],
+["$22.5 million", "Duration"],
+["$18 million", "Duration"],
+["54.5%", "Set"],
+["two years", "Duration"],
+["fiscal 1989", "Date"]
+]
+
+Explanation:
+The output is a list of temporal expressions extracted from the given text. Each expression is a list containing the entity (the first string) and the class (the second string) of the expression. The classes are:
+
+* Date: Expressions that represent a specific point in time, such as "National Intergroup Inc." (the company's name) or "year-ago third quarter" (a specific quarter in the past).
+* Time: Expressions that represent a specific time period, such as "third quarter" (a quarter of a year) or "two years" (a specific duration of time).
+* Duration: Expressions that represent a quantity of time, such as "$15 million" (the amount of time it takes to earn $15 million) or "$30 million" (the amount of time it takes to earn $30 million).
+* Set: Expressions that represent a set of values, such as "54.5%" (the percentage of ownership) or "fiscal 1989" (a specific year).
+
+Note that some expressions can be classified into more than one class. For example, "third quarter" can be classified as both Time and Date, depending on the context in which it is used.

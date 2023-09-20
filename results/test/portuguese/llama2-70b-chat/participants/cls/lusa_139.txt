@@ -1,0 +1,18 @@
+[
+["GNR de Leiria", "Organization"],
+["Bidoeira de Cima", "Location"],
+["Leiria", "Location"],
+["Comando Territorial da GNR", "Organization"],
+["Núcleo de Proteção Ambiental de Leiria", "Organization"],
+["efluente pecuário", "Object"],
+["exploração agropecuária", "Organization"],
+["militares da GNR", "Person"],
+["lagoa de armazenamento de efluentes pecuários", "Object"],
+["efluentes pecuários", "Object"],
+["solo", "Location"],
+["auto de contraordenação", "Object"],
+["coima", "Object"]
+]
+
+Note:
+The input text is in Portuguese. The task is to extract and classify all participants (entities and objects) mentioned in the text. The output should be a JSON-parseable list where each element is a list with two strings: the first string is the entity/object, and the second string is the class. The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.

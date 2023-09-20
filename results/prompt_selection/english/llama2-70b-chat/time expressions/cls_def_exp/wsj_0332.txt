@@ -1,0 +1,25 @@
+[
+["last Wednesday", "Date"],
+["301 million", "Amount"],
+["53.2%", "Percentage"],
+["internal resources", "Duration"],
+["related Orkem businesses", "Set"]
+]
+
+Explanation:
+last Wednesday - Date
+301 million - Amount
+53.2% - Percentage
+internal resources - Duration
+related Orkem businesses - Set
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity, and the second is the class.
+
+In this task, you are given a text containing temporal expressions, and you need to extract and classify them into four classes: Date, Time, Duration, and Set. The output should be a JSON-parseable list where each element is a sublist containing the entity and its corresponding class.
+
+For example, in the given input text, "last Wednesday" should be classified as a Date, "301 million" as an Amount, "53.2%" as a Percentage, "internal resources" as a Duration, and "related Orkem businesses" as a Set.
+
+Note that the classes are not mutually exclusive, and a single temporal expression can belong to multiple classes. For instance, "last Wednesday" can also be classified as a Time, depending on the context.
+
+Your task is to write a program that can extract and classify temporal expressions in a given text and output them in the specified format.

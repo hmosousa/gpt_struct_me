@@ -1,0 +1,1 @@
+["homem", "morre", "ciclomotor", "colhido", "veículo", "ligeiro", "setubal"]

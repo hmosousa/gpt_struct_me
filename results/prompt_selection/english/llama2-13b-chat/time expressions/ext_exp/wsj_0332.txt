@@ -1,0 +1,7 @@
+[
+"470 pence",
+"$7.43",
+"301 million",
+"last Wednesday",
+"internal resources"
+]

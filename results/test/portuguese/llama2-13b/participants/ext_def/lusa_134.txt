@@ -1,0 +1,25 @@
+["GNR", "procura", "um", "dos", "envolvidos", "em", "assalto", "a", "confeitaria", "da", "Feira", "Dois", "homens", "roubaram", "hoje", "a", "caixa", "registadora", "de", "uma", "confeitaria", "no", "concelho", "de", "Santa", "Maria", "da", "Feira", "e", "um", "dos", "dois", "envolvidos", "está", "em", "fuga", "às", "autoridades", "diz", "fonte", "oficial", "da", "GNR", ".", "O", "assalto", "foi", "consumado", "entre", "as", "12", "h", "e", "as", "12", "h", "30", "numa", "confeitaria", "de", "Milheirós", "de", "Poiares", ",", "Santa", "Maria", "da", "Feria", ",", "distrito", "de", "Aveiro", ",", "e", "os", "envolvidos", "atuaram", "de", "cara", "tapada", ".", "Levaram", "a", "caixa", "registadora", "com", "um", "montante", "em", "dinheiro", "ainda", "não", "determinado", ",", "segundo", "a", "fonte", ".", "Um", "dos", "assaltantes", "foi", "detido", "ainda", "em", "Milheirós", "de", "Poiares", "e", "o", "outro", "continuava", "a", "ser", "procurado", "cerca", "da", "14", "h", "30", ".", "Na", "procura", "do", "homem", "ainda", "a", "monte", "estão", "envolvidos", "meios", "do", "dispositivo", "territorial", "da", "GNR", "e", "do", "Destacamento", "de", "Intervenção", "daquela", "força", "policial", "."]
+
+Hints:
+- Use the `split` method to break the text into a list of strings.
+- Use the `filter` method to remove unwanted strings from the list.
+- Use the `join` method to combine the remaining strings into a single string.
+- Use the `split` method again to break the single string into a list of strings.
+- Use the `filter` method again to remove unwanted strings from the list.
+- Use the `join` method again to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string into a list of strings.
+- Use the `filter` method one last time to remove unwanted strings from the list.
+- Use the `join` method one last time to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string into a list of strings.
+- Use the `filter` method one last time to remove unwanted strings from the list.
+- Use the `join` method one last time to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string into a list of strings.
+- Use the `filter` method one last time to remove unwanted strings from the list.
+- Use the `join` method one last time to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string into a list of strings.
+- Use the `filter` method one last time to remove unwanted strings from the list.
+- Use the `join` method one last time to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string into a list of strings.
+- Use the `filter` method one last time to remove unwanted strings from the list.
+- Use the `join` method one last time to combine the remaining strings into a single string.
+- Use the `split` method one last time to break the single string

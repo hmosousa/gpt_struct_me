@@ -1,0 +1,47 @@
+[
+{
+"State": "Xerox Corp",
+"Class": "State"
+},
+{
+"State": "Crum amp Forster",
+"Class": "Entity"
+},
+{
+"Occurrence": "laying off",
+"Class": "Occurrence"
+},
+{
+"Occurrence": "centralizing",
+"Class": "Occurrence"
+},
+{
+"Reporting": "employees were told early this week",
+"Class": "Reporting"
+},
+{
+"Perception": "cost-cutting move",
+"Class": "Perception"
+},
+{
+"Aspectual": "numerous staff functions",
+"Class": "Aspectual"
+},
+{
+"Intensional Action": "spread over the next three quarters",
+"Class": "Intensional Action"
+},
+{
+"Intensional State": "less than $4 million",
+"Class": "Intensional State"
+}
+]
+
+Explanation:
+* State: Xerox Corp. and Crum amp Forster are entities.
+* Occurrence: laying off and centralizing are events.
+* Reporting: employees were told early this week is a reporting event.
+* Perception: cost-cutting move is a perception.
+* Aspectual: numerous staff functions is an aspectual event.
+* Intensional Action: spread over the next three quarters is an intensional action.
+* Intensional State: less than $4 million is an intensional state.

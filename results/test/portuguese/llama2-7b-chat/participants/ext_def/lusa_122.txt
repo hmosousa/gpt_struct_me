@@ -1,0 +1,8 @@
+[
+"Alex Apolinário",
+"Alverca Futebol SAD",
+"Hospital de Vila Franca de Xira",
+"Almeirim",
+"União de Almeirim",
+"Portugal"
+]

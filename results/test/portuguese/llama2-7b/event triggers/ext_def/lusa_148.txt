@@ -1,0 +1,101 @@
+["Governo holandês aprova ajuda à KLM depois de pilotos aceitarem reduzir salários",
+"O governo holandês aprovou na terça-feira um plano de salvação da transportadora aérea KLM, na ordem de vários milhões de euros, depois de os pilotos terem aceitado uma redução de salários durante cinco anos.",
+"O ministro das Finanças, Wopke Hoekstra, tinha congelado a ajuda, sob a forma de empréstimos, ao ramo holandês da Air France-KLM, perante a recusa do sindicato dos pilotos VNV em aceitar a redução salarial.",
+"Mas a KLM anunciou entretanto que o sindicato tinha cedido, o que levou o governo a dizer que estava pronto para emprestar 3,4 mil milhões de euros, revela a agência de notícias France-Presse (AFP).",
+"A KLM prevê reduzir despesas em 15% e suprimir cinco mil postos de trabalho.",
+"Cerca de três mil pilotos devem ser particularmente afetados por este plano, com baixas salariais que podem ir até 20%, segundo os meios do país.",
+"A Air France-KLM perdeu 1,6 mil milhões de euros no terceiro trimestre, o que compara com um lucro de 363 milhões no mesmo trimestre do ano passado."]
+
+Explanation:
+
+### 1. Extract all event triggers.
+
+### 2. Extract all event triggers.
+
+### 3. Extract all event triggers.
+
+### 4. Extract all event triggers.
+
+### 5. Extract all event triggers.
+
+### 6. Extract all event triggers.
+
+### 7. Extract all event triggers.
+
+### 8. Extract all event triggers.
+
+### 9. Extract all event triggers.
+
+### 10. Extract all event triggers.
+
+### 11. Extract all event triggers.
+
+### 12. Extract all event triggers.
+
+### 13. Extract all event triggers.
+
+### 14. Extract all event triggers.
+
+### 15. Extract all event triggers.
+
+### 16. Extract all event triggers.
+
+### 17. Extract all event triggers.
+
+### 18. Extract all event triggers.
+
+### 19. Extract all event triggers.
+
+### 20. Extract all event triggers.
+
+### 21. Extract all event triggers.
+
+### 22. Extract all event triggers.
+
+### 23. Extract all event triggers.
+
+### 24. Extract all event triggers.
+
+### 25. Extract all event triggers.
+
+### 26. Extract all event triggers.
+
+### 27. Extract all event triggers.
+
+### 28. Extract all event triggers.
+
+### 29. Extract all event triggers.
+
+### 30. Extract all event triggers.
+
+### 31. Extract all event triggers.
+
+### 32. Extract all event triggers.
+
+### 33. Extract all event triggers.
+
+### 34. Extract all event triggers.
+
+### 35. Extract all event triggers.
+
+### 36. Extract all event triggers.
+
+### 37. Extract all event triggers.
+
+### 38. Extract all event triggers.
+
+### 39. Extract all event triggers.
+
+### 40. Extract all event triggers.
+
+### 41. Extract all event triggers.
+
+### 42. Extract all event triggers.
+
+### 43. Extract all event triggers.
+
+### 44. Extract all event triggers.
+
+### 45. Extract all event triggers.
+
+### 46. Extract

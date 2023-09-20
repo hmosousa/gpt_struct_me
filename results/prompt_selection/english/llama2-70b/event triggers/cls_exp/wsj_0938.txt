@@ -1,0 +1,43 @@
+[['Cineplex Odeon Corp', 'State'], ['directors', 'Occurrence'], ['said', 'Reporting'], ['the company\'s chairman and chief executive', 'Perception'], ['Garth Drabinsky', 'Aspectual Action'], ['is considering bidding 780.6 million Canadian dollars (US$666 million)', 'Intensional State'], ['to acquire the company', 'Intensional Action']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+
+# Load the data into memory
+with open('data/cineplex.txt') as f:
+   text = f.read()
+
+# Tokenize the text
+text_tokens = word_tokenize(text)
+
+# Remove stop words from tokens
+stoplist = set(stopwords.words("english"))
+filtered_tokens = [w for w in text_tokens if not w in stoplist]
+
+# Tag each token with its part of speech
+pos_tags = pos_tag(filtered_tokens)
+
+# Strip punctuation from tokens
+no_punctuation = [[word for word, tag in pos_tags if tag != "."][0]]
+
+# Create a dictionary to store all entities and their classes
+entity_classes = defaultdict(set)
+
+for i in range(len(no_punctuation)):
+   # Get the entity at this position
+   entity = no_punctuation[i]
+
+   # Check if it is an occurrence or state
+   if len(entity) > 1:
+       # If so, check if it's a reporting verb
+       if no_punctuation[i - 2].lower() == 'said':
+           entity_classes['Reporting'].add((entity))
+       else:
+           entity_classes['Occurrence'].add((entity))
+   elif len(entity) < 3:
+       # Otherwise, check if it's a perception verb
+       if no_punctuation[

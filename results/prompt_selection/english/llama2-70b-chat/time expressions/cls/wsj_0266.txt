@@ -1,0 +1,35 @@
+[
+["Oct. 23", "Date"],
+["two years ago", "Duration"],
+["20th century", "Date"],
+["Harry Brown", "Person"],
+["myself", "Person"],
+["painfully", "Duration"]
+]
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+
+This task is to classify time expressions in a given text. The output is a list of tuples, where each tuple contains the time expression and its corresponding class. The classes are:
+
+* Date: A specific date, such as "Oct. 23" or "20th century".
+* Time: A specific time, such as "2 years ago" or "painfully".
+* Duration: A period of time, such as "two years" or "painfully".
+* Set: A set of dates, such as "the past century" or "the 20th century".
+
+The input text is:
+
+"I was pleased to note that your Oct. 23 Centennial Journal item recognized the money-fund concept as one of the significant events of the past century. Actually, about two years ago, the Journal listed the creation of the money fund as one of the 10 most significant events in the world of finance in the 20th century. But the Reserve Fund, America's first money fund, was not named, nor were the creators of the money-fund concept, Harry Brown and myself. We innovated telephone redemptions, daily dividends, total elimination of share certificates and the constant $1 pershare pricing, all of which were painfully thought out and not the result of some inadvertence on the part of the SEC."
+
+The expected output is:
+
+[
+["Oct. 23", "Date"],
+["two years ago", "Duration"],
+["20th century", "Date"],
+["Harry Brown", "Person"],
+["myself", "Person"],
+["painfully", "Duration"]
+]
+
+Note that the output format is a JSON-parseable list, where each element is a list of two strings: the first string is the entity, and the second string is the class.

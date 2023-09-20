@@ -1,0 +1,21 @@
+[
+["TWA eight hundred", "State"],
+["TWA pilot Steven Snyder", "Intensional Action"],
+[" controllers", "Reporting"],
+["Eastwind pilot", "Perception"],
+["TWA eight hundred center", "Intensional State"],
+["Lisa Stark", "Aspectual"],
+["God", "Aspectual"]
+]
+
+Explanation:
+
+1. TWA eight hundred - State (the entity is the plane and the class is its state)
+2. TWA pilot Steven Snyder - Intensional Action (the entity is the pilot and the class is the action of flying the plane)
+3. controllers - Reporting (the entity is the controllers and the class is reporting an event)
+4. Eastwind pilot - Perception (the entity is the pilot and the class is perceiving an event)
+5. TWA eight hundred center - Intensional State (the entity is the air traffic control center and the class is the state of the plane)
+6. Lisa Stark - Aspectual (the entity is the reporter and the class is the aspect of the event)
+7. God - Aspectual (the entity is God and the class is the aspect of the event)
+
+Note: The classes are based on the categories you provided, and the entities are the noun phrases that refer to the objects or entities mentioned in the text. The classes are not exhaustive, and there may be other possible classes or entities that could be extracted from the text.

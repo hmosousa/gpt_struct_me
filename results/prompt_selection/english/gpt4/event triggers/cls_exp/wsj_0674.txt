@@ -1,0 +1,21 @@
+[
+["intends to seek control", "Intensional Action"],
+["didn't elaborate", "Occurrence"],
+["declined", "Occurrence"],
+["holds", "State"],
+["reported", "Reporting"],
+["reflecting", "Aspectual"],
+["made", "Occurrence"],
+["ended", "Occurrence"],
+["down", "Occurrence"],
+["was", "State"],
+["up", "Occurrence"],
+["viewed", "Perception"],
+["feels", "Perception"],
+["said", "Reporting"],
+["wouldn't say", "Intensional State"],
+["disclosed", "Reporting"],
+["involved", "State"],
+["used", "State"],
+["opened", "Occurrence"]
+]

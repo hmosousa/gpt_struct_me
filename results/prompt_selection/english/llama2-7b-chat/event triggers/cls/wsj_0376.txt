@@ -1,0 +1,37 @@
+[
+{
+"Entity": "Courtaulds PLC",
+"Class": "State"
+},
+{
+"Entity": "Courtaulds Textiles",
+"Class": "Aspectual"
+},
+{
+"Entity": "British industry",
+"Class": "Intensional Action"
+},
+{
+"Entity": "Investors",
+"Class": "Perception"
+},
+{
+"Entity": "Courtaulds",
+"Class": "Intensional State"
+},
+{
+"Entity": "Sir James Goldsmith",
+"Class": "Person"
+},
+{
+"Entity": "Anglo-French financier",
+"Class": "Person"
+},
+{
+"Entity": "Australian financier",
+"Class": "Person"
+
+}
+]
+Note:
+The output is a list of JSON objects, where each object represents an event trigger and contains two strings: the entity and the class. The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

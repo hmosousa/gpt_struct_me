@@ -1,0 +1,6 @@
+["morte violenta", "lesão grave cranioencefálica", "trauma grave", "paragem cardiorrespiratória", "óbito", "morgue de Guimarães"]
+
+Note:
+- "morte violenta" and "lesão grave cranioencefálica" are related to the event of the death of the man.
+- "trauma grave" and "paragem cardiorrespiratória" are related to the event of the injury.
+- "óbito" and "morgue de Guimarães" are related to the event of the death and the place where the body was taken.

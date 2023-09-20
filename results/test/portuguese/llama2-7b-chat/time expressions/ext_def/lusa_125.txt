@@ -1,0 +1,12 @@
+[
+"a domingo",
+"785 quilos",
+"dois homens",
+"ao largo de Olhão",
+"no transbordo",
+"entre duas embarcações",
+"dois tripulantes",
+"5 metros",
+"22 fardos",
+"2 milhões de euros"
+]

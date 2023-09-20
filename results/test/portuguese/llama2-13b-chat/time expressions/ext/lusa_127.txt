@@ -1,0 +1,13 @@
+[
+"naquela localidade",
+"na sequência de uma ação de fiscalização",
+"terminar o evento",
+"resultando na elaboração de um auto de contraordenação"
+]
+
+Explanation:
+
+* "naquela localidade" is a time expression indicating the location where the event took place.
+* "na sequência de uma ação de fiscalização" is a time expression indicating the sequence of events, specifically the action of fiscalization that led to the closure of the establishment.
+* "terminar o evento" is a time expression indicating the end of the event.
+* "resultando na elaboração de um auto de contraordenação" is a time expression indicating the consequence of the event, specifically the elaboration of a report.

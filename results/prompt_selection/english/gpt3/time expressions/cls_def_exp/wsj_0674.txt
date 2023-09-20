@@ -1,0 +1,1 @@
+[["30%", "Set"], ["fourth-quarter", "Duration"], ["Aug. 31", "Date"], ["1988", "Date"], ["earlier this year", "Date"], ["Leominster, Mass.", "Location"]]

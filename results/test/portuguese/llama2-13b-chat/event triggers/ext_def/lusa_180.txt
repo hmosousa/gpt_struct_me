@@ -1,0 +1,17 @@
+["falsificação de testes", "prender", "apreender", "testes falsos", "viagem", "localização", "comparsa", "turismo", "quarentena", "covid-19"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "falsificação de testes" (falsification of tests)
+* "prender" (detain)
+* "apreender" (seize)
+* "testes falsos" (false tests)
+* "viagem" (trip)
+* "localização" (location)
+* "comparsa" (accomplice)
+* "turismo" (tourism)
+* "quarentena" (quarantine)
+* "covid-19" (Covid-19)
+
+Note that some of these words may not be directly related to the event, but they are still important for understanding the context and the story.

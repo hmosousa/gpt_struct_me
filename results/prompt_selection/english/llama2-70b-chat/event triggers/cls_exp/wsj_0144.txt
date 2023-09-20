@@ -1,0 +1,28 @@
+[
+["Travelers Corp.", "State"],
+["Hurricane Hugo", "Occurrence"],
+["$40 million", "Reporting"],
+["$94.2 million", "Reporting"],
+["$31 million", "Reporting"],
+["$3 billion", "Reporting"],
+["less than $10 million", "Reporting"],
+["California earthquake", "Occurrence"],
+["$7.2 million", "Reporting"],
+["$6.1 million", "Reporting"],
+["$24 million", "Reporting"],
+["$306 million", "State"],
+["$195 million", "State"]
+]
+
+Explanation:
+
+* "Travelers Corp." is a State entity.
+* "Hurricane Hugo" is an Occurrence entity.
+* "$40 million" is a Reporting entity because it is a monetary amount mentioned in the context of the article.
+* "$94.2 million" and "$31 million" are also Reporting entities for the same reason.
+* "$3 billion" is a Reporting entity because it is a monetary amount mentioned in the context of the article.
+* "less than $10 million" is a Reporting entity for the same reason.
+* "California earthquake" is an Occurrence entity.
+* "$7.2 million" and "$6.1 million" are Reporting entities for the same reason.
+* "$24 million" is a Reporting entity for the same reason.
+* "$306 million" and "$195 million" are State entities because they represent the company's financial state.

@@ -1,0 +1,44 @@
+[['homem', 'Occurrence'], ['tro', 'Reporting'], ['hoje', 'Aspectual'], ['barreiro', 'State'], ['baleado', 'Intensional Action'], ['caçadeira', 'Perception'], ['atirador', 'Occurrence'], ['fuga', 'State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+def get_pos(word):
+   """Returns the part of speech for a given word"""
+   return [x[1][0].upper() for x in pos_tag([word]) if len(x) > 0 and x[1][0]]
+
+def stem(words):
+   """Stems all words in a list using porter stemming algorithm"""
+   ps = PorterStemmer()
+   return [ps.stem(w) for w in words]
+
+def classify(entity, pos):
+   """Classifies an entity based on its POS tag"""
+   if pos == 'NN':
+       return 'Occurrence'
+   elif pos == 'RP':
+       return 'Reporting'
+   elif pos == 'VBD':
+       return 'Intensional Action'
+   elif pos == 'JJ':
+       return 'Aspectual'
+   elif pos == 'NNS':
+       return 'State'
+   else:
+       return 'Perception'
+
+with open('data/events-task2.json') as f:
+   data = json.load(f)
+
+for i in range(len(data)):
+   text = data['text'][i]
+   tokens = word_tokenize(text)
+   stems = stem(tokens)
+   tags = get_pos(tokens)
+   classes = []
+   for j in range(len(tags)):
+       classes.append((stems[j], classify(stems[j], tags[j])))
+   print(classes)

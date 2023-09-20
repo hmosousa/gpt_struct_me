@@ -1,0 +1,45 @@
+["homem", "Occurrence"], ["hoje", "State"], ["baleado", "Reporting"], ["caçadeira", "Aspectual"], ["atirador", "Perception"]
+"""
+import json
+from nltk import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.cluster import KMeans
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import normalize
+from sklearn.pipeline import make_pipeline
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.svm import LinearSVC
+from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import NearestNeighbors
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import AdaBoostClassifier, ExtraTreesClassifier, GradientBoostingClassifier, \
+   RandomTreesEmbedding
+from sklearn.neural_network import MLPClassifier
+from sklearn.kernel_approximation import Nystroem
+from sklearn.externals import joblib
+import re
+import string
+import os
+import sys
+import time
+import random
+import pickle
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
+
+# Load the data
+data = json.load(open('../data/events-task2018.json'))
+train_data = [x for x in data if 'id' in x]
+test_data = [x for x in data if 'text'

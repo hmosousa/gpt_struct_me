@@ -1,0 +1,10 @@
+[
+  ["Philip Morris Cos.", "State"],
+  ["Philip Morris Cos.", "Occurrence"],
+  ["Philip Morris Cos.", "Reporting"],
+  ["Philip Morris Cos.", "Perception"],
+  ["Philip Morris Cos.", "Aspectual"],
+  ["Philip Morris Cos.", "Intensional Action"],
+  ["Philip Morris Cos.", "Intensional State"]
+]
+

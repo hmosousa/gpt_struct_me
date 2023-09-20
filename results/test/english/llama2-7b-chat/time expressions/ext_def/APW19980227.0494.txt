@@ -1,0 +1,3 @@
+[
+"MOSCOW", "FRIDAY", "Presidents", "Leonid Kuchma", "Boris Yeltsin", "signed", "economic cooperation plan", "resolved", "nagging problems", "Russia", "Ukraine", "similar cultures", "natural partners", "Black Sea", "naval bases", "border problems", "natural gas debts", "ITAR-Tass", "Yeltsin", "Kuchma", "ratification", "treaty", "parliaments", "Crimean peninsula", "NATO", "Partnership for Peace program", "Commonwealth of Independent States", "CIS", "trade turnover", "metallurgy", "fuel", "energy", "aircraft building", "missile", "space", "chemical industries", "An-70 cargo planes", "economic reforms", "social programs", "Gazprom", "debt"
+]

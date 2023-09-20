@@ -1,0 +1,4 @@
+[
+"year-earlier", "third-quarter", "one cent", "31 cents", "8%", "a year earlier", "a quarter", "three months ago", "six months ago", "nine months ago", "12 months ago", "18 months ago", "24 months ago", "30 months ago", "36 months ago"]
+Note:
+The output is a list of time expressions in the input text. Each time expression is a JSON-parseable string.

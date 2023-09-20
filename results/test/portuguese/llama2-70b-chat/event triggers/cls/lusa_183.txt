@@ -1,0 +1,37 @@
+[
+["Homem", "State"],
+["28 anos", "Aspectual"],
+["injuriar", "Intensional Action"],
+["ameaçar", "Intensional Action"],
+["perseguir", "Intensional Action"],
+["ex-companheira", "State"],
+["Vila Nova de Gaia", "State"],
+["pulseira eletrônica", "State"],
+["proibido de contactar", "Intensional State"],
+["frequentar", "Intensional State"],
+["se aproximar", "Intensional State"],
+["800 metros", "Aspectual"],
+["violência doméstica", "Occurrence"],
+["suspeito", "State"],
+["injuriava", "Intensional Action"],
+["ameaçava", "Intensional Action"],
+["perseguiria", "Intensional Action"],
+["vítima", "State"],
+["30 anos", "Aspectual"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to the physical state of a person.
+* "28 anos" is classified as "Aspectual" because it refers to the age of the person, which is an aspect of their physical state.
+* "injuriar", "ameaçar", and "perseguir" are classified as "Intensional Action" because they refer to actions that the person is performing or has performed.
+* "ex-companheira" is classified as "State" because it refers to the relationship status of the person.
+* "Vila Nova de Gaia" is classified as "State" because it refers to the location of the person.
+* "pulseira eletrônica" is classified as "State" because it refers to the physical state of the person, specifically their use of a tracking device.
+* "proibido de contactar", "frequentar", and "se aproximar" are classified as "Intensional State" because they refer to the person's legal state and restrictions on their behavior.
+* "800 metros" is classified as "Aspectual" because it refers to a specific distance.
+* "violência doméstica" is classified as "Occurrence" because it refers to an event or situation that is happening or has happened.
+* "suspeito" is classified as "State" because it refers to the person's legal state as a suspect.
+* "injuriava", "ameaçava", and "perseguiria" are classified as "Intensional Action" because they refer to actions that the person is suspected of performing.
+* "vítima" is classified as "State" because it refers to the person's status as a victim.
+* "30 anos" is classified as "Aspectual" because it refers to the age of the person, which is an aspect of their physical state.

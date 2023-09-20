@@ -1,0 +1,18 @@
+["condutor", "viatura", "acidente", "ferimentos", "hospital", "bombeiros", "estrada", "despiste", "politraumatizado", "testemunhas", "oculares", "ferimentos", "ligeiros", "viatura", "derramado", "destroços", "fechadas", "manter-se"]
+
+Note:
+- The list of strings should be in the format of a JSON-parseable list.
+- The strings should be separated by commas, with no spaces or quotes around the strings.
+- The strings should be in the order they appear in the input text.
+
+Explanation:
+
+The task is to extract all the event triggers from the given input text. An event trigger is any word or phrase that indicates the occurrence of an event, such as "acidente" (accident), "ferimentos" (injuries), "hospital" (hospital), "bombeiros" (firefighters), etc.
+
+The output should be a list of strings, each representing an event trigger, in the format of a JSON-parseable list. The strings should be separated by commas, with no spaces or quotes around the strings. The strings should be in the order they appear in the input text.
+
+For example, the output for the given input text should be:
+
+["condutor", "viatura", "acidente", "ferimentos", "hospital", "bombeiros", "estrada", "despiste", "politraumatizado", "testemunhas", "oculares", "ferimentos", "ligeiros", "viatura", "derramado", "destroços", "fechadas", "manter-se"]
+
+Note that the list of strings should be in the format of a JSON-parseable list, with each string separated by a comma and no spaces or quotes around the strings.

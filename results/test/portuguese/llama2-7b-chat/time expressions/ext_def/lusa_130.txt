@@ -1,0 +1,4 @@
+[
+"GNR detém", "homem de 52 anos", "cultivo", "tráfico", "droga", "em Idanha-a-Nova", "em flagrante delito", "quinta-feira", "terreno agrícola", "canábis", "suspeito", "momento", "militares", "apreenderam", "cabeças", "liamba", "pés", "balança", "moinho", "reforço", "Posto Territorial", "Tribunal Judicial"]
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression found in the input text.

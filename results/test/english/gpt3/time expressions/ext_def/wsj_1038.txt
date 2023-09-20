@@ -1,0 +1,1 @@
+["third-quarter", "a year ago", "18 months", "initially"]

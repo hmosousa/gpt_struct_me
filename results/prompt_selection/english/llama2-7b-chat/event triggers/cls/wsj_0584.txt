@@ -1,0 +1,59 @@
+[
+"event": "agreement",
+"entity": "BellSouth Corp.",
+"class": "State"
+]
+[
+"event": "amendment",
+"entity": "BellSouth Corp.",
+"class": "State"
+]
+[
+"event": "offer",
+"entity": "McCaw Cellular Communications Inc.",
+"class": "Offer"
+]
+[
+"event": "bid",
+"entity": "McCaw Cellular Communications Inc.",
+"class": "Action"
+]
+[
+"event": "auction",
+"entity": "LIN Broadcasting Corp.",
+"class": "Aspectual"
+]
+[
+"event": "debt",
+"entity": "LIN Broadcasting Corp.",
+"class": "IntensionalAction"
+]
+[
+"event": "borrowing",
+"entity": "LIN Broadcasting Corp.",
+"class": "IntensionalAction"
+]
+[
+"event": "payment",
+"entity": "LIN Broadcasting Corp.",
+"class": "IntensionalAction"
+]
+[
+"event": "value",
+"entity": "LIN Broadcasting Corp.",
+"class": "Perception"
+]
+[
+"event": "estimate",
+"entity": "analyst",
+"class": "Perception"
+]
+[
+"event": "response",
+"entity": "investor",
+"class": "Perception"
+]
+
+]
+
+Note: The output is a list of JSON objects, where each object represents an event and has three fields: "event", "entity", and "class". The "event" field is a string representing the type of event (e.g., "agreement", "amendment", "offer", etc.), the "entity" field is a string representing the entity involved in the event (e.g., "BellSouth Corp.", "McCaw Cellular Communications Inc.", etc.), and the "class" field is a string representing the class of the event (e.g., "State", "Offer", "Action", etc.).

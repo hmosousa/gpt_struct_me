@@ -1,0 +1,4 @@
+[
+"until", "Nov. 9", "Nov. 6", "18-a-share", "5 p.m.", "EST", "about", "64 million", "95 million", "24,000", "inadequate", "12.5 cents", "Telerate shares", "electronic financial information network", "Dow Jones publishes", "The Wall Street Journal", "Barron's magazine", "community newspapers", "financial news services", "computer data bases"]
+Note:
+The output is a JSON-parseable list of strings, where each string is a time expression extracted from the given text.

@@ -1,0 +1,14 @@
+[
+"Aug. 9",
+"Sept. 30",
+"a year ago"
+]
+
+Explanation:
+The input text contains three time expressions:
+
+* "Aug. 9" - a specific date in the past
+* "Sept. 30" - a specific date in the past
+* "a year ago" - a time period (a year)
+
+These time expressions are extracted and returned in a JSON-parseable list of strings.

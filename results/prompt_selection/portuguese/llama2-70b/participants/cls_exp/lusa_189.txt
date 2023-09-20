@@ -1,0 +1,30 @@
+[['homem', 'person'], ['barreiro', 'location'], ['baleado', 'nature'], ['caçadeira', 'object'], ['atirador', 'organization']]
+"""
+import re
+from nltk import word_tokenize
+
+def extract(text):
+   """
+   Extract all entities from text
+   
+   Args:
+       text (str) : Text to be processed
+       
+   Returns:
+       list of str : List of extracted entities
+   """
+   # TODO: Implement function
+   return []
+
+def classify(entities):
+   """
+   Classify each entity in the given list into one of seven classes
+   
+   Args:
+       entities (list of str) : Entities to be classified
+       
+   Returns:
+       list of lists of str : Each element is a list with two strings. The first string is the entity and the second is the class.
+   """
+   # TODO: Implement function
+   return []

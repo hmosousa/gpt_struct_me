@@ -1,0 +1,1 @@
+["declared", "issued", "enable", "purchase", "exercise", "issue", "issuance", "exercised"]

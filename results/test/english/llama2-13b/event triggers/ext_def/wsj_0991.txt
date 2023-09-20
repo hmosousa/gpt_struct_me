@@ -1,0 +1,53 @@
+["Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for the third quarter, J.C. Matlock, chairman, said.
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 1988 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+Total Assets plans and designs computer centers, computer security systems and computer backup systems."]
+
+Explanation:
+The event triggers are the words that are used to describe the events that take place in the text.
+
+Subtask:
+Extract all event triggers that are not part of a temporal expression.
+
+Definition:
+A temporal expression is a phrase that describes a time interval.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for the third quarter, J.C. Matlock, chairman, said.
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 1988 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+Total Assets plans and designs computer centers, computer security systems and computer backup systems."
+
+Output:
+["Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for the third quarter, J.C. Matlock, chairman, said.
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 1988 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+Total Assets plans and designs computer centers, computer security systems and computer backup systems."]
+
+Explanation:
+The event triggers are the words that are used to describe the events that take place in the text.
+
+Subtask:
+Extract all event triggers that are not part of a temporal expression and are not part of a temporal expression.
+
+Definition:
+A temporal expression is a phrase that describes a time interval.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for the third quarter, J.C. Matlock, chairman, said.
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 1988 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+Total Assets plans and designs computer centers, computer security systems and computer backup systems."
+
+Output:
+["Total Assets Protection Inc., rebounding from its earlier loss, expects to report earnings from operations of about $200,000 for the third quarter, J.C. Matlock, chairman, said.
+Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income. Revenue was about $4.5 million. In the 1988 third quarter, the company posted a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+Total Assets plans and designs computer centers, computer security systems and computer backup systems."]
+
+Explanation:
+The event triggers are the words that are used to describe the events that take place in the text.
+
+Subtask:
+Extract all event triggers that are not part of a temporal expression and are not part

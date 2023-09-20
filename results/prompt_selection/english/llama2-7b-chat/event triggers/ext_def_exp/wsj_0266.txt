@@ -1,0 +1,11 @@
+[
+"created",
+"listed",
+"named",
+"innovated",
+"eliminated",
+"purchased",
+"daily",
+"total",
+"constant"
+]

@@ -1,0 +1,14 @@
+[
+"17:50",
+"18:32"
+]
+
+Explanation:
+The task is to extract all time expressions from the given text. The output should be a JSON-parseable list of strings, where each string represents a time expression.
+
+In this case, there are two time expressions:
+
+* "17:50"
+* "18:32"
+
+Both of these expressions are in the format of hours and minutes, and they are separated by a comma.

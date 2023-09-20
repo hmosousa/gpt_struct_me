@@ -1,0 +1,30 @@
+["$6.6 million", "Amount"], ["or 18 cents a share", "Amount"], ["third quarter", "Date"], ["Fairfield, N.J.", "Location"], ["New York", "Location"], ["$1.1 million", "Amount"], ["four cents a share", "Amount"], ["year ago", "Duration"], ["Revenue soared to $101.7 million from $39.5 million", "Set"], ["August", "Date"], ["$26.875", "Amount"], ["down 75 cents", "Amount"], ["summer", "Time"], ["$14 apiece", "Amount"], ["seven a year ago", "Set"]]
+"""
+import re
+from datetime import date, timedelta
+
+class TimeExpression(object):
+   def __init__(self, text, class_name=None):
+       self._text = text
+       self._class_name = class_name
+   
+   @property
+   def text(self):
+       return self._text
+       
+   @property
+   def class_name(self):
+       return self._class_name
+   
+   def __str__(self):
+       return "{}: {}".format(self._class_name, self._text)
+
+def extract_time_expressions(input_string):
+   """Extracts time expressions and returns them as a list of TimeExpressions."""
+   # TODO: Implement this function!
+   pass
+
+if __name__ == '__main__':
+   print("Testing...")
+   assert len(extract_time_expressions('')) == 0
+   assert len(extract_time_expressions('Ogden Projects Inc. said net income jumped to $6.6 million, or 18 cents a share, in the third quarter.')) == 3

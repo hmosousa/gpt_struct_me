@@ -1,0 +1,12 @@
+["offers to buy shares", "stock swap", "preferred stock", "dividend rate", "convertible into Heritage common", "New York-based POP Radio"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word, phrase or sentence that indicates an event has occurred or is about to occur. In this text, the following words and phrases indicate events:
+
+* "offered to buy" (indicates the event of a purchase offer)
+* "stock swap" (indicates the event of a stock exchange)
+* "preferred stock" (indicates the event of a new stock issue)
+* "dividend rate" (indicates the event of a dividend payment)
+* "convertible into Heritage common" (indicates the event of a conversion of preferred stock into common stock)
+
+Note that some event triggers may be implied rather than explicitly stated. For example, the phrase "plunged $4 to $14.75" implies the event of a stock price change.

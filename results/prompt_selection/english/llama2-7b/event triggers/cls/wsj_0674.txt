@@ -1,0 +1,9 @@
+[
+  ["Jim Pattison Industries Ltd.", "State"],
+  ["Jim Pattison Industries Ltd.", "Occurrence"],
+  ["Jim Pattison Industries Ltd.", "Reporting"],
+  ["Jim Pattison Industries Ltd.", "Perception"],
+  ["Jim Pattison Industries Ltd.", "Aspectual"],
+  ["Jim Pattison Industries Ltd.", "Intensional Action"],
+  ["Jim Pattison Industries Ltd.", "Intensional State"]
+]

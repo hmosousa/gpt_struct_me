@@ -1,0 +1,1 @@
+[["$5.3 million", "Amount"], ["third quarter", "Date"], ["$15 million", "Amount"], ["quarter", "Time"], ["$30 million", "Amount"], ["year-ago third quarter", "Set"], ["$22.5 million", "Amount"], ["97 cents", "Duration"], ["$18 million", "Amount"], ["$778.6 million", "Amount"], ["Hawesville, Ky.", "Location"], ["two years", "Duration"]]

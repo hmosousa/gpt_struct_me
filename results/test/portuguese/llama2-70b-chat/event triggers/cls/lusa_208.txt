@@ -1,0 +1,47 @@
+[
+["Avião", "State"],
+["aterrar", "Occurrence"],
+["de emergência", "Reporting"],
+["falha no motor", "Perception"],
+["Um avião", "State"],
+["aterrou", "Occurrence"],
+["hoje", "Aspectual"],
+["Aeroporto Humberto Delgado", "State"],
+["Lisboa", "State"],
+["Polícia de Segurança Pública", "State"],
+["alerta", "Intensional Action"],
+["aeronave", "State"],
+["ter um motor parado", "Perception"],
+["17:50", "Aspectual"],
+["aterrou", "Occurrence"],
+["sem incidentes dignos de registo", "Perception"],
+["Jota Aviation", "State"],
+["Farnborough", "State"],
+["Inglaterra", "State"],
+["Lisboa", "State"],
+["ANA-Aeroportos de Portugal", "State"]
+]
+
+Explanation:
+
+* "Avião" is classified as "State" because it refers to the state of the aircraft.
+* "aterrar" is classified as "Occurrence" because it refers to an event happening.
+* "de emergência" is classified as "Reporting" because it refers to the reporting of an event.
+* "falha no motor" is classified as "Perception" because it refers to the perception of a problem with the aircraft's engine.
+* "Um avião" is classified as "State" because it refers to the state of the aircraft.
+* "aterrou" is classified as "Occurrence" because it refers to an event happening.
+* "hoje" is classified as "Aspectual" because it refers to the aspectuality of the event (i.e. that it happened today).
+* "Aeroporto Humberto Delgado" is classified as "State" because it refers to the state of the airport.
+* "Lisboa" is classified as "State" because it refers to the state of the city.
+* "Polícia de Segurança Pública" is classified as "State" because it refers to the state of the police.
+* "alerta" is classified as "Intensional Action" because it refers to an intentional action of alerting.
+* "aeronave" is classified as "State" because it refers to the state of the aircraft.
+* "ter um motor parado" is classified as "Perception" because it refers to the perception of the aircraft's engine being stopped.
+* "17:50" is classified as "Aspectual" because it refers to the aspectuality of the event (i.e. the time at which it happened).
+* "aterrou" is classified as "Occurrence" because it refers to an event happening.
+* "sem incidentes dignos de registo" is classified as "Perception" because it refers to the perception of the event's consequences.
+* "Jota Aviation" is classified as "State" because it refers to the state of the airline.
+* "Farnborough" is classified as "State" because it refers to the state of the location.
+* "Inglaterra" is classified as "State" because it refers to the state of the country.
+* "Lisboa" is classified as "State" because it refers to the state of the city.
+* "ANA-Aeroportos de Portugal" is classified as "State" because it refers to the state of the airport authority.

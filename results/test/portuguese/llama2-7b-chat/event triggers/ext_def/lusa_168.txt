@@ -1,0 +1,13 @@
+[
+"Homem em prisão preventiva",
+"agredir física e psicologicamente",
+"mãe em Valongo",
+"prisão preventiva",
+"violência doméstica",
+"antecedentes criminais",
+"ameaça agravada",
+"injúrias e ofensas à integridade física",
+"coação de afastamento",
+"proibição de contacto",
+"mandado de detenção"
+]

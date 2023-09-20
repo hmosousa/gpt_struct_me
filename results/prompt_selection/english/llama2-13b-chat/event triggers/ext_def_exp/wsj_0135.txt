@@ -1,0 +1,11 @@
+["earns net income", "posts sales", "faces margin pressures", "lower demand"]
+
+Explanation:
+The input text contains four event triggers:
+
+1. "earns net income" - This event trigger is related to the temporal expression "year ending June 30, 1990" and refers to the company's financial performance.
+2. "posts sales" - This event trigger is related to the temporal expression "current fiscal year" and refers to the company's sales performance.
+3. "faces margin pressures" - This event trigger is related to the temporal expression "current fiscal year" and refers to the company's financial performance.
+4. "lower demand" - This event trigger is related to the temporal expression "current fiscal year" and refers to the company's sales performance.
+
+Note that the event triggers are not necessarily related to specific temporal expressions in the text, but they are all related to the current or upcoming fiscal year.

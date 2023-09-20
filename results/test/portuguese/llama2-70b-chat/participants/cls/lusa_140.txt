@@ -1,0 +1,29 @@
+[
+["MP", "Organization"],
+["GNR", "Organization"],
+["Braga", "Location"],
+["Ministro Publico", "Person"],
+["arguido", "Person"],
+["Nucleo de Investigação Criminal", "Facility"],
+["Procuradoria-Geral Regional do Porto", "Organization"],
+["Porto", "Location"]
+]
+
+Explanation:
+
+* MP is an organization
+* GNR is an organization
+* Braga is a location
+* Ministro Publico is a person
+* arguido is a person
+* Nucleo de Investigação Criminal is a facility
+* Procuradoria-Geral Regional do Porto is an organization
+* Porto is a location
+
+Note:
+
+* The input text is in Portuguese, but the classes are in English.
+* The output is a list of pairs, where each pair consists of the entity mentioned in the text and its corresponding class.
+* The classes used in this task are: Person, Organization, Object, Location, Nature, Facility, and Other.
+* The entity recognition task is to identify and classify all participants in the text, including people, organizations, locations, and facilities.
+* The output format is a JSON-parseable list, which means that each element in the list is a JSON object with two properties: "entity" and "class".

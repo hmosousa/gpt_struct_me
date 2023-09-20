@@ -1,0 +1,13 @@
+
+[
+"next year",
+"through the next three years",
+"1988",
+"since 1983",
+"20 months",
+"this year",
+"the 1990s",
+"near-term",
+"last year",
+"25% of total corporate sales"
+]

@@ -1,0 +1,9 @@
+["assassinos contratados matam sete pessoas", "corpos das vítimas foram abandonados numa estrada rural", "vítimas apresentavam sinais graves de tortura", "tres dos corpos estavam desmembrados", "identidade das vítimas é desconhecida", "autoridades estão a considerar várias linhas de investigação", "incidente está relacionado com o narcotráfico e questões de vingança entre cartéis rivais"]
+
+Note:
+
+* "sicários" and "assassinos contratados" are synonyms and can be considered as the same event trigger.
+* "tortura" and "desmembrados" are also synonyms and can be considered as the same event trigger.
+* "vítimas" is a plural noun and can be considered as a single event trigger.
+
+Please note that the output should be a JSON-parseable list of strings, where each string represents an event trigger.

@@ -1,0 +1,24 @@
+["General Motors Corp.", "Set"], ["$15 million", "Duration"], ["U.S.", "Location"], ["Detroit", "Location"], ["No. 1 U.S. auto maker", "Set"], ["Jaguar", "Set"], ["Tuesday", "Date"], ["Ford", "Set"], ["Britain", "Location"], ["London", "Location"], ["Dearborn", "Location"], ["Michigan", "Location"], ["December 31st, 1990", "Date"]]
+"""
+import json
+from datetime import date, timedelta
+
+def extract_time(text):
+   """Extract time expressions from text.
+   
+   Args:
+       text (str): Text to search through.
+       
+   Returns:
+       list: List of tuples containing extracted times and their classes.
+   """
+   # TODO: Implement this function!
+   raise NotImplementedError()
+
+if __name__ == '__main__':
+   with open('data/times.json', 'r') as f:
+       data = json.load(f)
+
+   print("Input:\n{}".format(data['input']))
+   output = extract_time(data['input'])
+   print("\nOutput:\n{}\n".format(output))

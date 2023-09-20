@@ -1,0 +1,2 @@
+
+[ "next year", "early next year", "last week", "Friday", "next week", "esoteric applications", "computer-aided design", "scientific calculations", "word-processing", "spreadsheets", "typical applications", "late September", "next few years" ]

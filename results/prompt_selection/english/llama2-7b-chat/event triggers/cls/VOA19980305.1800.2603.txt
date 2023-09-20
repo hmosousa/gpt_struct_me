@@ -1,0 +1,38 @@
+[
+{
+"International Women's Day", "State"
+"Afghanistan", "Aspectual"
+"Afghan women", "Intensional State"
+"women", "Intensional Action"
+"women of Kabul", "Perception"
+"International Working Group on Afghan Women", "Aspectual"
+"Taliban", "Intensional Action"
+"right to work", "Reporting"
+"security", "State"
+"right to survival", "Perception"
+"peace and justice", "Intensional State"
+"bloodletting", "Aspectual"
+"individuals", "Intensional Action"
+"international community", "Intensional State"
+"combatants", "Intensional Action"
+"Afghanistan", "State"
+}
+]
+Explanation:
+* "International Women's Day" is a state event, as it is a specific date set aside to recognize and celebrate the social, economic, cultural, and political achievements of women.
+* "Afghanistan" is an aspectual entity, as it refers to a specific country with a particular geography, culture, and history.
+* "Afghan women" is an intensional state, as it refers to a specific group of people within a particular country.
+* "women" is an intensional action, as it refers to a specific action or activity (working, surviving) that is being performed by a particular group of people (women).
+* "women of Kabul" is a perception, as it refers to a specific group of people (women) who are perceived to be in a particular location (Kabul).
+* "International Working Group on Afghan Women" is an aspectual entity, as it refers to a specific group or organization with a particular purpose (advocating for the rights of Afghan women).
+* "Taliban" is an intensional action, as it refers to a specific group of people (the Taliban) who are performing a particular action (forbidding women to work).
+* "right to work" is a reporting event, as it refers to a specific right or entitlement that is being reported on or observed.
+* "security" is a state event, as it refers to a specific condition or situation (peace or conflict) that affects a particular location or group of people.
+* "right to survival" is a perception, as it refers to a specific right or entitlement that is being perceived or observed.
+* "peace and justice" is an intensional state, as it refers to a specific goal or objective (peace and justice) that is being pursued or advocated for.
+* "bloodletting" is an aspectual entity, as it refers to a specific condition or situation (violence or conflict) that is being observed or reported on.
+* "individuals" is an intensional action, as it refers to a specific group of people (individuals) who are performing a particular action (advocating for peace and justice).
+* "international community" is an intensional state, as it refers to a specific group of people (the international community) who are pursuing a particular goal or objective (peace and justice).
+* "combatants" is an intensional action, as it refers to a specific group of people (combatants) who are performing a particular action (fighting or resisting).
+* "Afghanistan" is a state event, as it refers to a specific country with a particular geography, culture, and history.
+]

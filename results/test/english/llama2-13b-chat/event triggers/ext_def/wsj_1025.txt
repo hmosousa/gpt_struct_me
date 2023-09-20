@@ -1,0 +1,12 @@
+["loss", "revenue", "quarter", "year-earlier", "net loss", "share", "company", "period"]
+
+Explanation:
+
+* loss: The event of the company's net loss narrowing from the previous year.
+* revenue: The event of the operating revenue surging.
+* quarter: The event of the current quarter beginning "extremely well".
+* year-earlier: The event of the previous year's net loss.
+* net loss: The event of the company's net loss.
+* share: The event of the net loss per share.
+* company: The event of the company's performance.
+* period: The event of the period of time covered by the financial results.

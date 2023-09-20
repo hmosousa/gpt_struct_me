@@ -1,0 +1,5 @@
+[
+"in the third quarter",
+"year-ago third quarter",
+"in fiscal 1989"
+]

@@ -1,0 +1,52 @@
+[['homem', 'person'], ['ex-companheira', 'person'], ['Vila Nova de Gaia', 'location'], ...]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.corpus import stopwords
+
+# Load the dictionary of classes and entities
+with open('classes.json') as file:
+   classes = json.load(file)
+
+# Strip punctuation from text
+def stripPunctuation(text):
+   return " ".join([word for word in text if not word in [",", ";", ":", "'", '"']])
+
+# Tokenize words into list
+def tokenizer(text):
+   return word_tokenize(stripPunctuation(text))
+
+# Remove stopwords from tokens
+def removeStopWords(tokens):
+   return [w for w in tokens if not w in stopwords.words("portuguese")]
+
+# Stem each token
+def stemming(tokens):
+   ps = PorterStemmer()
+   return [ps.stem(t) for t in tokens]
+
+# Tag each token with its part of speech
+def tagger(tokens):
+   return pos_tag(tokens)
+
+# Classify each token according to its POS tag
+def classifier(tags, classes):
+   result = []
+   for (token, tag) in tags:
+       # Check if it's a person or an organization
+       if tag[0].startswith('N'):
+           result.append((token, 'person'))
+       elif tag[1][-2:] == 'os':
+           result.append((token, 'organization'))
+       else:
+           # Check if it's a location
+           if tag[0] == 'V':
+               result.append((token, 'location'))
+           # Check if it's an object
+           elif tag[0] == 'C':
+               result.append((token, 'object'))
+           # Check if it's nature
+           elif tag[0] == 'A':
+               result.append((token,

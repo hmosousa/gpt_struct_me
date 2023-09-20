@@ -1,0 +1,12 @@
+A list of time expressions in the input text:
+* last week
+* yesterday
+* next 14 months
+* Dec. 31, 1990
+* 1984
+* 1988
+* Tuesday
+* 1990
+
+Note:
+The list of time expressions may not be exhaustive, as there may be other time expressions present in the input text that are not mentioned here.

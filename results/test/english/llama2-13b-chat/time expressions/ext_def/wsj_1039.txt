@@ -1,0 +1,23 @@
+[
+"third quarter",
+"year-ago period",
+"15%",
+"37%",
+"30 cents a share",
+"48 cents a share",
+"Jay Stevens",
+"Dean Witter Reynolds",
+"Sunnyvale, Calif."
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "third quarter"
+* "year-ago period"
+* "15%" (a percentage increase)
+* "37%" (a percentage decrease)
+* "30 cents a share"
+* "48 cents a share"
+
+Note that "Jay Stevens" and "Dean Witter Reynolds" are not time expressions, but rather proper nouns (names of people and companies). "Sunnyvale, Calif." is also a proper noun, but it does not contain any temporal information.

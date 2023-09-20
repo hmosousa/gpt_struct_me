@@ -1,0 +1,10 @@
+[
+"yesterday",
+"last week",
+"Monday",
+"hours",
+"days",
+"weeks",
+"months",
+"years"
+]

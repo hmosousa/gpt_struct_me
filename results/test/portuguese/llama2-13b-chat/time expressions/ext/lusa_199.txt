@@ -1,0 +1,14 @@
+[
+"15:30",
+"sete metros"
+]
+
+Explanation:
+
+* 15:30 is a time expression indicating the time of day (3:30 PM)
+* sete metros is a measurement of distance (seven meters)
+
+Note:
+
+* The list of time expressions should be in JSON-parseable format, which means it should be surrounded by square brackets and each item should be a string.
+* The list of measurements should be in a separate list, also surrounded by square brackets.

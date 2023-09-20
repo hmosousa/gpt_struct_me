@@ -1,0 +1,30 @@
+[["Penafiel", Location], ["Porto", Location], ["39", Age], ["42", Age], ["GNR", Organization], ["separação", Date], ["residência", Location], ["local de trabalho", Location]]
+"""
+import re
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Remove punctuation from text
+def remove_punctuation(text):
+   return ''.join([char for char in text if not char.isdigit()])
+
+# Removes stop words and stemms the remaining tokens
+def tokenizer(text):
+   ps = PorterStemmer()
+   tokens = [ps.stem(word) for word in word_tokenize(remove_punctuation(text)) if not word in stopwords.words('portuguese')]
+   return tokens
+
+# Returns all time expressions found in text
+def extract_timex(tokens):
+   regex = r'(\d{1,2}[\s-]{0,5}\w+[\s-]{0,5}\d{4})|(\d{1,2}[\s-]{0,5}\w+[\s-]{0,5}\d{1,2})|(\d{1,2}[\s-]{0,5}\w+)|\b(\d{1,2} \w+\b)|(\d{1,2} [\s-]{0,5} \w+)'
+   matches = re.findall(regex, " ".join(tokens), flags=re.IGNORECASE)
+   return matches
+
+# Classifies each time expression as Date, Time, Duration or Set
+def classify_timex(matches):
+   date_pattern = r'\d{1,2}/\d{1,2}/\d{4}'
+   time_pattern = r'\d{1,2}:?\d{1,2}(?:[:.]\d*)?(?:[ap]\.m\.?)?'
+   duration_pattern = r'\

@@ -1,0 +1,1 @@
+["segundas-feiras","terça-feiras","quarta-feiras","quinta-feiras","sexta-feiras","sábados","domingos"]

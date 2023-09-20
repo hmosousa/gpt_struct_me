@@ -1,0 +1,20 @@
+[
+["GNR", "Organization"],
+["Unidade de Controlo Costeiro", "Organization"],
+["Guarda", "Organization"],
+["ria de Aveiro", "Location"],
+["crustáceos", "Nature"],
+["enguia-europeia", "Nature"],
+["CITES", "Organization"],
+["Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção", "Organization"]
+]
+
+Explanation:
+
+* GNR and Unidade de Controlo Costeiro are organizations
+* Guarda is also an organization, but it's already been mentioned
+* ria de Aveiro is a location
+* crustáceos and enguia-europeia are nature (animals)
+* CITES and Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção are organizations
+
+Note that the classes are not mutually exclusive, an entity can belong to multiple classes.

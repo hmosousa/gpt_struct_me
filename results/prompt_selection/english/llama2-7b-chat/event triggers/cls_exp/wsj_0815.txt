@@ -1,0 +1,39 @@
+[
+{
+"entity": "Di Giorgio Corp.",
+"class": "State"
+},
+{
+"entity": "certain units",
+"class": "Aspectual"
+},
+{
+"entity": "DIG Acquisition Corp.",
+"class": "Aspectual"
+},
+{
+"entity": "Rose Partners Limited Partnership",
+"class": "Aspectual"
+},
+{
+"entity": "Robert Mellor",
+"class": "Person"
+},
+{
+"entity": "individual units",
+"class": "Intensional Action"
+},
+{
+"entity": "others",
+"class": "Intensional Action"
+}
+]
+
+Explanation:
+The output is a list of JSON-parseable objects, where each object represents an event trigger and has two strings as properties: "entity" and "class". The "entity" property contains the name of the entity that is involved in the trigger, while the "class" property contains the class of the trigger.
+The classes used in this output are:
+* State: Triggers related to the current state of the entity, such as "Di Giorgio Corp." being in a state of continuing talks.
+* Aspectual: Triggers related to the aspect or attribute of the entity, such as "certain units" or "individual units".
+* Intensional Action: Triggers related to the intentions or actions of the entity, such as "Di Giorgio Corp." seeking alternatives to an unsolicited tender offer.
+* Person: Triggers related to the people involved in the event, such as "Robert Mellor".
+Note: The class labels are not mutually exclusive, and some triggers may belong to multiple classes. For example, "Robert Mellor" could be both a "Person" and an "Intensional Action" trigger, as he is both a person involved in the event and the one taking an action.

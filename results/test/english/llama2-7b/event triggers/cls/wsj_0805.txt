@@ -1,0 +1,2 @@
+[["CMS ENERGY Corp.", "State"], ["CMS ENERGY Corp.", "Occurrence"], ["CMS ENERGY Corp.", "Reporting"], ["CMS ENERGY Corp.", "Perception"], ["CMS ENERGY Corp.", "Aspectual"], ["CMS ENERGY Corp.", "Intensional Action"], ["CMS ENERGY Corp.", "Intensional State"]]
+

@@ -1,0 +1,15 @@
+[
+"baleado",
+"fugiu",
+"Vila Nova de Gaia",
+"Gulpilhares",
+"Santos Silva",
+"Vila de Gaia",
+"distrito do Porto",
+"ferido ligeiro",
+"alerta",
+"Polícia Judiciária",
+"case",
+"competence",
+"determine"
+]

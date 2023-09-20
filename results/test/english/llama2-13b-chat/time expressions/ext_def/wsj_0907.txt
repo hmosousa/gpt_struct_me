@@ -1,0 +1,1 @@
+["3rd quarter", "year-earlier quarter", "June 1989", "latest quarter"]

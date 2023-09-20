@@ -1,0 +1,20 @@
+["Covid-19", "GNR de Freamunde", "Paços de Ferreira", "restaurante", "50 pessoas", "música ao vivo", "fiscalização", "normas referentes à pandemia covid-19", "proprietária", "elaboração de um auto de contraordenação"]
+
+Note:
+- The output should be a list of strings, where each string represents an event trigger.
+- The events are:
+	- Covid-19
+	- GNR de Freamunde
+	- Paços de Ferreira
+	- restaurante
+	- 50 pessoas
+	- música ao vivo
+	- fiscalização
+	- normas referentes à pandemia covid-19
+	- proprietária
+	- elaboração de um auto de contraordenação
+
+Hint:
+- Look for words or phrases that indicate an action, occurrence or state that takes place.
+- Pay attention to temporal expressions, such as "hoje" (today) and "naquela localidade" (in that location).
+- Consider the context of the text and the events that are being described.

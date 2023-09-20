@@ -1,0 +1,19 @@
+[
+["International Women's Day", "State"],
+["Afghan women", "Occurrence"],
+["Lisa Schlein", "Reporting"],
+["Afghanistan", "Aspectual"],
+["Taleban government", "Intensional Action"],
+["women", "Intensional State"],
+["peace and justice", "Intensional State"]
+]
+
+Explanation:
+
+1. "International Women's Day" is a state, as it is a specific day that is recognized and celebrated.
+2. "Afghan women" is an occurrence, as it refers to the current situation of women in Afghanistan.
+3. "Lisa Schlein" is reporting, as she is providing information about the situation of women in Afghanistan.
+4. "Afghanistan" is an aspectual entity, as it is a country that is being described in terms of its current state.
+5. "Taleban government" is an intensional action, as it is a specific type of government that is being referred to.
+6. "women" is an intensional state, as it refers to the current state of women in Afghanistan.
+7. "peace and justice" is an intensional state, as it is a specific goal that is being sought.

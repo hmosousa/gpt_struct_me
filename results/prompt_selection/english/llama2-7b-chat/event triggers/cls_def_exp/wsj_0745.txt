@@ -1,0 +1,19 @@
+[
+"General Motors Corp.", "Event: Buying 15% of Jaguar PLC"
+"Ford Motor Co.", "Event: Preparing to bid for 100% of Jaguar PLC"
+"Jaguar PLC", "Event: Receiving buy offers from General Motors Corp. and Ford Motor Co."
+"David N. McCammon", "Event: Declaring that Ford will not go over a certain level in bidding for Jaguar PLC"
+"Kenneth Warren", "Event: Expressing skepticism about the government lifting the anti-takeover barrier prematurely"
+"Roger Smith", "Event: Suggesting that Jaguar should not be smothered by anyone else"
+"Margaret Thatcher", "Event: Possibly receptive to removing the anti-takeover restriction early to let General Motors Corp. amass more than 15% or mount a friendly suitor bid against Ford Motor Co."
+]
+
+Note:
+The output is a list of events, each event is represented as a JSON object with two strings: the entity and the class. The classes are:
+* "Event: Buying 15% of Jaguar PLC" - General Motors Corp.
+* "Event: Preparing to bid for 100% of Jaguar PLC" - Ford Motor Co.
+* "Event: Receiving buy offers from General Motors Corp. and Ford Motor Co." - Jaguar PLC
+* "Event: Declaring that Ford will not go over a certain level in bidding for Jaguar PLC" - David N. McCammon
+* "Event: Expressing skepticism about the government lifting the anti-takeover barrier prematurely" - Kenneth Warren
+* "Event: Suggesting that Jaguar should not be smothered by anyone else" - Roger Smith
+* "Event: Possibly receptive to removing the anti-takeover restriction early to let General Motors Corp. amass more than 15% or mount a friendly suitor bid against Ford Motor Co." - Margaret Thatcher

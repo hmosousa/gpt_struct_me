@@ -1,0 +1,14 @@
+[
+  ["expects", "Reporting"],
+  ["report", "Reporting"],
+  ["sell", "Occurrence"],
+  ["charge", "Occurrence"],
+  ["gain", "Occurrence"],
+  ["earned", "Occurrence"],
+  ["sale", "Occurrence"],
+  ["explore", "Intensional Action"],
+  ["subject", "State"],
+  ["provides", "State"],
+  ["produces", "State"],
+  ["had", "State"]
+]

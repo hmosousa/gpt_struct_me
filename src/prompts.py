@@ -3,7 +3,7 @@
 import json
 from string import Template
 
-from src.base import Document
+from src.base import LusaDocument
 from src.meta import ENTITIES
 
 
@@ -14,7 +14,7 @@ class Prompter:
         self,
         entity: str,
         task: str = "extraction",
-        example: Document = None,
+        example: LusaDocument = None,
         definition: bool = False,
     ):
         """Initialize the prompter.
@@ -103,7 +103,7 @@ class Prompter:
         else:
             raise ValueError(f"Entity {self.entity} not supported.")
 
-    def generate(self, text: Document) -> str:
+    def generate(self, text: LusaDocument) -> str:
         """Generate a zero shot prompt."""
         prompt = self.template.substitute(text=text)
         return prompt

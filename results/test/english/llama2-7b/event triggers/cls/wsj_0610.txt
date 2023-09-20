@@ -1,0 +1,32 @@
+
+[
+  {
+    "entity": "Kellogg Co.",
+    "class": "State"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Kellogg Co.",
+    "class": "Intensional State"
+  }
+]
+

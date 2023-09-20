@@ -1,0 +1,9 @@
+[
+{ "entity": "Ogden Projects Inc.", "class": "State" },
+{ "entity": "Ogden Projects Inc.", "class": "Occurrence" },
+{ "entity": "Ogden Projects Inc.", "class": "Reporting" },
+{ "entity": "Ogden Projects Inc.", "class": "Perception" },
+{ "entity": "Ogden Projects Inc.", "class": "Aspectual" },
+{ "entity": "Ogden Projects Inc.", "class": "Intensional Action" },
+{ "entity": "Ogden Projects Inc.", "class": "Intensional State" }
+]

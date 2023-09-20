@@ -1,0 +1,11 @@
+[
+"13:41",
+"segundo e terceiro graus",
+"na face e nos membros superiores"
+]
+
+Explanation:
+
+* 13:41: time expression indicating the time the alert was given.
+* segundo e terceiro graus: time expression indicating the degree of burns the victim suffered.
+* na face e nos membros superiores: time expression indicating the location of the burns on the victim's body.

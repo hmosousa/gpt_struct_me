@@ -1,0 +1,1 @@
+["1995", "20,000 marks (dlrs 11,000)", "Friday", "twice", "September"]

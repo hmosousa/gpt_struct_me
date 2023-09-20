@@ -1,0 +1,19 @@
+[
+["Orkem S.A.", "Date"],
+["470 pence", "Time"],
+["$7.43", "Time"],
+["301 million", "Duration"],
+["Wednesday", "Date"],
+["last Wednesday", "Date"],
+["Orkem Coatings U.K. Ltd.", "Set"],
+["internal resources", "Duration"]
+]
+
+Explanation:
+
+1. "Orkem S.A." is a date, as it refers to a specific entity.
+2. "470 pence" and "$7.43" are both time expressions, as they represent specific amounts of money.
+3. "301 million" is a duration expression, as it represents a specific amount of time (one week).
+4. "Wednesday" and "last Wednesday" are both date expressions, as they refer to specific days of the week.
+5. "Orkem Coatings U.K. Ltd." is a set expression, as it refers to a specific group of entities (Orkem's British subsidiary).
+6. "internal resources" is a duration expression, as it represents a specific amount of time (the amount of time it takes for Orkem to fund the acquisition).

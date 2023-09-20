@@ -1,0 +1,27 @@
+[
+["GNR", "Organization"],
+["A Unidade de Controlo Costeiro", "Organization"],
+["crustáceos", "Object"],
+["enguia-europeia", "Object"],
+["205 quilos", "Quantity"],
+["20 quilos", "Quantity"],
+["2.765 euros", "Quantity"],
+["quinta-feira", "Location"],
+["patrulhamento fluvial", "Object"],
+["convenção sobre o comércio internacional das espécies da fauna e da flora silvestres ameaçadas de extinção", "Object"],
+["coima máxima", "Quantity"]
+]
+
+Explanation:
+
+* GNR is a participant and is classified as an Organization.
+* A Unidade de Controlo Costeiro is a participant and is classified as an Organization.
+* crustáceos and enguia-europeia are participants and are classified as Objects.
+* 205 quilos and 20 quilos are participants and are classified as Quantities.
+* 2.765 euros is a participant and is classified as a Quantity.
+* quinta-feira is a participant and is classified as a Location.
+* patrulhamento fluvial is a participant and is classified as an Object.
+* convenção sobre o comércio internacional das espécies da fauna e da flora silvestres ameaçadas de extinção is a participant and is classified as an Object.
+* coima máxima is a participant and is classified as a Quantity.
+
+Note: In this task, the output is a list of participants and their classes, where each element is a list of two strings: the entity and the class. The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.

@@ -1,0 +1,10 @@
+[
+  ["First Security Corp.", "State"],
+  ["First Security Corp.", "Occurrence"],
+  ["First Security Corp.", "Reporting"],
+  ["First Security Corp.", "Perception"],
+  ["First Security Corp.", "Aspectual"],
+  ["First Security Corp.", "Intensional Action"],
+  ["First Security Corp.", "Intensional State"]
+]
+

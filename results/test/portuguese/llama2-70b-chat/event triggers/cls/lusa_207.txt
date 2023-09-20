@@ -1,0 +1,49 @@
+[
+["Dois feridos", "State"],
+["Dois homens", "State"],
+["ficaram feridos", "Occurrence"],
+["uma deles com gravidade", "Aspectual"],
+["na terça-feira à noite", "Reporting"],
+["na sequência de uma desordem", "Intensional Action"],
+["no Bairro do Casal dos Machados", "Location"],
+["em Lisboa", "Location"],
+["De acordo com a fonte", "Intensional State"],
+["a desordem", "State"],
+["envolveu várias pessoas e armas de fogo", "State"],
+["terá começado", "Aspectual"],
+["alongside the gasoline pumps of Avenida Infante D. Henrique", "Location"],
+["e terminou", "Occurrence"],
+["no Largo Maria Judite de Carvalho", "Location"],
+["no Casal dos Machados", "Location"],
+["na freguesia do Parque das Nações", "Location"],
+["“Na sequência da desordem”,", "Intensional Action"],
+["um homem de 33 anos ficou ferido", "State"],
+["com gravidade", "Aspectual"],
+["e foi transportado de ambulância ao Hospital de Santa Maria", "Occurrence"],
+["O ferido ligeiro", "State"],
+["de 22 anos", "State"],
+["deslocou-se ao mesmo hospital", "Occurrence"],
+["por seus próprios meios", "Intensional Action"],
+["No local", "Location"],
+["foram encontrados", "State"],
+["um cartucho de arma de fogo", "State"],
+["“Três viaturas ficaram danificadas", "State"],
+["devido também a disparos de arma de fogo", "State"],
+["O alerta para a desordem foi dado", "Reporting"],
+["às 21:49", "Time"],
+["A investigação ficou a cargo da Polícia Judiciária", "Intensional State"]
+]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a JSON-parseable list, where each element is a list with two strings: the entity and the class.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* The entity can be a word, a phrase, or a sentence.
+* The class should be the appropriate one based on the meaning of the entity.
+* Some entities may have more than one possible class, but you should choose the most appropriate one based on the context.
+* Some entities may be difficult to classify, but you should do your best to assign a class based on the meaning of the entity.
+* You can use the context of the surrounding entities to help you classify an entity.
+* You can also use your knowledge of the language and the domain to help you classify an entity.
+* The output should be in the format of a JSON-parseable list, where each element is a list with two strings: the entity and the class.
+* The list should be sorted alphabetically by entity.

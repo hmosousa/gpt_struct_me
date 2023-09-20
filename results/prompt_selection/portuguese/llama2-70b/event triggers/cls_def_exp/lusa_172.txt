@@ -1,0 +1,1 @@
+[["Corpo", "State"], ["homem", "Occurrence"], ["encontrado", "Reporting"], ["mar", "Aspectual"], ["Lagoa", "Intensional Action"]]

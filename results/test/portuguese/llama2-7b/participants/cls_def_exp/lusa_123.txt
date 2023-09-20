@@ -1,0 +1,23 @@
+[["Criança ferida", "Per"], ["em acidente na autoestrada do Norte", "Loc"], ["morreu no hospital", "Per"], ["GNR", "Org"], ["A criança", "Per"], ["de 12 anos", "Per"], ["que", "Per"], ["tinha ficado ferida", "Per"], ["com gravidade", "Per"], ["num acidente", "Loc"], ["ocorrido na autoestrada", "Loc"], ["no Norte", "Loc"], ["na zona de São João da Talha", "Loc"], ["Loures", "Loc"], ["no sábado à noite", "Loc"], ["ao quilómetro quatro", "Loc"], ["da autoestrada do Norte", "Loc"], ["no sentido Norte/Sul", "Loc"], ["envolveu", "Loc"], ["três ligeiros", "Loc"], ["e provocou", "Loc"], ["outros quatro feridos", "Per"], ["todos sem gravidade", "Per"], ["antes", "Per"], ["de fonte", "Per"], ["do Comando Geral", "Org"], ["da GNR", "Org"], ["a criança", "Per"], ["de 12 anos", "Per"], ["ficou encarcerada", "Per"], ["numa das viaturas", "Loc"], ["envolvidas no acidente", "Loc"], ["e foi", "Per"], ["posteriormente", "Per"], ["transportada para o hospital", "Per"], ["o trânsito", "Loc"], ["chegou a estar", "Loc"], ["cortado", "Loc"], ["mas pelas", "Loc"], ["23:30", "Loc"], ["de sábado", "Loc"], ["já circulava", "Loc"], ["pela faixa lateral", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Crianças de 10 anos são vítimas de acidente na autoestrada do Norte
+Um acidente na autoestrada do Norte, na zona de São João da Talha, Loures, no sábado à noite, deixou duas crianças de 10 anos feridas, uma delas gravemente.
+A criança de 10 anos que ficou gravemente ferida foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida com gravidade, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi transportada para o hospital, informou à Lusa a GNR.
+A criança de 10 anos que ficou ferida, foi

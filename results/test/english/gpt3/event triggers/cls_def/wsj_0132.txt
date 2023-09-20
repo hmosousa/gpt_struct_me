@@ -1,0 +1,1 @@
+[["jumped", "Occurrence"], ["gained", "State"], ["had", "Aspectual"], ["reflect", "Intensional Action"], ["disposal", "Occurrence"], ["had", "Aspectual"], ["restructuring", "Occurrence"], ["cut", "Intensional Action"], ["helped", "Intensional Action"], ["was", "Aspectual"], ["were", "Aspectual"], ["changed", "State"]]

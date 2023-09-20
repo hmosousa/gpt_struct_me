@@ -1,0 +1,1 @@
+["third-quarter", "Hurricane Hugo", "$40 million", "results", "fourth-quarter", "$10 million"]

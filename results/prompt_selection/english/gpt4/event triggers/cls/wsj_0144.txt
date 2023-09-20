@@ -1,0 +1,19 @@
+[
+["rose", "Occurrence"],
+["stemming", "State"],
+["reduced", "Occurrence"],
+["advanced", "Occurrence"],
+["including", "Reporting"],
+["declined", "Occurrence"],
+["estimated", "Reporting"],
+["will result", "Intensional Action"],
+["fell", "Occurrence"],
+["lost", "Occurrence"],
+["compared", "Reporting"],
+["posted", "Reporting"],
+["compared", "Reporting"],
+["was", "State"],
+["compared", "Reporting"],
+["included", "Reporting"],
+["charge", "Occurrence"]
+]

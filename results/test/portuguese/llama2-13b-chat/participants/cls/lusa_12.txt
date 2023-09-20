@@ -1,0 +1,20 @@
+[
+["Autoridade Marítima Nacional", "Organization"],
+["homem", "Person"],
+["Foz de Odeleite", "Location"],
+["Castro Marim", "Location"],
+["Vila Real de Santo António", "Location"],
+["Polícia Marítima", "Organization"],
+["Estação Salva-vidas", "Organization"],
+["Centro de Coordenação de Busca e Salvamento Marítimo de Lisboa", "Organization"],
+["Lusa", "Organization"]
+]
+
+Explanation:
+
+* Autoridade Marítima Nacional is an organization.
+* Homem is a person.
+* Foz de Odeleite and Castro Marim are locations.
+* Vila Real de Santo António is a location.
+* Polícia Marítima, Estação Salva-vidas, and Centro de Coordenação de Busca e Salvamento Marítimo de Lisboa are organizations.
+* Lusa is an organization.

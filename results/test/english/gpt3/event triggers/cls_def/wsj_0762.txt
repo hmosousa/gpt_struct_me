@@ -1,0 +1,1 @@
+[["declared", "State"], ["payable", "Occurrence"], ["recognizes", "Perception"], ["squeezed", "Aspectual"], ["confident", "Intensional State"], ["rose", "Intensional Action"]]

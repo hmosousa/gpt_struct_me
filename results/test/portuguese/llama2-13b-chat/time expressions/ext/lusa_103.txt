@@ -1,0 +1,17 @@
+[
+"3 dias",
+"3 anos e 7 meses",
+"8 anos",
+"um homem fugiu para Sonora",
+"imediatamente detido e enviado para Hidalgo",
+"uma grande dor"
+]
+
+Explanation:
+
+* 3 dias: "domingo"
+* 3 anos e 7 meses: "3 anos e 7 meses"
+* 8 anos: "8 anos"
+* um homem fugiu para Sonora: "fugiu para Sonora"
+* imediatamente detido e enviado para Hidalgo: "imediatamente detido e enviado para Hidalgo"
+* uma grande dor: "uma grande dor"

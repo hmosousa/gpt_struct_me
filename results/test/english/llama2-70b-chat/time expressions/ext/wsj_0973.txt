@@ -1,0 +1,12 @@
+[
+"next year",
+"three years",
+"1988",
+"20 months",
+"the past 20 months",
+"GNP",
+"this year",
+"the 1990s",
+"near-term",
+"the near future"
+]

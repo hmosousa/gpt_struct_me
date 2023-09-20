@@ -1,0 +1,12 @@
+["$1.20 a share", "about $3.1 million", "plans to run the company", "the transaction has been approved by Kyle's board", "requires the approval of the company's shareholders"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "$1.20 a share" (specific point in time)
+* "about $3.1 million" (specific point in time)
+* "plans to run the company" (future time)
+* "the transaction has been approved by Kyle's board" (past time)
+* "requires the approval of the company's shareholders" (future time)
+
+Note that the output is a JSON-parseable list of strings, where each string represents a single time expression.

@@ -1,0 +1,36 @@
+[
+"Prisão preventiva",
+"60 anos",
+"terça-feira",
+"Trofa",
+"distrito do Porto",
+"GNR",
+"NIAVE",
+"Porto",
+"medo",
+"amazes de morte",
+"local desconhecido",
+"problemas psiquiátricos",
+"crime",
+"antecedentes criminais",
+"prisão preventiva",
+"quarta-feira",
+"Tribunal Judicial de Matosinhos",
+"medida de coação",
+"reforço do Posto Territorial"
+]
+Explanation:
+The task is to extract all time expressions from the given text. Time expressions are linguistic elements that allow us to communicate information about time, such as specific points in time, time periods, and units of time.
+In this text, the following time expressions can be identified:
+* "terça-feira" (Thursday)
+* "segunda-feira" (Monday)
+* "quarta-feira" (Tuesday)
+* "meses" (months)
+* "anos" (years)
+* "segundos" (seconds)
+* "minutos" (minutes)
+* "horas" (hours)
+* "dias" (days)
+* "semanas" (weeks)
+
+The output should be a JSON-parseable list of strings, where each string represents a time expression found in the input text.

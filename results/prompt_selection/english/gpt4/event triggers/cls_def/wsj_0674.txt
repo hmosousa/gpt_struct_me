@@ -1,0 +1,14 @@
+[
+["intends to seek control", "Intensional Action"],
+["didn't elaborate", "Occurrence"],
+["declined further comment", "Occurrence"],
+["currently holds", "State"],
+["reported", "Reporting"],
+["reflecting", "Aspectual"],
+["made", "Occurrence"],
+["viewed", "Perception"],
+["feels", "Perception"],
+["wouldn't say", "Occurrence"],
+["is involved", "State"],
+["opened", "Occurrence"]
+]

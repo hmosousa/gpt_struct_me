@@ -1,0 +1,6 @@
+[
+"segunda-feira",
+"madrugada",
+"05:30",
+"paragem cardiorrespiratória"
+]

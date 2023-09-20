@@ -1,0 +1,53 @@
+[
+["last Wednesday", "Date"],
+["301 million", "Amount"],
+["53.2%", "Percentage"],
+["internal resources", "Duration"],
+["related Orkem businesses", "Set"]
+]
+
+Explanation:
+last Wednesday - Date
+301 million - Amount
+53.2% - Percentage
+internal resources - Duration
+related Orkem businesses - Set
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+
+In this task, you are given a text containing temporal expressions and are asked to extract and classify them into four classes: Date, Time, Duration, and Set. The input text is:
+
+"Orkem S.A., a French state-controlled chemical manufacturer, is making a friendly bid of 470 pence ($7.43) a share for the 59.2% of U.K. specialty chemical group Coates Brothers PLC which it doesn't already own, the two sides said.
+The offer, which values the whole of Coates at #301 million, has already been accepted by Coates executives and other shareholders owning 12.4% of the company. The acceptances give Orkem a controlling 53.2% stake in the company.
+Orkem and Coates said last Wednesday that the two were considering a merger, through Orkem's British subsidiary, Orkem Coatings U.K. Ltd.
+Orkem, France's third-largest chemical group, said it would fund the acquisition through internal resources. The takeover would be followed by a restructuring of Orkem's U.K. unit, including the addition of related Orkem businesses and possibly further acquisitions. Orkem said it eventually would seek to make a public share offering in its U.K. business."
+
+Your task is to extract and classify all temporal expressions in the text. The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+
+The classes are:
+
+* Date: A specific point in time, such as a day, month, or year.
+* Time: A specific time of day, such as hours, minutes, or seconds.
+* Duration: A period of time, such as days, weeks, months, or years.
+* Set: A collection of items, such as a group of people or a list of objects.
+
+The input text contains the following temporal expressions:
+
+* last Wednesday (Date)
+* 301 million (Amount)
+* 53.2% (Percentage)
+* internal resources (Duration)
+* related Orkem businesses (Set)
+
+The output for this task should be:
+
+[
+["last Wednesday", "Date"],
+["301 million", "Amount"],
+["53.2%", "Percentage"],
+["internal resources", "Duration"],
+["related Orkem businesses", "Set"]
+]
+
+Note that the output format is a JSON-parseable list, and the first element in each sublist is the entity, and the second is the class.

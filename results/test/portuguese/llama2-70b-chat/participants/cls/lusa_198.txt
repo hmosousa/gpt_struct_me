@@ -1,0 +1,18 @@
+[
+["Grua de camião", "Object"],
+["homem de 52 anos", "Person"],
+["Um homem de 52 anos", "Person"],
+["outro homem", "Person"],
+["poste de eletricidade", "Object"],
+["Rua da Constituição", "Location"],
+["PSP", "Organization"],
+["Comando Metropolitano da PSP do Porto", "Organization"],
+["Hospital de Santo António", "Facility"],
+["bombas de gasolina", "Object"],
+["Câmara do Porto", "Organization"],
+["Empresa Municipal de Ambiente do Porto", "Organization"],
+["processo de averiguação interna", "Other"]
+]
+
+Note:
+The task is to extract and classify all participants in the text, including entities that are not explicitly mentioned but can be inferred from the context. The output should be a JSON-parseable list where each element is a list with two strings: the first string is the entity and the second is the class. The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.

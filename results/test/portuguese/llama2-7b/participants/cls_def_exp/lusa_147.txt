@@ -1,0 +1,15 @@
+[["O segundo dia", "Obj"], ["de debate", "Per"], ["na generalidade", "Per"], ["do Orçamento", "Per"], ["do Estado", "Per"], ["para 2021", "Per"], ["com cinco minutos", "Per"], ["de atraso", "Per"], ["devido à ausência", "Per"], ["dos membros", "Per"], ["do Governo", "Per"], ["O segundo dia", "Obj"], ["de debate", "Per"], ["na generalidade", "Per"], ["do Orçamento", "Per"], ["do Estado", "Per"], ["para 2021", "Per"], ["com cinco minutos", "Per"], ["de atraso", "Per"], ["devido à ausência", "Per"], ["dos membros", "Per"], ["do Governo", "Per"], ["às 10:11", "Loc"], ["o primeiro-ministro", "Per"], ["António Costa", "Per"], ["chegou", "Per"], ["e", "Per"], ["os ministros", "Per"], ["rearrumarem", "Per"], ["as cadeiras", "Loc"], ["na bancada", "Loc"], ["do Governo", "Per"], ["entre eles", "Per"], ["Ana Gomes Godinho", "Per"], ["Trabalho", "Per"], ["João Pedro Matos Fernandes", "Per"], ["Ambiente", "Per"], ["o titular", "Per"], ["das Finanças", "Per"], ["comencou", "Per"], ["a discursar", "Per"], ["um minuto depois", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"OE2021: Deputados esperaram pelo Governo para começar segundo dia de debate
+O segundo dia de debate, na generalidade, do Orçamento do Estado para 2021 começou hoje no parlamento com cinco minutos de atraso, devido à ausência dos membros do Governo.
+Depois de lido o expediente, às 10:11 o presidente da Assembleia da República, Ferro Rodrigues, anunciava que iria dar-se início ao debate, não fosse os membros do executivo não estarem presentes na sala.
+“Assim que chegarem, começaremos de imediato o debate”, disse.
+Seguiram-se cinco minutos de espera, pouco habitual neste tipo de debate, com os deputados em conversa no hemiciclo.
+Eram 10:11 quando o primeiro-ministro, António Costa, chegou e, depois os ministros rearrumarem as cadeiras na bancada do Governo, entre eles Ana Gomes Godinho, Trabalho, e João Pedro Matos Fernandes, Ambiente, o titular das Finanças começou a discursar um minuto depois."
+
+Output:
+[["O segundo dia", "Obj"], ["de debate", "Per"], ["na generalidade", "Per"], ["do Orçamento", "Per"], ["do Estado", "Per"], ["para 2021", "Per"], ["com cinco minutos", "Per"], ["de atraso", "Per"], ["devido à ausência", "Per"], ["dos membros", "Per"], ["do Governo", "Per"], ["O segundo dia", "Obj"], ["de debate", "Per"], ["na generalidade", "Per"], ["do Orçamento", "Per"], ["do Estado", "Per"], ["para 2021", "Per"], ["com cinco minutos", "Per"], ["de atraso", "Per"], ["devido à ausência", "Per"], ["dos membros", "Per"], ["do Governo", "Per"], ["às 10:11", "Loc"], ["o primeiro-ministro", "Per"], ["António Costa", "Per"], ["chegou", "Per"], ["e", "Per"], ["os ministros", "Per"], ["rearrumarem", "Per"], ["as cadeiras", "Loc"], ["na bancada", "Loc"], ["do Governo", "Per"], ["entre eles

@@ -1,0 +1,1 @@
+[["Trustcorp Inc.", "State"], ["Society Bank amp Trust", "State"], ["merger", "Occurrence"], ["Society Corp.", "State"], ["June", "Reporting"], ["Trustcorp", "State"], ["12.4 million shares of stock", "Aspectual"], ["$450 million", "Aspectual"], ["transaction", "Occurrence"], ["close", "Intensional Action"], ["year end", "Intensional State"]]

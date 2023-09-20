@@ -1,0 +1,5 @@
+["agreed", "paid", "cash", "million", "convertible", "debentures", "common", "shares", "acquire", "closely", "held", "Kofcoh", "Imports", "Inc.", "over-the-counter", "trading", "Friday", "Jayark", "quoted", "bid", "down", "15.625", "cents", "transaction", "total", "indicated", "value", "million", "Koffman", "president", "chief", "executive", "officer", "Jayark", "New", "York", "holding", "company", "Rosalco", "imports", "furniture", "items", "David", "Koffman", "president", "chief", "executive", "officer", "Jayark", "New", "York", "distributes", "rents", "audio-visual", "equipment", "prints", "promotional", "ads", "retailers", "quarter", "ended", "July", "31", "average", "5.6", "million", "shares", "outstanding", "transaction", "subject", "approval", "panel", "disinterested", "directors", "shareholder", "approval", "isn't", "needed"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+

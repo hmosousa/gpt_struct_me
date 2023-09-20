@@ -1,0 +1,4 @@
+["later this year", "third quarter of 1984", "a year ago"]
+
+Explanation:
+The input text contains three temporal expressions: "later this year", "third quarter of 1984", and "a year ago". These expressions are extracted and returned in a JSON-parseable list of strings.

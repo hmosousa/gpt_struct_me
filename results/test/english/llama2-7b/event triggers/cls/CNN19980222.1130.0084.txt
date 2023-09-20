@@ -1,0 +1,2 @@
+[["CNN headline news", "State"], ["I'm Sachi Koto", "Occurrence"], ["Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "Reporting"], ["A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough", "Perception"], ["but added it's not done yet", "Aspectual"], ["Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "Intensional Action"], ["He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "Intensional State"]]
+

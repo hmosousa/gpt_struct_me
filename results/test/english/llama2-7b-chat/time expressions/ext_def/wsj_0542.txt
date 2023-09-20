@@ -1,0 +1,4 @@
+[
+"until", "5 p.m.", "Nov. 6", "midnight", "Friday", "Delaware Chancery Court", "Telerate", "Dow Jones", "New York Stock Exchange", "Big Board", "fair", "negotiations", "terms", "offer"]
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression found in the input text. The time expressions are extracted based on the definition provided in the task.

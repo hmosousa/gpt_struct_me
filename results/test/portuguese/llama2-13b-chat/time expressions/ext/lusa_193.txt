@@ -1,0 +1,38 @@
+[
+"perto do meio-dia",
+"meio-dia",
+"aliás",
+"em Lisboa",
+"hoje",
+"outro indivíduo",
+"no local",
+"reanimação cardiorrespiratória",
+"se atirou à água",
+"viu o homem em dificuldades",
+"aliás",
+"INEM",
+"Hospital de São José"
+]
+
+Note:
+
+* "perto do meio-dia" and "meio-dia" are the same expression, so only one of them should be included in the output.
+* "aliás" is not a time expression, so it should not be included in the output.
+* "em Lisboa" is not a time expression, so it should not be included in the output.
+* "hoje" is not a time expression, so it should not be included in the output.
+* "outro indivíduo" is not a time expression, so it should not be included in the output.
+* "no local" is not a time expression, so it should not be included in the output.
+* "reanimação cardiorrespiratória" is not a time expression, so it should not be included in the output.
+* "se atirou à água" is not a time expression, so it should not be included in the output.
+* "viu o homem em dificuldades" is not a time expression, so it should not be included in the output.
+
+Explanation:
+
+Time expressions are words or phrases that indicate time, such as "today", "yesterday", "tomorrow", "morning", "afternoon", "evening", "noon", "midnight", "hour", "minutes", "seconds", etc.
+
+In the given text, the time expressions are:
+
+* "perto do meio-dia" (near noon)
+* "meio-dia" (noon)
+
+These expressions indicate the time when the event occurred, so they should be included in the output. The other expressions are not time expressions, so they should not be included in the output.

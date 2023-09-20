@@ -1,0 +1,23 @@
+["hoje", "21:00 em Lisboa", "16:00 locais"]
+
+Note:
+The input text may contain other temporal expressions not in this list.
+
+Hint:
+You can use the following code to extract temporal expressions:
+
+import re
+
+temporal_expressions = re.findall(r"(\d{1,2} de (\w+))|(\w+ \d{4})", text)
+
+This code uses regular expressions to find all occurrences of temporal expressions in the input text. The first part of the regular expression, r"(\d{1,2} de (\w+))", matches any sequence of one or two digits followed by the word for a month or day of the week in the language of the text (e.g., "14 de fevereiro" or "2 de setembro"). The second part, r"(\w+ \d{4})", matches any word for a year (e.g., "2022").
+
+The re.findall() function returns a list of all matches.
+
+You can then use a list comprehension to extract the temporal expressions from the list of matches:
+
+temporal_expressions = [match[0] for match in matches]
+
+This will give you a list of all temporal expressions in the input text.
+
+Note that this code is just a suggestion, and you may need to modify it to fit the specific requirements of your task.

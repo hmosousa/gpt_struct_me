@@ -1,0 +1,21 @@
+[
+["Soumaila Cissé", "State"],
+["Soumaila Cissé", "Occurrence"],
+["Soumaila Cissé", "Reporting"],
+["Soumaila Cissé", "Perception"],
+["Soumaila Cissé", "Aspectual"],
+["Soumaila Cissé", "Intensional Action"],
+["Soumaila Cissé", "Intensional State"]
+]
+
+Explanation:
+
+* "Soumaila Cissé" is a State, as it refers to the person's current status (deceased).
+* "Soumaila Cissé" is an Occurrence, as it refers to the event of his death.
+* "Soumaila Cissé" is a Reporting, as it refers to the act of reporting on his death.
+* "Soumaila Cissé" is a Perception, as it refers to the perception of his death by others.
+* "Soumaila Cissé" is an Aspectual, as it refers to the aspect of his death (i.e. the fact that he died).
+* "Soumaila Cissé" is an Intensional Action, as it refers to the action of his death (i.e. the act of dying).
+* "Soumaila Cissé" is an Intensional State, as it refers to the state of being dead.
+
+Note that the same entity can be classified under multiple classes, as different aspects of the entity can be relevant to different classes.

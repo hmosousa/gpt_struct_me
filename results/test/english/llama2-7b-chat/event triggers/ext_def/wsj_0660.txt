@@ -1,0 +1,11 @@
+[
+"agreed",
+"owns",
+"approved",
+"pact",
+"tender offer",
+"sale",
+"liabilities",
+"distribution",
+"transaction"
+]

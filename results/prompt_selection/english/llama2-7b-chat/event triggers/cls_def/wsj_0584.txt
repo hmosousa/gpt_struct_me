@@ -1,0 +1,9 @@
+[
+"Event": "State",
+"Event": "Occurrence",
+"Event": "Reporting",
+"Event": "Perception",
+"Event": "Aspectual",
+"Event": "Intensional Action",
+"Event": "Intensional State"
+]

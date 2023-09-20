@@ -1,0 +1,11 @@
+[
+"PJ",
+"Polícia Judiciária",
+"Gandarela",
+"Celorico de Basto",
+"Braga",
+"INEM",
+"Cruz Vermelha",
+"Guimarães",
+"morgue"
+]

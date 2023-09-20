@@ -1,0 +1,39 @@
+[
+["Automóvel", "Object"],
+["atropela", "Nature"],
+["pessoas", "Person"],
+["manifestação", "Event"],
+["Black Lives Matter", "Organization"],
+["Manhattan", "Location"],
+["Nova Iorque", "Location"],
+["Estados Unidos", "Location"],
+["polícia", "Organization"],
+["NYPD", "Organization"],
+["condutor", "Person"],
+["automóvel", "Object"],
+["porta-voz", "Person"],
+["incidente", "Event"],
+["bombeiros", "Organization"],
+["ambulâncias", "Object"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person or group of people, including their roles, titles, and descriptions.
+* Organization: A company, institution, or group that is involved in the text.
+* Object: A physical object or entity that is mentioned in the text.
+* Location: A place or location that is mentioned in the text.
+* Nature: A natural entity or phenomenon that is mentioned in the text.
+* Facility: A building, structure, or other man-made entity that is mentioned in the text.
+* Other: Any entity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
+
+For example, in the given input text, "Automóvel" would be classified as "Object", and "Black Lives Matter" would be classified as "Organization".
+
+Note that the input text is in Portuguese, but the output should be in English.

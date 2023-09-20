@@ -1,0 +1,19 @@
+[
+["Jim Pattison Industries Ltd.", "State"],
+["Innopac Inc.", "Occurrence"],
+["Jim Pattison Industries Ltd.", "Reporting"],
+["Innopac Inc.", "Perception"],
+["Jim Pattison Industries Ltd.", "Aspectual"],
+["Innopac Inc.", "Intensional Action"],
+["Jim Pattison Industries Ltd.", "Intensional State"]
+]
+
+Explanation:
+
+1. "Jim Pattison Industries Ltd." is a State entity, as it is a company that owns other companies.
+2. "Innopac Inc." is an Occurrence entity, as it is a specific event that has happened (the company seeking control).
+3. "Jim Pattison Industries Ltd." is a Reporting entity, as it is reporting on its intentions.
+4. "Innopac Inc." is a Perception entity, as it is perceived by Jim Pattison Industries Ltd. as a company to be gained control of.
+5. "Jim Pattison Industries Ltd." is an Aspectual entity, as it has aspects related to the control of Innopac Inc.
+6. "Innopac Inc." is an Intensional Action entity, as it is taking an action (seeking control).
+7. "Jim Pattison Industries Ltd." is an Intensional State entity, as it is in a state of intending to seek control.

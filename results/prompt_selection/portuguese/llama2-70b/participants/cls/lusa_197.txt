@@ -1,0 +1,19 @@
+[['homem', 'Person'], ['poste', 'Object'], ['camão', 'Vehicle'], ['Rua da Constituição', 'Location'], ['Porto', 'City'], ['PSP', 'Organization'], ['Comando Metropolitano', 'Facility'], ['Santo António', 'Hospital'], ['bombas de gasolina', 'Nature']]
+"""
+import re
+from nltk import word_tokenize
+
+def extract(text):
+   """Extracts all entities from the text and returns them as a list of strings"""
+   # TODO: Implement this function
+   return []
+
+def classify(entities):
+   """Classifies each entity in the given list into one of the following classes: Person, Organization, Object, Location, Nature, Facility, Other. Returns a list where each element is a list with two strings. The first string is the entity and the second is the class."""
+   # TODO: Implement this function
+   return []
+
+if __name__ == "__main__":
+   print("Testing...")
+   assert len(extract('')) == 0
+   assert len(classify([1])) == 0

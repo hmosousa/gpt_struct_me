@@ -1,0 +1,3 @@
+["about 18%", "16.2%", "20%", "one day", "37.5 cents", "close at $2.75", "when", "on a roll", "take the company private"]
+Note:
+The output is a list of time expressions in the input text. Each time expression is a JSON-parseable string.

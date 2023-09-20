@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Vila Nova de Gaia", "Location"],
+["Gulpilhares", "Location"],
+["Santos Silva", "Facility"],
+["Vila de Gaia", "Location"],
+["Porto", "Location"],
+["Valadares", "Location"],
+["Polícia Judiciária", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a person, so it belongs to the "Person" class.
+* "Vila Nova de Gaia" and "Gulpilhares" are locations, so they belong to the "Location" class.
+* "Santos Silva" is a facility, so it belongs to the "Facility" class.
+* "Vila de Gaia" and "Porto" are locations, so they belong to the "Location" class.
+* "Valadares" is a location, so it belongs to the "Location" class.
+* "Polícia Judiciária" is an organization, so it belongs to the "Organization" class.
+
+Note that the classes used in this task are not exhaustive, and you may encounter other classes in real-world data.

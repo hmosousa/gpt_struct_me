@@ -1,0 +1,1 @@
+["this week", "the next three quarters", "the first nine months"]

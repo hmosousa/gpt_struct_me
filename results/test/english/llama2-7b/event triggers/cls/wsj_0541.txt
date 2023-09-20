@@ -1,0 +1,10 @@
+[
+  ["Automatic Data Processing Inc.", "State"],
+  ["Automatic Data Processing Inc.", "Occurrence"],
+  ["Automatic Data Processing Inc.", "Reporting"],
+  ["Automatic Data Processing Inc.", "Perception"],
+  ["Automatic Data Processing Inc.", "Aspectual"],
+  ["Automatic Data Processing Inc.", "Intensional Action"],
+  ["Automatic Data Processing Inc.", "Intensional State"]
+]
+

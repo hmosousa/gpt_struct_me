@@ -1,0 +1,48 @@
+["Kosovo", "State"], ["Serbian province", "Occurrence"], ["offensive", "Reporting"], ["security forces", "Perception"], ["villages", "Aspectual Action"], ["ethnic Albanians", "Intensional State"]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.cluster import KMeans
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import normalize
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.svm import LinearSVC
+from sklearn.neighbors import NearestNeighbors
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.kernel_approximation import Nystroem
+from sklearn.externals import joblib
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+from sklearn.metrics import confusion_matrix
+import re
+import string
+import os
+import sys
+import time
+import random
+import pickle
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
+
+# Load the data
+data = json.load(open("../data/events.json", "r"))
+train_data = []
+test_data = []
+for i in range(len(data)):
+   if i < 20:
+       test_data.append([])
+       for

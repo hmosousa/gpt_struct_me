@@ -1,0 +1,24 @@
+[
+["Bruce R. Bent", "State"],
+["The Reserve Fund", "Occurrence"],
+["the money-fund concept", "Reporting"],
+["the creation of the money fund", "Occurrence"],
+["Harry Brown", "Perception"],
+["telephone redemptions", "Aspectual"],
+["daily dividends", "Aspectual"],
+["total elimination of share certificates", "Aspectual"],
+["the constant $1 pershare pricing", "Aspectual"],
+["the SEC", "Intensional Action"]
+]
+
+Explanation:
+
+* "Bruce R. Bent" is a State entity because it refers to a person's name.
+* "The Reserve Fund" is an Occurrence entity because it refers to an event or happening.
+* "the money-fund concept" is a Reporting entity because it refers to information or a concept that is being reported on.
+* "the creation of the money fund" is an Occurrence entity because it refers to an event or happening.
+* "Harry Brown" is a Perception entity because it refers to a person's name and implies a personal perspective or opinion.
+* "telephone redemptions", "daily dividends", "total elimination of share certificates", and "the constant $1 pershare pricing" are all Aspectual entities because they refer to aspects or features of the money fund.
+* "the SEC" is an Intensional Action entity because it refers to an action or activity that is being performed by a person or organization, in this case, the Securities and Exchange Commission.
+
+Note that some entities may fit into multiple categories, but for the purposes of this task, we are only assigning a single category to each entity.

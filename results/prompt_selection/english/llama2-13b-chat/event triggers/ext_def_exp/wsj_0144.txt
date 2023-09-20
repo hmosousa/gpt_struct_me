@@ -1,0 +1,4 @@
+["Hurricane Hugo", "California earthquake", "third-quarter net income", "earnings from commercial property/casualty lines", "personal property/casualty business", "employee benefits group", "group health insurance operations", "first nine months", "1988 period", "underperforming real estate and mortgage loans"]
+
+Explanation:
+The output is a list of all the event triggers found in the input text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "Hurricane Hugo" or "California earthquake". The list includes all the event triggers found in the input text, in the order they appear.

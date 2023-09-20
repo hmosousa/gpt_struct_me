@@ -1,0 +1,1 @@
+[["estimated", "REPORTING"], ["fell", "OCCURRENCE"], ["said", "REPORTING"], ["result", "OCCURRENCE"], ["earned", "REPORTING"], ["attributed", "REPORTING"], ["said", "REPORTING"], ["phasing out", "OCCURRENCE"], ["built", "OCCURRENCE"]]

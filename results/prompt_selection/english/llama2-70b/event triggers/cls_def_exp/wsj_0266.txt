@@ -1,0 +1,36 @@
+["was", "Occurrence"], ["note", "Perception"], ["recognized", "Aspectual"], ["money-fund", "State"], ["concept", "Intensional Action"], ["one", "Reporting"], ["significant", "Reporting"], ["events", "Reporting"], ["past", "Reporting"], ["century", "Reporting"], ["listed", "Occurrence"], ["creation", "Occurrence"], ["world", "Reporting"], ["finance", "Reporting"], ["named", "Occurrence"], ["innovated", "Occurrence"], ["redemption", "Occurrence"], ["dividend", "Occurrence"], ["elimination", "Occurrence"], ["pricing", "Occurrence"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load data from file
+with open('data/event_triggers.json', 'r') as f:
+   event_trigger = json.load(f)
+
+# Initialize dictionary to store results
+results = {}
+
+# Loop through each sentence in the corpus
+for i, sent in enumerate(event_trigger['sentences']):
+   # Tokenize and tag words
+   tokens = [word for word in word_tokenize(sent)]
+   tags = pos_tag(tokens)
+   
+   # Remove stopwords
+   filtered_tags = [(w, t) for w, t in tags if not w in set(stopwords.words())]
+   
+   # Stem all words
+   stemmed_filtered_tags = []
+   ps = PorterStemmer()
+   for w, t in filtered_tags:
+       stemmed_filtered_tags.append((ps.stem(w), t))
+       
+   # Count occurrences of each class
+   counter = Counter([t[1].split("-")[-2] for t in stemmed_filtered_tags])
+   
+   # Store result
+   results[i+1] = list(counter.items())

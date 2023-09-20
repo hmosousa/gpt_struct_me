@@ -1,0 +1,39 @@
+[
+"Belmonte",
+"GNR",
+"armas",
+"violência doméstica",
+"47 anos",
+"ex-companheira",
+"33 anos",
+"Carla",
+"álcool",
+"buscas domiciliárias",
+"carabinas de ar comprimido",
+"caçadeira",
+"reprodução de arma de fogo",
+"pistola de ar comprimido",
+"facas de ponta e mola",
+"municias de diferentes calibres",
+"Tribunal Judicial da Covilhã"
+]
+Explanation:
+The participants in this scenario are:
+
+* Belmonte: The town where the event occurred.
+* GNR: The military police that carried out the operation.
+* Armas: The weapons that were seized.
+* Violência doméstica: The domestic violence that was the reason for the operation.
+* 47 anos: The age of the suspected perpetrator.
+* Ex-companheira: The ex-partner of the suspected perpetrator.
+* 33 anos: The age of the victim.
+* Carla: The name of the victim.
+* Álcool: The substance that was used to facilitate the violence.
+* Buscas domiciliárias: The searches carried out at the suspected perpetrator's home.
+* Carabinas de ar comprimido: The type of firearm that was seized.
+* Caçadeira: The type of firearm that was seized.
+* Reprodução de arma de fogo: The reproduction of a firearm that was seized.
+* Pistola de ar comprimido: The type of firearm that was seized.
+* Facas de ponta e mola: The type of weapon that was seized.
+* Municias de diferentes calibres: The different calibres of ammunition that were seized.
+* Tribunal Judicial da Covilhã: The court where the case was remitted.

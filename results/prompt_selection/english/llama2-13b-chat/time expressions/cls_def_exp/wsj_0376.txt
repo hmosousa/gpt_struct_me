@@ -1,0 +1,18 @@
+[
+["Courtaulds Textiles", "Set"],
+["next year's first quarter", "Duration"],
+["300 million", "Set"],
+["400 million", "Set"],
+["15 pence", "Duration"],
+["362 pence", "Set"],
+["1.44 billion", "Set"],
+["March 31", "Date"],
+["50 million", "Duration"],
+["980 million", "Set"],
+["5% to 10%", "Duration"],
+["core activities", "Set"],
+["last year", "Duration"],
+["Australian financier Kerry Packer", "Person"],
+["institutional shareholders", "Set"],
+["customers and employees", "Set"]
+]

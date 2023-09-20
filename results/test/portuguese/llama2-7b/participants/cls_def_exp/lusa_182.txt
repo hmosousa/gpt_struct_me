@@ -1,0 +1,15 @@
+[["Violência doméstica", "Per"], ["Homem de Amarante", "Per"], ["com movimentos controlados", "Per"], ["vítima refugiada", "Per"], ["Um homem", "Per"], ["de Amarante", "Per"], ["indiciado", "Per"], ["por maltratar", "Per"], ["a sua mulher", "Per"], ["foi colocado", "Per"], ["sob vigilância eletrónica", "Per"], ["e proibido", "Per"], ["de se aproximar", "Per"], ["da vítima", "Per"], ["que se refugiou", "Per"], ["em casa", "Loc"], ["de outros familiares", "Loc"], ["levando a filha comum", "Per"], ["informou", "Per"], ["hoje", "Per"], ["a GNR", "Org"], ["Em comunicado", "Per"], ["aquela força policial", "Org"], ["retrata", "Per"], ["o arguido", "Per"], ["que deteve", "Per"], ["e levou", "Per"], ["ao Tribunal de Instrução Criminal em Penafiel", "Org"], ["como um", "Per"], ["“habitual consumidor de bebidas alcoólicas”", "Per"], ["Um homem", "Per"], ["de 47 anos", "Per"], ["com uma frequência quase diária", "Per"], ["insultava", "Per"], ["ameaçava", "Per"], ["e agredia física e psicologicamente", "Per"], ["a vítima", "Per"], ["sua mulher", "Per"], ["de 46 anos", "Per"], ["na presença", "Per"], ["da filha menor de ambos", "Per"], ["Nos últimos meses", "Per"], ["assinala", "Per"], ["o comunicado", "Per"], ["houve uma escalada", "Per"], ["de maus-tratos", "Per"], ["ameaças", "Per"], ["e agressões físicas", "Per"], ["pelo que a vítima", "Per"], ["e a filha", "Per"], ["tiveram de abandonar", "Per"], ["a residência", "Loc"], ["refugiando-se", "Per"], ["em casa", "Loc"], ["de familiares", "Loc"], ["O Tribunal de Instrução Criminal", "Org"], ["determinou", "Per"], ["as medidas de coação de afastamento", "Per"], ["da residência", "Per"], ["e proibição", "Per"], ["de contactar", "Per"], ["a vítima", "Per"], ["por qualquer forma ou meio", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 22 anos é preso por tentativa de estupro
+Um homem de 22 anos foi preso pela Polícia Judiciária em Lisboa, na madrugada desta quarta-feira, por tentativa de estupro, informou hoje a PJ.
+O homem, de nacionalidade portuguesa, foi detido na zona de Lisboa, na madrugada desta quarta-feira, por um agente da PJ, que o encontrou em estado de embriaguez.
+O agente, que estava acompanhado de um polícia de segurança pública, encontrou o homem em estado de embriaguez, com uma mulher de 22 anos, que estava sob a sua protecção.
+O homem, que não respondeu às perguntas da PJ, foi levado à delegação da PJ de Lisboa, onde foi detido e encarcerado.
+A PJ iniciou um inquérito para avaliar se o homem cometeu o crime de tentativa de estupro.
+A mulher, que não foi levada à delegação da PJ, foi levada a um hospital de saúde, onde foi examinada e liberada.
+A PJ não informou a identidade do homem, nem a identidade da mulher.
+A PJ informou que o homem é um habitual consumidor

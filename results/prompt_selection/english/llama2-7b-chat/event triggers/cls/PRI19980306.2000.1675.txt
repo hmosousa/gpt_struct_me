@@ -1,0 +1,30 @@
+[
+{
+"entity": "BBC",
+"class": "Reporting"
+},
+{
+"entity": "Karyn Coleman",
+"class": "Reporter"
+},
+{
+"entity": "Serbian forces",
+"class": "Action"
+},
+{
+"entity": "ethnic Albanians",
+"class": "Aspectual"
+},
+{
+"entity": "Belgrade",
+"class": "Location"
+},
+{
+"entity": "Serbia",
+"class": "Location"
+},
+{
+"entity": "Pristina",
+"class": "Location"
+}
+]

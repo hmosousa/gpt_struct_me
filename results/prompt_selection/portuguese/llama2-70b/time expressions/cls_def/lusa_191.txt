@@ -1,0 +1,1 @@
+[["Homem", "Set"], ["29 anos", "Duration"], ["hoje", "Date"], ["pelas 10:54", "Time"], ["uma arma branca", "Set"], ["zona das costas", "Set"]]

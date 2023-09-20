@@ -1,0 +1,1 @@
+[["apreendeu", "I_Action"], ["armas", "Occurrence"], ["fogo", "State"], ["ação", "Aspectual"], ["violência", "Occurrence"], ["doméstica", "Occurrence"], ["busca", "Reporting"], ["coldre", "Occurrence"], ["comprimido", "State"], ["ar", "Occurrence"], ["pistola", "Occurrence"], ["calibre", "Occurrence"], ["munições", "Occurrence"], ["factos", "Occurrence"]]

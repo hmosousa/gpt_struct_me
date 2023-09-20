@@ -1,0 +1,19 @@
+["hoje", "19:23", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract temporal expressions:
+
+import re
+
+temporal_expressions = re.findall(r"(\d{1,2}[/ ]?[a-zA-Z]{3,9})", text)
+
+This code uses regular expressions to find all sequences of one to two digits, followed by a space or slash, and then three to nine letters (to match expressions such as "1.100" or "30 nov").
+
+You can then use a list comprehension to convert the matches to a list of strings:
+
+temporal_expressions = [match.group() for match in re.finditer(r"(\d{1,2}[/ ]?[a-zA-Z]{3,9})", text)]
+
+You can also use other libraries such as spaCy or NLTK to perform this task.

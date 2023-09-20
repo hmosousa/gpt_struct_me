@@ -1,0 +1,1 @@
+["homem", "outro", "camão", "poste", "Rua da Constituição", "Porto", "PSP", "Comando Metropolitano", "Santo António"]

@@ -39,6 +39,29 @@ resources
     └── ...
 ```
 
+## Models
+
+- **GPT**: For the GPT models we use OpenAI python package and API.
+- **Falcon**: The Falcon models have to be cloned to the `resources/models` directory:
+  - git clone https://huggingface.co/tiiuae/falcon-7b-instruct
+  - git clone https://huggingface.co/tiiuae/falcon-7b
+  - git clone https://huggingface.co/tiiuae/falcon-180b
+
+### Launch inference endpoint
+
+To deply locally the models under evalaution we used HuggingFace's [`text_generation_inference`](https://github.com/huggingface/text-generation-inference). After installing all the deppencies needs to run the following command:
+
+```shell
+sudo docker run \
+  --gpus all \
+  --shm-size 1g \
+  -p 8080:80 \
+  -v $PWD/resources/models/:/data \
+  ghcr.io/huggingface/text-generation-inference:latest \
+  --model-id /data/falcon-40b \
+  --trust-remote-code 
+```
+
 ## Results
 
 The following table compares the results obtained from out-of-the-box baselines with the GPT models:

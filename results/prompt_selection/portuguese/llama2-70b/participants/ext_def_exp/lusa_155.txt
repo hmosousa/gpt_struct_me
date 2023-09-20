@@ -1,0 +1,1 @@
+["Homem", "proprietário", "restaurante", "Cajados", "Palmela", "Setúbal", "garrafa", "estabelecimento", "mulher", "automóvel"]

@@ -1,0 +1,57 @@
+[["Governo português", "Org"], ["solidário com", "Per"], ["famílias", "Per"], ["das vítimas", "Per"], ["de atentado", "Per"], ["na Alemanha", "Loc"], ["O Governo", "Org"], ["expressou", "Per"], ["a sua", "Per"], ["solidariedade", "Per"], ["para com", "Per"], ["as famílias", "Per"], ["das vítimas", "Per"], ["do atentado", "Per"], ["que aconteceu", "Per"], ["hoje", "Per"], ["na cidade", "Loc"], ["de Trier", "Loc"], ["no sudoeste", "Loc"], ["da Alemanha", "Loc"], ["de acordo", "Per"], ["com a polícia", "Org"], ["local", "Loc"], ["Através", "Org"], ["da página", "Org"], ["oficial", "Org"], ["do Twitter", "Org"], ["do Ministério", "Org"], ["dos Negócios", "Org"], ["Estrangeiros", "Org"], ["manifestou", "Per"], ["a solidariedade", "Per"], ["para com", "Per"], ["as famílias", "Per"], ["das vítimas", "Per"], ["do atentado", "Per"], ["que aconteceu", "Per"], ["naquela cidade", "Loc"], ["alemã", "Loc"], ["Desejamos", "Per"], ["a rápida", "Per"], ["recuperação", "Per"], ["dos feridos", "Per"], ["e reiteramos", "Per"], ["o apoio", "Per"], ["ao povo", "Per"], ["e autoridades", "Org"], ["da Alemanha", "Loc"], ["O motorista", "Per"], ["foi detido", "Per"], ["e o veículo", "Per"], ["apreendido", "Per"], ["segundo", "Per"], ["uma mensagem", "Org"], ["publicada", "Org"], ["pelas polícias", "Org"], ["de Trier", "Org"], ["na mesma", "Org"], ["rede social", "Org"], ["O centro", "Loc"], ["da cidade", "Loc"], ["perto", "Loc"], ["da fronteira", "Loc"], ["com o Luxemburgo", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+"""
+
+import json
+import re
+import sys
+
+from typing import List
+
+
+def parse_json(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+
+    :param json_str: The JSON string to parse.
+    :return: A list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+
+    :param json_str: The JSON string to parse.
+    :return: A list of lists of strings.
+    """
+    return parse_json(json_str)
+
+
+def parse_json_to_list_of_lists(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+
+    :param json_str: The JSON string to parse.
+    :return: A list of lists of strings.
+    """
+    return parse_json(json_str)
+
+
+def parse_json_to_list_of_lists_of_strings(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+
+    :param json_str: The JSON string to parse.
+    :return: A list of lists of strings.
+    """
+    return parse_json(json_str)
+
+
+def parse_json_to_list_of_lists_of_strings_with_classes(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string

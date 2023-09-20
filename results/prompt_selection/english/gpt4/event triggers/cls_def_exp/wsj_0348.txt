@@ -1,0 +1,12 @@
+[
+["said", "Reporting"],
+["jumped", "Occurrence"],
+["closed", "State"],
+["began trading", "Occurrence"],
+["down", "State"],
+["began trading", "Occurrence"],
+["has", "State"],
+["up", "State"],
+["reported", "Reporting"],
+["rose", "Occurrence"]
+]

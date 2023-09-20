@@ -1,0 +1,1 @@
+["homem", "ciclomotor", "veículo ligeiro", "setubal", "estrada nacional 10-8", "mitrena", "psp", "protecao civil", "cdos", "obito", "medicina legal", "hospital de sao bernardo", "palmela", "sapadores de setubal", "vmers"]

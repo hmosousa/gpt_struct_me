@@ -1,0 +1,40 @@
+[
+  ["Courtaulds PLC", "State"],
+  ["Courtaulds PLC", "Occurrence"],
+  ["Courtaulds PLC", "Reporting"],
+  ["Courtaulds PLC", "Perception"],
+  ["Courtaulds PLC", "Aspectual"],
+  ["Courtaulds PLC", "Intensional Action"],
+  ["Courtaulds PLC", "Intensional State"]
+]
+
+Explanation:
+The first element is the entity and the second element is the class.
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "State"],
+  ["Courtaulds PLC", "Occurrence"],
+  ["Courtaulds PLC", "Reporting"],
+  ["Courtaulds PLC", "Perception"],
+  ["Courtaulds PLC", "Aspectual"],
+  ["Courtaulds PLC", "Intensional Action"],
+  ["Courtaulds PLC", "Intensional State"]
+]
+```
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "State"],
+  ["Courtaulds PLC", "Occurrence"],
+  ["Courtaulds PLC", "Reporting"],
+  ["Courtaulds PLC", "Perception"],
+  ["Courtaulds PLC", "Aspectual"],
+  ["Courtaulds PLC", "Intensional Action"],
+  ["Courtaulds PLC", "Intensional State"]
+]
+```

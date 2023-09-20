@@ -1,0 +1,19 @@
+[
+["Israel", "State"],
+["Lebanon", "Occurrence"],
+["U.N.", "Reporting"],
+["Hezbollah", "Perception"],
+["Syria", "Aspectual"],
+["Peace Talks", "Intensional Action"],
+["Soldiers", "Intensional State"]
+]
+
+Explanation:
+
+1. Israel - State: The article discusses Israel's willingness to withdraw from southern Lebanon, indicating a change in the country's position.
+2. Lebanon - Occurrence: The article reports on the ongoing conflict in Lebanon and the death toll of Israeli soldiers.
+3. U.N. - Reporting: The article mentions U.N. Resolution 425, which calls for Israel's withdrawal from southern Lebanon.
+4. Hezbollah - Perception: The article notes that Hezbollah fighters have been attacking Israeli soldiers in southern Lebanon.
+5. Syria - Aspectual: The article mentions Syria's interest in resuming peace talks with Israel, which is seen as a factor in Israel's willingness to withdraw from Lebanon.
+6. Peace Talks - Intensional Action: The article notes that Israel's willingness to withdraw from Lebanon is contingent on the resumption of peace talks with Syria.
+7. Soldiers - Intensional State: The article mentions the death toll of Israeli soldiers in southern Lebanon and the impact of the conflict on the country's military.

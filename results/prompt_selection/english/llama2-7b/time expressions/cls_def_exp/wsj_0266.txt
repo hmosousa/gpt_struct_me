@@ -1,0 +1,61 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element is the date, the second is the time, the third is the duration, and the fourth is the set.
+
+Constraints:
+1 <= input.length <= 100
+input[i].length == 2
+input[i][0] and input[i][1] are both strings
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid English words
+input[i][0] and input[i][1] are both valid

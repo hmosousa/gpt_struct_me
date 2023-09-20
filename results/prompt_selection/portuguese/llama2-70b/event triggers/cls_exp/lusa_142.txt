@@ -1,0 +1,32 @@
+[['GNR', 'State'], ['suspeita', 'Occurrence'], ['tráfico', 'Reporting'], ['droga', 'Perception'], ['apreende', 'Intensional Action'], ['doses', 'Aspectual'], ['haXixe', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import StanfordNERTagger
+from nltk.tag.stanford import StanfordPOSTagger
+from nltk.tree import Tree
+from nltk.chunk import ChunkTree
+from nltk.parse.chart import ChartParser
+from nltk.parse.recursive import RecursiveDescentParser
+from nltk.sem.logic import *
+from nltk.sem.world import WorldKnowledgeBase
+from nltk.sem.predicates import Predicate
+from nltk.sem.parsing import SemanticHeadFinder
+from nltk.sem.parsing import SemanticDependencyParser
+from nltk.sem.parsing import SemanticPhraseChunker
+from nltk.sem.parsing import SemanticConstituencyParser
+from nltk.sem.parsing import SemanticTreesFromBracketedText
+from nltk.sem.parsing import SemanticParse
+from nltk.sem.parsing import SemanticTree
+from nltk.sem.parsing import SemanticTreeAnnotator
+from nltk.sem.parsing import SemanticTreePrinter
+from nltk.sem.parsing import SemanticTreeToBrackets
+from nltk.sem.parsing import SemanticTreeToConll
+from nltk.sem.parsing import SemanticTreeToJson
+from nltk.sem.parsing import SemanticTreeToLisp
+from nltk.sem.parsing import SemanticTreeToNewick
+from nltk.sem.parsing import SemanticTreeToPenn
+from nltk.sem.parsing import SemanticTreeToSpans
+from nltk.sem.parsing import

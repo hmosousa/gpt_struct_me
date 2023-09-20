@@ -1,0 +1,19 @@
+[
+["National Intergroup Inc.", "Date"],
+["third quarter", "Time"],
+["$5.3 million", "Duration"],
+["$15 million", "Duration"],
+["$30 million", "Duration"],
+["year-ago third quarter", "Time"],
+["$22.5 million", "Duration"],
+["$18 million", "Duration"],
+["$778.6 million", "Duration"],
+["two years", "Duration"],
+["fiscal 1989", "Date"]
+]
+
+Note:
+The input text contains multiple time expressions. Your task is to extract and classify all of them.
+
+Hint:
+You can use named entities to help identify time expressions.

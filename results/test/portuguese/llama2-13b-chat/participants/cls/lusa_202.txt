@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["Estrada Nacional 17", "Location"],
+["Celorico da Beira", "Location"],
+["Guarda", "Location"],
+["VMER", "Organization"],
+["GNR", "Organization"],
+["Bombeiros Voluntários de Celorico da Beira", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Estrada Nacional 17" is a location.
+* "Celorico da Beira" is a location.
+* "Guarda" is a location.
+* "VMER" is an organization.
+* "GNR" is an organization.
+* "Bombeiros Voluntários de Celorico da Beira" is an organization.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities and classes were extracted based on the given input and the task requirements.
+* The output is a list of all participants in the event, including people, organizations, locations, and objects.

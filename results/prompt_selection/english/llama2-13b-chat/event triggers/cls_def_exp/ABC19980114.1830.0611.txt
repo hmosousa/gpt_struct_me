@@ -1,0 +1,26 @@
+[
+["TWA eight hundred", "State"],
+["Lisa Stark", "Reporting"],
+["Steven Snyder", "Intensional Action"],
+["TWA eight hundred", "Intensional State"],
+["Eastwind pilot", "Perception"],
+["controller at Boston center", "Aspectual"],
+["God", "Aspectual"]
+]
+
+Explanation:
+
+1. TWA eight hundred - State (the plane is in the air)
+2. Lisa Stark - Reporting (she is reporting the news)
+3. Steven Snyder - Intensional Action (he is flying the plane)
+4. TWA eight hundred - Intensional State (the plane is climbing)
+5. Eastwind pilot - Perception (he sees an explosion)
+6. controller at Boston center - Aspectual (he is in charge of air traffic control)
+7. God - Aspectual (a prayer is being said)
+
+Note:
+
+* State and Intensional State are used to describe the physical state of the plane and its actions.
+* Reporting and Aspectual are used to describe the actions of the characters and their perceptions.
+* Perception is used to describe the pilot's observation of the explosion.
+* Intensional Action and Intensional State are used to describe the actions and states of the plane and its occupants.

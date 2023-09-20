@@ -1,0 +1,23 @@
+[
+["GNR", "Organization"],
+["idaosa", "Person"],
+["Sabroso", "Location"],
+["Vila Real", "Location"],
+["Centro Hospitalar de Trás-os-Montes e Alto Douro", "Facility"],
+["Unidade de Emergência de Proteção e Socorro", "Organization"],
+["bombeiros", "Organization"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* idosa is a person.
+* Sabroso and Vila Real are locations.
+* Centro Hospitalar de Trás-os-Montes e Alto Douro is a facility.
+* Unidade de Emergência de Proteção e Socorro is an organization.
+* bombeiros is an organization.
+
+Note:
+
+* All the words in the text are in lowercase.
+* The output should be in JSON format.

@@ -1,0 +1,40 @@
+["Philip Morris Cos., New York, adopted a defense measure designed to make a hostile takeover prohibitively expensive."]
+
+Explanation:
+The first sentence is an event trigger.
+
+Input:
+"The company said it will issue common-share purchase rights to shareholders of record Nov. 8. Under certain circumstances, the rights would entitle Philip Morris holders to buy shares of either the company or its acquirer for half price."
+
+Output:
+["The company said it will issue common-share purchase rights to shareholders of record Nov. 8. Under certain circumstances, the rights would entitle Philip Morris holders to buy shares of either the company or its acquirer for half price."]
+
+Explanation:
+The second sentence is an event trigger.
+
+Input:
+"The board isn't aware of any attempts to take over Philip Morris, the company said."
+
+Output:
+["The board isn't aware of any attempts to take over Philip Morris, the company said."]
+
+Explanation:
+The third sentence is an event trigger.
+
+Input:
+"As of Sept. 30, Philip Morris had 926 million shares outstanding."
+
+Output:
+["As of Sept. 30, Philip Morris had 926 million shares outstanding."]
+
+Explanation:
+The fourth sentence is an event trigger.
+
+Input:
+"In composite trading on the New York Stock Exchange, Philip Morris shares closed yesterday at $43.50 each, down $1."
+
+Output:
+["In composite trading on the New York Stock Exchange, Philip Morris shares closed yesterday at $43.50 each, down $1."]
+
+Explanation:
+The fifth sentence is an event trigger.

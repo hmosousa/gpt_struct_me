@@ -1,0 +1,16 @@
+[
+"18:14",
+"hoje",
+"2 horas depois"
+]
+
+Explanation:
+
+* 18:14: time of the accident
+* hoje: today
+* 2 horas depois: 2 hours later
+
+Note:
+
+* The time expressions are in Portuguese, so the output should be in Portuguese as well.
+* The output should be a JSON-parseable list of strings, with each string representing a time expression.

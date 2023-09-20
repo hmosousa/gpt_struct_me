@@ -1,0 +1,1 @@
+[["jovem", "Occurrence"], ["autocarro", "Reporting"], ["vila das aves", "State"], ["conselho", "Aspectual"], ["santo tirso", "Intensional Action"], ["protecao civil", "Perception"], ["bombeiro", "Occurrence"], ["hospital sao joao", "Occurrence"], ["porto", "Occurrence"], ["acidente", "Occurrence"], ["luis gonzaga mendes de carvalho", "Occurrence"]]

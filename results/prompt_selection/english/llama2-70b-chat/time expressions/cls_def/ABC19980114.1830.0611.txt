@@ -1,0 +1,28 @@
+[
+["Today", "Date"],
+["night", "Time"],
+["one five thousand", "Duration"],
+["three thousand", "Duration"],
+["a minute and a half", "Duration"],
+["sixteen thousand feet", "Duration"],
+["center", "Set"],
+["TWA eight hundred", "Set"],
+["two fireballs", "Set"],
+["water", "Set"],
+["big small", "Set"],
+["smoke", "Set"],
+["coming up", "Set"],
+["him", "Set"],
+["I think so", "Set"],
+["God bless him", "Set"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair contains a time expression and its corresponding class. The classes are:
+
+* Date: "Today"
+* Time: "night"
+* Duration: "one five thousand", "three thousand", "a minute and a half", "sixteen thousand feet"
+* Set: "center", "TWA eight hundred", "two fireballs", "water", "big small", "smoke", "coming up", "him", "I think so", "God bless him"
+
+Note that "TWA eight hundred" is a set because it refers to a specific flight, and "center" is also a set because it refers to a specific air traffic control center. Similarly, "two fireballs" and "water" are sets because they refer to specific objects or locations. "Big small" and "smoke" are sets because they refer to specific phenomena or conditions. "Coming up" is a set because it refers to a specific event or action. "Him" and "I think so" are sets because they refer to specific people or opinions. "God bless him" is a set because it refers to a specific person or entity.

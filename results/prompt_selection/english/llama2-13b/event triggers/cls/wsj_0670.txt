@@ -1,0 +1,35 @@
+[
+  ["National Intergroup Inc.", "State"],
+  ["National Intergroup Inc.", "Occurrence"],
+  ["National Intergroup Inc.", "Reporting"],
+  ["National Intergroup Inc.", "Perception"],
+  ["National Intergroup Inc.", "Aspectual"],
+  ["National Intergroup Inc.", "Intensional Action"],
+  ["National Intergroup Inc.", "Intensional State"]
+]
+
+Explanation:
+The first element of each list is the entity, and the second is the class.
+
+State:
+"National Intergroup Inc. said it expects to report a charge of $5.3 million related to the sale of its aluminum unit's extrusion division for the third quarter."
+
+Occurrence:
+"The company said it has agreed to sell the extrusion division for $15 million to R.D. Werner Co., a closely held firm based in Greenville, Pa."
+
+Reporting:
+"The charge is offset by an after-tax gain of about $30 million in the quarter from the previously announced pact to sell National Aluminum's rolling division."
+
+Perception:
+"National Intergroup in the year-ago third quarter earned $22.5 million, or 97 cents a share, including a gain of $18 million from the sale of a steel tube company. Revenue was $778.6 million."
+
+Aspectual:
+"The company also said it continues to explore all options concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky."
+
+Intensional Action:
+"The sale of the extrusion division is subject to audit adjustments for working capital changes through the closing."
+
+Intensional State:
+"The agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years, depending on the plant's shipping levels."
+
+

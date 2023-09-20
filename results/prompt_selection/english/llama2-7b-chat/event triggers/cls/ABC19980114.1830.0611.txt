@@ -1,0 +1,35 @@
+[
+{
+"Entity": "Federal Aviation Administration",
+"Class": "State"
+},
+{
+"Entity": "TWA Flight 800",
+"Class": "Occurrence"
+},
+{
+"Entity": "Steven Snyder",
+"Class": "Person"
+},
+{
+"Entity": "TWA",
+"Class": "Organization"
+},
+{
+"Entity": "Lisa Stark",
+"Class": "Person"
+},
+{
+"Entity": "Boston center",
+"Class": "Location"
+},
+{
+"Entity": "Eastwind",
+"Class": "Location"
+},
+{
+"Entity": "God",
+"Class": "Aspectual"
+}
+]
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

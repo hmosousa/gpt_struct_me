@@ -1,0 +1,5 @@
+["Poughkeepsie Savings Bank said a plan to sell its South Carolina branch offices to First Citizens Bank, of Columbia, S.C., fell through."]
+
+Explanation:
+The first sentence is an event trigger.
+

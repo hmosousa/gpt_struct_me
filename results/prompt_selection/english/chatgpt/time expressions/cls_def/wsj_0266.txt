@@ -1,0 +1,1 @@
+[["Oct. 23", "Date"], ["two years ago", "Duration"], ["20th century", "Set"]]

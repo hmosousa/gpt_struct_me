@@ -1,0 +1,18 @@
+[
+"GNR",
+"homem de 59 anos",
+"maus-tratos",
+"pai",
+"89 anos",
+"concelho da Maia",
+"distrito do Porto",
+"GNR",
+"denúncia",
+"setembro de 2019",
+"mandado de detenção",
+"militares da GNR",
+"Posto Territorial da Maia",
+"Tribunal de Instrução Criminal de Matosinhos",
+"medidas de coação",
+"detido"
+]

@@ -1,0 +1,36 @@
+[['GNR', 'Occurrence'], ['apreendeu', 'Reporting'], ['atun-rabilho', 'Aspectual'], ['captura', 'Intensional Action'], ['interdita', 'State'], ['coima', 'Perception'], ['euros', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the data from file
+with open('data/task2.txt') as f:
+   text = f.read()
+
+# Tokenize and tag each sentence in the document
+sentences = [word for sent in nltk.sent_tokenize(text) for word in word_tokenize(sent)]
+tags = [[pos for (word, pos) in pos_tag([w]) if w not in set(stopwords.words())] for sent in sentences]
+
+# Strip tags of non-nouns and verbs
+tags = [[t for t in tag if t[-1][0].lower() == 'v' or t[-1][0].lower() == 'n'] for tag in tags]
+
+# Get all possible pairs of words that are 3 words apart
+pairs = []
+for i in range(len(tags)):
+   for j in range(i+4, len(tags)-1):
+       pair = list(set(tags[j]).intersection(tags[i]))
+       if len(pair) > 0:
+           pairs.append((tags[i], tags[j]))
+
+# Classify each pair according to its class
+classes = ['Occurrence', 'Reporting', 'Aspectual', 'Intensional Action', 'State', 'Perception', 'Intensional State']
+classified = {}
+for pair in pairs:
+   # Occurrence
+   if any(x[0] == 'VBD' for x in pair[0]) and any(y[0] == 'NNP' for y in pair[1]):
+       classified[(pair[0], pair[1])] = classes[0]
+   

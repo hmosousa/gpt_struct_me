@@ -1,0 +1,52 @@
+[
+"Polícia Judiciária",
+"detém",
+"suspeito",
+"pornografia",
+"menores",
+"Évora",
+"deténção",
+"flagrante",
+"56",
+"anos",
+"residente",
+"distrito",
+"detido",
+"informação",
+"recolhida",
+"PJ",
+"investigação",
+"surgiu",
+"sequência",
+"busca",
+"domiciliária",
+"apreendidos",
+"telemóveis",
+"mais",
+"dois",
+"centenas",
+"ficheiros",
+"imagens",
+"menores",
+"situações",
+"cariz",
+"sexual",
+"medidas",
+"coação"
+]
+Explanation:
+The task is to extract all time expressions from the given text. Time expressions are linguistic elements that allow us to communicate information about time, such as specific points in time, time periods, and units of time.
+In this text, the following time expressions can be identified:
+* "Polícia Judiciária" (detained)
+* "hoje" (today)
+* "em flagrante delito" (in flagrante delito)
+* "56 anos" (56 years)
+* "residente no distrito de Évora" (resident in the Évora district)
+* "detido" (detained)
+* "apreendidos" (aprehed)
+* "depois de uma busca domiciliária" (after a domestic search)
+* "segunda-feira" (Monday)
+* "primeiro interrogatório judicial" (first judicial interrogation)
+* "eventual aplicação de medidas de coação" (potential application of coercive measures)
+
+Note that some of these time expressions are implicit, meaning they are not explicitly stated in the text but can be inferred from the context. For example, the time period "anos" (years) is implied by the phrase "56 anos". Similarly, the time unit "segunda-feira" (Monday) is implied by the phrase "depois de uma busca domiciliária".

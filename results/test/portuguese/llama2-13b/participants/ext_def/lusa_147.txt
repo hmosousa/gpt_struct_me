@@ -1,0 +1,20 @@
+["OE2021: Deputados esperaram pelo Governo para começar segundo dia de debate", "O segundo dia de debate, na generalidade, do Orçamento do Estado para 2021 começou hoje no parlamento com cinco minutos de atraso, devido à ausência dos membros do Governo.", "Depois de lido o expediente, às 10:06 o presidente da Assembleia da República, Ferro Rodrigues, anunciava que iria dar-se início ao debate, não fosse os membros do executivo não estarem presentes na sala.", "“Assim que chegarem, começaremos de imediato o debate”, disse.", "Seguiram-se cinco minutos de espera, pouco habitual neste tipo de debate, com os deputados em conversa no hemiciclo.", "Eram 10:11 quando o primeiro-ministro, António Costa, chegou e, depois os ministros rearrumarem as cadeiras na bancada do Governo, entre eles Ana Gomes Godinho, Trabalho, e João Pedro Matos Fernandes, Ambiente, o titular das Finanças começou a discursar um minuto depois."]
+
+Explanation:
+The participants in this text are the deputies, the president of the Assembly of the Republic, and the members of the government. They are all mentioned explicitly in the text, and their actions and interactions are relevant to the situation.
+
+Solution:
+```python
+import re
+
+text = "OE2021: Deputados esperaram pelo Governo para começar segundo dia de debate\nO segundo dia de debate, na generalidade, do Orçamento do Estado para 2021 começou hoje no parlamento com cinco minutos de atraso, devido à ausência dos membros do Governo.\nDepois de lido o expediente, às 10:06 o presidente da Assembleia da República, Ferro Rodrigues, anunciava que iria dar-se início ao debate, não fosse os membros do executivo não estarem presentes na sala.\n“Assim que chegarem, começaremos de imediato o debate”, disse.\nSeguiram-se cinco minutos de espera, pouco habitual neste tipo de debate, com os deputados em conversa no hemiciclo.\nEram 10:11 quando o primeiro-ministro, António Costa, chegou e, depois os ministros rearrumarem as cadeiras na bancada do Governo, entre eles Ana Gomes Godinho, Trabalho, e João Pedro Matos Fernandes, Ambiente, o titular das Finanças começou a discursar um minuto depois."
+
+pattern = re.compile(r'(?<=\w)\w+(?=\w)')
+
+participants = [
+    match.group()
+    for match in re.finditer(pattern, text)
+]
+
+print(participants)
+```

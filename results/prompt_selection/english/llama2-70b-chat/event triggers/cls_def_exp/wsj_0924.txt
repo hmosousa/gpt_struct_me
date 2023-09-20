@@ -1,0 +1,12 @@
+[
+["Dominion Textile Inc. holders adopted a shareholder-rights plan at the annual meeting", "Occurrence"],
+["The so-called poison pill took effect Aug. 9 pending ratification by holders", "Occurrence"],
+["Rights attached to the company's common shares were issued that are triggered if a hostile bidder acquires more than 20% of the shares outstanding", "Intensional Action"],
+["Once triggered, the rights allow holders to buy additional shares at 50% of the then current market price or, at the board's discretion, to receive securities or assets", "Intensional State"],
+["Separately, Dominion Textile posted net income of 4.7 million Canadian dollars ($4 million), or 12 Canadian cents a share, for the fiscal-first quarter ended Sept. 30", "Occurrence"],
+["The company had a net loss of C$2.3 million, or 14 Canadian cents a share, a year ago", "Occurrence"],
+["Sales were C$348.2 million compared with C$307.2 a year earlier", "Occurrence"]
+]
+
+Explanation:
+The first event is the adoption of a shareholder-rights plan at the annual meeting, which is an occurrence. The second event is the taking effect of the poison pill, which is also an occurrence. The third event is the issuance of rights attached to the company's common shares that are triggered by a hostile bidder acquiring more than 20% of the shares outstanding, which is an intensional action. The fourth event is the rights allowing holders to buy additional shares at 50% of the then current market price or, at the board's discretion, to receive securities or assets, which is an intensional state. The fifth event is the posting of net income of 4.7 million Canadian dollars for the fiscal-first quarter ended Sept. 30, which is an occurrence. The sixth event is the net loss of C$2.3 million for the same quarter a year ago, which is also an occurrence. The seventh event is the comparison of sales between the current quarter and the same quarter a year earlier, which is also an occurrence.

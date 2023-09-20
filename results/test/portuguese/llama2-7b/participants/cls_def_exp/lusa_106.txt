@@ -1,0 +1,15 @@
+[["Automóvel", "Obj"], ["atropela", "Per"], ["várias pessoas", "Per"], ["durante", "Per"], ["manifestação", "Per"], ["Black Lives Matter", "Per"], ["em", "Loc"], ["Manhattan", "Loc"], ["Nova Iorque", "Loc"], ["Estados Unidos", "Loc"], ["um", "Per"], ["automobilista", "Per"], ["atropelou", "Per"], ["um", "Per"], ["automóvel", "Obj"], ["durante", "Per"], ["uma", "Per"], ["manifestação", "Per"], ["do", "Per"], ["movimento", "Per"], ["Black Lives Matter", "Per"], ["em", "Loc"], ["Manhattan", "Loc"], ["Nova Iorque", "Loc"], ["Estados Unidos", "Loc"], ["um", "Per"], ["condutor", "Per"], ["do", "Per"], ["automóvel", "Obj"], ["foi", "Per"], ["detido", "Per"], ["no", "Loc"], ["local", "Loc"], ["de", "Per"], ["acordo", "Per"], ["com", "Per"], ["a", "Per"], ["polícia", "Org"], ["de", "Per"], ["Nova Iorque", "Loc"], ["um", "Per"], ["porta-voz", "Per"], ["da", "Per"], ["polícia", "Org"], ["avançou", "Per"], ["que", "Per"], ["o", "Per"], ["incidente", "Per"], ["o", "Per"], ["corpo", "Per"], ["de", "Per"], ["bombeiros", "Per"], ["e", "Per"], ["ambulâncias", "Per"], ["estão", "Per"], ["no", "Loc"], ["local", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque anunciam que a polícia matou um homem durante protestos
+A polícia de Nova Iorque (NYPD) matou um homem durante protestos contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd, um afro-americano que morreu sob custódia policial em Minneapolis, nos Estados Unidos, informou a agência France-Presse (AFP).
+A polícia de Nova Iorque anunciou que o homem foi morto durante um protesto contra a morte de George Floyd

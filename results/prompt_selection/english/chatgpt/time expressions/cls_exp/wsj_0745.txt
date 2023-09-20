@@ -1,0 +1,1 @@
+[["last week", "Date"], ["yesterday", "Date"], ["Tuesday", "Date"], ["late trading", "Time"], ["Dec. 31, 1990", "Date"], ["this week", "Date"], ["during British Petroleum Co.'s #2.5 billion ( $4 billion ) takeover of Britoil PLC in 1988", "Date"], ["over lunch Tuesday", "Time"], ["in the end", "Time"]]

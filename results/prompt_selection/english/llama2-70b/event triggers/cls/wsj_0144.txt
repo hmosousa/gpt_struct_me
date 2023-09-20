@@ -1,0 +1,50 @@
+[['Travelers Corp', 'State'], ['third-quarter', 'Occurrence'], ['Hugo', 'Reporting'], ['$40 million', 'Aspectual'], ['$3 billion', 'Intensional Action'], ['$3.2 billion', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using porter stemming algorithm"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def tag_tokens(tokens):
+   """Tags tokens using POS tagger"""
+   tagged = pos_tag(tokens)
+   return [tup[1].lower() for tup in tagged if not any([tup[1][0] == c for c in "!?.,;:'\""])]
+
+def extract_triggers(text, classes=None):
+   """Extracts triggers from text and classifies them into one of the given classes"""
+   # Tokenize text
+   tokens = word_tokenize(text)
+   
+   # Stem tokens
+   stems = stem_tokens(tokens)
+   
+   # Tag tokens
+   tags = tag_tokens(tokens)
+   
+   # Get stoplist
+   stoplist = get_stoplist()
+   
+   # Initialize dictionary to store results
+   result = {}
+   
+   # Iterate through each trigger
+   for i in range(len(tags)):
+       
+       # Check if current token is a verb
+       if tags[i] != 'VB': continue
+       
+       # Check if previous token is an adverb or preposition
+       if (i > 0 and tags[i-1] in ['RB', 'IN

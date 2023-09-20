@@ -1,0 +1,11 @@
+[
+"mid afternoon",
+"the whole attack is thought to have been planned",
+"the second day"
+]
+
+Explanation:
+
+* "mid afternoon" is a time expression indicating the time of day.
+* "the whole attack is thought to have been planned" is a time expression indicating the time when the attack was planned.
+* "the second day" is a time expression indicating the number of days that have passed since the beginning of the offensive.

@@ -1,0 +1,19 @@
+
+[
+"last year",
+"this year",
+"the nineties",
+"twenty percent",
+"four hundred",
+"certain sectors",
+"over fifty thousand",
+"Biblical scripture",
+"white supremacy",
+"anti-semitism",
+"apocalyptical fantasies",
+"the year two thousand",
+"the Battle of Armageddon",
+"last month",
+"last week",
+"yesterday"
+]

@@ -1,0 +1,19 @@
+[
+"six months",
+"less than 5%",
+"less than 25%",
+"$15 million",
+"$42.875 a share",
+"$29.75",
+"$13.7 million",
+"$1.43 a share",
+"$713.5 million",
+"nine months",
+"$278.4 million",
+"Friday",
+"composite trading",
+"$29 a share",
+"Sept. 29",
+"1987",
+"$55 a share"
+]

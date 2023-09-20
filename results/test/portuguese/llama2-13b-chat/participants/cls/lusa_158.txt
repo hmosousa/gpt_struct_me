@@ -1,0 +1,23 @@
+[
+["Homem", "Person"],
+["Organization", "CDOS"],
+["Location", "Barcelos"],
+["Facility", "Hospital de Barcelos"],
+["Object", "veículos"],
+["Other", "Bombeiros Voluntários de Viatodos"]
+]
+
+Explanation:
+
+* Homem is a Person
+* CDOS is an Organization
+* Barcelos is a Location
+* Hospital de Barcelos is a Facility
+* veículos is an Object
+* Bombeiros Voluntários de Viatodos is an Other
+
+Note:
+
+* All the words in the text are in lowercase.
+* All the classes are in English.
+* The output should be in JSON format.

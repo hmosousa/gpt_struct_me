@@ -1,0 +1,7 @@
+[['autoridades', 'Organization'], ['judiciais', 'Facility'], ['argentinas', 'Location'], ['realizaram', 'Nature'], ['hoje', 'Other'], ['buscas', 'Object'], ['apartamento', 'Facility'], ['maximiliano', 'Person'], ['trimarchi', 'Person'], ['motorista', 'Occupation'], ['diego', 'Person'], ['maradona', 'Person'], ['âmbito', 'Other'], ['investigação', 'Action'], ['alegada', 'Adjective'], ['negligencia', 'Noun'], ['morte', 'Death'], ['ex-futebolista', 'Profession'], ['ocorrida', 'Verb'], ['novembro', 'Date'], ['em', 'Preposition'], ['comunicado', 'Communication'], ['procuradoria-geral', 'Facility'], ['san', 'Place'], ['isidro', 'Place'], ['refere', 'Verb'], ['saber', 'Knowledge'], ['trimarchi', 'Person'], ['estava', 'Verb'], ['junto', 'Preposition'], ['morreu', 'Verb'], ['sua', 'Possessive'], ['casa', 'Building'], ['san', 'Place'], ['andré', 'Place'], ['província', 'Region'], ['buenos', 'Place'], ['aires', 'Place'], ['polícia', 'Organization'], ['pericias', 'Action'], ['telemóveis', 'Device'], ['leopoldo', 'Name'], ['luque', 'Surname'], ['medico', 'Profession'], ['participou', 'Verb'], ['hematoma', 'Medical'], ['subdural', 'Medical'], ['antigo', 'Adjective'], ['futebolista', 'Profession'], ['agustina', 'Name'], ['cosachov', 'Surname']]
+"""
+import json
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer, SnowballStemmer
+from nltk.tokenize import word_tokenize
+from sklearn.feature_extraction.text import T

@@ -1,0 +1,1 @@
+[["recognized", "Reporting"], ["listed", "Reporting"], ["creation", "Occurrence"], ["named", "Reporting"], ["creators", "Reporting"], ["innovated", "Intensional Action"], ["thought out", "Intensional State"]]

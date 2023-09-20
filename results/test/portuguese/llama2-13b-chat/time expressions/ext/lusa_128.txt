@@ -1,0 +1,13 @@
+[
+"segundo",
+"no âmbito de uma denúncia de violência doméstica",
+"no decurso de uma busca domiciliária",
+"na segunda-feira"
+]
+
+Explanation:
+
+* "segundo" is a time expression indicating a period of time.
+* "no âmbito de uma denúncia de violência doméstica" is a time expression indicating the context in which the events took place.
+* "no decurso de uma busca domiciliária" is a time expression indicating the course of events.
+* "na segunda-feira" is a time expression indicating the day of the week on which the events took place.

@@ -1,0 +1,11 @@
+[
+["Friday", "Date"],
+["1994", "Date"],
+["earlier this month", "Date"],
+["five years", "Duration"],
+["1990", "Date"],
+["1991", "Date"],
+["1988", "Date"],
+["1995", "Date"],
+["1984", "Date"]
+]

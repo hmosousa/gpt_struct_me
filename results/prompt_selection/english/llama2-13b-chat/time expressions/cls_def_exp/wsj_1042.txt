@@ -1,0 +1,23 @@
+[
+["AVON", "Date"],
+["3.3 million", "Number"],
+["one warrant", "Duration"],
+["each three shares", "Set"],
+["1.1 million", "Number"],
+["Class C warrants", "Set"],
+["$5.50", "Number"],
+["90 days", "Duration"],
+["an additional", "Set"]
+]
+
+Explanation:
+
+* AVON is a date.
+* 3.3 million is a number.
+* one warrant is a duration.
+* each three shares is a set.
+* 1.1 million is a number.
+* Class C warrants is a set.
+* $5.50 is a number.
+* 90 days is a duration.
+* an additional is a set.

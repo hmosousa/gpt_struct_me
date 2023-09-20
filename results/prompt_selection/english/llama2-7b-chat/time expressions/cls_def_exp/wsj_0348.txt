@@ -1,0 +1,20 @@
+[
+{ "entity": "Ogden Projects Inc.", "class": "Date" },
+{ "entity": "third quarter", "class": "Time" },
+{ "entity": "1987", "class": "Date" },
+{ "entity": "August", "class": "Time" },
+{ "entity": "14", "class": "Duration" },
+{ "entity": "13 facilities", "class": "Set" },
+{ "entity": "seven", "class": "Set" },
+{ "entity": "33%", "class": "Duration" },
+{ "entity": "283.8 million", "class": "Duration" },
+{ "entity": "39.5 million", "class": "Duration" },
+{ "entity": "101.7 million", "class": "Duration" },
+{ "entity": "26.875", "class": "Duration" },
+{ "entity": "75 cents", "class": "Duration" },
+{ "entity": "14", "class": "Duration" },
+{ "entity": "13", "class": "Set" },
+{ "entity": "7", "class": "Set" },
+{ "entity": "1987", "class": "Date" },
+{ "entity": "1987", "class": "Date" }
+]

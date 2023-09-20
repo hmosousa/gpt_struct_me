@@ -1,0 +1,12 @@
+[
+"next year's first quarter",
+"300 million",
+"400 million",
+"15 pence",
+"362 pence",
+"1.44 billion",
+"March 31",
+"5% to 10%",
+"last year",
+"this year"
+]

@@ -1,0 +1,35 @@
+["Di Giorgio", "Occurrence"], ["continuing", "Aspectual"], ["talks", "Reporting"], ["potential", "Perception"], ["buyers", "State"], ["certain", "Intensional Action"], ["units", "Occurrence"], [",", ""], ["but", "Intensional State"], ["has", "Intensional State"], ["reached", "Intensional State"], ["no", "Negation"], ["agreement", "Occurrence"], ["on", "Occurrence"], ["any", "Intensional Action"], ["deals.", "", ""]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load data from file
+with open('data/event_triggers.json', 'r') as f:
+   event_trigger = json.load(f)
+
+# Create list of all words in corpus
+all_words = []
+for sentence in event_trigger['sentences']:
+   for token in sentence['tokens']:
+       if not token == ',':
+           all_words += [token]
+
+# Remove punctuations and stopwords
+punctuations = ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '{', '|', '}', '~']
+stopword_list = set(stopwords.words("english"))
+all_words = [w for w in all_words if w not in punctuations and w not in stopword_list]
+
+# Stemming
+ps = PorterStemmer()
+stems = [ps.stem(w) for w in all_words]
+
+# Counting stems
+counter = Counter(stems).most_common()
+
+# Print top 10 most frequent stems

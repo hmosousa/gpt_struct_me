@@ -1,0 +1,23 @@
+["after-tax", "cost-cutting", "earned", "earnings", "earnings-per-share", "financial-services", "hurricane", "laying-off", "natural-disasters", "personal-insurance", "property-casualty", "reserves", "spokeswoman", "temporal-expressions", "time-periods", "unit", "units", "xerox"]
+
+Explanation:
+The temporal expressions are:
+
+- "after-tax"
+- "cost-cutting"
+- "earned"
+- "earnings"
+- "earnings-per-share"
+- "financial-services"
+- "hurricane"
+- "laying-off"
+- "natural-disasters"
+- "personal-insurance"
+- "property-casualty"
+- "reserves"
+- "spokeswoman"
+- "temporal-expressions"
+- "time-periods"
+- "unit"
+- "units"
+- "xerox"

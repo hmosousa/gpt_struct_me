@@ -1,0 +1,141 @@
+[
+"announced",
+"plans",
+"restructuring",
+"boost",
+"shareholder",
+"approval",
+"listed",
+"U.K.",
+"stock",
+"probable",
+"market",
+"capitalization",
+"analysts",
+"said",
+"welcomed",
+"move",
+"rose",
+"valuing",
+"entire",
+"company",
+"about",
+"billion",
+"pressure",
+"British",
+"industry",
+"boost",
+"beyond",
+"reach",
+"corporate",
+"raiders",
+"divested",
+"operations",
+"valued",
+"profit",
+"revenue",
+"year",
+"ended",
+"March",
+"31",
+"Courtaulds",
+"said",
+"moves",
+"boost",
+"value",
+"5%",
+"10%",
+"institutional",
+"shareholders",
+"happy",
+"said",
+"Barclays",
+"de Zoete",
+"Wedd",
+"said",
+"sharers",
+"choice",
+"value",
+"customers",
+"employees",
+"remain",
+"posts",
+"surviving",
+"chemical",
+"company",
+"after",
+"spinoff"
+]
+
+Note:
+The event triggers are:
+
+* "announced"
+* "plans"
+* "restructuring"
+* "boost"
+* "shareholder"
+* "approval"
+* "listed"
+* "U.K."
+* "stock"
+* "probable"
+* "market"
+* "capitalization"
+* "analysts"
+* "said"
+* "welcomed"
+* "move"
+* "rose"
+* "valuing"
+* "entire"
+* "company"
+* "about"
+* "billion"
+* "pressure"
+* "British"
+* "industry"
+* "boost"
+* "beyond"
+* "reach"
+* "corporate"
+* "raiders"
+* "divested"
+* "operations"
+* "valued"
+* "profit"
+* "revenue"
+* "year"
+* "ended"
+* "March"
+* "31"
+* "Courtaulds"
+* "said"
+* "moves"
+* "boost"
+* "value"
+* "5%",
+* "10%"
+* "institutional"
+* "shareholders"
+* "happy"
+* "said"
+* "Barclays"
+* "de Zoete"
+* "Wedd"
+* "said"
+* "sharers"
+* "choice"
+* "value"
+* "customers"
+* "employees"
+* "remain"
+* "posts"
+* "surviving"
+* "chemical"
+* "company"
+* "after"
+* "spinoff"
+
+Note:
+The event triggers are related to the announcement of Courtaulds' plans to spin off its textiles operations, the potential boost in shareholder value, and the impact on the company's chemical and textile businesses.

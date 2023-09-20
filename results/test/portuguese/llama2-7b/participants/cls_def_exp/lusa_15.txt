@@ -1,0 +1,14 @@
+[["Desabamento", "Obj"], ["de casa", "Per"], ["mata", "Per"], ["pelo menos", "Per"], ["oito", "Per"], ["pessoas", "Per"], ["na Índia", "Loc"], ["Uma casa", "Fac"], ["desabou", "Per"], ["na cidade", "Loc"], ["de Hyderabad", "Loc"], ["no sul", "Loc"], ["da Índia", "Loc"], ["devido", "Per"], ["a chuvas", "Per"], ["sem", "Per"], ["precedentes", "Per"], ["e", "Per"], ["graves", "Per"], ["inundações", "Per"], ["que", "Per"], ["mataram", "Per"], ["além", "Per"], ["dos", "Per"], ["mortos", "Per"], ["outras", "Per"], ["quatro", "Per"], ["pessoas", "Per"], ["foram", "Per"], ["hospitalizadas", "Per"], ["um", "Per"], ["muro", "Obj"], ["ter", "Per"], ["caído", "Per"], ["sobre", "Loc"], ["uma", "Loc"], ["casa", "Loc"], ["vizinha", "Loc"], ["que", "Per"], ["desabou", "Per"], ["com", "Per"], ["o impacto", "Per"], ["A forte", "Per"], ["chuva", "Per"], ["em", "Per"], ["Hyderabad", "Loc"], ["quebrou", "Per"], ["um", "Per"], ["recorde", "Per"], ["estabelecido", "Per"], ["há", "Per"], ["20", "Per"], ["anos", "Per"], ["registando-se", "Per"], ["inundações", "Per"], ["em", "Per"], ["áreas", "Loc"], ["baixas", "Loc"], ["da", "Loc"], ["cidade", "Loc"], ["onde", "Loc"], ["as", "Per"], ["autoridades", "Org"], ["usaram", "Per"], ["barcos", "Obj"], ["para", "Per"], ["remover", "Per"], ["pessoas", "Per"], ["Mais", "Per"], ["de", "Per"], ["9", "Per"], ["6", "Per"], ["milhões", "Per"], ["de", "Per"], ["pessoas", "Per"], ["em", "Per"], ["todas", "Per"], ["as", "Per"], ["enchentes", "Per"], ["começaram", "Per"], ["em", "Per"], ["junho", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque anunciam que a cidade está em alerta vermelho
+Autoridades de Nova Iorque anunciaram hoje que a cidade está em alerta vermelho, o nível mais alto de alerta, devido às fortes chuvas que começaram a cair na região.
+A chuva começou a cair na cidade de Nova Iorque e no estado de Nova Iorque, nos Estados Unidos, e continuará até às 10h30 (hora local) de hoje, informou a prefeitura de Nova Iorque.
+A chuva, que começou a cair às 10h00 (hora local), está a causar grandes enchentes nas ruas da cidade, e os motoristas estão a ser alertados para não usar as estradas.
+A prefeitura de Nova Iorque também anunciou que os trens da rede de metropolitano de Nova Iorque, o metrô, não vão circular devido às fortes chuvas.
+A prefeitura de Nova Iorque também anunciou que os trens da rede de metropolitano de Nova Iorque, o metrô, não vão circular devido às fortes chuvas.
+A prefeitura de Nova Iorque também anunciou que os trens da rede de metropolitano de Nova Iorque, o metrô, não vão circular devido às fortes chuvas.
+A prefeitura de Nova Iorque também anunciou que os trens da rede de metropolit

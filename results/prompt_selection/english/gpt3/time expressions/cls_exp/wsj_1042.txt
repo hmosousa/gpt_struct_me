@@ -1,0 +1,1 @@
+[["90 days", "Duration"], ["issue date", "Date"], ["3.3 million common shares", "Set"], ["1.1 million Class C warrants", "Set"], ["$5.50", "Time"]]

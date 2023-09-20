@@ -1,0 +1,24 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Seia", "Location"],
+["NICCOA", "Organization"],
+["NPA", "Organization"],
+["Veterinário Municipal de Seia", "Organization"],
+["Tribunal Judicial de Seia", "Organization"],
+["cães", "Object"]
+]
+
+Explanation:
+The input text mentions the following entities:
+
+* GNR (Organization)
+* homem (Person)
+* Seia (Location)
+* NICCOA (Organization)
+* NPA (Organization)
+* Veterinário Municipal de Seia (Organization)
+* Tribunal Judicial de Seia (Organization)
+* cães (Object)
+
+Therefore, the output should be a list of entities and their corresponding classes, as shown above.

@@ -1,0 +1,2 @@
+[["The", Date], ["bolstered", Set], ["cellular", Duration], ["agreement", Time], [".", Set]]
+\end{code}

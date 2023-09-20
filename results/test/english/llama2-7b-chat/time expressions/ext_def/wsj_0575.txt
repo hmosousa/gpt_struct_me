@@ -1,0 +1,45 @@
+[
+"months", "years", "weeks", "days", "hours", "minutes", "seconds"
+"months ago", "five-year restructuring effort", "recent sale of Control Data's Imprimis disk-drive business", "1990", "next year", "rolling four-quarter profitability test", "third-quarter earnings", "last week", "through the first nine months", "future restructuring", "coming Minnesota lottery contract", "overseas", "national defense", "computer products business", "profitability", "simplified operating software", "computer research and development costs", "integration dollars", "environments", "commercial niche", "mainframes", "numerically intensive computing users", "utilities management", "disaster", "estimated breakup value"
+]
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression. The list includes the following time expressions:
+* "months"
+* "years"
+* "weeks"
+* "days"
+* "hours"
+* "minutes"
+* "seconds"
+
+Explanation:
+
+The input text contains several time expressions, which are highlighted in the output list. These time expressions include:
+
+* "months ago"
+* "five-year restructuring effort"
+* "recent sale of Control Data's Imprimis disk-drive business"
+* "1990"
+* "next year"
+* "rolling four-quarter profitability test"
+* "third-quarter earnings"
+* "last week"
+* "through the first nine months"
+* "future restructuring"
+* "coming Minnesota lottery contract"
+* "overseas"
+* "national defense"
+* "computer products business"
+* "profitability"
+* "simplified operating software"
+* "computer research and development costs"
+* "integration dollars"
+* "environments"
+* "commercial niche"
+* "mainframes"
+* "numerically intensive computing users"
+* "utilities management"
+* "disaster"
+* "estimated breakup value"
+
+Each time expression is represented as a string, which can be parsed and processed by JSON-based applications.

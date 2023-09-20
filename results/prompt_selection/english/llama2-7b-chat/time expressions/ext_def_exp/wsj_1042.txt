@@ -1,0 +1,1 @@
+["in", "currently", "about", "90", "days", "after", "issue", "date", "will", "issue"]

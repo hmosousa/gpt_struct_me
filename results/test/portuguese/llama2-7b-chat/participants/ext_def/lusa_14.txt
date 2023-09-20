@@ -1,0 +1,12 @@
+[
+"Autoridades angolanas",
+"Serviço de investigação Criminal (SIC)",
+"Veríssimo Pandamari",
+"Traficantes",
+"Crianças da República Democrática do Congo (RDCongo)",
+"Menores",
+"Lunda Norte",
+"Luanda",
+"Angola",
+"Populares"
+]

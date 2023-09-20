@@ -1,0 +1,10 @@
+[
+  ["First of America Bank Corp.", "State"],
+  ["First of America Bank Corp.", "Occurrence"],
+  ["First of America Bank Corp.", "Reporting"],
+  ["First of America Bank Corp.", "Perception"],
+  ["First of America Bank Corp.", "Aspectual"],
+  ["First of America Bank Corp.", "Intensional Action"],
+  ["First of America Bank Corp.", "Intensional State"]
+]
+

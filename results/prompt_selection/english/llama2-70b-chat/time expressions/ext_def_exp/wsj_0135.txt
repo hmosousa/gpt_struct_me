@@ -1,0 +1,11 @@
+["year ending June 30, 1990", "current fiscal year", "fiscal 1989", "fiscal 1989 sales", "fiscal 1989", "year ending June 30, 1990"]
+
+Explanation:
+The output is a list of all time expressions found in the input text.
+
+"year ending June 30, 1990" is a time expression because it refers to a specific point in time.
+"current fiscal year" is a time expression because it refers to a specific period of time (a fiscal year) that is currently ongoing.
+"fiscal 1989" is a time expression because it refers to a specific period of time (a fiscal year) that has already passed.
+"fiscal 1989 sales" is not a time expression because it refers to a specific amount of sales that occurred during a specific period of time, but does not convey any information about the time period itself.
+"fiscal 1989" is a time expression because it refers to a specific period of time (a fiscal year) that has already passed.
+"year ending June 30, 1990" is a time expression because it refers to a specific point in time.

@@ -1,0 +1,7 @@
+["Dec. 7", "Nov. 30", "Friday", "1.439", "17.50"]
+Explanation:
+* "Dec. 7" is a specific point in time.
+* "Nov. 30" is a specific point in time.
+* "Friday" is a day of the week.
+* "1.439" is a unit of time (a conversion rate).
+* "17.50" is a unit of time (a conversion price).

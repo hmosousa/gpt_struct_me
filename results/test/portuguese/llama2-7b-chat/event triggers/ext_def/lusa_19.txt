@@ -1,0 +1,36 @@
+[
+{
+"event": "deteve",
+"text": "PJ deteve casal suspeito de matar uma mulher em Braga para lhe ficar com a casa"
+},
+{
+"event": "suspeito",
+"text": "de matar uma mulher de 69 anos em Braga"
+
+},
+{
+"event": "objetivo",
+"text": "da apropriação dos bens que a vítima tinha consigo e ainda da casa que lhe pertencia"
+
+},
+{
+"event": "assassinada",
+"text": "através do uso de força física"
+
+},
+{
+"event": "transportado",
+"text": "do corpo até Dume, no mesmo concelho, onde foi abandonado num caminho"
+
+},
+{
+"event": "indiciados",
+"text": "da prática de crimes de homicídio qualificado, profanação de cadáver, burla informática e furto"
+
+},
+{
+"event": "presentes",
+"text": "para primeiro interrogatório judicial e aplicação das respetivas medidas de coação"
+
+}
+]

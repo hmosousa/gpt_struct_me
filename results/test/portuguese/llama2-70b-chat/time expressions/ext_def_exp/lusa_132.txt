@@ -1,0 +1,6 @@
+["terça-feira", "30 nov 2020", "tribunal judicial da covilhã"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

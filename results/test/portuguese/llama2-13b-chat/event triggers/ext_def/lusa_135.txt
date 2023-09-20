@@ -1,0 +1,16 @@
+["aprender", "haxixe", "rio Guadiana", "GNR", "embarcação de alta velocidade", "fardos", "quilos", "foz de Odeleite", "fuga para território espanhol", "autoridades policiais espanholas", "SIVICC", "vigilância e patrulhamento da costa", "Polícia Judiciária"]
+
+Note:
+- "aprender" is the verb "to learn" in Portuguese.
+- "haxixe" is the name of a drug in Portuguese.
+- "rio Guadiana" is the name of a river in Portugal.
+- "GNR" is the acronym for "Guardia Nacional Republicana" (Republican National Guard) in Portuguese.
+- "embarcação de alta velocidade" is the phrase "high-speed boat" in Portuguese.
+- "fardos" is the plural form of "fardo" in Portuguese, which means "bundle" or "pack".
+- "quilos" is the plural form of "quilo" in Portuguese, which means "kilogram".
+- "foz de Odeleite" is the name of a location in Portugal.
+- "fuga para território espanhol" is the phrase "flight to Spanish territory" in Portuguese.
+- "autoridades policiais espanholas" is the phrase "Spanish police authorities" in Portuguese.
+- "SIVICC" is the acronym for "Sistema Integrado de Vigilância, Comando e Controlo" (Integrated Surveillance, Command and Control System) in Portuguese.
+- "vigilância e patrulhamento da costa" is the phrase "coastal surveillance and patrol" in Portuguese.
+- "Polícia Judiciária" is the name of a law enforcement agency in Portugal, equivalent to the FBI in the US.

@@ -1,0 +1,16 @@
+[["GNR", "Org"], ["detém", "Per"], ["quatro suspeitos", "Per"], ["assaltos", "Per"], ["e", "Per"], ["tráfico", "Per"], ["de", "Per"], ["drogas", "Per"], ["no", "Loc"], ["Alto", "Loc"], ["Minho", "Loc"], ["a", "Loc"], ["GNR", "Org"], ["deteve", "Per"], ["quatro", "Per"], ["homens", "Per"], ["alegadamente", "Per"], ["envolvidos", "Per"], ["assaltos", "Per"], ["a", "Loc"], ["residências", "Per"], ["e", "Per"], ["estabelecimentos", "Per"], ["furto", "Per"], ["no", "Loc"], ["interior", "Loc"], ["de", "Per"], ["veículos", "Per"], ["e", "Per"], ["tráfico", "Per"], ["de", "Per"], ["drogas", "Per"], ["no", "Loc"], ["Alto", "Loc"], ["Minho", "Loc"], ["a", "Loc"], ["GNR", "Org"], ["deteve", "Per"], ["quatro", "Per"], ["homens", "Per"], ["alegadamente", "Per"], ["envolvidos", "Per"], ["assaltos", "Per"], ["a", "Loc"], ["residências", "Per"], ["e", "Per"], ["estabelecimentos", "Per"], ["furto", "Per"], ["no", "Loc"], ["interior", "Loc"], ["de", "Per"], ["veículos", "Per"], ["e", "Per"], ["tráfico", "Per"], ["de", "Per"], ["drogas", "Per"], ["no", "Loc"], ["Alto", "Loc"], ["Minho", "Loc"], ["a", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades francesas detêm 10 pessoas suspeitas de terrorismo
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que se acredita estar ligado às atividades de um grupo terrorista islâmico, informou a polícia francesa.
+A polícia francesa deteve hoje 10 pessoas suspeitas de terrorismo, incluindo um homem que

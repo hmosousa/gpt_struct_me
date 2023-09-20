@@ -1,0 +1,10 @@
+["tentativa de tráfico de menores", "tráfico de crianças", "comercialização de menores", "detidos", "operação denominada 'Kudissanga'", "colaboração de populares"]
+
+Note:
+
+* "tentativa de tráfico" is a single event, not a list of events.
+* "tráfico de crianças" is a single event, not a list of events.
+* "comercialização de menores" is a single event, not a list of events.
+* "detidos" is a single event, not a list of events.
+* "operação denominada 'Kudissanga'" is a single event, not a list of events.
+* "colaboração de populares" is a single event, not a list of events.

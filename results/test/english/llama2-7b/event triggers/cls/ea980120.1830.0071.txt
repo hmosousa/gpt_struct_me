@@ -1,0 +1,19 @@
+[
+  ["State", "Good evening from the central park in downtown Havana."],
+  ["Occurrence", "We are here this week to witness the rendezvous that Fidel Castro and the Pope are having with history."],
+  ["Occurrence", "We are here because what happens on this island will also have an impact on the United States."],
+  ["Occurrence", "Incidentally, we just show up to do the broadcast, and Cubans want to know what we're going to tell Americans, in many cases, what their relatives in the United States are going to hear."],
+  ["Occurrence", "Well, this is the eve of the Pope's visit to one of the last bastions of Communism anywhere in the world, and it is already causing enormous expectations."],
+  ["Occurrence", "In Revolution Square, they put up a giant cross today."],
+  ["Occurrence", "And right across from the Cuban revolutionary icon Che Guevara, they now have a giant portrait of Jesus."],
+  ["Occurrence", "Above it in Spanish, Jesus, in you we believe."],
+  ["Occurrence", "Not all Cubans believe, but Castro has invited everyone to welcome the man who has been one of Communism's most effective adversaries, and that's why there is suspense."],
+  ["Occurrence", "Everyone appears to believe that somehow Cuba is going to change."],
+  ["Occurrence", "Castro has said officially that it's okay to be enthusiastic."],
+  ["Occurrence", "And so, people are increasingly enthusiastic by today, Cuban television, which clings to the Communist Party line, actually began to promote its papal coverage."],
+  ["Occurrence", "Today, hundreds of people from the US began to arrive, including some Cuban Americans who left here when Castro came to power and are returning to Havana for the first time."],
+  ["Occurrence", "The Pope's visit is important, but they are also coming home."],
+  ["Occurrence", "This is quite an extraordinary story unfolding here."],
+  ["Occurrence", "We'll come back to Havana later in the broadcast."],
+  ["Occurrence", "But now we're going to go back to New York, where Diane Sawyer has the rest of the news. Diane?"]
+]

@@ -1,0 +1,32 @@
+[
+["Deputados", "Person"],
+["Governo", "Organization"],
+["Orçamento do Estado", "Object"],
+["parlamento", "Location"],
+["Ferro Rodrigues", "Person"],
+["Assembleia da República", "Organization"],
+["António Costa", "Person"],
+["Ana Gomes Godinho", "Person"],
+["João Pedro Matos Fernandes", "Person"],
+["Trabalho", "Organization"],
+["Ambiente", "Organization"],
+["Finanças", "Organization"]
+]
+
+Note:
+The task is to extract and classify all participants in the text, including people, organizations, objects, locations, and facilities. The output should be a JSON-parseable list where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+In this example, the participants are:
+
+* Deputados (Person)
+* Governo (Organization)
+* Orçamento do Estado (Object)
+* parlamento (Location)
+* Ferro Rodrigues (Person)
+* Assembleia da República (Organization)
+* António Costa (Person)
+* Ana Gomes Godinho (Person)
+* João Pedro Matos Fernandes (Person)
+* Trabalho (Organization)
+* Ambiente (Organization)
+* Finanças (Organization)

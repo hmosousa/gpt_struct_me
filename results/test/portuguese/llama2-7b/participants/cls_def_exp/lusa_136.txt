@@ -1,0 +1,17 @@
+[["GNR", "Org"], ["detém", "Verb"], ["na Maia", "Loc"], ["um", "Per"], ["de 59 anos", "Per"], ["por", "Pre"], ["maus-tratos", "Per"], ["sobre", "Pre"], ["o pai", "Per"], ["de 89 anos", "Per"], ["cometidos", "Verb"], ["no concelho", "Loc"], ["da Maia", "Loc"], ["no distrito", "Loc"], ["do Porto", "Loc"], ["A GNR", "Org"], ["anunciou", "Verb"], ["hoje", "Adv"], ["a detenção", "Verb"], ["de", "Pre"], ["um", "Per"], ["de 59 anos", "Per"], ["por", "Pre"], ["maus-tratos", "Per"], ["o seu", "Per"], ["pai", "Per"], ["de 89 anos", "Per"], ["cometidos", "Verb"], ["no concelho", "Loc"], ["da Maia", "Loc"], ["no distrito", "Loc"], ["do Porto", "Loc"], ["a GNR", "Org"], ["explica", "Verb"], ["que", "Pre"], ["o agressor", "Per"], ["de", "Pre"], ["que", "Pre"], ["saiu", "Verb"], ["da prisão", "Pre"], ["em setembro de 2019", "Pre"], ["terá", "Verb"], ["agredido", "Verb"], ["injuriado", "Verb"], ["e", "Conj"], ["coagido", "Verb"], ["a vítima", "Per"], ["de 89 anos", "Per"], ["a dar-lhe", "Verb"], ["dinheiro", "Obj"], ["para", "Pre"], ["satisfazer", "Verb"], ["o seu vício", "Per"], ["de consumo", "Pre"], ["de estupefacientes", "Pre"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de segurança detêm em Lisboa homem suspeito de tentativa de homicídio
+A Polícia Judiciária (PJ) informou hoje que detém em Lisboa um homem suspeito de tentativa de homicídio.
+A PJ informou que o homem, de 32 anos, foi detido na madrugada desta quarta-feira, em Lisboa, por agentes da Polícia Judiciária, que acreditam que o suspeito tenha tentado matar um homem de 35 anos, que foi levado às pressas para um hospital.
+O suspeito, que é detido sob a acusação de tentativa de homicídio, está a ser interrogado.
+A PJ não informou a identidade do suspeito, nem a do vítima, nem a do hospital onde este foi levado.
+A PJ informou que o suspeito é detido sob a acusação de tentativa de homicídio, mas não informou se o suspeito é detido sob a acusação de tentativa de homicídio contra o vítima, ou contra ambos.
+A PJ não informou se o suspeito é detido sob a acusação de tentativa de homicídio contra o vítima, ou contra ambos.
+A PJ não informou se o suspeito é detido sob a acusação de tentativa de homicídio contra o vítima, ou contra ambos."
+
+Output:
+[["Autoridades", "Org"], ["de segurança", "Pre"], ["detêm", "Verb"], ["em Lisboa", "Loc"], ["um", "Per"], ["homem", "Per"], ["suspeito", "Per"], ["de", "Pre"], ["tentativa", "Pre"], ["de", "Pre"], ["homicídio", "Pre"], ["A Polícia Judiciária", "Org"], ["informou", "Verb"], ["hoje", "Adv"], ["que", "Pre"], ["detém", "Verb"], ["em", "Pre"], ["Lisboa", "Loc"], ["um",

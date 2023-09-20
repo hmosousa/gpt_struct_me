@@ -1,0 +1,13 @@
+["cai", "resgatado", "ferimentos", "tampa", "propriedade", "vizinho", "água", "equipa", "cordas", "hospital"]
+
+Note:
+- "cai" is the verb "to fall" in Portuguese.
+- "resgatado" is the past participle of the verb "resgatar" (to rescue) in Portuguese.
+- "ferimentos" is the plural form of the noun "ferimento" (wound) in Portuguese.
+- "tampa" is the noun "lid" in Portuguese.
+- "propriedade" is the noun "property" in Portuguese.
+- "vizinho" is the noun "neighbor" in Portuguese.
+- "água" is the noun "water" in Portuguese.
+- "equipa" is the noun "team" in Portuguese.
+- "cordas" is the plural form of the noun "corda" (rope) in Portuguese.
+- "hospital" is the noun "hospital" in Portuguese.

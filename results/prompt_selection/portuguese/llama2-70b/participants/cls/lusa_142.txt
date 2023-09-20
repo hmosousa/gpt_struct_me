@@ -1,0 +1,43 @@
+[['GNR', 'Organization'], ['Mértola', 'Location']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load the list of classes and their synonyms
+with open('classes.json') as fp:
+   classes = json.load(fp)
+
+# Initialize the stemmer
+ps = PorterStemmer()
+
+def classify(text):
+   # Tokenize the text into words
+   tokens = [word for sent in text.split('. ') for word in sent.lower().split() if not word in stopwords.words("portuguese")]
+   
+   # Tag each token with its part-of-speech tag
+   tags = [pos_tag([w])[0][1] for w in tokens]
+   
+   # Stem all tokens
+   stems = [ps.stem(t) for t in tokens]
+   
+   # Get the most common POS tag for each stemmed token
+   cnt = Counter((t, tup[1]) for t, tup in zip(tokens, tags))
+   ptags = {t: k for (t, k), v in cnt.items() if v == max(cnt.values())}
+   
+   # Classify each token according to its POS tag
+   entities = []
+   for i, (token, tag) in enumerate(zip(tokens, tags)):
+       if tag in ['NNP', 'NNS']:
+           entity = ptags[token].capitalize() + ":" + classes['Person'].get(ptags[token], '')
+           entities.append(entity)
+       
+       elif tag in ['NNPS', 'NNS$']:
+           entity = ptags[token].capitalize() + ":" + classes['Organization'].get(ptags[token], '')
+           entities.append(entity)
+           
+       elif tag in ['JJR', 'JJS']:
+           entity = ptags[token].capitalize() + "

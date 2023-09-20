@@ -1,0 +1,1 @@
+["Monday", "Wednesday", "last week", "this week", "tenure"]

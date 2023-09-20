@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "State"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Perception"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp.",
+    "class": "Intensional State"
+  }
+]

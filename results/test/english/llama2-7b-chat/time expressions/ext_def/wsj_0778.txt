@@ -1,0 +1,4 @@
+[
+"soon", "last June", "the high court", "the U.S. attorney's office", "the government", "the power", "the issue", "the Supreme Court", "the government may", "the case", "the largest", "the people", "the Bill of Rights", "the private bar", "the defendant", "the lawyers", "the fees", "the assets", "the indictment", "the prosecution", "the unrelated drug case", "the Racketeer Influenced and Corrupt Organizations law", "the recent Supreme Court rulings", "the money", "the attorneys", "the legal reason", "the actual doing it", "the right", "the shareholders", "the Justice Department", "the policy", "the strong showing", "the illegal profits", "the lawyers' fees", "the defendants", "the Sixth Amendment right", "the fair trial", "the best defense lawyers", "the unwilling", "the paid"]
+Note:
+The output is a list of time expressions in the input text. The time expressions are in the format of JSON-parseable strings.

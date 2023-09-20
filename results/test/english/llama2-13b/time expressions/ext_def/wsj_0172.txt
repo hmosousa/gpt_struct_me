@@ -1,0 +1,9 @@
+["1989", "1990", "1990"]
+
+Explanation:
+The first time expression is "1989". The second time expression is "1990". The third time expression is "1990".
+
+Note:
+The time expressions are not necessarily in chronological order.
+
+

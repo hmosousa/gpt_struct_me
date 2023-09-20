@@ -1,0 +1,21 @@
+[
+  ["National Intergroup Inc.", "State"],
+  ["National Intergroup Inc.", "Occurrence"],
+  ["National Intergroup Inc.", "Reporting"],
+  ["National Intergroup Inc.", "Perception"],
+  ["National Intergroup Inc.", "Aspectual"],
+  ["National Intergroup Inc.", "Intensional Action"],
+  ["National Intergroup Inc.", "Intensional State"]
+]
+
+Examples:
+[
+  ["National Intergroup Inc.", "State"],
+  ["National Intergroup Inc.", "Occurrence"],
+  ["National Intergroup Inc.", "Reporting"],
+  ["National Intergroup Inc.", "Perception"],
+  ["National Intergroup Inc.", "Aspectual"],
+  ["National Intergroup Inc.", "Intensional Action"],
+  ["National Intergroup Inc.", "Intensional State"]
+]
+

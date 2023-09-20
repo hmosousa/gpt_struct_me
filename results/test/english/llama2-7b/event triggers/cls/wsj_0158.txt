@@ -1,0 +1,10 @@
+[
+  ["Reuters", "State"],
+  ["Reuters", "Occurrence"],
+  ["Reuters", "Reporting"],
+  ["Reuters", "Perception"],
+  ["Reuters", "Aspectual"],
+  ["Reuters", "Intensional Action"],
+  ["Reuters", "Intensional State"]
+]
+

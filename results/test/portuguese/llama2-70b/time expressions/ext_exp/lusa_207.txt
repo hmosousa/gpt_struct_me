@@ -1,0 +1,1 @@
+["terça-feira", "noite", "Bairro do Casal dos Machados", "Lisboa", "Casal dos Machados", "Parque das Nações", "Hospital de Santa Maria"]

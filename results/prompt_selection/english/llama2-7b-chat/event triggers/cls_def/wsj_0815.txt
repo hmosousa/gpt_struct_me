@@ -1,0 +1,9 @@
+[
+{entity: "Di Giorgio Corp.", class: "State"},
+{entity: "certain units", class: "Aspectual"},
+{entity: "units", class: "Aspectual"},
+{entity: "DIG Acquisition Corp.", class: "Intensional Action"},
+{entity: "Rose Partners Limited Partnership", class: "Intensional Action"},
+{entity: "Robert Mellor", class: "Perception"},
+{entity: "company", class: "State"}
+]

@@ -1,0 +1,12 @@
+["in an adequately priced takeover offer", "one common stock-purchase right", "each right", "one-half share of common", "for $30", "earlier this month", "a 45.2% stake", "seek a majority of seats", "announced intent to acquire control"]
+Note:
+The output is a list of strings, each representing a time expression in the input text. The time expressions are:
+* "in an adequately priced takeover offer" (representing a specific point in time)
+* "one common stock-purchase right" (representing a unit of time)
+* "each right" (representing a unit of time)
+* "one-half share of common" (representing a unit of time)
+* "for $30" (representing a unit of time)
+* "earlier this month" (representing a time period)
+* "a 45.2% stake" (representing a time period)
+* "seek a majority of seats" (representing a time period)
+* "announced intent to acquire control" (representing a time period)

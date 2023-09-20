@@ -1,0 +1,35 @@
+[
+["Homem", "State"],
+["socorrido", "Occurrence"],
+["Rio Tejo", "Aspectual"],
+["Um homem de 68 anos", "State"],
+["caiu", "Occurrence"],
+["Cais das Colunas", "Aspectual"],
+["Lisboa", "Aspectual"],
+["Fonte oficial da Polícia Marítima", "Reporting"],
+["perto do meio-dia", "Aspectual"],
+["reanimação cardiorrespiratória", "Intensional Action"],
+["salvamento", "Occurrence"],
+["outro transeunte", "State"],
+["se atirou à água", "Intensional Action"],
+["homem em dificuldades", "State"],
+["levado", "Occurrence"],
+["ambulância do Instituto Nacional de Emergência Médica (INEM)", "Reporting"],
+["Hospital de São José", "Aspectual"],
+["internado", "State"],
+["livre de perigo", "State"]
+]
+
+Note:
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+In this task, you are given a text in Portuguese and you have to extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event, such as "socorrido" (rescued) or "caiu" (fell). You have to classify each event trigger into one of the following classes:
+
+* State: Indicates a state or condition, such as "Homem" (man) or "livre de perigo" (out of danger).
+* Occurrence: Indicates an event or occurrence, such as "socorrido" (rescued) or "caiu" (fell).
+* Reporting: Indicates a source of information, such as "Fonte oficial da Polícia Marítima" (official source of the Maritime Police).
+* Aspectual: Indicates a location or time, such as "Rio Tejo" (Tagus River) or "perto do meio-dia" (near noon).
+* Intensional Action: Indicates an action that is intended or planned, such as "reanimação cardiorrespiratória" (cardiopulmonary resuscitation) or "salvamento" (rescue).
+* Intensional State: Indicates a state or condition that is intended or planned, such as "internado" (hospitalized) or "livre de perigo" (out of danger).
+
+The input text is given in Portuguese, and the output should be a list of pairs, where each pair consists of the entity (the word or phrase that triggered the event) and the class (the category that the entity belongs to). The output should be in a JSON-parseable format, which means that it can be easily parsed and processed by a JSON-compatible tool or library.

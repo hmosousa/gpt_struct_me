@@ -1,0 +1,14 @@
+["in the year ended March 31", "on the open market", "through privately negotiated transactions", "of Southport, Conn", "for the businesses", "of $39 million", "for the year ended March 31", "of $22 million", "in exchange for agreements not to compete", "as part of the agreement", "on the open market", "through privately negotiated transactions"]
+Explanation:
+* "in the year ended March 31" is a time expression representing a specific point in time.
+* "on the open market" and "through privately negotiated transactions" are time expressions representing a general time period (i.e. a duration of time).
+* "of Southport, Conn" is a time expression representing a specific location.
+* "for the businesses" is a time expression representing a specific purpose or goal.
+* "of $39 million" is a time expression representing a specific amount of money.
+* "for the year ended March 31" is a time expression representing a specific point in time.
+* "of $22 million" is a time expression representing a specific amount of money.
+* "in exchange for agreements not to compete" is a time expression representing a specific purpose or goal.
+* "as part of the agreement" is a time expression representing a specific point in time.
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression found in the input text.

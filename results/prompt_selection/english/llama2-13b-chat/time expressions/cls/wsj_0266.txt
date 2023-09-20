@@ -1,0 +1,23 @@
+[
+["I was pleased to note", "Date"],
+["two years ago", "Duration"],
+["the Journal listed", "Date"],
+["the creation of the money fund", "Date"],
+["the Reserve Fund", "Set"],
+["America's first money fund", "Set"],
+["we innovated", "Date"],
+["telephone redemptions", "Date"],
+["daily dividends", "Date"],
+["total elimination of share certificates", "Date"],
+["the constant $1 pershare pricing", "Date"]
+]
+
+Explanation:
+
+* "I was pleased to note" is a Date expression because it refers to a specific point in time (the time when the speaker was pleased).
+* "two years ago" is a Duration expression because it refers to a period of time (two years) that has passed.
+* "the Journal listed" is a Date expression because it refers to a specific point in time (the time when the Journal listed the event).
+* "the creation of the money fund" is a Date expression because it refers to a specific point in time (the time when the money fund was created).
+* "the Reserve Fund" and "America's first money fund" are both Set expressions because they refer to a specific group of things (the Reserve Fund and the first money fund, respectively).
+* "we innovated" is a Date expression because it refers to a specific point in time (the time when the innovation occurred).
+* "telephone redemptions", "daily dividends", "total elimination of share certificates", and "the constant $1 pershare pricing" are all Date expressions because they refer to specific points in time (the times when the respective innovations occurred).

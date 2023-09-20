@@ -1,0 +1,9 @@
+
+[
+["Garth Drabinsky", "State"],
+["Myron Gottlieb", "State"],
+["Sandra Kolber", "Reporting"],
+["Jeffery Logsdon", "Perception"],
+["Michael Gifford", "Intensional Action"],
+["Pierre Panet-Raymond", "Perception"]
+]

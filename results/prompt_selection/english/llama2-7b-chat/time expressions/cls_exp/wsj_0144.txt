@@ -1,0 +1,47 @@
+[
+{
+"Travelers Corp",
+"Date",
+"2001-09-30"
+},
+{
+"Travelers Corp",
+"Time",
+"11 hours"
+},
+{
+"Travelers Corp",
+"Duration",
+"59%"
+},
+{
+"Travelers Corp",
+"Set",
+"Commercial property/casualty lines"
+},
+{
+"Travelers Corp",
+"Set",
+"Personal property/casualty business"
+},
+{
+"Travelers Corp",
+"Set",
+"Employee benefits group"
+},
+{
+"Travelers Corp",
+"Date",
+"1988-09-30"
+}
+]
+Explanation:
+* "Travelers Corp." is the entity.
+* "2001-09-30" and "1988-09-30" are dates.
+* "11 hours" is a time expression.
+* "59%" is a duration expression.
+* "Commercial property/casualty lines", "Personal property/casualty business", and "Employee benefits group" are sets.
+
+Note:
+* The input text contains multiple instances of the same entity, so each instance is represented as a separate element in the output list.
+* The output list includes only the classes that are mentioned in the input text.

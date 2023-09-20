@@ -1,0 +1,75 @@
+["sexta-feira", "cerca de um mês", "30 nov 2020"]
+
+Note:
+The input text may contain other temporal expressions that are not explicitly mentioned in the example, such as "hoje", "ontem", "antes", "depois", "agora", "em breve", "em seguida", "em pouco tempo", "em algum momento", "em algum lugar", etc.
+
+The output should be a list of all temporal expressions found in the input text, in the format of a JSON-parseable list of strings.
+
+The temporal expressions can be in any language, but the output should always be in Portuguese.
+
+The input text may contain other linguistic elements that are not temporal expressions, such as names, locations, organizations, etc. These elements should be ignored and not included in the output.
+
+The output should only include temporal expressions that are relevant to the context of the input text, and not any irrelevant temporal expressions that may be present in the text.
+
+The temporal expressions should be extracted in a way that allows them to be easily identifiable and understandable by a human reader.
+
+The output should be a list of strings, with each string representing a single temporal expression.
+
+The order of the temporal expressions in the output list should not matter.
+
+The output should not include any duplicates, meaning that each temporal expression should only appear once in the list.
+
+The output should be in a format that can be easily processed and analyzed by a machine learning algorithm.
+
+The output should be a JSON-parseable list of strings, meaning that it should be a list of strings that can be easily parsed and interpreted by a JSON parser.
+
+The output should be a list of strings that can be easily understood and interpreted by a human reader.
+
+The output should be a list of strings that can be easily processed and analyzed by a machine learning algorithm.
+
+The output should be a list of strings that can be easily integrated into a database or a data analysis tool.
+
+The output should be a list of strings that can be easily used for further analysis or processing.
+
+The output should be a list of strings that can be easily visualized in a graphical format.
+
+The output should be a list of strings that can be easily used for data mining or data science applications.
+
+The output should be a list of strings that can be easily used for natural language processing or machine learning applications.
+
+The output should be a list of strings that can be easily used for text analysis or text mining applications.
+
+The output should be a list of strings that can be easily used for information retrieval or information extraction applications.
+
+The output should be a list of strings that can be easily used for data extraction or data scraping applications.
+
+The output should be a list of strings that can be easily used for machine learning or deep learning applications.
+
+The output should be a list of strings that can be easily used for natural language understanding or natural language generation applications.
+
+The output should be a list of strings that can be easily used for text summarization or text classification applications.
+
+The output should be a list of strings that can be easily used for sentiment analysis or opinion mining applications.
+
+The output should be a list of strings that can be easily used for named entity recognition or entity extraction applications.
+
+The output should be a list of strings that can be easily used for part-of-speech tagging or dependency parsing applications.
+
+The output should be a list of strings that can be easily used for language modeling or language generation applications.
+
+The output should be a list of strings that can be easily used for text generation or text manipulation applications.
+
+The output should be a list of strings that can be easily used for machine translation or cross-lingual text analysis applications.
+
+The output should be a list of strings that can be easily used for question answering or natural language processing applications.
+
+The output should be a list of strings that can be easily used for dialogue systems or conversational AI applications.
+
+The output should be a list of strings that can be easily used for speech recognition or speech synthesis applications.
+
+The output should be a list of strings that can be easily used for image captioning or visual question answering applications.
+
+The output should be a list of strings that can be easily used for Generative Adversarial Networks (GANs) or Variational Autoencoders (VAEs) applications.
+
+The output should be a list of strings that can be easily used for reinforcement learning or deep reinforcement learning applications.
+

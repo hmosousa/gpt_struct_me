@@ -1,0 +1,21 @@
+[
+["heavy gunfire", "Occurrence"],
+["second day", "State"],
+["offensive", "Occurrence"],
+["reports", "Reporting"],
+["were more accounts", "Reporting"],
+["fleeing", "Occurrence"],
+["offensive was taking place", "Occurrence"],
+["were too afraid to stay", "State"],
+["fearing", "Perception"],
+["may also move", "Intensional Action"],
+["operations", "Occurrence"],
+["was over", "State"],
+["has not yet been confirmed", "State"],
+["attack", "Occurrence"],
+["is thought to have been planned", "Perception"],
+["are considerably worried", "State"],
+["fear", "Perception"],
+["are witnessing", "Perception"],
+["beginnings", "Occurrence"]
+]

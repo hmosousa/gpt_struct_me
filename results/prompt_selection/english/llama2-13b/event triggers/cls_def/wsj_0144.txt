@@ -1,0 +1,9 @@
+[
+  ["Travelers Corp.", "State"],
+  ["Travelers Corp.", "Occurrence"],
+  ["Travelers Corp.", "Reporting"],
+  ["Travelers Corp.", "Perception"],
+  ["Travelers Corp.", "Aspectual"],
+  ["Travelers Corp.", "Intensional Action"],
+  ["Travelers Corp.", "Intensional State"]
+]

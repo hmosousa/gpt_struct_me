@@ -1,0 +1,13 @@
+["Homem detido por suspeita de fogo posto em prédio em Espinho", "16 feridos por inalação de fumo", "prédio habitacional em Espinho", "Aveiro", "PSP", "incêndio", "fogo", "hall de entrada", "assistência médica", "relevo", "danoss", "realojamentos", "sábado", "20:20", "Bombeiros Voluntários de Espinho", "Polícia Judiciária"]
+
+Note:
+
+* The list of strings should be in the format of a JSON-parseable list.
+* Each string in the list should be a unique event trigger.
+* The list should include all the event triggers present in the input text.
+
+Hint:
+
+* Look for verbs, nouns, and adjectives that indicate events or changes in the text.
+* Pay attention to temporal phrases and expressions that indicate when the events occur.
+* Use a combination of part-of-speech tagging and context to identify the event triggers.

@@ -1,0 +1,9 @@
+[
+"entre as 12:00 e as 12:30",
+"às 14:30"
+]
+
+Explanation:
+
+* "entre as 12:00 e as 12:30" is a time range expression.
+* "às 14:30" is a time expression.

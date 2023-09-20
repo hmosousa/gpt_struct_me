@@ -1,0 +1,2 @@
+[["Italian chemical giant Montedison S.p.A.", "State"], ["Italian chemical giant Montedison S.p.A.", "Occurrence"], ["Italian chemical giant Montedison S.p.A.", "Reporting"], ["Italian chemical giant Montedison S.p.A.", "Perception"], ["Italian chemical giant Montedison S.p.A.", "Aspectual"], ["Italian chemical giant Montedison S.p.A.", "Intensional Action"], ["Italian chemical giant Montedison S.p.A.", "Intensional State"]]
+

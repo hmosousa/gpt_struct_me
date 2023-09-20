@@ -1,0 +1,25 @@
+[["Donald Trump", "Per"], ["Kash Patel", "Per"], ["Austin Tice", "Per"], ["Majd Kamalmaz", "Per"], ["Damasco", "Loc"], ["Donald Trump", "Per"], ["Austin Tice", "Per"], ["Majd Kamalmaz", "Per"], ["Damasco", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades russas detêm um cidadão americano acusado de espionagem
+Autoridades russas detêm um cidadão americano acusado de espionagem, informou o ministério dos Negócios Estrangeiros da Rússia.
+O ministério disse que o cidadão, que não foi identificado, foi detido no dia 24 de agosto, em Moscou, e que a sua detenção foi ordenada por um tribunal.
+O ministério não especificou a acusação contra o cidadão, mas disse que ele é acusado de espionagem.
+O ministério também disse que o cidadão é um "cidadão dos Estados Unidos que trabalha para um serviço de inteligência do país".
+O ministério disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.
+O ministério também disse que o cidadão foi detido "em virtude de uma decisão judicial", mas não especificou se o cidadão foi detido sob a lei russa ou a lei americana.

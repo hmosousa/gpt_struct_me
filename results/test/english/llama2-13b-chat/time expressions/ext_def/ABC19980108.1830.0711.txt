@@ -1,0 +1,9 @@
+[
+"last twenty four hours",
+"five years",
+"four years",
+"three percent",
+"twelve percent",
+"twenty six percent",
+"a couple of years"
+]

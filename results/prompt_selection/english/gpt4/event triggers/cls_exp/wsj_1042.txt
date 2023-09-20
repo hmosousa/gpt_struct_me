@@ -1,0 +1,8 @@
+[
+["declared", "Occurrence"],
+["issued", "Occurrence"],
+["enable", "Intensional Action"],
+["purchase", "Intensional Action"],
+["exercised", "Occurrence"],
+["issue", "Occurrence"]
+]

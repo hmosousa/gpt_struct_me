@@ -1,0 +1,29 @@
+["National Intergroup Inc.", "Occurrence"], ["$5.3 million", "Aspectual"], ["third quarter", "Reporting"], ["R.D. Werner Co.", "State"], ["Greenville, Pa.", "Perception"], ["$30 million", "Intensional Action"], ["year-ago third quarter", "Occurrence"], ["$22.5 million", "Aspectual"], ["$18 million", "Aspectual"], ["steel tube company", "Occurrence"], ["$778.6 million", "Aspectual"], ["Hawesville, Ky.", "Perception"], ["$40 million", "Aspectual"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+from itertools import chain
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.cluster import KMeans
+from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import normalize
+from sklearn.pipeline import Pipeline
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.svm import LinearSVC
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.kernel_approximation import Nystroem
+from sklearn.externals import joblib
+from sklearn.cross_validation import StratifiedKFold, cross_val_score
+from sklearn.grid_search import GridSearchCV
+from sklearn.metrics import accuracy_score, f1_score, precision_recall_curve, average_precision

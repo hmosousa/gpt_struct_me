@@ -1,0 +1,27 @@
+["International Women's Day", "Occurrence"], ["Sunday", "Reporting"], ["March eighth", "Aspectual"], ["Special events", "Perception"], ["European Commission", "State"], ["North America", "Intensional Action"], ["other parts of the world", "Occurrence"], ["twenty years", "Occurrence"], ["seventy-five percent", "Occurrence"], ["Switzerland", "Occurrence"], ["Pakistan", "Occurrence"], ["Iran", "Occurrence"], ["Australia", "Occurrence"], ["North America", "Occurrence"], ["past twenty years", "Occurrence"], ["misery", "Occurrence"], ["security", "Occurrence"], ["Taleban government", "Occurrence"], ["armed attack", "Occurrence"], ["right to work", "Occurrence"], ["today", "Occurrence"], ["the right to survival", "Occurrence"], ["nation of widows", "Occurrence"], ["families", "Occurrence"], ["urban areas", "Occurrence"], ["rural parts of the country", "Occurrence"], ["Kabul", "Occurrence"], ["women in Kabul", "Occurrence"], ["symptoms of the problems", "Occurrence"], ["peace and justice", "Occurrence"]]
+"""
+import json
+from nltk import pos_tag, word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+stoplist = set(stopwords.words('english'))
+ps = PorterStemmer()
+
+def get_events(text):
+   """
+   Extracts all event triggers from a text.
+   
+   Parameters:
+       text (str) - The text that will be processed.
+       
+   Returns:
+       A list with two strings where the first string is an entity and the second one its class.
+   """
+   events = []
+   tokens = word_tokenize(text)
+   tagged_tokens = pos_tag(tokens)
+   for token, tag in tagged_tokens:
+       if tag == 'NNP' or tag == 'NNS':
+           stemmed_

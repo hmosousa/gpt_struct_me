@@ -1,0 +1,15 @@
+[
+"3rd quarter",
+"last month",
+"latest quarter",
+"a year ago",
+"1988 period"
+]
+
+Explanation:
+
+* 3rd quarter: "Travelers Corp.'s third-quarter net income rose 11%"
+* last month: "Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million"
+* latest quarter: "Travelers's earnings from commercial property/casualty lines fell 59% in the latest quarter"
+* a year ago: "Travelers's personal property/casualty business, compared with earnings of $6.1 million a year ago"
+* 1988 period: "The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans"

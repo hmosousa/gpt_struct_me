@@ -1,0 +1,30 @@
+"[
+  {
+    "entity": "WASHINGTON",
+    "class": "State"
+  },
+  {
+    "entity": "The economy",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "created jobs",
+    "class": "Reporting"
+  },
+  {
+    "entity": "at a surprisingly robust pace",
+    "class": "Perception"
+  },
+  {
+    "entity": "in January",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "the government reported on Friday",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "evidence that America's economic stamina has withstood any disruptions caused so far by the financial tumult in Asia",
+    "class": "Intensional State"
+  }
+]"

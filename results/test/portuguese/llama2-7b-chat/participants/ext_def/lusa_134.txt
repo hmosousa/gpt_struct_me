@@ -1,0 +1,19 @@
+[
+"GNR",
+"envolvidos",
+"assalto",
+"confeitaria",
+"Feira",
+"Santa Maria",
+"Feria",
+"Aveiro",
+"Milheirós de Poiares",
+"tapada",
+"caixa registadora",
+"dinheiro",
+"detido",
+"procurado",
+"dispositivo territorial",
+"GNR",
+"Destacamento de Intervenção"
+]

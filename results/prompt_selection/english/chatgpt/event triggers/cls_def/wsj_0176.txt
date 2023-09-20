@@ -1,0 +1,1 @@
+[["laying off", "Intensional Action"], ["centralized", "Intensional State"], ["cost-cutting", "Aspectual"], ["result in", "Intensional Action"], ["earned", "Intensional Action"], ["offset", "Intensional Action"], ["set up", "Intensional Action"], ["resulted in", "Intensional Action"]]

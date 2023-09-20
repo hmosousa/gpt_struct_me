@@ -1,0 +1,1 @@
+[["homem", "Occurrence"], ["ciclomotor", "State"], ["veículo ligeiro", "Reporting"], ["Estrada Nacional 10-8", "Aspectual"], ["zona da Mitrena", "Perception"], ["Setúbal", "Intensional Action"]]

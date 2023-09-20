@@ -1,0 +1,8 @@
+["British government calls for Sinn Fein expulsion", "Sinn Fein challenges move by legal means", "RUC offers opinion on IRA involvement", "Decision to expel Sinn Fein must be agreed by both governments"]
+
+Explanation:
+
+1. "British government calls for Sinn Fein expulsion" - This is an event trigger as it refers to a specific action taken by the British government.
+2. "Sinn Fein challenges move by legal means" - This is an event trigger as it refers to a specific action taken by Sinn Fein in response to the British government's move.
+3. "RUC offers opinion on IRA involvement" - This is an event trigger as it refers to a specific action taken by the RUC (Royal Ulster Constabulary).
+4. "Decision to expel Sinn Fein must be agreed by both governments" - This is an event trigger as it refers to a specific requirement for any decision to be made regarding Sinn Fein's expulsion.

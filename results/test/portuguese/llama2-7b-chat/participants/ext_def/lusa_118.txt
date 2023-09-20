@@ -1,0 +1,6 @@
+[
+"António Costa",
+"Emmanuel Macron",
+"Emmanuel Macron",
+"António Costa"
+]

@@ -1,0 +1,6 @@
+["Elco Industries Inc. said it expects net income in the year ending June 30, 1990, to fall below a recent analyst's estimate of $1.65 a share", "The Rockford, Ill., maker of fasteners also said it expects to post sales in the current fiscal year that are "slightly above" fiscal 1989 sales of $155 million", "The company said its industrial unit continues to face margin pressures and lower demand", "In fiscal 1989, Elco earned $7.8 million, or $1.65 a share", "The company's stock fell $1.125 to $13.625 in over-the-counter trading yesterday"]
+
+Explanation:
+The output contains all the events mentioned in the text. The first event is the company's expectation of lower net income. The second event is the company's expectation of slightly higher sales. The third event is the company's statement about the industrial unit facing margin pressures and lower demand. The fourth event is the company's past earnings. The fifth event is the change in the company's stock price.
+
+Note that the events are not necessarily in chronological order, as the text may mention events that occurred in the past or will occur in the future. The events are also not necessarily independent, as they may be related to each other, such as the company's lower demand and margin pressures leading to lower expected net income.

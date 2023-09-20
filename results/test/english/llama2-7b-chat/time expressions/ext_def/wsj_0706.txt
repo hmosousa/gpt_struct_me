@@ -1,0 +1,10 @@
+["this year", "second bank holding company", "this month", "12 branches", "Sept. 30", "10 largest bank holding companies", "year"]
+
+Explanation:
+* "this year" - a time expression indicating the current year
+* "second bank holding company" - a time expression indicating the second bank holding company that Security Pacific is acquiring
+* "this month" - a time expression indicating the current month
+* "12 branches" - a time expression indicating the number of branches of La Jolla Bank amp Trust Co.
+* "Sept. 30" - a time expression indicating the date of Sept. 30
+* "10 largest bank holding companies" - a time expression indicating the current ranking of Security Pacific among the largest bank holding companies in the U.S.
+* "year" - a time expression indicating the current year.

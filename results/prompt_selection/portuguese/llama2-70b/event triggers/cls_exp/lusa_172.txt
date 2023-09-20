@@ -1,0 +1,49 @@
+[['Corpo', 'State'], ['homem', 'Occurrence'], ['mar', 'Reporting'], ['Lagoa', 'Perception'], ['Algarve', 'Aspectual'], ['praia', 'Intensional Action'], ['Estaquinha', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the data from file
+with open('data/events.json') as f:
+   events = json.load(f)
+
+# Create an empty list to store all event triggers
+eventTriggers = []
+
+# Iterate over each event in the dataset and extract its trigger
+for event in events:
+   # Get the text of the event
+   text = event["text"]
+   
+   # Tokenize the text into words
+   tokens = word_tokenize(text)
+   
+   # Remove punctuation marks from the tokenized text
+   for i, token in enumerate(tokens):
+       if token == "." or token == "," or token == ";":
+           del tokens[i]
+       
+   # Strip the tokens of their whitespace characters
+   tokens = [t.strip() for t in tokens]
+   
+   # Remove stopwords from the tokenized text
+   filteredTokens = [w for w in tokens if not w in set(stopwords.words("portuguese"))]
+   
+   # Apply stemming to the remaining tokens
+   stems = [PorterStemmer().stem(word) for word in filteredTokens]
+   
+   # Tag the tokens with POS tags
+   taggedWords = pos_tag(stems)
+   
+   # Parse the tagged tokens using a chunk parser
+   cp = ChunkParserI()
+   cp.train(taggedWords)
+   chunks = cp.parse(taggedWords)
+   
+   # Extract the noun phrases (NPs)

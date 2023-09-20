@@ -1,0 +1,115 @@
+[
+["For", "Date"],
+["the", "Date"],
+["World", "Date"],
+["this", "Date"],
+["is", "Date"],
+["Pamela McCall", "Person"],
+["in", "Location"],
+["the", "Location"],
+["BBC", "Organization"],
+["news", "Event"],
+["room", "Location"],
+["in", "Location"],
+["London", "Location"],
+["more", "Duration"],
+["heavy", "Duration"],
+["gunfire", "Event"],
+["in", "Location"],
+["the", "Location"],
+["Serbian", "Location"],
+["province", "Location"],
+["of", "Location"],
+["Kosovo", "Location"],
+["It's", "Date"],
+["the", "Date"],
+["second", "Duration"],
+["day", "Date"],
+["of", "Date"],
+["an", "Duration"],
+["offensive", "Event"],
+["by", "Location"],
+["the", "Location"],
+["security", "Organization"],
+["forces", "Event"],
+["against", "Location"],
+["villages", "Location"],
+["populated", "Location"],
+["by", "Location"],
+["ethnic", "Location"],
+["Albanians", "Location"],
+["There", "Date"],
+["were", "Duration"],
+["more", "Duration"],
+["accounts", "Event"],
+["of", "Location"],
+["people", "Person"],
+["fleeing", "Event"],
+["from", "Location"],
+["the", "Location"],
+["villages", "Location"],
+["near", "Location"],
+["where", "Location"],
+["the", "Location"],
+["offensive", "Event"],
+["was", "Date"],
+["taking", "Duration"],
+["place", "Location"],
+["By", "Date"],
+["mid", "Duration"],
+["afternoon", "Date"],
+["official", "Organization"],
+["Serb", "Location"],
+["sources", "Event"],
+["were", "Duration"],
+["saying", "Event"],
+["the", "Location"],
+["operation", "Event"],
+["was", "Date"],
+["over", "Event"],
+["but", "Event"],
+["that", "Event"],
+["has", "Duration"],
+["not", "Event"],
+["yet", "Duration"],
+["been", "Event"],
+["confirmed", "Event"],
+["from", "Location"],
+["Belgrade", "Location"],
+["the", "Location"],
+["capital", "Location"],
+["of", "Location"],
+["Serbia", "Location"],
+["which", "Location"],
+["is", "Date"],
+["where", "Location"],
+["the", "Location"],
+["whole", "Event"],
+["attack", "Event"],
+["is", "Date"],
+["thought", "Event"],
+["to", "Event"],
+["have", "Duration"],
+["been", "Event"],
+["planned", "Event"]
+]
+
+Explanation:
+
+* "For" is a date expression, indicating the start of the event.
+* "the" is a date expression, indicating the current time.
+* "World" is a date expression, indicating the global scope of the event.
+* "this" is a date expression, indicating the immediate context of the event.
+* "is" is a date expression, indicating the current state of the event.
+* "Pamela McCall" is a person expression.
+* "in" is a location expression, indicating the location where the event is taking place.
+* "the" is a location expression, indicating the specific location of the event.
+* "BBC" is an organization expression.
+* "news" is an event expression.
+* "room" is a location expression, indicating the location where the event is taking place.
+* "in" is a location expression, indicating the specific location of the event.
+* "London" is a location expression, indicating the location of the event.
+* "more" is a duration expression, indicating the amount of time that has passed since the previous event.
+* "heavy" is a duration expression, indicating the intensity of the event.
+* "gunfire" is an event expression, indicating the type of event that is taking place.
+* "in" is a location expression

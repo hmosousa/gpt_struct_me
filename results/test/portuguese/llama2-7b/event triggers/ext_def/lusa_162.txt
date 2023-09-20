@@ -1,0 +1,20 @@
+["Homem de 84 anos morre após atropelamento em Santa Marta de Penaguião", "Um homem de 84 anos morreu hoje na sequência de um atropelamento em Vila Maior, concelho de Santa Marta de Penaguião, distrito de Vila Real, disse fonte da GNR.", "Segundo o comandante dos bombeiros de Santa Marta de Penaguião, Vasco Correia, o óbito foi declarado no local pela equipa da Viatura Médica de Emergência e Reanimação (VMER).", "O acidente, segundo a GNR, terá acontecido durante uma manobra de marcha-atrás de uma carinha.", "O alerta para o atropelamento foi dado às 11:29 e para o local foram mobilizados seis operacionais dos bombeiros de Santa Marta de Penaguião, GNR e INEM, que contaram com o apoio de três viaturas."]
+
+Explanation:
+The event triggers are the words that are bolded.
+
+## Solution
+
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.loads(f.read())
+
+events = []
+for line in data:
+    if line.startswith('Homem de'):
+        events.append(line)
+
+print(events)
+```

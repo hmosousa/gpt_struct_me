@@ -1,0 +1,19 @@
+[
+"yesterday",
+"last month",
+"early this month",
+"January",
+"March",
+"the following month",
+"four times"
+]
+
+Explanation:
+
+* yesterday: refers to the day when the acquisition was completed.
+* last month: refers to the month when the acquisition was completed.
+* early this month: refers to the beginning of the month when the acquisition was completed.
+* January: refers to the month when American Medical brought in a new CEO.
+* March: refers to the month when American Medical received a $24-a-share offer to take the company private.
+* the following month: refers to the month after the month when American Medical received the offer.
+* four times: refers to the number of times IMA extended its offer.

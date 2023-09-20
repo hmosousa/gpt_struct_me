@@ -1,0 +1,38 @@
+[
+["Homem baleado", "Occurrence"],
+["Um homem de 31 anos", "State"],
+["Gulpilhares", "Location"],
+["Vila Nova de Gaia", "Location"],
+["hoje", "Aspectual"],
+["manhã", "Aspectual"],
+["pôs-se em fuga", "Intensional Action"],
+["atingida", "Occurrence"],
+["braço esquerdo", "State"],
+["hospital Santos Silva", "Location"],
+["Vila de Gaia", "Location"],
+["bombeiros de Valadares", "Location"],
+["ferido ligeiro", "State"],
+["Polícia Judiciária", "Organization"],
+["investiga", "Intensional Action"],
+["caso", "State"],
+["competência reservada", "State"],
+["crime", "Occurrence"]
+]
+
+Explanation:
+
+* "Homem baleado" is classified as "Occurrence" because it refers to an event that is happening or has happened.
+* "Um homem de 31 anos" is classified as "State" because it refers to a person's age, which is a stable state.
+* "Gulpilhares" and "Vila Nova de Gaia" are classified as "Location" because they refer to places.
+* "hoje" and "manhã" are classified as "Aspectual" because they refer to time aspects.
+* "pôs-se em fuga" is classified as "Intensional Action" because it refers to an intentional action.
+* "atingida" is classified as "Occurrence" because it refers to an event that is happening or has happened.
+* "braço esquerdo" is classified as "State" because it refers to a person's physical state.
+* "hospital Santos Silva" and "Vila de Gaia" are classified as "Location" because they refer to places.
+* "bombeiros de Valadares" is classified as "Location" because it refers to a location.
+* "ferido ligeiro" is classified as "State" because it refers to a person's physical state.
+* "Polícia Judiciária" is classified as "Organization" because it refers to a legal organization.
+* "investiga" is classified as "Intensional Action" because it refers to an intentional action.
+* "caso" is classified as "State" because it refers to a situation or state.
+* "competência reservada" is classified as "State" because it refers to a legal state.
+* "crime" is classified as "Occurrence" because it refers to an event that is happening or has happened.

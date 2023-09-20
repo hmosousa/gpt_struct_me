@@ -1,0 +1,27 @@
+[['Penafiel', 'Location'], ['Porto', 'Location'], ['GNR', 'Organization'], ['homem', 'Person'], ['mulher', 'Person']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Load the data from file
+with open('data/task1.txt') as f:
+   text = f.read()
+
+# Tokenize and stem all words in the text
+tokens = [word for sent in word_tokenize(text).split('. ') for word in sent if not word in set(stopwords.words())]
+stems = [PorterStemmer().stem(w) for w in tokens]
+
+# Count how many times each token appears
+counts = Counter(stems)
+
+# Get the top 50 most frequent stems
+top50 = counts.most_common(50)
+
+# Create a dictionary with the top 50 stems as keys and their frequency as values
+dictionary = {key: value for key, value in top50}
+
+# Print the dictionary
+print(json.dumps(dictionary))

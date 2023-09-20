@@ -1,0 +1,1 @@
+[["Washington", "State"], ["Federal Aviation Administration", "Occurrence"], ["air traffic control tapes", "Reporting"], ["night", "Aspectual"], ["plane exploded", "Intensional Action"], ["Steven Snyder", "Perception"], ["minute and a half", "Aspectual"], ["sixteen thousand feet", "Aspectual"], ["Boston center", "State"], ["Eastwind pilot", "Perception"]]

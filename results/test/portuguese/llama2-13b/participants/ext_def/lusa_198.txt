@@ -1,0 +1,37 @@
+["Grua de camião", "derrubou", "poste", "iluminação", "Porto", "matou", "homem", "52", "anos", "ATUALIZADA", "Um", "homem", "52", "anos", "morreu", "hoje", "outro", "sofreu", "ferimentos", "ligeiros", "sequência", "acidente", "caminho", "derrubou", "poste", "eletricidade", "Rua", "Constituição", "PSP", "fonte", "Relações", "Públicas", "Comando", "Metropolitano", "Porto", "poste", "iluminação", "derrubou", "grua", "caminho", "atingindo", "homem", "circulava", "rua", "transportado", "vida", "Hospital", "Santo", "António", "acabou", "morrer", "estrutura", "bombas", "gasolina", "sofreu", "ferimentos", "ligeiros", "acidente", "ocorreu", "07:50", "Empresa", "Municipal", "Ambiente", "Porto", "decidiu", "averiguar", "aconteceu", "processo", "averiguação", "interna", "causas", "acidente", "estando", "disponível", "colaborar", "autoridades", "Lamentamos", "morte", "condolências", "familia"]
+
+Hints:
+- Use the `split` method to break the text into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map` method to transform the list of words into a list of strings.
+- Use the `join` method to join the transformed list of words into a single string.
+- Use the `split` method to break the single string into a list of words.
+- Use the `filter` method to remove unwanted words from the list.
+- Use the `join` method to join the remaining words into a single string.
+- Use the `map`

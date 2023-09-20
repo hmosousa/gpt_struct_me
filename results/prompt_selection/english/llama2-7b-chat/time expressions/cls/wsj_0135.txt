@@ -1,0 +1,30 @@
+[
+{
+"Elco Industries Inc.",
+"Date"
+},
+{
+"Elco Industries Inc.",
+"Time"
+},
+{
+"Elco Industries Inc.",
+"Duration"
+},
+{
+"Elco Industries Inc.",
+"Set"
+}
+]
+
+Explanation:
+
+* Date: "year ending June 30, 1990" and "fiscal year"
+* Time: "current fiscal year" and "over-the-counter trading yesterday"
+* Duration: "current fiscal year" and "fiscal 1989"
+* Set: "sales in the current fiscal year" and "sales of $155 million"
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence from a financial news article.
+* The task is to extract and classify all time expressions in the input sentence.

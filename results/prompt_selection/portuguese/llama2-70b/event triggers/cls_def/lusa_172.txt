@@ -1,0 +1,1 @@
+[["Corpo", "State"], ["homem", "Occurrence"], ["encontrado", "Reporting"], ["boiar", "Aspectual"], ["mar", "Intensional Action"], ["Lagoa", "Perception"], ["Algarve", "Occurrence"]]

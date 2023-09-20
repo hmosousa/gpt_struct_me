@@ -1,0 +1,40 @@
+["declared", "dividend", "one", "warrant", "three", "shares", "common", "stock", "said", "Avon", "Rent-A-Car", "Truck", "Corp", "based", "Santa", "Monica", "Calif", "3.3", "million", "common", "shares", "outstanding", "1.1", "million", "Class", "C", "warrants", "issued", "company", "enable", "holders", "purchase", "share", "stock", "5.50", "warrants", "exercised", "90", "days", "issue", "date", "additional", "243,677", "Class", "warrants", "holders", "Class", "A", "B", "unclassified", "warrants", "issuance", "rate", "warrant", "exercised"]
+
+Explanation:
+The output is a list of all event triggers in the input text.
+
+Note:
+The output list is in the same order as the input text.
+
+Example:
+Input: "The man walked into the room."
+Output: ["walked", "man", "room"]
+
+Input: "The man walked into the room and sat down."
+Output: ["walked", "man", "room", "sat", "down"]
+
+Input: "The man walked into the room and sat down on the chair."
+Output: ["walked", "man", "room", "sat", "down", "chair"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out of the room."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out", "room"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out of the room and then he walked back in."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out", "room", "walked", "back", "in"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out of the room and then he walked back in and sat down again."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out", "room", "walked", "back", "in", "sat", "down", "again"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out of the room and then he walked back in and sat down again and then he stood up again."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out", "room", "walked", "back", "in", "sat", "down", "again", "stood", "up", "again"]
+
+Input: "The man walked into the room and sat down on the chair and then he stood up and walked out of the room and then he walked back in and sat down again and then he stood up again and then he walked out again."
+Output: ["walked", "man", "room", "sat", "down", "chair", "stood", "up", "walked", "out", "room", "walked", "back", "in", "sat", "down", "again", "stood", "up", "again", "walked", "out", "again"]
+
+Input: "The man walked into the room and

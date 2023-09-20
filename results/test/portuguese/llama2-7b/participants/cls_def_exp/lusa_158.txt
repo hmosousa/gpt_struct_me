@@ -1,0 +1,13 @@
+[["Um homem de 48 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["vítima", "Per"], ["de", "Per"], ["uma", "Per"], ["colisão", "Per"], ["registada", "Per"], ["entre", "Per"], ["dous", "Per"], ["ve\u00ediculos", "Per"], ["ligeiros", "Per"], ["na", "Loc"], ["freguesia", "Loc"], ["de", "Loc"], ["Chorente", "Loc"], ["concelho", "Loc"], ["de", "Loc"], ["Barcelos", "Loc"], ["(Braga)", "Loc"], ["o", "Per"], ["acidente", "Per"], ["entre", "Per"], ["os", "Per"], ["dous", "Per"], ["ve\u00ediculos", "Per"], ["ligeiros", "Per"], ["foi", "Per"], ["registado", "Per"], ["por", "Per"], ["uma", "Per"], ["13:00", "Per"], ["a", "Per"], ["v\u00edtima", "Per"], ["morreu", "Per"], ["foi", "Per"], ["transportado", "Per"], ["para", "Per"], ["o", "Per"], ["Hospital", "Loc"], ["de", "Loc"], ["Barcelos", "Loc"], ["(Braga)", "Loc"], ["o", "Per"], ["ferido", "Per"], ["ligeiro", "Per"], ["com", "Per"], ["cerca", "Per"], ["de", "Per"], ["20", "Per"], ["anos", "Per"], ["de", "Per"], ["idade", "Per"], ["foi", "Per"], ["transportado", "Per"], ["para", "Per"], ["o", "Per"], ["Hospital", "Loc"], ["de", "Loc"], ["Barcelos", "Loc"], ["(Braga)", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 48 anos morre em colisão automóvel em Barcelos
+Um homem de 48 anos morreu hoje vítima de uma colisão registada entre dois veículos ligeiros na freguesia de Chorente, concelho de Barcelos (Braga), indicou fonte do Comando Distrital de Operações de Socorros (CDOS) de Braga.
+O acidente entre os dois automóveis foi registado por volta das 13:00.
+A vítima mortal era o condutor de um dos veículos, tendo sido também registado um ferido ligeiro, com cerca de 20 anos de idade, que foi transportado para o Hospital de Barcelos, adiantou fonte do CDOS de Braga e dos Bombeiros Voluntários de Viatodos."
+
+Output:
+[["Um homem de 48 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["vítima", "Per"], ["de", "Per"], ["uma", "Per"], ["colisão", "Per"], ["registada", "Per"], ["entre", "Per"], ["dous", "Per"], ["ve\u00ediculos", "Per"], ["ligeiros", "Per"], ["na", "Loc"], ["freguesia", "Loc"], ["de", "Loc"], ["Chorente", "Loc"], ["concelho", "Loc"], ["de", "Loc"], ["Barcelos", "Loc"], ["(Braga)", "Loc"], ["o", "Per"], ["acidente", "Per"], ["entre", "Per"], ["os", "Per"], ["dous", "Per"], ["ve\u00ediculos", "Per"], ["ligeiros", "Per"], ["foi", "Per"], ["registado", "Per"], ["por", "Per"], ["uma", "Per"], ["13:00", "Per"], ["a", "Per"], ["v\u00edtima", "Per"], ["morreu", "Per"], ["foi", "Per"], ["transportado", "Per"], ["para", "Per"], ["o", "Per

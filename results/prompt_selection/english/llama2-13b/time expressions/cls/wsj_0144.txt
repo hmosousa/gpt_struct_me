@@ -1,0 +1,23 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element of the list is the entity, the second is the class.
+
+Date:
+"1989", "1989"
+
+Time:
+"third-quarter", "third-quarter"
+
+Duration:
+"11%", "11%"
+
+Set:
+"Travelers Corp.", "Travelers Corp."
+
+

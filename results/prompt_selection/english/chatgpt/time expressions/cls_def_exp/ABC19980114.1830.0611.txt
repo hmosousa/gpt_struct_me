@@ -1,0 +1,1 @@
+[["today", "Date"], ["the night", "Date"], ["a minute and a half later", "Duration"], ["about sixteen thousand feet", "Duration"], ["later", "Duration"], ["one point", "Duration"]]

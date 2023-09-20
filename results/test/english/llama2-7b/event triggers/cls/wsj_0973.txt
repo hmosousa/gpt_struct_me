@@ -1,0 +1,31 @@
+[
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "State"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Westinghouse Electric Corp.",
+    "class": "Intensional State"
+  }
+]
+

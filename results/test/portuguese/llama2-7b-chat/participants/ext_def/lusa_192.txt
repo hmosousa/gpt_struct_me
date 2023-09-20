@@ -1,0 +1,16 @@
+[
+"O Tribunal de Viana do Castelo",
+"homem de 36 anos",
+"matou outro a tiro",
+"12 anos de prisão",
+"2013",
+"juiz presidente do coletivo",
+"arguido",
+"prisão preventiva",
+"sete anos em fuga",
+"crimes de ofensa à integridade física qualificada",
+"detenção de arma proibida",
+"magistrada",
+"indemnização à mãe da vítima mortal",
+"141 mil euros"
+]

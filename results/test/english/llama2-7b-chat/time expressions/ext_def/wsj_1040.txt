@@ -1,0 +1,8 @@
+["payable Dec. 15", "record Nov. 17", "payable and record dates", "cash dividend of 12 cents a share", "same payable and record dates", "cash dividend paid on the common stock", "new shares", "rewards shareholders", "should improve the stock's liquidity", "about 8.8 million shares outstanding"]
+Note:
+* The input text contains several time expressions, including:
+	+ "Dec. 15" (a specific date)
+	+ "Nov. 17" (a specific date)
+	+ "quarterly" (a time period)
+	+ "yesterday" (a specific date)
+* The output list contains all the time expressions found in the input text, separated by commas.

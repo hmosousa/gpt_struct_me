@@ -1,0 +1,11 @@
+["Ogden Projects Inc.", "State"], ["net income", "Occurrence"], ["$6.6 million", "Reporting"], ["or 18 cents a share", "Aspectual"], ["in the third quarter", "Intensional Action"], ["Fairfield, N.J.", "Perception"], ["company", "State"], ["which is 92%-owned by Ogden Corp.", "State"], ["New York", "Perception"], ["had net of $1.1 million", "Reporting"], ["four cents a share", "Aspectual"], ["a year ago", "Intensional State"], ["Revenue soared to $101.7 million", "Reporting"], ["from $39.5 million", "Aspectual"], ["Ogden Projects", "State"], ["whose shares began trading on the New York Stock Exchange in August", "State"], ["closed yesterday at $26.875", "Reporting"], ["down 75 cents", "Aspectual"], ["The stock began trading this summer at $14 apiece", "State"], ["has interests in solid-waste recovery and hazardous-waste cleanup", "State"], ["said it has 13 facilities in operation", "State"], ["Meanwhile, Ogden Corp.", "State"], ["also has interests in building maintenance and management", "State"], ["reported third-quarter net income of $27.1 million", "Reporting"], ["or 67 cents a share", "Aspectual"], ["more than twice the $13.5 million", "Aspectual"], ["or 34 cents a share", "Aspectual"], ["a year earlier", "Intensional State"], ["Revenue rose 33% to $378.1 million from $283.8 million", "Reporting"]]
+"""
+import json
+import re
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('stopwords')
+from nltk import pos_tag, word_tokenize
+from nltk.corpus import stopwords
+from collections import Counter

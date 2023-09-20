@@ -1,0 +1,23 @@
+[
+"cleared",
+"takeover",
+"acquire",
+"shares",
+"approval",
+"permits",
+"West Germany",
+"second-largest bank",
+"French investment bank",
+"buy",
+"32.99%",
+"1,015 French francs",
+"528 million francs",
+"Dresdner Bank",
+"Paris Stock Exchange",
+"shareholders",
+"option",
+" Societe Generale",
+"1,015 francs",
+"30.84%",
+"Jan. 1, 1990"
+]

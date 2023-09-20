@@ -1,0 +1,21 @@
+[
+["National Intergroup Inc.", "State"],
+["National Intergroup Inc.", "Occurrence"],
+["National Intergroup Inc.", "Reporting"],
+["National Intergroup Inc.", "Perception"],
+["National Intergroup Inc.", "Aspectual"],
+["National Intergroup Inc.", "Intensional Action"],
+["National Intergroup Inc.", "Intensional State"]
+]
+
+Explanation:
+
+1. National Intergroup Inc. - State: The company is in a state of having a charge of $5.3 million related to the sale of its aluminum unit's extrusion division.
+2. National Intergroup Inc. - Occurrence: The company has agreed to sell the extrusion division for $15 million to R.D. Werner Co.
+3. National Intergroup Inc. - Reporting: The company has reported a charge of $5.3 million related to the sale of its aluminum unit's extrusion division.
+4. National Intergroup Inc. - Perception: The company has agreed to sell the extrusion division for $15 million to R.D. Werner Co.
+5. National Intergroup Inc. - Aspectual: The company has agreed to sell the extrusion division for $15 million to R.D. Werner Co.
+6. National Intergroup Inc. - Intensional Action: The company has agreed to sell the extrusion division for $15 million to R.D. Werner Co.
+7. National Intergroup Inc. - Intensional State: The company is in a state of having a charge of $5.3 million related to the sale of its aluminum unit's extrusion division.
+
+Please note that the output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.

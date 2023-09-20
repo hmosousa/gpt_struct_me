@@ -1,0 +1,29 @@
+[
+["Elco Industries Inc.", "State"],
+["net income", "Occurrence"],
+["$1.65 a share", "Aspectual"],
+["sales", "Occurrence"],
+["fiscal year", "State"],
+["$155 million", "Aspectual"],
+["industrial unit", "Aspectual"],
+["margin pressures", "Aspectual"],
+["lower demand", "Aspectual"]
+]
+
+Explanation:
+
+* Elco Industries Inc. is an entity and its class is State.
+* net income is an occurrence and its class is Aspectual.
+* $1.65 a share is an aspectual event and its class is Aspectual.
+* sales is an occurrence and its class is Aspectual.
+* fiscal year is a state and its class is State.
+* $155 million is an aspectual event and its class is Aspectual.
+* industrial unit is an aspectual entity and its class is Aspectual.
+* margin pressures is an aspectual event and its class is Aspectual.
+* lower demand is an aspectual event and its class is Aspectual.
+
+Note:
+
+* Aspectual events are events that are described in terms of their aspect, such as $1.65 a share, which is described as an aspectual event because it is described in terms of its aspect (the amount of money per share).
+* Intensional events are events that are described in terms of their intentionality, such as the industrial unit facing margin pressures, which is described as an intensional event because it is described in terms of the intentionality of the unit (to face margin pressures).
+* State events are events that are described in terms of their state, such as the fiscal year, which is described as a state event because it is described in terms of the state of the company (the fiscal year).

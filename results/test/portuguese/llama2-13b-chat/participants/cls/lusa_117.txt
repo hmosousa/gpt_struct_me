@@ -1,0 +1,19 @@
+[
+["Person", "Condutor"],
+["Person", "Filipe Guimarães"],
+["Organization", "Bombeiros"],
+["Location", "Arcos de Valdevez"],
+["Location", "Hospital de Braga"],
+["Location", "Hospital de Viana do Castelo"],
+["Object", "viatura"],
+["Object", "poste"],
+["Other", "óleo"]
+]
+
+Explanation:
+
+* "Condutor" and "Filipe Guimarães" are both classified as "Person".
+* "Bombeiros" is classified as "Organization".
+* "Arcos de Valdevez", "Hospital de Braga", and "Hospital de Viana do Castelo" are all classified as "Location".
+* "viatura" and "poste" are both classified as "Object".
+* "óleo" is classified as "Other".

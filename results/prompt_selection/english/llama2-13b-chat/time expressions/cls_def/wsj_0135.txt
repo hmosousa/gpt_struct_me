@@ -1,0 +1,27 @@
+[
+["year ending June 30, 1990", "Date"],
+["fiscal year", "Duration"],
+["fiscal 1989", "Date"],
+["$1.65 a share", "Duration"],
+["$155 million", "Duration"],
+["7.8 million", "Duration"],
+["$1.125", "Duration"]
+]
+
+Explanation:
+
+* year ending June 30, 1990: Date (specific point in time)
+* fiscal year: Duration (time period)
+* fiscal 1989: Date (specific point in time)
+* $1.65 a share: Duration (time period)
+* $155 million: Duration (time period)
+* 7.8 million: Duration (time period)
+* $1.125: Duration (time period)
+
+Note:
+
+* The input text is a news article about a company's financial performance.
+* The task is to extract and classify all temporal expressions in the text.
+* The output should be a JSON-parseable list of temporal expressions, where each element is a list of two strings: the entity (e.g. "year ending June 30, 1990") and the class (e.g. "Date").
+* The classes are: Date, Time, Duration, and Set.
+* The temporal expressions are: year ending June 30, 1990, fiscal year, fiscal 1989, $1.65 a share, $155 million, 7.8 million, and $1.125.

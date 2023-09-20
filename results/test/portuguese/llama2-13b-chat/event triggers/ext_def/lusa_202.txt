@@ -1,0 +1,7 @@
+["morreu", "despiste", "motociclo", "Estrada Nacional 17", "Celorico da Beira", "Guarda", "alerta", "sinistro", "14:28", "Cortiço da Serra", "concelho de Celorico da Beira", "óbito", "condutor", "Viatura Médica de Emergência e Reanimação", "GNR", "Núcleo de Investigação de Crimes em Acidentes de Viação", "Bombeiros Voluntários de Celorico da Beira", "VMER da Guarda"]
+
+Note:
+The list of event triggers should include all the events that are mentioned in the text, regardless of their grammatical category (noun, verb, adjective, etc.).
+
+Hint:
+Look for words or phrases that indicate a specific action, state, or occurrence. Pay attention to the temporal information provided in the text, such as times, dates, and durations.

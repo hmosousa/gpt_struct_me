@@ -1,0 +1,25 @@
+[
+["year ending June 30, 1990", "Date"],
+["fiscal 1989", "Date"],
+["current fiscal year", "Duration"],
+["$155 million", "Set"],
+["$7.8 million", "Set"],
+["$1.65 a share", "Set"],
+["$1.125", "Duration"]
+]
+
+Explanation:
+
+* year ending June 30, 1990: Date
+* fiscal 1989: Date
+* current fiscal year: Duration
+* $155 million: Set
+* $7.8 million: Set
+* $1.65 a share: Set
+* $1.125: Duration
+
+Note:
+
+* All time expressions are extracted and classified according to the given classes.
+* The input text is a news article, and the time expressions are extracted based on their context and meaning.
+* The output is a JSON-parseable list of time expressions, where each element is a list of two strings: the entity and the class.

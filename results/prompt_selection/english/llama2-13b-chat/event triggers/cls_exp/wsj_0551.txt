@@ -1,0 +1,17 @@
+[
+["Trustcorp Inc.", "State"],
+["Society Corp. of Cleveland", "Occurrence"],
+["Society Corp.", "Reporting"],
+["the bank", "Perception"],
+["the transaction", "Intensional Action"],
+["$450 million", "Intensional State"]
+]
+
+Explanation:
+
+* Trustcorp Inc. is in the state of being acquired by Society Corp.
+* Society Corp. of Cleveland is the location where the occurrence of the merger will take place.
+* Society Corp. is reporting the merger.
+* "the bank" is a perception of the entity that is being acquired.
+* The transaction is an intensional action that will result in the change of Trustcorp Inc. to Society Bank amp Trust.
+* The amount of $450 million is an intensional state of the transaction.

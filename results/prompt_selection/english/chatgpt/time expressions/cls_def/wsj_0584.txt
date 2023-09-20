@@ -1,0 +1,1 @@
+[["Friday", "Date"], ["shortly before", "Time"], ["earlier this month", "Date"], ["1994 or later", "Date"], ["about $115 to $125", "Duration"], ["about $112 to $118", "Duration"], ["Over the weekend", "Date"], ["June 1994", "Date"], ["after five years", "Duration"], ["in 1995", "Date"], ["For 1988", "Date"], ["Friday", "Date"]]

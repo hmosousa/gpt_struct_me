@@ -1,0 +1,18 @@
+[
+["Courtaulds PLC announced plans", "Occurrence"],
+["The British chemical and textile company's plan", "Occurrence"],
+["The establishment of the separate company", "Occurrence"],
+["Investors welcomed the move", "Occurrence"],
+["Courtaulds' shares rose 15 pence", "Occurrence"],
+["Courtaulds' spinoff reflects pressure on British industry", "Reporting"],
+["Courtaulds' restructuring is among the largest thus far in Britain", "Reporting"],
+["The divested Courtaulds textile operations had operating profit of #50 million", "Reporting"],
+["Some analysts have said Courtaulds' moves could boost the company's value", "Reporting"],
+["Courtaulds said the moves are logical because they will allow both the chemicals and textile businesses to focus more closely on core activities", "Reporting"],
+["Courtaulds has been under pressure to enhance shareholder value", "Reporting"],
+["Courtaulds is moving to keep its institutional shareholders happy", "Reporting"],
+["The company said:", "Reporting"],
+["Both parts can only realize their full potential and be appropriately valued by the market", "Aspectual"],
+["The sharper definition and the autonomy which each will thereby gain will benefit shareholders, customers and employees", "Aspectual"],
+["Courtaulds Chairman and Chief Executive Sir Christopher Hogg will remain in both posts at the surviving chemical company after the spinoff", "Occurrence"]
+]

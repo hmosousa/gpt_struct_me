@@ -1,0 +1,10 @@
+[
+  ["William C. Walbrecher Jr.", "State"],
+  ["William C. Walbrecher Jr.", "Occurrence"],
+  ["William C. Walbrecher Jr.", "Reporting"],
+  ["William C. Walbrecher Jr.", "Perception"],
+  ["William C. Walbrecher Jr.", "Aspectual"],
+  ["William C. Walbrecher Jr.", "Intensional Action"],
+  ["William C. Walbrecher Jr.", "Intensional State"]
+]
+

@@ -1,0 +1,11 @@
+[
+["said", "Reporting"],
+["declared", "Reporting"],
+["has", "State"],
+["were issued", "Occurrence"],
+["will enable", "Intensional Action"],
+["may be exercised", "Intensional Action"],
+["said", "Reporting"],
+["will issue", "Intensional Action"],
+["will be", "Intensional State"]
+]

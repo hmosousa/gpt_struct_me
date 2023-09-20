@@ -1,0 +1,9 @@
+["3.1 million", "1.20 a share", "Donald A. Wright", "Kyle Technology Corp.", "Kyle", "Seattle", "investor", "company", "spokesman", "shareholders", "manufactures", "electronic components"]
+
+Explanation:
+The above text contains 13 time expressions.
+
+Note:
+The input text may contain other linguistic elements such as numbers, dates, and names.
+
+

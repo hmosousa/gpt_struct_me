@@ -1,0 +1,21 @@
+[
+["AVON RENT-A-CAR amp TRUCK Corp.", "State"],
+["declared a dividend", "Occurrence"],
+["one warrant for each three shares of common stock", "Reporting"],
+["Currently", "Aspectual"],
+["Avon, based in Santa Monica, Calif.", "State"],
+["3.3 million common shares outstanding", "State"],
+["1.1 million Class C warrants were issued", "Occurrence"],
+["Each of the Class C warrants", "Intensional Action"],
+["will enable the holders to purchase one share of common stock at $5.50", "Intensional State"],
+["The warrants may be exercised until 90 days after their issue date", "Aspectual"],
+["Avon also said it will issue an additional 243,677 of the Class C warrants", "Occurrence"],
+["to holders of its Class A, Class B and unclassified warrants", "Reporting"],
+["Issuance of those warrants", "Intensional Action"],
+["will be at the rate of one-third warrant for each warrant exercised", "Intensional State"]
+]
+
+Note:
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please provide the correct output for the given input in the specified format.

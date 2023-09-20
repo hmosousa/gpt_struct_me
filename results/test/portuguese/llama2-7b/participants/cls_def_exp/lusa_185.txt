@@ -1,0 +1,24 @@
+[["um homem", "Per"], ["de 32 anos", "Per"], ["de acordo com", "Per"], ["informou", "Per"], ["a GNR", "Org"], ["de acordo com", "Per"], ["a Lusa", "Org"], ["por", "Per"], ["às 19:30", "Per"], ["as autoridades", "Org"], ["iniciaram", "Per"], ["as buscas", "Per"], ["no local", "Loc"], ["o corpo", "Per"], ["depois", "Per"], ["da meia-noite", "Per"], ["e retirado", "Per"], ["do rio", "Loc"], ["nas proximidades", "Loc"], ["do local", "Loc"], ["onde", "Loc"], ["as autoridades", "Org"], ["encontraram", "Per"], ["os haveres", "Per"], ["do pescador", "Per"], ["de acordo com", "Per"], ["a fonte", "Org"], ["o caso", "Per"], ["foi", "Per"], ["entregue", "Per"], ["à Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem encontrado morto no rio Tua na zona de Mirandela
+Um homem de 32 anos foi encontrado morto ao início da madrugada de hoje no rio Tua, na zona de Valverde da Gestosa, em Mirandela, local para onde terá ido pescar, informou a GNR.
+De acordo com informação disponibilizada à Lusa por aquela força de segurança, o homem terá saído de casa na manhã de domingo para ir à pesca.
+Por volta das 19:30, as autoridades foram alertadas para o desaparecimento e iniciaram buscas no local.
+O corpo foi encontrado depois da meia-noite e retirado do rio nas proximidades do local onde as autoridades encontraram os haveres do pescador.
+De acordo com a fonte, o caso foi entregue à Polícia Judiciária para serem apuradas as circunstâncias da morte."
+
+Output:
+[["um homem", "Per"], ["de 32 anos", "Per"], ["de acordo com", "Per"], ["informou", "Per"], ["a GNR", "Org"], ["de acordo com", "Per"], ["a Lusa", "Org"], ["por", "Per"], ["às 19:30", "Per"], ["as autoridades", "Org"], ["iniciaram", "Per"], ["as buscas", "Per"], ["no local", "Loc"], ["o corpo", "Per"], ["depois", "Per"], ["da meia-noite", "Per"], ["e retirado", "Per"], ["do rio", "Loc"], ["nas proximidades", "Loc"], ["do local", "Loc"], ["onde", "Loc"], ["as autoridades", "Org"], ["encontraram", "Per"], ["os haveres", "Per"], ["do pescador", "Per"], ["de acordo com", "Per"], ["a fonte", "Org"], ["o caso", "Per"], ["foi", "Per"], ["entregue", "Per"], ["à Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem encontrado morto no rio Tua na zona de Mirandela
+Um homem de 32 anos foi encontrado morto ao início da madrugada de hoje no rio Tua, na zona de Valverde da Gestosa, em Mirandela, local para onde terá ido pescar, informou a GNR.
+De acordo com informação disponibilizada à Lusa por aquela força de segurança, o homem terá saído de casa na manhã de domingo para ir à pesca.
+Por volta das 19:30, as autoridades foram alertadas para o desaparecimento e iniciaram buscas no

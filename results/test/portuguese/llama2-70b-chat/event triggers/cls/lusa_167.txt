@@ -1,0 +1,33 @@
+[
+["Homem", "State"],
+["60 anos", "Aspectual"],
+["andaime", "Occurrence"],
+["Ponte de Lima", "Location"],
+["hoje", "Intensional State"],
+["três a quatro metros", "Aspectual"],
+["obra", "Occurrence"],
+["Carlos Lima", "Perception"],
+["acidente de trabalho", "Occurrence"],
+["construção civil", "Occurrence"],
+["Ribeira", "Location"],
+["10:33", "Intensional State"],
+["SIV", "Reporting"],
+["VMER", "Reporting"],
+["GNR", "Reporting"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to the physical condition of the person.
+* "60 anos" is classified as "Aspectual" because it describes the age of the person.
+* "andaime" is classified as "Occurrence" because it refers to the event that caused the injury.
+* "Ponte de Lima" is classified as "Location" because it refers to the place where the event occurred.
+* "hoje" is classified as "Intensional State" because it refers to the current state of the person.
+* "três a quatro metros" is classified as "Aspectual" because it describes the height from which the person fell.
+* "obra" is classified as "Occurrence" because it refers to the event that caused the injury.
+* "Carlos Lima" is classified as "Perception" because it refers to the person's name.
+* "acidente de trabalho" is classified as "Occurrence" because it refers to the event that caused the injury.
+* "construção civil" is classified as "Occurrence" because it refers to the type of work being done.
+* "Ribeira" is classified as "Location" because it refers to the place where the event occurred.
+* "10:33" is classified as "Intensional State" because it refers to the time at which the event occurred.
+* "SIV", "VMER", and "GNR" are classified as "Reporting" because they refer to the entities that reported the event.

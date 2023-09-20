@@ -1,0 +1,22 @@
+[
+{
+"Orkem S.A.",
+"State"
+},
+{
+"Coates Brothers PLC",
+"Occurrence"
+},
+{
+"Orkem Coatings U.K. Ltd",
+"Aspectual"
+},
+{
+"Ormek S.A.",
+"Intensional Action"
+},
+{
+"Coates Brothers PLC",
+"Intensional State"
+}
+]

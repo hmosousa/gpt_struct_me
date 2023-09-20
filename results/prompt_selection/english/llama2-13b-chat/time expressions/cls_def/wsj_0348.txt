@@ -1,0 +1,39 @@
+[
+["Ogden Projects Inc.", "Date"],
+["$6.6 million", "Number"],
+["18 cents a share", "Number"],
+["a year ago", "Duration"],
+["$1.1 million", "Number"],
+["four cents a share", "Number"],
+["third quarter", "Duration"],
+["$101.7 million", "Number"],
+["$39.5 million", "Number"],
+["yesterday", "Date"],
+["$26.875", "Number"],
+["$14 apiece", "Number"],
+["13 facilities", "Set"],
+["seven a year ago", "Duration"],
+["Ogden Corp.", "Organization"],
+["$27.1 million", "Number"],
+["67 cents a share", "Number"],
+["more than twice the $13.5 million", "Duration"],
+["$13.5 million", "Number"],
+["34 cents a share", "Number"],
+["a year earlier", "Duration"]
+]
+
+Explanation:
+
+1. "Ogden Projects Inc." is a date expression, as it refers to a specific point in time (the third quarter).
+2. "$6.6 million" and "$1.1 million" are number expressions, as they represent specific amounts of money.
+3. "18 cents a share" and "four cents a share" are number expressions, as they represent specific amounts of money per share.
+4. "a year ago" is a duration expression, as it refers to a specific period of time in the past (a year).
+5. "yesterday" is a date expression, as it refers to a specific point in time (yesterday).
+6. "$26.875" and "$14 apiece" are number expressions, as they represent specific amounts of money.
+7. "13 facilities" is a set expression, as it refers to a specific group of things (facilities).
+8. "seven a year ago" is a duration expression, as it refers to a specific period of time in the past (a year).
+9. "Ogden Corp." is an organization expression, as it refers to a specific entity (Ogden Corp.).
+10. "$27.1 million" and "$13.5 million" are number expressions, as they represent specific amounts of money.
+11. "67 cents a share" and "34 cents a share" are number expressions, as they represent specific amounts of money per share.
+12. "more than twice the $13.5 million" is a duration expression, as it refers to a specific period of time (more than twice).
+13. "a year earlier" is a duration expression, as it refers to a specific period of time in the past (a year).

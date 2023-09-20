@@ -1,0 +1,9 @@
+["in cash and stock", "from an all-cash transaction", "new proposal", "12 cash and one new preferred share", "2 years", "5 years", "special committee of the company's board"]
+Explanation:
+* "in cash and stock" is a temporal expression representing the offer being made in both cash and stock.
+* "from an all-cash transaction" is a temporal expression representing the change in the offer from an all-cash transaction to one including stock.
+* "new proposal" is a temporal expression representing the new offer being made by Equus.
+* "12 cash and one new preferred share" is a temporal expression representing the terms of the new offer, including the amount of cash and the number of preferred shares to be received.
+* "2 years" is a temporal expression representing the period of time during which the preferred stock would accrue dividends but not be paid.
+* "5 years" is a temporal expression representing the period of time during which the preferred stock would be redeemed, subject to the terms of the surviving company's debt.
+* "special committee of the company's board" is a temporal expression representing the committee to which the offer would be submitted for review and approval.

@@ -1,0 +1,15 @@
+[["Um homem de 61 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["na sequência", "Per"], ["do despiste", "Per"], ["do automóvel", "Obj"], ["que", "Per"], ["conduzia", "Obj"], ["na Estrada Municipal 524", "Loc"], ["no concelho", "Loc"], ["de Marvão", "Loc"], ["distrito", "Loc"], ["de Portalegre", "Loc"], ["disseram", "Per"], ["fontes", "Per"], ["da Proteção Civil", "Org"], ["e", "Per"], ["da GNR", "Org"], ["as mesmas", "Per"], ["fontes", "Per"], ["indicaram", "Per"], ["à agência", "Org"], ["Lusa", "Org"], ["que", "Per"], ["o óbito", "Per"], ["foi", "Per"], ["declarado", "Per"], ["no local", "Loc"], ["pelo médico", "Per"], ["da viatura médica", "Obj"], ["de emergência", "Obj"], ["e", "Per"], ["reanimação", "Obj"], ["(VMER)", "Obj"], ["do hospital", "Loc"], ["de Portalegre", "Loc"], ["e", "Per"], ["que", "Per"], ["o homem", "Per"], ["era", "Per"], ["o único", "Per"], ["ocupante", "Per"], ["do veículo", "Obj"], ["ligeiro", "Obj"], ["de passageiros", "Obj"], ["As mesmas", "Per"], ["fontes", "Per"], ["do Comando", "Org"], ["Distrital", "Org"], ["de Operações", "Org"], ["de Socorro", "Org"], ["(CDOS)", "Org"], ["de Portalegre", "Loc"], ["O alerta", "Per"], ["foi", "Per"], ["dado", "Per"], ["às", "Per"], ["19:23", "Per"], ["Foram", "Per"], ["mobilizados", "Per"], ["bombeiros", "Org"], ["e", "Per"], ["viaturas", "Org"], ["da corporação", "Org"], ["de Marvão", "Loc"], ["e", "Per"], ["a VMER", "Org"], ["além", "Per"], ["da GNR", "Org"], ["num total", "Per"], ["de", "Per"], ["oito", "Per"], ["elementos", "Per"], ["apoio", "Per"], ["por", "Per"], ["quatro", "Per"], ["viaturas", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 61 anos morre em despiste de automóvel em Marvão
+Um homem de 61 anos morreu hoje, na sequência do despiste do automóvel que conduzia na Estrada Municipal 524 no concelho de Marvão, distrito de Portalegre, disseram fontes da Proteção Civil e da GNR.
+As mesmas fontes indicaram à agência Lusa que o óbito foi declarado no local pelo médico da viatura médica de emergência (VMER), do hospital de Portalegre, e que o homem era o único ocupante do veículo ligeiro de passageiros.
+Segundo fonte do Comando Distrital de Operações de Socorro (CDOS) de Portalegre, o acidente ocorreu na zona da Bica, na freguesia de Beirã, tendo o corpo do homem sido encaminhado para o serviço de Medicina Legal do hospital de Portalegre.
+O alerta, de acordo com CDOS, foi dado às 19:23.
+Foram mobilizados bombeiros e veículos da corporação de Marvão e a VMER, além da GNR, num total de oito elementos, apoiados por quatro viaturas."
+
+Output:
+[["Um homem de 61 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["na sequência

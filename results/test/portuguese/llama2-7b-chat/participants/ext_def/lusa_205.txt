@@ -1,0 +1,34 @@
+[
+"Polícia Judiciária",
+"suspeito",
+"Évora",
+"telemóveis",
+"pornografia de menores",
+"56 anos",
+"distrito de Évora",
+"Unidade Local de Investigação Criminal",
+"informação recolhida",
+"PJ",
+"busca domiciliária",
+"ficheiros informáticos",
+"imagens de menores",
+"situações de cariz sexual",
+"medidas de coação"
+]
+Explanation:
+The output is a JSON-parseable list of strings, where each string represents a participant in the event described in the input text. The participants are:
+* "Polícia Judiciária": the police force that conducted the investigation and detained the suspect.
+* "suspeito": the person suspected of committing the crime of child pornography.
+* "Évora": the location where the suspect was detained.
+* "telemóveis": the mobile devices that were seized during the investigation.
+* "pornografia de menores": the crime of child pornography.
+* "56 anos": the age of the suspect.
+* "distrito de Évora": the district where the suspect resides.
+* "Unidade Local de Investigação Criminal": the local criminal investigation unit that conducted the investigation.
+* "informação recolhida": the information collected during the investigation.
+* "PJ": a abbreviation for "Polícia Judiciária", the Portuguese police force.
+* "busca domiciliária": the search of the suspect's home.
+* "ficheiros informáticos": the digital files seized during the investigation.
+* "imagens de menores": the images of minors involved in the crime.
+* "situações de cariz sexual": the sexual situations involving minors.
+* "medidas de coação": the measures that may be taken against the suspect, such as coercion.

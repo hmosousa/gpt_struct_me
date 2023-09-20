@@ -1,0 +1,20 @@
+[
+"third quarter",
+"9%",
+"$20.6 million",
+"98 cents a share",
+"3%",
+"$19.2 million",
+"91 cents a share",
+"$1.4 million",
+"$3.3 million",
+"$368.5 million",
+"8%",
+"$340.7 million",
+"16%",
+"$77.2 million",
+"$3.68 a share",
+"$7.7 million",
+"$1.15 billion",
+"$1.06 billion"
+]

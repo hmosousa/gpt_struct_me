@@ -1,0 +1,19 @@
+[
+["adopted", "Occurrence"],
+["shareholder-rights plan", "State"],
+["annual meeting", "Occurrence"],
+["took effect", "Occurrence"],
+["pending ratification", "State"],
+["issued", "Occurrence"],
+["triggered", "Occurrence"],
+["acquires", "Intensional Action"],
+["triggered", "Occurrence"],
+["allow", "Intensional Action"],
+["buy", "Intensional Action"],
+["receive", "Intensional Action"],
+["posted", "Reporting"],
+["net income", "State"],
+["had", "State"],
+["net loss", "State"],
+["Sales", "State"]
+]

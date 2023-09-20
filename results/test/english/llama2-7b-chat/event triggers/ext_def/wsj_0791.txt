@@ -1,0 +1,53 @@
+[
+"said",
+"make a tender offer",
+"some or all of",
+"common shares",
+"Phoenix Technologies Ltd.",
+"Norwood Partners Limited Partnership of Boston",
+"losses",
+"stock",
+"trading",
+"under $4 a share",
+"yesterday",
+"closed",
+"$1.125",
+"Securities and Exchange Commission filing",
+"talks with other shareholders",
+"Phoenix declined to comment",
+"controlled",
+"Daniel L. Barnett",
+"Paul A. Reese",
+"Boston-based Oasis Capital Management Inc.",
+"Robert F. Angelo",
+"formerly Phoenix's senior vice president, field operations",
+"consultant to Oasis"
+]
+
+Note:
+This output is a list of strings that represent the event triggers in the given text. Event triggers are the words or phrases that indicate a significant change or occurrence in the story. In this case, the event triggers are:
+* "said" - indicates a statement or comment made by a character.
+* "make a tender offer" - indicates a potential change in the ownership of Phoenix Technologies Ltd.
+* "some or all of" - indicates a range or scope of something, in this case, the potential change in ownership.
+* "common shares" - indicates a specific type of ownership or investment.
+* "Phoenix Technologies Ltd." - indicates the name of the company that is the focus of the story.
+* "Norwood Partners Limited Partnership of Boston" - indicates the name of the group or entity making the potential tender offer.
+* "losses" - indicates a negative change or development in the company's financial situation.
+* "stock" - indicates a specific type of investment or ownership.
+* "trading" - indicates the activity of buying or selling securities.
+* "under $4 a share" - indicates a specific price range for the company's stock.
+* "yesterday" - indicates a specific point in time in the past.
+* "closed" - indicates the completion or ending of a transaction or event.
+* "$1.125" - indicates a specific amount of money.
+* "Securities and Exchange Commission filing" - indicates a formal document or report filed with the government agency.
+* "talks with other shareholders" - indicates a conversation or negotiation between the group and other investors.
+* "Phoenix declined to comment" - indicates that the company did not provide a statement or response to the group's potential tender offer.
+* "controlled" - indicates that the group has a significant amount of influence or ownership over the company.
+* "Daniel L. Barnett" - indicates the name of an officer or executive of the group.
+* "Paul A. Reese" - indicates the name of an officer or executive of the group.
+* "Boston-based Oasis Capital Management Inc." - indicates the name of the company or entity that controls the group.
+* "Robert F. Angelo" - indicates the name of a former executive of the company.
+* "formerly Phoenix's senior vice president, field operations" - indicates the former position or job title of the person.
+* "consultant to Oasis" - indicates the person's current role or job title.
+
+Each of these event triggers represents a significant change or occurrence in the story, and can be used to identify the key points or events in the text.

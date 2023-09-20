@@ -1,0 +1,18 @@
+[
+  ["second day", "Duration"],
+  ["offensive", "Set"],
+  ["security forces", "Set"],
+  ["villages", "Set"],
+  ["ethnic Albanians", "Set"],
+  ["mid afternoon", "Time"],
+  ["Belgrade", "Date"],
+  ["capital of Serbia", "Date"],
+  ["whole attack", "Set"],
+  ["ethnic Albanians", "Set"],
+  ["Kosovo", "Date"],
+  ["future", "Set"],
+  ["wider conflict", "Set"],
+  ["Karyn Coleman", "Date"],
+  ["BBC news", "Date"],
+  ["Pristina", "Date"]
+]

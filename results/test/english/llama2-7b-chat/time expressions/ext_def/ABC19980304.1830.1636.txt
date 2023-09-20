@@ -1,0 +1,17 @@
+["in December", "twenty years", "just", "the fact", "Eileen Collins", "being commander", "flew as the first ever co-pilot", "nobody hurried her up", "no one held her back", "two hundred and thirty four", "only twenty six"]
+Note:
+* The output is a list of strings, each representing a time expression in the input text.
+* The time expressions in the input text are:
+	+ "in December"
+	+ "twenty years"
+	+ "just"
+	+ "the fact"
+	+ "Eileen Collins"
+	+ "being commander"
+	+ "flew as the first ever co-pilot"
+	+ "nobody hurried her up"
+	+ "no one held her back"
+	+ "two hundred and thirty four"
+	+ "only twenty six"
+
+* Each time expression is a JSON-parseable string, which can be used to extract more information about the time expression, such as its grammatical category (e.g., adverb, adjective, noun), its part of speech, and its syntactic role in the sentence.

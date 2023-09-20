@@ -6,6 +6,7 @@ import logging
 import requests
 from pathlib import Path
 
+import replicate
 import boto3
 import dotenv
 import openai
@@ -25,6 +26,7 @@ MODELS_PATH = ROOT / "resources" / "models"
 dotenv.load_dotenv(ROOT / ".env")
 
 HF_KEY = os.getenv("HF_KEY")
+os.environ["REPLICATE_API_TOKEN"] = os.getenv("REPLICATE_KEY")
 
 
 class Falcon:
@@ -82,19 +84,8 @@ class Llama2InferenceAPI:
 
         self.endpoint = f"https://api-inference.huggingface.co/models/meta-llama/{model_name}"
         self.headers = {"Authorization": f"Bearer {HF_KEY}"}
-        self.eos_token_id = 2
-        self.pad_token_id = 0
-
+        
     def __call__(self, prompt: str) -> str:
-        answer_start_char = len(prompt)
-        for _ in range(3):
-            answer = self.generate(prompt)
-            prompt += answer
-            if is_json(prompt[answer_start_char:]):
-                return prompt[answer_start_char:]
-        return prompt[answer_start_char:]
-
-    def generate(self, prompt: str) -> str:
         payload = {
             "inputs": prompt,
             "parameters": {
@@ -208,3 +199,30 @@ class HFInferenceLocal:
         )
         answer = reponse.generated_text
         return answer
+
+
+def llama2_70b(prompt: str, max_tokens: int = 500) -> str:
+    """API from [Replicate](https://replicate.com/). To minimize the number of tokens generated, 
+    this function checks if the tokens generated are valid JSON. If not, it continues generating 
+    until the max_tokens in reached."""
+    
+    payload = {
+        "prompt": prompt,
+        "max_new_tokens": max_tokens,
+        "temperature": 0.01,
+        "seed": 123,
+        "top_k": 1
+    }
+    
+    generator = replicate.run(
+        "meta/llama-2-70b:a52e56fee2269a78c9279800ec88898cecb6c8f1df22a6483132bea266648f00",
+        input=payload
+    )
+
+    tokens = []
+    for item in generator:
+        tokens.append(item)
+        answer = "".join(tokens)
+        if is_json(answer):
+            return answer
+    return answer

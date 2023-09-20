@@ -1,0 +1,11 @@
+[
+"hoje",
+"perto do meio-dia",
+"68 anos",
+"houve",
+"alvo de",
+"reanimação cardiorrespiratória",
+"dificuldades",
+"internado",
+"libre de perigo"
+]

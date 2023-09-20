@@ -1,0 +1,10 @@
+[
+  ["Esselte AB", "State"],
+  ["Esselte AB", "Occurrence"],
+  ["Esselte AB", "Reporting"],
+  ["Esselte AB", "Perception"],
+  ["Esselte AB", "Aspectual"],
+  ["Esselte AB", "Intensional Action"],
+  ["Esselte AB", "Intensional State"]
+]
+

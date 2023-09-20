@@ -1,0 +1,15 @@
+[
+"GNR",
+"homem",
+"Cabeceiras de Basto",
+"Refojos de Basto",
+"52 anos",
+"borracha",
+"pernas",
+"Comando Territorial da GNR",
+"Braga",
+"Lusa",
+"detido",
+"juiz de instrução",
+"Polícia Judiciária"
+]

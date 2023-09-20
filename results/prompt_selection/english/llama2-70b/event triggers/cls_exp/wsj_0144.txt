@@ -1,0 +1,44 @@
+[['Travelers Corp', 'State'], ['third-quarter', 'Occurrence'], ['Hugo', 'Reporting'], ['$40 million', 'Aspectual'], ['$3 billion', 'Intensional Action'], ['$3.2 billion', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using porter stemming algorithm"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def tag_tokens(tokens):
+   """Tags tokens using POS tagger"""
+   tagged = pos_tag(tokens)
+   return [tup[1].lower() for tup in tagged if not any([tup[0][:2] == "NN", tup[0][:2] == "JJ"])]
+
+def classify_event_triggers(text, classes=None):
+   """Classifies event triggers from text and returns a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class."""
+   # Get stoplist
+   stoplist = get_stoplist()
+   
+   # Tokenize text into sentences
+   sentences = word_tokenize(text)
+   
+   # Strip punctuation from sentences
+   stripped = [[word for word in sentence if word != '.' and word != ','] for sentence in sentences]
+   
+   # Remove stop words from sentences
+   filtered = [[word for word in sentence if word not in stoplist] for sentence in stripped]
+   
+   # Tag tokens
+   tagged = [[tag_tokens(sentence)] for sentence in filtered]
+   
+   # Stem tokens
+   stem

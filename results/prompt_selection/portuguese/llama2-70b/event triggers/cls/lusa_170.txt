@@ -1,0 +1,43 @@
+[["Encontrado","Occurrence"], ["corpo","State"], ["homem","Aspectual"], ["rochosa","Perception"], ["costa","Reporting"], ["Terceira","Intensional Action"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Read the file and tokenize it
+with open('../data/task1.txt', 'r') as f:
+   text = f.read()
+tokens = word_tokenize(text)
+
+# Remove punctuation from tokens
+punctuations = ['!','?','(',')','-']
+for p in punctuations:
+   for i in range(len(tokens)):
+       if tokens[i].endswith(p):
+           tokens[i] = tokens[i][:-1]
+
+# Strip all non-alphanumeric characters
+for i in range(len(tokens)):
+   tokens[i] = tokens[i].strip().lower()
+
+# Get POS tags of each token
+pos_tags = [pos_tag([t])[0][1] for t in tokens]
+
+# Create a list with all possible classes
+classes = ['State', 'Occurrence', 'Reporting', 'Perception', 'Aspectual', 'Intensional Action', 'Intensional State']
+
+# Initialize dictionary to store results
+results = {}
+
+# Iterate over tokens, tagging them according to their class
+for i in range(len(tokens)):
+   # Check if token is not a stopword or a number
+   if (not tokens[i] in stopwords.words('portuguese')) and (not tokens[i].isdigit()) and (not pos_tags[i] == "CD"):
+       # If it's an adjective, check if it has a comparative form
+       if pos_tags[i] == "JJ":
+           if tokens[i + 1] != "que":
+               stemmer = PorterStemmer()
+               tokens[i] = stemmer

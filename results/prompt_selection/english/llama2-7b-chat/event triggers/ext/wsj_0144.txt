@@ -1,0 +1,17 @@
+[
+"Hurricane Hugo",
+"California earthquake",
+"third-quarter",
+"net income",
+"claims",
+"results",
+"revenue",
+"fourth-quarter",
+"pre-tax charge",
+"commercial property/casualty lines",
+"personal property/casualty business",
+"employee benefits group",
+"group health insurance operations",
+"year-ago results",
+"underperforming real estate and mortgage loans"
+]

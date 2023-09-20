@@ -1,0 +1,27 @@
+[
+["Homem", "Person"],
+["PSP", "Organization"],
+["prédio", "Location"],
+["fogo", "Object"],
+["feridos", "Nature"],
+["inalação de fumo", "Nature"],
+["assistência médica", "Object"],
+["unidade hospitalar", "Object"],
+["danoss materiais de relevo", "Object"],
+["realojamentos", "Object"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "PSP" is an organization.
+* "prédio" is a location.
+* "fogo" is an object.
+* "feridos" is a nature (i.e. a type of injury or harm).
+* "inalação de fumo" is a nature.
+* "assistência médica" is an object.
+* "unidade hospitalar" is an object.
+* "danoss materiais de relevo" is an object.
+* "realojamentos" is an object.
+
+Note that in this output, each element is a list of two strings: the first string is the entity (e.g. "Homem"), and the second string is the class (e.g. "Person"). This is in JSON-parseable list format, as requested.

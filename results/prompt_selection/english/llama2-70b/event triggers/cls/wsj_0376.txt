@@ -1,0 +1,39 @@
+[['Courtaulds PLC', 'Occurrence'], ['plans', 'Aspectual'], ['spin off', 'Intensional Action'], ['textiles operations', 'State'], ['restructuring', 'Reporting'], ['boost', 'Perception'], ['shareholder value', 'Occurrence']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words from NLTK corpus"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using Porter Stemmer"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def tag_tokens(tokens):
+   """Tags tokens with part-of-speech tags"""
+   tagged = pos_tag(tokens)
+   return tagged
+
+def classify_tags(tagged):
+   """Classifies each tagged token into a category"""
+   classes = {
+           "VB": ["Action", "Intensional Action"],
+           "NN": ["Entity", "State"],
+           "NNS": ["Entity", "State"],
+           "JJ": ["Aspectual"],
+           "RB": ["Perception"]}
+   
+   # Classes that are not included in the above dictionary will be labeled as Occurrences
+   occurrences = [x[0] for x in tagged if x[1].lower() not in classes]
+   actions = [x[0] for x in tagged if x[1][:2] == 'VB']
+   entities = [x[0] for x in tagged if x[1][:3] == 'NN.' or x[1][:4] == 'NNS']
+   aspects = [x[0] for x in tagged if x[1][:2] == 'JJ' and x[0

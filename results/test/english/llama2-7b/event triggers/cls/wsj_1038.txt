@@ -1,0 +1,10 @@
+[
+  ["Benjamin Franklin Federal Savings amp Loan Association", "State"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Occurrence"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Reporting"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Perception"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Aspectual"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Intensional Action"],
+  ["Benjamin Franklin Federal Savings amp Loan Association", "Intensional State"]
+]
+

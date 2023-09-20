@@ -1,0 +1,8 @@
+["Kyle Technology Corp. said a Seattle investor has signed a letter of intent to buy the company for about $3.1 million, or $1.20 a share.", "The investor, Donald A. Wright, plans to run the company, said a spokesman for Kyle.", "The transaction has been approved by Kyle's board, but requires the approval of the company's shareholders."]
+
+Explanation:
+The input text contains three events:
+
+1. "Kyle Technology Corp. said a Seattle investor has signed a letter of intent to buy the company for about $3.1 million, or $1.20 a share." - This event describes the signing of a letter of intent to buy the company.
+2. "The investor, Donald A. Wright, plans to run the company, said a spokesman for Kyle." - This event describes the plans of the investor to run the company.
+3. "The transaction has been approved by Kyle's board, but requires the approval of the company's shareholders." - This event describes the approval of the transaction by the company's board.

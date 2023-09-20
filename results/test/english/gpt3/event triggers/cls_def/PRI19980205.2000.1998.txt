@@ -1,0 +1,1 @@
+[["demonstrating", "Occurrence"], ["rise", "State"], ["Chanting", "Perception"], ["took", "Intensional Action"], ["Joblessness", "State"], ["highest", "Aspectual"], ["election", "Reporting"], ["record", "Aspectual"], ["abandoned", "Intensional State"], ["eager", "Perception"], ["dispense", "Intensional Action"]]

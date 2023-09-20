@@ -1,0 +1,27 @@
+[
+["Elco Industries Inc.", "State"],
+["net income", "Occurrence"],
+["year ending June 30, 1990", "Aspectual"],
+["fall below", "Intensional Action"],
+["a recent analyst's estimate of $1.65 a share", "Intensional State"],
+["sales", "Occurrence"],
+["current fiscal year", "Aspectual"],
+["slightly above", "Intensional Action"],
+["fiscal 1989 sales of $155 million", "Intensional State"],
+["industrial unit", "State"],
+["margin pressures", "Occurrence"],
+["lower demand", "Occurrence"],
+["fiscal 1989", "Aspectual"],
+["$7.8 million", "Occurrence"],
+["$1.65 a share", "Intensional State"],
+["stock", "State"],
+["fell $1.125 to $13.625", "Occurrence"]
+]
+
+In this task, you will be given a sentence or a paragraph and asked to extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event, such as "said," "expects," "falls," "earned," etc. The goal is to identify and classify each event trigger in the given text into one of the seven classes: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity (the word or phrase that triggered the event), and the second string is the class (one of the seven classes mentioned above).
+
+For example, in the given input text, "Elco Industries Inc." is a State, "net income" is an Occurrence, "year ending June 30, 1990" is an Aspectual, "fall below" is an Intensional Action, and "a recent analyst's estimate of $1.65 a share" is an Intensional State.
+
+Note that some words or phrases may trigger multiple events, and some events may belong to multiple classes. Your task is to identify and classify each event trigger accurately.

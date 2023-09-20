@@ -1,0 +1,9 @@
+[
+"três a quatro metros",
+"10:33"
+]
+
+Explanation:
+
+* "três a quatro metros" is a time expression indicating the height from which the man fell.
+* "10:33" is a time expression indicating the time at which the alert was given.

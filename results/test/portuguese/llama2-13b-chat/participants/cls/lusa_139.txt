@@ -1,0 +1,29 @@
+[
+["GNR", "Organization"],
+["de Leiria", "Location"],
+["deteta", "Object"],
+["descarregamento", "Object"],
+["ilegal", "Other"],
+["efluentes", "Object"],
+["suinícolas", "Object"],
+["soil", "Location"],
+["freguesia", "Location"],
+["Bidoeira de Cima", "Location"],
+["concelho", "Location"],
+["Leiria", "Location"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* de Leiria is a location.
+* deteta is an object.
+* descarga is an object.
+* ilegal is an other.
+* efluentes is an object.
+* suinícolas is an object.
+* soil is a location.
+* freguesia is a location.
+* Bidoeira de Cima is a location.
+* concelho is a location.
+* Leiria is a location.

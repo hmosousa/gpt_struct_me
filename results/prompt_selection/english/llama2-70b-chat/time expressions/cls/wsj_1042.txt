@@ -1,0 +1,26 @@
+[
+["90 days", "Duration"],
+["1.1 million", "Set"],
+["1 share", "Set"],
+["$5.50", "Set"],
+["3.3 million", "Set"],
+["1.1 million", "Set"],
+["243,677", "Set"],
+["1 warrant", "Set"],
+["3 shares", "Set"],
+["1 share", "Set"],
+["$5.50", "Set"]
+]
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+
+Explanation:
+The time expressions in the given text are:
+
+* "90 days" (duration)
+* "1.1 million" and "243,677" (sets)
+* "1 share" and "3 shares" (sets)
+* "$5.50" (set)
+
+The output is a list of pairs, where each pair consists of the entity and its corresponding class.

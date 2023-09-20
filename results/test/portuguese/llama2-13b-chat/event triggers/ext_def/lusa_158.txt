@@ -1,0 +1,15 @@
+["colisão automóvel", "morrer", "vítima", "acidente", "condutor", "ferido ligeiro", "hospital", "Braga"]
+
+Explanation:
+The input text describes an event, specifically a car accident, where a 48-year-old man died and another person was slightly injured. The output list contains all the event triggers found in the text, which are:
+
+* "colisão automóvel" (car accident)
+* "morrer" (to die)
+* "vítima" (victim)
+* "acidente" (accident)
+* "condutor" (driver)
+* "ferido ligeiro" (slightly injured)
+* "hospital" (hospital)
+* "Braga" (place)
+
+Note that the output list is in JSON-parseable format, with each event trigger represented as a string.

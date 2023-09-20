@@ -1,0 +1,19 @@
+["third quarter", "a year ago", "this summer", "yesterday", "13 facilities", "seven a year ago", "third-quarter", "a year earlier"]
+
+Explanation:
+The extraction of temporal expressions can be useful in various applications such as event extraction, text summarization, and information retrieval. In this task, we are asked to extract all time expressions from a given text. The output should be a list of strings that represent the temporal expressions found in the text.
+
+The text given in the input is a news article that discusses the financial performance of two companies, Ogden Projects Inc. and Ogden Corp. The article mentions various time-related information, such as the third quarter, a year ago, this summer, yesterday, and a year earlier. Additionally, it mentions the number of facilities the companies have, both currently and a year ago.
+
+The output for this task should include all the temporal expressions found in the text, which are:
+
+* third quarter
+* a year ago
+* this summer
+* yesterday
+* 13 facilities (this is a numerical expression that refers to the number of facilities the company has currently)
+* seven a year ago (this is a numerical expression that refers to the number of facilities the company had a year ago)
+* third-quarter (this is an adjective phrase that modifies the noun "net income" and refers to the third quarter of the year)
+* a year earlier (this is an adjective phrase that modifies the noun "net income" and refers to the net income of a year earlier)
+
+Note that the output should be a JSON-parseable list of strings, which means that the list should be enclosed in square brackets [] and each element in the list should be a string enclosed in double quotes.

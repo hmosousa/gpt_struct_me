@@ -1,0 +1,14 @@
+[
+"sharp decline",
+"third quarter",
+"year-ago period",
+"37%",
+"15%",
+"30 cents",
+"48 cents",
+"Dean Witter Reynolds",
+"Sunnyvale",
+"International Business Machines Corp.",
+"principal competitor",
+"mainframe sales"
+]

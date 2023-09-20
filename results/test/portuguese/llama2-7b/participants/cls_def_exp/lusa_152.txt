@@ -1,0 +1,52 @@
+[["Governo angolano", "Org"], ["lamenta", "Per"], ["morte", "Per"], ["de", "Per"], ["duas", "Per"], ["pessoas", "Per"], ["em", "Per"], ["incêndio", "Per"], ["hospitalar", "Per"], ["no", "Loc"], ["Cunene", "Loc"], ["a", "Loc"], ["ministra", "Per"], ["da", "Per"], ["Saúde", "Org"], ["de", "Per"], ["Angola", "Loc"], ["lamentou", "Per"], ["a", "Per"], ["morte", "Per"], ["de", "Per"], ["um", "Per"], ["doente", "Per"], ["grave", "Per"], ["e", "Per"], ["um", "Per"], ["recém-nascido", "Per"], ["que", "Per"], ["necessitava", "Per"], ["de", "Per"], ["cuidados", "Per"], ["especiais", "Per"], ["O", "Loc"], ["incêndio", "Per"], ["registado", "Per"], ["na", "Loc"], ["noite", "Per"], ["de", "Per"], ["segunda-feira", "Per"], ["afetou", "Per"], ["as", "Per"], ["áreas", "Per"], ["do", "Per"], ["bloco", "Per"], ["operatório", "Per"], ["enfermarias", "Per"], ["cirúrgicas", "Per"], ["e", "Per"], ["o", "Per"], ["posto", "Per"], ["de", "Per"], ["armazenamento", "Per"], ["de", "Per"], ["oxigênio", "Per"], ["Sílvia", "Per"], ["Lutucuta", "Per"], ["lamentou", "Per"], ["que", "Per"], ["houve", "Per"], ["necessidade", "Per"], ["de", "Per"], ["se", "Per"], ["transferir", "Per"], ["os", "Per"], ["pacientes", "Per"], ["para", "Per"], ["outras", "Per"], ["unidades", "Per"], ["hospitalares", "Per"], ["da", "Per"], ["zona", "Loc"], ["salientando", "Per"], ["que", "Per"], ["uma", "Per"], ["equipa", "Per"], ["da", "Per"], ["linha", "Per"], ["da", "Per"], ["frente", "Per"], ["mobilizou-se", "Per"], ["para", "Per"], ["evitar", "Per"], ["o", "Per"], ["pior", "Per"], ["com", "Per"], ["os", "Per"], ["demais", "Per"], ["doentes", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+"""
+
+import json
+import re
+import sys
+
+from collections import defaultdict
+from typing import List
+
+
+def parse_json(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_list(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON string into a list of lists of strings.
+    """
+    return parse_json(json_str)
+
+
+def parse_json_dict(json_str: str) -> dict:
+    """
+    Parse a JSON string into a dictionary.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_dict_list(json_str: str) -> List[dict]:
+    """
+    Parse a JSON string into a list of dictionaries.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_dict_list_of_lists(json_str: str) -> List[List[dict]]:
+    """
+    Parse a JSON string into a list of lists of dictionaries.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_dict_list_of_lists_of_lists(json_str: str) -> List[List[List[dict]]]:
+    """

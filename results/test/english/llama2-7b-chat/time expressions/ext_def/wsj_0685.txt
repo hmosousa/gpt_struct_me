@@ -1,0 +1,5 @@
+["completed", "has been", "acquisition", "merger", "agreed", "be", "acquired", "group", "led", "Blackstone", "Partners", "Limited", "Partnership", "for", "share", "about", "million"]
+Note:
+* Time expressions are in bold.
+* Some time expressions may be represented by multiple words (e.g., "completed" and "has been").
+* Some time expressions may be implied rather than explicitly stated (e.g., "As reported" implies that the time of the acquisition was previously mentioned).

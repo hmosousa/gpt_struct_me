@@ -1,0 +1,12 @@
+[
+"Homem",
+"Mirandela",
+"Tua",
+"Valverde da Gestosa",
+"GNR",
+"Lusa",
+"Pescador",
+"Casa",
+"Autoridades",
+"Polícia Judiciária"
+]

@@ -1,0 +1,32 @@
+["General Motors Corp.", "Set"], ["$15 million", "Duration"], ["U.S.", "Date"], ["Tuesday", "Time"], ["Ford", "Set"], ["Jaguar", "Set"], ["Britain", "Set"], ["December 31st, 1990", "Date"], ["14 months", "Duration"]]
+"""
+import json
+from datetime import date, timedelta
+
+def extract_time(text):
+   """Extract time expressions from text using regexes.
+   
+   Args:
+       text (str): Text to search through.
+       
+   Returns:
+       list: List of tuples containing extracted time expressions and their classes.
+   """
+   # Regexes for different types of time expressions
+   date = r"\b(?P<date>((?:(?:january|february|march|april|may|june|july|august|september|october|november|december)[a-z]*\s+)?(?:\d{2}\s*[a-zA-Z]{3})?\s*\d{4}))"
+   time = r"\b(?P<time>(?:[0-1]\d:[0-5]\d([ap]\.?m\.?)|\d{1,2}(?::\d{2})?([ap]\.?m\.?)))\b"
+   duration = r"\b(?P<duration>\d+\s*(year|month|week|day|hour|minute))\b"
+   set = r"\b(?P<set>[A-Z][a-z]+)"
+   
+   # Extract all matches with the above regexes
+   dates = re.findall(date, text)
+   times = re.findall(time, text)
+   durations = re.findall(duration, text)
+   sets = re.findall(set, text)
+   
+   # Convert each match into a tuple and add it to the output list
+   output = []
+   for d in dates:
+       output.append((d, "Date"))
+   for t in times:
+       output.append((t, "Time"))

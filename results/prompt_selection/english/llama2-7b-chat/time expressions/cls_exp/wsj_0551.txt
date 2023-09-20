@@ -1,0 +1,7 @@
+[["Trustcorp Inc.", "Date"], ["Society Corp.", "Date"], ["Society Corp.", "Time"], ["Trustcorp Inc.", "Duration"], ["Society Corp.", "Duration"]]
+Explanation:
+* "Trustcorp Inc." is a date expression, as it refers to a specific point in time (the merger's completion).
+* "Society Corp." is a date expression, as it refers to a specific point in time (the transaction's closing).
+* "around year end" is a duration expression, as it refers to a time period (a few months).
+* "12.4 million shares of stock" is a duration expression, as it refers to a quantity of time (a few months).
+* "about $450 million" is a duration expression, as it refers to a quantity of time (a few months).

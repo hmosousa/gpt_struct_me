@@ -3,7 +3,7 @@
 import re
 from collections import defaultdict
 
-from src.base import Document
+from src.base import LusaDocument
 
 
 class AnnParser:
@@ -13,7 +13,7 @@ class AnnParser:
         r"(\w+)\t(Event|Time|Spatial_Relation|Participant|Measure) (.*)\t(.*)")
     annotator_note_regex = re.compile(r"#\d+\tAnnotatorNotes (.*)\t(.*)")
 
-    def parse(self, annotation: str) -> Document:
+    def parse(self, annotation: str) -> LusaDocument:
         """Parse a file with the BRAT annotation."""
 
         annotation = annotation.strip()

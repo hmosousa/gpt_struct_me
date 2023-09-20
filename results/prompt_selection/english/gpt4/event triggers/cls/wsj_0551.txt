@@ -1,0 +1,11 @@
+[
+["will become", "Intensional Action"],
+["merger", "Occurrence"],
+["is completed", "Aspectual"],
+["said", "Reporting"],
+["agreed", "Reporting"],
+["to buy", "Intensional Action"],
+["transaction", "Occurrence"],
+["is expected", "Perception"],
+["to close", "Intensional Action"]
+]

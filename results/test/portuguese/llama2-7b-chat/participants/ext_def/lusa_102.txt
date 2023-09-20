@@ -1,0 +1,15 @@
+[
+"Homem",
+"PSP",
+"Prédio",
+"Aveiro",
+"Fogo",
+"Feridos",
+"Inalação de fumo",
+"Roupa",
+"Hall de entrada",
+"Transporte hospitalar",
+"Bombeiros Voluntários",
+"Responsabilidade criminal",
+"Polícia Judiciária"
+]

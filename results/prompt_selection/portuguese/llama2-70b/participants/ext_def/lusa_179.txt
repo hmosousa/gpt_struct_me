@@ -1,0 +1,1 @@
+["Homem", "companheira", "juiz de instrução", "Ministério Público (MP)", "Penafiel", "mulher", "homem", "Polícia Judiciária", "vítima", "arguido", "sujeita", "portugal"]

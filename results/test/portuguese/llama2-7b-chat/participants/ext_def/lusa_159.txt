@@ -1,0 +1,19 @@
+[
+"PJ da Guiné-Bissau",
+"homem",
+"3 quilos de cocaína",
+"aeroporto",
+"Lisboa",
+"PJ",
+"Ministério Público",
+"aeroporto Osvaldo Vieira",
+"cidadão luso-guineense",
+"47 anos",
+"outro cidadão luso-guineense",
+"22 anos",
+"aquisição",
+"entrega",
+"facilitação",
+"droga",
+"introdução"
+]

@@ -1,0 +1,1 @@
+[["allocated", "OCCURRENCE"], ["build", "OCCURRENCE"], ["designed", "OCCURRENCE"], ["used", "OCCURRENCE"], ["entered", "OCCURRENCE"], ["making", "ASPECTUAL"]]

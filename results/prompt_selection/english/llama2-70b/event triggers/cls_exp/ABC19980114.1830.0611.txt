@@ -1,0 +1,1 @@
+[["Washington", "State"], ["Federal Aviation Administration", "Occurrence"], ["air traffic control tapes", "Reporting"], ["night", "Aspectual"], ["plane exploded", "Intensional Action"], ["ABC's Lisa Stark", "Perception"], ["more", "Intensional State"]]

@@ -1,0 +1,2 @@
+[["Trustcorp Inc.", "State"], ["Trustcorp Inc.", "Occurrence"], ["Trustcorp Inc.", "Reporting"], ["Trustcorp Inc.", "Perception"], ["Trustcorp Inc.", "Aspectual"], ["Trustcorp Inc.", "Intensional Action"], ["Trustcorp Inc.", "Intensional State"]]
+

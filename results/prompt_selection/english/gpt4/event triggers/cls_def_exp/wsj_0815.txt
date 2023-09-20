@@ -1,0 +1,11 @@
+[
+["continuing talks", "Occurrence"],
+["reached", "State"],
+["seeking alternatives", "Intensional Action"],
+["tender offer", "Occurrence"],
+["being used", "State"],
+["pursue", "Intensional Action"],
+["stands to reap", "Intensional State"],
+["sale", "Occurrence"],
+["accepting", "Intensional Action"]
+]

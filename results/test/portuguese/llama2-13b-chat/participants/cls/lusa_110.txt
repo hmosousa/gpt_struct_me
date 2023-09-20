@@ -1,0 +1,18 @@
+[
+["Sicários", "Person"],
+["Assassinos contratados", "Person"],
+["Vítimas", "Person"],
+["Trabalhadores agrícolas", "Organization"],
+["Ministério Público", "Organization"],
+["Cartéis", "Organization"],
+["Violência com ligações ao crime organizado", "Other"]
+]
+
+Explanation:
+
+* Sicários e assassinos contratados são considerados como pessoas, pois são indivíduos humanos que cometeram os crimes.
+* As vítimas são pessoas, pois são as pessoas que foram mortas.
+* Trabalhadores agrícolas é uma organização, pois é um grupo de pessoas que trabalham na agricultura.
+* Ministério Público é uma organização, pois é um órgão governamental responsável por investigar e processar crimes.
+* Cartéis é uma organização, pois é um grupo de pessoas envolvidas no tráfico de drogas.
+* Violência com ligações ao crime organizado é um outro, pois é um tipo de crime que está relacionado com o narcotráfico e as questões de vingança entre cartéis rivais.

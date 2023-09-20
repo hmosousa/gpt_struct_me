@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["sofreu", "Per"], ["queimaduras", "Per"], ["na face", "Loc"], ["e", "Per"], ["nos membros superiores", "Per"], ["teve", "Per"], ["se", "Per"], ["ser", "Per"], ["conduzido", "Per"], ["ao", "Loc"], ["Hospital", "Org"], ["de", "Loc"], ["São", "Loc"], ["João", "Loc"], ["Porto", "Loc"], ["indicou", "Per"], ["fonte", "Org"], ["dos", "Org"], ["bombeiros", "Org"], ["locales", "Org"], ["o", "Per"], ["homem", "Per"], ["de", "Per"], ["58", "Per"], ["anos", "Per"], ["sofreu", "Per"], ["queimaduras", "Per"], ["de", "Per"], ["segundo", "Per"], ["e", "Per"], ["terceiro", "Per"], ["graus", "Per"], ["e", "Per"], ["o", "Per"], ["alerta", "Per"], ["foi", "Per"], ["dado", "Per"], ["às", "Per"], ["13", "Per"], ["41", "Per"], ["fonte", "Org"], ["dos", "Org"], ["bombeiros", "Org"], ["voluntários", "Org"], ["famalicenses", "Org"], ["dizia", "Per"], ["à", "Loc"], ["Lusa", "Org"], ["que", "Per"], ["ainda", "Per"], ["se", "Per"], ["desconhece", "Per"], ["a", "Per"], ["causa", "Per"], ["do", "Per"], ["acidente", "Per"], ["sabendo", "Per"], ["se", "Per"], ["apenas", "Per"], ["que", "Per"], ["esta", "Per"], ["relacionado", "Per"], ["com", "Per"], ["o", "Per"], ["manuseamento", "Per"], ["de", "Per"], ["gasolina", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem sofre queimaduras de segundo e terceiro grau em Famalicão
+Um homem sofreu hoje queimaduras “na face e nos membros superiores” enquanto manuseava gasolina em Vale de S. Martinho, Vila Nova de Famalicão, e teve se ser conduzido ao Hospital de São João, Porto, indicou fonte dos bombeiros locais.
+O homem de 58 anos sofreu queimaduras de segundo e terceiro graus e o alerta foi dado às 13:41.
+Fonte dos Bombeiros Voluntários Famalicenses disse à Lusa que “a vítima foi levada para o Hospital de São João” e que “ainda se desconhece a causa do acidente”, sabendo-se “apenas que está relacionado com o manuseamento de gasolina”.
+O transporte foi feito pela Viatura Médica de Emergência e Reanimação (VMER) do Hospital de Famalicão, do distrito de Braga."
+
+Output:
+[["um homem", "Per"], ["sofreu", "Per"], ["queimaduras", "Per"], ["na face", "Loc"], ["e", "Per"], ["nos membros superiores", "Per"], ["teve", "Per"], ["se", "Per"], ["ser", "Per"], ["conduzido", "Per"], ["ao", "Loc"], ["Hospital", "Org"], ["de", "Loc"], ["São", "Loc"], ["João", "Loc"], ["Porto", "Loc"], ["indicou", "Per"], ["fonte", "Org"], ["dos", "Org"], ["bombeiros", "Org"], ["locales", "Org"], ["o", "Per"], ["homem", "Per"], ["de", "Per"], ["58", "Per"], ["anos", "Per"], ["sofreu", "Per"], ["queimaduras", "Per"], ["de",

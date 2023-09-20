@@ -1,0 +1,3 @@
+["detenção", "prisão preventiva", "violência doméstica", "maus-tratos", "ameaças de morte", "refugiou", "encontro", "prática do crime", "antecedentes criminais", "coação de prisão preventiva"]
+
+Please note that the output should be a JSON-parseable list of strings, where each string represents an event trigger.

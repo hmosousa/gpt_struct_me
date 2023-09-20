@@ -1,0 +1,22 @@
+[
+{
+"National Intergroup",
+"Date",
+"2001-09-01"
+},
+{
+"National Intergroup",
+"Time",
+"1 year ago"
+},
+{
+"National Intergroup",
+"Duration",
+"3 months"
+},
+{
+"National Intergroup",
+"Set",
+"$15 million"
+}
+]

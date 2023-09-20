@@ -1,0 +1,12 @@
+[
+"atualizada",
+"hoje",
+"07:50",
+"segunda",
+"minutos",
+"horas",
+"dias",
+"semanas",
+"meses",
+"anos"
+]

@@ -1,0 +1,44 @@
+[
+["Jim Pattison Industries Ltd.", "State"],
+["Jim Pattison Industries Ltd.", "Occurrence"],
+["Jim Pattison Industries Ltd.", "Reporting"],
+["Jim Pattison Industries Ltd.", "Perception"],
+["Jim Pattison Industries Ltd.", "Aspectual"],
+["Jim Pattison Industries Ltd.", "Intensional Action"],
+["Jim Pattison Industries Ltd.", "Intensional State"],
+["Innopac Inc.", "State"],
+["Innopac Inc.", "Occurrence"],
+["Innopac Inc.", "Reporting"],
+["Innopac Inc.", "Perception"],
+["Innopac Inc.", "Aspectual"],
+["Innopac Inc.", "Intensional Action"],
+["Innopac Inc.", "Intensional State"],
+["Martin Fabi", "State"],
+["Martin Fabi", "Occurrence"],
+["Martin Fabi", "Perception"],
+["Martin Fabi", "Aspectual"],
+["Martin Fabi", "Intensional Action"],
+["Martin Fabi", "Intensional State"],
+["McDonald's Corp.", "State"],
+["McDonald's Corp.", "Occurrence"],
+["McDonald's Corp.", "Perception"],
+["McDonald's Corp.", "Aspectual"],
+["McDonald's Corp.", "Intensional Action"],
+["McDonald's Corp.", "Intensional State"],
+["Mobil Corp.", "State"],
+["Mobil Corp.", "Occurrence"],
+["Mobil Corp.", "Perception"],
+["Mobil Corp.", "Aspectual"],
+["Mobil Corp.", "Intensional Action"],
+["Mobil Corp.", "Intensional State"]
+]
+
+Explanation:
+
+* "Jim Pattison Industries Ltd." is a State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State because it is a company that is involved in various business activities and is the subject of a statement about its intentions to seek control of Innopac Inc.
+* "Innopac Inc." is a State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State because it is a company that is involved in various business activities and is the subject of a statement about Jim Pattison Industries Ltd.'s intentions to seek control of it.
+* "Martin Fabi" is a State, Occurrence, Perception, Aspectual, Intensional Action, and Intensional State because he is a person who is involved in the business activities of Innopac Inc. and is the subject of a statement about his views on Jim Pattison Industries Ltd.'s intentions to seek control of Innopac Inc.
+* "McDonald's Corp." is a State, Occurrence, Perception, Aspectual, Intensional Action, and Intensional State because it is a company that is involved in the fast food industry and is mentioned in the context of Innopac Inc.'s business activities.
+* "Mobil Corp." is a State, Occurrence, Perception, Aspectual, Intensional Action, and Intensional State because it is a company that is involved in the oil industry and is mentioned in the context of Innopac Inc.'s business activities.
+
+Note that the classes are not mutually exclusive, and an entity can be classified under multiple classes depending on its role in the sentence or context.

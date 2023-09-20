@@ -1,0 +1,3 @@
+["in the past two quarters", "recently", "yesterday", "last week", "in the near future", "within the next few days", "within the next week", "within the next month", "within the next few months", "within the next year"]
+Note:
+The output is a list of time expressions in the input text. The time expressions are identified using the format "X Y", where X is a unit of time (such as second, minute, hour, day, week, month, or year) and Y is a specific value or range of values associated with that unit. For example, "recently" is a time expression that represents a specific time period (i.e., within the past few days or weeks). Similarly, "within the next few days" is a time expression that represents a specific time period (i.e., within the next 2-3 days).

@@ -1,0 +1,15 @@
+[
+"Homem",
+"Felgueiras",
+"Regilde",
+"Vítima",
+"Bombeiros",
+"Júlio Pereira",
+"Vizela",
+"Ambulância",
+"Viatura de desencarceramento",
+"Viatura de resgate em grande ângulo",
+"VMER",
+"Hospital de Guimarães",
+"GNR"
+]

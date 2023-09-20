@@ -1,0 +1,10 @@
+[
+  ["International Women's Day", "State"],
+  ["International Women's Day", "Occurrence"],
+  ["International Women's Day", "Reporting"],
+  ["International Women's Day", "Perception"],
+  ["International Women's Day", "Aspectual"],
+  ["International Women's Day", "Intensional Action"],
+  ["International Women's Day", "Intensional State"]
+]
+

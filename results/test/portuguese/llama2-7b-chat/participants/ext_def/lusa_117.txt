@@ -1,0 +1,17 @@
+[
+"Acidente em Arcos de Valdevez",
+"condutor",
+"Hospital de Braga",
+"Estrada Nacional 101",
+"Filipe Guimarães",
+"Hospital de Viana do Castelo",
+"São Paio e Giela",
+"estado muito grave",
+"bombeiros",
+"tunning",
+"ferimentos graves",
+"politraumatizado",
+"segundo testemunhas oculares",
+"ferimentos ligeiros",
+"Hospital de Viana do Castelo"
+]

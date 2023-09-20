@@ -1,0 +1,1 @@
+[["International Women's Day", "Occurrence"], ["Sunday", "Aspectual"], ["March eighth", "Reporting"], ["Special events", "State"], ["European Commission", "Perception"], ["North America", "Intensional Action"], ["other parts of the world", "Intensional State"]]

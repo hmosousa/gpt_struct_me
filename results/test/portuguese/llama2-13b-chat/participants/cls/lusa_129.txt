@@ -1,0 +1,29 @@
+[
+["Person", "Man"],
+["Organization", "GNR"],
+["Object", "berbigão"],
+["Location", "Valença"],
+["Nature", "cerastoderma edule"],
+["Facility", "Unidade de Controlo Costeiro"],
+["Other", "auto de contraordenação"]
+]
+
+Explanation:
+
+* Person: "Man"
+* Organization: "GNR"
+* Object: "berbigão"
+* Location: "Valença"
+* Nature: "cerastoderma edule"
+* Facility: "Unidade de Controlo Costeiro"
+* Other: "auto de contraordenação"
+
+Note:
+
+* "Man" is a person because the text mentions "um homem" (a man).
+* "GNR" is an organization because it is a government agency.
+* "berbigão" is an object because it is a type of seafood.
+* "Valença" is a location because it is a place where the apreensão occurred.
+* "cerastoderma edule" is a nature because it is a species of bivalve mollusk.
+* "Unidade de Controlo Costeiro" is a facility because it is a unit of the GNR.
+* "auto de contraordenação" is an other because it is a legal document.

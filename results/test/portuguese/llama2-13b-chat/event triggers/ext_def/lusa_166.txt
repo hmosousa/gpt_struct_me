@@ -1,0 +1,4 @@
+["caído da berma da via para a ribeira", "acidente"]
+
+Explanation:
+The input text describes the event of a man found dead in a river in the village of Fráguas, Tondela. The text mentions that the man fell from the embankment of the road to the river, which is considered an accident. The output list contains the two events mentioned in the text: "caído da berma da via para a ribeira" (fell from the embankment of the road to the river) and "acidente" (accident).

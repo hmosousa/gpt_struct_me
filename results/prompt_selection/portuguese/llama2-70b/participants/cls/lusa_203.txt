@@ -1,0 +1,27 @@
+[['Homem', 'Person'], ['sete pessoas', 'Person'], ['fere outras sete', 'Person'], ['faca', 'Object'], ['nordeste da China', 'Location'], ['Pelo menos sete pessoas', 'Person'], ['outras sete ficaram feridas', 'Person'], ['ataque', 'Event'], ['Kaiyuan', 'Location'], ['Liaoning', 'Facility'], ['suspeito', 'Organization'], ['Yang', 'Other'], ['detido', 'Person'], ['motivo', 'Nature'], ['China', 'Location'], ['venda', 'Facility'], ['posse', 'Facility'], ['armas de fogo', 'Object'], ['explosivos caseiros', 'Object'], ['doentes mentais', 'Person'], ['rancor contra a sociedade', 'Nature'], ['seguranca', 'Person'], ['jardim de infância', 'Facility'], ['Guangxi', 'Location'], ['Junho', 'Date'], ['homem', 'Person'], ['centro commercial', 'Facility']]
+"""
+import re
+from nltk import word_tokenize, pos_tag
+from collections import Counter
+
+# Tokenizer
+def tokenize(text):
+   return [word for sent in text.split('.') for word in sent.lower().split() if len(word) > 2 and not word[0].isdigit()]
+
+# POS Tagger
+def tagger(tokens):
+   tags = []
+   for t in tokens:
+       try:
+           tags += [(t, pos_tag(t)[1])]
+       except LookupError as e:
+           print("Lookup error", e)
+           continue
+   return tags
+
+# Classifier
+class Classifier():
+   def __init__(self):
+       self._classes = {
+               "person": ["pessoa","homem","mulher"],
+               "organization": ["policia","governo","escola","faculdade","universidade","hospital","clinica","banco","companhia","empresa","partido","igreja","associaca

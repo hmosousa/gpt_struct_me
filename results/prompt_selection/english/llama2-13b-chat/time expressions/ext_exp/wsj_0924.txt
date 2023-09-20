@@ -1,0 +1,11 @@
+[
+"Aug. 9",
+"Sept. 30",
+"a year ago"
+]
+
+Explanation:
+
+* "Aug. 9" is a date expression.
+* "Sept. 30" is a date expression.
+* "a year ago" is a time expression indicating a year prior to the current date.

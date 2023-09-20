@@ -1,0 +1,1 @@
+[["expects", "Intensional Action"], ["fall", "Intensional Action"], ["said", "Reporting"], ["expects", "Intensional Action"], ["post", "Intensional Action"], ["said", "Reporting"], ["continues", "State"], ["face", "Intensional Action"], ["lower", "Intensional Action"], ["earned", "Intensional Action"], ["fell", "Intensional Action"]]

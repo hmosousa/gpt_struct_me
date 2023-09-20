@@ -1,0 +1,11 @@
+["acquisition", "approval", "completion", "year-end"]
+
+Explanation:
+The input text contains four events:
+
+1. acquisition
+2. approval
+3. completion
+4. year-end
+
+These events are extracted as a list of strings in JSON format.

@@ -1,0 +1,11 @@
+[
+"Autoridade Marítima Nacional",
+"Foz de Odeleite",
+"Castro Marim",
+"Romeno",
+"Vila Real de Santo António",
+"Centro de Coordenação de Busca e Salvamento Marítimo de Lisboa",
+"Polícia Marítima",
+"Estação Salva-vidas de Vila Real de Santo António",
+"Lusa"
+] 

@@ -1,0 +1,40 @@
+["Dirigente da Casa Branca desloca-se à Síria para tentar libertar cidadãos dos EUA", "Um dirigente da Casa Branca fez uma visita secreta à Síria, para conversações de alto nível com vista à libertação de dois cidadãos dos EUA, dados como desaparecidos no país durante a guerra civil.", "A informação foi divulgada no domingo pelo Wall Street Journal e citada pela agência Associated Press (AP).", "De acordo com a AP, um assessor de Donald Trump, Kash Patel, deslocou-se à Síria para procurar obter a libertação daqueles dois cidadãos, um dos quais o jornalista Austin Tice.", "Esta deslocação é a primeira viagem à Síria de um dirigente dos EUA de alto nível desde há anos.", "Se obtiver a libertação de Tice, um jornalista do Texas, que desapareceu enquanto cobria o conflito, em 2012, seria uma importante vitória para Trump.", "O outo desaparecido é Majd Kamalmaz, um psicólogo clínico, com 62 anos, do Estado da Virgínia, que desapareceu em 2017. Considera-se que está detido numa das prisões do regime de Damasco.", "Não houve visitas confirmadas de dirigentes de alto nível dos EUA a Damasco desde o encerramento da embaixada norte-americana e o regresso do embaixador, em 2012."]
+
+Hints:
+- Use the `split` method to split the text into sentences.
+- Use the `split` method to split the sentences into words.
+- Use the `split` method to split the words into characters.
+- Use the `split` method to split the characters into letters.
+- Use the `split` method to split the letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method to split the individual letters into individual characters.
+- Use the `split` method to split the individual characters into individual letters.
+- Use the `split` method

@@ -1,0 +1,8 @@
+["announced the effectiveness of its registration statement", "issued at an issue price of $849 for each $1,000 principal amount", "convertible at any time prior to maturity at a conversion price of $25 a share", "available through Goldman, Sachs amp Co"]
+
+Explanation:
+
+* "announced the effectiveness of its registration statement" is an event trigger because it refers to a specific action taken by the company (announcing the effectiveness of its registration statement).
+* "issued at an issue price of $849 for each $1,000 principal amount" is an event trigger because it refers to a specific action taken by the company (issuing the debentures at a specific price).
+* "convertible at any time prior to maturity at a conversion price of $25 a share" is an event trigger because it refers to a specific feature of the debentures (their convertibility).
+* "available through Goldman, Sachs amp Co" is not an event trigger, but rather a piece of information about the debentures (the company through which they can be purchased).

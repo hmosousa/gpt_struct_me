@@ -1,0 +1,126 @@
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+
+Explanation:
+The first element is the entity and the second element is the class.
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Notes
+
+- The input is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+- The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+### Test cases
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Explanation
+
+The first element is the entity and the second element is the class.
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Notes
+
+- The input is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+- The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+### Test cases
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Explanation
+
+The first element is the entity and the second element is the class.
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Notes
+
+- The input is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+- The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+### Test cases
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Explanation
+
+The first element is the entity and the second element is the class.
+
+### Example
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],
+  ["Courtaulds PLC", "Set"]
+]
+```
+
+### Notes
+
+- The input is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+- The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+### Test cases
+
+```json
+[
+  ["Courtaulds PLC", "Date"],
+  ["Courtaulds PLC", "Time"],
+  ["Courtaulds PLC", "Duration"],

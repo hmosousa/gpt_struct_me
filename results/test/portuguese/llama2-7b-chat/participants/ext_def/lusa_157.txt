@@ -1,0 +1,16 @@
+[
+"Homem",
+"Monção",
+"Tangil",
+"Viana do Castelo",
+"Comando Distrital de Operações de Socorro",
+"Instituto Nacional de Emergência Médica",
+"INEM",
+"Lusa",
+"Monção",
+"Valença",
+"Bombeiros de Monção",
+"Bombeiros de Valença",
+"Melgaço",
+"Suporte Imediato de Vida"
+]

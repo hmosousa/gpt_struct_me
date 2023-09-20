@@ -1,0 +1,16 @@
+["posse", "armas", "proibidas", "homem", "constituído", "arguido", "Paredes", "GNR", "replica", "arma", "fogo", "bastão", "extensível", "detido", "antecedentes", "criminais", "detenção", "investigação", "criminal", "NIC", "Penafiel", "suspeitas", "posse", "arma", "proibida", "investigação", "buscas", "domiciliárias", "bastão", "extensível", "antecedentes", "criminais", "condução", "habilitação", "amenaças", "constituído", "arguido", "Tribunal", "Judicial", "Paredes"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Example:
+"Homem constituído arguido em Paredes por posse de armas proibidas"
+
+The event triggers are:
+"posse", "armas", "proibidas", "homem", "constituído", "arguido", "Paredes", "GNR", "replica", "arma", "fogo", "bastão", "extensível", "detido", "antecedentes", "criminais", "detenção", "investigação", "criminal", "NIC", "Penafiel", "suspeitas", "posse", "arma", "proibida", "investigação", "buscas", "domiciliárias", "bastão", "extensível", "antecedentes", "criminais", "condução", "habilitação", "amenaças", "constituído", "arguido", "Tribunal", "Judicial", "Paredes"
+
+Note:
+The event triggers are not the same as the event types.
+
+Reference:
+https://www.aclweb.org/anthology/P18-1001

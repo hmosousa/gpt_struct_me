@@ -1,0 +1,102 @@
+[
+["International Women's Day", "Occurrence"],
+["Afghan women", "State"],
+["Special events", "Occurrence"],
+["Afghanistan", "State"],
+["war", "Occurrence"],
+["twenty years", "Aspectual"],
+["seventy-five percent", "Aspectual"],
+["Afghan refugee", "State"],
+["senior official", "State"],
+["group", "State"],
+["branches", "State"],
+["Pakistan", "State"],
+["Iran", "State"],
+["Europe", "State"],
+["Australia", "State"],
+["North America", "State"],
+["Ms. Atimadi", "State"],
+["victims", "State"],
+["severe violations", "State"],
+["human rights", "State"],
+["twenty years", "Aspectual"],
+["right to work", "State"],
+["right to survival", "State"],
+["sole support", "State"],
+["families", "State"],
+["plight", "State"],
+["urban areas", "State"],
+["greater", "Comparison"],
+["rural parts", "State"],
+["Kabul", "State"],
+["capital", "State"],
+["women", "State"],
+["symbolize", "State"],
+["suffering", "State"],
+["Afghanistan", "State"],
+["problems", "State"],
+["peace", "State"],
+["justice", "State"],
+["combatants", "State"],
+["people", "State"],
+["Afghanistan", "State"],
+["stop", "Intensional Action"],
+["bloodletting", "State"]
+]
+
+Explanation:
+The event triggers in this text are:
+
+* International Women's Day (Occurrence)
+* Afghan women (State)
+* Special events (Occurrence)
+* Afghanistan (State)
+* War (Occurrence)
+* Seventy-five percent (Aspectual)
+* Afghan refugee (State)
+* Senior official (State)
+* Group (State)
+* Branches (State)
+* Pakistan (State)
+* Iran (State)
+* Europe (State)
+* Australia (State)
+* North America (State)
+* Ms. Atimadi (State)
+* Victims (State)
+* Severe violations (State)
+* Human rights (State)
+* Twenty years (Aspectual)
+* Right to work (State)
+* Right to survival (State)
+* Sole support (State)
+* Families (State)
+* Plight (State)
+* Urban areas (State)
+* Greater (Comparison)
+* Rural parts (State)
+* Kabul (State)
+* Capital (State)
+* Women (State)
+* Symbolize (State)
+* Suffering (State)
+* Afghanistan (State)
+* Problems (State)
+* Peace (State)
+* Justice (State)
+* Combatants (State)
+* People (State)
+* Afghanistan (State)
+* Stop (Intensional Action)
+* Bloodletting (State)
+
+The classes are:
+
+* Occurrence: refers to an event or incident that happens or has happened.
+* State: refers to a condition or situation that exists or existed.
+* Aspectual: refers to a characteristic or feature of an event or state.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers to a state that is intended or planned.
+* Comparison: refers to a comparison between two or more things.
+
+Note that some of the event triggers in this text may overlap with each other, but they are all relevant to the overall event structure of the text.

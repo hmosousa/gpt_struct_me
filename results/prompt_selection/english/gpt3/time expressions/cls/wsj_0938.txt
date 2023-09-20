@@ -1,0 +1,1 @@
+[["Nov. 22", "Date"], ["two years", "Duration"], ["yesterday's", "Date"], ["C$16.40", "Set"], ["C$8.5 million", "Set"], ["C$17.50", "Set"], ["C$12.875", "Set"], ["C$16.40", "Set"], ["$100 million", "Set"]]

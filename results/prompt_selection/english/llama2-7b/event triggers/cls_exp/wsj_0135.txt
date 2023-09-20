@@ -1,0 +1,10 @@
+[
+  ["Elco Industries Inc.", "State"],
+  ["Elco Industries Inc.", "Occurrence"],
+  ["Elco Industries Inc.", "Reporting"],
+  ["Elco Industries Inc.", "Perception"],
+  ["Elco Industries Inc.", "Aspectual"],
+  ["Elco Industries Inc.", "Intensional Action"],
+  ["Elco Industries Inc.", "Intensional State"]
+]
+

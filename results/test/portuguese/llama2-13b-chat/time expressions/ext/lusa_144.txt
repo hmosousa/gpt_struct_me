@@ -1,0 +1,22 @@
+[
+"sábado",
+"segundo",
+"sábado",
+"second-feira",
+"primeiro interrogatório",
+"eventual aplicação de medidas de coação"
+]
+
+Explanation:
+
+* "sábado" is a time expression indicating the day of the week.
+* "segundo" is a time expression indicating the day of the month.
+* "sábado" is a time expression indicating the day of the week.
+* "second-feira" is a time expression indicating the day of the week.
+* "primeiro interrogatório" is a time expression indicating the order of events.
+* "eventual aplicação de medidas de coação" is a time expression indicating the potential outcome of an event.
+
+Note:
+
+* The list of time expressions is in the format of a JSON-parseable list of strings.
+* The time expressions are extracted from the input text and are presented in the order they appear in the text.

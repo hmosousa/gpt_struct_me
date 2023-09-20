@@ -1,0 +1,4 @@
+["oil prices falling", "diplomatic solution", "oil prices down", "momentum", "fourteen dollars", "twenty-two dollar barrel level", "winter of nineteen ninety-four", "gas prices fell", "two cents a gallon"]
+
+Note:
+The output should be a list of strings, where each string represents an event trigger. The events are extracted based on the given definition and the input text.

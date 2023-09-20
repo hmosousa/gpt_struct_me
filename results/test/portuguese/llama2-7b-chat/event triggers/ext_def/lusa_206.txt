@@ -1,0 +1,17 @@
+[
+"detidos",
+"disparos",
+"Lisboa",
+"Rego",
+"feridos",
+"danos",
+"viaturas",
+"local",
+"fugir",
+"interceptados",
+"detidos",
+"feridos",
+"municias",
+"carregador",
+"Polícia Judiciária"
+]

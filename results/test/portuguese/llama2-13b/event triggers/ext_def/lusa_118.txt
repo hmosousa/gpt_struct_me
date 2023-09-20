@@ -1,0 +1,20 @@
+["Covid-19: Costa em isolamento profilático após ter estado com Macron em Paris", "O primeiro-ministro portugês está a partir de hoje em isolamento profilático preventivo, depois de ter estado na quarta-feira, em Paris, com o Presidente francês, Emmanuel Macron, que testou positivo ao novo coronavírus.", "Em virtude da confirmação do teste positivo do Presidente francês Emmanuel Macron, com quem esteve ontem no Palácio do Eliseu, o primeiro-ministro encontra-se em isolamento profilático preventivo até avaliação do grau de risco por parte das autoridades de saúde.", "Depois, tal como a agência Lusa já tinha referido, adianta-se que, "no quadro da preparação da deslocação a São Tomé e Príncipe e Guiné Bissau, prevista para 18 a 20 de dezembro, o primeiro-ministro realizou hoje de manhã um teste para deteção de Covid-19.", "O primeiro-ministro decidiu cancelar essa deslocação, bem como toda a agenda pública que implique a sua presença física. Mantém toda a atividade executiva e a agenda de trabalho, que realizará à distância. O primeiro-ministro não apresenta quaisquer sintomas.", ""]
+
+Subtask:
+Extract all event triggers.
+
+Definition:
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Costa em isolamento profilático após ter estado com Macron em Paris
+O primeiro-ministro português está a partir de hoje em isolamento profilático preventivo, depois de ter estado na quarta-feira, em Paris, com o Presidente francês, Emmanuel Macron, que testou positivo ao novo coronavírus.
+"Em virtude da confirmação do teste positivo do Presidente francês Emmanuel Macron, com quem esteve ontem no Palácio do Eliseu, o primeiro-ministro encontra-se em isolamento profilático preventivo até avaliação do grau de risco por parte das autoridades de saúde", lê-se no comunicado emitido pelo gabinete de António Costa.
+Depois, tal como a agência Lusa já tinha referido, adianta-se que, "no quadro da preparação da deslocação a São Tomé e Príncipe e Guiné Bissau, prevista para 18 a 20 de dezembro, o primeiro-ministro realizou hoje de manhã um teste para deteção de Covid-19".
+"O primeiro-ministro decidiu cancelar essa deslocação, bem como toda a agenda pública que implique a sua presença física. Mantém toda a atividade executiva e a agenda de trabalho, que realizará à distância. O primeiro-ministro não apresenta quaisquer sintomas", acrescenta-se no mesmo comunicado."
+
+Output:
+["Covid-19: Costa em isolamento profilático após ter estado com Macron em Paris", "O primeiro-ministro português está a partir de hoje em isolamento profilático preventivo, depois de ter estado na quarta-feira, em Paris, com o Presidente francês, Emmanuel Macron, que testou positivo ao novo coronavírus.", "Em virtude da confirmação do teste positivo do Presidente francês Emmanuel Macron, com quem esteve ontem no Palácio do Eliseu, o primeiro-ministro encontra-se em isolamento profilático preventivo até avaliação do grau de risco por parte das autoridades de saúde.", "Depois

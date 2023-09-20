@@ -1,0 +1,8 @@
+[
+"started", "2017",
+"lived", "2016",
+"ended", "2019",
+"started", "2017",
+"manteve trato sexual", "2017-2019",
+"dated", "05 de outubro"
+]

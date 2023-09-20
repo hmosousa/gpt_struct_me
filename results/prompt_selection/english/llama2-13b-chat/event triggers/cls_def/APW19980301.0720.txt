@@ -1,0 +1,23 @@
+[
+["Israel", "State"],
+["Lebanon", "Occurrence"],
+["Benjamin Netanyahu", "Aspectual"],
+["U.N. Resolution 425", "Intensional Action"],
+["Michael Eitan", "Aspectual"],
+["Uri Lubrani", "Intensional Action"],
+["Hezbollah", "Occurrence"],
+["Syria", "State"]
+]
+
+Explanation:
+
+1. Israel - State: The event is about the Israeli government's decision to withdraw from southern Lebanon.
+2. Lebanon - Occurrence: The event is about the ongoing conflict in southern Lebanon between Israel and Hezbollah.
+3. Benjamin Netanyahu - Aspectual: The event is about Netanyahu's statements regarding Israel's willingness to withdraw from southern Lebanon.
+4. U.N. Resolution 425 - Intensional Action: The event is about the implementation of the U.N. resolution calling for Israel's withdrawal from southern Lebanon.
+5. Michael Eitan - Aspectual: Eitan's remarks about Israel's willingness to defend its northern border.
+6. Uri Lubrani - Intensional Action: Lubrani's suggestion that Israel is willing to modify its political goals in Lebanon.
+7. Hezbollah - Occurrence: The event is about the actions of Hezbollah fighters in southern Lebanon.
+8. Syria - State: The event is about Syria's interest in resuming peace talks with Israel.
+
+Note: The classes are not mutually exclusive, and an event can belong to multiple classes. For example, the event "Israel's withdrawal from southern Lebanon" can be classified as both a "State" and an "Occurrence".

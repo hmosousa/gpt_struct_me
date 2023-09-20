@@ -1,0 +1,8 @@
+[
+"Suspeita de fogo posto",
+"um incêndio",
+"danos provocados pelo fogo são apenas materiais",
+"totalmente inabitável",
+"não estava habitada",
+"havendo suspeitas de fogo posto"
+]

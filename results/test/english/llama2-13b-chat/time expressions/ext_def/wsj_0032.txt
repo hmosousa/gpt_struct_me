@@ -1,0 +1,7 @@
+[
+"today",
+"end of November"
+]
+
+Explanation:
+The input text contains two time expressions: "today" and "end of November". These expressions are extracted and returned in a JSON-parseable list of strings.

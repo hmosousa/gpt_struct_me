@@ -1,0 +1,1 @@
+[["Friday", "Date"], ["Saturday", "Date"], ["Sunday", "Date"], ["June 1994", "Date"], ["1988", "Date"], ["1990", "Date"], ["1991", "Date"], ["1990", "Time"], ["1991", "Time"], ["1994", "Time"], ["1995", "Time"], ["five years", "Duration"], ["five years", "Set"]]

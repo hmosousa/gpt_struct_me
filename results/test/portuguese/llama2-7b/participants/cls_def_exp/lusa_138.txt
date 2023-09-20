@@ -1,0 +1,14 @@
+[["GNR", "Org"], ["detém", "Per"], ["homem", "Per"], ["por", "Per"], ["maltratar", "Per"], ["e", "Per"], ["ameaçar", "Per"], ["de", "Per"], ["morte", "Per"], ["a", "Per"], ["mãe", "Per"], ["de", "Per"], ["73", "Per"], ["anos", "Per"], ["em", "Loc"], ["Gondomar", "Loc"], ["no", "Loc"], ["distrito", "Loc"], ["do", "Loc"], ["Porto", "Loc"], ["referiu", "Per"], ["a", "Per"], ["GNR", "Org"], ["na", "Loc"], ["sequência", "Per"], ["de", "Per"], ["uma", "Per"], ["denúncia", "Per"], ["que", "Per"], ["estaria", "Per"], ["ocorrendo", "Per"], ["um", "Per"], ["crime", "Per"], ["de", "Per"], ["violência", "Per"], ["doméstica", "Per"], ["os", "Per"], ["militares", "Org"], ["deslocaram", "Per"], ["seu", "Per"], ["local", "Loc"], ["e", "Per"], ["apuraram", "Per"], ["que", "Per"], ["o", "Per"], ["suspeito", "Per"], ["estaria", "Per"], ["a", "Per"], ["infligir", "Per"], ["maus", "Per"], ["tratos", "Per"], ["físicos", "Per"], ["e", "Per"], ["psicológicos", "Per"], ["bem", "Per"], ["como", "Per"], ["armas", "Obj"], ["brancas", "Obj"], ["frisou", "Per"], ["o", "Per"], ["suspeito", "Per"], ["com", "Per"], ["antecedentes", "Per"], ["criminais", "Per"], ["pela", "Per"], ["prática", "Per"], ["dos", "Per"], ["mesmos", "Per"], ["crimes", "Per"], ["vão", "Per"], ["ser", "Per"], ["presente", "Per"], ["a", "Per"], ["primeiro", "Per"], ["interrogatório", "Per"], ["no", "Loc"], ["Tribunal", "Loc"], ["Judicial", "Loc"], ["do", "Loc"], ["Porto", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém homem por maltratar e ameaçar de morte a mãe de 73 anos em Gondomar
+Um homem de 50 anos foi detido hoje por maltratar física e psicologicamente a mãe de 73 anos, em Gondomar, no distrito do Porto, referiu a GNR.
+Na sequência de uma denúncia de que estaria a ocorrer um crime de violência doméstica, os militares deslocaram-se ao local e apuraram que o suspeito estaria a infligir maus-tratos físicos e psicológicos, bem como ameaças de morte com recurso a armas brancas à mãe, sublinhou esta força policial, em comunicado.
+Após a realização de uma busca domiciliária, a GNR apreendeu duas armas brancas, frisou.
+O suspeito, com antecedentes criminais pela prática dos mesmos crimes, foi detido e vai ser presente a primeiro interrogatório no Tribunal Judicial do Porto, no sábado."
+
+Output:
+[["GNR", "Org"], ["detém", "Per"], ["homem", "Per"], ["por", "Per"], ["maltratar", "Per"], ["e", "Per"], ["ameaçar", "Per"], ["de", "Per"], ["morte", "Per"], ["a", "Per"], ["mãe", "Per"], ["de", "Per"], ["73", "Per"], ["anos", "Per"], ["em", "Loc"], ["Gondomar", "Loc"], ["no", "Loc"], ["distrito", "Loc"], ["

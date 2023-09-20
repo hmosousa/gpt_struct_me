@@ -1,0 +1,15 @@
+[["Trustcorp Inc.", "State"], ["Society Corp.", "Occurrence"], ["Society Corp.", "Perception"], ["Trustcorp Inc.", "Aspectual"], ["Society Corp.", "Intensional Action"], ["Trustcorp Inc.", "Intensional State"]]
+Explanation:
+* State: "Trustcorp Inc. will become Society Bank amp Trust when its merger is completed with Society Corp. of Cleveland, the bank said."
+* Occurrence: "Society Corp., which is also a bank, agreed in June to buy Trustcorp for 12.4 million shares of stock with a market value of about $450 million. The transaction is expected to close around year end."
+* Perception: "the bank said."
+* Aspectual: None
+* Intensional Action: None
+* Intensional State: None
+
+Note:
+* The output is a list of lists, where each inner list contains two strings, the entity and the class.
+* The input is a sentence from a news article.
+* The task is to extract and classify all event triggers in the input sentence.
+* Event triggers are words or phrases that indicate the occurrence of an event, such as "will become", "agreed", "said", etc.
+* The classes represent the different types of event triggers, such as state, occurrence, perception, etc.

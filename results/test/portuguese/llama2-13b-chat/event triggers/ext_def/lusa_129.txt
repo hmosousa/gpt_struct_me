@@ -1,0 +1,6 @@
+["apreende", "berbigão", "37.400 euros", "Unidade de Controlo Costeiro", "GNR", "Valença", "Viana do Castelo", "homem", "50 anos", "auto de contraordenação", "transporte de espécies bivalves", "infração", "coima máxima", "pescado fresco", "moluscos bivalves", "veículo pesado de mercadorias", "mercadoria apreendida", "habitat natural"]
+
+Note:
+- The list of strings should be in the format of a JSON-parseable list.
+- The strings should be separated by commas, with no spaces or quotes around the commas.
+- The strings should be in the order they appear in the input text.

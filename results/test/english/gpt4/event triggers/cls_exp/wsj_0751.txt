@@ -1,0 +1,1 @@
+[["cleared", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["said", "REPORTING"], ["approved", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["cleared", "OCCURRENCE"], ["wait", "OCCURRENCE"], ["closing", "OCCURRENCE"], ["set", "OCCURRENCE"], ["agreed", "OCCURRENCE"]]

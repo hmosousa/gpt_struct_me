@@ -1,0 +1,16 @@
+[["GNR", "Org"], ["Dois homens", "Per"], ["roubaram", "Per"], ["a caixa registadora", "Obj"], ["de uma confeitaria", "Loc"], ["no concelho de Santa Maria da Feira", "Loc"], ["um dos dois envolvidos está", "Per"], ["em fuga às autoridades", "Per"], ["diz fonte oficial", "Org"], ["da GNR", "Org"], ["O assalto", "Per"], ["foi consumado", "Per"], ["entre as 12:00", "Loc"], ["e as 12:30", "Loc"], ["numa confeitaria", "Loc"], ["de Milheirós de Poiares", "Loc"], ["Santa Maria da Feria", "Loc"], ["distrito de Aveiro", "Loc"], ["e os envolvidos atuaram", "Per"], ["de cara tapada", "Per"], ["Levaram", "Obj"], ["a caixa registadora", "Obj"], ["com um montante em dinheiro", "Per"], ["still", "Per"], ["determinado", "Per"], ["segundo", "Per"], ["a fonte", "Org"], ["Um dos assaltantes", "Per"], ["foi detido", "Per"], ["em Milheirós de Poiares", "Loc"], ["e o outro", "Per"], ["continuava", "Per"], ["a ser procurado", "Per"], ["cerca da 14:30", "Loc"], ["na procura", "Per"], ["do homem", "Per"], ["ainda a monte", "Per"], ["estão envolvidos", "Per"], ["meios", "Obj"], ["do dispositivo", "Obj"], ["territorial", "Loc"], ["da GNR", "Org"], ["e do Destacamento", "Org"], ["de Intervenção", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades encontram 100 milhões de dólares em casa de ex-presidente
+A polícia brasileira encontrou hoje, na casa de um ex-presidente, 100 milhões de dólares em dinheiro contante, informou o Ministério Público Federal.
+O dinheiro foi encontrado na casa de José Sarney, ex-presidente do Brasil, em Brasília, informou o ministério.
+O ex-presidente, que foi presidente do Senado Federal, é suspeito de ter recebido dinheiro de uma empresa estrangeira, a Odebrecht, que está envolvida em um dos maiores escândalos de corrupção da história do Brasil.
+O ministério informou que o dinheiro foi encontrado em uma casa de campo de Sarney, em Brasília, e que o ex-presidente não está sob investigação.
+O ministério informou que o dinheiro foi encontrado em uma casa de campo de Sarney, em Brasília, e que o ex-presidente não está sob investigação.
+O ministério informou que o dinheiro foi encontrado em uma casa de campo de Sarney, em Brasília, e que o ex-presidente não está sob investigação."
+
+Output:
+[["Autoridades", "Org"], ["encontram", "Per"], ["100 milhões", "Per"], ["de dólares", "Obj"], ["em casa", "Loc"], ["de ex-presidente", "Loc"], ["A polícia brasileira", "Org"], ["encontrou", "Per"], ["hoje", "Loc"], ["na casa", "Loc"], ["de um", "Per"], ["ex-presidente", "Per"], ["em Brasília", "Loc"], ["informou", "Org"], ["o Ministério Público Federal", "Org"], ["O dinheiro", "Obj"], ["foi encontrado", "Per"], ["na casa", "Loc"], ["de José Sarney", "Loc"], ["ex-presidente", "Per"], ["do Brasil", "Loc"], ["informou", "Org"], ["o ministério",

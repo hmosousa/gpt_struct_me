@@ -1,0 +1,22 @@
+[
+"laying off about 300 people",
+"centralized as a cost-cutting move",
+"result in a after-tax charge of less than $4 million",
+"earnings rose slightly",
+"capital gains at Crum amp Forster offset Hurricane Hugo payments and the reserves set up to cover future payments",
+"pricing has been cutthroat",
+"natural disasters such as Hurricane Hugo and the California earthquake have resulted in huge payments"
+]
+
+Explanation:
+The output is a list of all the events mentioned in the text. The events are:
+
+* Laying off 300 employees
+* Centralizing staff functions
+* Incurring a charge of less than $4 million
+* Earnings rising slightly
+* Capital gains offsetting Hurricane Hugo payments and reserves
+* Pricing being cutthroat
+* Natural disasters resulting in huge payments.
+
+Note that some of these events are mentioned in a negative light (e.g. layoffs, charge), while others are mentioned in a positive light (e.g. earnings rising, capital gains offsetting payments). The task is to extract all events, regardless of their positive or negative connotation.

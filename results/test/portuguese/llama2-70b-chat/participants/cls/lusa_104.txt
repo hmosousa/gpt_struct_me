@@ -1,0 +1,26 @@
+[
+["Três mortos", "Person"],
+["hipopótamo", "Object"],
+["rio", "Location"],
+["Kwanza", "Location"],
+["embarcação artesanal", "Object"],
+["oito pessoas", "Person"],
+["Baptista Sambango", "Person"],
+["Muinha", "Location"],
+["administrador municipal", "Person"],
+["ponte", "Object"],
+["população", "Person"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are the ones you defined.
+
+This task is a classification task, where you need to classify each entity in the text into one of the predefined classes.
+
+You can use Named Entity Recognition (NER) techniques to identify the entities in the text.
+
+You can use a machine learning model, such as a Support Vector Machine (SVM) or a Convolutional Neural Network (CNN), to classify the entities.
+
+You can also use a rule-based approach, where you define rules to classify the entities based on their part-of-speech tags, named entity types, or other features.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the entity and its corresponding class.

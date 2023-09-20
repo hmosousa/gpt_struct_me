@@ -1,0 +1,2 @@
+["in seconds", "in minutes", "in hours", "in days", "in weeks", "in months", "in years"]
+["2 pence", "1.26 cents", "260 pence", "450 stores", "30%", "10 Dec"]

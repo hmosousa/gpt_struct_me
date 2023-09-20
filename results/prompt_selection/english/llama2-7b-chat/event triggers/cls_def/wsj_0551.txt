@@ -1,0 +1,13 @@
+[["Trustcorp Inc.","Merger"],["Society Corp.","Merger"],["Society Corp.","Acquisition"],["Trustcorp Inc.","Acquisition"]]
+
+Explanation:
+* "Trustcorp Inc." is an entity and the class is "Merger".
+* "Society Corp." is an entity and the class is "Merger".
+* "Society Corp." is an entity and the class is "Acquisition".
+* "Trustcorp Inc." is an entity and the class is "Acquisition".
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence from a news article.
+* The event triggers are extracted based on the temporal relevance and the direct relationship with temporal expressions.
+* The classes are based on the definition of an event and the possible categories that can be applied to them.

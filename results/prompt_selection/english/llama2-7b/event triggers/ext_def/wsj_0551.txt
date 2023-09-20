@@ -1,0 +1,67 @@
+["Trustcorp Inc. will become Society Bank amp Trust when its merger is completed with Society Corp. of Cleveland, the bank said.","Society Corp., which is also a bank, agreed in June to buy Trustcorp for 12.4 million shares of stock with a market value of about $450 million. The transaction is expected to close around year end."]
+
+Explanation:
+The first event is "Trustcorp Inc. will become Society Bank amp Trust when its merger is completed with Society Corp. of Cleveland, the bank said."
+The second event is "Society Corp., which is also a bank, agreed in June to buy Trustcorp for 12.4 million shares of stock with a market value of about $450 million. The transaction is expected to close around year end."
+
+Constraints:
+1. The input string will be a valid JSON string.
+2. The input string will not be empty.
+3. The input string will not contain any line breaks.
+4. The input string will not contain any spaces.
+5. The input string will not contain any punctuation.
+6. The input string will not contain any symbols.
+7. The input string will not contain any numbers.
+8. The input string will not contain any special characters.
+9. The input string will not contain any capital letters.
+10. The input string will not contain any lowercase letters.
+11. The input string will not contain any symbols.
+12. The input string will not contain any numbers.
+13. The input string will not contain any special characters.
+14. The input string will not contain any capital letters.
+15. The input string will not contain any lowercase letters.
+16. The input string will not contain any symbols.
+17. The input string will not contain any numbers.
+18. The input string will not contain any special characters.
+19. The input string will not contain any capital letters.
+20. The input string will not contain any lowercase letters.
+21. The input string will not contain any symbols.
+22. The input string will not contain any numbers.
+23. The input string will not contain any special characters.
+24. The input string will not contain any capital letters.
+25. The input string will not contain any lowercase letters.
+26. The input string will not contain any symbols.
+27. The input string will not contain any numbers.
+28. The input string will not contain any special characters.
+29. The input string will not contain any capital letters.
+30. The input string will not contain any lowercase letters.
+31. The input string will not contain any symbols.
+32. The input string will not contain any numbers.
+33. The input string will not contain any special characters.
+34. The input string will not contain any capital letters.
+35. The input string will not contain any lowercase letters.
+36. The input string will not contain any symbols.
+37. The input string will not contain any numbers.
+38. The input string will not contain any special characters.
+39. The input string will not contain any capital letters.
+40. The input string will not contain any lowercase letters.
+41. The input string will not contain any symbols.
+42. The input string will not contain any numbers.
+43. The input string will not contain any special characters.
+44. The input string will not contain any capital letters.
+45. The input string will not contain any lowercase letters.
+46. The input string will not contain any symbols.
+47. The input string will not contain any numbers.
+48. The input string will not contain any special characters.
+49. The input string will not contain any capital letters.
+50. The input string will not contain any lowercase letters.
+51. The input string will not contain any symbols.
+52. The input string will not contain any numbers.
+53. The input string will not contain any special characters.
+54. The input string will not contain any capital letters.
+55. The input string will not contain any lowercase letters.
+56. The input string will not contain any symbols.
+57. The input string will not contain any numbers.
+58. The input string will not contain any special characters.
+59. The input string will not contain any capital letters.
+60. The input string will

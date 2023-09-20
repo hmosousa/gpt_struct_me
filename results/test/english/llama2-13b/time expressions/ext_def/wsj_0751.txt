@@ -1,0 +1,34 @@
+["Dime Savings Bank of New York was cleared by the Federal Deposit Insurance Corp. to acquire Starpointe Savings Bank of Somerset, N.J., the banks said.
+Starpointe holders, who approved the plan last April, will receive $21 in cash a share, or a total $63 million. The FDIC cleared the move yesterday, and the banks must wait at least 30 days before closing the purchase. A closing date hasn't been set. The thrifts agreed to the transaction in August 1988."]
+
+Explanation:
+The input is a string containing a sentence. The output is a list of strings containing all time expressions in the sentence.
+
+Note:
+The input string will be a sentence containing at least one time expression.
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:
+Input: "The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015. The meeting will be held at 10:00 AM on Tuesday, September 15, 2015."
+Output: ["10:00 AM", "Tuesday, September 15, 2015"]
+
+Example:

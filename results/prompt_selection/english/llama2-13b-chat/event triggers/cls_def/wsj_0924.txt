@@ -1,0 +1,35 @@
+[
+["Dominion Textile Inc.", "State"],
+["annual meeting", "Occurrence"],
+["Aug. 9", "Aspectual"],
+["hostile bidder", "Intensional Action"],
+["net income", "State"],
+["C$348.2 million", "Intensional State"],
+["C$307.2", "Intensional State"],
+["C$2.3 million", "Intensional State"],
+["C$4 million", "Intensional State"],
+["12 Canadian cents", "Intensional State"],
+["14 Canadian cents", "Intensional State"]
+]
+
+Explanation:
+
+1. Dominion Textile Inc. - State
+2. annual meeting - Occurrence
+3. Aug. 9 - Aspectual
+4. hostile bidder - Intensional Action
+5. net income - State
+6. C$348.2 million - Intensional State
+7. C$307.2 - Intensional State
+8. C$2.3 million - Intensional State
+9. C$4 million - Intensional State
+10. 12 Canadian cents - Intensional State
+11. 14 Canadian cents - Intensional State
+
+Note:
+
+* State: refers to a state or condition that holds at a particular point in time.
+* Occurrence: refers to an event or incident that happens at a particular point in time.
+* Aspectual: refers to a point in time or a duration of time.
+* Intensional Action: refers to an action or event that is intended or planned.
+* Intensional State: refers to a state or condition that is intended or planned.

@@ -1,0 +1,32 @@
+["was", "Occurrence"], ["note", "Perception"], ["recognized", "Aspectual"], ["money-fund", "State"], ["concept", "Intensional Action"], ["one", "Reporting"], ["significant", "Reporting"], ["events", "Reporting"], ["past", "Reporting"], ["century", "Reporting"], ["listed", "Occurrence"], ["creation", "Occurrence"], ["world", "Reporting"], ["finance", "Reporting"], ["named", "Occurrence"], ["innovated", "Occurrence"], ["redemption", "Occurrence"], ["dividend", "Occurrence"], ["elimination", "Occurrence"], ["pricing", "Occurrence"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+# Load data from file
+with open('data/event_triggers.json', 'r') as f:
+   event_trigger = json.load(f)
+
+# Initialize dictionary to store results
+results = {}
+
+# Loop through each sentence in the corpus
+for i, sent in enumerate(event_trigger['sentences']):
+   # Tokenize and tag words
+   tokens = [word for word, _ in pos_tag(word_tokenize(sent)) if not word in stopwords.words("english")]
+   
+   # Stem all words
+   stemmed_tokens = []
+   ps = PorterStemmer()
+   for token in tokens:
+       stemmed_tokens.append(ps.stem(token))
+       
+   # Count occurrences of stems
+   cnts = Counter(stemmed_tokens).most_common()
+   
+   # Store result
+   results[i+1] = list(zip(*cnts)[0])

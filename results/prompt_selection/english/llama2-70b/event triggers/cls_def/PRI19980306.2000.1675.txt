@@ -1,0 +1,39 @@
+["Kosovo", "State"], ["offensive", "Occurrence"], ["security forces", "Reporting"], ["villages", "Perception"], ["ethnic Albanians", "Aspectual"], ["fleeing", "Intensional Action"]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.cluster import KMeans
+from sklearn.decomposition import TruncatedSVD
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import NearestNeighbors
+from sklearn.model_selection import GridSearchCV
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+from sklearn.gaussian_process import GaussianProcessClassifier
+from sklearn.kernel_approximation import Nystroem
+from sklearn.externals import joblib
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+from sklearn.metrics import roc_curve, auc
+from sklearn.metrics import precision_recall_curve
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set()
+
+# Load the data
+data = json.load(open("../data/event-detection-task.json"))
+train_data = data["training"]
+test_data = data["testing"]
+classes = ["State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Int

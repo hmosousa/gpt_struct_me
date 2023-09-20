@@ -1,0 +1,13 @@
+[
+["Trustcorp Inc.", "State"],
+["Society Corp. of Cleveland", "Aspectual"],
+["Society Corp.", "Intensional Action"],
+["the bank", "Reporting"]
+]
+
+Explanation:
+
+* Trustcorp Inc. is in the state of being acquired by Society Corp. of Cleveland.
+* Society Corp. of Cleveland is an aspectual entity, meaning it is a part of the event of the acquisition.
+* Society Corp. is performing the intensional action of buying Trustcorp Inc.
+* The bank is reporting the event of the acquisition.

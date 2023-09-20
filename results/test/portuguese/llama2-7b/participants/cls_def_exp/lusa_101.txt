@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 50 anos", "Per"], ["detido", "Per"], ["por", "Per"], ["caçar", "Per"], ["perto", "Per"], ["de", "Per"], ["habitações", "Per"], ["anunciou", "Per"], ["hoje", "Per"], ["aquela", "Per"], ["força", "Per"], ["da", "Per"], ["autoridade", "Per"], ["os", "Per"], ["militares", "Per"], ["intercetaram", "Per"], ["o", "Per"], ["suspeito", "Per"], ["a", "Per"], ["caçar", "Per"], ["em", "Per"], ["terrenos", "Per"], ["proximos", "Per"], ["de", "Per"], ["habitações", "Per"], ["um", "Per"], ["núcleo", "Per"], ["de", "Per"], ["proteção", "Per"], ["ambiental", "Per"], ["das", "Per"], ["caldas", "Per"], ["da", "Per"], ["rainha", "Per"], ["o", "Per"], ["relato", "Per"], ["da", "Per"], ["situação", "Per"], ["foram", "Per"], ["encaminhados", "Per"], ["para", "Per"], ["o", "Per"], ["tribunal", "Per"], ["das", "Per"], ["caldas", "Per"], ["da", "Per"], ["rainha", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem detido em Óbidos por caçar junto a casas
+Um homem de 50 anos foi detido pela Guarda Nacional Republicana (GNR), na quarta-feira, por estar a caçar perto de habitações, anunciou hoje aquela força da autoridade.
+“No seguimento de denúncia, e após diligências de investigação, os militares intercetaram o suspeito a caçar em terrenos próximos de habitações, numa faixa de proteção inferior a 250 metros”, adiantou o comunicado da GNR, que mobilizou o Posto Territorial de Óbidos e o Núcleo de Proteção Ambiental das Caldas da Rainha.
+O homem foi constituído arguido pelo crime do exercício da caça em terrenos não permitidos e o relato da situação foi encaminhado para o Tribunal das Caldas da Rainha.
+A detenção resultou ainda na apreensão de uma espingarda de caça, dois cartuchos de calibre 12 e diversos materiais e acessórios relativos a caça."
+
+Output:
+[["um homem", "Per"], ["de 50 anos", "Per"], ["detido", "Per"], ["por", "Per"], ["caçar", "Per"], ["perto", "Per"], ["de", "Per"], ["habitações", "Per"], ["anunciou", "Per"], ["hoje", "Per"], ["aquela", "Per"], ["força", "Per"], ["da", "Per"], ["autoridade", "Per"], ["os", "Per"], ["militares", "Per"], ["intercetaram", "Per"], ["o", "Per"], ["suspeito", "Per"], ["a", "Per"], ["caçar", "Per"], ["em", "Per"], ["terrenos", "Per"], ["proximos", "Per"], ["de", "Per"], ["habitações", "Per"], ["um", "Per"], ["núcleo", "Per"], ["de", "Per"], ["proteção", "Per"], ["ambiental", "Per"], ["das", "Per"], ["caldas", "Per"], ["da", "Per"], ["rainha", "Per"], ["o", "Per"], ["relato", "Per"], ["da", "Per"], ["situação", "Per"], ["foram", "Per"], ["encaminhados", "Per"], ["para", "Per"], ["o", "Per"], ["tribunal", "Per"], ["das", "Per"], ["caldas", "Per"], ["da", "Per"], ["

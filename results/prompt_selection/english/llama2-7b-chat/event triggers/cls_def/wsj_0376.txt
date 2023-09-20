@@ -1,0 +1,51 @@
+[
+{
+"Entity": "Courtaulds PLC",
+"Class": "State"
+},
+{
+"Entity": "Courtaulds Textiles",
+"Class": "Aspectual"
+},
+{
+"Entity": "British chemical and textile company",
+"Class": "Intensional Action"
+},
+{
+"Entity": "Courtaulds",
+"Class": "Intensional State"
+},
+{
+"Entity": "shareholders",
+"Class": "Perception"
+},
+{
+"Entity": "investors",
+"Class": "Perception"
+},
+{
+"Entity": "Sir James Goldsmith",
+"Class": "Person"
+},
+{
+"Entity": "Anglo-French financier",
+"Class": "Person"
+},
+{
+"Entity": "Australian financier",
+"Class": "Person"
+
+}
+]
+Explanation:
+* "Courtaulds PLC" is an entity and belongs to the class "State".
+* "Courtaulds Textiles" is an entity and belongs to the class "Aspectual".
+* "British chemical and textile company" is an entity and belongs to the class "Intensional Action".
+* "Courtaulds" is an entity and belongs to the class "Intensional State".
+* "shareholders" is an entity and belongs to the class "Perception".
+* "investors" is an entity and belongs to the class "Perception".
+* "Sir James Goldsmith" is an entity and belongs to the class "Person".
+* "Anglo-French financier" is an entity and belongs to the class "Person".
+* "Australian financier" is an entity and belongs to the class "Person".
+
+Note: The class "State" includes any event that is related to the company's current state, such as its financial performance, management, or operations. The class "Aspectual" includes any event that is related to the company's future state, such as its plans, intentions, or goals. The class "Intensional Action" includes any event that is related to the company's actions or decisions, such as its restructuring or divestiture plans. The class "Intensional State" includes any event that is related to the company's internal state, such as its financial position, operations, or management. The class "Perception" includes any event that is related to the company's reputation, image, or how it is perceived by its stakeholders.

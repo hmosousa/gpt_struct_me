@@ -1,0 +1,8 @@
+["tender offer expires", "agreement between companies", "Montedison currently owns 72% of Erbamont's common shares outstanding"]
+
+Explanation:
+The input text contains three event triggers:
+
+1. "tender offer expires" - This event trigger is related to the temporal expression "at the end of November" and refers to the expiration of the tender offer.
+2. "agreement between companies" - This event trigger is related to the statement that the offer is being launched pursuant to a previously announced agreement between the companies.
+3. "Montedison currently owns 72% of Erbamont's common shares outstanding" - This event trigger is related to the statement that Montedison currently owns a majority of Erbamont's common shares outstanding.

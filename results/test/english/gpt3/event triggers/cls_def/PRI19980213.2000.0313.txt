@@ -1,0 +1,1 @@
+[["rains", "Occurrence"], ["slab", "State"], ["slipping", "State"], ["more rains", "Occurrence"], ["evacuation", "Reporting"], ["monitoring", "Perception"], ["destroy", "Intensional Action"], ["hurt", "Intensional State"], ["ground saturated", "Aspectual"], ["destroy anything", "Intensional Action"]]

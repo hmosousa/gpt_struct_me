@@ -1,0 +1,26 @@
+[
+["Homem", "Person"],
+["Oleiros", "Location"],
+["Castelo Branco", "Location"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["Centro Hospitalar e Universitário de Coimbra", "Facility"],
+["bombeiros", "Organization"],
+["habitação", "Location"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify the entities in the text into predefined categories. The categories are:
+
+* Person: A person, such as a human being.
+* Organization: A group of people or an entity that is organized for a specific purpose.
+* Object: A physical object or a tangible thing.
+* Location: A place or a location.
+* Nature: A natural entity, such as a plant, animal, or natural feature.
+* Facility: A building or a structure that serves a specific purpose.
+* Other: Any entity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+
+In this task, the input text is in Portuguese, and the entities should be classified based on their context in the text. For example, "Homem" (man) should be classified as "Person", and "Oleiros" (a place) should be classified as "Location".

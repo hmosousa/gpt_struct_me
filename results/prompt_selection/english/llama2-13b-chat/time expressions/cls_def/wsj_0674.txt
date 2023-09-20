@@ -1,0 +1,25 @@
+[
+["Jim Pattison Industries", "Date"],
+["Innopac Inc.", "Time"],
+["13.8 million", "Duration"],
+["137.8 million", "Set"],
+["1988", "Date"],
+["Aug. 31", "Date"],
+["20 Canadian cents", "Duration"],
+["70 Canadian cents", "Duration"],
+["252 million", "Set"],
+["291.6 million", "Set"]
+]
+
+Explanation:
+
+1. "Jim Pattison Industries" is a date because it refers to a specific company.
+2. "Innopac Inc." is a time because it refers to a specific point in time.
+3. "13.8 million" is a duration because it represents a period of time.
+4. "137.8 million" is a set because it represents a collection of items.
+5. "1988" is a date because it refers to a specific year.
+6. "Aug. 31" is a date because it refers to a specific day.
+7. "20 Canadian cents" is a duration because it represents a period of time.
+8. "70 Canadian cents" is a duration because it represents a period of time.
+9. "252 million" is a set because it represents a collection of items.
+10. "291.6 million" is a set because it represents a collection of items.

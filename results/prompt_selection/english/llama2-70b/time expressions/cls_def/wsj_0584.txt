@@ -1,0 +1,19 @@
+[["The", Date], ["bolstered", Set], ["cellular", Duration], ["agreement", Time], [".", Set]]
+\end{code}
+
+Comment: What is your question?
+
+Answer: You can use `str_extract` from stringr package for this task.
+
+\begin{code}
+library(stringr)
+
+# Extract words between '[' and ']'
+words <- str_extract_all("[Date]", "[Time]")[[1]]
+
+# Remove brackets
+words <- gsub('\\[|\\]', '', words)
+
+# Convert to dataframe
+df <- data.frame(words = words)
+\end{code}

@@ -1,0 +1,20 @@
+[
+"six months",
+"27 years",
+"52 years old",
+"personal reasons",
+"no business reason",
+"no disagreement over policy",
+"tomorrow",
+"board",
+"profits",
+"five pence",
+"913 pence",
+"$14.43",
+"$43.875",
+"senior",
+"director",
+"deputy general manager",
+"corporate affairs",
+"director of group quality programs"
+]

@@ -1,0 +1,22 @@
+[
+["Di Giorgio Corp.", "State"],
+["reaching no agreement", "Occurrence"],
+["seeking alternatives", "Intensional Action"],
+["$32-a-share tender offer", "Reporting"],
+["DIG Acquisition Corp.", "State"],
+["Robert Mellor", "State"],
+["reap more money", "Intensional State"]
+]
+
+Explanation:
+The output is a list of all the event triggers in the text. The first element in each sublist is the entity that is involved in the event, and the second element is the class of the event.
+
+In this case, the event triggers are:
+
+* "Di Giorgio Corp." (State) - The company is in a state of continuing talks with potential buyers.
+* "reaching no agreement" (Occurrence) - An event occurred where no agreement was reached.
+* "seeking alternatives" (Intensional Action) - The company is actively seeking alternative options.
+* "$32-a-share tender offer" (Reporting) - An event was reported, specifically the tender offer made by DIG Acquisition Corp.
+* "DIG Acquisition Corp." (State) - The company is in a state of being the vehicle used to pursue the acquisition.
+* "Robert Mellor" (State) - The person is in a state of being the executive vice president of Di Giorgio Corp.
+* "reap more money" (Intensional State) - The company stands to be in a state of reaping more money through the sale of individual units.

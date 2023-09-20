@@ -1,0 +1,22 @@
+[
+["this coming Sunday", "Date"],
+["March eighth", "Date"],
+["twenty years", "Duration"],
+["seventy-five percent", "Set"],
+["Pakistan, Iran, Europe, Australia, and North America", "Set"],
+["the past twenty years", "Duration"],
+["today", "Date"],
+["the very existence of women's families", "Duration"],
+["urban areas", "Set"],
+["rural parts of the country", "Set"],
+["cities, such as the capital Kabul", "Set"],
+["the women of Kabul", "Set"],
+["not only the focus on women's right to education, access to work", "Duration"],
+["the roots of, uh of these problems", "Duration"],
+["conditions of peace and justice", "Set"],
+["her group", "Set"],
+["the international community", "Set"],
+["the combatants and people of Afghanistan", "Set"],
+["the bloodletting", "Duration"],
+["the country apart", "Duration"]
+]

@@ -1,0 +1,50 @@
+[
+"Sicários",
+"matam",
+"sete",
+"pessoas",
+"estado",
+"Michoacán",
+"Assassinos",
+"contratados",
+"possivelmente",
+"ligações",
+"narcotráfico",
+"mataram",
+"tiro",
+"estado",
+"Michoacán",
+"informaram",
+"autoridades",
+"local",
+"os corpos",
+"estavam",
+"desmembrados",
+"identidade",
+"vítimas",
+"admit",
+"investigação",
+"linhas",
+"cartéis",
+"rivais",
+"violência",
+"organizado",
+"crime",
+"responsável",
+"centenas",
+"homicídios",
+"ano",
+"México"
+]
+Explanation:
+The task is to extract all time expressions from the given text. Time expressions are linguistic elements that allow us to communicate information about time, such as specific points in time, time periods, and units of time.
+In this text, the following time expressions can be found:
+* "Sicários com ligações ao narcotráfico matam sete pessoas no estado mexicano de Michoacán" (time expression: "matam")
+* "Assassinos contratados (sicários) possivelmente com ligações ao narcotráfico mataram a tiro sete pessoas no estado mexicano de Michoacán" (time expression: "mataram")
+* "Os corpos das vítimas foram encontrados por um grupo de trabalhadores agrícolas numa estrada rural" (time expression: "encontrados")
+* "Na mesma nota informativa, o Ministério Público precisou que as vítimas – seis homens e uma mulher – apresentavam, a par dos ferimentos de bala, sinais graves de tortura" (time expression: "precisou")
+* "Pelo menos três dos corpos estavam desmembrados" (time expression: "estavam")
+* "As autoridades estão a considerar várias linhas de investigação" (time expression: "considerar")
+* "mas admitem a possibilidade deste incidente estar relacionado com o narcotráfico e com questões de vingança entre cartéis rivais" (time expression: "admit")
+* "A violência com ligações ao crime organizado é um dos grandes flagelos do México, sendo responsável por várias centenas de homicídios por ano naquele país" (time expression: "responsável")
+Note that some of these time expressions are used in a more general sense, such as "possivelmente" (possibly) or "admit" (to admit), but they all convey information about time in some way.

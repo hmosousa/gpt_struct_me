@@ -1,0 +1,65 @@
+[
+["PJ", "Organization"],
+["casal", "Object"],
+["suspeito", "Object"],
+["matar", "Object"],
+["mulher", "Person"],
+["de", "Object"],
+["Braga", "Location"],
+["polícia", "Organization"],
+["judiciária", "Organization"],
+["fonte", "Object"],
+["lua", "Object"],
+["bens", "Object"],
+["patrimoniais", "Object"],
+["vítima", "Person"],
+["assassinada", "Object"],
+["força", "Object"],
+["física", "Object"],
+["cadáver", "Object"],
+["dume", "Location"],
+["concelho", "Location"],
+["indiciados", "Object"],
+["prática", "Object"],
+["crimes", "Object"],
+["homicídio", "Object"],
+["qualificado", "Object"],
+["profanação", "Object"],
+["burla", "Object"],
+["informática", "Object"],
+["furto", "Object"]
+]
+
+Explanation:
+
+* PJ is an organization, so it is classified as such.
+* Casal is an object, as it is a couple.
+* Suspeito is an object, as it is a suspect.
+* Matar is an object, as it is a murder.
+* Mulher is a person, as it is a woman.
+* De is an object, as it is a preposition.
+* Braga is a location, as it is a city.
+* Polícia is an organization, as it is a police force.
+* Judiciária is an organization, as it is a judiciary.
+* Fonte is an object, as it is a source.
+* Lua is an object, as it is a moon.
+* Bens is an object, as it is goods or property.
+* Patrimoniais is an object, as it is a possession.
+* Vítima is a person, as it is a victim.
+* Assassinada is an object, as it is a murdered person.
+* Força is an object, as it is force.
+* Física is an object, as it is physical.
+* Cadáver is an object, as it is a corpse.
+* Dume is a location, as it is a place.
+* Concelho is a location, as it is a council or municipality.
+* Indiciados is an object, as it is an indictee.
+* Prática is an object, as it is a practice.
+* Crimes is an object, as it is a crime.
+* Homicídio is an object, as it is a murder.
+* Qualificado is an object, as it is a qualified murder.
+* Profanação is an object, as it is a desecration.
+* Burla is an object, as it is a fraud.
+* Informática is an object, as it is a computer-related crime.
+* Furto is an object, as it is a theft.
+
+Note: In this output, each element is a list of two strings, where the first string is the entity and the second string is the class. The classes are based on the context of the text and the common sense, and may not be the only possible classification for each entity.

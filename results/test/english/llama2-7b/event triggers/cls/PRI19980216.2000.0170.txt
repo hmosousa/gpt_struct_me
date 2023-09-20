@@ -1,0 +1,10 @@
+[
+  ["The British government", "State"],
+  ["The move had been widely expected", "Occurrence"],
+  ["after northern Ireland police said they believe the IRA was behind two killings in Belfast last week", "Reporting"],
+  ["Sinn Fein chairman Mitchell McLaughlin says the party will challenge the move by legal means if they have to", "Perception"],
+  ["We're going to fight it", "Aspectual"],
+  ["And uh we've already challenged, very strongly, the uh the terms in which this has been presented", "Intensional Action"],
+  ["But we're challenging it on the ground that uh the RUC uh have offered an opinion, and this opinion is going to be used as a mechanism for ejecting us from the talks, and uh that's a very serious", "Intensional State"]
+]
+

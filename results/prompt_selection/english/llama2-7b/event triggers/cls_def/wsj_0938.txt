@@ -1,0 +1,31 @@
+[
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "State"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Cineplex Odeon Corp.",
+    "class": "Intensional State"
+  }
+]
+

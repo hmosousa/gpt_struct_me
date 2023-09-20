@@ -1,0 +1,1 @@
+[["Sunday", "Date"], ["Cabinet", "Set"], ["1978", "Date"], ["Friday", "Date"], ["Sunday", "Date"], ["1985", "Date"], ["last week", "Duration"], ["last February", "Date"], ["Sunday", "Date"], ["Two top aides", "Set"], ["Sunday", "Date"], ["nearly two years", "Duration"], ["six weeks ago", "Duration"]]

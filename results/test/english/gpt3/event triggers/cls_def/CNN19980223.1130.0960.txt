@@ -1,0 +1,1 @@
+[["military conflict with Iraq", "Occurrence"], ["worldwide glut of oil", "State"], ["diplomatic solution to the crisis", "Reporting"], ["oil prices have come down", "Aspectual"], ["weakened oil prices", "Intensional State"], ["life easier for motorists", "Perception"], ["gas prices fell", "Intensional Action"]]

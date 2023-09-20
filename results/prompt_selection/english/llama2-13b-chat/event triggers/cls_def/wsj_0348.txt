@@ -1,0 +1,19 @@
+[
+["Ogden Projects Inc.", "State"],
+["Ogden Projects Inc.", "Occurrence"],
+["Ogden Projects Inc.", "Reporting"],
+["Ogden Projects Inc.", "Perception"],
+["Ogden Projects Inc.", "Aspectual"],
+["Ogden Projects Inc.", "Intensional Action"],
+["Ogden Projects Inc.", "Intensional State"]
+]
+
+Explanation:
+
+1. "Ogden Projects Inc." is the entity, and "State" is the class, because the sentence mentions the company's financial state.
+2. "Ogden Projects Inc." is the entity, and "Occurrence" is the class, because the sentence mentions a specific event (the company's net income jumping).
+3. "Ogden Projects Inc." is the entity, and "Reporting" is the class, because the sentence mentions the company's financial results being reported.
+4. "Ogden Projects Inc." is the entity, and "Perception" is the class, because the sentence mentions the company's financial performance being perceived by the public.
+5. "Ogden Projects Inc." is the entity, and "Aspectual" is the class, because the sentence mentions the company's financial state in relation to time (a year ago).
+6. "Ogden Projects Inc." is the entity, and "Intensional Action" is the class, because the sentence mentions the company's actions (having interests in solid-waste recovery and hazardous-waste cleanup).
+7. "Ogden Projects Inc." is the entity, and "Intensional State" is the class, because the sentence mentions the company's state (having 13 facilities in operation).

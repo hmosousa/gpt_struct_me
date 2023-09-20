@@ -1,0 +1,34 @@
+[["November", Date], ["22nd", Date], ["May", Date], ["half", Set], ["33%", Set], ["24%", Set], ["April", Date]]
+"""
+import json
+from datetime import date, timedelta
+
+def extract_time(text):
+   """Extract time expressions from text.
+   
+   Args:
+       text (str): The text in which to search for time expressions.
+       
+   Returns:
+       list of str: A list of all time expressions found in the text.
+   """
+   # TODO: Implement this function!
+   raise NotImplementedError()
+
+def classify_time(timex):
+   """Classify a given time expression into one of four classes.
+   
+   Args:
+       timex (str): The time expression to classify.
+       
+   Returns:
+       str: One of 'Date', 'Time', 'Duration', or 'Set'.
+   """
+   # TODO: Implement this function!
+   raise NotImplementedError()
+
+if __name__ == "__main__":
+   with open("data/task1.json") as fp:
+       data = json.load(fp)
+   times = [extract_time(d['text']) for d in data]
+   print([classify_time(t) for t in times])

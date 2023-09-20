@@ -1,0 +1,16 @@
+[["Quatro homens", "Per"], ["detidos pela PSP", "Org"], ["ap\u00e9s de disparos", "Loc"], ["em Lisboa", "Loc"], ["Quatro homens", "Per"], ["em dois ve\u00edculos distintos", "Loc"], ["foram", "Loc"], ["detidos", "Org"], ["ap\u00e9s", "Loc"], ["de terem disparado com armas de fogo entre si", "Loc"], ["na zona do Rego", "Loc"], ["em Lisboa", "Loc"], ["n\u00f3", "Loc"], ["havendo feridos", "Loc"], ["somente", "Loc"], ["danos", "Loc"], ["em viaturas", "Loc"], ["estacionadas", "Loc"], ["no local", "Loc"], ["avan\u00e7u", "Loc"], ["fonte policial", "Org"], ["em declara\u00e7\u00f5es", "Loc"], ["ao Lusa", "Org"], ["explicou", "Loc"], ["que", "Loc"], ["o incidente", "Loc"], ["aconteceu", "Loc"], ["por volta das 12:00", "Loc"], ["os quatro homens", "Per"], ["de idade", "Loc"], ["n\u00f3", "Loc"], ["especificada", "Loc"], ["puseram-se", "Loc"], ["em fuga", "Loc"], ["ap\u00e9s", "Loc"], ["intercetados", "Loc"], ["pelas autoridades", "Org"], ["e detidos", "Org"], ["n\u00f3", "Loc"], ["feridos", "Loc"], ["a registar", "Loc"], ["somente", "Loc"], ["danos", "Loc"], ["em viaturas", "Loc"], ["que", "Loc"], ["se encontravam", "Loc"], ["no local", "Loc"], ["vários inv\u00f3lucros", "Loc"], ["de balas", "Loc"], ["De acordo com", "Loc"], ["a mesma fonte", "Org"], ["referiu", "Loc"], ["que", "Loc"], ["ficaram", "Loc"], ["no local", "Loc"], ["o caso", "Loc"], ["entregue", "Loc"], ["à Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"A polícia detém um homem suspeito de ter matado um polícia em Lisboa
+A polícia detém hoje um homem suspeito de ter matado um polícia em Lisboa, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a PSP.
+O homem, de 28 anos, foi detido na zona do Rego, em Lisboa, por suspeita de ter matado um polícia, informou a

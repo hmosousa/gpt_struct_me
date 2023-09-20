@@ -1,0 +1,1 @@
+[["June 30, 1990", "Date"], ["fiscal 1989", "Duration"], ["fiscal 1989 sales", "Set"], ["yesterday", "Date"]]

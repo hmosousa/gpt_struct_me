@@ -1,0 +1,14 @@
+["yesterday", "last week", "this year", "next month", "in 2018", "within the next hour", "in the next few days", "within the next few weeks", "in the next quarter", "within the next year"]
+
+Explanation:
+
+1. "yesterday" - a temporal expression indicating the previous day.
+2. "last week" - a temporal expression indicating the previous week.
+3. "this year" - a temporal expression indicating the current year.
+4. "next month" - a temporal expression indicating the next month.
+5. "in 2018" - a temporal expression indicating the year 2018.
+6. "within the next hour" - a temporal expression indicating a time within the next hour.
+7. "in the next few days" - a temporal expression indicating a time within the next few days.
+8. "within the next few weeks" - a temporal expression indicating a time within the next few weeks.
+9. "in the next quarter" - a temporal expression indicating a time within the next quarter.
+10. "within the next year" - a temporal expression indicating a time within the next year.

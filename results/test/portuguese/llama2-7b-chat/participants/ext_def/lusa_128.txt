@@ -1,0 +1,11 @@
+[
+"GNR",
+"vítima",
+"companheiro",
+"arma de fogo",
+"busca domiciliária",
+"Felgueiras",
+"Porto",
+"denúncia de violência doméstica",
+"Tribunal Judicial de Felgueiras"
+]

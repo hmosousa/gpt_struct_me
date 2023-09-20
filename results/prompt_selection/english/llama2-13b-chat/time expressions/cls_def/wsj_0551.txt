@@ -1,0 +1,13 @@
+[
+["Trustcorp Inc.", "Date"],
+["Society Corp. of Cleveland", "Date"],
+["June", "Duration"],
+["year end", "Set"]
+]
+
+Explanation:
+
+* Trustcorp Inc. is a date.
+* Society Corp. of Cleveland is a date.
+* June is a duration.
+* year end is a set.

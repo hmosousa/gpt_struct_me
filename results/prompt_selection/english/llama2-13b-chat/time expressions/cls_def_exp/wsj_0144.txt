@@ -1,0 +1,25 @@
+[
+["Hurricane Hugo", "Date"],
+["$40 million", "Duration"],
+["89 cents a share", "Time"],
+["$31 million", "Duration"],
+["last month", "Date"],
+["$10 million", "Duration"],
+["$6.1 million", "Time"],
+["$3 million", "Duration"],
+["1988 period", "Date"],
+["$415 million", "Duration"]
+]
+
+Explanation:
+
+1. Hurricane Hugo is a date expression because it refers to a specific event that occurred in the past.
+2. $40 million is a duration expression because it represents a quantity of money that was lost due to Hurricane Hugo.
+3. 89 cents a share is a time expression because it represents a specific amount of money earned per share.
+4. $31 million is a duration expression because it represents a quantity of money that was earned as an investment gain.
+5. last month is a date expression because it refers to a specific time period in the past.
+6. $10 million is a duration expression because it represents a specific amount of money that will be charged as a result of the California earthquake.
+7. $6.1 million is a time expression because it represents a specific amount of money earned in the personal property/casualty business.
+8. $3 million is a duration expression because it represents a specific amount of money that was lost in the personal property/casualty business.
+9. 1988 period is a date expression because it refers to a specific time period in the past.
+10. $415 million is a duration expression because it represents a specific amount of money that was charged as a result of underperforming real estate and mortgage loans.

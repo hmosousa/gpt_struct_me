@@ -1,0 +1,5 @@
+[
+["today", "Date"],
+["the night", "Time"],
+["a minute and a half later", "Duration"]
+]

@@ -1,0 +1,33 @@
+[
+["Di Giorgio", "Date"],
+["its", "Time"],
+["continuing", "Duration"],
+["talks", "Set"],
+["with", "Set"],
+["potential", "Set"],
+["buyers", "Set"],
+["but", "Set"],
+["has", "Set"],
+["reached", "Set"],
+["no", "Set"],
+["agreement", "Set"],
+["on", "Set"],
+["any", "Set"]
+]
+
+Explanation:
+
+* "Di Giorgio" is a date entity.
+* "its" is a time entity.
+* "continuing" is a duration entity.
+* "talks" is a set entity.
+* "with" and "potential" are also set entities.
+* "buyers" is a set entity.
+* "but" and "has" are set entities.
+* "reached" is a set entity.
+* "no" is a set entity.
+* "agreement" is a set entity.
+* "on" is a set entity.
+* "any" is a set entity.
+
+Note: In the input text, there are multiple instances of the same entity (e.g. "talks" and "buyers" are both set entities). The output list should only include each entity once, even if it appears multiple times in the input text.

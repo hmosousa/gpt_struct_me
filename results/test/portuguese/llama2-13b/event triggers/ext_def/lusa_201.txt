@@ -1,0 +1,11 @@
+["morre", "incêndio", "habitação", "Ribeira Brava", "homem", "morreu", "sequência", "incêndio", "deflagrou", "habitação", "concelho", "Ribeira Brava", "possível", "inalação", "fumo", "fonte", "bombeiros", "localidade", "Segundo", "mesma", "fonte", "corporação", "Bombeiros", "Voluntários", "Ribeira Brava", "Ponta", "Madeira", "quarto", "sinais", "fogo", "entrada", "dormir", "quartos", "vítima", "chegámos", "fogo", "entrada", "habitação", "sinais", "fogo", "alerta", "incêndio", "chegaram", "elementos", "extinguiu", "chamas", "encontraram", "vítima", "vivia", "sozinha", "situação", "policiais", "apuram", "causas", "incêndio", "vítima", "homem", "anos"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Example:
+"Homem morre em incêndio numa habitação na Ribeira Brava"
+
+The event triggers are:
+"morre", "incêndio", "habitação", "Ribeira Brava", "homem", "morreu", "sequência", "incêndio", "deflagrou", "habitação", "concelho", "Ribeira Brava", "possível", "inalação", "fumo", "fonte", "bombeiros", "localidade", "Segundo", "mesma", "fonte", "corporação", "Bombeiros", "Voluntários", "Ribeira Brava", "Ponta", "Madeira", "quarto", "sinais", "fogo", "entrada", "dormir", "quartos", "vítima", "chegámos", "fogo", "entrada", "habitação", "sinais", "fogo", "alerta", "incêndio", "chegaram", "elementos", "extinguiu", "chamas", "encontraram", "vítima", "vivia", "sozinha", "situação", "policiais", "apuram", "causas", "incêndio", "vítima", "homem", "anos"
+

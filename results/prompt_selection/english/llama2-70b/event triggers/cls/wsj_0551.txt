@@ -1,0 +1,50 @@
+[['Trustcorp', 'Occurrence'], ['Society Bank & Trust', 'Occurrence'], ['merger', 'Reporting'], ['completed', 'Aspectual'], ['June', 'Perception'], ['buy', 'Intensional Action'], ['stock', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+
+# Reads in the file containing the text to be processed
+with open('text.txt') as f:
+   text = f.read()
+
+# Tokenizes the text into words
+tokens = word_tokenize(text)
+
+# Removes punctuation from tokens
+noPunctuationTokens = [word for word in tokens if not word.isalpha()]
+
+# Stems all tokens
+stemmedWords = []
+for token in noPunctuationTokens:
+   stemmedWord = PorterStemmer().stem(token)
+   stemmedWords.append(stemmedWord)
+
+# Removes stopwords from list of stems
+stoplist = set(stopwords.words("english"))
+filteredListOfStems = [w for w in stemmedWords if not w in stoplist]
+
+# Tags each filtered stem with its part-of-speech tag
+posTags = pos_tag(filteredListOfStems)
+
+# Creates a dictionary mapping tags to classes
+classMap = {
+   "VB": "Occurrence",
+   "NN": "State",
+   "NNS": "State",
+   "JJR": "Aspectual",
+   "IN": "Reporting",
+   "DT": "Perception",
+   "VBG": "Intensional Action",
+   "VBD": "Intensional State"
+}
+
+# Extracts and classifies event triggers
+eventTriggers = []
+for (word, tag) in posTags:
+   if tag in classMap:
+       eventTriggers.append([word, classMap[tag]])
+
+print json

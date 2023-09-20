@@ -1,0 +1,9 @@
+[
+"declared dividend",
+"one warrant for each three shares of common stock",
+"3.3 million common shares outstanding",
+"1.1 million Class C warrants",
+"$5.50",
+"90 days after their issue date",
+"additional 243,677 of the Class C warrants"
+]

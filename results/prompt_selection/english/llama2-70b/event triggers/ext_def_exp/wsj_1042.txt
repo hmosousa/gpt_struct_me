@@ -1,0 +1,41 @@
+[
+'issued', 'exercise', 'issue', 'holding', 'based', 'outstanding', 'issuing', 'enable', 'enabling', 'held', 'rate', 'declaring']
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+
+def get_events(text):
+   """
+   :param text: string
+   :return: list of events
+   """
+   # Step 1: Tokenization
+   tokens = word_tokenize(text)
+   
+   # Step 2: Stopword removal
+   stoplist = set(stopwords.words('english'))
+   filtered_tokens = [w for w in tokens if not w in stoplist]
+   
+   # Step 3: Stemming
+   stemmed_tokens = []
+   ps = PorterStemmer()
+   for token in filtered_tokens:
+       stemmed_tokens.append(ps.stem(token))
+       
+   # Step 4: Event extraction
+   event_dict = defaultdict(int)
+   for token in stemmed_tokens:
+       if token[-5:] == "ed":
+           event_dict["e"] += 1
+           
+       elif token[-6:] == "ing":
+           event_dict["i"] += 1
+           
+       else:
+           event_dict[token] += 1
+               
+   # Step 5: Return the most frequent events
+   return sorted([event for event, count in event_dict.items()], key=lambda x: -event_dict[x])[:10]

@@ -1,0 +1,1 @@
+[["said", "Time"], ["continuing", "Duration"], ["talks", "Set"], ["potential", "Set"], ["buyers", "Set"], ["certain", "Set"], ["units", "Set"], [",", ","], ["but", "Time"], ["has", "Time"], ["reached", "Time"], ["no", "Time"], ["agreement", "Time"], ["on", "Time"], ["any", "Time"], ["deals.", "Time"]]

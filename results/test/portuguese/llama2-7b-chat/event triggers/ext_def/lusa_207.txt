@@ -1,0 +1,15 @@
+[
+"Dois feridos",
+"Lisboa",
+"terça-feira",
+"22",
+"33",
+"gravidade",
+"Bairro do Casal dos Machados",
+"Largo Maria Judite de Carvalho",
+"Hospital de Santa Maria",
+"três viaturas",
+"disparos de arma de fogo",
+"21:49",
+"Polícia Judiciária"
+]

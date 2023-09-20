@@ -1,0 +1,5 @@
+["48 anos", "20 anos"]
+
+Explanation:
+The time expressions are "48 anos" and "20 anos".
+

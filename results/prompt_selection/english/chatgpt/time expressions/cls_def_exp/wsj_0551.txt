@@ -1,0 +1,1 @@
+[["Trustcorp Inc.", "Set"], ["Society Bank amp Trust", "Set"], ["merger", "Set"], ["Society Corp.", "Set"], ["Cleveland", "Set"], ["June", "Date"], ["Trustcorp", "Set"], ["12.4 million shares", "Set"], ["stock", "Set"], ["market value", "Set"], ["$450 million", "Set"], ["transaction", "Set"], ["year end", "Date"]]

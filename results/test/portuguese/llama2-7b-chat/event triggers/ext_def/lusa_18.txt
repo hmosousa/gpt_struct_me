@@ -1,0 +1,10 @@
+[
+"Suspeita de fogo posto",
+"incêndio",
+"danificou",
+"totalmente",
+"habitacional",
+"havendo suspeitas de fogo posto",
+"danos provocados pelo fogo são apenas materiais"
+"efetuaram o combate ao incêndio"
+]

@@ -1,0 +1,15 @@
+[["um homem", "Per"], ["de 31 anos", "Per"], ["baleado", "Per"], ["ao final da manhã", "Per"], ["de hoje", "Per"], ["em Gulpilhares", "Loc"], ["Vila Nova de Gaia", "Loc"], ["e o autor", "Per"], ["do disparo", "Per"], ["pôs-se", "Per"], ["em fuga", "Per"], ["diz", "Per"], ["fonte", "Org"], ["policial", "Per"], ["a vítima", "Per"], ["foi", "Per"], ["atingida", "Per"], ["no braço", "Loc"], ["esquerdo", "Loc"], ["ser", "Per"], ["entretanto", "Per"], ["conduzida", "Per"], ["ao hospital", "Loc"], ["Santos Silva", "Loc"], ["em Vila de Gaia", "Loc"], ["distrito", "Loc"], ["do Porto", "Loc"], ["pelos bombeiros", "Org"], ["de Valadares", "Org"], ["indicou", "Per"], ["fonte", "Org"], ["esta", "Org"], ["corporação", "Org"], ["trata-se", "Per"], ["de um ferido", "Per"], ["ligeiro", "Per"], ["o alerta", "Per"], ["chegou", "Per"], ["às autoridades", "Org"], ["pelas", "Per"], ["11:45", "Per"], ["e", "Per"], ["a Polícia Judiciária", "Org"], ["foi", "Per"], ["chamada", "Per"], ["a investigar", "Per"], ["pois", "Per"], ["se", "Per"], ["trata", "Per"], ["de um caso", "Per"], ["da competência", "Per"], ["reservada", "Per"], ["daquele", "Org"], ["órgão", "Org"], ["de polícia", "Org"], ["criminal", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem baleado em Vila Nova de Gaia e autor do disparo fugiu
+Um homem de 31 anos foi baleado ao final da manhã de hoje em Gulpilhares, Vila Nova de Gaia, e o autor do disparo pôs-se em fuga, disse fonte policial.
+A vítima foi atingida no braço esquerdo, sendo entretanto conduzida ao hospital Santos Silva, em Vila de Gaia, distrito do Porto, pelos bombeiros de Valadares, indicou fonte desta corporação.
+Trata-se de um ferido ligeiro.
+O alerta chegou às autoridades pelas 11:45 e a Polícia Judiciária foi já chamada a investigar, já que se trata de um caso da competência reservada daquele órgão de polícia criminal.
+As razões do crime estão ainda por determinar."
+
+Output:
+[["um homem", "Per"], ["de 31 anos", "Per"], ["baleado", "Per"], ["ao final da manhã", "Per"], ["de hoje", "Per"], ["em Gulpilhares", "Loc"], ["Vila Nova de Gaia", "Loc"], ["e o autor", "Per"], ["do disparo", "Per"], ["pôs-se", "Per"], ["em fuga", "Per"], ["diz", "Per"], ["fonte", "Org"], ["policial", "Per"], ["a vítima", "Per"], ["foi", "Per"], ["atingida", "Per"], ["no braço", "Loc"], ["esquerdo", "Loc"], ["ser", "Per"], ["entretanto", "Per"], ["conduzida", "Per"], ["ao hospital", "Loc"], ["Santos Silva", "Loc"], ["em Vila de Gaia", "Loc"], ["distrito", "Loc"], ["do Porto", "Loc"], ["pelos bombeiros", "Org"], ["de Valadares", "Org"], ["indicou", "Per"], ["fonte", "Org

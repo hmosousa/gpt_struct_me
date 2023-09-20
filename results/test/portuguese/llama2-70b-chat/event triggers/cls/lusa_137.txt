@@ -1,0 +1,34 @@
+[
+["GNR", "State"],
+["idoso", "Occurrence"],
+["desaparecida", "Occurrence"],
+["Sabroso", "Location"],
+["Vila Real", "Location"],
+["cão", "Perception"],
+["equipa cinotécnica", "Perception"],
+["residência", "Location"],
+["Centro Hospitalar de Trás-os-Montes e Alto Douro", "Location"],
+["Unidade de Emergência de Proteção e Socorro", "Organization"],
+["UEPS", "Organization"],
+["GNR", "Organization"],
+["bombeiros", "Organization"],
+["Autoridade Nacional de Emergência e Proteção Civil", "Organization"],
+["página na Internet", "Aspectual"],
+["mobilizados", "Intensional Action"]
+]
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese law enforcement agency.
+* "idoso" is an Occurrence entity, as it refers to the fact that the elderly woman was missing.
+* "desaparecida" is also an Occurrence entity, as it refers to the fact that the woman was reported missing.
+* "Sabroso" and "Vila Real" are Location entities, as they refer to the places where the events occurred.
+* "cão" and "equipa cinotécnica" are Perception entities, as they refer to the dog and the canine unit that found the missing woman.
+* "residência" is a Location entity, as it refers to the woman's place of residence.
+* "Centro Hospitalar de Trás-os-Montes e Alto Douro" is a Location entity, as it refers to the hospital where the woman was taken.
+* "Unidade de Emergência de Proteção e Socorro" and "UEPS" are Organization entities, as they refer to the emergency response unit and its acronym.
+* "GNR" is also an Organization entity, as it refers to the Guarda Nacional Republicana.
+* "bombeiros" is an Organization entity, as it refers to the fire department.
+* "Autoridade Nacional de Emergência e Proteção Civil" is an Organization entity, as it refers to the National Emergency and Civil Protection Authority.
+* "página na Internet" is an Aspectual entity, as it refers to the fact that the information was found on the internet.
+* "mobilizados" is an Intensional Action entity, as it refers to the fact that the emergency services were mobilized to search for the missing woman.

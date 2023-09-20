@@ -1,0 +1,15 @@
+[
+"de novembro de 2011 a outubro de 2016",
+"de novembro de 2011 a outubro de 2016",
+"em novembro de 2011 a outubro de 2016",
+"em novembro de 2011 a outubro de 2016",
+"de novembro de 2011 a outubro de 2016"
+]
+
+Explanation:
+
+* "de novembro de 2011 a outubro de 2016" is a time expression that covers a period of time from November 2011 to October 2016.
+* "em novembro de 2011 a outubro de 2016" is another time expression that covers the same period of time.
+* "de novembro de 2011 a outubro de 2016" is a third time expression that covers the same period of time.
+
+Note that there are four instances of the same time expression in the input text, and all of them are included in the output list.

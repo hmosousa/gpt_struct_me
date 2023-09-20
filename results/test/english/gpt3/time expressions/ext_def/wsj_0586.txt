@@ -1,0 +1,1 @@
+["Friday", "the previous Friday", "Oct. 13", "the close of a two-week trading account", "the start of a new account", "Monday", "Friday", "this week", "early trading in Tokyo Monday", "Friday", "Friday", "Friday", "the first trading day for November transactions", "Friday", "the fourth decline in the past five days", "Friday", "the weekend", "Friday", "year-end"]

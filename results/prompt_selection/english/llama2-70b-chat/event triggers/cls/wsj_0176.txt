@@ -1,0 +1,51 @@
+[
+["Xerox Corp.", "State"],
+["Crum amp Forster", "State"],
+["employees", "Occurrence"],
+["laying off", "Action"],
+["300 people", "Aspectual"],
+["25% of the staff", "Aspectual"],
+["numerous staff functions", "Occurrence"],
+["centralized", "Action"],
+["cost-cutting move", "Intensional Action"],
+["less than $4 million", "Aspectual"],
+["spread over the next three quarters", "Aspectual"],
+["Xerox earned $492 million", "State"],
+["$4.55 a share", "State"],
+["revenue of $12.97 billion", "State"],
+["Earnings at Xerox's financial-services operations", "State"],
+["rose slightly", "Occurrence"],
+["capital gains at Crum amp Forster", "Occurrence"],
+["offset Hurricane Hugo payments", "Occurrence"],
+["reserves set up to cover future payments", "Occurrence"],
+["Property/casualty insurance", "State"],
+["tough business", "State"],
+["pricing has been cutthroat", "Occurrence"],
+["natural disasters", "Occurrence"],
+["huge payments", "Occurrence"]
+]
+
+Explanation:
+
+* "Xerox Corp." is a State entity.
+* "Crum amp Forster" is a State entity.
+* "employees" is an Occurrence entity.
+* "laying off" is an Action entity.
+* "300 people" and "25% of the staff" are Aspectual entities describing the extent of the layoffs.
+* "numerous staff functions" is an Occurrence entity.
+* "centralized" is an Action entity.
+* "cost-cutting move" is an Intensional Action entity, as it describes the purpose of the centralization.
+* "less than $4 million" and "spread over the next three quarters" are Aspectual entities describing the cost of the centralization.
+* "Xerox earned $492 million" is a State entity.
+* "$4.55 a share" is a State entity.
+* "revenue of $12.97 billion" is a State entity.
+* "Earnings at Xerox's financial-services operations" is a State entity.
+* "rose slightly" is an Occurrence entity.
+* "capital gains at Crum amp Forster" is an Occurrence entity.
+* "offset Hurricane Hugo payments" is an Occurrence entity.
+* "reserves set up to cover future payments" is an Occurrence entity.
+* "Property/casualty insurance" is a State entity.
+* "tough business" is a State entity.
+* "pricing has been cutthroat" is an Occurrence entity.
+* "natural disasters" is an Occurrence entity.
+* "huge payments" is an Occurrence entity.

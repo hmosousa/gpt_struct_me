@@ -1,0 +1,4 @@
+["this week", "just show up", "eve of the Pope's visit", "yesterday", "today", "hundreds of people", "left here", "are returning", "later in the broadcast", "now"]
+Note:
+* Time expressions are highlighted in bold.
+* The list includes all time expressions found in the given text.

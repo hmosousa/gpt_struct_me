@@ -1,0 +1,12 @@
+[
+{ "entity": "Elco Industries Inc.", "class": "Reporting" },
+{ "entity": "net income", "class": "Aspectual" },
+{ "entity": "sales", "class": "Aspectual" },
+{ "entity": "margins", "class": "Intensional Action" },
+{ "entity": "demand", "class": "Intensional State" },
+{ "entity": "fiscal year", "class": "Aspectual" },
+{ "entity": "$1.65 a share", "class": "Perception" },
+{ "entity": "$155 million", "class": "Aspectual" },
+{ "entity": "$7.8 million", "class": "Intensional State" },
+{ "entity": "stock", "class": "Perception" }
+]

@@ -1,0 +1,20 @@
+[
+"Homem",
+"Vale de S. Martinho",
+"Vila Nova de Famalicão",
+"Hospital de São João",
+"Porto",
+"Bombeiros Voluntários Famalicenses",
+"Lusa",
+"Gasolina",
+"Queimaduras",
+"Segundo grau",
+"Terceiro grau",
+"Manuseamento de gasolina",
+"Accidente",
+"Vítima",
+"Transporte",
+"VMER",
+"Hospital de Famalicão",
+"District of Braga"
+]

@@ -1,0 +1,19 @@
+
+[
+["Cineplex", "Date"],
+["Cineplex", "Time"],
+["Cineplex", "Duration"],
+["Cineplex", "Set"]
+]
+
+Explanation:
+
+* "Cineplex" is the entity, and "Date", "Time", "Duration", and "Set" are the classes.
+* The list contains four elements, each consisting of two strings: the entity and the class.
+* The elements are:
+	+ ["Cineplex", "Date"]: The company's directors said the bid is being considered.
+	+ ["Cineplex", "Time"]: The board said Mr. Drabinsky and Vice Chairman Myron Gottlieb are negotiating financing before offering C$16.40 a share.
+	+ ["Cineplex", "Duration"]: The directors added that the two executives haven't reached a final decision to proceed with a bid.
+	+ ["Cineplex", "Set"]: The directors said if Messrs. Drabinsky and Gottlieb mail an offer to shareholders by Nov. 22, it will reimburse them a maximum of C$8.5 million for expenses related to a bid.
+
+Note: The dates and times in the text are extracted and classified as "Date" and "Time" respectively, while the durations and sets are extracted and classified as "Duration" and "Set" respectively.

@@ -1,0 +1,1 @@
+["third-quarter", "last year", "year-earlier", "nearly two weeks ago", "fourth-quarter", "latest quarter", "three years", "nine months"]

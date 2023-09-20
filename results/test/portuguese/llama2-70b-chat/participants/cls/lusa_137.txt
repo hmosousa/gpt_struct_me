@@ -1,0 +1,26 @@
+[
+["GNR", "Organization"],
+["idoso", "Person"],
+["Vila Real", "Location"],
+["Sabroso", "Location"],
+["Trás-os-Montes e Alto Douro", "Location"],
+["UEPS", "Organization"],
+["bombeiros", "Organization"],
+["Autoridade Nacional de Emergência e Proteção Civil", "Organization"],
+["Internet", "Facility"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each participant in the text into one of the predefined classes. The classes are:
+
+* Person: A person or group of people, including their names, ages, and roles.
+* Organization: A company, institution, or organization, including government agencies and NGOs.
+* Object: A physical object or entity, such as a building, vehicle, or animal.
+* Location: A geographical location, including cities, towns, and natural features.
+* Nature: A natural phenomenon or entity, such as a river, mountain, or weather event.
+* Facility: A man-made structure or entity, such as a hospital, school, or website.
+* Other: Any entity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.

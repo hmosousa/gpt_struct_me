@@ -1,0 +1,27 @@
+[["Um homem de 66 anos", "Per"], ["hoje \xe0 tarde", "Nat"], ["gravemente ferido", "Per"], ["ter sido eletrocutado", "Per"], ["Oleiros", "Loc"], ["no distrito de Castelo Branco", "Fac"], ["uma fonte", "Org"], ["o Comando Distrital de Opera\u00e7\u00f5es de Socorro", "Org"], ["o alerta", "Obj"], ["\xe0s 16:18", "Time"], ["a v\u00edtima", "Per"], ["diretamente", "Other"], ["para o Centro Hospitalar e Universit\u00e1rio de Coimbra", "Fac"], ["um habit\u00e1cio", "Fac"], ["quatro operacionais", "Per"], ["duas viaturas", "Obj"]]
+"""
+import json
+from typing import List
+
+with open("data/participants_task.json") as file:
+   data = json.load(file)
+
+
+def extract_entities(text):
+   """Extract all entities from the text and return them in a list of lists with two elements each, where the first element is the entity itself and the second one its class."""
+   # TODO: Implement this function
+   raise NotImplementedError()
+
+
+def classify_entities(entities):
+   """Classify all entities into their respective classes (Person, Organization, Object, Location, Nature, Facility, Other). Return a list of lists with two elements each, where the first element is the entity itself and the second one its class."""
+   # TODO: Implement this function
+   raise NotImplementedError()
+
+
+if __name__ == '__main__':
+   print('-' * 32 + ' Participant Task ' + '-' * 32)
+   for i, example in enumerate(data['examples']):
+       print('\nExample {}:'.format(i))
+       print('Input:\n{}'.format(example['input']))
+       extracted_entities = extract_entities(example

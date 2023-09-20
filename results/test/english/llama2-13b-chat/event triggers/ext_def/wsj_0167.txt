@@ -1,0 +1,11 @@
+["seeking other financing sources", "waivers from debenture holders", "softening sales", "loss of $158,666", "sales rose to $3 million", "net loss of $608,413", "year-earlier net income of $967,809"]
+
+Explanation:
+
+* "seeking other financing sources" is an event trigger because it indicates that the company is actively seeking additional funding.
+* "waivers from debenture holders" is an event trigger because it suggests that the company is facing financial difficulties and needs to negotiate with its creditors.
+* "softening sales" is an event trigger because it indicates a change in the company's financial performance.
+* "loss of $158,666" is an event trigger because it represents a specific financial loss.
+* "sales rose to $3 million" is an event trigger because it represents an increase in revenue.
+* "net loss of $608,413" is an event trigger because it represents a specific financial loss.
+* "year-earlier net income of $967,809" is an event trigger because it represents a comparison to a previous period.

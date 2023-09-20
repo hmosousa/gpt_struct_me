@@ -1,0 +1,25 @@
+[
+["Xerox Corp.", "Date"],
+["300 people", "Time"],
+["25% of the staff", "Duration"],
+["early this week", "Set"],
+["less than $4 million", "Duration"],
+["first nine months", "Date"],
+["$492 million", "Time"],
+["$4.55 a share", "Time"],
+["$12.97 billion", "Time"],
+["Hurricane Hugo payments", "Duration"],
+["reserves set up to cover future payments", "Duration"]
+]
+
+Explanation:
+
+* "Xerox Corp." is a Date entity.
+* "300 people" is a Time entity.
+* "25% of the staff" is a Duration entity.
+* "early this week" is a Set entity.
+* "less than $4 million" is a Duration entity.
+* "first nine months" is a Date entity.
+* "$492 million" and "$4.55 a share" are Time entities.
+* "$12.97 billion" is a Time entity.
+* "Hurricane Hugo payments" and "reserves set up to cover future payments" are Duration entities.

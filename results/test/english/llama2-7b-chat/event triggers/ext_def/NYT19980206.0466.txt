@@ -1,0 +1,10 @@
+[
+"Friday",
+"Thursday",
+"meeting with the president",
+"false leaks",
+"Mrs. Currie",
+"President Clinton",
+"grand jury testimony",
+"tell the truth"
+]

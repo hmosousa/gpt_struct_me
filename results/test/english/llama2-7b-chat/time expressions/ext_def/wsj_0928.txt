@@ -1,0 +1,16 @@
+[
+"first quarter",
+"seven cents a share",
+"fiscal first quarter",
+"1988 period",
+"April",
+"Sparcstation 1",
+"fourth quarter",
+"June 30",
+"backlog of orders",
+"desk-top computers",
+"Digital Equipment Corp.",
+"Hewlett-Packard Co.",
+"International Business Machines Corp.",
+"Next Inc."
+]

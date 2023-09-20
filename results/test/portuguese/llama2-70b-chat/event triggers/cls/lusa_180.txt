@@ -1,0 +1,19 @@
+[
+["Covid-19", "State"],
+["Polícia da República de Moçambique", "Occurrence"],
+["homem suspeito de falsificar testes de covid-19", "Perception"],
+["testes falsos", "Aspectual"],
+["indiciado", "Intensional Action"],
+["trabalhar para a localização do seu comparsa", "Intensional State"],
+["teste negativo de covid-19", "State"]
+]
+
+Explanation:
+
+* "Covid-19" is a State entity, as it refers to the disease.
+* "Polícia da República de Moçambique" is an Occurrence entity, as it refers to the police force that made the arrest.
+* "homem suspeito de falsificar testes de covid-19" is a Perception entity, as it refers to the man who was suspected of falsifying COVID-19 tests.
+* "testes falsos" is an Aspectual entity, as it refers to the fake COVID-19 tests that were found.
+* "indiciado" is an Intensional Action entity, as it refers to the act of the police detaining the man.
+* "trabalhar para a localização do seu comparsa" is an Intensional State entity, as it refers to the police working to locate the man's accomplice.
+* "teste negativo de covid-19" is a State entity, as it refers to the negative COVID-19 test result that is required for travel.

@@ -1,0 +1,1 @@
+[["third quarter", "Date"], ["August", "Date"], ["yesterday", "Date"], ["summer", "Date"], ["year ago", "Date"], ["13 facilities", "Set"], ["seven", "Set"], ["twice", "Duration"], ["33%", "Duration"]]

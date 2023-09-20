@@ -1,0 +1,26 @@
+[
+["Homem", "Person"],
+["tubarão", "Nature"],
+["praia", "Location"],
+["Austrália", "Location"],
+["oceano Índico", "Location"],
+["polícia", "Organization"],
+["paramédicos", "Organization"],
+["CSIRO", "Organization"],
+["Austrália", "Location"]
+]
+
+Explanation:
+The input text describes a shark attack on a man at a beach in Western Australia. The output is a list of entities and their corresponding classes. The entities are:
+
+* Homem (man) - Person
+* tubarão (shark) - Nature
+* praia (beach) - Location
+* Austrália (Australia) - Location
+* oceano Índico (Indian Ocean) - Location
+* polícia (police) - Organization
+* paramédicos (paramedics) - Organization
+* CSIRO (Commonwealth Scientific and Industrial Research Organisation) - Organization
+* Austrália (Australia) - Location
+
+Note that the location class is used for both the country and the beach, as they are both physical locations. The organization class is used for the police, paramedics, and CSIRO, as they are all organizations involved in the response to the shark attack.

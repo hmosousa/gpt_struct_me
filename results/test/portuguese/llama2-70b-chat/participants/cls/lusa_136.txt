@@ -1,0 +1,34 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Maia", "Location"],
+["pai", "Person"],
+["Porto", "Location"],
+["idoso", "Person"],
+["agressor", "Person"],
+["vítima", "Person"],
+["mandado de detenção", "Object"],
+["militares", "Organization"],
+["Posto Territorial", "Facility"],
+["Tribunal de Instrução Criminal", "Facility"],
+["Matosinhos", "Location"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+
+* Person: A person, such as a human being.
+* Organization: A group of people or an entity that operates as a single unit, such as a company, government agency, or non-profit organization.
+* Object: A physical or abstract object, such as a book, chair, or idea.
+* Location: A physical or geographical location, such as a city, country, or building.
+* Nature: A natural entity, such as a plant, animal, or natural phenomenon.
+* Facility: A physical structure or location that serves a specific purpose, such as a hospital, school, or prison.
+* Other: Any entity that does not fit into one of the above categories.
+
+The output should be a list of pairs, where each pair consists of an entity and its corresponding class. The entities and classes should be represented as strings. The list should be in JSON format, which means that it should be a parseable string that can be easily converted into a JavaScript object.
+
+The input text is in Portuguese, so the entities and classes should be translated into English before being classified. For example, "GNR" should be translated to "GNR" (which stands for "Guarda Nacional Republicana," a Portuguese law enforcement agency), and "Maia" should be translated to "Maia" (which is a city in Portugal).
+
+The output for this task should be a list of 11 pairs, where each pair consists of an entity and its corresponding class. The entities and classes should be represented as strings, and the list should be in JSON format.

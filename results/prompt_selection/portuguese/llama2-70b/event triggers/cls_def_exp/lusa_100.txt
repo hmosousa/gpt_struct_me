@@ -1,0 +1,1 @@
+[["Penafiel", "Place"], ["violência física", "Action"], ["injúrias", "Action"], ["ameaças de morte", "Action"], ["separação", "State"], ["perseguição", "Action"]]

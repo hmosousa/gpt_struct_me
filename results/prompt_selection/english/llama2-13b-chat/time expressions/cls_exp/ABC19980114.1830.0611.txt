@@ -1,0 +1,25 @@
+[
+["TWA eight hundred", "Date"],
+["moment", "Time"],
+["last conversation", "Duration"],
+["TWA eight hundred climb maintain one five thousand", "Set"],
+["sixteen thousand feet", "Duration"],
+["big small", "Duration"],
+["God bless him", "Set"]
+]
+
+Explanation:
+
+* "TWA eight hundred" is a date entity.
+* "moment" is a time entity.
+* "last conversation" is a duration entity.
+* "TWA eight hundred climb maintain one five thousand" is a set entity.
+* "sixteen thousand feet" is a duration entity.
+* "big small" is a duration entity.
+* "God bless him" is a set entity.
+
+Note:
+
+* The input text is a news article about the TWA Flight 800 disaster.
+* The task is to extract and classify all time expressions and date entities in the text.
+* The output should be a JSON-parseable list of entities, where each element is a list of two strings: the entity and the class.

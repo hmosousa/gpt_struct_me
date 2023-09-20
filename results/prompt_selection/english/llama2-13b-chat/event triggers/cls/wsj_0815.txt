@@ -1,0 +1,19 @@
+[
+["Di Giorgio Corp.", "State"],
+["Di Giorgio Corp.", "Occurrence"],
+["Robert Mellor", "Perception"],
+["DIG Acquisition Corp.", "Intensional Action"],
+["DIG Acquisition Corp.", "Intensional State"],
+["Rose Partners Limited Partnership", "Aspectual"]
+]
+
+Explanation:
+
+* "Di Giorgio Corp." is a State entity, as it is the subject of the sentence and is not undergoing any change.
+* "Occurrence" is the class for "said it's continuing talks with potential buyers", as it is an event that is happening.
+* "Robert Mellor" is a Perception entity, as it is the person who is perceiving the situation.
+* "DIG Acquisition Corp." is an Intensional Action entity, as it is the subject of the sentence and is performing an action.
+* "DIG Acquisition Corp." is also an Intensional State entity, as it is the subject of the sentence and has a state (being the vehicle for the acquisition).
+* "Rose Partners Limited Partnership" is an Aspectual entity, as it is mentioned in the sentence but is not the subject of the sentence.
+
+Note: This is just one example, and the output may vary depending on the input sentence.

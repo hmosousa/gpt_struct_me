@@ -1,0 +1,14 @@
+[
+["expects", "Intensional State"],
+["net income", "State"],
+["fall", "Occurrence"],
+["post", "Intensional Action"],
+["sales", "State"],
+["continues", "Aspectual"],
+["face", "Perception"],
+["margin pressures", "State"],
+["lower demand", "State"],
+["earned", "Reporting"],
+["fell", "Occurrence"],
+["trading", "Occurrence"]
+]

@@ -1,0 +1,11 @@
+[
+"a minute",
+"10.2%",
+"a share",
+"1 million",
+"1.35",
+"a year",
+"2 a share",
+"2.50 a share",
+"8.5 million"
+]

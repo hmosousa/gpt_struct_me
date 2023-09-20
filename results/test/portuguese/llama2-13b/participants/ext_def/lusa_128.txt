@@ -1,0 +1,20 @@
+["GNR", "apreende", "vários", "tipos", "de", "armas", "de", "fogo", "em", "ação", "contra", "violência", "doméstica", "A", "GNR", "apreendeu", "uma", "caçadeira", ",", "uma", "pistola", ",", "duas", "armas", "de", "ar", "comprimido", "e", "um", "coldre", "no", "decúrso", "de", "uma", "busca", "domiciliária", ",", "em", "Felgueiras", ",", "no", "distrito", "do", "Porto", ",", "no", "âmbito", "de", "uma", "denúncia", "de", "violência", "doméstica", ",", "foi", "hoje", "anunciado", ".", "Em", "comunicado", ",", "a", "Guarda", "explicou", "que", "após", "uma", "denúncia", "relacionada", "com", "um", "crime", "de", "violência", "doméstica", ",", "os", "militares", "foram", "ao", "local", ",", "onde", "a", "vítima", ",", "uma", "mulher", "de", "25", "anos", ",", "foi", "alvo", "de", "coação", "psicológica", "por", "parte", "do", "companheiro", ",", "um", "homem", "com", "33", "anos", ".", "No", "âmbito", "da", "busca", "domiciliária", "operada", "na", "segunda-feira", "foi", "apreendida", "uma", "caçadeira", "de", "calibre", "12", ",", "uma", "pistola", "de", "calibre", "6,35mm", ",", "duas", "armas", "de", "ar", "comprimido", ",", "64", "munições", "e", "um", "coldre", ",", "descreve", "a", "nota", "de", "imprensa", ".", "Ainda", "segundo", "a", "GNR", "os", "factos", "foram", "remetidos", "ao", "Tribunal", "Judicial", "de", "Felgueiras", "."]
+
+Explanation:
+"GNR" is a participant because it is an organization that is actively involved in the event of a crime.
+"apreende" is a participant because it is an action that is being taken by the GNR.
+"vários" is a participant because it is a quantifier that describes the number of participants involved in the event.
+"tipos" is a participant because it is a type of participant that is being described.
+"de" is a participant because it is a preposition that describes the relationship between the participants and the event.
+"armas" is a participant because it is a type of weapon that is being described.
+"de" is a participant because it is a preposition that describes the relationship between the participants and the event.
+"fogo" is a participant because it is a type of weapon that is being described.
+"em" is a participant because it is a preposition that describes the location of the event.
+"ação" is a participant because it is an action that is being taken by the participants.
+"contra" is a participant because it is a type of action that is being taken by the participants.
+"violência" is a participant because it is a type of action that is being taken by the participants.
+"doméstica" is a participant because it is a type of action that is being taken by the participants.
+"A" is a participant because it is a pronoun that refers to the GNR.
+"GNR" is a participant because it is an organization that is actively involved in the event of a crime.
+"apreendeu" is a participant because it is an action that is being taken by the GNR.
+"uma" is a participant

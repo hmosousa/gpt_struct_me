@@ -1,0 +1,14 @@
+[["um atropelamento rodovi\u00e1rio", "Obj"], ["em Reguengo, Cartaxo", "Loc"], ["no distrito de Santar\u00e9m", "Loc"], ["provocou", "Per"], ["um morto", "Per"], ["e um ferido grave", "Per"], ["adiantou", "Per"], ["à ag\u00e9ncia Lusa", "Org"], ["fonte", "Per"], ["do Comando Distrital", "Org"], ["de Opera\u00e7\u00f5es de Socorro", "Org"], ["Segundo", "Per"], ["a mesma fonte", "Org"], ["o ferido grave", "Per"], ["foi", "Per"], ["transportado", "Per"], ["para", "Loc"], ["o Hospital de S\u00e3o Jos\u00e9", "Loc"], ["em Lisboa", "Loc"], ["e a outra v\u00edtima", "Per"], ["foi", "Per"], ["declarada", "Per"], ["cad\u00e1ver", "Per"], ["no local", "Loc"], ["na Estrada Nacional 2-3", "Loc"], ["na freguesia de Valada", "Loc"], ["De acordo", "Per"], ["com a GNR de Santar\u00e9m", "Org"], ["as v\u00edtimas", "Per"], ["s\u00e3o", "Per"], ["entre", "Per"], ["os 30", "Per"], ["e os 40", "Per"], ["anos", "Per"], ["que", "Per"], ["circulavam", "Per"], ["a pé", "Per"], ["e foram", "Per"], ["atropelados", "Per"], ["por", "Per"], ["um veiculo ligeiro", "Obj"], ["o alerta", "Per"], ["foi", "Per"], ["dado", "Per"], ["às", "Per"], ["18:14", "Per"], ["segundo", "Per"], ["a p\u00e1gina na Internet", "Org"], ["da Autoridade Nacional", "Org"], ["de Emerg\u00eancia e Prote\u00c3\u00a7\u00f3o Civil", "Org"], ["que", "Per"], ["informam", "Per"], ["estarem", "Per"], ["no local", "Loc"], ["duas horas", "Per"], ["ap\u00e9s", "Per"], ["13", "Per"], ["operacionais", "Per"], ["e cinco", "Per"], ["viaturas", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre em atropelamento no Cartaxo
+Um atropelamento rodoviário em Reguengo, Cartaxo, no distrito de Santarém, provocou hoje um morto e um ferido grave, adiantou à agência Lusa fonte do Comando Distrital de Operações de Socorro.
+Segundo a mesma fonte, o ferido grave foi transportado para o Hospital de São José, em Lisboa, e a outra vítima foi "declarada cadáver no local", na Estrada Nacional 2-3, na freguesia de Valada.
+De acordo com a GNR de Santarém, as vítimas são dois homens, entre os 30 e os 40 anos, que circulavam a pé e foram atropelados por um veículo ligeiro.
+O alerta foi dado às 18:14, segundo a página na Internet da Autoridade Nacional de Emergência e Proteção Civil, que informa estarem no local, duas horas depois, 13 operacionais e cinco viaturas."
+
+Output:
+[["um atropelamento rodovi\u00e1rio", "Obj"], ["em Reguengo, Cartaxo", "Loc"], ["no distrito de Santar\u00e9m", "Loc"], ["provocou", "Per"], ["um morto",

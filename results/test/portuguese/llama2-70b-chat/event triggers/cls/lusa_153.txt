@@ -1,0 +1,50 @@
+[
+["Prisão preventiva", "State"],
+["homem da Trofa", "Occurrence"],
+["suspeito de violência doméstica", "Perception"],
+["Um homem de 60 anos", "Aspectual"],
+["ficou em prisão preventiva", "Intensional Action"],
+["após ter sido detido", "Intensional State"],
+["NIAVE do Porto", "Reporting"],
+["os militares apurarem", "Reporting"],
+["infligiu maus-tratos verbais", "Intensional Action"],
+["psicológicos e ainda ameaças de morte", "Intensional Action"],
+["à vítima, sua esposa", "Intensional State"],
+["se refugiou num local desconhecido", "Intensional State"],
+["com medo das ameaças de morte sofridas", "Intensional State"],
+["o suspeito", "Occurrence"],
+["consumidor habitual de bebidas alcoólicas", "Aspectual"],
+["com problemas psiquiátricos", "Aspectual"],
+["passou a ir ao encontro da vítima", "Intensional Action"],
+["no seu local de trabalho", "Intensional State"],
+["dando continuidade à prática do crime", "Intensional Action"],
+["o detido", "Occurrence"],
+["com antecedentes criminais", "Aspectual"],
+["pela prática deste tipo de crime", "Aspectual"],
+["foi presente a primeiro interrogatório judicial", "Intensional Action"],
+["no Tribunal Judicial de Matosinhos", "Intensional State"],
+["onde lhe foi aplicada a medida de coação de prisão preventiva", "Intensional Action"],
+["A ação contou com o reforço do Posto Territorial da Trofa", "Reporting"]
+]
+
+Note:
+
+* "Prisão preventiva" is a state, as it describes a situation where someone is in prison as a preventive measure.
+* "homem da Trofa" is an occurrence, as it refers to a specific person from Trofa.
+* "suspeito de violência doméstica" is a perception, as it describes someone's suspicion of domestic violence.
+* "Um homem de 60 anos" is an aspectual, as it describes a person's age.
+* "ficou em prisão preventiva" is an intensional action, as it describes someone being put in prison as a result of an action.
+* "após ter sido detido" is an intensional state, as it describes someone's state of being detained.
+* "NIAVE do Porto" is a reporting, as it refers to a specific organization.
+* "os militares apurarem" is a reporting, as it refers to a specific action taken by the military.
+* "infligiu maus-tratos verbais" is an intensional action, as it describes someone's action of inflicting verbal abuse.
+* "psicológicos e ainda ameaças de morte" is an intensional action, as it describes someone's action of inflicting psychological abuse and making death threats.
+* "à vítima, sua esposa" is an intensional state, as it describes the victim's state of being someone's spouse.
+* "se refugiou num local desconhecido" is an intensional state, as it describes someone's state of being in a unknown location.
+* "com medo das ameaças de morte sofridas" is an intensional state, as it describes someone's state of being afraid of death threats.
+* "o suspeito" is an occurrence, as it refers to a specific person.
+* "consumidor habitual de bebidas alcoólicas" is an aspectual, as it describes someone's habit of consuming alcoholic beverages.
+* "com problemas psiquiátricos" is an aspectual, as it describes someone's psychiatric problems.
+* "passou a ir ao encontro da vítima" is an intensional action, as it describes someone's action of going to meet the victim.
+* "no seu local de trabalho" is an intensional state, as it describes someone's state of being at their workplace.
+* "dando continu

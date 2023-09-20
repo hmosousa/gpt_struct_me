@@ -1,0 +1,14 @@
+["insultava", "ameaçava", "agredia física e psicologicamente", "escalada de maus-tratos", "ameaças", "agressões físicas", "refugiou-se", "abandonou a residência", "se aproximar da vítima", "proibiu-o de se aproximar da vítima"]
+
+Explanation:
+
+* "insultava" is an event trigger because it indicates that the man insulted his wife.
+* "amenaçava" is an event trigger because it indicates that the man threatened his wife.
+* "agredia física e psicologicamente" is an event trigger because it indicates that the man physically and psychologically abused his wife.
+* "escalada de maus-tratos" is an event trigger because it indicates that the man's behavior escalated from bad treatment to worse.
+* "ameaças" is an event trigger because it indicates that the man made threats.
+* "agressões físicas" is an event trigger because it indicates that the man physically attacked his wife.
+* "refugiou-se" is an event trigger because it indicates that the woman and her daughter had to flee the home.
+* "abandonou a residência" is an event trigger because it indicates that the woman and her daughter left their home.
+* "se aproximar da vítima" is an event trigger because it indicates that the man was not allowed to approach his wife.
+* "proibiu-o de se aproximar da vítima" is an event trigger because it indicates that the court prohibited the man from approaching his wife.

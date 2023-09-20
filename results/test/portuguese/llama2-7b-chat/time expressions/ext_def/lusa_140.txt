@@ -1,0 +1,21 @@
+[
+"de peculato",
+"de abuso de poder",
+"de novembro de 2011",
+"a outubro de 2016",
+"5.400 euros",
+"5.400,17 euros",
+"de 2011 a 2016"
+]
+Explanation:
+The task is to extract all time expressions from the given text. Time expressions are linguistic elements that allow us to communicate information about time, such as specific points in time, time periods, and units of time.
+In this text, the following time expressions can be found:
+* "de peculato" (meaning "of embezzlement")
+* "de abuso de poder" (meaning "of abuse of power")
+* "de novembro de 2011" (meaning "from November 2011")
+* "a outubro de 2016" (meaning "until October 2016")
+* "5.400 euros" (meaning "5,400 euros")
+* "5.400,17 euros" (meaning "5,400.17 euros")
+* "de 2011 a 2016" (meaning "from 2011 to 2016")
+
+Note: The output is a JSON-parseable list of strings, where each string represents a time expression found in the input text.

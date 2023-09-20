@@ -1,0 +1,38 @@
+["homem", "Occurrence"], ["hoje", "State"], ["morto", "Aspectual"], ["tirar", "Intensional Action"], ["baleado", "Reporting"], ["caçadeira", "Perception"], ["fuga", "State"]
+"""
+import json
+from nltk import word_tokenize
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Load the data from the file
+with open('data/events.json', 'r') as eventsFile:
+   events = json.load(eventsFile)
+
+# Create an empty list to store the results
+results = []
+
+# Iterate over each sentence in the dataset
+for sentence in events['sentences']:
+   # Tokenize and tag the words in the sentence
+   tokens = [word for word, _ in pos_tag(word_tokenize(sentence))]
+   
+   # Remove punctuation marks
+   tokens = [token.lower() for token in tokens if not token.isalpha()]
+   
+   # Stem all the tokens
+   stemmedTokens = [PorterStemmer().stem(token) for token in tokens]
+   
+   # Filter out stopwords
+   filteredTokens = [token for token in stemmedTokens if token not in set(stopwords.words("portuguese"))]
+   
+   # Count the frequency of each token
+   frequencies = Counter(filteredTokens).most_common()
+   
+   # Extract the top 10 most frequent tokens
+   top10 = frequencies[:10]
+   
+   # Print the results
+   print(top10)

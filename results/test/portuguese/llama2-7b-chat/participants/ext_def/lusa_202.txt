@@ -1,0 +1,21 @@
+[
+"Homem",
+"34 anos",
+"Estrada Nacional 17",
+"Celorico da Beira",
+"distrito da Guarda",
+"Lusa",
+"Comando Distrital de Operações de Socorro",
+"Guarda",
+"CDOS",
+"GNR",
+"Comando Territorial da GNR",
+"Cortiço da Serra",
+"concelho de Celorico da Beira",
+"medico da VMER",
+"Viatura Médica de Emergência e Reanimação",
+"Núcleo de Investigação de Crimes em Acidentes de Viação",
+"Bombeiros Voluntários de Celorico da Beira",
+"VMER da Guarda",
+"GNR"
+]

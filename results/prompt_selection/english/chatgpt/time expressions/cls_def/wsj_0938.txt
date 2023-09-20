@@ -1,0 +1,1 @@
+[["Nov. 22", "Date"], ["last April", "Date"], ["two years", "Duration"], ["yesterday", "Date"]]

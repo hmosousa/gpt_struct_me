@@ -1,0 +1,7 @@
+[
+"end of this week",
+"Nov. 21"
+]
+
+Explanation:
+The two time expressions in the input text are "end of this week" and "Nov. 21". These expressions are extracted and included in the output list.

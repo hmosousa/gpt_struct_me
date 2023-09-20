@@ -1,0 +1,31 @@
+[
+["Dominion Textile Inc.", "State"],
+["annual meeting", "Occurrence"],
+["Aug. 9", "Aspectual"],
+["hostile bidder", "Intensional Action"],
+["more than 20% of the shares outstanding", "Intensional Action"],
+["rights attached to the company's common shares", "Intensional Action"],
+["additional shares", "Intensional Action"],
+["50% of the then current market price", "Intensional Action"],
+["at the board's discretion", "Intensional Action"],
+["securities or assets", "Intensional Action"],
+["fiscal-first quarter ended Sept. 30", "Perception"],
+["net income of 4.7 million Canadian dollars ($4 million)", "State"],
+["12 Canadian cents a share", "State"],
+["net loss of C$2.3 million, or 14 Canadian cents a share, a year ago", "State"]
+]
+
+Explanation:
+
+1. "Dominion Textile Inc." is a State entity.
+2. "annual meeting" is an Occurrence event trigger.
+3. "Aug. 9" is an Aspectual event trigger.
+4. "hostile bidder" is an Intensional Action event trigger.
+5. "more than 20% of the shares outstanding" is an Intensional Action event trigger.
+6. "rights attached to the company's common shares" is an Intensional Action event trigger.
+7. "additional shares" is an Intensional Action event trigger.
+8. "50% of the then current market price" is an Intensional Action event trigger.
+9. "at the board's discretion" is an Intensional Action event trigger.
+10. "securities or assets" is an Intensional Action event trigger.
+11. "fiscal-first quarter ended Sept. 30" is a Perception event trigger.
+12. "net income of 4.7 million Canadian dollars ($4 million)" and "net loss of C$2.3 million, or 14 Canadian cents a share, a year ago" are both State event triggers.

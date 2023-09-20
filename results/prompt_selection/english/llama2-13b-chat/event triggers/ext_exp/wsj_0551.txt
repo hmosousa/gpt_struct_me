@@ -1,0 +1,13 @@
+["merger", "completed", "Society Corp. of Cleveland", "buy", "Trustcorp", "stock", "market value", "about $450 million", "year end"]
+
+Explanation:
+
+* "merger" is an event trigger because it indicates a significant change in the company's status.
+* "completed" is an event trigger because it indicates the merger has been finalized.
+* "Society Corp. of Cleveland" is an event trigger because it is a specific company that is involved in the merger.
+* "buy" is an event trigger because it indicates a significant transaction has taken place.
+* "Trustcorp" is an event trigger because it is the company being acquired.
+* "stock" is an event trigger because it is a type of asset being transferred.
+* "market value" is an event trigger because it provides information about the value of the transaction.
+* "about $450 million" is an event trigger because it provides a specific dollar amount for the transaction.
+* "year end" is an event trigger because it provides a time frame for the transaction to be completed.
