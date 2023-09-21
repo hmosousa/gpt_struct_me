@@ -1,0 +1,1 @@
+["Friday", "Thursday", "Thursday", "Friday", "Friday", "today", "Thursday", "Friday", "this morning"]

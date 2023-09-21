@@ -1,0 +1,1 @@
+[["announced", "OCCURRENCE"], ["raise", "OCCURRENCE"], ["used", "OCCURRENCE"], ["said", "REPORTING"], ["entitle", "OCCURRENCE"], ["held", "OCCURRENCE"], ["raise", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["subscribe", "OCCURRENCE"], ["approved", "OCCURRENCE"], ["said", "REPORTING"], ["eliminate", "OCCURRENCE"]]

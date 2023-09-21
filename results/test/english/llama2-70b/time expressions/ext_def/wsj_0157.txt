@@ -1,0 +1,1 @@
+["$12", "$1.65", "2.1 million", "$29 million", "two years", "five years"]

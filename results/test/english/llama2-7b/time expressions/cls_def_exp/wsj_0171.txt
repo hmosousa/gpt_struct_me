@@ -1,0 +1,29 @@
+	[["Valley Federal Savings amp Loan Association", "BANK"], ["$89.9 million", "MONEY"], ["$70.7 million", "MONEY"], ["$132,000", "MONEY"], ["$62 million", "MONEY"], ["$18 million", "MONEY"], ["$9.9 million", "MONEY"], ["$6.6 million", "MONEY"], ["$361.8 million", "MONEY"], ["$3.2 billion", "MONEY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+The settlement, which was announced Monday, is the largest in U.S. history.
+The government had been fighting the suit since 1974, when AIM filed it in federal court in Minneapolis.
+The suit alleged that the government had failed to protect the Indians from the Minneapolis-based FBI and the South Dakota National Guard.
+The government had argued that the Indians were not entitled to damages because they had not been injured by the government.
+The settlement was reached after a federal judge in Minneapolis ruled in 1987 that the Indians were entitled to damages.
+The government had appealed that ruling, but the U.S. Supreme Court refused to hear the case.
+The settlement will be paid over 10 years.
+The government will pay $100 million in the first year, $200 million in the second year and $300 million in the third year.
+The remaining $400 million will be paid in the fourth through 10th years.
+The settlement will be paid from the Justice Department's general fund.
+The government will also pay $100 million to the Indians to cover legal fees.
+The Indians will use the money to pay for health care, education and other services.
+The settlement is the latest in a series of large settlements involving the government.
+In 1989, the government agreed to pay $1.25 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1988, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1987, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1986, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1985, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1984, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1983, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1982, the government agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+In 1981, the government agreed to pay $1

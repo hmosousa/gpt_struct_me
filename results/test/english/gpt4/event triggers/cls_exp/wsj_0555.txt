@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["elected", "OCCURRENCE"], ["convert", "OCCURRENCE"], ["is", "STATE"], ["said", "REPORTING"], ["represent", "OCCURRENCE"], ["sells", "OCCURRENCE"]]

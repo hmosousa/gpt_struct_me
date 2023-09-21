@@ -1,0 +1,10 @@
+[
+  ["Hadson Corp.", "State"],
+  ["Hadson Corp.", "Occurrence"],
+  ["Hadson Corp.", "Reporting"],
+  ["Hadson Corp.", "Perception"],
+  ["Hadson Corp.", "Aspectual"],
+  ["Hadson Corp.", "Intensional Action"],
+  ["Hadson Corp.", "Intensional State"]
+]
+

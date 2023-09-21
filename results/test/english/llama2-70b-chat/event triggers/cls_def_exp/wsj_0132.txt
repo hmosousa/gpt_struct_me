@@ -1,0 +1,8 @@
+[["net income", "OCCURRENCE"], ["income", "OCCURRENCE"], ["charges", "OCCURRENCE"], ["gain", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["disposal", "OCCURRENCE"], ["program", "OCCURRENCE"], ["transactions", "OCCURRENCE"], ["spending", "OCCURRENCE"], ["taxes", "OCCURRENCE"], ["outlay", "OCCURRENCE"], ["earnings", "OCCURRENCE"], ["growth", "OCCURRENCE"], ["sales", "OCCURRENCE"]]
+
+Please provide your solution in JSON format.
+
+
+
+
+

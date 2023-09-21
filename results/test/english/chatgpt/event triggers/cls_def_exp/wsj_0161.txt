@@ -1,0 +1,1 @@
+[["expects", "I_STATE"], ["report", "OCCURRENCE"], ["loss", "STATE"], ["record", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["write off", "OCCURRENCE"], ["cited", "REPORTING"], ["amortization", "OCCURRENCE"], ["was", "OCCURRENCE"], ["income", "STATE"], ["revenue", "STATE"]]

@@ -230,7 +230,7 @@
             "f1": 0
         },
         "relaxed": {
-            "f1": 0.08556253023277498
+            "f1": 0.085562530232775
         }
     },
     {
@@ -269,7 +269,7 @@
             "f1": 0
         },
         "relaxed": {
-            "f1": 0.08556253023277498
+            "f1": 0.085562530232775
         }
     },
     {
@@ -309,279 +309,6 @@
         },
         "relaxed": {
             "f1": 0.035189519834964475
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_exp",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_exp",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.026941734735852384
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.052971974250006285
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.09168754266363029
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def_exp",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def_exp",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "cls_def_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_def_exp",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.12182525125084731
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_def_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_def",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.12182525125084731
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_def",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.0
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_exp",
-        "entity": "participants",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.052971974250006285
-        }
-    },
-    {
-        "model": "falcon-7b",
-        "template": "ext_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.0,
-            "precision": 0.0,
-            "f1": 0
-        },
-        "relaxed": {
-            "f1": 0.09168754266363029
         }
     },
     {
@@ -984,7 +711,7 @@
             "f1": 0.04608294930875576
         },
         "relaxed": {
-            "f1": 0.05714832357057211
+            "f1": 0.057148323570572104
         }
     },
     {
@@ -1010,7 +737,7 @@
             "f1": 0.06077348066298343
         },
         "relaxed": {
-            "f1": 0.14070451695388286
+            "f1": 0.1407045169538829
         }
     },
     {
@@ -1179,7 +906,7 @@
             "f1": 0.04608294930875576
         },
         "relaxed": {
-            "f1": 0.05714832357057211
+            "f1": 0.057148323570572104
         }
     },
     {
@@ -1205,7 +932,7 @@
             "f1": 0.06077348066298343
         },
         "relaxed": {
-            "f1": 0.14070451695388286
+            "f1": 0.1407045169538829
         }
     },
     {
@@ -1283,7 +1010,7 @@
             "f1": 0.015723270440251572
         },
         "relaxed": {
-            "f1": 0.3556846458298673
+            "f1": 0.3556846458298672
         }
     },
     {
@@ -1569,7 +1296,7 @@
             "f1": 0.10031347962382445
         },
         "relaxed": {
-            "f1": 0.09891142365463249
+            "f1": 0.09891142365463247
         }
     },
     {
@@ -1621,7 +1348,7 @@
             "f1": 0.013888888888888888
         },
         "relaxed": {
-            "f1": 0.07565584415584414
+            "f1": 0.07565584415584416
         }
     },
     {
@@ -1686,7 +1413,7 @@
             "f1": 0.10031347962382445
         },
         "relaxed": {
-            "f1": 0.09891142365463249
+            "f1": 0.09891142365463247
         }
     },
     {
@@ -1738,7 +1465,7 @@
             "f1": 0.1057471264367816
         },
         "relaxed": {
-            "f1": 0.3764770554523993
+            "f1": 0.37647705545239923
         }
     },
     {
@@ -1777,7 +1504,7 @@
             "f1": 0.1057471264367816
         },
         "relaxed": {
-            "f1": 0.3764770554523993
+            "f1": 0.37647705545239923
         }
     },
     {
@@ -1816,7 +1543,7 @@
             "f1": 0.013888888888888888
         },
         "relaxed": {
-            "f1": 0.07565584415584414
+            "f1": 0.07565584415584416
         }
     },
     {
@@ -1907,7 +1634,7 @@
             "f1": 0.45259165613147917
         },
         "relaxed": {
-            "f1": 0.7550659331653997
+            "f1": 0.7550659331653996
         }
     },
     {
@@ -1920,7 +1647,7 @@
             "f1": 0.43333333333333335
         },
         "relaxed": {
-            "f1": 0.5320192770192771
+            "f1": 0.532019277019277
         }
     },
     {
@@ -1946,7 +1673,7 @@
             "f1": 0.475
         },
         "relaxed": {
-            "f1": 0.784746326555199
+            "f1": 0.7847463265551989
         }
     },
     {
@@ -2024,7 +1751,7 @@
             "f1": 0.47858942065491183
         },
         "relaxed": {
-            "f1": 0.782262634067983
+            "f1": 0.7822626340679829
         }
     },
     {
@@ -2050,7 +1777,7 @@
             "f1": 0.1375515818431912
         },
         "relaxed": {
-            "f1": 0.5967202230080612
+            "f1": 0.596720223008061
         }
     },
     {
@@ -2180,7 +1907,7 @@
             "f1": 0.025735294117647058
         },
         "relaxed": {
-            "f1": 0.04734754552769259
+            "f1": 0.04734754552769258
         }
     },
     {
@@ -2206,7 +1933,7 @@
             "f1": 0.10526315789473685
         },
         "relaxed": {
-            "f1": 0.37997902202724704
+            "f1": 0.3799790220272469
         }
     },
     {
@@ -2297,7 +2024,7 @@
             "f1": 0.025735294117647058
         },
         "relaxed": {
-            "f1": 0.04734754552769259
+            "f1": 0.04734754552769258
         }
     },
     {
@@ -2323,7 +2050,7 @@
             "f1": 0.10526315789473685
         },
         "relaxed": {
-            "f1": 0.37997902202724704
+            "f1": 0.3799790220272469
         }
     },
     {
@@ -2362,7 +2089,7 @@
             "f1": 0
         },
         "relaxed": {
-            "f1": 0.2301174369874806
+            "f1": 0.23011743698748055
         }
     },
     {
@@ -2401,7 +2128,7 @@
             "f1": 0
         },
         "relaxed": {
-            "f1": 0.2301174369874806
+            "f1": 0.23011743698748055
         }
     },
     {
@@ -2674,7 +2401,7 @@
             "f1": 0.08888888888888889
         },
         "relaxed": {
-            "f1": 0.3991343683453572
+            "f1": 0.39913436834535715
         }
     },
     {
@@ -2908,7 +2635,7 @@
             "f1": 0.17156286721504113
         },
         "relaxed": {
-            "f1": 0.6522693787107743
+            "f1": 0.6522693787107744
         }
     },
     {
@@ -2973,7 +2700,7 @@
             "f1": 0.4680851063829787
         },
         "relaxed": {
-            "f1": 0.6678046398046399
+            "f1": 0.6678046398046398
         }
     },
     {
@@ -2986,7 +2713,7 @@
             "f1": 0.08034433285509325
         },
         "relaxed": {
-            "f1": 0.6602654047304046
+            "f1": 0.6602654047304045
         }
     },
     {

@@ -1,0 +1,25 @@
+[["The Pentagon", "STATE"], ["said", "REPORTING"], ["today", "OCCURRENCE"], ["it", "I_STATE"], ["will", "I_ACTION"], ["re-examine", "I_ACTION"], ["the", "OCCURRENCE"], ["question", "OCCURRENCE"], ["are", "OCCURRENCE"], ["the", "OCCURRENCE"], ["remains", "OCCURRENCE"], ["inside", "OCCURRENCE"], ["the", "OCCURRENCE"], ["Tomb", "OCCURRENCE"], ["of", "OCCURRENCE"], ["the", "OCCURRENCE"], ["Unknown", "OCCURRENCE"], ["from", "OCCURRENCE"], ["the", "OCCURRENCE"], ["Vietnam", "OCCURRENCE"], ["War", "STATE"], ["in", "OCCURRENCE"], ["fact", "OCCURRENCE"], ["known", "OCCURRENCE"], ["?", "ASPECTUAL"]]
+
+Note:
+The classes are not mutually exclusive, and an event can belong to multiple classes.
+
+This task is to extract and classify all event triggers in a given text. Event triggers are the words or phrases that indicate the occurrence of an event.
+
+The classes are:
+
+1. State: Indicates a state of being or a situation.
+Example: "The Pentagon said today it will re-examine the question."
+2. Occurrence: Indicates an event or happening.
+Example: "CBS News first reported last night that the tomb may contain the remains of Air Force pilot Michael Blassie."
+3. Reporting: Indicates a report or statement about an event.
+Example: "The Pentagon said today it will re-examine the question."
+4. Perception: Indicates a perception or belief about an event.
+Example: "There was a suspicion the body was Blassie because his uniform and ID card were found near the body in Vietnam."
+5. Aspectual: Indicates a possibility or potential event.
+Example: "But subsequently, they were lost."
+6. Intensional Action: Indicates an action that is intended or planned.
+Example: "Blassie's mother now wants the remains in the tomb tested for DNA."
+7. Intensional State: Indicates a state that is intended or planned.
+Example: "The Pentagon said today it will re-examine the question."
+
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class.

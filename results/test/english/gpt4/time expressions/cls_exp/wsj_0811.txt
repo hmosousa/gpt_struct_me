@@ -1,0 +1,1 @@
+[["Nov. 1, 2004", "DATE"], ["a year", "DURATION"], ["yesterday", "DATE"]]

@@ -1,0 +1,1 @@
+["killed", "emptied", "appeared", "waiting", "panicked", "started", "hit", "fleeing", "took"]

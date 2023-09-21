@@ -1,0 +1,1 @@
+["past two quarters", "recently", "Yesterday", "beginning of October"]

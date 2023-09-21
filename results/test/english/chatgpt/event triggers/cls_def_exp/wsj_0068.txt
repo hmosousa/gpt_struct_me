@@ -1,0 +1,1 @@
+[["cut", "I_ACTION"], ["dividend", "ASPECTUAL"], ["payable", "ASPECTUAL"], ["cut", "I_ACTION"], ["loss", "STATE"], ["reported", "REPORTING"], ["adopted", "I_ACTION"]]

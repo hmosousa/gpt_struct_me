@@ -1,0 +1,1 @@
+[["declared", "OCCURRENCE"], ["split", "OCCURRENCE"], ["boosted", "OCCURRENCE"], ["payable", "OCCURRENCE"], ["raise", "OCCURRENCE"], ["reported", "REPORTING"], ["rose", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["Sales", "STATE"]]

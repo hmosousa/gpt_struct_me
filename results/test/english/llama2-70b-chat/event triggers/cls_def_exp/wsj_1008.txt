@@ -1,0 +1,23 @@
+[
+["Lawrence Insurance Group Inc.", "OCCURRENCE"],
+["United Republic Reinsurance Co.", "OCCURRENCE"],
+["United Savings Association of Texas", "OCCURRENCE"],
+["Lawrence Group Inc.", "OCCURRENCE"],
+["Albany", "STATE"],
+["$22.5 million", "OCCURRENCE"],
+["93.2%", "OCCURRENCE"],
+["91.2%", "OCCURRENCE"],
+["Schenectady", "STATE"],
+["Lawrence Agency Corp.", "OCCURRENCE"]
+]
+
+Note:
+
+* OCCURRENCE: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* STATE: refers to a state of being or a condition.
+* REPORTING: refers to the act of reporting or the information reported.
+* PERCEPTION: refers to the way something is perceived or understood.
+* I_STATE: refers to a state of being or a condition that is internal to the subject.
+* ASPECTUAL: refers to a potential or hypothetical situation or event.
+* INTENSIONAL ACTION: refers to an action that is intended or planned.
+* INTENSIONAL STATE: refers to a state of being or a condition that is intended or planned.

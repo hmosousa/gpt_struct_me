@@ -1,0 +1,28 @@
+[["H. Marshall Schwarz", "PERSON"], ["U.S. Trust Corp.", "PERSON"], ["Daniel P. Davison", "PERSON"], ["Jeffrey S. Maurer", "PERSON"], ["Donald M. Roberts", "PERSON"], ["Frederick S. Wonham", "PERSON"], ["Frederick B. Taylor", "PERSON"], ["James E. Bacon", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. Supreme Court ruled that the government can't force a person to testify against himself in a criminal case.
+The 6-3 decision, written by Justice Sandra Day O'Connor, said the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling overturned a 1984 decision that said the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling came in a case involving a man who was convicted of murdering his wife.
+The man, who was sentenced to death, was ordered to testify against himself in a civil case brought by his wife's family.
+The man refused to testify, saying it would incriminate him in the murder case.
+The Supreme Court ruled that the man's testimony in the civil case could not be used against him in the criminal case.
+The ruling was a victory for the man, who was sentenced to death.
+The ruling was also a victory for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling was a defeat for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling was a defeat for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling was a defeat for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling was a defeat for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a civil case.
+The ruling was a defeat for the American Civil Liberties Union, which had argued that the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The ruling was a defeat for the government, which had argued that the Fifth Amendment's protection against self-incrimination applies only to a defendant's testimony in a criminal case.
+The ruling overturned a 1984 decision, written by Justice Sandra Day O'Connor, said the Fifth Amendment's protection against self-incrimination applies to a defendant's testimony in a criminal case.
+The 6-3 decision, written by Justice

@@ -1,0 +1,1 @@
+[["the end of this week", "DATE"], ["Nov. 21", "DATE"], ["1993", "DATE"]]

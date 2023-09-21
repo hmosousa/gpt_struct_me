@@ -1,0 +1,1 @@
+[["next year", "DATE"], ["the next three years", "DURATION"], ["1988", "DATE"], ["Since 1983", "DATE"], ["the past 20 months", "DURATION"], ["this year", "DATE"], ["about a decade", "DURATION"], ["the 1990s", "DATE"], ["last year", "DATE"], ["1990", "DATE"], ["this year", "DATE"], ["the fourth quarter", "DATE"]]

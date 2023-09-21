@@ -1,0 +1,1 @@
+[["third-quarter", "DATE"], ["the year-earlier quarter", "DATE"], ["June 1989", "DATE"]]

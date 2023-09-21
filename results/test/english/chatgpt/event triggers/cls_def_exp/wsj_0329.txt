@@ -1,0 +1,1 @@
+[["arranged", "OCCURRENCE"], ["used", "OCCURRENCE"], ["repurchase", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["remaining", "STATE"], ["used", "OCCURRENCE"], ["dedicated", "STATE"], ["put", "OCCURRENCE"]]

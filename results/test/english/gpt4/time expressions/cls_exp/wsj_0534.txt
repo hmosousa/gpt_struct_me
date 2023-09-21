@@ -1,0 +1,1 @@
+[["Dec. 7", "DATE"], ["800,000", "DURATION"], ["$1.875 Series A", "SET"], ["$26.805", "TIME"], ["Nov. 30", "DATE"], ["1.439", "DURATION"], ["$17.50", "TIME"], ["Friday", "DATE"], ["$19.50", "TIME"], ["25 cents", "DURATION"]]

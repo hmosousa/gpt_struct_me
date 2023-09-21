@@ -1,0 +1,38 @@
+	[["Delta Air Lines", "AIR"], ["America West Airlines", "AIR"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of some of its 100 million barrels of oil reserves to help finance the Persian Gulf crisis.
+The plan, which would be the first time the government has sold oil from its Strategic Petroleum Reserve, would be part of a broader effort to raise money for the war effort.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months, but the plan has been put on hold because of the war.
+The government has been considering selling oil from the reserve for several months,

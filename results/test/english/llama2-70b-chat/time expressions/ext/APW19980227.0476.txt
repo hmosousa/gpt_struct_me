@@ -1,0 +1,4 @@
+["Friday", "1988", "1995", "3rd graf pvs"]
+
+Note:
+"pvs" stands for "pari passu", which is a Latin phrase meaning "at an equal pace". It is used in legal contexts to refer to the simultaneous consideration of two or more matters.

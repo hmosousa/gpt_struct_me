@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["registered", "OCCURRENCE"], ["offering", "OCCURRENCE"], ["sell", "OCCURRENCE"], ["sell", "OCCURRENCE"], ["estimates", "I_STATE"], ["use", "OCCURRENCE"], ["repay", "OCCURRENCE"], ["establishing", "OCCURRENCE"], ["acquisitions", "OCCURRENCE"], ["has", "OCCURRENCE"], ["have", "OCCURRENCE"], ["owning", "OCCURRENCE"]]

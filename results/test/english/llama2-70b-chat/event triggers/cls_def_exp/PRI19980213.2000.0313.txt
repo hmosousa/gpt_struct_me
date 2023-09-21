@@ -1,0 +1,10 @@
+[["Officials", "OCCURRENCE"], ["residents", "OCCURRENCE"], ["rains", "OCCURRENCE"], ["dangerous", "OCCURRENCE"], ["unpredictable", "OCCURRENCE"], ["landslides", "OCCURRENCE"], ["Experts", "OCCURRENCE"], ["ground", "STATE"], ["saturated", "STATE"], ["water", "OCCURRENCE"], ["means", "I_STATE"], ["soil", "OCCURRENCE"], ["fall", "OCCURRENCE"], ["chunks", "OCCURRENCE"], ["path", "OCCURRENCE"], ["houses", "OCCURRENCE"], ["foundations", "OCCURRENCE"], ["firefighters", "OCCURRENCE"], ["evacuation", "OCCURRENCE"], ["neighborhood", "OCCURRENCE"], ["officials", "OCCURRENCE"], ["Rio Nido", "OCCURRENCE"], ["hillside", "OCCURRENCE"], ["neighborhood", "OCCURRENCE"], ["mansion", "OCCURRENCE"], ["Pacific Ocean", "OCCURRENCE"], ["Golden Gate Bridge", "OCCURRENCE"], ["Forecasters", "OCCURRENCE"], ["picture", "OCCURRENCE"], ["rains", "OCCURRENCE"]]
+
+Please ensure that your model can extract and classify all event triggers in the given text.
+
+Note:
+Please note that the input text is a sample and the actual text may vary in terms of language, tone, and content. The model should be able to handle variations in language and tone and extract and classify event triggers accurately.
+
+Also, please note that the output format is a JSON-parseable list, and the model should output the list in the same format.
+
+Please let me know if you have any questions or concerns.

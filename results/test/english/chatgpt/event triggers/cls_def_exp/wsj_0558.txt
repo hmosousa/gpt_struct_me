@@ -1,0 +1,1 @@
+[["fell", "OCCURRENCE"], ["reduced", "OCCURRENCE"], ["restated", "OCCURRENCE"], ["started", "OCCURRENCE"], ["evaluate", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["posted", "OCCURRENCE"], ["included", "OCCURRENCE"], ["included", "OCCURRENCE"], ["rose", "OCCURRENCE"]]

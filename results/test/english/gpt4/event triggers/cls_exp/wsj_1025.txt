@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["narrowed", "OCCURRENCE"], ["leap", "OCCURRENCE"], ["reported", "REPORTING"], ["compared", "REPORTING"], ["surged", "OCCURRENCE"], ["said", "REPORTING"], ["conducted", "OCCURRENCE"], ["begun", "ASPECTUAL"]]

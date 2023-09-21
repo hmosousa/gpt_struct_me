@@ -1,0 +1,1 @@
+[["filed", "OCCURRENCE"], ["block", "OCCURRENCE"], ["violates", "OCCURRENCE"], ["filed", "OCCURRENCE"], ["nullify", "OCCURRENCE"], ["rejected", "OCCURRENCE"], ["launched", "OCCURRENCE"], ["comment", "OCCURRENCE"]]

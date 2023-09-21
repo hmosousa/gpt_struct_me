@@ -1,0 +1,1 @@
+[["52 years old", "DATE"], ["27-year", "DURATION"], ["only six months", "DURATION"], ["several-year", "DURATION"]]

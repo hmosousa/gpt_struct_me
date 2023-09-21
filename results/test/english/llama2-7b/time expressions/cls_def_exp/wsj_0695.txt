@@ -1,0 +1,29 @@
+	[["Rally's", "COMPANY"], ["Giant Group Ltd.", "COMPANY"], ["Restaurant Investment Partnership", "COMPANY"], ["James M. Trotter III", "PERSON"], ["William E. Trotter II", "PERSON"], ["Burt Sugarman", "PERSON"], ["James Patterson", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 that the federal government can't force a state to pay for the cost of a federal prison.
+The court's decision in the case of Oklahoma v. United States, No. 90-101, was a victory for Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The court's decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The case involved a dispute between Oklahoma and the federal government over the cost of housing federal prisoners in Oklahoma.
+The federal government argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The state of Oklahoma argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The Supreme Court ruled in favor of Oklahoma, finding that the federal government does not have the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the federal government, which had argued that the federal government has the power to force states to pay for the cost of housing federal prisoners.
+The decision was a victory for the state of Oklahoma, which had argued that the federal government was violating the 10th Amendment by forcing the state to pay for the cost of housing federal prisoners in Oklahoma.
+The decision was a setback for the

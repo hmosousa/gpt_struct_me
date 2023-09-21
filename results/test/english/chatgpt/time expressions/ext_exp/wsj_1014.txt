@@ -1,0 +1,1 @@
+["the same time", "last month", "the last half of 1989", "the mid-1990s", "last year", "the current year", "yesterday"]

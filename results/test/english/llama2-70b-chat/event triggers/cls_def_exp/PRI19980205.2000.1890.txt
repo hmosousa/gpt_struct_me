@@ -1,0 +1,18 @@
+[["The US", "OCCURRENCE"], ["President Clinton", "I_STATE"], ["discussed", "OCCURRENCE"], ["Iraq crisis", "OCCURRENCE"], ["British prime minister Tony Blair", "I_STATE"], ["The World", "OCCURRENCE"], ["Nancy Marshall", "REPORTING"], ["Mr. Blair's", "OCCURRENCE"], ["visit", "OCCURRENCE"], ["Washington", "OCCURRENCE"], ["the two leaders", "OCCURRENCE"], ["President Clinton", "I_STATE"], ["rolled out the red carpet", "OCCURRENCE"], ["prime minister Blair", "I_STATE"], ["pledged", "OCCURRENCE"], ["stand united", "OCCURRENCE"], ["Iraq", "OCCURRENCE"], ["British aircraft carrier invincible", "OCCURRENCE"], ["Persian Gulf", "OCCURRENCE"], ["US vessels", "OCCURRENCE"], ["Washington", "OCCURRENCE"], ["London", "OCCURRENCE"], ["virtually alone", "OCCURRENCE"], ["warning Iraq", "OCCURRENCE"], ["military strikes", "OCCURRENCE"], ["weapons inspection issue", "OCCURRENCE"], ["President Clinton", "I_STATE"], ["says", "REPORTING"], ["stand together", "OCCURRENCE"], ["Iraq", "OCCURRENCE"], ["terrorists", "OCCURRENCE"], ["Pan Am flight one oh three", "OCCURRENCE"], ["Scotland", "OCCURRENCE"], ["The World", "OCCURRENCE"], ["Nancy Marshall", "REPORTING"], ["Washington", "OCCURRENCE"]]
+
+Please provide the extracted and classified event triggers in the format of a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+Please provide your answer in the format of a JSON-parseable list.
+
+Also, please note that the event triggers can be of different types such as:
+
+* OCCURRENCE: refers to any occurrence, incident, action, or state that takes place or holds within a specified period of time.
+* I_STATE: refers to a state of being or a condition.
+* REPORTING: refers to the act of reporting or describing something.
+* PERCEPTION: refers to the ability to see, hear, or become aware of something through the senses.
+* ASPECTUAL: refers to a particular aspect or feature of something.
+* INTENSIONAL ACTION: refers to an action that is intended or planned.
+* INTENSIONAL STATE: refers to a state of being that is intended or planned.
+
+Please ensure that the event triggers are correctly classified and provided in the format specified.

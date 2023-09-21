@@ -1,0 +1,26 @@
+[["Montedison S.p.A.", "ORGANIZATION"], ["Erbamont N.V.", "ORGANIZATION"], ["$37", "AMOUNT"], ["each", "UNIT"], ["now", "I_ACTION"], ["owns", "OCCURRENCE"], ["about", "OCCURRENCE"], ["72%", "PERCENTAGE"], ["shares", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["accord", "OCCURRENCE"], ["unanimously", "OCCURRENCE"], ["approved", "OCCURRENCE"], ["special", "OCCURRENCE"], ["committee", "OCCURRENCE"], ["directors", "OCCURRENCE"], ["unaffiliated", "OCCURRENCE"], ["Montedison", "ORGANIZATION"], ["pact", "OCCURRENCE"], ["tender", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["followed", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["liabilities", "OCCURRENCE"], ["Montedison", "ORGANIZATION"], ["transaction", "OCCURRENCE"], ["structured", "OCCURRENCE"], ["laws", "OCCURRENCE"], ["Netherlands Antilles", "LOCATION"], ["don't", "OCCURRENCE"], ["provide", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["transactions", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+Task:
+Extract and classify all event triggers
+
+Classes:
+State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State
+
+Definition:
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Example:
+	Input:
+	"The new CEO, John, decided to expand the business and enter new markets."
+	Output:
+	[["John", "PERSON"], ["expand", "INTENTIONAL ACTION"], ["business", "ORGANIZATION"], ["enter", "INTENTIONAL ACTION"], ["new", "ADJECTIVE"], ["markets", "LOCATION"]]
+
+Note:
+The output can be a list of entities and their corresponding classes, or a JSON-parseable list of lists, where each inner list contains two strings: the entity and its class.
+
+Your task is to write a code that given a text, extracts and classifies all event triggers, and returns them in the format specified above.
+
+Note that the input text may contain multiple events, and the task is to identify and classify each event trigger separately. Also, note that the classes are not mutually exclusive, and some entities may belong to multiple classes.

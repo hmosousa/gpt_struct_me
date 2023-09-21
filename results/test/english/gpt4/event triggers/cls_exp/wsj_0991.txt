@@ -1,0 +1,1 @@
+[["rebounding", "ASPECTUAL"], ["expects", "INTENSIONAL STATE"], ["report", "REPORTING"], ["said", "REPORTING"], ["includes", "ASPECTUAL"], ["posted", "REPORTING"], ["loss", "OCCURRENCE"], ["plans", "INTENSIONAL ACTION"], ["designs", "INTENSIONAL ACTION"]]

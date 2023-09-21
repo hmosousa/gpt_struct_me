@@ -1,0 +1,1 @@
+[["acquire", "I_ACTION"], ["agreed", "I_ACTION"], ["receive", "I_ACTION"], ["assume", "I_ACTION"], ["pay", "I_ACTION"], ["be acquired", "I_STATE"], ["had", "I_STATE"], ["plans", "I_STATE"], ["purchase", "I_ACTION"], ["has", "I_STATE"]]

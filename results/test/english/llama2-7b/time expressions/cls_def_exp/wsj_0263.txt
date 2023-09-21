@@ -1,0 +1,25 @@
+	[["UNIFIRST Corp.", "COMPANY"], ["2-for-1", "SET"], ["20%", "SET"], ["3 cents", "SET"], ["5 cents", "SET"], ["10.2 million", "SET"], ["21%", "SET"], ["$3 million", "SET"], ["$2.4 million", "SET"], ["$52.4 million", "SET"], ["$50.1 million", "SET"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed. The settlement, announced Monday, ends a 10-year-old lawsuit that had been scheduled to go to trial in October. The government had been seeking to limit its liability to $100 million. The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout. The government also agreed to pay $200 million to the American Indian Movement, which had sought $300 million. The settlement was announced by the Justice Department and the American Indian Movement. The government had been seeking to limit its liability to $100 million. The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout. The government also agreed to pay $200 million to the American Indian Movement, which had sought $300 million. The settlement was announced by the Justice Department and the American Indian Movement."
+
+Output:
+	[["American Indian Movement", "SET"], ["$1.2 billion", "SET"], ["$100 million", "SET"], ["$200 million", "SET"], ["$300 million", "SET"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed. The settlement, announced Monday, ends a 10-year-old lawsuit that had been scheduled to go to trial in October. The government had been seeking to limit its liability to $100 million. The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout. The government also agreed to pay $200 million to the American Indian Movement, which had sought $300 million. The settlement was announced by the Justice Department and the American Indian Movement. The government had been seeking to limit its liability to $100 million. The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout. The government also agreed to pay $200 million to the American Indian Movement, which had sought $300 million. The settlement was announced by the Justice Department and the American Indian Movement."
+
+Output:
+	[["$1.2 billion", "SET"], ["$100 million", "SET"], ["$200 million", "SET"], ["$300 million", "SET"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed. The settlement, announced Monday, ends a 10-year-old lawsuit that had been scheduled to go to trial in October. The government had been seeking to limit its liability to $100 million. The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout. The government also agreed to pay $200 million to the American Indian Movement, which had sought $300 million. The settlement was

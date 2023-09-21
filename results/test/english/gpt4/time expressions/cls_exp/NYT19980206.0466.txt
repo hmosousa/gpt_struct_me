@@ -1,0 +1,1 @@
+[["Friday", "DATE"], ["Thursday", "DATE"], ["Friday", "DATE"], ["Thursday", "DATE"], ["Friday", "DATE"], ["Friday", "DATE"], ["the past few weeks", "DURATION"], ["today", "DATE"], ["this morning", "TIME"]]

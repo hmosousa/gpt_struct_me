@@ -1,0 +1,12 @@
+[
+"six months",
+"27 years",
+"several years",
+"personal reasons",
+"no change in strategy or profits",
+"five pence",
+"913 pence",
+"$14.43",
+"$43.875",
+"three shares"
+]

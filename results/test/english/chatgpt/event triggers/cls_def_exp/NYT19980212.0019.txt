@@ -1,0 +1,1 @@
+[["killed", "OCCURRENCE"], ["appeared", "OCCURRENCE"], ["waiting", "STATE"], ["panicked", "STATE"], ["firing", "OCCURRENCE"], ["hit", "OCCURRENCE"], ["pronounced", "OCCURRENCE"], ["fled", "OCCURRENCE"], ["injured", "STATE"], ["took", "OCCURRENCE"], ["removed", "OCCURRENCE"]]

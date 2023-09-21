@@ -1,0 +1,1 @@
+[["today", "DATE"], ["nineteen seventy-nine", "DATE"], ["more than two thousand years", "DURATION"], ["just a few minutes", "DURATION"]]

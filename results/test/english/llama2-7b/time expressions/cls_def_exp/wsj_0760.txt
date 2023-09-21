@@ -1,0 +1,29 @@
+	[["Norton Co.", "COMPANY"], ["net income", "MONEY"], ["$20.6 million", "MONEY"], ["$22 million", "MONEY"], ["$19.2 million", "MONEY"], ["$18.7 million", "MONEY"], ["$368.5 million", "MONEY"], ["$340.7 million", "MONEY"], ["$81.2 million", "MONEY"], ["$77.2 million", "MONEY"], ["$76.8 million", "MONEY"], ["$1.15 billion", "MONEY"], ["$1.06 billion", "MONEY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit by the American Indian Movement over the 1973 shootout at Wounded Knee, South Dakota, in which two Indians were killed.
+The settlement, which was announced Monday, is the largest in U.S. history involving a civil rights claim.
+The government had been fighting the lawsuit for 15 years.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by the U.S. government.
+The settlement was reached after the government agreed to pay $100 million to the families of the two Indians killed in the shootout.
+The government also agreed to pay $100 million to the American Indian Movement, which was founded in 1968 to protest the treatment of Indians by

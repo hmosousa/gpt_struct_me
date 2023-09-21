@@ -1,0 +1,1 @@
+[["agreed", "REPORTING"], ["buy", "I_ACTION"], ["approved", "REPORTING"], ["make", "I_ACTION"], ["offer", "I_ACTION"], ["sale", "I_ACTION"], ["liquidated", "I_ACTION"], ["receiving", "I_ACTION"], ["provide", "I_ACTION"]]

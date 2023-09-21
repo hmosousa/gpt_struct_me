@@ -1,0 +1,1 @@
+[["proposed", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["own", "STATE"], ["evaluating", "OCCURRENCE"], ["respond", "OCCURRENCE"], ["occur", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["offering", "OCCURRENCE"], ["accounted", "OCCURRENCE"], ["reported", "REPORTING"], ["fell", "OCCURRENCE"], ["rose", "OCCURRENCE"]]

@@ -1,0 +1,13 @@
+[["Norton Co.", "OCCURRENCE"], ["net income", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["operating profit", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["tax credit", "OCCURRENCE"], ["year-earlier quarter", "OCCURRENCE"], ["segment", "OCCURRENCE"], ["hurt", "OCCURRENCE"], ["buy-out", "OCCURRENCE"], ["stake", "OCCURRENCE"], ["venture", "OCCURRENCE"], ["exploring", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["month", "OCCURRENCE"], ["period", "OCCURRENCE"], ["company", "OCCURRENCE"], ["had", "OCCURRENCE"], ["operating profit", "OCCURRENCE"], ["up", "OCCURRENCE"], ["from", "OCCURRENCE"], ["share", "OCCURRENCE"], ["billion", "OCCURRENCE"]]
+
+Please provide the extracted and classified event triggers in JSON format.
+
+Note:
+
+* OCCURRENCE: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* STATE: refers to a state of being or a situation.
+* REPORTING: refers to the act of reporting or describing an event or situation.
+* PERCEPTION: refers to the way something is perceived or understood.
+* ASPECTUAL: refers to a particular aspect or feature of an event or situation.
+* INTENSIONAL ACTION: refers to an action or activity that is intended or planned.
+* INTENSIONAL STATE: refers to a state of being or a situation that is intended or planned.

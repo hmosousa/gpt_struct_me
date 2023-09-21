@@ -1,0 +1,1 @@
+[["bolstering", "OCCURRENCE"], ["discussed", "OCCURRENCE"], ["reports", "OCCURRENCE"], ["visit", "OCCURRENCE"], ["rolled", "OCCURRENCE"], ["welcoming", "OCCURRENCE"], ["pledged", "OCCURRENCE"], ["warning", "OCCURRENCE"], ["patrolling", "OCCURRENCE"], ["warning", "OCCURRENCE"], ["stand", "OCCURRENCE"], ["arresting", "OCCURRENCE"], ["blowing", "OCCURRENCE"]]

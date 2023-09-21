@@ -1,0 +1,9 @@
+["Market", "makers", "in", "Nasdaq", "over-the-counter", "stocks", "are", "adding", "their", "voices", "to", "the", "swelling", "chorus", "of", "complaints", "about", "program", "trading.", "Their", "motivation", ",", "however", ",", "has", "a", "strong", "practical", "aspect:", "Program", "trading", "is", "hazardous", "to", "their", "paychecks.", "The", "most", "controversial", "form", "of", "program", "trading", ",", "stock-index", "arbitrage", ",", "is", "making", "it", "tough", "for", "traders", "to", "make", "money,"], ["declares", "Robert", "Antolini", ",", "head", "of", "OTC", "trading", "at", "Donaldson", ",", "Lufkin", "amp", "Jenrette.", "Stock-index", "arbitrage", "--", "the", "computer-guided", "buying", "and", "selling", "of", "stocks", "with", "offsetting", "trades", "in", "stock-index", "futures", "to", "profit", "from", "fleeting", "price", "discrepancies", "--", "affects", "the", "OTC", "market", "directly", "through", "the", "31", "stocks", "included", "in", "Standard", "amp", "Poor's", "500-stock", "index.", "The", "SampP", "500", "is", "often", "used", "in", "arbitrage", "strategies."]
+"""
+
+import json
+import os.path as osp
+import numpy as np
+import pandas as pd
+import re
+import string

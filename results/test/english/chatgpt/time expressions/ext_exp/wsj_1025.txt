@@ -1,0 +1,1 @@
+["third quarter", "a year earlier", "latest period", "second and fourth quarters", "current quarter"]

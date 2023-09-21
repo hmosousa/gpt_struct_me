@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["completed", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["agreed", "OCCURRENCE"], ["acquired", "OCCURRENCE"]]

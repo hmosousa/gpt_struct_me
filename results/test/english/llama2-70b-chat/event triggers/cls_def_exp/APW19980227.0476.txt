@@ -1,0 +1,18 @@
+[["THE HAGUE", "OCCURRENCE"], ["Netherlands", "OCCURRENCE"], ["Friday", "OCCURRENCE"], ["rejected", "OCCURRENCE"], ["U.S.", "OCCURRENCE"], ["British", "OCCURRENCE"], ["objections", "OCCURRENCE"], ["Libyan", "OCCURRENCE"], ["World Court", "OCCURRENCE"], ["case", "OCCURRENCE"], ["blocked", "OCCURRENCE"], ["trial", "OCCURRENCE"], ["Libyans", "OCCURRENCE"], ["suspected", "OCCURRENCE"], ["blowing", "OCCURRENCE"], ["up", "OCCURRENCE"], ["Pan Am", "OCCURRENCE"], ["jumbo jet", "OCCURRENCE"], ["Scotland", "OCCURRENCE"], ["1988", "OCCURRENCE"], ["Libya", "OCCURRENCE"], ["brought", "OCCURRENCE"], ["case", "OCCURRENCE"], ["United Nations", "OCCURRENCE"], ["highest", "OCCURRENCE"], ["judicial", "OCCURRENCE"], ["body", "OCCURRENCE"], ["ruling", "OCCURRENCE"], ["press", "OCCURRENCE"], ["anew", "OCCURRENCE"], ["trial", "OCCURRENCE"], ["neutral", "OCCURRENCE"], ["country", "OCCURRENCE"]]
+
+Please ensure that your model can extract and classify all event triggers in the given text. You can use any machine learning model, rule-based approach or any other method to solve this task.
+
+Please provide your model's output in the format specified above.
+
+Note:
+
+* The event triggers can be verbs, nouns, adjectives, adverbs, pronouns, prepositions, conjunctions, articles or any other part of speech.
+* The event triggers can be in any tense, including present, past, future, or any other tense.
+* The event triggers can be in any mood, including indicative, imperative, subjunctive, conditional or any other mood.
+* The event triggers can be in any voice, including active, passive, middle or any other voice.
+* The event triggers can be in any person, including first, second, third or any other person.
+* The event triggers can be in any number, including singular, plural or any other number.
+* The event triggers can be in any gender, including masculine, feminine, neuter or any other gender.
+* The event triggers can be in any case, including nominative, accusative, genitive, dative or any other case.
+
+Please ensure that your model can handle all the variations of event triggers and can accurately classify them into the appropriate class.

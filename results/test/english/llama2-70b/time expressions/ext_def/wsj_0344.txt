@@ -1,0 +1,1 @@
+["third quarter", "Sept.", "last year", "this quarter", "year's third quarter"]

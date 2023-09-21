@@ -1,0 +1,1 @@
+[["the past two quarters", "DURATION"], ["recently", "DATE"], ["Yesterday", "DATE"], ["the beginning of October", "DATE"]]

@@ -1,0 +1,1 @@
+[["Montedison", "ORGANIZATION"], ["Montedison Acquisition N.V.", "ORGANIZATION"], ["Erbamont N.V.", "ORGANIZATION"], ["The Wall Street Journal", "ORGANIZATION"], ["November", "DATE"], ["72%", "QUANTITY"], ["agreement", "AGREEMENT"]]

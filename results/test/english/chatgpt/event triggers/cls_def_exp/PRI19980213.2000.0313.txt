@@ -1,0 +1,1 @@
+[["warning", "REPORTING"], ["cause", "OCCURRENCE"], ["destroy", "OCCURRENCE"], ["fall", "OCCURRENCE"], ["destroy", "OCCURRENCE"], ["hurt", "STATE"], ["ordered", "OCCURRENCE"], ["evacuation", "OCCURRENCE"], ["monitor", "OCCURRENCE"], ["break", "OCCURRENCE"], ["destroy", "OCCURRENCE"], ["slipping", "OCCURRENCE"], ["get", "OCCURRENCE"], ["rains", "OCCURRENCE"]]

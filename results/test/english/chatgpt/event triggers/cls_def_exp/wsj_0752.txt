@@ -1,0 +1,1 @@
+[["authorized", "I_ACTION"], ["split", "OCCURRENCE"], ["payable", "STATE"], ["split", "OCCURRENCE"], ["aimed", "I_STATE"], ["boosting", "I_ACTION"], ["closed", "OCCURRENCE"]]

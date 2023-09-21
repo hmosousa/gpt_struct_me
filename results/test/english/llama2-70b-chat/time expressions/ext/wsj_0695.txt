@@ -1,0 +1,1 @@
+["earlier this month", "this month", "yesterday", "July 2"]

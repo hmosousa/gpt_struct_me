@@ -1,0 +1,1 @@
+[["Nov. 1", "DATE"], ["30-day", "DURATION"], ["Dec. 31, 1994", "DATE"], ["the end of 1994", "DATE"], ["the next 12 to 18 months", "DURATION"]]

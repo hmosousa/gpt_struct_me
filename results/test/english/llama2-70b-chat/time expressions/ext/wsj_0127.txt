@@ -1,0 +1,8 @@
+[
+"six months ended Oct. 1",
+"1988 period",
+"latest period",
+"last year",
+"early trading yesterday in London",
+"year earlier"
+]

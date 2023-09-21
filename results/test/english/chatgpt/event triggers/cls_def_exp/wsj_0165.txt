@@ -1,0 +1,1 @@
+[["offered", "I_ACTION"], ["buy", "I_ACTION"], ["owns", "STATE"], ["exchange", "I_ACTION"], ["issue", "I_ACTION"], ["estimated", "I_STATE"], ["plunged", "OCCURRENCE"], ["provides", "STATE"], ["owns", "STATE"], ["operates", "STATE"]]

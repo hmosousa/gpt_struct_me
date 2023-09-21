@@ -1,0 +1,1 @@
+[["QVC Network Inc.", "ORGANIZATION"], ["CVN Cos.", "ORGANIZATION"], ["Home Shopping Network Inc.", "ORGANIZATION"], ["Home Shopping", "ORGANIZATION"], ["QVC", "ORGANIZATION"], ["CVN", "ORGANIZATION"], ["video shopping industry", "CONCEPT"], ["sales", "OCCURRENCE"]]

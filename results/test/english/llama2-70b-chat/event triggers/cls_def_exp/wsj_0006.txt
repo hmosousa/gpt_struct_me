@@ -1,0 +1,1 @@
+[["Pacific First Financial Corp.", "ORGANIZATION"], ["Royal Trustco Ltd.", "ORGANIZATION"], ["shareholders", "GROUP"], ["acquisition", "OCCURRENCE"], ["$27", "AMOUNT"], ["$212 million", "AMOUNT"], ["thrift holding company", "ORGANIZATION"], ["regulatory approval", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["year-end", "PERIOD"]]

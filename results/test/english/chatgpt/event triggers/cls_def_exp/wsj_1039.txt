@@ -1,0 +1,1 @@
+[["reported", "REPORTING"], ["decline", "STATE"], ["citing", "REPORTING"], ["pricecutting", "OCCURRENCE"], ["effects", "STATE"], ["fell", "STATE"], ["rose", "STATE"], ["expected", "I_STATE"], ["earn", "I_ACTION"], ["result", "STATE"], ["increased", "STATE"], ["competition", "STATE"]]

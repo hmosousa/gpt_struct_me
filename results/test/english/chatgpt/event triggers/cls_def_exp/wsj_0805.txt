@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["recommend", "I_ACTION"], ["stopped", "OCCURRENCE"], ["paying", "OCCURRENCE"], ["reported", "REPORTING"]]

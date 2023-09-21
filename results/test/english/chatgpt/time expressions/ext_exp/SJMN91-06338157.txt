@@ -1,0 +1,1 @@
+["Monday", "Wednesday", "Monday", "Monday", "Monday", "last week", "Monday", "Sunday"]

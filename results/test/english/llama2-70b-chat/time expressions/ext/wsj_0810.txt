@@ -1,0 +1,14 @@
+[
+"$1.77 billion",
+"4.7 billion francs",
+"754.4 million",
+"633.8 million francs",
+"20 years",
+"23 billion francs",
+"1987",
+"1989",
+"Tuesday",
+"next year",
+"last year",
+"this year"
+]

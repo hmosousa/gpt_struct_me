@@ -1,0 +1,1 @@
+["explosion", "shocks", "blast", "killed", "people", "hurt", "Location", "attacks", "assault"]

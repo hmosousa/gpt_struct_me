@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["sold", "OCCURRENCE"], ["lent", "OCCURRENCE"], ["convertible", "ASPECTUAL"], ["extended", "ASPECTUAL"], ["increased", "ASPECTUAL"], ["said", "REPORTING"]]

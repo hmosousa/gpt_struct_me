@@ -1,0 +1,36 @@
+[["Nigerian security forces", "OCCURRENCE"], ["anti-government demonstrators", "OCCURRENCE"], ["Sani Abacha", "PERSON"], ["Purnell Murdock", "PERSON"], ["thousands of people", "OCCURRENCE"], ["two day rally", "OCCURRENCE"], ["riot police", "OCCURRENCE"], ["protest rally", "OCCURRENCE"], ["political opposition", "GROUP"], ["General Abacha's candidacy", "OCCURRENCE"], ["Abacha presidency", "STATE"], ["face off", "OCCURRENCE"], ["police", "GROUP"], ["anti Abacha political groups", "GROUP"], ["test", "ASPECTUAL"], ["opposition's resolve", "I_STATE"]]
+
+Please ensure that your model can extract and classify all event triggers in the given text. You can use any machine learning or rule-based approach to achieve this.
+
+Note:
+
+* Event triggers are words or phrases that indicate the occurrence of an event.
+* The classes are State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* The model should be able to extract and classify event triggers accurately.
+* The model should be able to handle ambiguity in the text.
+* The model should be able to handle complex sentences and phrases.
+* The model should be able to handle different types of events, such as physical actions, mental states, and changes in state.
+* The model should be able to handle different levels of granularity, such as specific events, general events, and vague events.
+* The model should be able to handle different aspects of events, such as causality, temporality, and spatiality.
+* The model should be able to handle different types of event triggers, such as verbs, nouns, adjectives, and adverbs.
+* The model should be able to handle different types of texts, such as news articles, stories, and conversations.
+* The model should be able to handle different languages, such as English, Spanish, French, and Arabic.
+* The model should be able to handle different domains, such as politics, sports, entertainment, and science.
+* The model should be able to handle different levels of complexity, such as simple events, compound events, and complex events.
+* The model should be able to handle different levels of uncertainty, such as certain events, uncertain events, and hypothetical events.
+* The model should be able to handle different levels of abstraction, such as concrete events, abstract events, and meta-events.
+* The model should be able to handle different levels of granularity, such as micro-events, macro-events, and mega-events.
+* The model should be able to handle different levels of temporal resolution, such as seconds, minutes, hours, days, weeks, months, years, and centuries.
+* The model should be able to handle different levels of spatial resolution, such as meters, kilometers, miles, cities, states, countries, and continents.
+* The model should be able to handle different levels of causality, such as direct causality, indirect causality, and probabilistic causality.
+* The model should be able to handle different levels of temporal relationships, such as simultaneity, anteriority, posteriority, and duration.
+* The model should be able to handle different levels of aspectual relationships, such as telic, atelic, and stative.
+* The model should be able to handle different levels of modalities, such as possibility, necessity, and obligation.
+* The model should be able to handle different levels of evidentiality, such as direct evidence, indirect evidence, and hearsay.
+* The model should be able to handle different levels of perspectives, such as first-person, second-person, and third-person.
+* The model should be able to handle different levels of polarity, such as positive, negative, and neutral.
+* The model should be able to handle different levels of intensification, such as weak, moderate, and strong.
+* The model should be able to handle different levels of duration, such as momentary, temporary, and permanent.
+* The model should be able to handle different levels of frequency, such as once, repeatedly, and continuously.
+* The model should be able to handle different levels of probability, such as certain, likely, and unlikely.
+*

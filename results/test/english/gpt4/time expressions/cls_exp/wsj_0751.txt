@@ -1,0 +1,1 @@
+[["last April", "DATE"], ["$21 in cash a share", "DURATION"], ["$63 million", "DURATION"], ["yesterday", "DATE"], ["at least 30 days", "DURATION"], ["August 1988", "DATE"]]

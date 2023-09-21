@@ -1,0 +1,1 @@
+["Last week", "two months", "past two months", "last month", "October 13", "this year", "August", "year", "now"]

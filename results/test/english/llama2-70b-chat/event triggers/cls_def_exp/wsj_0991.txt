@@ -1,0 +1,21 @@
+[["Total Assets Protection Inc.", "ORGANIZATION"], ["J.C. Matlock", "PERSON"], ["said", "REPORTING"], ["$200,000", "OCCURRENCE"], ["$100,000", "OCCURRENCE"], ["$4.5 million", "OCCURRENCE"], ["$876,706", "OCCURRENCE"], ["22 cents a share", "OCCURRENCE"], ["revenue", "OCCURRENCE"], ["about", "PERCEPTION"], ["$5.1 million", "OCCURRENCE"], ["plans", "INTENTIONAL ACTION"], ["designs", "INTENTIONAL ACTION"], ["computer centers", "OCCURRENCE"], ["computer security systems", "OCCURRENCE"], ["computer backup systems", "OCCURRENCE"]]
+
+Note:
+The classifier should be able to handle different types of events, such as:
+
+* State: describes a situation or condition
+* Occurrence: describes an event or happening
+* Reporting: describes the act of reporting or stating something
+* Perception: describes a person's perception or view of something
+* Aspectual: describes a situation or event in terms of its aspects or features
+* Intensional Action: describes an action or activity that is intended or planned
+* Intensional State: describes a state or condition that is intended or planned
+
+Also, the classifier should be able to handle different types of event triggers, such as:
+
+* Time-based triggers: triggers that are based on a specific time or time period
+* Event-based triggers: triggers that are based on a specific event or occurrence
+* User-based triggers: triggers that are based on user input or action
+* System-based triggers: triggers that are based on system-level events or conditions
+
+The classifier should be able to accurately classify event triggers into their respective categories, and should be able to handle a wide range of event triggers and types.

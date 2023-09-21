@@ -1,0 +1,31 @@
+	[["Sun Microsystems Inc.", "COMPANY"], ["Sun, a maker of computer workstations", "COMPANY"], ["Sun's results were slightly better than expectations", "CLASS"], ["Sun also reported a record backlog of orders", "CLASS"], ["Sun faces increasing competition from Digital Equipment Corp. and Hewlett-Packard Co.", "CLASS"], ["Recently, analysts have said Sun also is vulnerable to competition from International Business Machines Corp.", "CLASS"], ["Next Inc.", "COMPANY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of computer chip that is expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles.
+The decision, announced by the Commerce Department on Tuesday, is the first time the government has approved the sale of a new type of chip that is based on a technology called ``complementary metal oxide semiconductors.''
+The decision is a victory for Intel Corp., the world's largest maker of microprocessors, which has been lobbying the government for more than a year to allow the sale of the new chips.
+The new chips, which are made by Intel and other companies, are expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles.
+The decision by the Commerce Department is the first time the government has approved the sale of a new type of chip that is based on a technology called ``complementary metal oxide semiconductors.''
+The decision is a victory for Intel Corp., the world's largest maker of microprocessors, which has been lobbying the government for more than a year to allow the sale of the new chips.
+The new chips, which are made by Intel and other companies, are expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles."
+
+Output:
+	[["The U.S. government has decided to allow the sale of a new type of computer chip", "CLASS"], ["that is expected to be used in a wide range of products", "CLASS"], ["including personal computers", "CLASS"], ["cellular telephones", "CLASS"], ["automobiles", "CLASS"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of computer chip that is expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles.
+The decision, announced by the Commerce Department on Tuesday, is the first time the government has approved the sale of a new type of chip that is based on a technology called ``complementary metal oxide semiconductors.''
+The decision is a victory for Intel Corp., the world's largest maker of microprocessors, which has been lobbying the government for more than a year to allow the sale of the new chips.
+The new chips, which are made by Intel and other companies, are expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles.
+The decision by the Commerce Department is the first time the government has approved the sale of a new type of chip that is based on a technology called ``complementary metal oxide semiconductors.''
+The decision is a victory for Intel Corp., the world's largest maker of microprocessors, which has been lobbying the government for more than a year to allow the sale of the new chips.
+The new chips, which are made by Intel and other companies, are expected to be used in a wide range of products, including personal computers, cellular telephones and automobiles."
+
+Output:
+	[["The U.S. government has decided to allow the sale of a new type of computer chip", "CLASS"], ["that is expected to be used in a wide range of products", "CLASS"], ["including personal computers", "CLASS"], ["cellular telephones", "CLASS"], ["automobiles", "CLASS"]]

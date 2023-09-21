@@ -1,0 +1,1 @@
+[["filed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["operates", "OCCURRENCE"], ["franchises", "OCCURRENCE"], ["went", "OCCURRENCE"], ["offering", "OCCURRENCE"], ["holds", "OCCURRENCE"], ["owned", "OCCURRENCE"], ["seeking", "OCCURRENCE"], ["controls", "OCCURRENCE"], ["controls", "OCCURRENCE"], ["comment", "OCCURRENCE"], ["had", "OCCURRENCE"]]

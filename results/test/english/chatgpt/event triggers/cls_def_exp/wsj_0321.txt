@@ -1,0 +1,1 @@
+[["withdrew", "I_ACTION"], ["acquire", "I_ACTION"], ["respond", "I_ACTION"], ["abandoning", "I_ACTION"], ["pursuit", "I_ACTION"], ["purchase", "I_ACTION"], ["make", "I_ACTION"], ["proposed", "I_ACTION"], ["combine", "I_ACTION"], ["serves", "I_ACTION"], ["flies", "I_ACTION"]]

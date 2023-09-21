@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["expects", "I_STATE"], ["jumped", "OCCURRENCE"], ["had", "OCCURRENCE"], ["said", "REPORTING"], ["expects", "I_STATE"], ["total", "OCCURRENCE"], ["reflect", "OCCURRENCE"], ["attributed", "OCCURRENCE"], ["increase", "OCCURRENCE"], ["keep", "OCCURRENCE"]]
