@@ -72,14 +72,11 @@ def main(mid: str = "chatgpt", language: str = "english"):
 
             answer_path = RESULTS_PATH / language / mid / entity / tid / f"{doc.id}.txt"
             if not answer_path.exists():
-                try:
-                    answer_path.parent.mkdir(parents=True, exist_ok=True)
-                    answer = model(prompt)
-                    answer_path.write_text(answer)
-                    logger.info(f"{mid} Answer:\n{answer}")
-                    time.sleep(20)
-                except Exception as e:
-                    logger.error(f"{mid} Error: {e}")
+                answer_path.parent.mkdir(parents=True, exist_ok=True)
+                answer = model(prompt)
+                answer_path.write_text(answer)
+                logger.info(f"{mid} Answer:\n{answer}")
+                time.sleep(20)
 
             else:
                 logger.info(f"{mid} answer already exists.")
