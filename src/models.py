@@ -105,7 +105,7 @@ class Llama2InferenceAPI:
         return answer
 
 
-def gpt3(prompt: str, max_tokens: int = 1_000) -> str:
+def gpt3(prompt: str, max_tokens: int = 800) -> str:
     """Generate text with GPT-3."""
     response = openai.Completion.create(
         model="text-davinci-003",
@@ -120,7 +120,7 @@ def gpt3(prompt: str, max_tokens: int = 1_000) -> str:
     return answer
 
 
-def chatgpt(prompt: str, max_tokens: int = 1_000) -> str:
+def chatgpt(prompt: str, max_tokens: int = 800) -> str:
     """Generate text with ChatGPT."""
 
     message = {"role": "system", "content": f"{prompt}"}
@@ -138,7 +138,7 @@ def chatgpt(prompt: str, max_tokens: int = 1_000) -> str:
     return answer
 
 
-def gpt4(prompt: str, max_tokens: int = 1_000) -> str:
+def gpt4(prompt: str, max_tokens: int = 800) -> str:
     """Generate text with GPT-4."""
 
     message = {"role": "system", "content": f"{prompt}"}
@@ -201,7 +201,7 @@ class HFInferenceLocal:
         return answer
 
 
-def llama2_70b(prompt: str, max_tokens: int = 500) -> str:
+def llama2_70b(prompt: str, max_tokens: int = 800) -> str:
     """API from [Replicate](https://replicate.com/). To minimize the number of tokens generated, 
     this function checks if the tokens generated are valid JSON. If not, it continues generating 
     until the max_tokens in reached."""
