@@ -68,7 +68,7 @@ def main(mid: str = "chatgpt", language: str = "english"):
         for doc in test_docs:
             logger.info(f"Iteration {iter}/{n_iter}")
 
-            prompt = prompter.generate(doc)
+            prompt = prompter.generate(doc.text)
 
             answer_path = RESULTS_PATH / language / mid / entity / tid / f"{doc.id}.txt"
             if not answer_path.exists():

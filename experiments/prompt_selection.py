@@ -30,7 +30,7 @@ dotenv.load_dotenv(ROOT / ".env")
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
-def main(mid: str = "gpt4", language: str = "english"):
+def main(mid: str = "llama2-7b", language: str = "english"):
     model = mid2model(mid)
     entities = ENTITIES[language]
     sample_docs = SAMPLE_DOCS_IDS[language]
@@ -49,13 +49,13 @@ def main(mid: str = "gpt4", language: str = "english"):
         logger.info(f"Entity: {entity}")
 
         example_doc_id = examples[entity]
-        example = [doc for doc in dataset if doc.id == example_doc_id][0]
+        example_doc = [doc for doc in dataset if doc.id == example_doc_id][0]
 
         for tid in tids:
             logger.info(f"Template: {tid}")
 
             task = "classification" if "cls" in tid else "extraction"
-            example = example if "exp" in tid else None
+            example = example_doc if "exp" in tid else None
             definition = "def" in tid
 
             prompter = Prompter(
@@ -68,7 +68,7 @@ def main(mid: str = "gpt4", language: str = "english"):
             for doc in docs:
                 logger.info(f"Iteration {iter}/{n_iter}")
 
-                prompt = prompter.generate(doc)
+                prompt = prompter.generate(doc.text)
             
                 answer_path = RESULTS_PATH / language / mid / entity / tid / f"{doc.id}.txt"
                 if not answer_path.exists():
