@@ -1,29 +1,4 @@
-[
-"Directors", "Considering", "Bid", "Cineplex Odeon Corp", "Garth Drabinsky", "Chairman", "CEO", "Negotiating", "Financing", "Offer", "Shareholders", "Reimburse", "Expenses", "Independent Directors' Committee", "MCA Inc", "Charles Bronfman", "Montreal", "Financier", "Tender", "Offer", "Cash", "All of the Company", "Committee", "Received", "Other Bids", "Jeffery Logsdon", "Crowell, Weedon", "Los Angeles", "Regulators", "Rejected", "Move", "Drabinsky Group", "Purchase", "Bronfman Associates", "18-Screen Theater Complex", "Universal City", "Calif", "Accommodate", "Financing Arrangements", "Rank Organisation PLC", "Michael Gifford", "Chief Executive", "Total Involvement", "Exceed $100 Million", "Breakdown", "Loan Financing", "Proposed Film House Purchase", "Toronto Stock Exchange", "C$12.875", "C$16.40", "Investors", "Solid Offer", "Stock", "Begin to Rise Again", "Pierre Panet-Raymond", "Analyst", "Broker", "McDermid St. Lawrence Ltd", "Comment"
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[["said", "REPORTING"], ["considering", "OCCURRENCE"], ["negotiating", "I_ACTION"], ["board", "OCCURRENCE"], ["directors", "OCCURRENCE"], ["not", "OCCURRENCE"], ["reached", "OCCURRENCE"], ["will", "OCCURRENCE"], ["continue", "OCCURRENCE"], ["seeking", "OCCURRENCE"], ["other", "OCCURRENCE"], ["declined", "OCCURRENCE"], ["identify", "OCCURRENCE"], ["said", "REPORTING"], ["established", "OCCURRENCE"], ["agreed", "OCCURRENCE"], ["rejected", "OCCURRENCE"], ["opposed", "OCCURRENCE"], ["indicate", "OCCURRENCE"], ["source", "OCCURRENCE"], ["financing", "OCCURRENCE"], ["arranging", "I_ACTION"], ["investors", "OCCURRENCE"], ["need", "OCCURRENCE"], ["solid", "OCCURRENCE"], ["bid", "OCCURRENCE"], ["can't", "OCCURRENCE"], ["reached", "OCCURRENCE"], ["will", "OCCURRENCE"], ["begin", "OCCURRENCE"], ["considering", "OCCURRENCE"], ["bid", "OCCURRENCE"]]
 
 
 

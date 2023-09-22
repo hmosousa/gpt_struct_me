@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["07:50", "Time"]]
+[["hoje", "Date"], ["Rua da Constituição", "Location"], ["Porto", "Location"], ["PSP", "Organization"], ["Comando Metropolitano da PSP do Porto", "Organization"], ["Hospital de Santo António", "Organization"], ["bombas de gasolina", "Organization"]]

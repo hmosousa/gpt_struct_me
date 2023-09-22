@@ -1,1 +1,1 @@
-[["Trustcorp Inc.", "State"], ["Society Bank amp Trust", "State"], ["merger", "Occurrence"], ["completed", "State"], ["Society Corp. of Cleveland", "State"], ["bank", "State"], ["agreed", "State"], ["buy", "Intensional Action"], ["Trustcorp", "State"], ["12.4 million shares of stock", "State"], ["market value", "State"], ["$450 million", "State"], ["transaction", "State"], ["expected", "State"], ["close", "Intensional Action"], ["year end", "State"]]
+[["said", "REPORTING"], ["completed", "ASPECTUAL"], ["buy", "OCCURRENCE"], ["expected", "ASPECTUAL"], ["close", "OCCURRENCE"]]

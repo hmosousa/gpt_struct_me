@@ -1,1 +1,1 @@
-[["this week", "Date"], ["the next three quarters", "Duration"], ["for the first nine months", "Duration"], ["Hurricane Hugo", "Set"], ["the California earthquake", "Set"]]
+[["early this week", "DATE"], ["the next three quarters", "DURATION"], ["for the first nine months", "DURATION"], ["recent quarters", "DURATION"]]

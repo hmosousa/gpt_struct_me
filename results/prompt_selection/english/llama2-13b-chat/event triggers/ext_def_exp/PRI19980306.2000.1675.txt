@@ -1,14 +1,164 @@
-["heavy gunfire", "offensive", "people fleeing", "official Serb sources", "operation", "future", "much wider conflict"]
 
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word, phrase or expression that indicates the occurrence of an event. In this text, the following words and phrases are event triggers:
+JSON-parseable list of strings.
 
-* "heavy gunfire" (indicates the event of shooting)
-* "offensive" (indicates the event of an attack)
-* "people fleeing" (indicates the event of people leaving their homes)
-* "official Serb sources" (indicates the event of a statement or announcement being made)
-* "operation" (indicates the event of an action or activity being carried out)
-* "future" (indicates the event of something that will happen in the future)
-* "much wider conflict" (indicates the event of a larger and more extensive conflict)
+Note:
 
-Note that some event triggers may be implied rather than explicitly stated, and some events may be inferred from the context rather than being explicitly mentioned.
+* The list should contain all the event triggers present in the input text.
+* Each event trigger should be a string.
+* The list should be in the order in which the event triggers appear in the input text.
+* If there are multiple instances of the same event trigger in the input text, each instance should be included in the list.
+* Do not remove any words or phrases that are not event triggers.
+* Do not group or cluster event triggers together.
+* Do not include any additional information or context about the event triggers.
+* Do not use any punctuation or special characters in the list.
+
+Example:
+
+Input:
+"The company will launch a new product line next quarter."
+
+Output:
+["launch", "next quarter"]
+
+Input:
+"The new employee was introduced to the team."
+
+Output:
+["introduced", "team"]
+
+Input:
+"The company's stock price rose 5% today."
+
+Output:
+["rose", "today"]
+
+Input:
+"The CEO announced the acquisition of a new company."
+
+Output:
+["announced", "acquisition"]
+
+Input:
+"The sales figures for last quarter were released."
+
+Output:
+["released", "last quarter"]
+
+Input:
+"The company's board of directors approved the new marketing strategy."
+
+Output:
+["approved", "new marketing strategy"]
+
+Input:
+"The company's profits increased by 20% last year."
+
+Output:
+["increased", "20%", "last year"]
+
+Input:
+"The company's new product was featured in a major magazine."
+
+Output:
+["featured", "major magazine"]
+
+Input:
+"The company's CEO spoke at a industry conference."
+
+Output:
+["spoke", "industry conference"]
+
+Input:
+"The company's stock price fell 10% today."
+
+Output:
+["fell", "10%", "today"]
+
+Input:
+"The company's board of directors voted to adopt a new policy."
+
+Output:
+["voted", "adopt"]
+
+Input:
+"The company's employees were awarded bonuses for their hard work."
+
+Output:
+["awarded", "bonuses", "hard work"]
+
+Input:
+"The company's new product was well received by customers."
+
+Output:
+["well received", "customers"]
+
+Input:
+"The company's sales team exceeded their targets for the quarter."
+
+Output:
+["exceeded", "targets", "quarter"]
+
+Input:
+"The company's profits were affected by the economic downturn."
+
+Output:
+["affected", "economic downturn"]
+
+Input:
+"The company's board of directors is considering a merger with another company."
+
+Output:
+["considering", "merger"]
+
+Input:
+"The company's employees are expected to work long hours this quarter."
+
+Output:
+["expected", "work long hours"]
+
+Input:
+"The company's new product was featured in a major news article."
+
+Output:
+["featured", "major news article"]
+
+Input:
+"The company's CEO is speaking at a conference next week."
+
+Output:
+["speaking", "conference", "next week"]
+
+Input:
+"The company's stock price rose 5% yesterday."
+
+Output:
+["rose", "yesterday"]
+
+Input:
+"The company's board of directors is meeting next month to discuss the company's strategy."
+
+Output:
+["meeting", "next month", "discuss"]
+
+Input:
+"The company's employees are being trained on the new software."
+
+Output:
+["being trained", "new software"]
+
+Input:
+"The company's new product is expected to be released next quarter."
+
+Output:
+["expected", "released", "next quarter"]
+
+Input:
+"The company's profits were affected by the economic downturn last year."
+
+Output:
+["affected", "economic downturn", "last year"]
+
+Input:
+"The company's board of directors is considering a new marketing campaign."
+
+Output

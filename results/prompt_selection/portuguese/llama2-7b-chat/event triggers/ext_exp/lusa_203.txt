@@ -1,17 +1,4 @@
 [
-"Homem mata sete pessoas",
-"Faca",
-"Nordeste da China",
-"Kaiyuan",
-"Liaoning",
-"Suspeito Yang",
-"Detido",
-"Motivo desconhecido",
-"Law restricts gun sales",
-"Ataques in massa with knives or homemade explosives",
-"Past attackers described as mentally ill or holding grudges against society",
-"School security guard wounds 39 with knife in kindergarten attack",
-"Death sentence",
-"2018 attack in Beijing",
-"Man kills one and injures 12 with knife in shopping mall attack"
-]
+"mata", "sete", "pessoas", "fere", "sete", "attaque", "com", "facca", "na", "cidade", "Kaiyuan", "provincia", "Liaoning", "perpetrado", "suspeito", "identificado", "media", "sobrenome", "Yang", "detido", "motivo", "ataque", "desconhecido", "lei", "chinesa", "venda", "posse", "armas", "fogos", "ataques", "massas", "facas", "explosivos", "caseros", "autores", "ataques", "semelhantes", "realizados", "descritos", "doentes", "mentais", "rancor", "sociedade", "jardim", "infancia", "regio", "sul", "Guangxi", "condenado", "morte", "Pequim"]
+
+Note: The output is a JSON-parseable list of strings.

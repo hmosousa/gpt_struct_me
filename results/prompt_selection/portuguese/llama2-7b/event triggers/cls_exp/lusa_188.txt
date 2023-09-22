@@ -1,10 +1,16 @@
-[
-  ["Homem", "Occurrence"],
-  ["Homem", "State"],
-  ["Homem", "Reporting"],
-  ["Homem", "Perception"],
-  ["Homem", "Aspectual"],
-  ["Homem", "Intensional Action"],
-  ["Homem", "Intensional State"]
-]
+[["morreu", "I_Action"], ["acidente", "Occurrence"], ["de", "Occurrence"], ["trabalho", "Occurrence"], ["envolve", "Occurrence"], ["queda", "Occurrence"], ["em", "Occurrence"], ["altura", "Occurrence"], ["homem", "Occurrence"], ["de", "Occurrence"], ["48", "Occurrence"], ["anos", "Occurrence"], ["morreu", "I_Action"], ["vítima", "State"], ["envolve", "Occurrence"], ["ferimentos", "Occurrence"], ["resistir", "Occurrence"], ["falecer", "Occurrence"], ["transportada", "Occurrence"], ["ambulância", "Occurrence"], ["para", "Occurrence"], ["campo", "Occurrence"], ["de", "Occurrence"], ["futebol", "Occurrence"], ["helitransportada", "Occurrence"], ["hospital", "Occurrence"], ["referência", "Occurrence"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["cerca", "Occurrence"], ["operações", "Occurrence"], ["socorro", "Occurrence"], ["envolvem", "Occurrence"], ["meios", "Occurrence"], ["bombeiros", "Occurrence"], ["ambulância", "Occurrence"], ["SIV", "Occurrence"], ["VMER", "Occurrence"], ["INEM", "Occurrence"], ["acionado", "Occurrence"], ["helicóptero", "Occurrence"], ["estacionado", "Occurrence"], ["Macedo", "Occurrence"], ["Cavaleiros", "Occurrence"], ["GNR", "Occurrence"], ["tomou", "Occurrence"], ["controlo", "Occurrence"]]
 
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.

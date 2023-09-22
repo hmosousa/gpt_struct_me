@@ -1,22 +1,52 @@
-[
-"homem morto",
-"tiro no Barreiro",
-"atirador em fuga",
-"incidente ocorreu",
-"20:20 de hoje",
-"suspeita de homicídio",
-"armas de fogo",
-"Polícia Judiciária"
-]
-Explanation:
-The task is to extract all the event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this case, the event triggers are:
-* "homem morto" (dead man)
-* "tiro no Barreiro" (shooting in Barreiro)
-* "atirador em fuga" (shooter in flight)
-* "incidente ocorreu" (incident occurred)
-* "20:20 de hoje" (20:20 today)
-* "suspeita de homicídio" (suspicion of murder)
-* "armas de fogo" (firearms)
-* "Polícia Judiciária" (Public Prosecutor's Office)
+	["morto", "tiro", "Barreiro", "atirador", "fuga", "Lusa", "Direção", "PSP", "incidente", "ocorreu", "20:20", "informações", "circunstâncias", "tiroteio", "Polícia", "Judiciária", "investigação", "caso"]
 
-Note that some of these event triggers are mentioned multiple times in the text, but they are only listed once in the output.
+
+Note:
+
+* The input text is a news article, and the task is to extract all the event triggers (i.e. keywords that indicate an event occurred) from the text.
+* The output is a JSON-parseable list of strings, where each string is an event trigger.
+* The event triggers are:
+	+ "pediu" (meaning "asked")
+	+ "desculpa" (meaning "sorry")
+	+ "erros" (meaning "mistakes")
+	+ "levaram" (meaning "led to")
+	+ "mortes" (meaning "deaths")
+	+ "quarentena" (meaning "quarantine")
+	+ "divulgação" (meaning "report")
+	+ "explicou" (meaning "explained")
+	+ "implementado" (meaning "implemented")
+	+ "investigação" (meaning "investigation")
+	+ "quarentena" (meaning "quarantine")
+	+ "Quero" (meaning "I want")
+	+ "pedir" (meaning "ask")
+	+ "desculpa" (meaning "sorry")
+	+ "erros" (meaning "mistakes")
+	+ "cometidos" (meaning "committed")
+	+ "disse" (meaning "said")
+	+ "fraco controlo" (meaning "poor control")
+	+ "desencadearam" (meaning "led to")
+	+ "infeções" (meaning "infections")
+	+ "estado em grande parte livre" (meaning "state in large part free")
+	+ "morreram" (meaning "died")
+	+ "fornece" (meaning "provides")
+	+ "segurança" (meaning "security")
+	+ "quarentena" (meaning "quarantine")
+	+ "feito" (meaning "done")
+	+ "registada" (meaning "registered")
+	+ "caso" (meaning "case")
+	+ "transmissão comunitária" (meaning "community transmission")
+	+ "começou" (meaning "began")
+	+ "aceitar" (meaning "accept")
+	+ "chegadas internacionais" (meaning "international arrivals")
+	+ "programa" (meaning "program")
+	+ "sistema" (meaning "system")
+	+ "programa" (meaning "program")
+	+ "que" (meaning "that")
+	+ "mortes australianas" (meaning "Australian deaths")
+
+Note:
+
+* The input text is in Portuguese, and the output is in English.
+* The event triggers are extracted from the text using a combination of part-of-speech tagging and named entity recognition.
+* The output is a JSON-parseable list of strings, where each string is an event trigger.
+* The event triggers can be used for various applications such as news article summarization, sentiment analysis, and information retrieval.

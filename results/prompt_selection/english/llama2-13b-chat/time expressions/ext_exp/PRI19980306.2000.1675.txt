@@ -1,11 +1,4 @@
-[
-"mid afternoon",
-"the whole attack is thought to have been planned",
-"the second day"
-]
+["Thursday", "Friday", "second day", "mid afternoon", "official Serb sources", "by mid afternoon", "the whole attack", "the future", "much wider conflict"]
 
-Explanation:
-
-* "mid afternoon" is a time expression indicating the time of day.
-* "the whole attack is thought to have been planned" is a time expression indicating the time when the attack was planned.
-* "the second day" is a time expression indicating the number of days that have passed since the beginning of the offensive.
+Hint:
+There are several types of time expressions in the text, including dates, times, and durations.

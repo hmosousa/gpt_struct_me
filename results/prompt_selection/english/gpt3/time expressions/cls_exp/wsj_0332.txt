@@ -1,1 +1,1 @@
-[["last Wednesday", "Date"], ["#301 million", "Set"], ["470 pence", "Set"], ["7.43", "Set"], ["59.2%", "Set"], ["12.4%", "Set"], ["53.2%", "Set"]]
+[["last Wednesday", "DATE"], ["470 pence", "TIME"], ["#301 million", "DURATION"], ["12.4%", "DURATION"], ["53.2%", "DURATION"], ["eventually", "DATE"]]

@@ -1,7 +1,1 @@
-[
-["Aug. 31", "Date"],
-["1988", "Date"],
-["earlier this year", "Date"],
-["last year", "Date"],
-["annual", "Set"]
-]
+[["annual", "SET"], ["Aug. 31", "DATE"], ["earlier this year", "DATE"], ["1988", "DATE"], ["fourth-quarter", "DATE"], ["last year", "DATE"]]

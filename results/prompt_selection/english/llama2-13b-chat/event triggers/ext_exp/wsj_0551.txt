@@ -1,13 +1,19 @@
-["merger", "completed", "Society Corp. of Cleveland", "buy", "Trustcorp", "stock", "market value", "about $450 million", "year end"]
+[
+"merger",
+"completed",
+"Society Corp.",
+"bank",
+"stock",
+"market value",
+"about",
+"$450 million",
+"transaction",
+"close",
+"year end"
+]
 
-Explanation:
+Note:
+The output is a list of strings, where each string is a word or phrase that is relevant to the input text. The words are not necessarily in the order they appear in the input text.
 
-* "merger" is an event trigger because it indicates a significant change in the company's status.
-* "completed" is an event trigger because it indicates the merger has been finalized.
-* "Society Corp. of Cleveland" is an event trigger because it is a specific company that is involved in the merger.
-* "buy" is an event trigger because it indicates a significant transaction has taken place.
-* "Trustcorp" is an event trigger because it is the company being acquired.
-* "stock" is an event trigger because it is a type of asset being transferred.
-* "market value" is an event trigger because it provides information about the value of the transaction.
-* "about $450 million" is an event trigger because it provides a specific dollar amount for the transaction.
-* "year end" is an event trigger because it provides a time frame for the transaction to be completed.
+Hint:
+To extract event triggers from the input text, you can look for words or phrases that indicate a significant change or occurrence, such as "merger", "completed", "agreed", "buy", "transaction", "close", etc. These words and phrases are likely to be relevant to the event triggers in the input text.

@@ -1,9 +1,1 @@
-[
-"jovem de 14 anos em estado grave",
-"jovem de 14 anos atropelado por autocarro",
-"acidente ocorreu",
-"jovem transportado para o Hospital São João"
-]
-
-Note:
-The output is a list of strings, where each string represents an event mentioned in the input text. The events are extracted based on their temporal relevance and relationship to the plot or situation described in the text. The list is in JSON format, which is a parseable and easy-to-read format for data exchange.
+["ficou", "em estado grave", "atropelado", "autocarro", "Vila das Aves", "concelho", "Santo Tirso", "assistido", "local", "transportado", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "prestar", "assistência", "Viatura", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte", "Imediato", "Vida", "GNR", "local"]

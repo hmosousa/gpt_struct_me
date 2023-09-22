@@ -1,1 +1,4 @@
-["around year end", "June", "12.4 million shares of stock", "about $450 million"]
+["completed", "Society Bank amp Trust", "Society Corp.", "June", "year end"]
+
+Format:
+JSON-parseable list of strings.

@@ -1,44 +1,12 @@
-[
-{
-"participant": "GNR",
-"class": "Organization"
-},
-{
-"participant": "deteus",
-"class": "Person"
-},
-{
-"participant": "Sines",
-"class": "Location"
-},
-{
-"participant": "distrito de Setúbal",
-"class": "Location"
-},
-{
-"participant": "Tribunal Judicial de Santiago do Cacém",
-"class": "Facility"
-},
-{
-"participant": "numerário",
-"class": "Object"
-},
-{
-"participant": "veículo",
-"class": "Object"
-}
-]
-]
+[["GNR", "Org"], ["dos homens", "Per"], ["idade", "Other"], ["34", "Other"], ["43", "Other"], ["tráfico de droga", "Per"], ["Sines", "Loc"], ["distrito de Setúbal", "Loc"], ["1.673 doses", "Other"], ["estupefacientes", "Other"], ["apresentados", "Per"], ["Tribunal Judicial de Santiago do Cacém", "Org"], ["primer interrogatório judicial", "Other"], ["medidas de coação", "Other"]]
 
-Explanation:
-The participants in this scenario are:
 
-* GNR (Organization)
-* two detained individuals (Person)
-* Sines (Location)
-* district of Setúbal (Location)
-* Tribunal Judicial de Santiago do Cacém (Facility)
-* money (Object)
-* vehicle (Object)
+Note:
 
-Note: The class label is a string that identifies the type of participant (e.g. "Person", "Location", etc.).
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with entities and classes marked.
+* The output is the list of entities and their corresponding classes.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.
+* The entities are: GNR, dos homens, idade, Sines, distrito de Setúbal, 1.673 doses, estupefacientes, Tribunal Judicial de Santiago do Cacém, and Other.
+* The output is organized in a list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Organization (GNR), Person (dos homens), Location (Sines, distrito de Setúbal), Nature (estupefacientes), Facility (Tribunal Judicial de Santiago do Cacém), and Other (idade, 1.673 doses).

@@ -1,1 +1,1 @@
-[["last Wednesday", "Date"], ["through Orkem's British subsidiary", "Date"], ["through internal resources", "Date"], ["eventually", "Date"]]
+[["last Wednesday", "DATE"], ["$7.43", "SET"], ["53.2%", "SET"], ["470 pence", "SET"], ["12.4%", "SET"], ["#301 million", "SET"]]

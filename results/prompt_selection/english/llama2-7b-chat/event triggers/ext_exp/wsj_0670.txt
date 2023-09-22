@@ -1,19 +1,6 @@
-[
-{
-"event": "sale_of_aluminum_unit's_extrusion_division",
-"trigger": "sale",
-"amount": "$5.3 million",
-"company": "National Intergroup Inc."
-},
-{
-"event": "sale_of_rolling_division",
-"trigger": "sale",
-"amount": "about $30 million",
-"company": "National Aluminum"
-},
-{
-"event": "exploration_of_sale_of_stake_in_aluminum_smelter",
-"trigger": "exploration",
-"company": "National Aluminum"
-}
-]
+
+["said", "expects", "charge", "sell", "division", "company", "agreed", "offset", "after-tax", "gain", "pact", "year-ago", "earned", "revenue", "explore", "options", "stake", "subject", "audit", "adjustments", "potential", "payments", "fiscal", "1989", "sales", "operating", "loss"]
+
+
+Format:
+JSON-parseable list of strings.

@@ -1,1 +1,1 @@
-["Elco Industries Inc. said", "expects net income", "fall below", "recent analyst's estimate", "expects to post sales", "slightly above", "fiscal 1989 sales", "industrial unit continues to face margin pressures", "lower demand", "In fiscal 1989", "Elco earned", "company's stock fell", "over-the-counter trading yesterday"]
+["said", "fall", "estimate", "said", "expects", "post", "said", "faces", "earned", "fell", "trading"]

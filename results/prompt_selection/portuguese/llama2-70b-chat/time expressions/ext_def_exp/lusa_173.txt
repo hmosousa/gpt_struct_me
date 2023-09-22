@@ -1,1 +1,1 @@
-["hoje", "09:56", "sábado", "desde sábado"]
+["hoje", "sábado", "09:56", "desde sábado", "30 nov 2020"]

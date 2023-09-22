@@ -1,14 +1,5 @@
-[
-"Homem mata ex-companheira",
-"tiro em Vila Nova de Gaia",
-"matou ex-companheira",
-"detido",
-"tentar suicídio",
-"GNR",
-"crime",
-"Rua da Figueirinha",
-"Grijó",
-"Vila Nova de Gaia",
-"Porto",
-"Polícia Judiciária"
-]
+["mata", "ex-companheira", "tiro", "Vila Nova de Gaia", "detido", "suicídio", "arma", "fonte", "GNR", "Comando", "Territorial", "Porto", "Rua", "Figueirinha", "Grijó", "Vila Nova de Gaia", "distrito", "Porto", "homem", "62", "vítima", "20", "anos", "admitiu", "cometido", "relação", "terminar", "Polícia", "Judiciária"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a trigger event.

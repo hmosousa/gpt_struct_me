@@ -1,30 +1,4 @@
-[
-["Homem", "State"],
-["ex-companheira", "Occurrence"],
-["tiro", "Occurrence"],
-["arma de fogo", "Aspectual"],
-["suicídio", "Intensional Action"],
-["Rua da Figueirinha", "Perception"],
-["Grijó", "Perception"],
-["Vila Nova de Gaia", "Perception"],
-["distrito do Porto", "Perception"],
-["62 anos", "Intensional State"],
-["20 anos mais nova", "Intensional State"]
-]
-
-Explanation:
-
-* Homem: State (the man is in a state of being the perpetrator of the crime)
-* ex-companheira: Occurrence (the death of the woman is an event that occurred)
-* tiro: Occurrence (the shooting is an event that occurred)
-* arma de fogo: Aspectual (the weapon used is relevant to the event)
-* suicídio: Intensional Action (the man's intent to commit suicide is an action that is relevant to the event)
-*Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto: Perception (these are locations that are relevant to the event)
-* 62 anos, 20 anos mais nova: Intensional State (the ages of the man and the victim are relevant to the event)
+[["homem", "I_Action"], ["matou", "Occurrence"], ["ex-companheira", "Object"], ["tiro", "Occurrence"], ["em", "Location"], ["Vila Nova de Gaia", "Location"], ["detido", "I_Action"], ["suicídio", "State"], ["com a mesma arma", "Aspectual"], ["crime", "Occurrence"], ["ocorreu", "Aspectual"], ["cerca das 10:30", "Time"], ["na Rua da Figueirinha", "Location"], ["em Grijó", "Location"], ["Vila Nova de Gaia", "Location"], ["distrito do Porto", "Location"], ["e que o homem tem 62 anos", "Reporting"], ["a vítima era 20 anos mais nova", "Aspectual"], ["a fonte admitiu", "Reporting"], ["que o homem tenha cometido o crime", "Reporting"], ["em retaliação", "Aspectual"], ["por a mulher ter optado", "Aspectual"], ["por terminar a relação", "Aspectual"], ["que ambos mantiveram durante 10 anos", "Aspectual"], ["o caso passou", "I_Action"], ["para a alçada", "Aspectual"], ["da Polícia Judiciária", "Location"]]
 
 Note:
-
-* State and Occurrence are the most common classes in the list, as events are often described in terms of their effects on the state of things or the occurrence of a specific action.
-* Aspectual and Intensional Action are used to describe the attributes of the events, such as the weapon used or the intent behind the action.
-* Perception is used to describe the locations and other sensory information that are relevant to the event.
-* Intensional State is used to describe the state of affairs that is relevant to the event, such as the ages of the parties involved.
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "homem", "ex-companheira", "tiro", etc.) and the second string is the class (e.g. "I_Action", "Occurrence", "Object", etc.). The classes are based on the categories you provided in the task.

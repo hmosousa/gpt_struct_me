@@ -1,1 +1,1 @@
-[["Di Giorgio", "Set"], ["DIG Acquisition Corp.", "Set"], ["Rose Partners Limited Partnership", "Set"], ["Robert Mellor", "Set"], ["$32-a-share", "Duration"], ["DIG's offer", "Time"]]
+[["32-a-share", "DURATION"], ["DIG's offer", "DATE"], ["individual units", "SET"], ["more money", "DURATION"]]

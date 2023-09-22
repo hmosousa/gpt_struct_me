@@ -1,18 +1,1 @@
-[
-["Homem de 48 anos morre", "Occurrence"],
-["acidente de trabalho", "Occurrence"],
-["homem de 48 morreu", "Occurrence"],
-["acidente", "Occurrence"],
-["queda em altura", "Occurrence"],
-["homem de 48 anos trabalhava", "State"],
-["vítima acabaria por não resistir", "Occurrence"],
-["falecer", "Occurrence"],
-["transportada por ambulância", "Occurrence"],
-["alerta foi dado", "Reporting"],
-["operações de socorro", "Occurrence"],
-["envolvido meios dos bombeiros", "Occurrence"],
-["ambulância de Suporte Imediato de Vida (SIV)", "State"],
-["Viatura Medica de Emergência e Reanimação (VMER)", "State"],
-["acionado o helicóptero", "Intensional Action"],
-["GNR de Mogadouro tomou conta da ocorrência", "Reporting"]
-]
+[["morre", "Occurrence"], ["acidente", "Occurrence"], ["trabalho", "State"], ["morrer", "Occurrence"], ["acidente", "Occurrence"], ["disse", "Reporting"], ["acidente", "Occurrence"], ["envolve", "I_Action"], ["queda", "Occurrence"], ["altura", "State"], ["trabalhava", "State"], ["obra", "State"], ["construção civil", "State"], ["resistir", "I_Action"], ["ferimentos", "State"], ["falecer", "Occurrence"], ["transportada", "Aspectual"], ["ambulância", "State"], ["campo de futebol", "State"], ["heli-transportada", "Aspectual"], ["hospital", "State"], ["explicou", "Reporting"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["horas", "State"], ["operações", "Occurrence"], ["socorro", "State"], ["envolvido", "Aspectual"], ["meios", "State"], ["bombeiros", "State"], ["ambulância", "State"], ["Suporte Imediato de Vida", "State"], ["Viatura Medica de Emergência e Reanimação", "State"], ["Instituto Nacional e Emergência Médica", "State"], ["acionado", "I_Action"], ["helicóptero", "State"], ["INEM", "State"], ["estacionado", "State"], ["Macedo de Cavaleiros", "State"], ["GNR", "State"], ["Mogadouro", "State"], ["tomou", "I_Action"], ["ocorrência", "Occurrence"]]

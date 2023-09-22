@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["sábado", "Date"]]
+[["sábado", "Date"], ["hoje", "Date"]]

@@ -1,10 +1,1 @@
-[
-"jovem de 14 anos",
-"autocarro",
-"Proteção Civil",
-"Bombeiros da Vila das Aves",
-"Hospital São João",
-"Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão",
-"Ambulância de Suporte Imediato de Vida de Santo Tirso",
-"GNR local"
-]
+["um jovem de 14 anos", "ficou", "em estado grave", "após", "ter sido atropelado", "por", "um autocarro", "na Vila das Aves", "concelho de Santo Tirso", "a Proteção Civil", "o jovem", "foi transportado", "pelo", "Bombeiros da Vila das Aves", "para", "o Hospital São João", "no Porto", "a fonte", "o acidente", "ocorreu", "pela 18:16", "na Rua Luís Gonzaga Mendes de Carvalho", "no local", "prestar assistência", "além", "da", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "a Ambulância de Suporte Imediato de Vida de Santo Tirso", "a GNR local", "a fonte", "da corporação"]

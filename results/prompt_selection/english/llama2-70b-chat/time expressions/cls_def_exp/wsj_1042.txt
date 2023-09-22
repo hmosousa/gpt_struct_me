@@ -1,28 +1,19 @@
-[
-["90 days", "Duration"],
-["1.1 million", "Set"],
-["3.3 million", "Set"],
-["1 share", "Set"],
-["5.50", "Set"],
-["243,677", "Set"],
-["1 warrant", "Set"],
-["3 shares", "Set"],
-["1.1 million Class C warrants", "Set"],
-["Class C warrants", "Class"],
-["Class A", "Class"],
-["Class B", "Class"],
-["unclassified warrants", "Class"]
-]
+[["one warrant", "DATE"], ["three shares", "SET"], ["3.3 million", "NUMBER"], ["1.1 million", "NUMBER"], ["Class C warrants", "DATE"], ["$5.50", "NUMBER"], ["90 days", "DURATION"], ["243,677", "NUMBER"], ["Class A", "DATE"], ["Class B", "DATE"], ["unclassified warrants", "DATE"]]
 
-Explanation:
-The output is a list of pairs, where each pair contains a time expression and its corresponding class. The classes are "Duration", "Set", and "Class".
+Note:
+The output format is a JSON-parseable list.
 
-"90 days" is classified as a Duration.
-"1.1 million" and "3.3 million" are classified as Sets because they represent quantities of items.
-"1 share" and "5.50" are also classified as Sets because they represent a unit of measurement.
-"243,677" is classified as a Set for the same reason.
-"1 warrant" and "3 shares" are classified as Sets because they represent quantities of items.
-"1.1 million Class C warrants" is classified as a Set because it represents a quantity of items.
-"Class C warrants" is classified as a Class because it represents a category of items.
-"Class A" and "Class B" are also classified as Classes because they represent categories of items.
-"unclassified warrants" is classified as a Class because it represents a category of items.
+Note:
+The input format is a plain text.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text is given as a plain text.
+
+Note:
+The output should be a JSON-parseable list.

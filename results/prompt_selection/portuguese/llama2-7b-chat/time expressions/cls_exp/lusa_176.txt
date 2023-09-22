@@ -1,15 +1,1 @@
-[["Homem", "Date"], ["morre", "Time"], ["depois", "Duration"], ["de", "Setúbal", "Set"]]
-Explanation:
-* "Homem" is a date expression, indicating that the person died.
-* "morre" is a time expression, indicating that the person died.
-* "depois" is a duration expression, indicating that the person died after the incident.
-* "de Setúbal" is a set expression, indicating the location where the incident occurred.
-
-Note:
-
-* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
-* The classes are defined as follows:
-	+ Date: A date expression, indicating a specific point in time.
-	+ Time: A time expression, indicating a specific time of day.
-	+ Duration: A duration expression, indicating a specific amount of time.
-	+ Set: A set expression, indicating a specific location or set of locations.
+[["em Setúbal", "Location"], ["06:55", "Time"], ["Mitrena", "Location"], ["Palmela", "Location"], ["Sapadores", "Location"], ["Setúbal", "Location"], ["Hospital de São Bernardo", "Location"]]

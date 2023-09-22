@@ -1,85 +1,22 @@
-[
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
- 
+[["um homem", "Per"], ["de 69 anos", "Per"], ["um restaurante", "Fac"], ["Cajados", "Loc"], ["o concelho de Palmela (Setúbal)", "Loc"], ["um estabelecimento", "Fac"], ["uma garrafa", "Obj"], ["um automóvel", "Obj"], ["uma mulher", "Per"], ["aparentemente embriagada", "Other"], ["o proprietário", "Per"], ["um hospital", "Fac"], ["São Bernardo", "Loc"], ["uma fonte", "Per"], ["a GNR", "Org"], ["a mesma fonte", "Per"], ["a guarda", "Org"], ["a agressão", "Per"], ["a via pública", "Loc"], ["um estabelecimento", "Fac"], ["uma fonte", "Per"], ["o CDOS", "Org"], ["um bombeiro", "Per"], ["a corporação de Águas de Moura", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 20 anos é morto a tiro numa rua de Lisboa
+Um homem de 20 anos foi morto a tiro numa rua de Lisboa, no bairro de Campo de Ourique, no centro da cidade, no domingo à tarde, informou a Polícia Judiciária.
+O homem foi encontrado às 16h30, no cruzamento da rua de São Pedro de Alcântara com a rua de São José, com um tiro na cabeça, segundo a PJ.
+A Polícia Judiciária está a investigar o caso, que foi denunciado por um homem que diz ter visto o crime.
+A PJ não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto por um tiroteiro que se encontrava numa rua vizinha, mas que não se encontrava no local do crime.
+A Polícia Judiciária não descarta que o homem tenha sido morto

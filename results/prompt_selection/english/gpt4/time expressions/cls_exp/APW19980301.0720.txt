@@ -1,13 +1,1 @@
-[
-["Sunday", "Date"],
-["1978", "Date"],
-["Friday", "Date"],
-["Sunday", "Date"],
-["1985", "Date"],
-["Last week", "Date"],
-["last year", "Date"],
-["last February", "Date"],
-["Sunday", "Date"],
-["nearly two years", "Duration"],
-["six weeks ago", "Date"]
-]
+[["Sunday", "DATE"], ["1978", "DATE"], ["Friday", "DATE"], ["Sunday", "DATE"], ["Last week", "DATE"], ["last year", "DATE"], ["last February", "DATE"], ["Sunday", "DATE"], ["last week", "DATE"], ["Sunday", "DATE"], ["nearly two years", "DURATION"], ["six weeks ago", "DATE"], ["Since 1985", "DATE"]]

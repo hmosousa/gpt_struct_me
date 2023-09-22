@@ -1,15 +1,1 @@
-[
-["encontrado", "Occurrence"],
-["boiar", "State"],
-["revelou", "Reporting"],
-["caído", "Occurrence"],
-["praticava", "Occurrence"],
-["dado o alerta", "Reporting"],
-["ativada", "Occurrence"],
-["procedeu", "Occurrence"],
-["transportando-o", "Occurrence"],
-["declarado", "Reporting"],
-["transportado", "Occurrence"],
-["especificou", "Reporting"],
-["tomou conta", "Occurrence"]
-]
+[["encontrado", "Perception"], ["boiar", "State"], ["mar", "State"], ["revelou", "Reporting"], ["caído", "Occurrence"], ["mar", "State"], ["praticava", "Aspectual"], ["pesca lúdica", "I_Action"], ["dado", "Reporting"], ["alerta", "State"], ["avistamento", "Perception"], ["corpo", "State"], ["boiar", "State"], ["mar", "State"], ["ativada", "Occurrence"], ["procedeu", "I_Action"], ["recolha", "I_Action"], ["corpo", "State"], ["transportando-o", "I_Action"], ["declarado", "Reporting"], ["óbito", "State"], ["local", "State"], ["transportado", "I_Action"], ["gabinete", "State"], ["medicina legal", "State"], ["especificou", "Reporting"], ["tomou", "I_Action"], ["ocorrência", "Occurrence"]]

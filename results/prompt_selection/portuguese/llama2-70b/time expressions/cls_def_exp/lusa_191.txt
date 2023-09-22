@@ -1,1 +1,1 @@
-[["Homem", "Set"], ["29 anos", "Duration"], ["hoje", "Date"], ["pelas 10:54", "Time"], ["uma arma branca", "Set"], ["zona das costas", "Set"]]
+[["Homem", "Set"], ["29 anos", "Duration"], ["hoje", "Date"], ["renda Ângela Pinto", "Location"], ["10:54", "Time"], ["cão", "Set"], ["zona das costas", "Location"], ["Almirante Reis", "Location"]]

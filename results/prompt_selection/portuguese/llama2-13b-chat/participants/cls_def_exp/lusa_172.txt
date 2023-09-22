@@ -1,23 +1,13 @@
-[
-["Corpo de homem", "Object"],
-["homem", "Person"],
-["pescador", "Person"],
-["Autoridade Marítima", "Organization"],
-["Estaquinha", "Location"],
-["Faro", "Location"],
-["Portimão", "Location"],
-["delegada de saúde de Lagoa", "Person"],
-["gabinete de medicina legal de Portimão", "Facility"]
-]
+[["um corpo", "Per"], ["de um homem", "Per"], ["aparecendo entre 60 e 70 anos", "Per"], ["foi encontrado", "Per"], ["a boiar no mar", "Other"], ["na praia da Estaquinha", "Loc"], ["no concelho de Lagoa (Algarve)", "Loc"], ["de acordo com as autoridades", "Other"], ["o homem", "Per"], ["um pescador", "Per"], ["terá alegadamente caído", "Other"], ["ao mar", "Other"], ["quando praticava pesca lúdica", "Other"], ["numa arriba", "Other"], ["naquela praia de Lagoa", "Loc"], ["do distrito de Faro", "Loc"], ["depois de ter sido dado", "Other"], ["o alerta para o avistamento", "Other"], ["de um corpo a boiar no mar", "Other"], ["foi ativada", "Other"], ["a Estação Salva-vidas de Ferragudo", "Org"], ["que procedeu à recolha", "Other"], ["do corpo", "Other"], ["e transportou para a marina de Portimão", "Other"], ["“O óbito foi declarado", "Other"], ["no local", "Loc"], ["pelo delegado de saúde de Lagoa", "Per"], ["tendo o corpo", "Other"], ["been transportado", "Other"], ["para o gabinete de medicina legal de Portimão", "Other"], ["A Polícia Marítima", "Org"], ["de Portimão", "Org"], ["tomou conta", "Other"]]
 
-Explanation:
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
 
-1. Corpo de homem - Object (as it is a physical object)
-2. homem - Person (as it is a human being)
-3. pescador - Person (as it is a person who practices fishing)
-4. Autoridade Marítima - Organization (as it is a government agency responsible for maritime affairs)
-5. Estaquinha - Location (as it is a place where the body was found)
-6. Faro - Location (as it is a district where the body was found)
-7. Portimão - Location (as it is a city where the body was transported)
-8. delegada de saúde de Lagoa - Person (as it is a healthcare professional who declared the death)
-9. gabinete de medicina legal de Portimão - Facility (as it is a medical facility where the body was transported)
+* Per: Person
+* Obj: Object
+* Other: Other
+* Fac: Facility
+* Loc: Location
+* Org: Organization
+
+The input text is a news article about a body found floating in the sea in Lagoa, Algarve, Portugal. The output lists the entities and their classes in the text.

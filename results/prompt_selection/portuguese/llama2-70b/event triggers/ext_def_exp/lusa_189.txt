@@ -1,1 +1,1 @@
-["homem foi morto", "atirador está em fuga"]
+["tirou", "baleado", "caçadeira", "atirador", "fuga", "incidente", "ocorreu", "tiroteio", "homicídio", "armas de fogo", "investigação"]

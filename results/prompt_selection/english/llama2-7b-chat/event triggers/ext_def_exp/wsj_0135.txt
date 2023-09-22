@@ -1,9 +1,31 @@
 [
 "said",
-"fall below",
-"will post",
-"slightly above",
-"fiscal 1989",
+"expects",
+"fall",
+"below",
+"recent",
+"estimate",
+"$1.65",
+"a share",
+"sales",
+"slightly",
+"above",
+"fiscal",
+"1989",
 "earned",
-"fell"
+"$7.8",
+"million",
+"or",
+"$1.65",
+"share",
+"company",
+"stock",
+"fell",
+"$1.125",
+"to",
+"$13.625",
+"yesterday"
 ]
+
+
+

@@ -1,34 +1,10 @@
-[
-{
-"participant": "Homem",
-"class": "Person"
-},
-{
-"participant": "Veículo ligeiro",
-"class": "Vehicle"
-},
-{
-"participant": "PSP",
-"class": "Organization"
-},
-{
-"participant": "Proteção Civil",
-"class": "Organization"
-},
-{
-"participant": "Bombeiros",
-"class": "Organization"
-},
-{
-"participant": "Sapadores",
-"class": "Organization"
-},
-{
-"participant": "Hospital de São Bernardo",
-"class": "Location"
-},
-{
-"participant": "Estrada Nacional 10-8",
-"class": "Location"
-}
-]
+[["um homem", "Per"], ["34 anos", "Age"], ["Setúbal", "Loc"], ["Estrada Nacional 10-8", "Loc"], ["Mitrena", "Loc"], ["PSP", "Org"], ["Proteção Civil", "Org"], ["CDOS", "Org"], ["Hospital de São Bernardo", "Org"], ["Lusa", "Org"], ["bombeiros", "Org"], ["veículos", "Org"], ["Palmela", "Loc"], ["Sapadores", "Loc"], ["VMER", "Org"], ["PSP", "Org"]]
+
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities (persons, locations, organizations, etc.) and classes (age, location, etc.).
+* The task is to extract and classify all the participants (persons, organizations, etc.) in the sentence.
+* The output is a list of all the participants, classified by their type (person, organization, location, etc.).

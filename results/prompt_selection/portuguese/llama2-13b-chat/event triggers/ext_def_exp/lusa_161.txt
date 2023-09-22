@@ -1,12 +1,6 @@
-["Homem mata ex-companheira com tiro em Vila Nova de Gaia", "Tiro em Vila Nova de Gaia", "Mata ex-companheira", "Suicídio", "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "Distrito do Porto", "62 anos", "20 anos mais nova", "Retaliação", "Terminar relação"]
+[ "matou", "disparo", "arma", "fogo", "ex-companheira", "detido", "suicídio", "crime", "ocorreu", "Rua", "Figueirinha", "Grijó", "Vila", "distrito", "Porto", "tem", "anos", "vítima", "anos", "relação", "mantiveram", "passou", "alçada", "Polícia", "Judiciária"]
 
 Note:
-- "Homem mata ex-companheira" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
-- "Tiro em Vila Nova de Gaia" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
-- "Mata ex-companheira" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
-- "Suicídio" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
-- "Rua da Figueirinha" e "Grijó" são locais onde os eventos ocorreram.
-- "Vila Nova de Gaia" e "Distrito do Porto" são locais onde os eventos ocorreram.
-- "62 anos" e "20 anos mais nova" são informações sobre a idade dos envolvidos.
-- "Retaliação" é uma razão que leu à comissão do crime.
-- "Terminar relação" é uma razão que leu à comissão do crime.
+- The output should be a list of strings, where each string represents a single event trigger.
+- The events should be extracted based on the given definition of an event.
+- The output should be in JSON-parseable format.

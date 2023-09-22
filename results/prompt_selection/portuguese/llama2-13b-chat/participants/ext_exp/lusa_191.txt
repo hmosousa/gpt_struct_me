@@ -1,1 +1,9 @@
-["Homem de 29 anos", "PSP", "Cometlis", "Lisboa", "rua Ângela Pinto", "café", "suspeito", "Avenida Almirante Reis", "Polícia Judiciária"]
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* Participants are identified based on their role in the event, such as "o suspeito" (the suspect), "a vítima" (the victim), "a polícia" (the police), "a PSP" (the Public Security Police), "a PJ" (the Judiciary Police), "os indivíduos" (the individuals), "o Comando Metropolitano de Lisboa" (the Metropolitan Command of Lisbon), "a agência Lusa" (the Lusa agency), "as forças policiais" (the police forces), "as fitas de segurança" (the security tapes).
+
+Format:
+JSON-parseable list of strings.

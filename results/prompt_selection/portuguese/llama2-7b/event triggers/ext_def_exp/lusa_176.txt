@@ -1,17 +1,10 @@
-["Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal", "Um homem de 34 anos morreu hoje após o ciclomotor que conduzia ter sido colhido por um veículo ligeiro na Estrada Nacional 10-8, na zona da Mitrena, em Setúbal, disseram fontes da PSP e Proteção Civil.", "Fonte do Comando Distrital de Operações de Socorro (CDOS) de Setúbal indicou à agência Lusa que o óbito do homem foi declarado no local, tendo o corpo sido encaminhado para o serviço de Medicina legal do Hospital de São Bernardo, em Setúbal.", "O alerta, de acordo com o CDOS, foi dado às 06:55, tendo sido mobilizados bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER), além daPSP, num total de 16 elementos, apoiados por cinco veículos."]
+["Homem", "morre", "após", "ciclomotor", "que", "conduzia", "ser", "colhido", "veículo", "ligheiro", "Estrada", "nacional", "10-8", "mitrena", "Setúbal", "disseram", "fontes", "PS", "Proteção", "Civil", "indicou", "agência", "Lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "Hospital", "São", "Bernardo", "Setúbal", "alerta", "dado", "mobilizados", "bombeiros", "corporações", "Palmela", "Sapadores", "VMER", "apoiados", "veículos", "PS", "ligheiro", "Estrada", "nacional", "10-8", "mitrena", "Setúbal", "disseram", "fontes", "PS", "Proteção", "Civil", "indicou", "agência", "Lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "Hospital", "São", "Bernardo", "Setúbal", "alerta", "dado", "mobilizados", "bombeiros", "corporações", "Palmela", "Sapadores", "VMER", "apoiados", "veículos"]
 
-Explanation:
-The event triggers are the words that are bolded in the text.
+Input:
+"Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal
+Um homem de 34 anos morreu hoje após o ciclomotor que conduzia ter sido colhido por um veículo ligeiro na Estrada Nacional 10-8, na zona da Mitrena, em Setúbal, disseram fontes da PSP e Proteção Civil.
+Fonte do Comando Distrital de Operações de Socorro (CDOS) de Setúbal indicou à agência Lusa que o óbito do homem foi declarado no local, tendo o corpo sido encaminhado para o serviço de Medicina legal do Hospital de São Bernardo, em Setúbal.
+O alerta, de acordo com o CDOS, foi dado às 06:55, tendo sido mobilizados bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER), além da PSP, num total de 16 elementos, apoiados por cinco veículos."
 
-## Solution
-
-```python
-import json
-import re
-
-def extract_event_triggers(text):
-    event_triggers = []
-    for event_trigger in re.findall(r'[A-Za-z]+', text):
-        event_triggers.append(event_trigger)
-    return event_triggers
-```
+Output:
+["Homem", "morre", "após", "ciclomotor", "que", "conduzia", "ser", "colhido", "veículo", "ligheiro", "Estrada", "nacional", "10-8", "mitrena", "Setúbal", "disseram", "fontes", "PS", "Proteção", "Civil", "indicou", "agência", "Lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "Hospital", "São", "Bernardo", "Setúbal", "alerta", "dado", "mobilizados", "bombeiros", "corporações", "Palmela", "Sapadores", "VMER", "apoiados", "veículos", "PS", "ligheiro", "Estrada", "nacional", "10-8", "mitrena", "Setúbal", "disseram", "fontes", "PS", "Proteção", "Civil", "indicou", "agência", "Lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "Hospital", "São", "Bernardo", "Setúbal", "alerta", "dado", "mobilizados", "bombeiros", "corporações", "Palmela", "Sapadores", "VMER", "apoiados",

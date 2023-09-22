@@ -1,6 +1,1 @@
-[
-"homem morto",
-"atirador",
-"Direção Nacional da Polícia de Segurança Pública (PSP)",
-"Polícia Judiciária"
-]
+["um homem", "hoje", "morto", "tiro", "Barreiro", "baleado", "dois tiros", "caçadeira", "atirador", "em fuga", "a Direção Nacional", "da Polícia de Segurança Pública", "PSP", "a mesma fonte", "o incidente", "20:20", "hoje", "circunstâncias", "tiroteio", "suspeita", "homicídio", "armas de fogo", "a ocorrência", "está a ser acompanhada", "Polícia Judiciária", "investigação", "do caso"]

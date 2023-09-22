@@ -1,13 +1,1 @@
-["12.300 doses", "122", "segunda-feira", "hoje", "36 anos", "Beja", "Mértola"]
-
-Explanation:
-The input text contains several temporal expressions:
-
-* "12.300 doses" refers to a quantity of a drug, but it also implies a specific point in time when the drug was seized.
-* "122" is a route number, but it also implies a specific point in time when the drug was seized.
-* "segunda-feira" means "Monday" in Portuguese, indicating the day of the week when the woman was detained.
-* "hoje" means "today" in Portuguese, indicating the current day when the news is being reported.
-* "36 anos" means "36 years old", indicating the age of the woman when she was detained.
-* "Beja" and "Mértola" are locations, but they also imply specific points in time when the events occurred.
-
-Therefore, all these expressions can be considered temporal expressions, as they provide information about time, and theyshould be included in the output list.
+["segunda-feira", "hoje", "30 nov 2020", "Estrada Nacional 122", "Mértola", "Beja", "Tribunal Judicial de Beja"]

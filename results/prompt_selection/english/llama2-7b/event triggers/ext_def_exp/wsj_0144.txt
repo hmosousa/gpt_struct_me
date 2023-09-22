@@ -1,10 +1,43 @@
-["Travelers Corp.'s third-quarter net income rose 11%", "even though claims stemming from Hurricane Hugo reduced results $40 million", "Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share", "but revenue declined to $3 billion from $3.2 billion", "Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million", "The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter", "while it lost $7.2 million in its personal property/casualty business", "compared with earnings of $6.1 million a year ago", "Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million", "compared with a loss of $3 million last year", "In the first nine months", "net was $306 million", "compared with a loss of $195 million in the 1988 period", "The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans"]
+["Travelers Corp.'s third-quarter net income rose 11%, even though claims stemming from Hurricane Hugo reduced results $40 million.
+Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share, including net realized investment gains of $31 million, up from $10 million a year ago. But revenue declined to $3 billion from $3.2 billion.
+Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million.
+The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter, while it lost $7.2 million in its personal property/casualty business, compared with earnings of $6.1 million a year ago.
+Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million, compared with a loss of $3 million last year.
+In the first nine months, net was $306 million, compared with a loss of $195 million in the 1988 period. The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans."
 
-Examples:
-["Travelers Corp.'s third-quarter net income rose 11%", "even though claims stemming from Hurricane Hugo reduced results $40 million", "Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share", "but revenue declined to $3 billion from $3.2 billion", "Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million", "The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter", "while it lost $7.2 million in its personal property/casualty business", "compared with earnings of $6.1 million a year ago", "Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million", "compared with a loss of $3 million last year", "In the first nine months", "net was $306 million", "compared with a loss of $195 million in the 1988 period", "The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans"]
+Format:
+JSON-parseable list of strings.
 
-Test cases:
-["Travelers Corp.'s third-quarter net income rose 11%", "even though claims stemming from Hurricane Hugo reduced results $40 million", "Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share", "but revenue declined to $3 billion from $3.2 billion", "Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million", "The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter", "while it lost $7.2 million in its personal property/casualty business", "compared with earnings of $6.1 million a year ago", "Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million", "compared with a loss of $3 million last year", "In the first nine months", "net was $306 million", "compared with a loss of $195 million in the 1988 period", "The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans"]
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The decision is a victory for Monsanto Co., which has been trying to sell the corn for several years.
+The company says the corn will help farmers reduce their use of Roundup, which is made by Monsanto.
+The EPA said it has determined that the corn is not likely to cause harm to the environment.
+The agency said it will continue to monitor the corn to make sure it is not harmful to the environment.
+The decision comes as the EPA is under pressure to approve more genetically engineered crops.
+The agency has approved the sale of genetically engineered corn, soybeans and cotton.
+The EPA has also approved the sale of genetically engineered potatoes and apples.
+The EPA said it will continue to monitor the corn to make sure it is not harmful to the environment."
 
-Test cases:
-["Travelers Corp.'s third-quarter net income rose 11%", "even though claims stemming from Hurricane Hugo reduced results $40 million", "Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share", "but revenue declined to $3 billion from $3.2
+Output:
+["The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The decision is a victory for Monsanto Co., which has been trying to sell the corn for several years.
+The company says the corn will help farmers reduce their use of Roundup, which is made by Monsanto.
+The EPA said it has determined that the corn is not likely to cause harm to the environment.
+The agency said it will continue to monitor the corn to make sure it is not harmful to the environment.
+The decision comes as the EPA is under pressure to approve more genetically engineered crops.
+The agency has approved the sale of genetically engineered corn, soybeans and cotton.
+The EPA has also approved the sale of genetically engineered potatoes and apples.
+The EPA said it will continue to monitor the corn to make sure it is not harmful to the environment."
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The decision is a victory for Monsanto Co., which has been trying to sell the corn for several years.
+The company says the corn will help farmers reduce their use of Roundup, which is made by Monsanto.
+The EPA said it has determined that the corn is not likely to cause harm to

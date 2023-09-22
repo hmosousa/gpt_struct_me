@@ -1,9 +1,1 @@
-[
-{entity: "Di Giorgio Corp.", class: "State"},
-{entity: "certain units", class: "Aspectual"},
-{entity: "units", class: "Aspectual"},
-{entity: "DIG Acquisition Corp.", class: "Intensional Action"},
-{entity: "Rose Partners Limited Partnership", class: "Intensional Action"},
-{entity: "Robert Mellor", class: "Perception"},
-{entity: "company", class: "State"}
-]
+[["said", "REPORTING"], ["continuing", "OCCURRENCE"], ["reached", "OCCURRENCE"], ["agreement", "OCCURRENCE"], ["seeking", "OCCURRENCE"], ["unsolicited", "OCCURRENCE"], ["tender", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["vehicle", "OCCURRENCE"], ["pursue", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["stands", "OCCURRENCE"], ["reap", "OCCURRENCE"], ["more", "OCCURRENCE"], ["money", "OCCURRENCE"], ["through", "OCCURRENCE"], ["individual", "OCCURRENCE"], ["units", "OCCURRENCE"], ["to", "OCCURRENCE"], ["others", "OCCURRENCE"]]

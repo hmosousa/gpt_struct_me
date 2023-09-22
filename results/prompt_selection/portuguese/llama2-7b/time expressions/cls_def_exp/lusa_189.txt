@@ -1,85 +1,29 @@
-[
-  ["Homem", "Date"],
-  ["morto", "Time"],
-  ["a", "Duration"],
-  ["tiro", "Time"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
-  ["hoje", "Set"],
-  ["morto", "Set"],
-  ["a", "Set"],
-  ["tiro", "Set"],
-  ["no", "Set"],
-  ["Barreiro", "Set"],
-  ["atirador", "Set"],
-  ["em", "Set"],
-  ["fuga", "Set"],
-  ["Um", "Set"],
-  ["homem", "Set"],
-  ["foi", "Set"],
+[["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"]]
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+[["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"], ["morto", "Set"]]
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e

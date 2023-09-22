@@ -1,55 +1,6 @@
-[
-{
-"entity": "GNR",
-"class": "State"
-},
-{
-"entity": "mulher",
-"class": "Person"
-},
-{
-"entity": "Mértola",
-"class": "Location"
-},
-{
-"entity": "Beja",
-"class": "Location"
-},
-{
-"entity": "Estrada Nacional 122",
-"class": "Location"
-},
-{
-"entity": "viatura",
-"class": "Object"
-},
-{
-"entity": "droga",
-"class": "Aspectual"
-},
-{
-"entity": "haxixe",
-"class": "Aspectual"
-}
-]
-]
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico", "Occurrence"], ["drogas", "Occurrence"], ["apresende", "I_Action"], ["doses", "Occurrence"], ["haxixe", "Occurrence"], ["Mértola", "State"], ["concelho", "State"], ["Beja", "State"], ["divulgado", "Occurrence"], ["militares", "I_Action"], ["Posto", "State"], ["territorial", "State"], ["segundo", "Reporting"], ["força", "I_Action"], ["patrulhamento", "Occurrence"], ["vila", "State"], ["demonstrou", "Reporting"], ["comportamento", "Occurrence"], ["nervos", "Occurrence"], ["efetuaram", "I_Action"], ["apurou", "I_Action"], ["droga", "Occurrence"], ["posse", "Occurrence"], ["veículo", "Occurrence"], ["telemóvel", "Occurrence"]]
 
-Explanation:
-The output is a JSON-parseable list of entities and their corresponding classes. The entities are:
-* GNR (State)
-* mulher (Person)
-* Mértola (Location)
-* Beja (Location)
-* Estrada Nacional 122 (Location)
-* viatura (Object)
-* droga(Aspectual)
-* haxixe (Aspectual)
 
-The classes are:
+Note:
 
-* State (GNR)
-* Person (mulher)
-* Location (Mértola, Beja, Estrada Nacional 122)
-* Object (viatura)
-* Aspectual (droga, haxixe)
-Note: The class "Aspectual" is used to classify the nouns "droga" and "haxixe" as aspects of the crime, as they are related to the crime of drug trafficking.
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

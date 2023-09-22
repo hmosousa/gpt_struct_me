@@ -1,16 +1,5 @@
-[
-"Violência doméstica",
-"pulseira eletrónica",
-"homem detido",
-"Penafiel",
-"distrito do Porto",
-"suspeito de violência física",
-"injúrias e ameaças de morte",
-"ex-companheira",
-"42 anos",
-"botão de pânico",
-"teleassistência",
-"antecedentes criminais",
-"ilícitos da mesma natureza",
-"proibido de contactar a vítima"
-]
+["em Penafiel", "distrito do Porto", "39 anos", "42 anos", "Penafiel", "GNR", "separação", "vítima", "local de trabalho", "botão de pânico", "teleassistência", "antecedentes criminais", "proibido de contactar a vítima"]
+
+
+Note:
+The output list contains time expressions in the format of "X years", "X months", "X weeks", "X days", "X hours", "X minutes", and "X seconds".

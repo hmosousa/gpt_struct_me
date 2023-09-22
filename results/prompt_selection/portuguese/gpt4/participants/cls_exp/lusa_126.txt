@@ -1,18 +1,1 @@
-[
-["GNR", "Organization"],
-["dois homens", "Person"],
-["Sines", "Location"],
-["distrito de Setúbal", "Location"],
-["1.673 doses de estupefacientes", "Object"],
-["Guarda Nacional Republicana", "Organization"],
-["sábado", "Other"],
-["local já referenciado por tráfico de estupefacientes", "Location"],
-["concelho de Sines", "Location"],
-["comando territorial de Setúbal da GNR", "Organization"],
-["1.570 doses de heroína", "Object"],
-["103 doses de cocaína", "Object"],
-["844 euros", "Object"],
-["um veículo", "Object"],
-["quatro telemóveis", "Object"],
-["Tribunal Judicial de Santiago do Cacém", "Facility"]
-]
+[["GNR", "Org"], ["dois homens", "Per"], ["tráfico de droga", "Other"], ["Sines", "Loc"], ["o distrito de Setúbal", "Loc"], ["1.673 doses de estupefacientes", "Obj"], ["aquela força de segurança", "Org"], ["Em comunicado", "Obj"], ["a Guarda Nacional Republicana (GNR)", "Org"], ["a detenção dos dois suspeitos", "Per"], ["sábado", "Other"], ["uma ação de patrulhamento", "Other"], ["um local", "Loc"], ["tráfico de estupefacientes", "Other"], ["o concelho de Sines", "Loc"], ["movimentações suspeitas", "Other"], ["tráfico de estupefacientes", "Other"], ["os militares", "Per"], ["os dois suspeitos", "Per"], ["uma transação", "Other"], ["o comando territorial de Setúbal da GNR", "Org"], ["1.570 doses de heroína", "Obj"], ["103 doses de cocaína", "Obj"], ["844 euros", "Obj"], ["em numerário", "Other"], ["um veículo", "Obj"], ["quatro telemóveis", "Obj"], ["Os detidos", "Per"], ["o Tribunal Judicial de Santiago do Cacém", "Org"], ["primeiro interrogatório judicial", "Other"], ["eventuais medidas de coação", "Other"]]

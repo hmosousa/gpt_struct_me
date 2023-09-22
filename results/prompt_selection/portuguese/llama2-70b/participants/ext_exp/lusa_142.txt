@@ -1,1 +1,1 @@
-["GNR","Mértola"]
+["GNR", "suspeita", "tráfico", "droga", "apreenda", "doses", "haxixe", "Mértola", "mulher", "anos", "prática", "crime", "tráfico", "dose", "haxixe", "concelho", "alentejano", "Mértola", "Beja", "distrito", "militares", "Posto", "Territorial", "segunda-feira", "Tribunal", "Judicial", "eventual", "coação", "força", "segurança", "Estrada", "Nacional", "vila", "comportamento", "nervoso", "abordo", "viatura", "busca", "possa", "telemóvel"]

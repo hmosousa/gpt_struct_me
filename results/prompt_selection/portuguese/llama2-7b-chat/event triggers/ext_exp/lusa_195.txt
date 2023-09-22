@@ -1,12 +1,6 @@
 [
-"PJ detém homem suspeito de balear jovem em coletividade de Setúbal",
-"conflito com um grupo de convivas",
-"disparou sobre a vítima",
-"sexagenário acabou por alvejar um jovem",
-"ferimentos consideráveis num ombro e braço",
-"detido",
-"indiciado pelos crimes de homicídio qualificado",
-"detenção de arma proibida",
-"omissão de auxílio",
-"prisão preventiva"
-]
+"PJ", "detém", "homem", "suspeito", "balear", "jovem", "coletividade", "Setúbal", "deteve", "homem", "63", "anos", "suspeito", "disparou", "vítima", "conflito", "grupo", "convivas", "almoçar", "coletividade", "Alto", "Guerra", "polícia", "adianta", "sexagenário", "alvejar", "jovem", "do", "grupo", "ferimentos", "consideráveis", "ombro", "braço", "detido", "indiciado", "crimes", "homicídio", "qualificado", "detenção", "arma", "proibida", "omissão", "auxílio", "prisão", "coção", "medida"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase from the input text.

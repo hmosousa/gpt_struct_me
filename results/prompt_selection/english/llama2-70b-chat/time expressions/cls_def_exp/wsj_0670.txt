@@ -1,22 +1,10 @@
-[
-["National Intergroup Inc.", "Date"],
-["third quarter", "Time"],
-["$15 million", "Duration"],
-["$30 million", "Duration"],
-["year-ago third quarter", "Date"],
-["$22.5 million", "Duration"],
-["$18 million", "Duration"],
-["54.5%", "Set"],
-["two years", "Duration"],
-["fiscal 1989", "Date"]
-]
+[["National Intergroup Inc.", "DATE"], ["third quarter", "DATE"], ["$5.3 million", "AMOUNT"], ["$15 million", "AMOUNT"], ["$30 million", "AMOUNT"], ["year-ago third quarter", "DATE"], ["$22.5 million", "AMOUNT"], ["$18 million", "AMOUNT"], ["$778.6 million", "AMOUNT"], ["54.5%", "PERCENTAGE"], ["two years", "DURATION"], ["fiscal 1989", "DATE"], ["$40 million", "AMOUNT"], ["$1.5 million", "AMOUNT"]]
 
-Explanation:
-The output is a list of temporal expressions extracted from the given text. Each expression is a list containing the entity (the first string) and the class (the second string) of the expression. The classes are:
+Note:
+The input text is a paragraph from a news article. The output is a list of all time expressions, amounts, and percentages found in the text. The list is in JSON format, where each element is a list with two strings: the first is the entity, and the second is the class.
 
-* Date: Expressions that represent a specific point in time, such as "National Intergroup Inc." (the company's name) or "year-ago third quarter" (a specific quarter in the past).
-* Time: Expressions that represent a specific time period, such as "third quarter" (a quarter of a year) or "two years" (a specific duration of time).
-* Duration: Expressions that represent a quantity of time, such as "$15 million" (the amount of time it takes to earn $15 million) or "$30 million" (the amount of time it takes to earn $30 million).
-* Set: Expressions that represent a set of values, such as "54.5%" (the percentage of ownership) or "fiscal 1989" (a specific year).
+The task is to write a program that takes in the input text and produces the output list. The program should be able to extract and classify all time expressions, amounts, and percentages in the text.
 
-Note that some expressions can be classified into more than one class. For example, "third quarter" can be classified as both Time and Date, depending on the context in which it is used.
+Note that the input text may contain other information besides time expressions, amounts, and percentages. The program should only extract and classify the relevant information.
+
+The output list should be in JSON format, where each element is a list with two strings: the first is the entity, and the second is the class. The class should be one of the following: "DATE", "AMOUNT", "PERCENTAGE", or "DURATION".

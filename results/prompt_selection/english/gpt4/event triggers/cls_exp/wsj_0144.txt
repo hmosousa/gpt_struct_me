@@ -1,18 +1,1 @@
-[
-["rose", "Occurrence"],
-["stemming", "State"],
-["reduced", "Occurrence"],
-["advanced", "Occurrence"],
-["including", "Reporting"],
-["declined", "Occurrence"],
-["estimated", "Reporting"],
-["will result", "Intensional Action"],
-["fell", "Occurrence"],
-["lost", "Occurrence"],
-["compared", "Reporting"],
-["posted", "Reporting"],
-["compared", "Reporting"],
-["was", "State"],
-["compared", "Reporting"],
-["included", "Reporting"]
-]
+[["rose", "OCCURRENCE"], ["reduced", "OCCURRENCE"], ["advanced", "OCCURRENCE"], ["declined", "OCCURRENCE"], ["estimated", "REPORTING"], ["result", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["lost", "OCCURRENCE"], ["compared", "REPORTING"], ["posted", "REPORTING"], ["compared", "REPORTING"], ["was", "STATE"], ["compared", "REPORTING"], ["included", "ASPECTUAL"]]

@@ -1,2 +1,8 @@
 
-[ "next year's first quarter", "March 31", "last year", "5% to 10%", "core activities" ]
+List of time expressions in the input text:
+
+1. "next year's first quarter"
+2. "March 31"
+3. "last year"
+4. "early"
+5. "first quarter"

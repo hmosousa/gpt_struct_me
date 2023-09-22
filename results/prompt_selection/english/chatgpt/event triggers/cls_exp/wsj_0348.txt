@@ -1,1 +1,1 @@
-[["said", "Reporting"], ["jumped", "Occurrence"], ["soared", "Occurrence"], ["closed", "State"], ["began", "State"], ["has", "State"], ["reported", "Reporting"], ["rose", "Occurrence"]]
+[["said", "REPORTING"], ["jumped", "OCCURRENCE"], ["soared", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["began", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["has", "STATE"], ["has", "STATE"], ["reported", "REPORTING"], ["rose", "OCCURRENCE"]]

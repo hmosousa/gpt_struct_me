@@ -1,14 +1,1 @@
-[["Corpo de homem", "Date"], ["Corpo de homem", "Time"], ["Corpo de homem", "Duration"], ["Corpo de homem", "Set"]]
-Explanation:
-* "Corpo de homem" is the entity, and "Date" is the class. This is because the text mentions the date of the event, which is the discovery of the body.
-* "Corpo de homem" is the entity, and "Time" is the class. This is because the text mentions the time of day when the body was found, which is "hoje à tarde".
-* "Corpo de homem" is the entity, and "Duration" is the class. This is because the text does not mention the duration of time that the body was in the water, so there is no class for this information.
-* "Corpo de homem" is the entity, and "Set" is the class. This is because the text mentions the location where the body was found, which is a specific set of coordinates.
-
-Note:
-* The output is a JSON-parseable list, where each element is a list with twostrings. The first string is the entity, and the second string is the class.
-* The classes are defined as follows:
-	+ Date: The class for information about the date of an event.
-	+ Time: The class for information about the time of day when an event occurred.
-	+ Duration: The class for information about the duration of an event.
-	+ Set: The class for information about the location of an event.
+[["Corpo", "Person"], ["Lagoa", "Location"], ["hoje à tarde", "Time"], ["praia da Estaquinha", "Location"], ["Algarve", "Location"], ["Faro", "Location"], ["Portimão", "Location"], ["gabinete de medicina legal", "Location"], ["Polícia Marítima", "Organization"]]

@@ -1,18 +1,1 @@
-[
-  [
-    "Date",
-    "Date"
-  ],
-  [
-    "Time",
-    "Time"
-  ],
-  [
-    "Duration",
-    "Duration"
-  ],
-  [
-    "Set",
-    "Set"
-  ]
-]
+[["International Women's Day", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "DATE"], ["March eighth", "

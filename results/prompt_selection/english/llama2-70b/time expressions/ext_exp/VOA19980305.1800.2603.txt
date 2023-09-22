@@ -1,1 +1,1 @@
-["this coming Sunday", "March eighth", "twenty years", "seventy-five percent"]
+["Sunday", "March eighth", "twenty years", "seventy-five percent", "North America", "Europe", "Australia", "Pakistan", "Iran"]

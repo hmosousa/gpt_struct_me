@@ -1,8 +1,1 @@
-[
-"hoje",
-"à tarde",
-"em estado de coma",
-"hoje à tarde",
-"agora",
-"outras duas pessoas envolvidas nesta ocorrência sofreram ferimentos ligeiros"
-]
+["em estado de coma", "hoje à tarde", "hoje", "outras duas pessoas", "ambulância", "meios próprios", "bombeiros da corporação de Águas de Moura"]

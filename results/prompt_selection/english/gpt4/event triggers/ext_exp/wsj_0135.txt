@@ -1,1 +1,1 @@
-["expects net income in the year ending June 30, 1990, to fall below", "expects to post sales", "continues to face margin pressures and lower demand", "stock fell"]
+["expects", "fall", "post", "face", "earned", "fell", "trading", "said", "said", "said"]

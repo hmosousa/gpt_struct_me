@@ -1,13 +1,4 @@
-[
-["Trustcorp Inc.", "Date"],
-["Society Corp. of Cleveland", "Date"],
-["June", "Duration"],
-["year end", "Set"]
-]
+[["Society Corp.", "ORGANIZATION"], ["Trustcorp Inc.", "ORGANIZATION"], ["June", "MONTH"], ["year end", "DATE"]]
 
-Explanation:
-
-* Trustcorp Inc. is a date.
-* Society Corp. of Cleveland is a date.
-* June is a duration.
-* year end is a set.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

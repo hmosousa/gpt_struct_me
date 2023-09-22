@@ -1,1 +1,1 @@
-["homem", "ex-companheira", "Vila Nova de Gaia", "arma de fogo", "fonte da GNR", "Comando Territorial da GNR do Porto", "Rua da Figueirinha", "Grijó", "distrito do Porto", "Polícia Judiciária"]
+["Um homem", "a ex-companheira", "Vila Nova de Gaia", "detido", "a mesma arma", "fonte da GNR", "Fonte do Comando Territorial", "a GNR", "o crime", "cerca das 10:30", "a Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "distrito do Porto", "o homem", "62 anos", "A vítima", "20 anos", "a mulher", "a relação", "ambos", "10 anos", "O caso", "a alçada", "a Polícia Judiciária"]

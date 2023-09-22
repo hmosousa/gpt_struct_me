@@ -1,1 +1,1 @@
-[["Homem preso preventivamente", "Date"], ["47 anos de idade", "Duration"], ["Penafiel", "Set"], ["Ministério Público (MP)", "Set"], ["Penafiel", "Set"], ["mulher com quem vivia", "Time"], ["47 anos de idade", "Duration"], ["homem", "Set"], ["26 anos", "Duration"], ["2017", "Date"], ["via pública", "Set"], ["atualidade", "Date"]]
+[["Penafiel", "Location"], ["47 anos de idade", "Age"], ["26 anos", "Age"], ["2017", "Date"], ["atualidade", "Time"]]

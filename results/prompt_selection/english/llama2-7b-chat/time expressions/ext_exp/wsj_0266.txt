@@ -1,11 +1,4 @@
-[
-"about two years ago",
-"Oct. 23",
-"20th century",
-"the past century",
-"10 most significant events",
-"Harry Brown",
-"ourselves",
-"painfully thought out",
-"not the result of some inadvertence on the part of the SEC"
-]
+["Oct. 23", "2 years", "10 most significant events", "the 20th century", "Harry Brown", "ourselves", "painfully thought out", "not the result", "The Reserve Fund", "New York"]
+
+Format:
+JSON-parseable list of strings.

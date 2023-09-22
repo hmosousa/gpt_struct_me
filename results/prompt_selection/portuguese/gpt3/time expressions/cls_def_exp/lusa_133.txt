@@ -1,1 +1,1 @@
-[["segunda-feira", "Date"], ["77 quilos", "Duration"], ["313 quilos", "Duration"], ["37.500 euros", "Set"]]
+[["segunda-feira", "Date"], ["77 quilos", "Duration"], ["313 quilos", "Duration"], ["interdito o transporte e a captura desta espécie", "Time"]]

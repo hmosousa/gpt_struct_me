@@ -1,1 +1,9 @@
-["homem", "ex-companheira", "GNR"]
+
+Please provide the list of participants in the given text.
+
+Note:
+
+* Participants can be individuals, groups, or organizations.
+* Participants can have multiple roles or relationships to the event or state.
+* Participants can be explicitly mentioned or inferred from the context.
+* Participants can be identified by their actions, attributes, or relationships to other entities.

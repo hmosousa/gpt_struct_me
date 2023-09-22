@@ -1,11 +1,5 @@
-[
-"said",
-"continuing",
-"reached",
-"seeking",
-"is",
-"making",
-"standing",
-"reap",
-"accepting"
-]
+["said", "reached", "seeking", "alternatives", "unsolicited", "tender", "offer", "DIG", "Acquisition", "vehicle", "pursue", "accepting", "individual", "others", "reap", "more", "money", "sale", "individual", "units", "than", "accepting", "DIG's", "offer"]
+
+
+
+

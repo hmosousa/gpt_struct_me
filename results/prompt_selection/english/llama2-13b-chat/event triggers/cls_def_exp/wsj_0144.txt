@@ -1,33 +1,4 @@
-[
-["Travelers Corp.", "State"],
-["Hurricane Hugo", "Occurrence"],
-["California earthquake", "Occurrence"],
-["third-quarter", "Aspectual"],
-["earnings", "Intensional Action"],
-["commercial property/casualty lines", "Intensional Action"],
-["personal property/casualty business", "Intensional Action"],
-["group health insurance operations", "Intensional State"],
-["first nine months", "Aspectual"],
-["1988 period", "Aspectual"]
-]
-
-Explanation:
-
-1. Travelers Corp. - State (class)
-2. Hurricane Hugo - Occurrence (class)
-3. California earthquake - Occurrence (class)
-4. third-quarter - Aspectual (class)
-5. earnings - Intensional Action (class)
-6. commercial property/casualty lines - Intensional Action (class)
-7. personal property/casualty business - Intensional Action (class)
-8. group health insurance operations - Intensional State (class)
-9. first nine months - Aspectual (class)
-10. 1988 period - Aspectual (class)
+[["Travelers Corp.", "ORGANIZATION"], ["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"], ["earnings", "OCCURRENCE"], ["loss", "OCCURRENCE"], ["net income", "OCCURRENCE"], ["third-quarter", "OCCURRENCE"], ["revenue", "OCCURRENCE"], ["commercial property/casualty", "OCCURRENCE"], ["personal property/casualty", "OCCURRENCE"], ["employee benefits group", "OCCURRENCE"], ["group health insurance operations", "OCCURRENCE"], ["first nine months", "OCCURRENCE"], ["1988 period", "OCCURRENCE"], ["year-ago results", "OCCURRENCE"], ["underperforming real estate and mortgage loans", "EVENT"]]
 
 Note:
-
-* State: refers to a situation or condition that holds over a period of time.
-* Occurrence: refers to an event or incident that happens at a specific point in time.
-* Aspectual: refers to a situation or condition that is true at a specific point in time, but may not hold over a period of time.
-* Intensional Action: refers to an action or event that is performed or happens with a specific goal or intention.
-* Intensional State: refers to a situation or condition that is true at a specific point in time, and is the result of an action or event.
+The output is a list of entities and their corresponding classes, where each entity is represented as a string and each class is represented as a string. The entities are listed in the order they appear in the input text, and the classes are listed in the order they correspond to the entities. The output is in JSON format, which is a popular format for exchanging data between web servers and web applications.

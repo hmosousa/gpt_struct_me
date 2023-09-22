@@ -1,9 +1,37 @@
-"National Intergroup Inc. said it expects to report a charge of $5.3 million related to the sale of its aluminum unit's extrusion division for the third quarter.
-The company said it has agreed to sell the extrusion division for $15 million to R.D. Werner Co., a closely held firm based in Greenville, Pa.
-The charge is offset by an after-tax gain of about $30 million in the quarter from the previously announced pact to sell National Aluminum's rolling division.
-National Intergroup in the year-ago third quarter earned $22.5 million, or 97 cents a share, including a gain of $18 million from the sale of a steel tube company. Revenue was $778.6 million.
-The company also said it continues to explore all options concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky.
-The sale of the extrusion division is subject to audit adjustments for working capital changes through the closing.
-The agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years, depending on the plant's shipping levels.
-The extrusion unit produces bare and painted custom extrusions for building products and construction industries. In fiscal 1989, it had sales of about $40 million and an operating loss of $1.5 million."
+["National", "said", "expects", "charge", "million", "related", "sale", "aluminum", "division", "company", "agreed", "million", "pact", "rolling", "year-ago", "earned", "revenue", "explore", "sale", "stake", "smelter", "subject", "audit", "payments", "depending", "building", "construction", "fiscal", "loss", "bare", "painted", "custom", "products", "industries", "operating"]
 
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1993 crash of TWA Flight 800, which killed 230 people.
+The settlement, announced Monday, ends a 10-year legal battle over the cause of the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to

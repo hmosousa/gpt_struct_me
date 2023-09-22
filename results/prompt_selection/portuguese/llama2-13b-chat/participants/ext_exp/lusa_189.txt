@@ -1,4 +1,4 @@
-["Homem morto", "atirador em fuga"]
+[ "um homem", "morto a tiro", "no Barreiro", "dois tiros de caçadeira", "o atirador", "em fuga", "a Direção Nacional da Polícia de Segurança Pública (PSP)", "a mesma fonte", "indicou", "o incidente", "ocorreu", "às 20:20 de hoje", "não adiantando", "mais informações", "sobre as circunstâncias", "do tiroteio", "Disse apenas", "que tratando-se", "de uma suspeita de homicídio envolvendo armas de fogo", "a ocorrência", "está a ser acompanhada", "pela Polícia Judiciária", "responsável", "pelo investigação", "do caso"]
 
-Explanation:
-The task is to extract all participants mentioned in the text. In this case, there are two participants: "Homem morto" and "atirador em fuga". The output should be a JSON-parseable list of strings, where each string represents one participant.
+Note:
+The output should be a JSON-parseable list of strings, where each string represents a participant in the text. The list should include all participants, regardless of their role or function in the text.

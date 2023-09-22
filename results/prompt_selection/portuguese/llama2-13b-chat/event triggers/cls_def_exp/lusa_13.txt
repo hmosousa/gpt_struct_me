@@ -1,29 +1,6 @@
-[
-["Autoridades judiciais", "State"],
-["Maximiliano Trimarchi", "Occurrence"],
-["Diego Maradona", "Aspectual"],
-["San Isidro", "Location"],
-["San André", "Location"],
-["Leopoldo Luque", "Person"],
-["Agustina Cosachov", "Person"],
-["hematoma subdural", "Aspectual"],
-["inquérito", "State"]
-]
-
-Explanation:
-
-* Autoridades judiciais: State (the authorities are in a state of performing the searches)
-* Maximiliano Trimarchi: Occurrence (the search is an occurrence)
-* Diego Maradona: Aspectual (Maradona is the aspect of the event, as he is the one affected by the search)
-* San Isidro: Location (the place where the search was performed)
-* San André: Location (the place where Maradona died)
-* Leopoldo Luque: Person (the doctor who participated in the operation)
-* Agustina Cosachov: Person (the psiquiatra who participated in the operation)
-* hematoma subdural: Aspectual (the hematoma is an aspect of the event)
-* inquérito: State (the investigation is a state of the event)
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["aprender", "Reporting"], ["realizaram", "I_Action"], ["hoje", "Aspectual"], ["aprender", "Reporting"], ["ordenadas", "Occurrence"], ["saber", "Reporting"], ["Trimarchi", "I_Person"], ["estava", "Reporting"], ["Maradona", "I_Person"], ["morreu", "Occurrence"], ["participou", "I_Action"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["Leopoldo Luque", "I_Person"], ["Agustina Cosachov", "I_Person"], ["dois dias", "Aspectual"], ["morte de Maradona", "Occurrence"], ["justiça argentina", "State"], ["abriu", "I_Action"], ["inquérito", "State"], ["determinar", "I_Action"], ["negligência médica", "Occurrence"], ["assistência", "State"]]
 
 Note:
+The classes are based on the Penn Treebank tag set, but I adapted them to better fit the task at hand.
 
-* The output is a list of entities and their corresponding classes, where each entity is a string and each class is a string.
-* The entities are in the first column, and the classes are in the second column.
-* The classes are based on the definition of the event triggers provided in the task.
+Please let me know if you need any further clarification or details.

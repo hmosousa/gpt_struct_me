@@ -1,1 +1,8 @@
-["Encontrado corpo de homem", "a boiar", "na costa da Terceira", "desconhecendo-se as causas da morte", "alertado pelas 12:00 locais", "segunda-feira", "a presença do corpo de um homem", "numa área de domínio público marítimo", "o piquete da Polícia Marítima de Angra do Heroísmo", "o delegado de saúde", "o corpo de um homem de 62 anos", "cadáver", "retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "posteriormente transportado para o Hospital de Angra do Heroísmo", "será autopsiado para se apurar as causas da morte"]
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of an event trigger, with each string representing a specific event or action.
+* The events should be in the past tense, as they are describing past occurrences.
+* The list should include all the relevant events and actions described in the text, including the discovery of the body, the alert to the authorities, the confirmation of the body's presence, and the transportation of the body to the hospital.

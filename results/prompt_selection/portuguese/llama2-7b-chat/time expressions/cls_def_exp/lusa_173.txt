@@ -1,14 +1,1 @@
-[["Homem", "Date"], ["encontrado", "Time"], ["morto", "Duration"], ["em", "Set"]]
-Explanation:
-* "Homem" is a date expression, as it refers to a specific point in time (the discovery of the body).
-* "Encontrado" is a time expression, as it refers to the time when the body was found.
-* "Morto" is a duration expression, as it refers to the duration of time that the person was dead.
-* "Em" is a set expression, as it refers to a specific location (the interior of the cisterna).
-
-Note:
-* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
-* The classes are defined as follows:
-	+ Date: A time expression that refers to a specific point in time, such as the birth or death of a person.
-	+ Time: A time expression that refers to a specific time of day, such as "at 3 PM" or "in the evening".
-	+Duration: A time expression that refers to a specific length of time, such as "for 2 hours" or "for 5 years".
-	+ Set: A time expression that refers to a specific location, such as "in the living room" or "at the beach".
+[["homem", "Person"], ["encontrado", "Event"], ["em cisterna", "Location"], ["de camião", "Location"], ["em Estarreja", "Location"], ["hoje", "Date"], ["09:56", "Time"], ["Aveiro", "Location"], ["GNR", "Organization"], ["Delegada de Saúde", "Person"], ["Polícia Judiciária", "Organization"]]

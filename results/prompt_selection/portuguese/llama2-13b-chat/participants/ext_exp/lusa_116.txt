@@ -1,14 +1,3 @@
-["Jovem de 14 anos", "Proteção Civil", "Bombeiros da Vila das Aves", "Hospital São João", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR"]
+[ "Um jovem de 14 anos", "ficasse em estado grave", "ter sido atropelado", "por um autocarro", "na Vila das Aves", "concelho de Santo Tirso", "diz à Lusa fonte", "da Proteção Civil", "O jovem", "após ter sido assistido", "foi transportado", "pelos Bombeiros", "do Hospital São João", "no Porto", "acrescentou a fonte", "O acidente", "ocorreu às", "18:16", "na Rua Luís Gonzaga Mendes de Carvalho", "No local", "a prestar assistência", "para além dos Bombeiros", "esteve", "a Viatura Médica", "de Emergência e Reanimação", "de Vila Nova de Famalicão", "a Ambulância", "de Suporte Imediato", "de Vida", "de Santo Tirso", "e a GNR", "local", "diz à Lusa fonte", "da corporação"]
 
-Explanation:
-The task is to extract all participants mentioned in the text, which are:
-
-1. Jovem de 14 anos (the young boy who was hit by the car)
-2. Proteção Civil (Civil Protection)
-3. Bombeiros da Vila das Aves (Firefighters of the Vila das Aves)
-4. Hospital São João (St. John's Hospital)
-5. Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão (Medical Emergency and Resuscitation Vehicle of Vila Nova de Famalicão)
-6. Ambulância de Suporte Imediato de Vida de Santo Tirso (Immediate Support Ambulance of Vida de Santo Tirso)
-7. GNR (National Republican Guard)
-
-The output should be a JSON-parseable list of strings, with each string representing one participant.
+Please note that the output should be a JSON-parseable list of strings, where each string represents a participant in the event.

@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["Penafiel", "Set"], ["distrito do Porto", "Set"], ["de 39 anos", "Duration"], ["de 42 anos", "Duration"], ["residência", "Set"], ["local de trabalho", "Set"], ["por medida de proteção", "Set"], ["por teleassistência", "Set"], ["com antecedentes criminais", "Set"]]
+[]

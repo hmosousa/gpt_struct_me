@@ -1,23 +1,4 @@
-[
-["Israel", "State"],
-["Lebanon", "Occurrence"],
-["Benjamin Netanyahu", "Aspectual"],
-["U.N. Resolution 425", "Intensional Action"],
-["Michael Eitan", "Aspectual"],
-["Uri Lubrani", "Intensional Action"],
-["Hezbollah", "Occurrence"],
-["Syria", "State"]
-]
+[["withdraw", "OCCURRENCE"], ["soldiers", "OCCURRENCE"], ["Lebanon", "OCCURRENCE"], ["Israel", "OCCURRENCE"], ["security", "OCCURRENCE"], ["arrangements", "OCCURRENCE"], ["cooperate", "OCCURRENCE"], ["qualms", "OCCURRENCE"], ["withdrawal", "OCCURRENCE"], ["resolution", "OCCURRENCE"], ["defend", "OCCURRENCE"], ["north", "OCCURRENCE"], ["south", "OCCURRENCE"], ["peace", "OCCURRENCE"], ["normalization", "OCCURRENCE"], ["unilateral", "OCCURRENCE"], ["deaths", "OCCURRENCE"], ["soldiers", "OCCURRENCE"], ["Hezbollah", "OCCURRENCE"], ["guerrillas", "OCCURRENCE"], ["growing", "OCCURRENCE"], ["grassroots", "OCCURRENCE"], ["unilateral", "OCCURRENCE"], ["withdrawal", "OCCURRENCE"], ["Syria", "OCCURRENCE"], ["talks", "OCCURRENCE"], ["cut", "OCCURRENCE"], ["off", "OCCURRENCE"], ["defense", "OCCURRENCE"], ["minister", "OCCURRENCE"], ["U.N.", "OCCURRENCE"], ["resolution", "OCCURRENCE"], ["withdraw", "OCCURRENCE"], ["troops", "OCCURRENCE"], ["guarantees", "OCCURRENCE"], ["attacked", "OCCURRENCE"]]
 
-Explanation:
-
-1. Israel - State: The event is about the Israeli government's decision to withdraw from southern Lebanon.
-2. Lebanon - Occurrence: The event is about the ongoing conflict in southern Lebanon between Israel and Hezbollah.
-3. Benjamin Netanyahu - Aspectual: The event is about Netanyahu's statements regarding Israel's willingness to withdraw from southern Lebanon.
-4. U.N. Resolution 425 - Intensional Action: The event is about the implementation of the U.N. resolution calling for Israel's withdrawal from southern Lebanon.
-5. Michael Eitan - Aspectual: Eitan's remarks about Israel's willingness to defend its northern border.
-6. Uri Lubrani - Intensional Action: Lubrani's suggestion that Israel is willing to modify its political goals in Lebanon.
-7. Hezbollah - Occurrence: The event is about the actions of Hezbollah fighters in southern Lebanon.
-8. Syria - State: The event is about Syria's interest in resuming peace talks with Israel.
-
-Note: The classes are not mutually exclusive, and an event can belong to multiple classes. For example, the event "Israel's withdrawal from southern Lebanon" can be classified as both a "State" and an "Occurrence".
+Note:
+The output is a list of all the event triggers found in the input text, classified according to the eight classes you provided. Each event trigger is represented as a pair of strings, with the first string being the event trigger itself and the second string being the class to which it belongs. The classes are represented by their corresponding abbreviations (e.g., "OCCURRENCE" for occurrence).

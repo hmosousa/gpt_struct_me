@@ -1,1 +1,1 @@
-["Homem morre", "ciclomotor que conduzia ser colhido por veículo ligeiro", "alerta dado", "bombeiros mobilizados", "veículos das corporações de Palmela e Sapadores de Setúbal mobilizados", "viatura médica de emergência e reanimação (VMER) mobilizada", "PSP mobilizada"]
+["morreu", "colhido", "veículo ligeiro", "disseram", "indicou", "declarado", "encaminhado", "alerta", "mobilizados", "corporações", "viatura", "emergência", "reanimação", "PSP", "elementos", "apoiados", "veículos"]

@@ -1,1 +1,1 @@
-[["hoje à tarde", "Time"], ["hoje", "Date"], ["69 anos", "Duration"], ["São Bernardo", "Set"]]
+[["hoje à tarde", "Time"], ["hoje", "Date"], ["hoje", "Date"], ["à tarde", "Time"]]

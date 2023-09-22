@@ -1,24 +1,8 @@
-[
-["Mulher", "State"],
-["atropelada", "Occurrence"],
-["sem gravidade", "Aspectual"],
-["Torreira", "Location"],
-["Bombeiros", "Reporting"],
-["GNR", "Reporting"],
-["condutor", "Intensional Action"],
-["viatura", "Intensional Action"],
-["ferimentos", "Aspectual"],
-["hospital", "Location"]
-]
+[["mulher", "I_Action"], ["atropelada", "Occurrence"], ["sem gravidade", "State"], ["durante", "Aspectual"], ["protesto", "Occurrence"], ["mariscadores", "I_Action"], ["informaram", "Reporting"], ["bombeiros", "I_Action"], ["GNR", "I_Action"], ["caso", "Occurrence"], ["ocorreu", "Aspectual"], ["cais", "Location"], ["Torreira", "Location"], ["condutor", "I_Action"], ["viatura", "I_Action"], ["tentar", "I_Action"], ["saída", "I_Action"], ["forçou", "I_Action"], ["atropelou", "I_Action"], ["ferimentos", "State"], ["ligeiros", "State"], ["transportada", "I_Action"], ["hospital", "Location"], ["GNR", "I_Action"], ["se colocou", "I_Action"], ["fuga", "Occurrence"], ["identificado", "I_Action"], ["trabalhar", "I_Action"], ["detetadas", "Occurrence"], ["percentagens", "Occurrence"], ["excessivas", "Occurrence"], ["coliformes", "Occurrence"], ["ria", "Location"], ["Aveiro", "Location"]]
 
-Explanation:
+Note:
+The task is to extract and classify all event triggers in the text. The event triggers are the words or phrases that indicate the occurrence of an event or action. The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
 
-* "Mulher" is a State entity, and "atropelada" is an Occurrence trigger.
-* "sem gravidade" is an Aspectual trigger.
-* "Torreira" is a Location entity.
-* "Bombeiros" and "GNR" are both Reporting entities.
-* "condutor" is an Intensional Action entity, and "viatura" is an Intensional Action trigger.
-* "ferimentos" is an Aspectual trigger.
-* "hospital" is a Location entity.
+For example, in the first text, the event triggers are: "Covi-19", "erros", "quarentena", "mortes", "desculpa", "levaram", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null.
 
-Note: The output is a JSON-parseable list, where each element is alist of two strings, representing the entity and the class.
+The classes are: State (Covi-19, mortes, estado em grande parte livre, registada, caso, transmissão comunitária), Occurrence (erros, quarentena, divulgação, explicou, implementado, investigação, desencadearam, infeções), Reporting (desculpa, disse, fraco controlo), Perception (Quero, pedir), Aspectual (começou, aceitar), Intensional Action (pedir, desculpa), Intensional State (quarentena, estado).

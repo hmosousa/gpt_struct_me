@@ -1,28 +1,7 @@
-[
-["GNR", "Date"],
-["12.300", "Quantity"],
-["122", "Duration"],
-["segunda-feira", "Date"],
-["hoje", "Date"],
-["Beja", "Location"],
-["Mértola", "Location"],
-["Estrada Nacional", "Location"],
-["36", "Quantity"],
-["haxixe", "Duration"]
-]
+[["segunda-feira", "Date"], ["hoje", "Date"], ["hoje", "Date"], ["Estrada Nacional 122", "Time"], ["Mértola", "Time"], ["30 nov 2020", "Date"], ["12.300", "Duration"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Please note that the input text is in Portuguese.
 
-* "GNR" is a date expression, referring to the Guarda Nacional Republicana (National Republican Guard), which is a Portuguese military police force.
-* "12.300" is a quantity expression, representing the number of doses of haxixe (a drug) that were seized.
-* "122" is a duration expression, referring to the Estrada Nacional 122 (National Road 122), where the suspect was stopped.
-* "segunda-feira" is a date expression, meaning "Monday" in Portuguese.
-* "hoje" is a date expression, meaning "today" in Portuguese.
-* "Beja" is a location expression, referring to the city of Beja, where the suspect was taken for questioning.
-* "Mértola" is a location expression, referring to the town of Mértola, where the suspect was stopped.
-* "Estrada Nacional" is a location expression, referring to the National Road, where the suspect was stopped.
-* "36" is a quantity expression, representing the age of the suspect.
-* "haxixe" is a duration expression, referring to the drug that was seized.
+Also, the output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
 
-The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class (Date, Quantity, Duration, Location, or Set).
+Please, extract and classify all time expressions in the given text.

@@ -1,6 +1,1 @@
-[
-["Aug. 9", "Date"],
-["the fiscal-first quarter ended Sept. 30", "Date"],
-["a year ago", "Date"],
-["a year earlier", "Date"]
-]
+[["Aug. 9", "DATE"], ["the annual meeting", "DATE"], ["the fiscal-first quarter ended Sept. 30", "DATE"], ["a year ago", "DATE"], ["a year earlier", "DATE"]]

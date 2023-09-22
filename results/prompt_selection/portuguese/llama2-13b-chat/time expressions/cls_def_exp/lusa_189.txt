@@ -1,21 +1,6 @@
-[
-["Homem morto", "Date"],
-["hoje", "Date"],
-["20:20", "Time"],
-["sexta-feira", "Date"],
-["agência Lusa", "Set"],
-["Direção Nacional da Polícia de Segurança Pública (PSP)", "Set"]
-]
-
-Explanation:
-
-* "Homem morto" is a noun phrase and its class is "Date" because it refers to a specific point in time (the moment when the man was killed).
-* "hoje" is an adverb and its class is "Date" because it modifies the noun phrase "Homem morto" and indicates the day when the event occurred.
-* "20:20" is a time expression and its class is "Time" because it indicates the time when the event occurred.
-* "sexta-feira" is a noun phrase and its class is "Date" because it refers to a specific day of the week.
-* "agência Lusa" and "Direção Nacional da Polícia de Segurança Pública (PSP)" are noun phrases and their class is "Set" because they are sets of entities (i.e., organizations) that are involved in the event.
+[["homem", "Entity"], ["morto", "Entity"], ["a tiro", "Duration"], ["no Barreiro", "Location"], ["atirador", "Entity"], ["em fuga", "Duration"], ["20:20", "Time"], ["hoje", "Date"], ["incidente", "Event"]]
 
 Note:
-
-* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity (e.g., "Homem morto") and the second string is the class (e.g., "Date").
-* The input text is in Portuguese, and the output is in English.
+- The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+- The input text may contain multiple instances of the same entity or class, and the output should reflect this.
+- The input text may also contain entities or classes that are not relevant to the task at hand, and the output should not include these.

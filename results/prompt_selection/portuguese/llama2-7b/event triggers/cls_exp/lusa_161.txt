@@ -1,10 +1,20 @@
-[
-  ["Homem", "Occurrence"],
-  ["Homem", "State"],
-  ["Homem", "Reporting"],
-  ["Homem", "Perception"],
-  ["Homem", "Aspectual"],
-  ["Homem", "Intensional Action"],
-  ["Homem", "Intensional State"]
-]
+[["mata", "I_Action"], ["ex-companheira", "State"], ["tiro", "Occurrence"], ["morte", "Occurrence"], ["com", "Occurrence"], ["tentar", "Reporting"], ["suicídio", "Occurrence"], ["arma", "State"], ["fogo", "State"], ["disparo", "Occurrence"], ["homem", "State"], ["detido", "Reporting"], ["em", "State"], ["altura", "State"], ["estaria", "Reporting"], ["tentar", "Reporting"], ["arma", "State"], ["homem", "State"], ["com", "Occurrence"], ["vítima", "State"], ["20", "Occurrence"], ["anos", "Occurrence"], ["vítima", "State"], ["homem", "State"], ["cometido", "Reporting"], ["crime", "State"], ["em", "State"], ["retaliação", "Reporting"], ["por", "Occurrence"], ["optar", "Reporting"], ["para", "State"], ["terminar", "Reporting"], ["relação", "State"], ["mantiveram", "State"], ["10", "Occurrence"], ["anos", "Occurrence"], ["caso", "State"], ["passou", "Aspectual"], ["alçada", "State"], ["Polícia", "State"], ["Judiciária", "State"]]
 
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China está a fazer um esforço gigantesco para conter a propagação do novo coronavírus, que já matou 262 pessoas e contaminou mais de 14 mil.
+A China

@@ -1,1 +1,1 @@
-[["next year's first quarter", "Date"], ["the year ended March 31", "Date"], ["last year", "Date"]]
+[["next year's first quarter", "DATE"], ["last year", "DATE"], ["the year ended March 31", "DATE"]]

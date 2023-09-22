@@ -1,26 +1,3 @@
-[
-["Homem", "Person"],
-["Ministério Público", "Organization"],
-["Penafiel", "Location"],
-["mulher", "Person"],
-["Polícia Judiciária", "Organization"],
-["instituição de acolhimento", "Facility"],
-["arguido", "Person"],
-["suspeito", "Person"],
-["vítima", "Person"],
-["MP", "Organization"],
-["comarca de Porto-Este", "Location"],
-["PJ", "Organization"]
-]
-]
+[["um juiz de instrução", "Per"], ["a prisão preventiva", "Other"], ["um homem", "Per"], ["a mulher", "Per"], ["o Ministério Público", "Org"], ["Penafiel", "Loc"], ["a Polícia Judiciária", "Org"], ["o MP", "Org"], ["a vítima", "Per"], ["a instituição de acolhimento", "Fac"], ["o arguido", "Per"], ["a exploração sexual", "Other"], ["a prática", "Other"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"]]
 
-Note:
-The input text is in Portuguese.
-The output should be in English.
-The classes used are the ones provided in the task description.
-The entities and classes should be in lowercase.
-The output should be a JSON-parseable list.
-The entities and classes should be separated by a comma.
-The output should not include any punctuation or special characters.
-The output should only include the entities and classes that are relevant to the task.
-The output should not include any duplicates.
+Please note that the input text is in Portuguese.

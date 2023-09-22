@@ -1,7 +1,1 @@
-[
-["this coming Sunday", "Date"],
-["March eighth", "Date"],
-["twenty years", "Duration"],
-["the past twenty years", "Duration"],
-["today", "Date"]
-]
+[["Sunday, March eighth", "DATE"], ["twenty years", "DURATION"], ["today", "DATE"], ["the past twenty years", "DURATION"]]

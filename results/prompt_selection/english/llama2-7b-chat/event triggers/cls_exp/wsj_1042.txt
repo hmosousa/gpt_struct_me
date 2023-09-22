@@ -1,12 +1,1 @@
-[
-{
-"State", "Declared dividend"
-"Occurrence", "Issuance of warrants"
-"Reporting", "Said"
-"Perception", "Issuance of warrants"
-"Aspectual", "Issuance of warrants"
-"Intensional Action", "Issued"
-"Intensional State", "Common shares outstanding"
-"Intensional State", "Class C warrants issued"
-"Intensional State", "Additional warrants issued"
-]
+[["declared", "OCCURRENCE"], ["said", "REPORTING"], ["dividend", "OCCURRENCE"], ["one", "OCCURRENCE"], ["warrant", "OCCURRENCE"], ["each", "OCCURRENCE"], ["three", "OCCURRENCE"], ["common", "OCCURRENCE"], ["based", "OCCURRENCE"], ["Santa", "OCCURRENCE"], ["Monica", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["1", "OCCURRENCE"], ["million", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["each", "OCCURRENCE"], ["holder", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["share", "OCCURRENCE"], ["common", "OCCURRENCE"], ["$5.50", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["date", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["243", "OCCURRENCE"], ["677", "OCCURRENCE"]]

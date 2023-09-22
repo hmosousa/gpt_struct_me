@@ -1,7 +1,1 @@
-[
-"will become",
-"merger is completed",
-"agreed",
-"buy",
-"transaction is expected to close"
-]
+["become", "completed", "said", "agreed", "buy", "expected", "close"]

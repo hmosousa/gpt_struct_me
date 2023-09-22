@@ -1,14 +1,1 @@
-[
-  ["Homem", "Person"],
-  ["Penafiel", "Location"],
-  ["Ministério Público", "Organization"],
-  ["Polícia Judiciária", "Organization"],
-  ["instituição de acolhimento", "Facility"],
-  ["mulher", "Person"],
-  ["arguido", "Person"],
-  ["PJ", "Organization"],
-  ["suspeito", "Person"],
-  ["MP", "Organization"],
-  ["Porto-Este", "Location"],
-  ["Penafiel", "Location"]
-]
+[["Um juiz de instrução", "Per"], ["a prisão preventiva", "Other"], ["um homem", "Per"], ["47 anos de idade", "Other"], ["o Ministério Público (MP)", "Org"], ["Penafiel", "Loc"], ["hoje", "Other"], ["fonte policial", "Org"], ["a Polícia Judiciária", "Org"], ["o homem", "Per"], ["o juiz de instrução", "Per"], ["indicação", "Other"], ["o MP", "Org"], ["a vítima", "Per"], ["26 anos", "Other"], ["uma instituição de acolhimento", "Fac"], ["pessoas", "Per"], ["este tipo de crime", "Other"], ["A mulher", "Per"], ["comunhão de vida", "Other"], ["2017", "Other"], ["o arguido", "Per"], ["exploração sexual", "Other"], ["a via pública", "Loc"], ["os proveitos", "Other"], ["essa prática", "Other"], ["a polícia", "Org"], ["a vítima", "Per"], ["algumas vezes", "Other"], ["a sujeição", "Other"], ["o suspeito", "Per"], ["o produto estupefaciente", "Obj"], ["o qual", "Other"], ["o arguido", "Per"], ["o MP", "Org"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"], ["o homem", "Per"], ["os crimes", "Other"], ["tráfico de pessoas para exploração sexual", "Other"], ["sequestro", "Other"], ["violação", "Other"]]

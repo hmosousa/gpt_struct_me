@@ -1,16 +1,1 @@
-[
-"25% of the staff",
-"early this week",
-"the next three quarters",
-"first nine months",
-"Hurricane Hugo payments",
-"future payments"
-]
-
-Explanation:
-
-* "25% of the staff" is a time expression indicating a proportion of the staff that will be laid off.
-* "early this week" is a time expression indicating when the employees were told about the layoffs.
-* "the next three quarters" is a time expression indicating when the after-tax charge will be spread.
-* "first nine months" is a time expression indicating the time period over which earnings were earned.
-* "Hurricane Hugo payments" and "future payments" are time expressions indicating when payments will be made.
+["early this week", "next three quarters", "first nine months", "Hurricane Hugo payments", "future payments", "recent quarters"]

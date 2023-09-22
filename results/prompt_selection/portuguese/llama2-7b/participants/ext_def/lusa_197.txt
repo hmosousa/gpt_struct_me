@@ -30,4 +30,16 @@ const extractParticipants = (text) => {
   const participantsRegex8 = /(^|\s)(\w+)/g;
   const participantsRegex9 = /(^|\s)(\w+)/g;
   const participantsRegex10 = /(^|\s)(\w+)/g;
-  const participantsRegex11 = /(^|\s)(\w
+  const participantsRegex11 = /(^|\s)(\w+)/g;
+  const participantsRegex12 = /(^|\s)(\w+)/g;
+  const participantsRegex13 = /(^|\s)(\w+)/g;
+  const participantsRegex14 = /(^|\s)(\w+)/g;
+  const participantsRegex15 = /(^|\s)(\w+)/g;
+  const participantsRegex16 = /(^|\s)(\w+)/g;
+  const participantsRegex17 = /(^|\s)(\w+)/g;
+  const participantsRegex18 = /(^|\s)(\w+)/g;
+  const participantsRegex19 = /(^|\s)(\w+)/g;
+  const participantsRegex20 = /(^|\s)(\w+)/g;
+  const participantsRegex21 = /(^|\s)(\w+)/g;
+  const participantsRegex22 = /(^|\s)(\w+)/g;
+  const participantsRegex23 = /(^|\s)

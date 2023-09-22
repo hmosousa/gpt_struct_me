@@ -1,191 +1,31 @@
-[
-  ["Person", "Person"],
-  ["Organization", "Organization"],
-  ["Object", "Object"],
-  ["Location", "Location"],
-  ["Nature", "Nature"],
-  ["Facility", "Facility"],
-  ["Other", "Other"]
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[["homem", "Per"], ["a boiar", "Other"], ["o mar", "Loc"], ["na praia da Estaquinha", "Loc"], ["o concelho de Lagoa", "Loc"], ["o Algarve", "Loc"], ["a praia de Lagoa", "Loc"], ["o distrito de Faro", "Loc"], ["a praia", "Loc"], ["a marina de Portimão", "Loc"], ["a delegada de saúde", "Org"], ["a Polícia Marítima", "Org"], ["a ocorrência", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque dizem que o ataque terrorista foi planejado
+Autoridades de Nova Iorque dizem que o ataque terrorista que matou 8 pessoas e feriu outras 11 na cidade de Nova Iorque foi planejado.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saipov, um homem de 29 anos que veio dos Estados Unidos para o ataque.
+O ataque foi perpetrado por Sayfullo Saip

@@ -1,11 +1,1 @@
-[
-"Aug. 9",
-"Sept. 30",
-"a year ago"
-]
-
-Explanation:
-
-* "Aug. 9" is a date expression.
-* "Sept. 30" is a date expression.
-* "a year ago" is a time expression indicating a year prior to the current date.
+["Aug. 9", "Sept. 30", "12 Canadian cents a share", "50% of the then current market price", "4.7 million Canadian dollars ($4 million)", "14 Canadian cents a share", "307.2 a year earlier", "348.2 million"]

@@ -1,7 +1,1 @@
-[
-"homem de 39 anos",
-"ex-companheira, de 42 anos",
-"GNR",
-"mulher",
-"homem"
-]
+["um homem", "39 anos", "Penafiel", "district do Porto", "um homem", "42 anos", "ex-companheira", "GNR", "a autoridade policial", "o suspeito", "a separação", "a perseguição", "a residência", "o local de trabalho", "uma mulher", "um botão de pânico", "medida de proteção", "teleassistência", "antecedentes criminais", "o homem", "proibido de contactar", "a vítima"]

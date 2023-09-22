@@ -1,17 +1,16 @@
-[
-["hoje", "Date"],
-["20:20", "Time"],
-["20:20", "Duration"],
-["hoje", "Date"],
-["20:20", "Time"],
-["20:20", "Duration"]
-]
+[["hoje", "Date"], ["20:20", "Time"], ["hoje", "Date"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Note:
+The input text is in Portuguese.
 
-* "hoje" (today) is a date expression and should be classified as such.
-* "20:20" (8:20 PM) is a time expression and should be classified as such.
-* "20:20" (8:20 PM) is also a duration expression, as it represents a specific point in time, and should be classified as such.
+Hint:
+You can use the following resources to help you with this task:
 
-The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.
+* Natural Language Toolkit (NLTK)
+* spaCy
+* Stanford CoreNLP
+* OpenNLP
+
+You can also use online resources such as language models and dictionaries to help you identify time expressions.
+
+Note that the input text is in Portuguese, so you may need to use resources that are specifically designed for that language.

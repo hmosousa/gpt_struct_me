@@ -1,7 +1,1 @@
-[
-"Homem de 47 anos de idade",
-"Mulher de 26 anos",
-"Juiz de instrução",
-"Ministério Público (MP)",
-"Polícia Judiciária"
-]
+["um homem", "47 anos", "uma mulher", "26 anos", "o Ministério Público", "Penafiel", "a Polícia Judiciária", "o MP", "a comarca de Porto-Este", "Penafiel"]

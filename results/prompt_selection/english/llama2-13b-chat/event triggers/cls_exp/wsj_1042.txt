@@ -1,22 +1,12 @@
-[
-["Avon", "State"],
-["Avon", "Occurrence"],
-["Avon", "Reporting"],
-["Avon", "Perception"],
-["Avon", "Aspectual"],
-["Avon", "Intensional Action"],
-["Avon", "Intensional State"]
-]
+[["AVON RENT-A-CAR amp TRUCK Corp.", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["dividend", "OCCURRENCE"], ["one", "OCCURRENCE"], ["warrant", "OCCURRENCE"], ["three", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["outstanding", "STATE"], ["based", "OCCURRENCE"], ["Santa Monica", "LOCATION"], ["Calif.", "LOCATION"], ["issued", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["$5.50", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["warrants", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["rate", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains the entity and the class label. The classes are:
 
-* "Avon" is the entity.
-* "State" refers to the fact that the company declared a dividend.
-* "Occurrence" refers to the event of declaring a dividend.
-* "Reporting" refers to the fact that the company reported the declaration of a dividend.
-* "Perception" refers to the fact that the company's action of declaring a dividend is perceived by the public.
-* "Aspectual" refers to the fact that the dividend is payable in shares of common stock.
-* "Intensional Action" refers to the company's action of issuing warrants.
-* "Intensional State" refers to the fact that the company has 3.3 million common shares outstanding.
-
-Note: The output is a list of tuples, where each tuple contains two strings: the first string is the entity (in this case, "Avon"), and the second string is the class (one of the seven classes listed above).
+* OCCURRENCE: Events or actions that happen or are performed.
+* STATE: Properties or characteristics of entities.
+* REPORTING: Information or statements that are reported or communicated.
+* PERCEPTION: Perceptions or interpretations of events or information.
+* ASPECTUAL: Aspects or features of entities or events.
+* INTENSIONAL ACTION: Actions or events that are intended or planned.
+* INTENSIONAL STATE: States or properties that are intended or planned.

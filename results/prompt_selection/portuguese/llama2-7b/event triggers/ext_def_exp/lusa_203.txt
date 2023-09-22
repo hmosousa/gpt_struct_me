@@ -1,55 +1,23 @@
-["Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China",
-"Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.",
-"O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o suspeito sido identificado pelos media com o sobrenome Yang.",
-"O suspeito foi detido, mas o motivo do ataque permanece desconhecido.",
-"A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros.",
-"Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade.",
-"Em ataques anteriores, umsegurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte.",
-"Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim."]
+["mata", "sete", "pessoas", "fere", "sete", "com", "facas", "nordeste", "China", "least", "seven", "people", "were", "killed", "others", "seven", "injured", "in", "attack", "with", "knives", "Kaiyuan", "province", "Liaoning", "perpetrated", "door", "sauna", "spa", "suspect", "identified", "media", "Yang", "detained", "motive", "unknown", "Chinese", "law", "prohibits", "sale", "possession", "weapons", "mass", "killings", "usually", "carried", "out", "knives", "explosives", "homemade", "past", "attackers", "described", "mentally", "ill", "society", "preceding", "incidents", "2018", "man", "killed", "person", "injured", "center", "commercial", "Beijing"]
 
-Explanation:
+Format:
+JSON-parseable list of strings.
 
-### 1.
-
-```
-"Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China"
-```
-
-### 2.
-
-```
-"Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais."
-```
-
-### 3.
-
-```
-"O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendoo suspeito sido identificado pelos media com o sobrenome Yang."
-```
-
-### 4.
-
-```
-"O suspeito foi detido, mas o motivo do ataque permanece desconhecido."
-```
-
-### 5.
-
-```
-"A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros."
-```
-
-### 6.
-
-```
-"Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade."
-```
-
-### 7.
-
-```
-"Em ataques anteriores, um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte."
-```
-
-### 8.
-
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena na China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena, numa medida que se estendeu para mais de 100 cidades.
+A medida foi tomada para evitar a propagação do novo coronavírus, que já matou mais de 1.000 pessoas na China.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China já havia fechado 11 cidades e 50 milhões de pessoas em quarentena, mas a medida foi estendida para mais de 100 cidades.
+A medida foi tomada após a China

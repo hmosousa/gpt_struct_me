@@ -1,1 +1,1 @@
-["hoje", "à tarde", "este", "ano"]
+["à tarde", "hoje à tarde", "este domingo", "domingo", "15 novembro", "15 novembro", "2020"]

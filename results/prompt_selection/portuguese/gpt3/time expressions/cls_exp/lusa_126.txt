@@ -1,1 +1,1 @@
-[["sábado", "Date"], ["no decorrer de uma ação de patrulhamento", "Duration"], ["34 e os 43 anos", "Set"], ["no concelho de Sines", "Time"]]
+[["sábado", "Date"], ["tráfico de estupefacientes", "Set"], ["1.570 doses de heroína", "Duration"], ["103 doses de cocaína", "Duration"], ["844 euros em numerário", "Duration"], ["quatro telemóveis", "Duration"], ["Tribunal Judicial de Santiago do Cacém", "Set"]]

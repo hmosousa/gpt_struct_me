@@ -1,15 +1,30 @@
-[
-["For The World", "Occurrence"],
-["this is Pamela McCall in the BBC news room in London", "State"],
-["More heavy gunfire in the Serbian province of Kosovo", "Occurrence"],
-["It's the second day of an offensive by the security forces against villages populated by ethnic Albanians", "Occurrence"],
-["BBC correspondent Karyn Coleman reports from Kosovo", "Reporting"],
-["There were more accounts of people fleeing from the villages near where the offensive was taking place", "Occurrence"],
-["They were too afraid to stay, fearing the forces may also move their operations further afield", "Intensional State"],
-["By mid afternoon, official Serb sources were saying the operation was over", "Occurrence"],
-["but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", "Occurrence"],
-["The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", "Intensional State"]
-]
+[["Pamela McCall", "REPORTING"], ["Kosovo", "OCCURRENCE"], ["security forces", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["ethnic Albanians", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["offensive", "OCCURRENCE"], ["afraid", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["official Serb sources", "REPORTING"], ["Belgrade", "OCCURRENCE"], ["capital of Serbia", "OCCURRENCE"], ["planned", "I_ACTION"], ["ethnic Albanians", "OCCURRENCE"], ["witnessing", "OCCURRENCE"], ["beginnings", "OCCURRENCE"], ["much wider conflict", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["Pristina", "OCCURRENCE"]]
 
-Explanation:
-The first element, "For The World", is an occurrence as it refers to a specific event or situation. The second element, "this is Pamela McCall in the BBC news room in London", is a state as it describes a specific condition or situation that exists at a particular time. The third element, "More heavy gunfire in the Serbian province of Kosovo", is an occurrence as it refers to a specific event or situation. The fourth element, "It's the second day of an offensive by the security forces against villages populated by ethnic Albanians", is an occurrence as it refers to a specific event or situation. The fifth element, "BBC correspondent Karyn Coleman reports from Kosovo", is reporting as it refers to the act of providing information or commentary on a particular event or situation. The sixth element, "There were more accounts of people fleeing from the villages near where the offensive was taking place", is an occurrence as it refers to a specific event or situation. The seventh element, "They were too afraid to stay, fearing the forces may also move their operations further afield", is an intensional state as it refers to a specific mental state or attitude of the people in question. The eighth element, "By mid afternoon, official Serb sources were saying the operation was over", is an occurrence as it refers to a specific event or situation. The ninth element, "but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", is an occurrence as it refers to a specific event or situation. The tenth element, "The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", is an intensional state as it refers to a specific mental state or attitude of the ethnic Albanians in question.
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+Note:
+The input text is a sample and the task is to extract and classify all event triggers in the text.
+
+Note:
+Event triggers are words or phrases that indicate the occurrence of an event.
+
+Note:
+The classes are:
+
+* State: Indicates the state of something.
+* Occurrence: Indicates that something is happening or has happened.
+* Reporting: Indicates that someone is reporting on an event or situation.
+* Perception: Indicates that someone is perceiving or observing an event or situation.
+* Aspectual: Indicates the aspect or nature of an event or situation.
+* Intensional Action: Indicates the intention or purpose behind an action or event.
+* Intensional State: Indicates the state of something that is intended or desired.
+
+Note:
+The output should be a list of tuples, where each tuple contains the entity and its corresponding class.
+
+Note:
+The entities and classes should be in lowercase.
+
+Note:
+The output should be in the format of a JSON-parseable list.

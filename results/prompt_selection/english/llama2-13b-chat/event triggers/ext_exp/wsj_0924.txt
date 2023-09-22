@@ -1,1 +1,12 @@
-["poison pill triggered", "rights issued", "additional shares bought", "securities or assets received"]
+[
+"adopted",
+"poison pill",
+"rights plan",
+"hostile bidder",
+"current market price",
+"board's discretion",
+"net income",
+"fiscal-first quarter",
+"net loss",
+"sales"
+]

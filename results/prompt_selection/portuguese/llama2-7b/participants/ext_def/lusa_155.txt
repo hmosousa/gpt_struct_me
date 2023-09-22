@@ -43,7 +43,7 @@ No instances:
   - "uma"
   - "garrafa"
   - "num"
-  -"restaurante"
+  - "restaurante"
   - "em"
   - "Palmela"
 

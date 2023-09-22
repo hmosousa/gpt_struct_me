@@ -1,8 +1,1 @@
-[
-{entity: "AVON RENT-A-CAR amp TRUCK Corp", class: "State"},
-{entity: "Common stock", class: "Aspectual"},
-{entity: "Class C warrants", class: "Intensional Action"},
-{entity: "Class A warrants", class: "Intensional Action"},
-{entity: "Class B warrants", class: "Intensional Action"},
-{entity: "Warrants", class: "Aspectual"}
-]
+[["declared", "OCCURRENCE"], ["said", "REPORTING"], ["dividend", "OCCURRENCE"], ["one", "OCCURRENCE"], ["warrant", "OCCURRENCE"], ["each", "OCCURRENCE"], ["three", "OCCURRENCE"], ["based", "OCCURRENCE"], ["Santa", "OCCURRENCE"], ["Monica", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["About", "OCCURRENCE"], ["1", "OCCURRENCE"], ["million", "OCCURRENCE"], ["Class", "OCCURRENCE"], ["C", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["each", "OCCURRENCE"], ["holder", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["share", "OCCURRENCE"], ["common", "OCCURRENCE"], ["$5.50", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["date", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["243", "OCCURRENCE"], ["677", "OCCURRENCE"]]

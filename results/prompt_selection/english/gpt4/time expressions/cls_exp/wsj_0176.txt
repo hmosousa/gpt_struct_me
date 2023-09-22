@@ -1,6 +1,1 @@
-[
-["this week", "Set"],
-["the next three quarters", "Duration"],
-["the first nine months", "Duration"],
-["recent quarters", "Duration"]
-]
+[["early this week", "DATE"], ["the next three quarters", "DURATION"], ["the first nine months", "DURATION"], ["recent quarters", "DURATION"]]

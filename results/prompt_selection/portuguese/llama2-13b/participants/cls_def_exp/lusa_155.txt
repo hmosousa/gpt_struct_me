@@ -1,85 +1,17 @@
-[
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
-  ["Person", "Organization"],
- 
+[["um homem", "Per"], ["de 69 anos", "Per"], ["um restaurante", "Obj"], ["em Cajados", "Loc"], ["no concelho de Palmela (Setúbal)", "Loc"], ["um estabelecimento", "Obj"], ["uma garrafa", "Obj"], ["uma mulher", "Per"], ["aparentemente embriagada", "Other"], ["se pôs em fuga conduzindo um automóvel", "Other"], ["a agressão", "Other"], ["o proprietário do restaurante", "Per"], ["não querer que a mulher estivesse a consumir bebidas alcoólicas", "Other"], ["a via pública", "Other"], ["o consumo de álcool", "Other"], ["o estabelecimento", "Obj"], ["o hospital de São Bernardo", "Obj"], ["a guarda", "Org"], ["a agressão", "Other"], ["outras duas pessoas", "Other"], ["envolvidas nesta ocorrência", "Other"], ["sofreram ferimentos ligeiros", "Other"], ["ambas", "Other"], ["transportadas também para o hospital de São Bernardo", "Other"], ["uma de ambulância", "Obj"], ["outra por meios próprios", "Other"], ["mobilizados para o local", "Other"], ["bombeiros da corporação de Águas de Moura", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 20 anos é morto a tiro em uma rua de Lisboa
+Um homem de 20 anos foi morto a tiro, às 22h30 de ontem, numa rua de Lisboa, no bairro de Campo de Ourique, informou a Polícia Judiciária.
+O homem foi encontrado com ferimentos de arma de fogo, no interior de um carro, na rua de São José, freguesia de São José, em Lisboa.
+A Polícia Judiciária informou que o homem foi levado para o Hospital de Santa Maria, onde foi declarado morto.
+A Polícia Judiciária está a investigar o caso, que envolve um homem de 20 anos, de nacionalidade portuguesa, que foi encontrado morto a tiro, às 22h30 de ontem, numa rua de Lisboa, no bairro de Campo de Ourique.
+O homem foi encontrado com ferimentos de arma de fogo, no interior de um carro, na rua de São José, freguesia de São José, em Lisboa.
+A Polícia Judiciária informou que o homem foi levado para o Hospital de Santa Maria, onde foi declarado morto.
+A Polícia Judiciária está a investigar o caso."
+
+Output:
+[["um homem", "Per"], ["de 20 anos", "Per"], ["morto a tiro", "Other"], ["às 22h30 de ontem", "Other"], ["numa rua de Lisboa", "Loc"], ["no bairro de Campo de Ourique", "Loc"], ["um carro", "Obj"], ["na rua de São José", "Loc"], ["freguesia de São José", "Loc"], ["o Hospital de Santa Maria", "Obj"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Judiciária", "Org"], ["a Polícia Jud

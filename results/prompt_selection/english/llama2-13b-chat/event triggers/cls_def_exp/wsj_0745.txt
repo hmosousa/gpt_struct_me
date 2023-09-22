@@ -1,23 +1,4 @@
+[["General Motors Corp.", "OCCURRENCE"], ["Jaguar PLC", "OCCURRENCE"], ["Ford Motor Co.", "OCCURRENCE"], ["Britain", "OCCURRENCE"], ["U.S.", "OCCURRENCE"], ["London's stock exchange", "OCCURRENCE"], ["Conservative government", "OCCURRENCE"], ["golden share", "OCCURRENCE"], ["15%", "OCCURRENCE"], ["anti-takeover barrier", "OCCURRENCE"], ["speculators", "OCCURRENCE"], ["institutional investors", "OCCURRENCE"], ["Jaguar management", "OCCURRENCE"], ["Britoil PLC", "OCCURRENCE"], ["British Petroleum Co.", "OCCURRENCE"], ["Detroit", "OCCURRENCE"], ["House of Commons", "OCCURRENCE"], ["House of Lords", "OCCURRENCE"], ["Coventry", "OCCURRENCE"], ["Sir John Egan", "OCCURRENCE"], ["Prime Minister Margaret Thatcher", "OCCURRENCE"]]
 
-[
-["General Motors Corp.", "State"],
-["Jaguar PLC", "State"],
-["Ford Motor Co.", "State"],
-["Britain", "Location"],
-["Conservative government", "State"],
-["Kenneth Warren", "Person"],
-["Margaret Thatcher", "Person"],
-["Sir John Egan", "Person"],
-["Britoil PLC", "Company"],
-["British Petroleum Co.", "Company"]
-]
-
-Explanation:
-
-* General Motors Corp. is in a state of considering purchasing Jaguar shares.
-* Jaguar PLC is in a state of being considered for purchase by General Motors Corp.
-* Ford Motor Co. is in a state of being prepared to bid for Jaguar.
-* Britain is the location where Jaguar is headquartered and where the government has a "golden share" in the company.
-* The Conservative government is in a state of considering whether to relax the anti-takeover barrier prematurely.
-* Kenneth Warren, Margaret Thatcher, and Sir John Egan are all people who are involved in the situation with Jaguar and the potential bidding war.
-* Britoil PLC and British Petroleum Co. are companies that have been involved in previous takeover attempts.
+Note:
+The output is a list of entities and their corresponding classes, where each entity is a string and each class is a string. The entities are in the order they appear in the input text, and the classes are based on the categories you provided.

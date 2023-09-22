@@ -1,7 +1,15 @@
-["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.", "Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."]
+["Di", "Giorgio", "Corp.", "said", "it's", "continuing", "talks", "with", "potential", "buyers", "of", "certain", "units", "has", "reached", "no", "agreement", "on", "any", "deals", "Di", "Giorgio", "food", "wholesaler", "building", "products", "maker", "seeking", "alternatives", "unsolicited", "tender", "offer", "DIG", "Acquisition", "Rose", "Partners", "Limited", "Partnership", "DIG", "vehicle", "pursue", "acquisition", "Robert", "Mellor", "company", "stands", "reap", "money", "individual", "units", "others", "accepting", "DIG's", "offer"]
 
-Explanation:
-The first event is the sentence "Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals."
-The second event is the sentence "Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition."
-The third event is the sentence "Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."
+"""
 
+import json
+import re
+
+def extract_events(text):
+    events = []
+    for event in re.finditer(r'([a-z]+)', text):
+        events.append(event.group(0))
+    return events
+
+if __name__ == '__main__':
+    print extract_events(json.loads(open('input.txt').read())['text'])

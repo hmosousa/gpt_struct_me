@@ -6,3 +6,16 @@ Some analysts have said Courtaulds' moves could boost the company's value by 5% 
 Courtaulds has been under pressure to enhance shareholder value since takeover speculators -- including Australian financier Kerry Packer -- surfaced holding small stakes last year. Though Mr. Packer has since sold his stake, Courtaulds is moving to keep its institutional shareholders happy. Even without a specific takeover threat, Courtaulds is giving shareholders "choice and value," said Julia Blake, an analyst at London stockbrokers Barclays de Zoete Wedd.
 In a statement, the company said: "Both parts can only realize their full potential and be appropriately valued by the market if they are separately quoted companies. The sharper definition and the autonomy which each will thereby gain will benefit shareholders, customers and employees."
 Courtaulds Chairman and Chief Executive Sir Christopher Hogg will remain in both posts at the surviving chemical company after the spinoff.""]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department is considering selling the stock in a public offering, according to a person familiar with the matter. The stock is currently worth about $15 a share.
+The Treasury Department bought the stock in 1991 as part of a $3 billion bailout of Citicorp, which was then the nation's largest bank. The bailout was arranged by the Federal Deposit Insurance Corp. and the Resolution Trust Corp., which were created to clean up the savings and loan industry.
+The Treasury Department has been selling off its Citicorp stock in small blocks over the past few years. The department has sold 20 million shares of Citicorp stock since 1994, raising about $300 million.
+The Treasury Department is also considering selling its 100 million shares of BankAmerica Corp. stock, which is currently worth about $30 a share. The department bought the stock in 1991 as part of a $1.5 billion bailout of BankAmerica.
+The Treasury Department has sold about 20 million shares of BankAmerica stock since 1994, raising about $600 million.
+The Treasury Department is also considering selling its 100 million shares of Chase Manhattan Corp. stock, which is currently worth about $30 a share. The department bought the stock in 1991 as part of a $1.5 billion bailout of Chase Manhattan.
+The Treasury Department has sold about 20

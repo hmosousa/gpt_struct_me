@@ -1,1 +1,1 @@
-["Homem morre", "ciclomotor que conduzia ser colhido por veículo ligeiro", "óbito do homem foi declarado", "corpo sido encaminhado para o serviço de Medicina legal", "alerta foi dado", "foram mobilizados bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER), além da PSP"]
+["morre", "conduzia", "colhido", "veículo ligeiro", "disserram", "declarado", "encaminhado", "alerta", "dado", "mobilizados", "bombeiros", "veículos", "corporações", "viatura médica", "emergência", "reanimação", "PSP", "apoiados"]

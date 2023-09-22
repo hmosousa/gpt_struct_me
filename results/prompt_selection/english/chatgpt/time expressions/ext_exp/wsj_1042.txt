@@ -1,1 +1,1 @@
-["currently", "until 90 days after their issue date"]
+["90 days", "additional 243,677"]

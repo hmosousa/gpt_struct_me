@@ -1,1 +1,1 @@
-[["Ogden Projects Inc.", "State"], ["net", "Occurrence"], ["income", "Reporting"], ["jumped", "Perception"], ["$6.6 million", "Aspectual"], ["or", "Intensional Action"], ["18 cents a share", "Intensional State"]]
+[["jumped", "OCCURRENCE"], ["had", "STATE"], ["began", "ASPECTUAL"], ["closed", "PERCEPTION"], ["trading", "I_ACTION"], ["interests", "I_STATE"], ["operation", "I_STATE"], ["reported", "REPORTING"], ["income", "I_STATE"]]

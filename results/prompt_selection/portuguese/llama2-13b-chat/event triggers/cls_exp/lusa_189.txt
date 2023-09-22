@@ -1,28 +1,7 @@
-[
-["Homem", "State"],
-["Morto", "Occurrence"],
-["Tiro", "Occurrence"],
-["Barreiro", "Location"],
-["Atirador", "Aspectual"],
-["Fuga", "Aspectual"],
-["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"],
-["Incidente", "Aspectual"],
-["Circunstâncias", "Aspectual"],
-["Tiroteio", "Aspectual"],
-["Polícia Judiciária", "Organization"]
-]
+[["homem", "I_Action"], ["morto", "Occurrence"], ["a tiro", "Occurrence"], ["no Barreiro", "Location"], ["baleado", "Occurrence"], ["com dois tiros de caçadeira", "Occurrence"], ["o atirador está em fuga", "State"], ["disse", "Reporting"], ["à agência Lusa", "Reporting"], ["fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "Reporting"], ["o incidente ocorreu", "Occurrence"], ["às 20:20 de hoje", "Time"], ["não adiantando", "Reporting"], ["mais informações sobre as circunstâncias do tiroteio", "Reporting"], ["disse apenas", "Reporting"], ["tratando-se de uma suspeita de homicídio envolvendo armas de fogo", "State"], ["a ocorrência está a ser acompanhada pela Polícia Judiciária", "State"]]
 
-Explanation:
+Note:
+The classes are the same as in the previous task.
 
-* "Homem" and "Morto" are both State entities, as they describe the physical state of the person.
-* "Tiro" is an Occurrence entity, as it is a specific event that happened.
-* "Barreiro" is a Location entity, as it provides information about where the event took place.
-* "Atirador" is an Aspectual entity, as it describes the person who performed the action of shooting.
-* "Fuga" is an Aspectual entity, asit describes the action of the atirador fleeing.
-* "Direção Nacional da Polícia de Segurança Pública (PSP)" is an Organization entity, as it is a specific entity that is involved in the event.
-* "Incidente" is an Aspectual entity, as it describes the event itself.
-* "Circunstâncias" is an Aspectual entity, as it provides additional information about the event.
-* "Tiroteio" is an Aspectual entity, as it describes the specific type of event that occurred.
-* "Polícia Judiciária" is an Organization entity, as it is responsible for investigating the event.
-
-Note: In this example, the output is a list of entities and their corresponding classes, where each entity is represented by a string and the class is represented by a string. The entities are listed in the order they appear in the input text, and the classes are listed in the order they are mentioned in the input text.
+Hint:
+You can use the same approach as in the previous task, but pay attention to the fact that some entities may have multiple classes. For example, "homem" can be both "I_Action" and "Aspectual".

@@ -1,41 +1,4 @@
-[
-["Travelers Corp.", "Date"],
-["third-quarter", "Date"],
-["11%", "Time"],
-["$40 million", "Duration"],
-["$94.2 million", "Time"],
-["89 cents a share", "Time"],
-["$31 million", "Duration"],
-["$10 million", "Duration"],
-["last month", "Time"],
-["fourth-quarter", "Date"],
-["less than $10 million", "Duration"],
-["59%", "Time"],
-["$7.2 million", "Duration"],
-["$6.1 million", "Time"],
-["$24 million", "Time"],
-["compared with a loss of $3 million", "Duration"],
-["the 1988 period", "Date"],
-["$415 million", "Duration"]
-]
+[["Travelers Corp.", "ORGANIZATION"], ["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"], ["1988", "DATE"], ["1988 second quarter", "DATE"], ["$415 million", "NUMBER"], ["$306 million", "NUMBER"], ["$195 million", "NUMBER"], ["$7.2 million", "NUMBER"], ["$6.1 million", "NUMBER"], ["$40 million", "NUMBER"], ["$3 billion", "NUMBER"], ["$3.2 billion", "NUMBER"], ["$10 million", "NUMBER"], ["$3 million", "NUMBER"], ["$24 million", "NUMBER"], ["$85 million", "NUMBER"], ["$83 cents", "NUMBER"], ["$94.2 million", "NUMBER"], ["$83 cents a share", "NUMBER"], ["$89 cents a share", "NUMBER"]]
 
-Explanation:
-
-* "Travelers Corp." is a Date entity.
-* "third-quarter" is a Date entity.
-* "11%" is a Time entity.
-* "$40 million" is a Duration entity.
-* "$94.2 million" is a Time entity.
-* "89 cents a share" is a Time entity.
-* "$31 million" is a Duration entity.
-* "$10 million" is a Duration entity.
-* "last month" is a Time entity.
-* "fourth-quarter" is a Date entity.
-* "less than $10 million" is a Duration entity.
-* "59%" is a Time entity.
-* "$7.2 million" is a Duration entity.
-* "$6.1 million" is a Time entity.
-* "$24 million" is a Time entity.
-* "compared with a loss of $3 million" is a Duration entity.
-* "the 1988 period" is a Date entity.
-* "$415 million" is a Duration entity.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

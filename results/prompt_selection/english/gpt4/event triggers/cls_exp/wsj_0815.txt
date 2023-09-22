@@ -1,11 +1,1 @@
-[
-["continuing talks", "Occurrence"],
-["reached", "State"],
-["seeking", "Intensional Action"],
-["tender offer", "Occurrence"],
-["being used", "State"],
-["pursue", "Intensional Action"],
-["stands to reap", "Intensional State"],
-["sale", "Occurrence"],
-["accepting", "Intensional Action"]
-]
+[["said", "REPORTING"], ["continuing", "ASPECTUAL"], ["reached", "OCCURRENCE"], ["seeking", "I_STATE"], ["offer", "OCCURRENCE"], ["used", "OCCURRENCE"], ["pursue", "I_ACTION"], ["said", "REPORTING"], ["stands", "STATE"], ["reap", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["accepting", "I_STATE"]]

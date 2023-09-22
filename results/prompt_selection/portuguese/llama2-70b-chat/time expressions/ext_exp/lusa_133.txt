@@ -1,8 +1,1 @@
-[
-"segunda-feira",
-"390 quilogramas",
-"37.500 euros",
-"77 quilos",
-"313 quilos",
-"auto de contraordenação"
-]
+["segunda-feira", "30 nov 2020", "37.500 euros", "setembro", "final do ano", "menos de uma semana"]

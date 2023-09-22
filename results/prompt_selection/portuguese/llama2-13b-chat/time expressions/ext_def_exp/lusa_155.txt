@@ -1,9 +1,11 @@
-["hoje", "à tarde", "em estado de coma", "hoje à tarde", "onze"]
+["em estado de coma", "hoje à tarde", "hoje", "outras duas pessoas", "ambulância", "meios próprios", "agosto", "2020"]
 
-Explanation:
+Hint:
+There are several types of time expressions in the text, such as:
 
-* "hoje" is a time expression indicating the current day.
-* "à tarde" is a time expression indicating the afternoon.
-* "em estado de coma" is a medical expression indicating the patient's condition.
-* "hoje à tarde" is a time expression indicating the current afternoon.
-* "onze" is a time expression indicating the hour of 11.
+* Specific times (e.g. "hoje à tarde")
+* Time periods (e.g. "em estado de coma")
+* Time frames (e.g. "final do ano")
+* Time intervals (e.g. "menos de uma semana")
+
+Please note that the output should be a JSON-parseable list of strings, where each string represents a time expression.

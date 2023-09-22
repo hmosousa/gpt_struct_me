@@ -1,1 +1,1 @@
-[["last week", "Date"], ["yesterday", "Date"], ["Tuesday", "Date"], ["late trading", "Time"], ["Dec. 31, 1990", "Date"], ["next 14 months", "Duration"], ["1984", "Date"], ["1988", "Date"], ["This week", "Date"], ["Tuesday", "Date"], ["In the end", "Set"]]
+[["late trading", "TIME"], ["yesterday", "DATE"], ["Tuesday", "DATE"], ["Dec. 31, 1990", "DATE"], ["1984", "DATE"], ["1988", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"], ["over lunch", "TIME"]]

@@ -1,18 +1,1 @@
-[
-["apreendeu", "Occurrence"],
-["captura", "State"],
-["levar", "Intensional Action"],
-["revelou", "Reporting"],
-["ocorreu", "Occurrence"],
-["controlar", "Intensional Action"],
-["refere", "Reporting"],
-["encontraram", "Occurrence"],
-["localizar", "Intensional Action"],
-["acrescenta", "Reporting"],
-["identificados", "Perception"],
-["elaborado", "Intensional Action"],
-["punível", "State"],
-["apreendido", "State"],
-["considerado", "State"],
-["doado", "Intensional Action"]
-]
+[["apreendeu", "I_Action"], ["quilogramas", "State"], ["captura", "State"], ["interdita", "State"], ["coima", "State"], ["porto de pesca costeira", "State"], ["revelou", "Reporting"], ["comunicado", "Occurrence"], ["apreensão", "State"], ["segunda-feira", "State"], ["ação de fiscalização", "State"], ["cumprimento", "State"], ["regras", "State"], ["descarga", "State"], ["transporte", "State"], ["comercialização", "State"], ["regime de primeira venda", "State"], ["pescado fresco", "State"], ["nota de imprensa", "State"], ["operação", "State"], ["militares", "State"], ["veículo", "State"], ["quilos", "State"], ["embarcação de pesca", "State"], ["diligências", "State"], ["localizar", "I_Action"], ["condutor", "State"], ["mestre", "State"], ["elaborado", "Reporting"], ["auto de contraordenação", "State"], ["transporte", "State"], ["captura", "State"], ["espécie", "State"], ["infração", "State"], ["coima", "State"], ["pescado apreendido", "State"], ["controlo higiossanitário", "State"], ["considerado", "State"], ["doado", "I_Action"], ["instituição de solidariedade social", "State"], ["comunicado", "Occurrence"]]

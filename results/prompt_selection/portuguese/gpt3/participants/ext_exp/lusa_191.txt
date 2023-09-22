@@ -1,1 +1,1 @@
-["Homem", "29 anos", "Comando Metropolitano de Lisboa (Cometlis)", "vítima", "dois indivíduos", "arma branca", "suspeito do crime", "Avenida Almirante Reis", "Polícia Judiciária (PJ)", "forças policiais"]
+["Um homem de 29 anos", "um desentendimento", "a PSP", "o Comando Metropolitano de Lisboa (Cometlis)", "o esfaqueamento", "a rua Ângela Pinto", "um café", "dois indivíduos", "uma arma branca", "o suspeito do crime", "Avenida Almirante Reis", "a Polícia Judiciária (PJ)", "fonte da polícia", "as forças policiais", "fitas de segurança"]

@@ -1,23 +1,14 @@
-[
-["Homem de 48 anos", "State"],
-["acidente de trabalho", "Occurrence"],
-["Vilarinhos dos Galegos", "Location"],
-["Mogadouro", "Location"],
-["Bragança", "Location"],
-["Lusa", "Organization"],
-["bombeiros de Mogadouro", "Organization"],
-["José Carrasco", "Person"],
-["ambulância de Suporte Imediato de Vida", "Object"],
-["Viatura Medica de Emergência e Reanimação", "Object"],
-["Instituto Nacional e Emergência Médica", "Organization"],
-["GNR de Mogadouro", "Organization"]
-]
+[["morre", "I_Action"], ["vítima", "State"], ["acidente", "Occurrence"], ["trabalhava", "Reporting"], ["ferimentos", "Occurrence"], ["falecer", "I_Action"], ["ambulância", "I_Action"], ["socorro", "I_Action"], ["meios", "I_Action"], ["alerta", "Occurrence"], ["INEM", "Occurrence"], ["helicóptero", "I_Action"], ["GNR", "Occurrence"]]
 
 Note:
-- "Homem de 48 anos" and "acidente de trabalho" are the main entities and events of the text.
-- "Vilarinhos dos Galegos" and "Mogadouro" are locations where the event occurred.
-- "Lusa" is an organization that reported the event.
-- "bombeiros de Mogadouro" and "GNR de Mogadouro" are organizations involved in the response to the event.
-- "José Carrasco" is a person involved in the response to the event.
-- "ambulância de Suporte Imediato de Vida" and "Viatura Medica de Emergência e Reanimação" are objects used in the response to the event.
-- "Instituto Nacional e Emergência Médica" is an organization that provided the helicopter used in the response to the event.
+The classes are based on the Penn Treebank tag set, and the entities are based on the spaCy entity recognition model. The classes are:
+
+* I_Action: actions and events
+* I_State: states and conditions
+* Occurrence: events and happenings
+* Reporting: reporting and description
+* Aspectual: aspectual information
+* Intensional Action: intentional actions
+* Intensional State: intentional states
+
+Please let me know if you have any questions or need further clarification.

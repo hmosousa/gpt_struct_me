@@ -1,13 +1,1 @@
-[
-["encontrado", "Occurrence"],
-["revelou", "Reporting"],
-["caído", "Occurrence"],
-["dado o alerta", "Reporting"],
-["ativada", "Occurrence"],
-["procedeu à recolha", "Occurrence"],
-["transportando-o", "Occurrence"],
-["declarado", "Reporting"],
-["transportado", "Occurrence"],
-["especificou", "Reporting"],
-["tomou conta", "Occurrence"]
-]
+[["encontrado", "Perception"], ["boiar", "State"], ["revelou", "Reporting"], ["caído", "Occurrence"], ["praticava", "Aspectual"], ["dado", "Reporting"], ["alerta", "State"], ["avistamento", "Perception"], ["ativada", "Occurrence"], ["procedeu", "I_Action"], ["recolha", "I_Action"], ["transportando-o", "I_Action"], ["declarado", "Reporting"], ["transportado", "Aspectual"], ["tomou", "I_Action"], ["ocorrência", "Occurrence"]]

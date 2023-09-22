@@ -1,17 +1,9 @@
-[
-["Trustcorp Inc.", "State"],
-["Society Corp. of Cleveland", "Occurrence"],
-["Society Corp.", "Reporting"],
-["the bank", "Perception"],
-["the transaction", "Intensional Action"],
-["$450 million", "Intensional State"]
-]
+[["Society Corp.", "ORGANIZATION"], ["Trustcorp Inc.", "ORGANIZATION"], ["Society Bank amp Trust", "ORGANIZATION"], ["merger", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["market value", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["close", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity mentioned in the text, and the second string is the class label for that entity. The classes are:
 
-* Trustcorp Inc. is in the state of being acquired by Society Corp.
-* Society Corp. of Cleveland is the location where the occurrence of the merger will take place.
-* Society Corp. is reporting the merger.
-* "the bank" is a perception of the entity that is being acquired.
-* The transaction is an intensional action that will result in the change of Trustcorp Inc. to Society Bank amp Trust.
-* The amount of $450 million is an intensional state of the transaction.
+* ORGANIZATION: for entities that are organizations (such as companies, corporations, etc.)
+* OCCURRENCE: for events, actions, or happenings that occur in the text
+
+The input text is a news article about a merger between two companies, Society Corp. and Trustcorp Inc. The output shows the entities mentioned in the text, along with their corresponding class labels.

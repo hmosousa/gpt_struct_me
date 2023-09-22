@@ -1,15 +1,1 @@
-[
-["GNR", "Organization"],
-["Mértola", "Location"],
-["mulher de 36 anos", "Person"],
-["concelho alentejano de Mértola", "Location"],
-["distrito de Beja", "Location"],
-["Tribunal Judicial de Beja", "Organization"],
-["Estrada Nacional 122", "Location"],
-["vila de Mértola", "Location"],
-["militares da GNR", "Person"],
-["viatura", "Object"],
-["12.300 doses de haxixe", "Object"],
-["veículo", "Object"],
-["telemóvel", "Object"]
-]
+[["GNR", "Org"], ["suspeita de tráfico de droga", "Per"], ["12.300 doses de haxixe", "Obj"], ["Mértola", "Loc"], ["uma mulher de 36 anos", "Per"], ["crime de tráfico de droga", "Other"], ["12.300 doses de haxixe", "Obj"], ["o concelho alentejano de Mértola", "Loc"], ["distrito de Beja", "Loc"], ["A mulher", "Per"], ["militares do Posto Territorial de Mértola", "Per"], ["Tribunal Judicial de Beja", "Org"], ["medidas de coação", "Other"], ["GNR", "Org"], ["comunicado", "Obj"], ["a força de segurança", "Org"], ["uma ação de patrulhamento", "Other"], ["Estrada Nacional 122", "Loc"], ["vila de Mértola", "Loc"], ["a suspeita", "Per"], ["uma viatura", "Obj"], ["comportamento nervoso", "Other"], ["militares da GNR", "Per"], ["Os militares", "Per"], ["uma busca à viatura", "Other"], ["uma revista à mulher", "Other"], ["droga", "Obj"], ["12.300 doses de haxixe", "Obj"], ["o veículo", "Obj"], ["um telemóvel", "Obj"]]

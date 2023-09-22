@@ -1,1 +1,1 @@
-["annual", "fourth-quarter", "the year ended Aug. 31", "last year", "earlier this year"]
+["fourth-quarter", "the year ended Aug. 31", "last year", "1988", "earlier this year"]

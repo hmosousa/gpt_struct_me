@@ -1,14 +1,1 @@
-[
-"hoje",
-"10:54",
-"14:34"
-]
-
-Explanation:
-The input text contains several time expressions:
-
-* "hoje" (today)
-* "10:54" (the time when the stabbing occurred)
-* "14:34" (the time when the crime scene was preserved)
-
-The output is a list of these time expressions in a JSON-parseable format.
+["hoje", "10:54", "14:34", "30 nov 2020"]

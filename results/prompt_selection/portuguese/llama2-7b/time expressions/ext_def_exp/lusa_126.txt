@@ -1,1 +1,49 @@
-["2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2020-01-26T00:00:00Z", "2
+["sábado", "sábado", "1.673 doses de estupefacientes", "1.570 doses de heroína", "103 doses de cocaína", "844 euros em numerário", "veículo", "quatro telemóveis"]
+
+Explanation:
+The time expressions are:
+	"em menos de uma semana", "sábado", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "época de veda", "épocas de veda"
+
+Examples:
+	["em menos de uma semana", "sábado", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "época de veda", "épocas de veda"]
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	filePath := os.Args[1]
+
+	if err := extractTimeExpressions(filePath); err != nil {
+		log.Fatal(err)
+	}
+}
+
+func extractTimeExpressions(filePath string) error {
+	file, err := os.Open(filePath)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	lines := strings.Split(file.ReadAll(), "\n")
+
+	for _, line := range lines {
+		if strings.Contains(line, "em menos de uma semana") {
+			fmt.Println(line)
+		}
+	}
+
+	return nil
+}

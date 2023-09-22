@@ -1,25 +1,8 @@
-[
-["last Wednesday", "Date"],
-["301 million", "Amount"],
-["53.2%", "Percentage"],
-["internal resources", "Duration"],
-["related Orkem businesses", "Set"]
-]
-
-Explanation:
-last Wednesday - Date
-301 million - Amount
-53.2% - Percentage
-internal resources - Duration
-related Orkem businesses - Set
+[["Wednesday", "DATE"], ["last Wednesday", "DATE"], ["#301 million", "AMOUNT"], ["53.2%", "PERCENTAGE"], ["internal resources", "SET"], ["U.K.", "GEO"], ["French", "LANGUAGE"], ["British", "LANGUAGE"]]
 
 Note:
-The output format is a JSON-parseable list. The first element in each sublist is the entity, and the second is the class.
+The first item in the output list is the entity recognized in the input text, and the second item is the class or category that the entity belongs to. The classes or categories are not mutually exclusive, and an entity may belong to more than one class.
 
-In this task, you are given a text containing temporal expressions, and you need to extract and classify them into four classes: Date, Time, Duration, and Set. The output should be a JSON-parseable list where each element is a sublist containing the entity and its corresponding class.
+The input text may contain more than one entity of the same class. For example, in the first input text, there are two DATE entities: "Friday" and "Thursday".
 
-For example, in the given input text, "last Wednesday" should be classified as a Date, "301 million" as an Amount, "53.2%" as a Percentage, "internal resources" as a Duration, and "related Orkem businesses" as a Set.
-
-Note that the classes are not mutually exclusive, and a single temporal expression can belong to multiple classes. For instance, "last Wednesday" can also be classified as a Time, depending on the context.
-
-Your task is to write a program that can extract and classify temporal expressions in a given text and output them in the specified format.
+The output list is in JSON format, which is a lightweight, human-readable, and easy-to-parse format for exchanging data between web servers and web applications.

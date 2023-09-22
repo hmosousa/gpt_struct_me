@@ -1,1 +1,1 @@
-["Nov. 22", "last May", "two years", "yesterday's announcement"]
+["Nov. 22", "April", "May", "last May", "yesterday's", "Thursday", "Wednesday", "two years", "25 cents", "37.5 Canadian cents", "C$16.40", "C$17.50", "C$8.5 million", "C$12.875", "US$666 million", "Wednesday", "Thursday"]

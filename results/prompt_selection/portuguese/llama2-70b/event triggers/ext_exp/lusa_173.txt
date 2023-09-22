@@ -1,1 +1,1 @@
-["homem", "morto", "cisterna", "camiao", "estarreja"]
+["homem", "morto", "cisterna", "camão", "funcionário", "Transportadora J Amaral", "Estarreja", "hoje", "interior", "camão", "dito", "GNR", "Aveiro", "alerta", "fazendo", "manutenção", "desaparecido", "sábado", "comandante", "Bombeiros", "Joaquim Rebelo", "aberta", "graduado", "determinar", "causa", "morte", "Delegada", "Saúde", "Polícia Judiciária", "tomou", "ocorrência", "Viatura", "Médica", "Emergência", "Reanimação", "Aveiro", "transporte", "cadávo", "Hospital Infante D. Pedro"]

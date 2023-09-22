@@ -1,1 +1,1 @@
-[["sete", "Set"], ["outubro", "Date"], ["dezembro", "Date"]]
+[["setembro", "Time"], ["final do ano", "Time"]]

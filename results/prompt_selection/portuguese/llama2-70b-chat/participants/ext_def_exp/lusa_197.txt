@@ -1,11 +1,1 @@
-[
-"homem de 52 anos",
-"outro homem",
-"grua de camião",
-"poste de iluminação",
-"vítima",
-"funcionário de bombas de gasolina",
-"PSP",
-"Comando Metropolitano da PSP do Porto",
-"Hospital de Santo António"
-]
+["um homem de 52 anos", "um outro", "um camião", "um poste de eletricidade", "a Rua da Constituição", "o Porto", "a PSP", "o Comando Metropolitano", "a PSP", "a vítima", "o Hospital de Santo António", "o funcionário", "umas bombas de gasolina", "o acidente", "cerca das 07:50"]

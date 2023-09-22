@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["10:30", "Time"], ["10 anos", "Duration"]]
+[["hoje", "Date"], ["10:30", "Time"], ["Grijó", "Set"], ["Vila Nova de Gaia", "Set"], ["Porto", "Set"], ["Rua da Figueirinha", "Set"], ["Grijó", "Set"], ["Vila Nova de Gaia", "Set"], ["Porto", "Set"]]

@@ -1,32 +1,16 @@
-[
-["this coming Sunday", "Date"],
-["March eighth", "Date"],
-["twenty years", "Duration"],
-["seventy-five percent", "Duration"],
-["the past twenty years", "Duration"],
-["today", "Date"],
-["the right to work", "Set"],
-["the right to survival", "Set"],
-["a nation of widows", "Set"],
-["their families", "Set"],
-["international aid", "Set"],
-["the capital Kabul", "Location"],
-["the women of Kabul", "Set"],
-["Afghanistan", "Location"],
-["peace and justice", "Set"]
-]
+[["Sunday", "DATE"], ["March eighth", "DATE"], ["twenty years", "DURATION"], ["seventy-five percent", "SET"], ["Afghanistan", "DATE"], ["Pakistan", "DATE"], ["Iran", "DATE"], ["Europe", "DATE"], ["Australia", "DATE"], ["North America", "DATE"], ["Kabul", "DATE"], ["Afghan", "DATE"]]
 
-Explanation:
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-* "this coming Sunday" and "March eighth" are both dates and are classified as such.
-* "twenty years" is a duration and is classified as such.
-* "seventy-five percent" is a duration and is classified as such.
-* "the past twenty years" is a duration and is classified as such.
-* "today" is a date and is classified as such.
-* "the right to work" and "the right to survival" are both sets of rights and are classified as such.
-* "a nation of widows" and "their families" are both sets of people and are classified as such.
-* "international aid" is a set of resources and is classified as such.
-* "the capital Kabul" is a location and is classified as such.
-* "the women of Kabul" is a set of people and is classified as such.
-* "Afghanistan" is a location and is classified as such.
-* "peace and justice" is a set of concepts and is classified as such.
+Note:
+The input text may contain multiple entities of the same class. For example, "Afghanistan" may be mentioned multiple times in the text as a DATE. In this case, the output should contain multiple entities with the same class, like ["Afghanistan", "DATE"] multiple times.
+
+Note:
+The input text may contain entities that are not dates, times, durations, or sets. In this case, the output should not include these entities.
+
+Note:
+The input text may contain dates, times, durations, or sets that are not relevant to the task. In this case, the output should not include these entities.
+
+Note:
+The output should be in the format of a JSON-parseable list.

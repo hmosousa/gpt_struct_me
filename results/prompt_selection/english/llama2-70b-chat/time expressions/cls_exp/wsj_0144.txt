@@ -1,42 +1,8 @@
-[
-["Travelers Corp.'s", "Date"],
-["third-quarter", "Duration"],
-["$40 million", "Amount"],
-["$94.2 million", "Amount"],
-["89 cents a share", "Amount"],
-["$31 million", "Amount"],
-["$10 million", "Amount"],
-["last month", "Duration"],
-["less than $10 million", "Amount"],
-["$7.2 million", "Amount"],
-["$6.1 million", "Amount"],
-["$24 million", "Amount"],
-["$3 million", "Amount"],
-["$306 million", "Amount"],
-["$195 million", "Amount"],
-["$415 million", "Amount"]
-]
+[["Travelers Corp.", "DATE"], ["third-quarter", "DATE"], ["Hurricane Hugo", "DATE"], ["$40 million", "AMOUNT"], ["$94.2 million", "AMOUNT"], ["$31 million", "AMOUNT"], ["$3 billion", "AMOUNT"], ["$10 million", "AMOUNT"], ["less than $10 million", "AMOUNT"], ["$7.2 million", "AMOUNT"], ["$6.1 million", "AMOUNT"], ["$24 million", "AMOUNT"], ["$3 million", "AMOUNT"], ["$415 million", "AMOUNT"], ["1988", "DATE"], ["1988 second quarter", "DATE"]]
 
 Note:
-The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
-
-In this task, you are given a text and asked to extract and classify all time expressions. The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
-
-The classes in this task are:
-
-* Date: This class includes all expressions that represent a specific date or a range of dates.
-* Time: This class includes all expressions that represent a specific time or a duration of time.
-* Duration: This class includes all expressions that represent a duration of time, such as "3 months" or "2 years".
-* Set: This class includes all expressions that represent a specific set of time, such as "the first quarter" or "the third month".
-
-Your task is to extract and classify all time expressions in the given text. The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
-
-For example, in the text "Travelers Corp.'s third-quarter net income rose 11%", the time expression is "third-quarter" and it belongs to the class "Duration". Therefore, the output for this expression would be [["third-quarter", "Duration"]].
-
-Similarly, the time expression "last month" belongs to the class "Duration" and the output for this expression would be [["last month", "Duration"]].
-
-The time expression "$40 million" belongs to the class "Amount" and the output for this expression would be [["$40 million", "Amount"]].
-
-Note that some expressions may belong to multiple classes. For example, "Travelers Corp.'s earnings from commercial property/casualty lines fell 59% in the latest quarter" contains two time expressions: "latest quarter" and "59%". The first expression belongs to the class "Duration" and the second expression belongs to the class "Amount". Therefore, the output for this expression would be [["latest quarter", "Duration"], ["59%", "Amount"]].
-
-Your output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+The date class is used for any date that is not a specific time.
+The time class is used for any specific time of day.
+The duration class is used for any amount of time that is not a specific time of day.
+The amount class is used for any monetary value.
+The set class is used for any group of items that are related by a common characteristic.

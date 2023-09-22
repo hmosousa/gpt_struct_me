@@ -1,17 +1,4 @@
-[
-"Homem",
-"Yang",
-"Kaiyuan",
-"Liaoning",
-"suspeito",
-"detido",
-"motivo",
-"arma",
-"faca",
-"escola",
-"jardim de infância",
-"Guangxi",
-"segurança",
-"Pequim",
-"centro comercial"
-]
+["Homem", "mata", "sete", "pessoas", "e", "fere", "outras", "sete", "com", "uma", "facão", "no", "nordeste", "da", "China", "noticiaram", "hoje", "os", "meios", "de", "comunicação", "estatais", "O", "ataque", "na", "cidade", "de", "Kaiyuan", "na", "provincia", "de", "Liaoning", "foi", "perpetrado", "à", "porta", "de", "uma", "sauna", "e", "do", "um", "balneário", "tendo", "o", "suspeito", "identificado", "dos", "media", "com", "o", "sobrenome", "Yang", "O", "suspeito", "foi", "detido", "mas", "o", "motivo", "do", "ataque", "permanece", "desconhecido", "A", "lei", "chinesa", "restringe", "a", "venda", "e", "posse", "de", "armas", "de", "fogo", "e", "os", "ataques", "em", "massas", "são", "geralmente", "realizados", "com", "facas", "ou", "explosivos", "caseiros", "Autores", "de", "ataques", "semelhantes", "realizados", "no", "passado", "eram", "descritos", "como", "doentes", "mentais", "ou", "por", "terem", "ranco", "contra", "a", "sociedade", "Em", "ataques", "anteriores", "um", "segurança", "de", "uma", "escola", "empunhando", "uma", "facão", "feriu", "pelo", "mínimo", "39", "pessoas", "num", "jardim", "de", "infância", "na", "região", "sul", "de", "Guangxi", "em", "junho", "deste", "ano", "tendo", " sido", "condenado", "à", "morte", "Em", "2018", "um", "homem", "matou", "uma", "pessoa", "e", "feriu", "12", "also", "num", "ataque", "com", "uma", "facão", "num", "centro", "comercial", "em", "Pequim"]
+
+Format:
+JSON-parseable list of strings.

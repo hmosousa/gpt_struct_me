@@ -1,28 +1,9 @@
-[
-["Grua", "Object"],
-["camião", "Object"],
-["homem", "Person"],
-["52 anos", "Person"],
-["Rua da Constituição", "Location"],
-["PSP", "Organization"],
-["Comando Metropolitano da PSP do Porto", "Organization"],
-["hospital de Santo António", "Location"],
-["bombas de gasolina", "Object"]
-]
-
-Explanation:
-
-* Grua is a object, because it is a machine used to lift and move heavy loads.
-* Camião is an object, because it is a vehicle used to transport goods.
-* Homem is a person, because it refers to a human being.
-* 52 anos is a person, because it refers to the age of the person.
-* Rua da Constituição is a location, because it is a street.
-* PSP is an organization, because it is the Portuguese Public Security Police.
-* Comando Metropolitano da PSP do Porto is an organization, because it is a command of the Portuguese Public Security Police in Porto.
-* Hospital de Santo António is a location, because it is a hospital.
-* Bombas de gasolina is an object, because it is a device used to store and dispense gasoline.
+[["um homem de 52 anos", "Per"], ["um outro", "Per"], ["sofreu ferimentos ligeiros", "Per"], ["o poste de iluminação", "Obj"], ["a Rua da Constituição", "Loc"], ["no Porto", "Loc"], ["uma grua", "Obj"], ["do camião", "Obj"], ["o homem", "Per"], ["circulava na rua", "Per"], ["acabou por morrer", "Per"], ["a vítima", "Per"], ["foi transportada com vida", "Per"], ["para o Hospital de Santo António", "Loc"], ["as bombas de gasolina", "Obj"], ["sofreu ferimentos ligeiros", "Per"]]
 
 Note:
 
-* In this task, the output is a list of lists, where each inner list contains two strings: the first string is the entity, and the second string is the class.
-* The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other" (e.g. "uma granada de mão" is "Other" because it is not a person, object, location, or facility)

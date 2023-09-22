@@ -1,11 +1,4 @@
-["morreu", "colhido", "óbito", "declarado", "encaminhado", "mobilizados", "veículos", "bombeiros", "PSP", "VMER"]
+[ "morreu", "ciclomotor", "colhido", "veículo", "ligeiro", "Estrada", "Mitrena", "Setúbal", "fonte", "PSP", "Proteção", "Civil", "CDOS", "Lusa", "óbito", "corpo", "servico", "Medicina", "legal", "Hospital", "Setúbal", "alerta", "bombeiros", "veículos", "corporações", "Palmela", "Sapadores", "viatura", "medica", "emergencia", "reanimação"]
 
 Note:
-- "morreu" and "óbito" are synonyms, but "óbito" is more formal.
-- "colhido" is a verb, but in this context it's used as an event trigger.
-- "declarado" and "encaminhado" are also verbs, but they're used as event triggers.
-- "mobilizados" is a verb, but it's used as an event trigger.
-- "veículos" is a plural noun, but it's used as an event trigger.
-- "bombeiros" is a plural noun, but it's used as an event trigger.
-- "PSP" is an acronym for "Polícia de Segurança Pública".
-- "VMER" is an acronym for "Viatura Médica de Emergência e Reanimação".
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text.

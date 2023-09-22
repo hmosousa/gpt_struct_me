@@ -1,1 +1,1 @@
-["atropelada", "protesto", "mariscadores", "Torreira", "cais", "viatura", "condutor", "bivalves", "ferimentos", "hospital", "fuga", "identificado"]
+[“atropelada”, “sem gravidade”, “Murtosa”, “distrito de Aveiro”, “protesto”, “mariscadores”, “Bombeiros”, “GNR”, “cais da Torreira”, “condutor”, “viatura”, “bivalves”, “tentar sair”, “situação incendiou-se”, “ferimentos ligeiros”, “hospital de Aveiro”, “fugida”, “identificado”, “trabalhar”, “detetadas percentagens excessivas”, “coliformes fecais”, “águas da ria de Aveiro”]

@@ -1,1 +1,30 @@
-["about two years ago", "last century", "the 20th century", "the past century", "two years ago"]
+	["Oct. 23", "two years ago", "10 most significant events", "the 20th century", "Harry Brown", "ourselves", "painfully thought out", "not the result", "inadvertence", "BRUCE R. BENT", "New York"]
+
+Format:
+JSON-parseable list of strings.
+
+Note:
+
+* Time expressions in the input text:
+	* "nearly two months"
+	* "next week"
+	* "Friday"
+	* "Thursday"
+	* "03/06/1998 13:19:00"
+	* "Feb. 23"
+	* "Jan. 13"
+	* "Thursday"
+	* "Friday"
+	* "two years ago"
+	* "10 most significant events"
+	* "the 20th century"
+	* "Harry Brown"
+	* "ourselves"
+	* "painfully thought out"
+	* "not the result"
+	* "inadvertence"
+	* "BRUCE R. BENT"
+	* "New York"
+
+
+

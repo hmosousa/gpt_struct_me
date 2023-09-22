@@ -1,1 +1,4 @@
-["Homem morto a tiro no Barreiro", "atirador em fuga", "incidente ocorreu às 20:20 de hoje", "suspeita de homicídio envolvendo armas de fogo", "ocorrência está a ser acompanhada pela Polícia Judiciária"]
+["morto", "tiro", "baleado", "caçadeira", "fuga", "incidente", "ocorreu", "suspeita", "homicídio", "armas de fogo", "acompanhada", "investigação", "caso"]
+
+Note:
+Please note that the input text is in Portuguese.

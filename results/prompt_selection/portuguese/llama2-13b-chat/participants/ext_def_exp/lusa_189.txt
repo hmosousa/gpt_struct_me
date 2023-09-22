@@ -1,9 +1,1 @@
-["Homem morto", "atirador", "Direção Nacional da Polícia de Segurança Pública (PSP)", "Polícia Judiciária"]
-
-Explanation:
-The input text describes a shooting incident in which a man was killed and the perpetrator is on the run. The text mentions the victim, the perpetrator, and two law enforcement agencies involved in the investigation: the Direção Nacional da Polícia de Segurança Pública (PSP) and the Polícia Judiciária. Therefore, the participants in this incident are:
-
-1. "Homem morto" (the victim)
-2. "atirador" (the perpetrator)
-3. "Direção Nacional da Polícia de Segurança Pública (PSP)" (one of the law enforcement agencies involved in the investigation)
-4. "Polícia Judiciária" (the other law enforcement agency involved in the investigation)
+[ "um homem", "morto a tiro", "no Barreiro", "dois tiros de caçadeira", "o atirador", "em fuga", "a Direção Nacional da Polícia de Segurança Pública (PSP)", "a mesma fonte", "indicou", "o incidente", "ocorreu", "às 20:20 de hoje", "não adiantando", "mais informações", "sobre as circunstâncias", "do tiroteio", "Disse apenas", "que tratando-se", "de uma suspeita de homicídio envolvendo armas de fogo", "a ocorrência", "está a ser acompanhada", "pela Polícia Judiciária", "responsável", "pelo investigação", "do caso"]

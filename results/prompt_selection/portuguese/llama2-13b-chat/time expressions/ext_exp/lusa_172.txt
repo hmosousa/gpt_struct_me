@@ -1,7 +1,1 @@
-[
-"hoje à tarde",
-"naquela praia de Lagoa",
-"do distrito de Faro",
-"no local",
-"na marina de Portimão"
-]
+["hoje à tarde", "19 de novembro de 2020", "Lagoa", "Algarve", "praia da Estaquinha", "Faro", "Lagoa", "Portimão", "Estação Salva-vidas de Ferragudo", "marina de Portimão", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]

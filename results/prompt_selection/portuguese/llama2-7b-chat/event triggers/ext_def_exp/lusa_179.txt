@@ -1,10 +1,1 @@
-[
-"Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se",
-"Um juiz de instrução ordenou a prisão preventiva de um homem de 47 anos de idade",
-"O homem, de 47 anos, obrigou a mulher com quem vivia a prostituir-se",
-"A vítima, de 26 anos, foi colocada numa instituição de acolhimento para pessoas sujeitas a este tipo de crime",
-"A mulher 'vivia em comunhão de vida desde 2017 com o arguido, que a sujeitava a exploração sexual na via pública'",
-"Desde essa altura e até a atualidade, a vítima fugiu algumas vezes da sujeição a que estava submetida",
-"O suspeito lhe cedia um produto estupefaciente do qual é dependente",
-"O MP junto da comarca de Porto-Este, em Penafiel, indicia ohomem pela prática dos crimes de tráfico de pessoas para exploração sexual, sequestro e violação"
-]
+	["preso", "obrigar", "companheira", "prisão", "indiciou", "prostituir-se", "juiz", "ordenou", "homem", "47", "anos", "Ministério", "Público", "Penafiel", "detective", "levou", "informou", "comunicado", "Polícia", "Judiciária", "vítima", "instituição", "acolhimento", "pessoas", "sujeitas", "crimes", "tráfico", "por", "exploração", "sequestro", "violação", "MP", "comarca", "Porto-Este", "indicou"]

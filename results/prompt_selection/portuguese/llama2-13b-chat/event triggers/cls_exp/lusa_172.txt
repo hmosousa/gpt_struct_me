@@ -1,28 +1,7 @@
-[
-["Corpo de homem", "State"],
-["homem", "Occurrence"],
-["praia da Estaquinha", "Perception"],
-["Autoridade Marítima", "Reporting"],
-["pescador", "Aspectual"],
-["Ferragudo", "Intensional Action"],
-["Portimão", "Intensional State"]
-]
-
-Explanation:
-
-* Corpo de homem: State (the body of the man is in a state of being found dead)
-* homem: Occurrence (the death of the man is an occurrence)
-* praia da Estaquinha: Perception (the beach where the body was found is perceived as the location of the occurrence)
-* Autoridade Marítima: Reporting (the Maritime Authority is reporting the occurrence)
-* pescador: Aspectual (the man was a fisherman, an aspect of his identity)
-* Ferragudo: Intensional Action (Ferragudo is the location where the fisherman was allegedly fishing when he fell into the sea)
-* Portimão: Intensional State (Portimão is the location where the body was transported for further investigation)
+[["homem", "I_Action"], ["encontrado", "Occurrence"], ["boiar", "Occurrence"], ["mar", "State"], ["praia", "State"], ["Estaquinha", "Location"], ["Lagoa", "Location"], ["Algarve", "Location"], ["Autoridade Marítima", "Organization"], ["pescador", "I_Action"], ["caído", "Occurrence"], ["arriba", "Location"], ["praia de Lagoa", "Location"], ["distrito de Faro", "Location"], ["Estação Salva-vidas de Ferragudo", "Organization"], ["recolha", "I_Action"], ["transportando", "I_Action"], ["gabinete de medicina legal de Portimão", "Location"], ["Polícia Marítima de Portimão", "Organization"], ["tomou conta", "I_Action"]]
 
 Note:
+The classes are the same as in the previous example.
 
-* Intensional Action and Intensional State are classes that describe the actions and states of entities, respectively.
-* Aspectual is a class that describes an aspect of an entity's identity.
-
-Please help me with this task. I'm having trouble understanding how to classify some of the entities and how to use the classes you provided.
-
-Thank you!
+Hint:
+You can use the same approach as in the previous example, but pay attention to the fact that some of the entities in this text are locations, and some are actions.

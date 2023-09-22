@@ -1,1 +1,1 @@
-["encontrado", "caído", "dado o alerta", "ativada", "procedeu à recolha", "transportando-o", "declarado", "transportado", "tomou conta"]
+["encontrado", "boiar", "revelou", "caído", "praticava", "dado", "alerta", "ativada", "procedeu", "recolha", "transportando", "declarado", "transportado", "tomou conta"]

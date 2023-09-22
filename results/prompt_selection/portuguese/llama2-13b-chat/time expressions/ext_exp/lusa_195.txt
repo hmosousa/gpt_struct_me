@@ -1,7 +1,1 @@
-[
-"quarta-feira",
-"na passada quarta-feira",
-"na sequência de um conflito com um grupo de convivas",
-"do grupo com um disparo de arma de fogo",
-"consideráveis num ombro e braço"
-]
+["quarta-feira", "Alto da Guerra", "30 nov 2020", "setembro", "final do ano", "menos de uma semana", "época de veda", "épocas de veda"]

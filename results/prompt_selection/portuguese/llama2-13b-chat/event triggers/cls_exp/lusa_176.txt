@@ -1,30 +1,10 @@
-[
-["Homem", "State"],
-["ciclomotor", "Occurrence"],
-["veículo ligeiro", "Reporting"],
-["Estrada Nacional 10-8", "Perception"],
-["Mitrena", "Aspectual"],
-["PSP", "Intensional Action"],
-["Proteção Civil", "Intensional Action"],
-["Comando Distrital de Operações de Socorro", "Intensional Action"],
-["Hospital de São Bernardo", "Intensional Action"],
-["bombeiros", "Intensional Action"],
-["veículos", "Intensional Action"],
-["Palmela", "Intensional Action"],
-["Sapadores de Setúbal", "Intensional Action"],
-["viatura médica de emergência e reanimação", "Intensional Action"]
-]
+[["homem", "I_Action"], ["morreu", "State"], ["ciclomotor", "Occurrence"], ["conduzia", "Occurrence"], ["ser colhido", "Occurrence"], ["veículo ligeiro", "Occurrence"], ["na", "Aspectual"], ["Estrada Nacional 10-8", "Location"], ["na", "Aspectual"], ["zona da Mitrena", "Location"], ["em", "Aspectual"], ["Setúbal", "Location"], ["disseram", "Reporting"], ["fontes", "Reporting"], ["da", "Aspectual"], ["PSP", "Organization"], ["e", "Aspectual"], ["Proteção Civil", "Organization"], ["Fonte", "Reporting"], ["do", "Aspectual"], ["Comando Distrital de Operações de Socorro", "Organization"], ["de", "Aspectual"], ["Setúbal", "Location"], ["indicou", "Reporting"], ["à", "Aspectual"], ["agência", "Reporting"], ["Lusa", "Organization"], ["que", "Occurrence"], ["o", "Aspectual"], ["óbito", "State"], ["do", "Aspectual"], ["homem", "I_Action"], ["for", "Aspectual"], ["bombeiros", "I_Action"], ["veículos", "I_Action"], ["de", "Aspectual"], ["Palmela", "Location"], ["e", "Aspectual"], ["Sapadores", "Location"], ["de", "Aspectual"], ["Setúbal", "Location"], ["e", "Aspectual"], ["VMER", "Organization"], ["além", "Aspectual"], ["da", "Aspectual"], ["PSP", "Organization"]]
 
-Explanation:
+Note:
 
-* "Homem" is a State, as it describes the condition of the person.
-* "ciclomotor" is an Occurrence, as it describes the event that happened.
-* "veículo ligeiro" is aReporting, as it describes the vehicle that was involved in the event.
-* "Estrada Nacional 10-8" is a Perception, as it describes the location where the event happened.
-* "Mitrena" is an Aspectual, as it describes the location where the event happened.
-* "PSP" and "Proteção Civil" are Intensional Actions, as they describe the actions taken by the authorities.
-* "Comando Distrital de Operações de Socorro" is an Intensional Action, as it describes the action taken by the authorities.
-* "Hospital de São Bernardo" is an Intensional Action, as it describes the action taken by the authorities.
-* "bombeiros" and "veículos" are Intensional Actions, as they describe the actions taken by the authorities.
-* "Palmela" and "Sapadores de Setúbal" are Intensional Actions, as they describe the actions taken by the authorities.
-* "viatura médica de emergência e reanimação" is an Intensional Action, as it describes the action taken by the authorities.
+* "I_Action" refers to an intensional action, which is an action that is performed by an entity (in this case, the homem)
+* "State" refers to a state, which is a property or condition of an entity (in this case, the death of the homem)
+* "Occurrence" refers to an occurrence, which is an event or situation that happens (in this case, the collision of the ciclomotor and the veículo ligeiro)
+* "Aspectual" refers to an aspect, which is a way of describing a property or condition of an entity (in this case, the location of the collision)
+
+Please let me know if you have any questions or need further clarification.

@@ -1,29 +1,4 @@
-[
-["For The World", "State"],
-["this is Pamela McCall", "Occurrence"],
-["in the BBC news room in London", "Location"],
-["more heavy gunfire in the Serbian province of Kosovo", "Occurrence"],
-["it's the second day of an offensive by the security forces against villages populated by ethnic Albanians", "Occurrence"],
-["BBC correspondent Karyn Coleman reports from Kosovo", "Reporting"],
-["there were more accounts of people fleeing from the villages near where the offensive was taking place", "Perception"],
-["they were too afraid to stay, fearing the forces may also move their operations further afield", "Perception"],
-["by mid afternoon, official Serb sources were saying the operation was over", "Reporting"],
-["but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned", "Reporting"],
-["the ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict", "Aspectual"],
-["Karyn Coleman, BBC news, Pristina", "Reporting"]
-]
+[["Pamela McCall", "REPORTING"], ["Karyn Coleman", "REPORTING"], ["For The World", "OCCURRENCE"], ["BBC", "ORGANIZATION"], ["news", "OCCURRENCE"], ["room", "LOCATION"], ["London", "LOCATION"], ["offensive", "OCCURRENCE"], ["security", "OCCURRENCE"], ["forces", "OCCURRENCE"], ["villages", "LOCATION"], ["populated", "OCCURRENCE"], ["ethnic", "OCCURRENCE"], ["Albanians", "OCCURRENCE"], ["fearing", "OCCURRENCE"], ["afraid", "OCCURRENCE"], ["stay", "OCCURRENCE"], ["mid", "OCCURRENCE"], ["afternoon", "OCCURRENCE"], ["official", "OCCURRENCE"], ["Serb", "OCCURRENCE"], ["sources", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["over", "OCCURRENCE"], ["confirmed", "OCCURRENCE"], ["Belgrade", "LOCATION"], ["capital", "LOCATION"], ["attack", "OCCURRENCE"], ["planned", "OCCURRENCE"], ["ethnic", "OCCURRENCE"], ["Albanians", "OCCURRENCE"], ["witnessing", "OCCURRENCE"], ["beginnings", "OCCURRENCE"], ["much", "ADVERB"], ["wider", "ADVERB"], ["conflict", "OCCURRENCE"]]
 
-Explanation:
-
-1. "For The World" is a state, as it refers to the current state of affairs.
-2. "this is Pamela McCall" is an occurrence, as it refers to a specific event that happened (Pamela McCall speaking).
-3. "in the BBC news room in London" is a location, as it refers to a specific place where an event is taking place.
-4. "more heavy gunfire in the Serbian province of Kosovo" is an occurrence, as it refers to a specific event that is happening.
-5. "it's the second day of an offensive by the security forces against villages populated by ethnic Albanians" is an occurrence, as it refers to a specific event that is happening.
-6. "BBC correspondent Karyn Coleman reports from Kosovo" is a reporting event, as it refers to the act of reporting.
-7. "there were more accounts of people fleeing from the villages near where the offensive was taking place" is a perception, as it refers to what people are experiencing or perceiving.
-8. "they were too afraid to stay, fearing the forces may also move their operations further afield" is a perception, as it refers to what people are experiencing or perceiving.
-9. "by mid afternoon, official Serb sources were saying the operation was over" is a reporting event, as it refers to the act of reporting.
-10. "but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned" is a reporting event, as it refers to the act of reporting.
-11. "the ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict" is an aspectual statement, as it refers to the future and the current situation.
-12. "Karyn Coleman, BBC news, Pristina" is a reporting event, as it refers to the act of reporting.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

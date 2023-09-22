@@ -1,12 +1,1 @@
-[
-["Friday", "Date"],
-["1994", "Date"],
-["earlier this month", "Date"],
-["five years", "Duration"],
-["1990", "Date"],
-["1991", "Date"],
-["1988", "Date"],
-["the weekend", "Set"],
-["June 1994", "Date"],
-["1995", "Date"]
-]
+[["Friday", "DATE"], ["earlier this month", "DATE"], ["1994", "DATE"], ["Over the weekend", "SET"], ["June 1994", "DATE"], ["after five years", "DURATION"], ["1990", "DATE"], ["1991", "DATE"], ["1988", "DATE"], ["1990", "DATE"], ["Friday", "DATE"], ["1995", "DATE"], ["five years", "DURATION"]]

@@ -1,26 +1,36 @@
-[
-["PJ", "State"],
-["homem", "Occurrence"],
-["jovem", "Aspectual"],
-["coletividade", "Location"],
-["Alto da Guerra", "Location"],
-["arma de fogo", "Object"],
-["ferimentos", "Aspectual"],
-["omissão de auxílio", "Intensional Action"]
-]
-
-Explanation:
-
-* PJ is a State, as it is a permanent entity that exists over time.
-* homem is an Occurrence, as it is a specific event that happened.
-* jovem is an Aspectual, as it describes the state of the young man.
-* coletividade is a Location, as it describes the place where the event occurred.
-* Alto da Guerra is a Location, as it describes the place where the event occurred.
-* arma de fogo is an Object, as it is a physical entity that was used in the event.
-* ferimentos is an Aspectual, as it describes the state of the young man.
-* omissão de auxílio is an IntensionalAction, as it describes the action of not providing help.
+[["detém", "I_Action"], ["homem", "Entity"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "Entity"], ["coletividade", "Entity"], ["Setúbal", "Location"], ["polícia", "Entity"], ["judiciária", "Entity"], ["PJ", "Entity"], ["disparou", "Occurrence"], ["arma", "Entity"], ["fogo", "Occurrence"], ["ferimentos", "Occurrence"], ["consideráveis", "Adjective"], ["ombro", "Noun"], ["braço", "Noun"], ["detido", "Entity"], ["fugiu", "Occurrence"], ["local", "Location"], ["indiciado", "I_Action"], ["crimes", "Noun"], ["homicídio", "Noun"], ["qualificado", "Adjective"], ["tentada", "Adjective"], ["detenção", "I_Action"], ["prisão", "Noun"], ["preventiva", "Adjective"]]
 
 Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "jovem", "coletividade") and the second string is the class (e.g. "I_Action", "State", "Occurrence").
 
-* The classes are based on the information provided in the input text and may not reflect the actual classes in the real world.
-* The output is a JSON-parseable list, where each element is a list with two strings, representing the entity and the class.
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action.
+
+For example, in the first input text, the event triggers are:
+
+* "pediu" (I_Action)
+* "desculpa" (State)
+* "erros" (Occurrence)
+* "levaram" (Occurrence)
+* "mortes" (Occurrence)
+* "quarentena" (State)
+* "divulgação" (Occurrence)
+* "explicou" (Reporting)
+
+In the second input text, the event triggers are:
+
+* "detém" (I_Action)
+* "homem" (Entity)
+* "suspeito" (State)
+* "balear" (Occurrence)
+* "jovem" (Entity)
+* "coletividade" (Entity)
+* "Setúbal" (Location)
+* "polícia" (Entity)
+* "judiciária" (Entity)
+* "PJ" (Entity)
+* "disparou" (Occurrence)
+* "arma" (Entity)
+* "fogo" (Occurrence)
+* "ferimentos" (Occurrence)
+
+Your task is to extract and classify all event triggers from the input text, using the classes you were given (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).

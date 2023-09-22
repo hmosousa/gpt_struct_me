@@ -1,20 +1,7 @@
-[
-"hoje",
-"anos",
-"meses",
-"diplomas",
-"segundos"
-]
+["em Penafiel", "district do Porto", "39 anos", "42 anos", "hoje", "antes de 30 nov 2020", "época de veda", "épocas de veda"]
 
-Explanation:
-
-* "hoje" is an adverb indicating the day of the week and the current date.
-* "anos" is a noun indicating a period of time, specifically one year.
-* "meses" is a noun indicating a period of time, specifically one month.
-* "diplomas" is a noun indicating a period of time, specifically a degree or a certificate.
-* "segundos" is a noun indicating a period of time, specifically one second.
+Hint:
+Note that some time expressions can be found in different forms, such as "em menos de uma semana" and "menos de uma semana". Both expressions convey the same meaning, but the second one is more concise.
 
 Note:
-
-* The word "teleassistência" is not included in the list of time expressions, as it is not a temporal expression, but rather a noun indicating a type of assistance.
-* The word "proibido" is not included in the list of time expressions, as it is not a temporal expression, but rather a verb indicating a prohibition.
+The output should be a JSON-parseable list of strings, where each string represents a time expression found in the input text.

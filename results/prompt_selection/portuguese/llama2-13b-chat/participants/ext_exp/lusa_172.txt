@@ -1,1 +1,3 @@
-["Corpo de homem", "homem", "Lagoa", "Algarve", "praia da Estaquinha", "pescador", "Faro", "Estação Salva-vidas de Ferragudo", "marina de Portimão", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]
+[“um homem”, “aparecendo entre 60 e 70 anos”, “o mar”, “na praia da Estaquinha”, “no concelho de Lagoa”, “no Algarve”, “as autoridades”, “um pescador”, “caído ao mar”, “praticava pesca lúdica”, “naquela praia de Lagoa”, “do distrito de Faro”, “o avistamento de um corpo a boiar no mar”, “a Estação Salva-vidas de Ferragudo”, “a recolha do corpo”, “a marina de Portimão”, “o óbito”, “no local”, “a delegada de saúde de Lagoa”, “o corpo”, “para o gabinete de medicina legal de Portimão”, “a Polícia Marítima de Portimão”]
+
+Please note that the output should be a JSON-parseable list of strings, with each string representing a participant in the text.

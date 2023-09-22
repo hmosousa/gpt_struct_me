@@ -1,15 +1,1 @@
-[
-["GNR", "Organization"],
-["mulher", "Person"],
-["Posto Territorial de Mértola", "Facility"],
-["Tribunal Judicial de Beja", "Facility"],
-["Estrada Nacional 122", "Location"],
-["vila de Mértola", "Location"],
-["viatura", "Object"],
-["telemóvel", "Object"]
-]
-
-Explanation:
-The input text describes a drug trafficking operation in which the GNR (Organization) detained a 36-year-old woman (Person) and seized 12,300 doses of hashish (Object) in Mértola (Location). The woman was taken to the Tribunal Judicial de Beja (Facility) for questioning and possible application of coercive measures. The GNR (Organization) carried out the operation, and the Posto Territorial de Mértola (Facility) was also involved. The action took place along the Estrada Nacional 122 (Location) near the village of Mértola (Location).The woman's vehicle (Object) and mobile phone (Object) were also seized.
-
-Therefore, the output is a list of eight elements, each consisting of a participant (entity) and its corresponding class (Person, Organization, Location, Facility, Object, etc.).
+[["GNR", "Org"], ["uma mulher", "Per"], ["36 anos", "Other"], ["suspeitas", "Other"], ["crime", "Other"], ["tráfico de droga", "Other"], ["haxixe", "Other"], ["concelho alentejano", "Loc"], ["Mértola", "Loc"], ["distrito de Beja", "Loc"], ["Tribunal Judicial de Beja", "Org"], ["primeiro interrogatório", "Other"], ["medidas de coação", "Other"], ["força de segurança", "Org"], ["Estrada Nacional 122", "Loc"], ["vila de Mértola", "Loc"], ["viatura", "Other"], ["militares", "Org"], ["GNR", "Org"], ["droga", "Other"], ["posse", "Other"], ["telemóvel", "Other"]]

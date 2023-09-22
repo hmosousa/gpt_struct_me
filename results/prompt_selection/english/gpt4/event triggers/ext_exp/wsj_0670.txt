@@ -1,1 +1,1 @@
-["expects to report", "related to the sale", "agreed to sell", "offset by", "earned", "continues to explore", "possible sale", "subject to audit adjustments", "provides for potential payments", "produces", "had sales", "operating loss"]
+["expects", "report", "related", "sale", "said", "agreed", "sell", "offset", "sell", "earned", "including", "sale", "said", "continues", "explore", "sale", "subject", "audit", "adjustments", "closing", "provides", "payments", "depending", "produces", "had", "sales", "operating", "loss"]

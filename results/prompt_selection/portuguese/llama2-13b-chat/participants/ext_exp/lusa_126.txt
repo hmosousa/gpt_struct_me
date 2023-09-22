@@ -1,1 +1,17 @@
-["GNR", "dos homens", "tráfico de droga", "Sines", "Setúbal", "estupefacientes", "heroína", "cocaína", "euros", "veículo", "telemóveis"]
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* "GNR" is an organization, so it should be treated as a single participant.
+* "Sines" is a location, so it should be treated as a single participant.
+* "Setúbal" is a location, so it should be treated as a single participant.
+* "heroína" and "cocaína" are substances, so they should be treated as single participants.
+* "844 euros" is a quantity of money, so it should be treated as a single participant.
+* "um veículo" is a vehicle, so it should be treated as a single participant.
+* "quatro telemóveis" is a quantity of telemóveis, so it should be treated as a single participant.
+* "os detidos" is a group of people, so it should be treated as a single participant.
+* "o Tribunal Judicial de Santiago do Cacém" is an organization, so it should be treated as a single participant.
+
+Format:
+JSON-parseable list of strings.

@@ -1,15 +1,1 @@
-[
-"Homem",
-"Lisboa",
-"Arroios",
-"mercado",
-"PSP",
-"Cometlis",
-"rua Ângela Pinto",
-"café",
-"suspeito",
-"Avenida Almirante Reis",
-"Polícia Judiciária",
-"Lusa",
-"PJ"
-]
+["Homem", "mORRE", "ESFAQUEADO", "nas costas", "LONGO", "ao mercado", "de Arroios", "em Lisboa", "na sequência", "de um desentendimento", "informou", "à agência", "LUSA", "a PSP", "De acordo", "com o Comando", "Metropolitano", "de Lisboa", "o esfaqueamento", "terá", "ocorrido", "na rua", "Ângela Pinto", "pelas", "10:54", "tendo", "o óbito", "declarado", "dentro", "de um café", "onde", "a vítima", "terá", "idado", "pedir ajuda", "Terá", "sido", "um desentendimento", "entre", "dous", "indivíduos", "que", "envolveu", "uma", "arma", "branca", "tendo", "um", "deles", "esfaqueado", "na", "zona", "das", "costas", "A", "PSP", "avançou", "que", "o", "suspeito", "do", "crime", "terá", "detido", "na", "Avenida", "Almirante", "Reis", "após", "tentativa", "de", "fuga", "A", "polícia", "referiu", "que", "aguarda", "mais", "dados", "relativamente", "ao", "suspeito", "Cerca", "das", "14:34", "o", "local", "do", "crime", "encontrava-se", "preservado", "pelas", "forças", "policiais", "e", "fitas", "de", "segurança"]

@@ -1,1 +1,9 @@
-["atropelada", "protesto", "mariscadores", "Murtosa", "Torreira", "cais", "viatura", "condutor", "bivalves", "ferimentos", "hospital", "Aveiro", "GNR", "fuga", "identificado"]
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of an array of strings, with each string representing a single event trigger.
+* Each event trigger should be a verb or a verb phrase that describes the action or state that triggers the event.
+* The list should include all the event triggers that can be identified in the input text, regardless of their grammatical category (noun, verb, adjective, etc.).
+* The output should be in JSON format, with each event trigger as a separate string in the array.

@@ -1,1 +1,3 @@
-["Autoridade Marítima", "Estaquinha", "Faro", "Lagoa", "Portimão", "Polícia Marítima de Portimão"]
+
+JSON-parseable list of strings:
+["um homem", "60 e 70 anos", "praia da Estaquinha", "concelho de Lagoa", "Algarve", "Autoridade Marítima", "pescador", "caído ao mar", "praia de Lagoa", "distrito de Faro", "Estação Salva-vidas de Ferragudo", "marina de Portimão", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]

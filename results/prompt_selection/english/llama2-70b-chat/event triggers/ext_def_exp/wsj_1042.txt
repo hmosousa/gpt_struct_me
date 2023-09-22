@@ -1,10 +1,1 @@
-["declared a dividend", "issued", "may be exercised", "will issue", "exercised"]
-
-Explanation:
-The output contains all the event triggers from the given text.
-
-"declared a dividend" is an event trigger because it indicates that the company is distributing something (a dividend) to its shareholders.
-"issued" is an event trigger because it indicates that the company is creating and distributing new warrants.
-"may be exercised" is an event trigger because it indicates that the warrants can be used to purchase common stock.
-"will issue" is an event trigger because it indicates that the company will create and distribute additional warrants to certain holders.
-"exercised" is an event trigger because it indicates that the warrants are being used to purchase common stock.
+["said", "declared", "has", "issued", "will", "enable", "exercised", "said", "will", "issue", "at", "one-third"]

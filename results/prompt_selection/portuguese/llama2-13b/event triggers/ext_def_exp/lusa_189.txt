@@ -1,23 +1,26 @@
-["morto", "tiro", "Barreiro", "atirador", "fuga", "homem", "baleado", "caçadeira", "Direção Nacional da Polícia de Segurança Pública", "PSP", "incidente", "ocorreu", "circunstâncias", "suspeita", "homicídio", "armas de fogo", "Polícia Judiciária"]
+["morto", "tiro", "atirador", "fuga", "homem", "baleado", "tiros", "caçadeira", "incidente", "ocorreu", "circunstâncias", "suspeita", "homicídio", "envolvendo", "armas de fogo", "ocorrência", "acompanhada", "Polícia Judiciária", "responsável", "investigação", "caso"]
 
-Explanation:
-The event triggers are the words that are used to describe the event.
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
 
-Hints:
-- The event triggers are not necessarily nouns.
-- The event triggers are not necessarily verbs.
-- The event triggers are not necessarily adjectives.
-- The event triggers are not necessarily adverbs.
-- The event triggers are not necessarily prepositions.
-- The event triggers are not necessarily conjunctions.
-- The event triggers are not necessarily interjections.
-- The event triggers are not necessarily pronouns.
-- The event triggers are not necessarily determiners.
-- The event triggers are not necessarily quantifiers.
-- The event triggers are not necessarily particles.
-- The event triggers are not necessarily punctuation.
-- The event triggers are not necessarily symbols.
-- The event triggers are not necessarily whitespace.
-- The event triggers are not necessarily numbers.
-- The event triggers are not necessarily letters.
-- The event triggers are not necessarily words.
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+["morto", "tiro", "atirador", "fuga", "homem", "baleado", "tiros", "caçadeira", "incidente", "ocorreu", "circunstâncias", "suspeita", "homicídio", "envolvendo", "armas de fogo", "ocorrência", "acompanhada", "Polícia Judiciária", "responsável", "investigação", "caso"]
+
+Input:
+"Covid-19:

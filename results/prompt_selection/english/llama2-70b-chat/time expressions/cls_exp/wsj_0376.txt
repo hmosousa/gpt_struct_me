@@ -1,15 +1,4 @@
-[
-["next year's first quarter", "Date"],
-["#300 million", "Amount"],
-["#400 million", "Amount"],
-["#1.44 billion", "Amount"],
-["March 31", "Date"],
-["5% to 10%", "Percentage"],
-["last year", "Date"],
-["this year", "Date"]
-]
+[["Courtaulds PLC", "ORGANIZATION"], ["next year's first quarter", "DATE"], ["#300 million", "AMOUNT"], ["#400 million", "AMOUNT"], ["15 pence", "AMOUNT"], ["362 pence", "AMOUNT"], ["#1.44 billion", "AMOUNT"], ["B.A.T Industries PLC", "ORGANIZATION"], ["#4 billion", "AMOUNT"], ["Anglo-French", "NATIONALITY"], ["Sir James Goldsmith", "PERSON"], ["March 31", "DATE"], ["5%", "PERCENTAGE"], ["10%", "PERCENTAGE"], ["Kerry Packer", "PERSON"], ["Julia Blake", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
 
-Explanation:
-The output is a list of time expressions extracted from the given text. Each element in the list consists of two strings: the first string represents the entity (time expression), and the second string represents the class (Date, Time, Duration, or Set).
-
-For example, "next year's first quarter" is a time expression that belongs to the class Date. Similarly, "#300 million" and "#400 million" are amounts that belong to the class Amount, and "5% to 10%" is a percentage that belongs to the class Percentage. "March 31" is a date that belongs to the class Date, and "last year" and "this year" are dates that belong to the class Date.
+Note:
+The input text is in British English, so the currency is in pounds (#) instead of dollars ($).

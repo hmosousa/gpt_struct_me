@@ -1,13 +1,1 @@
-[
-["Homem morto a tiro no Barreiro", "Occurrence"],
-["atirador em fuga", "State"],
-["Um homem foi hoje morto a tiro no Barreiro", "Occurrence"],
-["baleado com dois tiros de caçadeira", "Occurrence"],
-["o atirador está em fuga", "State"],
-["disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "Reporting"],
-["o incidente ocorreu às 20:20 de hoje", "Occurrence"],
-["não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio", "Reporting"],
-["tratando-se de uma suspeita de homicídio envolvendo armas de fogo", "Perception"],
-["a ocorrência \"está a ser acompanhada pela Polícia Judiciária”", "State"],
-["responsável pelo investigação do caso", "State"]
-]
+[["morto", "Occurrence"], ["tiro", "Occurrence"], ["Barreiro", "State"], ["atirador", "State"], ["fuga", "State"], ["disse", "Reporting"], ["fonte", "Perception"], ["Direção Nacional da Polícia de Segurança Pública", "State"], ["incidente", "Occurrence"], ["ocorreu", "Occurrence"], ["informações", "State"], ["circunstâncias", "State"], ["tiroteio", "Occurrence"], ["suspeita", "Perception"], ["homicídio", "Occurrence"], ["armas de fogo", "State"], ["ocorrência", "Occurrence"], ["acompanhada", "Aspectual"], ["Polícia Judiciária", "State"], ["responsável", "State"], ["investigação", "Occurrence"], ["caso", "State"]]

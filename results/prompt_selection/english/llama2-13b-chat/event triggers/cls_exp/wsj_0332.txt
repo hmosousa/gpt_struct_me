@@ -1,15 +1,12 @@
-[
-["Orkem S.A.", "State"],
-["Coates Brothers PLC", "Occurrence"],
-["Orkem Coatings U.K. Ltd.", "Aspectual"],
-["Orkem", "Intensional Action"],
-["France", "State"]
-]
+[["Orkem S.A.", "State"], ["Coates Brothers PLC", "State"], ["Orkem Coatings U.K. Ltd.", "State"], ["France", "State"], ["U.K.", "State"], ["Orkem", "Intensional Action"], ["bid", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["acceptance", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["addition", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["public share offering", "OCCURRENCE"]]
 
-Explanation:
+Note:
 
-* Orkem S.A. is a state-controlled chemical manufacturer, so it is classified as a State.
-* Coates Brothers PLC is the target of the takeover, so it is classified as an Occurrence.
-* Orkem Coatings U.K. Ltd. is a subsidiary of Orkem, so it is classified as an Aspectual.
-* Orkem is the company making the takeover, so it is classified as an Intensional Action.
-* France is the country where Orkem is based, so it is classified as a State.
+* "State" refers to the state of being a company, organization, or country.
+* "OCCURRENCE" refers to an event or action that happens or is done.
+* "Intensional Action" refers to an action that is done with a specific intention or purpose.
+* "ASPECTUAL" refers to a quality or characteristic of something.
+* "I_ACTION" refers to an action that is done by someone or something.
+* "I_STATE" refers to a state or condition of someone or something.
+* "REPORTING" refers to the act of reporting or conveying information.
+* "PERCEPTION" refers to the way something is perceived or understood.

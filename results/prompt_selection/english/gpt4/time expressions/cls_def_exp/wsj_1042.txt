@@ -1,1 +1,1 @@
-[["90 days", "Duration"]]
+[["90 days", "DURATION"]]

@@ -1,1 +1,1 @@
-["fourth-quarter", "year ended Aug. 31", "1988", "earlier this year"]
+["fourth-quarter", "Aug. 31", "1988", "year ended", "Friday", "03/06/1998 13:19:00"]

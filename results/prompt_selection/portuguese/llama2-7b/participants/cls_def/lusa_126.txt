@@ -24,7 +24,7 @@ def extract_entities(text):
     entities = []
     for match in re.finditer(r'(\w+)\s+(\w+)', text):
         entities.append([match.group(1), match.group(2)])
-    returnentities
+    return entities
 
 def extract_classes(entities):
     classes = []

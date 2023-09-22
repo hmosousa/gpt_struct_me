@@ -1,1 +1,14 @@
-["merger", "completed", "Society Corp.", "Society Corp. of Cleveland", "buy", "Trustcorp", "12.4 million shares", "stock", "market value", "transaction", "close", "year end"]
+[
+"Trustcorp", "inc.", "Society", "Bank", "amp", "Trust", "merger", "completed", "Society", "Corp.", "Cleveland", "agreed", "June", "buy", "Trustcorp", "shares", "stock", "market", "value", "transaction", "close", "year", "end"]
+
+Format:
+JSON-parseable list of strings.
+
+Note:
+
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event or action in the text. For example, in the given text, "merger" and "transaction" are event triggers, as they indicate the completion of a merger and the closing of a transaction, respectively.
+
+
+
+
+

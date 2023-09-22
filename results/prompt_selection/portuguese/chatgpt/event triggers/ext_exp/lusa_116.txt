@@ -1,1 +1,1 @@
-["atropelado por autocarro", "estado grave", "atropelado", "autocarro", "Santo Tirso", "Vila das Aves", "Proteção Civil", "Bombeiros da Vila das Aves", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "prestar assistência", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR local", "corporação"]
+["ficou", "estado grave", "atropelado", "autocarro", "assistido", "transportado", "acidente", "prestar assistência"]

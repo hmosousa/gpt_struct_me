@@ -1,4 +1,1 @@
-[
-["June", "Date"],
-["year end", "Date"]
-]
+[["June", "DATE"], ["year end", "DATE"]]

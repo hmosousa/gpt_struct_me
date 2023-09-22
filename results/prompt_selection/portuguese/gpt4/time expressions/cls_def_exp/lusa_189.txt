@@ -1,4 +1,1 @@
-[
-["hoje", "Date"],
-["às 20:20 de hoje", "Time"]
-]
+[["hoje", "Date"], ["às 20:20 de hoje", "Time"]]

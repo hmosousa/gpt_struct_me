@@ -1,1 +1,1 @@
-[["year end", "Set"], ["June", "Time"]]
+[["Trustcorp Inc.", "ORGANIZATION"], ["Society Bank & Trust", "ORGANIZATION"], ["Cleveland", "LOCATION"], ["June", "MONTH"], ["year end", "DATE"]]

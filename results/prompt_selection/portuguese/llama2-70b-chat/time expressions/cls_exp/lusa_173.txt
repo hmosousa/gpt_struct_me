@@ -1,25 +1,16 @@
-[
-["Homem", "Date"],
-["34 anos", "Duration"],
-["hoje", "Date"],
-["09:56", "Time"],
-["sábado", "Date"],
-["desde", "Duration"],
-["acreditar", "Set"]
-]
-
-Explanation:
-
-* "Homem" is classified as "Date" because it refers to a person's age, which is a date-related information.
-* "34 anos" is classified as "Duration" because it refers to a period of time.
-* "hoje" is classified as "Date" because it refers to the current day.
-* "09:56" is classified as "Time" because it refers to a specific time of day.
-* "sábado" is classified as "Date" because it refers to a day of the week.
-* "desde" is classified as "Duration" because it refers to a period of time.
-* "acreditar" is classified as "Set" because it refers to a set of beliefs or opinions.
+[["hoje", "Time"], ["sábado", "Date"], ["09:56", "Time"], ["desde sábado", "Duration"], ["30 nov 2020", "Date"], ["hoje", "Time"], ["30 nov 2020", "Date"]]
 
 Note:
+The input text is in Portuguese.
 
-* The input text is in Portuguese, and the classes are based on the language's grammar and vocabulary.
-* The output is a JSON-parseable list, and the classes are represented as strings.
-* The entities and classes are separated by a comma, and the list is surrounded by square brackets.
+Hint:
+You can use the following resources to help you with the task:
+
+* Natural Language Toolkit (NLTK)
+* spaCy
+* Stanford CoreNLP
+* OpenNLP
+
+You can also use online resources such as language models and dictionaries to help you with the task.
+
+Note that the input text is in Portuguese, so you may need to use resources that are specifically designed for the Portuguese language.

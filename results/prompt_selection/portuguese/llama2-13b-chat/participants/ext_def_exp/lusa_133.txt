@@ -1,1 +1,10 @@
-["GNR", "Aveiro", "atum-rabilho", "condutor do veículo", "mestre da embarcação"]
+
+JSON-parseable list of strings.
+
+Note:
+The participants in this example are:
+
+* GNR (Guarda Nacional Republicana)
+* pescadores (fishermen)
+* condutor do veículo (driver of the vehicle)
+* mestre da embarcação (master of the ship)

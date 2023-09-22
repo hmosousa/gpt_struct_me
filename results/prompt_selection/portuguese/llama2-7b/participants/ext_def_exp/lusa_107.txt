@@ -1,28 +1,14 @@
-[
-  "Mulher atropelada durante protesto de mariscadores na Murtosa",
-  "Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.",
-  "O caso ocorreu cerca das 12:50, junto ao cais da Torreira.",
-  "Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.",
-  "Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora", disse a mesma fonte.",
-  "Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital deAveiro.",
-  "A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.",
-  "Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
-]
+["Mulher", "atropelada", "durante", "protesto", "de", "mariscadores", "na", "Murtosa", "Uma", "mulher", "de", "44", "anos", "foi", "hoje", "atropelada", "sem", "gravidade", "na", "Murtosa", "distrito", "Aveiro", "durante", "um", "protesto", "com", "cerca", "dezenas", "de", "mariscadores", "informaram", "os", "Bombeiros", "e", "a", "GNR", "O", "caso", "ocorreu", "cerca", "das", "12:50", "junto", "ao", "cais", "da", "Torreira", "O", "condutor", "da", "viatura", "era", "um", "homem", "que", "transportava", "bivalves", "e", "que", "estaria", "a", "tentar", "sair", "do", "local", "Os", "pescadores", "tentaram", "evitar", "que", "ele", "saísse", "de", "lá", "A", "situação", "incendiou-se", "um", "bocadinho", "e", "o", "senhor", "forçou", "a", "saída", "com", "a", "viatura", "tendo", "atropelado", "uma", "senhora", "Segundo", "os", "Bombeiros", "a", "mulher", "sofreu", "ferimentos", "ligeiros", "tendo", " sido", "transportada", "para", "o", "Hospital", "de", "Aveiro", "A", "GNR", "referiu", "também", "que", "o", "condutor", "se", "colocou", "em", "fuga", "mas", "entretanto", "ja", "foi", "identificado", "Os", "mariscadores", "da", "Torreira", "estão", "em", "protesto", "há", "mais", "de", "uma", "semana", "devido", "ao", "facto", "de", "não", "poderem", "trabalhar", "por", "terem", "sido", "detetadas", "percentagens", "excessivas", "de", "coliformes", "fecais", "nas", "águas", "da", "ria", "de", "Aveiro"]
 
-Examples:
-[
-  "Mulher atropelada durante protesto de mariscadores na Murtosa",
-  "Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.",
-  "O caso ocorreu cerca das 12:50, junto ao cais da Torreira.",
-  "Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e queestaria a tentar sair do local.",
-  "Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora", disse a mesma fonte.",
-  "Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital deAveiro.",
-  "A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.",
-  "Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
-]
-*/
+Input:
+"Homem atropalhado durante protesto de mariscadores na Murtosa
+Um homem de 44 anos foi hoje atropalhado durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.
+O caso ocorreu cerca das 12:50, junto ao cais da Torreira.
+Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.
+“Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropalhado um homem”, disse a mesma fonte.
+Segundo os Bombeiros, o homem sofreu ferimentos graves, tendo sido transportado para o Hospital de Aveiro.
+A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.
+Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
 
-const extractParticipants = (text) => {
-  const participants = [];
-  const sentences = text.split(/\r?\n/);
-  sentences.forEach((sent
+Output:
+["Homem", "atropalhado", "durante", "protesto", "de", "mariscadores", "na", "Murtosa", "Um", "homem", "de

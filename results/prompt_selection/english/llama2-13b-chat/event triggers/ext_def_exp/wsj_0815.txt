@@ -1,7 +1,11 @@
-["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units", "Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer"]
-
-Explanation:
-
-* "Di Giorgio Corp. said it's continuing talks with potential buyers of certain units" is an event trigger because it indicates that the company is actively engaging in discussions with potential buyers.
-* "Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp." is an event trigger because it describes the company's efforts to explore other options beyond the unsolicited offer.
-* "Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer" is an event trigger because it indicates that the company believes it can secure a better deal by selling individual units to other buyers rather than accepting the unsolicited offer.
+[
+"said",
+"reaching",
+"unsolicited",
+"tender",
+"vehicle",
+"pursue",
+"accepting",
+"sale",
+"individual"
+]

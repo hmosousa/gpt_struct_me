@@ -1,25 +1,4 @@
-[
-["Violência doméstica", "State"],
-["pulseira eletrónica", "Aspectual"],
-["homem detido", "Occurrence"],
-["Penafiel", "Location"],
-["GNR", "Organization"],
-["separação", "State"],
-["perseguição", "Occurrence"],
-["teleassistência", "Aspectual"],
-["antecedentes criminais", "Intensional Action"]
-]
+[["Violência", "Occurrence"], ["doméstica", "State"], ["Pulseira", "Object"], ["eletrónica", "Aspectual"], ["homem", "Entity"], ["detido", "Occurrence"], ["em", "Preposition"], ["Penafiel", "Location"], ["distrito", "Location"], ["Porto", "Location"], ["suspeito", "Entity"], ["de", "Preposition"], ["violência", "Occurrence"], ["física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças", "Occurrence"], ["de", "Preposition"], ["morte", "Occurrence"], ["ex-companheira", "Entity"], ["informou", "Reporting"], ["a", "Preposition"], ["autoridade", "Entity"], ["policial", "Entity"], ["indicou", "Reporting"], ["que", "Occurrence"], ["o", "Preposition"], ["suspeito", "Entity"], ["não", "Adverb"], ["aceitou", "I_Action"], ["separação", "Occurrence"], ["e", "Conjunction"], ["começou", "I_Action"], ["perseguiu", "I_Action"], ["na", "Preposition"], ["sua", "Possessive"], ["residência", "Location"], ["e", "Conjunction"], ["no", "Preposition"], ["local", "Location"], ["de", "Preposition"], ["trabalho", "Location"], ["a", "Preposition"], ["vítima", "Entity"], ["ficou", "I_Action"], ["proibido", "I_Action"], ["de", "Preposition"], ["contactar", "I_Action"]]
 
-Explanation:
-
-* Violência doméstica: State (the current state of the situation)
-* pulseira eletrónica: Aspectual (describes the device used for monitoring)
-* homem detido: Occurrence (the event of the man being detained)
-* Penafiel: Location (the location where the event took place)
-* GNR: Organization (the authority that made the announcement)
-* separação: State (the state of being separated)
-* perseguição: Occurrence (the event of the man pursuing the woman)
-* teleassistência: Aspectual (describesthe technology used for monitoring)
-* antecedentes criminais: Intensional Action (the man's previous criminal record)
-
-Note: The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Violência doméstica"), and the second string is the class (e.g. "State"). The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,15 +1,4 @@
-[
-"$6.6 million",
-"18 cents a share",
-"four cents a share",
-"13 facilities",
-"seven a year ago",
-"$14 apiece",
-"$26.875",
-"75 cents",
-"$13.5 million",
-"34 cents a share",
-"$283.8 million",
-"33%",
-"$378.1 million"
-]
+["Third quarter", "a year ago", "this summer", "seven", "a year earlier", "33%", "283.8 million", "13 facilities", "75 cents", "14 apiece", "26.875", "67 cents", "34 cents", "101.7 million", "4 cents", "18 cents", "6.6 million", "1.1 million"]
+
+Format:
+JSON-parseable list of strings.

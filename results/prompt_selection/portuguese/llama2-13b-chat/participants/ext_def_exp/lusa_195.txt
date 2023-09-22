@@ -1,1 +1,3 @@
-["PJ", "homem suspeito", "jovem", "coletividade de Setúbal", "Alto da Guerra", "polícia"]
+
+JSON-parseable list of strings:
+["um homem suspeito", "balear jovem", "coletividade de Setúbal", "A Polícia Judiciária", "PJ", "Setúbal", "um jovem", "uma coletividade", "no Alto da Guerra", "o sexagenário", "um disparo de arma de fogo", "ferimentos consideráveis", "num ombro e braço", "o detido", "crimes de homicídio qualificado na forma tentada", "detenção de arma proibida", "omissão de auxílio", "primeiro interrogatório judicial", "medida de coação de prisão preventiva"]

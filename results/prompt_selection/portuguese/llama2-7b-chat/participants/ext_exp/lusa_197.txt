@@ -2,21 +2,36 @@
 "Grua de camião",
 "derrubou",
 "poste de iluminação",
-"no Porto",
-"matou homem de 52 anos",
-"um homem de 52 anos",
-"morreu hoje",
-"sofreu ferimentos ligeiros",
-"na sequência de um acidente",
-"com um camião",
-"que derrubou um poste de eletricidade",
-"na Rua da Constituição",
-"do Porto",
-"de acordo com a fonte da PSP",
-"o poste de iluminação foi derrubado",
-"pelo camião atingindo o homem que circulava na rua",
-"a vítima ainda foi transportada com vida para o Hospital de Santo António",
-"mas acabou por morrer",
-"a estrutura atingiu ainda o funcionário de umas bombas de gasolina",
-"que sofreu ferimentos ligeiros"
+"Porto",
+"matou",
+"homem",
+"52 anos",
+"sofreu",
+"ferimentos",
+"ligheiros",
+"acidente",
+"caminho",
+"Rua da Constituição",
+"PSP",
+"Comando Metropolitano",
+"Hospital de Santo António",
+"morreu",
+"vítima",
+"estructura",
+"funçãoário",
+"bombas de gasolina",
+"ferimentos",
+"ligheiros",
+"acidente",
+"ocorreu",
+"07:50"
 ]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a word or a phrase from the input text. The list is sorted alphabetically.

@@ -1,6 +1,1 @@
-[
-"Jim Pattison Industries Ltd. intends to seek control of Innopac Inc.",
-"Innopac Inc. reported a fourth-quarter loss",
-"Martin Fabi viewed Mr. Pattison's decision to seek control as a 'very positive' move",
-"A joint venture involving units of Innopac and Mobil Corp. opened the first U.S. polystyrene recycling plant"
-]
+["said", "intends", "seek", "holds", "didn't", "currently", "about", "reported", "reflecting", "made", "down", "was", "up", "said", "viewed", "very", "happy", "feels", "positively", "wouldn't", "disclosed", "potential", "planned", "involved", "earlier", "opened", "first"]

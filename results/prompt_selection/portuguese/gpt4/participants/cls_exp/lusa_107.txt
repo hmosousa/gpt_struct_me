@@ -1,15 +1,1 @@
-[
-["Mulher", "Person"],
-["mariscadores", "Person"],
-["Murtosa", "Location"],
-["Bombeiros", "Organization"],
-["GNR", "Organization"],
-["cais da Torreira", "Location"],
-["Lusa", "Organization"],
-["condutor da viatura", "Person"],
-["pescadores", "Person"],
-["senhora", "Person"],
-["Hospital de Aveiro", "Facility"],
-["mariscadores da Torreira", "Person"],
-["ria de Aveiro", "Location"]
-]
+[["Mulher", "Per"], ["protesto", "Other"], ["mariscadores", "Per"], ["a Murtosa", "Loc"], ["Uma mulher de 44 anos", "Per"], ["a Murtosa", "Loc"], ["distrito de Aveiro", "Loc"], ["um protesto", "Other"], ["dezenas de mariscadores", "Per"], ["os Bombeiros", "Org"], ["a GNR", "Org"], ["O caso", "Other"], ["cerca das 12:50", "Other"], ["o cais da Torreira", "Loc"], ["declarações à Lusa", "Other"], ["fonte da GNR", "Per"], ["o condutor da viatura", "Per"], ["um homem", "Per"], ["bivalves", "Other"], ["o local", "Loc"], ["Os pescadores", "Per"], ["ele", "Per"], ["lá", "Loc"], ["A situação", "Other"], ["o senhor", "Per"], ["a saída", "Other"], ["a viatura", "Obj"], ["uma senhora", "Per"], ["a mesma fonte", "Per"], ["os Bombeiros", "Org"], ["a mulher", "Per"], ["ferimentos ligeiros", "Other"], ["o Hospital de Aveiro", "Fac"], ["A GNR", "Org"], ["o condutor", "Per"], ["fuga", "Other"], ["Os mariscadores da Torreira", "Per"], ["protesto", "Other"], ["uma semana", "Other"], ["o facto", "Other"], ["trabalhar", "Other"], ["percentagens excessivas de coliformes fecais", "Other"], ["as águas da ria de Aveiro", "Loc"]]

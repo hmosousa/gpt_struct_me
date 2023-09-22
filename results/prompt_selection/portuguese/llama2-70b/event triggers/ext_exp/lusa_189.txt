@@ -1,1 +1,1 @@
-["homem", "morto", "tiro", "barreiro", "atirador", "fuga"]
+["homem", "trocado", "barreiro", "atirador", "fuga", "baleado", "caçadeira", "atirador", "fuga", "incidente", "ocorreu", "circunstâncias", "tiroteio", "trata-se", "homicídio", "armas", "investigação"]

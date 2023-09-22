@@ -1,1 +1,8 @@
 ["hoje", "25 de novembro", "em novembro", "dois dias após a morte de Maradona"]
+
+Note:
+
+* Dates in the format "dd de mm de anno" (day of month, month, year).
+* Times in the format "hh:mm:ss" (hour, minute, second).
+* Durations in the format "X dias/semanas/anos" (X days/weeks/years).
+* Periods in the format "de mm de anno a mm de anno" (from month year to month year).

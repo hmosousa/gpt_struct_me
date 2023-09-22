@@ -1,78 +1,15 @@
-[
-  ["PJ", "Person"],
-  ["detém", "Organization"],
-  ["homem", "Person"],
-  ["suspeito", "Person"],
-  ["de", "Organization"],
-  ["balear", "Nature"],
-  ["jovem", "Person"],
-  ["em", "Organization"],
-  ["coletividade", "Location"],
-  ["de", "Organization"],
-  ["Setúbal", "Location"],
-  ["A", "Organization"],
-  ["Polícia", "Organization"],
-  ["Judiciária", "Organization"],
-  ["(PJ)", "Organization"],
-  ["de", "Organization"],
-  ["Setúbal", "Location"],
-  ["deteve", "Organization"],
-  ["um", "Organization"],
-  ["homem", "Person"],
-  ["de", "Organization"],
-  ["63", "Nature"],
-  ["anos", "Nature"],
-  ["suspeito", "Person"],
-  ["de", "Organization"],
- ["ter", "Organization"],
-  ["baleado", "Nature"],
-  ["um", "Organization"],
-  ["jovem", "Person"],
-  ["na", "Organization"],
-  ["passada", "Nature"],
-  ["quarta-feira", "Nature"],
-  ["no", "Organization"],
-  ["restaurante", "Location"],
-  ["de", "Organization"],
-  ["uma", "Organization"],
-  ["coletividade", "Location"],
-  ["de", "Organization"],
-  ["Setúbal", "Location"],
-  ["Alto", "Nature"],
-  ["da", "Organization"],
-  ["Guerra", "Nature"],
-  ["o", "Organization"],
-  ["presumível", "Nature"],
-  ["agressor", "Person"],
-  ["terá", "Organization"],
-  ["disparado", "Nature"],
-  ["sobre", "Nature"],
-  ["a", "Organization"],
-  ["vítima", "Person"],
-  ["na", "Organization"],
-  ["sequência", "Nature"],
-  ["de", "Organization"],
-  ["um", "Organization"],
-  ["grupo", "Organization"],
-  ["de", "Organization"],
-  ["convivas", "Organization"],
-  ["que", "Organization"],
-  ["se", "Organization"],
-  ["encontrava", "Nature"],
-  ["a", "Organization"],
-  ["almoçar", "Nature"],
-  ["na", "Organization"],
-  ["coletividade", "Location"],
-  ["do", "Organization"],
-  ["alvejar", "Nature"],
-  ["um", "Organization"],
-  ["jovem", "Person"],
-  ["do", "Organization"],
-  ["grupo", "Organization"],
-  ["com", "Organization"],
-  ["disparo", "Nature"],
-  ["de", "Organization"],
-  ["arma", "Nature"],
-  ["de", "Organization"],
-  ["fogo", "Nature"],
-  ["
+[["PJ detém", "Org"], ["homem suspeito", "Per"], ["de balear", "Per"], ["jovem", "Per"], ["em coletividade", "Loc"], ["de Setúbal", "Loc"], ["A Polícia Judiciária", "Org"], ["de Setúbal", "Loc"], ["deteve", "Per"], ["um homem", "Per"], ["de 63 anos", "Per"], ["suspeito", "Per"], ["de ter", "Per"], ["baleado", "Per"], ["um jovem", "Per"], ["na passada quarta-feira", "Loc"], ["no restaurante", "Loc"], ["de uma coletividade", "Loc"], ["de Setúbal", "Loc"], ["foi", "Per"], ["hoje", "Per"], ["anunciado", "Per"], ["que", "Per"], ["o presumível", "Per"], ["agressor", "Per"], ["terá", "Per"], ["disparado", "Per"], ["sobre", "Loc"], ["a vítima", "Per"], ["na sequência", "Per"], ["de um conflito", "Per"], ["com", "Per"], ["um grupo", "Per"], ["de convivas", "Per"], ["que", "Per"], ["se encontrava", "Per"], ["a almoçar", "Loc"], ["na coletividade", "Loc"], ["no Alto da Guerra", "Loc"], ["a polícia", "Org"], ["adiante", "Per"], ["que", "Per"], ["o sexagenário", "Per"], ["acabou", "Per"], ["por alvejar", "Per"], ["um jovem", "Per"], ["do grupo", "Per"], ["com", "Per"], ["um disparo", "Per"], ["de arma de fogo", "Per"], ["provocando-lhe", "Per"], ["ferimentos", "Per"], ["consideráveis", "Per"], ["num", "Per"], ["ombro", "Per"], ["e", "Per"], ["braço", "Per"], ["o detido", "Per"], ["que", "Per"], ["fugiu", "Per"], ["do local", "Loc"], ["é", "Per"], ["indiciado", "Per"], ["por", "Per"], ["os crimes", "Per"], ["de", "Per"], ["homicídio", "Per"], ["qualificado", "Per"], ["na forma", "Per"], ["tentada", "Per"], ["detenção", "Per"], ["de arma", "Per"], ["proibida", "Per"], ["e", "Per"], ["omissão", "Per"], ["de auxílio", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"PJ detém homem suspeito de balear jovem em coletividade de Setúbal
+A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira, no restaurante de uma coletividade de Setúbal, foi hoje anunciado.
+Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade, no Alto da Guerra.
+A polícia adianta que o sexagenário acabou por alvejar um jovem do grupo com um disparo de arma de fogo, provocando-lhe ferimentos consideráveis num ombro e braço.
+O detido, que fugiu do local, está indiciado pelos crimes de homicídio qualificado na forma tentada, detenção de arma proibida e omissão de auxílio.
+Já foi presente a primeiro interrogatório judicial, tendo-lhe sido aplicada a medida de coação de prisão preventiva."
+
+Output:
+[["PJ detém", "Org"], ["homem suspeito", "Per"], ["de balear", "Per"], ["jovem

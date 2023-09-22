@@ -1,14 +1,11 @@
-[
-"hoje",
-"cerca",
-"12:50",
-"dezenas",
-"sem gravidade",
-"Torreira",
-"bocadinho",
-"Hospital de Aveiro",
-"há mais de uma semana",
-"percentagens excessivas",
-"coliformes fecais",
-"rias de Aveiro"
-]
+	["Murtosa", "distrito de Aveiro", "Torreira", "12:50", "Cais da Torreira", "GNR", "bombeiros", "Hospital de Aveiro", "Aveiro"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression. The time expressions are:
+* "menos de uma semana" (less than a week)
+* "hoje" (today)
+* "semanas" (weeks)
+* "final do ano" (end of the year)
+* "30 nov 2020" (November 30, 2020)
+* "época de veda" (fishing ban period)
+* "épocas de veda" (plural form of "época de veda") (fishing ban periods)

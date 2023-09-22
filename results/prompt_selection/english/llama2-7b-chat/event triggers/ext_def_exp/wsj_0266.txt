@@ -1,11 +1,7 @@
-[
-"created",
-"listed",
-"named",
-"innovated",
-"eliminated",
-"purchased",
-"daily",
-"total",
-"constant"
-]
+
+["pleased", "note", "recognized", "item", "listed", "world", "finance", "century", "creators", "money-fund", "Harry", "Brown", "innovated", "redemptions", "dividends", "certificates", "pricing", "SEC"]
+
+
+
+
+

@@ -1,9 +1,1 @@
-[
-"07:50",
-"52 anos"
-]
-
-Explanation:
-
-* 07:50: Time expression indicating the time of the accident.
-* 52 anos: Time expression indicating the age of the victim.
+["cerca das 07:50", "hoje", "52 anos", "30 nov 2020", "Rua da Constituição", "Porto", "PSP", "hospital de Santo António"]

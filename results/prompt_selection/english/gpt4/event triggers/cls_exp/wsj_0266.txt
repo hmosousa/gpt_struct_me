@@ -1,8 +1,1 @@
-[
-["recognized", "Perception"],
-["creation", "Occurrence"],
-["named", "Reporting"],
-["innovated", "Intensional Action"],
-["thought out", "Intensional Action"],
-["result", "State"]
-]
+[["recognized", "PERCEPTION"], ["listed", "REPORTING"], ["named", "OCCURRENCE"], ["innovated", "OCCURRENCE"], ["thought", "PERCEPTION"], ["elimination", "OCCURRENCE"], ["pleased", "I_STATE"], ["note", "PERCEPTION"]]

@@ -1,35 +1,4 @@
-[
-["GNR", "State"],
-["homens", "Occurrence"],
-["droga", "Occurrence"],
-["Sines", "Location"],
-["dos", "Aspectual"],
-["estupefacientes", "Aspectual"],
-["aprender", "Intensional Action"],
-["movimentações", "Perception"],
-["transação", "Intensional Action"],
-["heroína", "Aspectual"],
-["cocaína", "Aspectual"],
-["numerário", "Aspectual"],
-["veículo", "Aspectual"],
-["telemóveis", "Aspectual"]
-]
+[["GNR", "I_Action"], ["detém", "I_Action"], ["dos homens", "Occurrence"], ["por tráfico de droga", "Occurrence"], ["em Sines", "Location"], ["a GNR", "I_Action"], ["apreendido", "Occurrence"], ["1.673 doses de estupefacientes", "Occurrence"], ["divulgou", "Reporting"], ["hoje", "Temporal"], ["aquela força de segurança", "I_Action"], ["em comunicado", "Reporting"], ["indicou", "Reporting"], ["que a detenção", "I_Action"], ["dos dois suspeitos", "Occurrence"], ["efetuada", "I_Action"], ["no sábado", "Temporal"], ["no decorrer", "Temporal"], ["de uma ação de patrulhamento", "Occurrence"], ["num local", "Location"], ["ja referenciado", "Aspectual"], ["por tráfico de estupefacientes", "Occurrence"], ["no concelho", "Location"], ["de Sines", "Location"], ["Após verificarem", "Reporting"], ["movimentações suspeitas", "Occurrence"], ["em local", "Location"], ["ja referenciado", "Aspectual"], ["por tráfico de estupefacientes", "Occurrence"], ["os militares", "I_Action"], ["detiveram", "I_Action"], ["os dois suspeitos", "Occurrence"], ["quando estes", "Occurrence"], ["se preparavam", "Occurrence"], ["para efetuar", "I_Action"], ["uma transação", "Occurrence"], ["na operação", "Occurrence"], ["apreendidas", "Occurrence"], ["1.570 doses de heroína", "Occurrence"], ["103 doses de cocaína", "Occurrence"], ["844 euros em numerário", "Occurrence"], ["um veículo", "Occurrence"], ["e quatro telemóveis", "Occurrence"]]
 
-Explanation:
-
-* GNR is a State (entity) and detém (verb) is an Occurrence (class).
-* homens (noun) is an Occurrence (class).
-* droga (noun) is an Occurrence (class).
-* Sines (noun) is a Location (entity).
-* dos (noun) is an Aspectual (class).
-* estupefacientes (noun) is an Aspectual (class).
-* aprender (verb) is an Intensional Action (class).
-* movimentações (noun) is a Perception (class).
-* transação (noun) is an Intensional Action (class).
-* heroína (noun) is an Aspectual (class).
-* cocaína (noun) is an Aspectual (class).
-* numerário (noun) is an Aspectual (class).
-* veículo (noun) is an Aspectual (class).
-* telemóveis (noun) is an Aspectual (class).
-
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are: I_Action, Occurrence, Reporting, Aspectual, Intensional Action, and Intensional State.

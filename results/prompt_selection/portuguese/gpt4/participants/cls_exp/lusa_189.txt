@@ -1,9 +1,1 @@
-[
-["Homem", "Person"],
-["Barreiro", "Location"],
-["atirador", "Person"],
-["agência Lusa", "Organization"],
-["Direção Nacional da Polícia de Segurança Pública", "Organization"],
-["PSP", "Organization"],
-["Polícia Judiciária", "Organization"]
-]
+[["Um homem", "Per"], ["o Barreiro", "Loc"], ["dois tiros de caçadeira", "Obj"], ["o atirador", "Per"], ["agência Lusa", "Org"], ["fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "Per"], ["o incidente", "Other"], ["20:20 de hoje", "Other"], ["as circunstâncias do tiroteio", "Other"], ["uma suspeita de homicídio", "Other"], ["armas de fogo", "Obj"], ["a ocorrência", "Other"], ["a Polícia Judiciária", "Org"], ["o caso", "Other"]]

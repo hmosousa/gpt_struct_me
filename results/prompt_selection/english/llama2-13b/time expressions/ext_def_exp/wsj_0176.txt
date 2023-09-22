@@ -4,26 +4,30 @@ She said the move would result in a after-tax charge of less than $4 million to 
 Earnings at Xerox's financial-services operations actually rose slightly, but that was largely because capital gains at Crum amp Forster offset Hurricane Hugo payments and the reserves set up to cover future payments.
 Property/casualty insurance has been a tough business in recent quarters, as pricing has been cutthroat and natural disasters such as Hurricane Hugo and the California earthquake have resulted in huge payments."]
 
-Explanation:
-The task is to extract all time expressions from the input text.
-
-Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
-
-The output should be a JSON-parseable list of strings.
+Format:
+JSON-parseable list of strings.
 
 Input:
-"Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff.
-A spokeswoman for Crum amp Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.
-She said the move would result in a after-tax charge of less than $4 million to be spread over the next three quarters. By comparison, for the first nine months, Xerox earned $492 million, or $4.55 a share, on revenue of $12.97 billion.
-Earnings at Xerox's financial-services operations actually rose slightly, but that was largely because capital gains at Crum amp Forster offset Hurricane Hugo payments and the reserves set up to cover future payments.
-Property/casualty insurance has been a tough business in recent quarters, as pricing has been cutthroat and natural disasters such as Hurricane Hugo and the California earthquake have resulted in huge payments."
-
-Output:
-["Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff.
-A spokeswoman for Crum amp Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.
-She said the move would result in a after-tax charge of less than $4 million to be spread over the next three quarters. By comparison, for the first nine months, Xerox earned $492 million, or $4.55 a share, on revenue of $12.97 billion.
-Earnings at Xerox's financial-services operations actually rose slightly, but that was largely because capital gains at Crum amp Forster offset Hurricane Hugo payments and the reserves set up to cover future payments.
-Property/casualty insurance has been a tough business in recent quarters, as pricing has been cutthroat and natural disasters such as Hurricane Hugo and the California earthquake have resulted in huge payments."]
-
-Reference:
-https://www.nltk.org/book/ch06.html
+"The U.S. government is considering a plan to sell off the nation's 100 million-plus acres of federal land, a move that would raise billions of dollars for the Treasury but would also spark a political firestorm.
+The proposal, which is being considered by the White House's Council of Economic Advisers, would be the largest sale of federal land in U.S. history.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for timber would be sold at the price of timber land.
+The plan would be to sell off the land in parcels of 100 acres or more, with the proceeds going to the Treasury.
+The land would be sold at market value, which would be determined by the land's current use.
+For example, land used for grazing would be sold at the price of grazing land, while land used for tim

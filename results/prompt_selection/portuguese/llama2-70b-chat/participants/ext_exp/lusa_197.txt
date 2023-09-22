@@ -1,8 +1,1 @@
-[
-"homem de 52 anos",
-"outro homem",
-"funcionário de bombas de gasolina"
-]
-
-Explanation:
-The participants in this text are the people involved in the accident: the 52-year-old man who died, the other man who was injured, and the gas station attendant who was also injured.
+["Um homem de 52 anos", "hoje", "um outro", "um acidente", "um camião", "derrubou", "um poste de eletricidade", "na Rua da Constituição", "no Porto", "fonte", "PSP", "De acordo", "fonte", "Comando Metropolitano", "PSP", "do Porto", "o poste", "a grua", "o homem", "que circulava", "na rua", "a vítima", "Hospital", "Santo António", "morreu", "a estrutura", "atingiu", "um funcionário", "de bombas de gasolina", "ferimentos ligeiros", "o acidente", "cerca", "07:50"]

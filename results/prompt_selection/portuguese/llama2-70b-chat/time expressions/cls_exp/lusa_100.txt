@@ -1,22 +1,16 @@
-[
-["Violência doméstica", "Date"],
-["39 anos", "Duration"],
-["42 anos", "Duration"],
-["hoje", "Time"],
-["não aceitou a separação", "Duration"],
-["começou a perseguir", "Duration"],
-["botão de pânico", "Set"],
-["proibido de contactar", "Set"]
-]
+[["39 anos", "Date"], ["42 anos", "Date"], ["hoje", "Time"], ["GNR", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["30 nov 2020", "Date"]]
 
-Explanation:
-The input text contains several time expressions that can be classified into different categories.
+Note:
+The input text is in Portuguese.
 
-* "Violência doméstica" is a date and can be classified as such.
-* "39 anos" and "42 anos" are durations and can be classified as such.
-* "hoje" is a time and can be classified as such.
-* "não aceitou a separação" and "começou a perseguir" are durations and can be classified as such.
-* "botão de pânico" is a set and can be classified as such.
-* "proibido de contactar" is a set and can beclassified as such.
+Hint:
+You can use the following resources to help you with the task:
 
-The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* NLTK library for natural language processing in Python
+* SpaCy library for natural language processing in Python
+* Stanford CoreNLP for natural language processing in Java
+* GATE library for natural language processing in Java
+
+You can also use online resources such as language models and dictionaries to help you with the task.
+
+Note that the input text is in Portuguese, so you may need to use resources that are specific to that language.

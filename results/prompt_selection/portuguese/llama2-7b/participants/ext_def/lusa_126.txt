@@ -20,4 +20,8 @@ Examples:
 
 const extractParticipants = (text) => {
   const participants = [];
-  const
+  const participantsRegex = /(GNR detém|A GNR deteve|Em comunicado, a Guarda Nacional Republicana (GNR) indicou|Após verificarem movimentações suspeitas, em local já referenciado|Na operação foram apreendidas)/g;
+  const participantsRegex2 = /(os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação.)/g;
+  const participantsRegex3 = /(com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido)/g;
+  const participantsRegex4 = /(os dois suspeitos quando estes se preparavam para efetuar uma transação)/g;
+  const participantsRegex5 = /(1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo

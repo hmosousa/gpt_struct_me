@@ -1,14 +1,4 @@
-[
-"Aug. 9",
-"Sept. 30",
-"a year ago"
-]
+["Aug. 9", "Sept. 30", "12 Canadian cents a share", "50% of the then current market price", "4.7 million Canadian dollars ($4 million)", "14 Canadian cents a share", "307.2 a year earlier", "348.2 million"]
 
-Explanation:
-The input text contains three time expressions:
-
-* "Aug. 9" - a specific date in the past
-* "Sept. 30" - a specific date in the past
-* "a year ago" - a time period (a year)
-
-These time expressions are extracted and returned in a JSON-parseable list of strings.
+Format:
+JSON-parseable list of strings.

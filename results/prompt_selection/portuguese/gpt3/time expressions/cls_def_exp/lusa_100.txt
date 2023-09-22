@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["39 anos", "Duration"], ["sua residência", "Set"], ["local de trabalho", "Set"], ["botão de pânico", "Time"], ["antecedentes criminais", "Duration"], ["contactar a vítima", "Time"]]
+[["hoje", "Date"], ["em comunicado", "Time"], ["botão de pânico", "Set"], ["medida de proteção", "Set"], ["teleassistência", "Set"], ["antecedentes criminais", "Set"]]

@@ -1,1 +1,1 @@
-[["segunda-feira", "Date"], ["hoje", "Date"], ["Tribunal Judicial de Beja", "Set"], ["Estrada Nacional 122", "Set"], ["12.300 doses", "Duration"]]
+[["segunda-feira", "Date"], ["Tribunal Judicial de Beja", "Set"], ["Estrada Nacional 122", "Set"], ["segunda-feira", "Date"]]

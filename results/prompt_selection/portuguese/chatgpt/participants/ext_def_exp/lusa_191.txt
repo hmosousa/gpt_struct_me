@@ -1,1 +1,1 @@
-["Homem", "mercado de Arroios", "Lisboa", "PSP", "Comando Metropolitano de Lisboa", "Cometlis", "rua Ângela Pinto", "café", "Polícia Judiciária", "Avenida Almirante Reis"]
+["informou à agência Lusa", "o Comando Metropolitano de Lisboa (Cometlis)", "fonte do Cometlis", "a PSP", "a Avenida Almirante Reis", "a polícia", "fonte da polícia", "a Polícia Judiciária (PJ)"]

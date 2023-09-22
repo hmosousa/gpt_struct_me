@@ -1,12 +1,3 @@
-["created the Reserve Fund", "innovated telephone redemptions", "daily dividends", "total elimination of share certificates", "constant $1 pershare pricing"]
+[ "recognized", "money-fund", "concept", "significant", "events", "past", "century", "Journal", "listed", "creation", "money", "fund", "world", "finance", "20th", "century", "Reserve", "America", "first", "money", "fund", "named", "creators", "money-fund", "Harry", "Brown", "innovated", "telephone", "redemptions", "daily", "dividends", "total", "elimination", "share", "certificates", "constant", "1", "pershare", "pricing", "painfully", "thought", "out", "result", "SEC", "BRUCE", "BENT", "President", "The", "Reserve", "Fund", "New", "York"]
 
-Explanation:
-The input text contains several events that are mentioned by the author. These events are:
-
-* "created the Reserve Fund"
-* "innovated telephone redemptions"
-* "daily dividends"
-* "total elimination of share certificates"
-* "constant $1 pershare pricing"
-
-These events are extracted from the text using a combination of keyword extraction and part-of-speech tagging. The output is a JSON-parseable list of strings, where each string represents an event trigger.
+Please note that the output should be in JSON-parseable list of strings.

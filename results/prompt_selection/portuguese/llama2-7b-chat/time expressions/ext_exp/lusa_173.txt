@@ -1,17 +1,8 @@
-[
-"found dead",
-"34 years old",
-"functionary of Transportadora J Amaral",
-"09:56",
-"Saturday",
-"disappeared",
-"local",
-"cistern",
-"open",
-"cause of death",
-"health delegate",
-"police judiciary",
-"vehicle medical emergency and resuscitation of Aveiro",
-"transporte cadáver",
-"Hospital Infante D. Pedro"
-]
+["em Estarreja", "sábado", "09:56", "Hospital Infante D. Pedro", "Aveiro", "Transportadora J Amaral", "Joaquim Rebelo", "Delegada de Saúde", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro"]
+
+
+
+Note:
+
+* Time expressions are in the format of "X semana", "X dia", "X ano", etc.
+* The output is a JSON-parseable list of strings.

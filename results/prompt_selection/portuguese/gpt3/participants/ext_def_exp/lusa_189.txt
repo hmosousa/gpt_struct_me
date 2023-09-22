@@ -1,1 +1,1 @@
-["Homem", "atirador", "fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "mesma fonte", "incidente", "Polícia Judiciária"]
+["um comunicado", "Um homem", "tiro", "Barreiro", "dois tiros", "caçadeira", "o atirador", "fuga", "fonte", "Direção Nacional da Polícia de Segurança Pública (PSP)", "mesma fonte", "incidente", "20:20", "tiroteio", "suspeita", "homicídio", "armas de fogo", "ocorrência", "Polícia Judiciária", "investigação", "caso"]

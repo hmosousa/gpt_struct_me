@@ -1,16 +1,10 @@
-[
-["12:50", "Time"],
-["hoje", "Date"],
-["cerca de uma semana", "Duration"],
-["já", "Set"]
-]
+[["hoje", "Time"], ["12:50", "Time"], ["Torreira", "Location"], ["Torreira", "Location"], ["mais de uma semana", "Duration"], ["Aveiro", "Location"], ["Aveiro", "Location"]]
 
-Explanation:
-The input text contains four time expressions: "12:50", "hoje", "cerca de uma semana", and "já".
+Please extract and classify all time expressions in the given text.
 
-* "12:50" is a time expression that can be classified as "Time".
-* "hoje" is a date expression that can be classified as "Date".
-* "cerca de uma semana" is a duration expression that can be classified as "Duration".
-* "já" is a set expression that can be classified as "Set".
+Note:
 
-Therefore, the output should be a JSON-parseable list with four elements, each containing the time expression and its corresponding class.
+* Dates should be in the format of "dd/mm/yyyy" or "dd/mm/yy"
+* Times should be in the format of "HH:MM"
+* Durations should be in the format of "X dias/semanas/anos"
+* Sets should be in the format of "dd/mm/yyyy - dd/mm/yyyy"

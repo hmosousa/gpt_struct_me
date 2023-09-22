@@ -1,38 +1,14 @@
-[
-["hoje", "Date"],
-["à tarde", "Time"],
-["69 anos", "Duration"],
-["hoje", "Date"],
-["em estado de coma", "Duration"],
-["agora", "Time"],
-["este", "Duration"],
-["proibido", "Set"],
-["nesta ocorrência", "Duration"],
-["ambos", "Duration"],
-["uma", "Duration"],
-["outra", "Duration"],
-["segundo", "Time"],
-["uma", "Duration"],
-["outra", "Duration"]
-]
+[["hoje", "Time"], ["hoje à tarde", "Time"], ["30 nov 2020", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["em estado de coma", "Duration"], ["uma semana", "Duration"], ["menos de uma semana", "Duration"]]
 
-Explanation:
-The input text contains several temporal expressions that can be classified into four different classes: Date, Time, Duration, and Set.
+Note:
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions in the input text.
 
-* "hoje" (today) is a Date.
-* "à tarde" (this afternoon) is a Time.
-* "69 anos" (69 years old) is a Duration.
-* "hoje" (today) is a Date.
-* "em estado de coma" (in a coma) is a Duration.
-* "agora" (now)is a Time.
-* "este" (this) is a Duration.
-* "proibido" (prohibited) is a Set.
-* "nesta ocorrência" (in this occurrence) is a Duration.
-* "ambos" (both) is a Duration.
-* "uma" (one) is a Duration.
-* "outra" (other) is a Duration.
-* "segundo" (second) is a Time.
-* "uma" (one) is a Duration.
-* "outra" (other) is a Duration.
+Hint:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to extract temporal expressions.
+You can use a machine learning model to classify temporal expressions.
 
-The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.
+Note:
+This is a sample task and the format and the input text may change in the future.

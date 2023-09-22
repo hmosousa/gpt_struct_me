@@ -1,1 +1,1 @@
-["hoje", "à tarde", "hoje à tarde"]
+["hoje", "à tarde", "hoje à tarde", "proibido o consumo de álcool na via pública"]

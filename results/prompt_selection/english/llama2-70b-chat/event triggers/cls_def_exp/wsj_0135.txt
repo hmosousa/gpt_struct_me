@@ -1,47 +1,6 @@
-[
-["Elco Industries Inc.", "State"],
-["net income", "Occurrence"],
-["year ending June 30, 1990", "Aspectual"],
-["fall below", "Intensional Action"],
-["a recent analyst's estimate of $1.65 a share", "Intensional State"],
-["sales", "Occurrence"],
-["current fiscal year", "Aspectual"],
-["slightly above", "Intensional Action"],
-["fiscal 1989 sales of $155 million", "Intensional State"],
-["industrial unit", "State"],
-["margin pressures", "Occurrence"],
-["lower demand", "Occurrence"],
-["fiscal 1989", "Aspectual"],
-["$7.8 million", "Occurrence"],
-["$1.65 a share", "Intensional State"],
-["stock", "State"],
-["fell $1.125 to $13.625", "Occurrence"]
-]
+[["said", "REPORTING"], ["expects", "I_ACTION"], ["fall", "OCCURRENCE"], ["below", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["expects", "I_ACTION"], ["post", "OCCURRENCE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["company", "OCCURRENCE"], ["industrial", "OCCURRENCE"], ["unit", "OCCURRENCE"], ["faces", "OCCURRENCE"], ["margin", "OCCURRENCE"], ["pressures", "OCCURRENCE"], ["lower", "OCCURRENCE"], ["demand", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["trading", "OCCURRENCE"]]
 
-In this task, you will be given a sentence or a paragraph and asked to extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event, such as "said," "expects," "falls," "earned," etc.
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
 
-You will need to classify each event trigger into one of the following classes:
-
-* State: Indicates a state of being or a condition. Examples: "is," "are," "was," "were," etc.
-* Occurrence: Indicates an event or a happening. Examples: "said," "falls," "earned," etc.
-* Reporting: Indicates a report or a statement about an event. Examples: "reported," "said," "indicated," etc.
-* Perception: Indicates a perception or an observation about an event. Examples: "seemed," "appeared," "looked," etc.
-* Aspectual: Indicates a change in aspect or a shift in focus. Examples: "starting," "ending," "during," etc.
-* Intensional Action: Indicates an action that is intended or planned. Examples: "will," "expects," "intends," etc.
-* Intensional State: Indicates a state that is intended or planned. Examples: "will be," "is expected to be," "is planned to be," etc.
-
-Your output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity (the word or phrase that triggered the event), and the second string is the class (one of the seven classes listed above).
-
-Here's an example input and output for this task:
-
-Input: "Elco Industries Inc. said it expects net income in the year ending June 30, 1990, to fall below a recent analyst's estimate of $1.65 a share."
-
-Output: [
-["Elco Industries Inc.", "State"],
-["net income", "Occurrence"],
-["year ending June 30, 1990", "Aspectual"],
-["fall below", "Intensional Action"],
-["a recent analyst's estimate of $1.65 a share", "Intensional State"],
-]
-
-Note that in this example, "fall below" is classified as an Intensional Action, indicating that it is an action that is intended or planned. Similarly, "a recent analyst's estimate of $1.65 a share" is classified as an Intensional State, indicating that it is a state that is intended or planned.
+Please extract and classify all event triggers in the given text.

@@ -1,1 +1,1 @@
-["detetado", "alertado", "confirmaram", "retirado", "transportado", "autopsiado"]
+["detetado", "desconhecendo-se", "causas", "morte", "anunciou", "alertado", "presença", "boiar", "área", "domínio público marítimo", "informação", "recebida", "confirmaram", "presença", "corpo", "cadáver", "retirado", "equipa", "grande ângulo", "encontrava", "zona", "difícil acesso", "transportado", "autopsiado", "apurar", "causas", "morte"]

@@ -1,30 +1,20 @@
-[
-["Violência doméstica", "Person"],
-["Pulseira eletrónica", "Object"],
-["homem", "Person"],
-["detido", "Object"],
-["em Penafiel", "Location"],
-["distrito do Porto", "Location"],
-["suspeito", "Person"],
-["violência física", "Nature"],
-["injúrias", "Nature"],
-["ameaças de morte", "Nature"],
-["ex-companheira", "Person"],
-["medida de proteção", "Object"],
-["teleassistência", "Object"],
-["antecedentes criminais", "Nature"]
-]
+[["um homem", "Per"], ["de 39 anos", "Other"], ["suspeito", "Per"], ["de violência física", "Other"], ["injúrias", "Other"], ["e ameaças de morte", "Other"], ["à ex-companheira", "Other"], ["de 42 anos", "Other"], ["informou", "Org"], ["hoje", "Other"], ["fonte da GNR", "Org"], ["a autoridade policial", "Org"], ["indicou", "Org"], ["que", "Other"], ["o suspeito", "Per"], ["não aceitou", "Other"], ["a separação", "Other"], ["e começou", "Other"], ["a perseguir", "Other"], ["a vítima", "Other"], ["na sua residência", "Loc"], ["e no local de trabalho", "Loc"], ["A mulher", "Per"], ["ja usava", "Other"], ["um botão de pânico", "Obj"], ["que", "Other"], ["lhe havia sido aplicado", "Other"], ["por medida de proteção", "Other"], ["por teleassistência", "Other"], ["O homem", "Per"], ["com antecedentes criminais", "Other"], ["por ilícitos da mesma natureza", "Other"], ["ficou", "Other"], ["proibido", "Other"], ["de contactar", "Other"], ["a vítima", "Other"]]
 
-Explanation:
+Note:
 
-* "Violência doméstica" is a person (class: "Person") because it is a type of behavior.
-* "Pulseira eletrónica" is an object (class: "Object") because it is a physical device.
-* "homem" is a person (class: "Person") because it is a living being.
-* "detido" is an object (class:"Object") because it is a physical device.
-* "em Penafiel" and "distrito do Porto" are locations (class: "Location") because they are geographical places.
-* "suspeito" is a person (class: "Person") because it is a living being.
-* "violência física", "injúrias", and "ameaças de morte" are all nature (class: "Nature") because they are types of behavior or events.
-* "ex-companheira" is a person (class: "Person") because it is a living being.
-* "medida de proteção" is an object (class: "Object") because it is a physical device.
-* "teleassistência" is an object (class: "Object") because it is a physical device.
-* "antecedentes criminais" is a nature (class: "Nature") because it is a type of behavior or event.
+* "Per" stands for "Person"
+* "Other" stands for "Other"
+* "Obj" stands for "Object"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+
+Hint:
+
+* The input text contains several entities and classes.
+* Each entity is represented by a string.
+* Each class is represented by a string.
+* The entities and classes are separated by a comma.
+* The input text contains several examples of entities and classes.
+
+Please let me know if you need any further clarification or details.

@@ -1,27 +1,5 @@
-[
-"Autoridades judiciais fazem buscas", "hoje", "buscas", "apartamento", "Maximiliano Trimarchi", "Diego Maradona", "motorista", "negligência", "morte", "ex-futebolista", "argentino", "San Isidro", "polícia", "perícias", "telemóveis", "Leopoldo Luque", "Agustina Cosachov", "inquérito", "justiça argentina"]
-Note:
-* "Autoridades judiciais fazem buscas" is a time expression because it refers to a specific action happening at a particular time (hoje).
-* "hoje" is a time expression because it means "today".
-* "buscas" is a time expression because it refers to a specific action happening at a particular time (hoje).
-* "apartamento" is not a time expression.
-* "Maximiliano Trimarchi" is not a time expression.
-* "Diego Maradona" is not a time expression.
-* "motorista" is not a time expression.
-* "negligência" is not a time expression.
-* "morte" is a time expression because it means "death".
-* "ex-futebolista" is not a time expression.
-* "argentino" is not a time expression.
-* "San Isidro" is not a time expression.
-* "polícia" is not a time expression.
-* "perícias" is a time expression because it means "autopsies".
-* "telemóveis" is a time expression because it means "cell phones".
-* "Leopoldo Luque" is not a time expression.
-* "Agustina Cosachov" is not a time expression.
-* "inquérito" is a time expression because it means "investigation".
-* "justiça argentina" is not a time expression.
+["em casa de motorista de Maradona", "apartamento de Maximiliano Trimarchi", "procuradoria-geral de San Isidro", "Leopoldo Luque", "Agustina Cosachov", "60 anos", "dezembro", "novembro", "início de novembro", "final de novembro"]
+
 
 Note:
-
-* Time expressions in the input text are highlighted in bold.
-* Non-time expressions are not highlighted.
+The output is a list of time expressions in the input text. The time expressions are highlighted in bold.

@@ -1,16 +1,1 @@
-[['Autoridades', 'Organization'], ['judiciais', 'Facility'], ['argentinas', 'Location'], ['realizaram', 'Nature'], ['hoje', 'Other'], ['buscas', 'Object'], ['apartamento', 'Facility'], ['Maximiliano', 'Person'], ['Trimarchi', 'Person'], ['motorista', 'Occupation'], ['Diego', 'Person'], ['Maradona', 'Person'], ['âmbito', 'Other'], ['investigação', 'Action'], ['alegada', 'Adjective'], ['negligência', 'Noun'], ['morte', 'Death'], ['ex-futebolista', 'Profession'], ['ocorrida', 'Verb'], ['25', 'Date'], ['novembro', 'Month'], ['.', 'Punctuation'], ['Em', 'Preposition'], ['comunicado', 'Noun'], ['procuradoria-geral', 'Facility'], ['San Isidro', 'Place'], ['refere', 'Verb'], ['saber', 'Verb'], ['Trimarchi', 'Person'], ['estava', 'Verb'], ['junto', 'Adverb'], ['morreu', 'Verb'], ['sua casa', 'Facility'], ['San André', 'Place'], ['província', 'Region'], ['Buenos Aires', 'City']]
-"""
-import json
-from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer, SnowballStemmer
-from nltk.tokenize import word_tokenize
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import LinearSVC
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import Truncated
+[["As autoridades judiciais", "Org"], ["hoje", "Other"], ["buscas", "Per"], ["no apartamento", "Fac"], ["de Maximiliano Trimarchi", "Loc"], ["motorista", "Obj"], ["Diego Maradona", "Person"], ["no âmbito", "Loc"], ["da investigação", "Org"], ["por alegada negligência", "Nature"], ["na morte", "Loc"], ["do ex-futebolista argentino", "Person"], ["ocorrida em 25 de novembro.", "Date"], ["Em comunicado", "Other"], ["a procuradoria-geral", "Org"], ["San Isidro", "Loc"], ["refere", "Verb"], ["que as buscas", "Per"], ["durante as quais", "Adverb"], ["foi apreendido", "Verb"], ["o telemóvel do motorista", "Obj"], ["foram ordenadas depois de saber", "Verb"], ["que Trimarchi", "Person"], ["estava junto de Maradona", "Preposition"], ["quando este morreu", "Verb"], ["na sua casa", "Fac"], ["em San André", "Loc"], ["na província de Buenos Aires", "Loc"], ["A polícia", "Org"], ["já realizou perícias aos telemóveis", "Verb"], ["de Leopoldo Luque", "Person"], ["médico", "Obj"], ["Maradona", "Person"], ["que participou na operação", "Verb"], ["um hematoma subdural", "Obj"], ["a que o antigo futebolista foi submetido no início de novembro", "Verb"], ["e da psiquiatra Agustina Cosachov", "Person"], ["Dois dias após a morte de Maradona", "Date"], ["de 60 anos", "Age"], ["a justiça argentina abriu um inquérito para determinar se houve negligência médica", "Verb"], ["na assistência ao antigo futebolista.", "Verb"]]

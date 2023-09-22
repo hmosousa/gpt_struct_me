@@ -1,7 +1,1 @@
-["hoje", "18:16"]
-
-Explanation:
-The input text contains two time expressions: "hoje" (today) and "18:16" (6:16 PM).
-
-Note:
-The format of the output is a JSON-parseable list of strings, which means that each element in the list is a string representing a time expression, and the list is surrounded by square brackets and uses commas to separate the elements.
+["hoje", "pela 18:16", "18:16", "30 nov 2020"]

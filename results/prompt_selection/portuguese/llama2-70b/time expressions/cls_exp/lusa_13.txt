@@ -1,1 +1,1 @@
-[["19/12/2020", "Date"], ["18h34", "Time"], ["25 de novembro", "Date"], ["25 de novembro", "Set"], ["San Isidro", "Location"], ["San André", "Location"], ["Buenos Aires", "Location"], ["novembro", "Month"], ["início de novembro", "Duration"]]
+[["hoje", "Date"], ["25 de novembro", "Time"], ["San Isidro", "Set"], ["San André", "Set"]]

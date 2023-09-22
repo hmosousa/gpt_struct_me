@@ -1,1 +1,1 @@
-["PJ", "homem", "jovem", "Setúbal", "Polícia Judiciária", "coletividade"]
+["homem", "jovem", "coletividade", "Setúbal", "PJ", "baleado", "restaurante", "coletividade", "Setúbal", "presumível", "agressor", "disparou", "vítima", "conflito", "grupo", "convivas", "almoçar", "Alto da Guerra", "sexagenário", "arma", "fogo", "ferimentos", "ombro", "braço", "detido", "crime", "homicídio", "forma", "tentada", "detenção", "arma", "proibida", "omissão", "auxílio", "interrogatório", "judicial"]

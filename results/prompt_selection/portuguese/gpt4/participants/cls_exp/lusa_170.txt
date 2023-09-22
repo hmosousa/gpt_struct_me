@@ -1,14 +1,1 @@
-[
-["homem", "Person"],
-["Terceira", "Location"],
-["Açores", "Location"],
-["Autoridade Marítima", "Organization"],
-["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"],
-["Lisboa", "Location"],
-["Polícia de Segurança Pública (PSP)", "Organization"],
-["Polícia Marítima de Angra do Heroísmo", "Organization"],
-["delegado de saúde", "Person"],
-["homem, de 62 anos", "Person"],
-["equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Organization"],
-["Hospital de Angra do Heroísmo", "Facility"]
-]
+[["corpo de homem", "Per"], ["zona rochosa", "Loc"], ["costa leste da Terceira", "Loc"], ["Açores", "Loc"], ["segunda-feira", "Other"], ["causas da morte", "Other"], ["Autoridade Marítima", "Org"], ["um comunicado", "Obj"], ["redações", "Fac"], ["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Org"], ["12:00 locais (13:00 em Lisboa) de segunda-feira", "Other"], ["corpo de um homem", "Per"], ["área de domínio público marítimo", "Loc"], ["Polícia de Segurança Pública (PSP)", "Org"], ["piquete da Polícia Marítima de Angra do Heroísmo", "Org"], ["delegado de saúde", "Per"], ["corpo de um homem, de 62 anos", "Per"], ["cadáver", "Per"], ["equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Org"], ["zona de difícil acesso", "Loc"], ["Hospital de Angra do Heroísmo", "Fac"], ["autopsiado", "Other"], ["causas da morte", "Other"]]

@@ -1,1 +1,1 @@
-["acidente", "camião", "poste de iluminação", "homem", "52 anos", "ferimentos ligeiros", "Rua da Constituição", "Porto", "fonte da PSP", "Relações Públicas", "Comando Metropolitano", "Hospital de Santo António", "estrutura", "funcionário", "bombas de gasolina"]
+["morreu", "sofreu", "ferimentos ligeiros", "acidente", "derrubou", "poste de eletricidade", "atingindo", "circulava", "morreu", "atingiu", "sofreu", "ferimentos ligeiros", "ocorreu"]

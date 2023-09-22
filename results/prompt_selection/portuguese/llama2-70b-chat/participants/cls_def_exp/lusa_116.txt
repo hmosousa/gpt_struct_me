@@ -1,28 +1,3 @@
-[
-["Jovem de 14 anos", "Person"],
-["autocarro", "Object"],
-["Vila das Aves", "Location"],
-["Proteção Civil", "Organization"],
-["Bombeiros da Vila das Aves", "Organization"],
-["Hospital São João", "Facility"],
-["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
-["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Organization"],
-["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Organization"],
-["GNR local", "Organization"]
-]
+[["Um jovem de 14 anos", "Per"], ["ficou", "Other"], ["hoje", "Other"], ["em estado grave", "Other"], ["após", "Other"], ["ter sido atropelado", "Other"], ["por", "Other"], ["um autocarro", "Obj"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["disse", "Other"], ["à Lusa", "Org"], ["fonte", "Other"], ["da Proteção Civil", "Org"], ["O jovem", "Per"], ["depois de ter sido assistido", "Other"], ["no local", "Loc"], ["foi transportado", "Other"], ["pelo", "Other"], ["Bombeiros da Vila das Aves", "Org"], ["para", "Other"], ["o Hospital São João", "Fac"], ["no Porto", "Loc"], ["acrescentou", "Other"], ["a fonte", "Other"], ["do acidente", "Other"], ["ocorreu", "Other"], ["pela 18:16", "Other"], ["na Rua Luís Gonzaga Mendes de Carvalho", "Loc"], ["No local", "Loc"], ["prestar", "Other"], ["assistência", "Other"], ["além", "Other"], ["dos", "Other"], ["Bombeiros da Vila das Aves", "Org"], ["esteve", "Other"], ["a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Fac"], ["a Ambulância de Suporte Imediato de Vida de Santo Tirso", "Fac"], ["a GNR local", "Org"], ["disse", "Other"], ["à Lusa", "Org"], ["fonte", "Other"], ["da corporação", "Org"]]
 
-Explanation:
-The input text describes an accident involving a 14-year-old boy who was hit by a car in Santo Tirso. The participants in this situation are:
-
-* The 14-year-old boy (Person)
-* The car (Object)
-* The location where the accident occurred (Location)
-* The Protection Civil (Organization)
-* The Bombeirosda Vila das Aves (Organization)
-* The Hospital São João (Facility)
-* The street where the accident occurred (Location)
-* The Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão (Organization)
-* The Ambulância de Suporte Imediato de Vida de Santo Tirso (Organization)
-* The GNR local (Organization)
-
-Therefore, the output is a list of pairs, where each pair consists of the name of the participant and its corresponding class.
+Please note that the input and output are in Portuguese.

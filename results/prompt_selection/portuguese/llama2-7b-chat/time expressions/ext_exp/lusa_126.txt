@@ -1,23 +1,8 @@
-[
-"detém", "deteve", "idade", "tráfico", "apresentaram", "efetuar", "transação", "apresentaram", "aplicação", "medidas", "presentes", "Tribunal", "judicial", "primeiro", "interrogatório", "coação"
-]
-Explanation:
-The task is to extract all time expressions from the given text. Time expressions are words or phrases that indicate time, such as "ago", "yesterday", "now", "next week", etc.
-In this text, there are several time expressions:
-* "deteve" (past tense of "determ") - indicates that the action of determining happened in the past.
-* "idade" (age) - indicates the age of the individuals involved in the action.
-* "tráfico" (traffic) - indicates that the action of traffic happened in the past.
-* "apresentaram" (present tense of "present") - indicates that the action of presenting happened in the present.
-* "efetuar" (past tense of "execute") - indicates that the action of executing happened in the past.
-* "transação" (transaction) - indicates that the action of transaction happened in the past.
-* "apresentaram" (present tense of "present") - indicates that the action of presenting happened in the present.
-* "aplicação" (application) - indicates that the action of application happened in the present.
-* "medidas" (measures) - indicates that the action of taking measures happened in the present.
-* "presentes" (present tense of "present") - indicates that the individuals are present in the court for the first judicial interrogation.
-* "Tribunal" (court) - indicates that the action of going to court happened in the past.
-* "judicial" (judicial) - indicates that the action of going to court happened in a judicial context.
-* "primeiro" (first) - indicates that the action of first judicial interrogation happened in the past.
-* "interrogatório" (interrogation) - indicates that the action of interrogation happened in the past.
-*"coação" (coercion) - indicates that the action of coercion happened in the past.
+	["GNR", "Sines", "Setúbal", "34", "43", "1.673", "1.570", "103", "844", "euros", "veículo", "quatro telemóveis", "Tribunal Judicial de Santiago do Cacém", "primeiro interrogatório judicial", "medidas de coação"]
 
-Note that some of these time expressions may be ambiguous or context-dependent, and may require further analysis to determine their exact meaning in the given text.
+
+Note:
+
+* The output is a JSON-parseable list of strings.
+* The input is a sentence with time expressions.
+* The task is to extract all time expressions from the input sentence.

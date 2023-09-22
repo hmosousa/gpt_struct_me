@@ -1,10 +1,1 @@
-[
-"hoje",
-"18:16"
-]
-
-Explanation:
-The output is a list of time expressions found in the input text.
-
-"hoje" means "today" in Portuguese and is a time expression.
-"18:16" is a time expression representing 6:16 PM.
+["hoje", "pela 18:16", "30 nov 2020"]

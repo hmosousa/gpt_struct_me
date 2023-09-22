@@ -1,7 +1,21 @@
-["Grua de camião derrubou poste de iluminação no Porto e matou homem de 52 anos",
-"Um homem de 52 anos morreu hoje, e um outro sofreu ferimentos ligeiros, na sequência de um acidente com um camião que derrubou um poste de eletricidade na Rua da Constituição, no Porto, disse à Lusa fonte da PSP.
-De acordo com a fonte das Relações Públicas do Comando Metropolitano da PSP do Porto, o poste de iluminação foi derrubado pela grua do camião atingindo o homem que circulava na rua.
-A vítima ainda foi transportada com vida para o Hospital de Santo António, mas acabou por morrer.
-A estrutura atingiu ainda o funcionário de umas bombas de gasolina, que sofreu ferimentos ligeiros.
-O acidente ocorreu cerca das 07:50."]
+["Grua", "derrubou", "poste", "iluminação", "Porto", "matou", "homem", "anos", "morreu", "sofreu", "ferimentos", "lígeiros", "sequência", "acidente", "derrubou", "poste", "eletricidade", "Rua", "Constituição", "Porto", "fonte", "PSP", "de", "acordo", "vítima", "circulava", "transportada", "vida", "Hospital", "Santo", "António", "acabou", "morreu", "estrutura", "atingiu", "funcionário", "bombas", "gasolina", "sofreu", "ferimentos", "lígeiros", "acidente", "ocorreu", "cerca", "07:50"]
 
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 42.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 42.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 42.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 42.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 42.

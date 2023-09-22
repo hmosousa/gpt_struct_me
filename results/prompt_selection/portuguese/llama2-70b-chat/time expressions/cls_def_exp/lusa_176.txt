@@ -1,16 +1,12 @@
-[
-["hoje", "Date"],
-["06:55", "Time"],
-["34 anos", "Duration"],
-["uma VMER", "Set"]
-]
+[["hoje", "Date"], ["34 anos", "Duration"], ["Estrada Nacional 10-8", "Set"], ["Mitrena", "Set"], ["06:55", "Time"], ["PSP", "Organization"], ["Proteção Civil", "Organization"], ["Hospital de São Bernardo", "Set"], ["Palmela", "Set"], ["Sapadores de Setúbal", "Set"], ["VMER", "Set"], ["16 elementos", "Quantity"], ["cinco veículos", "Quantity"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Note:
 
-* "hoje" (today) is a date expression and should be classified as such.
-* "06:55" (6:55 AM) is a time expression and should be classified as such.
-* "34 anos" (34 years) is a duration expression and should be classified as such.
-* "uma VMER" (a medical emergency and reanimation vehicle) is a set expression and should be classified as such.
-
-The output should be a JSON-parseable list with four elements, each containing the temporal expression and its corresponding class.
+* The input text may contain more than one temporal expression.
+* The temporal expressions may be in different formats.
+* The output format is a JSON-parseable list.
+* The classes are: Date, Time, Duration, and Set.
+* The class Set is used for expressions that refer to a specific set of things, such as a group of people or a location.
+* The class Duration is used for expressions that refer to a period of time, such as "34 anos" in the second example.
+* The class Time is used for expressions that refer to a specific time of day, such as "06:55" in the second example.
+* The class Date is used for expressions that refer to a specific date, such as "hoje" in the second example.

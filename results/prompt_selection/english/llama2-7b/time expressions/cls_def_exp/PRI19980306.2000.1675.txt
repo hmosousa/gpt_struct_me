@@ -1,49 +1,7 @@
-[
-  ["For The World, this is Pamela McCall in the BBC news room in London.", "Date"],
-  ["More heavy gunfire in the Serbian province of Kosovo.", "Time"],
-  ["It's the second day of an offensive by the security forces against villages populated by ethnic Albanians.", "Duration"],
-  ["BBC correspondent Karyn Coleman reports from Kosovo.", "Set"]
-]
+[["BBC", "ORG"], ["Karyn Coleman", "PERSON"], ["Pristina", "LOC"], ["Kosovo", "LOC"], ["Serbia", "LOC"], ["BBC", "ORG"], ["Karyn Coleman", "PERSON"], ["Pristina", "LOC"], ["Kosovo", "LOC"], ["Serbia", "LOC"]]
 
-Explanation:
-The first element is the entity and the second is the class.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-Example:
-For The World, this is Pamela McCall in the BBC news room in London.
-More heavy gunfire in the Serbian province of Kosovo.
-It's the second day of an offensive by the security forces against villages populated by ethnic Albanians.
-BBC correspondent Karyn Coleman reports from Kosovo.
-
-There were more accounts of people fleeing from the villages near where the offensive was taking place. They were too afraid to stay, fearing the forces may also move their operations further afield. By mid afternoon, official Serb sources were saying the operation was over, but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned. The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict. Karyn Coleman, BBC news, Pristina.
-
-The first element is the entity and the second is the class.
-
-Example:
-For The World, this is Pamela McCall in the BBC news room in London.
-More heavy gunfire in the Serbian province of Kosovo.
-It's the second day of an offensive by the security forces against villages populated by ethnic Albanians.
-BBC correspondent Karyn Coleman reports from Kosovo.
-
-There were more accounts of people fleeing from the villages near where the offensive was taking place. They were too afraid to stay, fearing the forces may also move their operations further afield. By mid afternoon, official Serb sources were saying the operation was over, but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned. The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict. Karyn Coleman, BBC news, Pristina.
-
-The first element is the entity and the second is the class.
-
-Example:
-For The World, this is Pamela McCall in the BBC news room in London.
-More heavy gunfire in the Serbian province of Kosovo.
-It's the second day of an offensive by the security forces against villages populated by ethnic Albanians.
-BBC correspondent Karyn Coleman reports from Kosovo.
-
-There were more accounts of people fleeing from the villages near where the offensive was taking place. They were too afraid to stay, fearing the forces may also move their operations further afield. By mid afternoon, official Serb sources were saying the operation was over, but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned. The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict. Karyn Coleman, BBC news, Pristina.
-
-The first element is the entity and the second is the class.
-
-Example:
-For The World, this is Pamela McCall in the BBC news room in London.
-More heavy gunfire in the Serbian province of Kosovo.
-It's the second day of an offensive by the security forces against villages populated by ethnic Albanians.
-BBC correspondent Karyn Coleman reports from Kosovo.
-
-There were more accounts of people fleeing from the villages near where the offensive was taking place. They were too afraid to stay, fearing the forces may also move their operations further afield. By mid afternoon, official Serb sources were saying the operation was over, but that has not yet been confirmed from Belgrade, the capital of Serbia, which is where the whole attack is thought to have been planned. The ethnic Albanians here in Kosovo are considerably worried about the future and fear they are witnessing the beginnings of a much wider conflict. Karyn Coleman, BBC news, Pristina.
-
-The first
+Input:
+"The United States has announced it will not allow the United Nations to inspect its nuclear facilities. The announcement came after the UN Security Council voted to allow the International Atomic Energy Agency to inspect nuclear facilities in Iraq. The US said it would not allow the IAEA to inspect its nuclear facilities because it was not a member of the agency. The US is the only country in the world that is not a member of the IAEA. The US has been accused of using its nuclear facilities to develop nuclear weapons. The US has denied the allegations. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it will not allow the IAEA to inspect its nuclear facilities because it is not a member of the agency. The US has said it

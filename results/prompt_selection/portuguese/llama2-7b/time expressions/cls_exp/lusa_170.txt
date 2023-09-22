@@ -1,5 +1,27 @@
-"2019-07-08T13:00:00Z"
+[["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"], ["2020-11-30", "Date"]]
 
-Expected output:
-"2019-07-08T13:00:00Z"
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Encontrado corpo de homem em zona rochosa na costa da Terceira
+O corpo de um homem "a boiar junto a uma zona rochosa na costa leste da Terceira", nos Açores, foi detetado na segunda-feira, desconhecendo-se as causas da morte, anunciou hoje a Autoridade Marítima.
+Segundo um comunicado enviado às redações, o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado pelas 12:00 locais (13:00 em Lisboa) de segunda-feira para "a presença do corpo de um homem a boiar” numa área de domínio público marítimo.
+A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP) e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".
+O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários

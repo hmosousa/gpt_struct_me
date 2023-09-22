@@ -1,1 +1,1 @@
-["segunda-feira", "hoje", "primeiro interrogatório"]
+["segunda-feira", "hoje", "Tribunal Judicial de Beja", "Estrada Nacional 122"]

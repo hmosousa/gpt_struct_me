@@ -1,13 +1,1 @@
-[
-{entity: "Homem de 48 anos", class: "State"},
-{entity: "Acidente de trabalho", class: "Occurrence"},
-{entity: "Queda em altura", class: "Aspectual"},
-{entity: "Vítima", class: "Perception"},
-{entity: "Trabalhava numa obra de construção civil", class: "Intensional Action"},
-{entity: "Transportada por ambulância", class: "Intensional State"}
-]
-Note:
-* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
-* The entities are extracted from the input text using a combination of named entity recognition and part-of-speech tagging.
-* The classes are assigned based on the semantic meaning of the entities, using a predefined set of classes.
-* The output list represents the event triggers in the input text, which are the events or actions that occurred or are happening in the story.
+[["morre", "I_Action"], ["em", "State"], ["acidente", "Occurrence"], ["trabalho", "Occurrence"], ["localidade", "State"], ["Vilarinhos", "State"], ["Galegos", "State"], ["Concelho", "State"], ["Mogadouro", "State"], ["distrito", "State"], ["Bragança", "State"], ["Lusa", "Reporting"], ["fonte", "Reporting"], ["bombeiros", "I_Action"], ["transportada", "I_Action"], ["ambulância", "I_Action"], ["campo", "State"], ["de", "State"], ["hospital", "State"], ["referência", "State"], ["explicou", "Reporting"], ["comandante", "Reporting"], ["Mogadouro", "State"], ["envolve", "Occurrence"], ["queda", "Occurrence"], ["altura", "Occurrence"], ["trabalhava", "Occurrence"], ["vítima", "Occurrence"], ["acabou", "Occurrence"], ["falecer", "Occurrence"], ["transportada", "I_Action"], ["ambulância", "I_Action"], ["campo", "State"], ["de", "State"], ["hospital", "State"], ["referência", "State"], ["INEM", "I_Action"], ["helicóptero", "I_Action"], ["Macedo", "State"], ["estacionado", "State"]]

@@ -1,23 +1,9 @@
-[
-["25 de novembro", "Date"],
-["hoje", "Date"],
-["1 de novembro", "Date"],
-["2 dias após a morte de Maradona", "Duration"],
-["60 anos", "Set"]
-]
-
-Explanation:
-
-* "25 de novembro" is classified as a Date.
-* "hoje" is classified as a Date.
-* "1 de novembro" is classified as a Date.
-* "2 dias após a morte de Maradona" is classified as a Duration.
-* "60 anos" is classified as a Set.
+[["hoje", "Time"], ["25 de novembro", "Date"], ["em novembro", "Time"], ["início de novembro", "Time"], ["dois dias após a morte de Maradona", "Duration"]]
 
 Note:
 
-* The format of the output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
-* The classes are: Date, Time, Duration, and Set.
-* The input text is in Portuguese, but the output should be in English.
+* Dates and times should be in the format "dd/mm/yyyy" and "hh:mm:ss" respectively.
+* Duration should be in the format "X dias/horas/minutos"
+* Set should be in the format "epoca/ano"
 
-Please extract and classify all time expressions in the given text and provide the output in the specified format.
+Please note that the input text is in Portuguese, so you may need to use a Portuguese-language model or preprocess the text to extract the dates and times correctly.

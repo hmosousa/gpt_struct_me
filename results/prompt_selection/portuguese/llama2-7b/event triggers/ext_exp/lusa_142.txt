@@ -1,6 +1,26 @@
-"GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
-A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
-A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.
-Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, "demonstrou um comportamento nervoso", após ter sido abordada por militares da GNR.
-Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
+["detém", "suspeita", "tráfico", "drogas", "apreende", "doses", "haxixe", "Mértola", "GNR", "deteve", "mulher", "36", "anos", "suspeitas", "prática", "crime", "tráfico", "drogas", "apreendeu", "doses", "haxixe", "concelho", "alentejano", "Beja", "divulgado", "militares", "Posto", "Territorial", "Mértola", "segurança", "decorrido", "ação", "patrulhamento", "estrada", "nacional", "vila", "demonstrou", "comportamento", "nervo", "abordada", "efetuaram", "busca", "apuraram", "apreenderam", "veículo", "telemóvel"]
 
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 mortes em todo o mundo
+A pandemia de covid-19 já causou mais de 100.000 mortes em todo o mundo, segundo a Organização Mundial da Saúde (OMS).
+A OMS divulgou hoje um relatório que regista 100.000 mortes em 147 países, desde a data de 10 de março, quando a OMS declarou a pandemia.
+A OMS também registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde a data de 10 de março.
+A OMS registou 1.483.847 casos confirmados em 188 países, desde

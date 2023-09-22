@@ -1,26 +1,7 @@
-[
-["Violência doméstica", "Date"],
-["pulseira eletrónica", "Time"],
-["homem detido", "Duration"],
-["em Penafiel", "Set"],
-["39 anos", "Date"],
-["ex-companheira", "Date"],
-["42 anos", "Date"],
-["injúrias", "Duration"],
-["ameaças de morte", "Duration"],
-["na sua residência e no local de trabalho", "Set"],
-["teleassistência", "Time"],
-["antecedentes criminais", "Duration"]
-]
+[["em Penafiel", "Location"], ["39 anos", "Age"], ["42 anos", "Age"], ["violência física", "Event"], ["injúrias", "Event"], ["ameaças de morte", "Event"], ["separação", "Event"], ["teleassistência", "Event"], ["antecedentes criminais", "Event"], ["proibido de contactar", "Event"]]
 
-Explanation:
-
-* "Violência doméstica" is a date because it refers to a specific event that happened in the past.
-* "pulseira eletrónica" is a time expression because it refers to a specific time period during which the event occurred.
-* "homem detido" is a duration because it refers to the length of time the man was detained.
-* "em Penafiel" is a set because it refers to a specific location where the event occurred.
-* "39 anos" and "42 anos" are dates because they refer to the ages of the individuals involved.
-* "injúrias" and "ameaças de morte" are durations because they refer to specific time periods during which the events occurred.
-* "na sua residência e no local de trabalho" is a set because it refers to specific locations where the events occurred.
-* "teleassistência" is a time expression because it refers to a specific time period during which the event occurred.
-* "antecedentes criminais" is a duration because it refers to the length of time the man has had criminal records.
+Note:
+- The output should be in JSON-parseable list.
+- The input text may contain multiple instances of the same entity and class.
+- The input text may contain entities and classes that are not relevant to the task.
+- The output should only include the relevant entities and classes.

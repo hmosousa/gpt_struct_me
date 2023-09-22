@@ -1,13 +1,14 @@
-[
-"found dead",
-"34 years old",
-"Tuesday",
-"09:56",
-"since Saturday",
-"cause of death",
-"open cistern",
-" delegate of health",
-"police judiciary",
-"medical emergency and resuscitation vehicle",
-"hospital Infante D. Pedro"
-]
+["em Estarreja", "sábado", "09:56", "Hospital Infante D. Pedro", "Transportadora J Amaral", "GNR de Aveiro", "Delegada de Saúde", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression. The time expressions are:
+* "em menos de uma semana" (in less than a week)
+* "sábado" (Saturday)
+* "sábado" (Saturday)
+* "setembro" (September)
+* "final do ano" (end of the year)
+* "menos de uma semana" (less than a week)
+* "30 nov 2020" (November 30, 2020)
+* "época de veda" (fishing ban period)
+* "épocas de veda" (fishing ban periods)

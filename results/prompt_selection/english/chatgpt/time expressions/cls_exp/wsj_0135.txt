@@ -1,1 +1,1 @@
-[["year ending June 30, 1990", "Date"], ["current fiscal year", "Date"], ["fiscal 1989", "Date"]]
+[["in the year ending June 30, 1990", "DATE"], ["fiscal year", "DATE"], ["fiscal 1989", "DATE"], ["yesterday", "DATE"]]

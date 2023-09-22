@@ -1,41 +1,4 @@
-[
-  "Homem",
-  "mata",
-  "ex-companheira",
-  "com",
-  "tiro",
-  "em",
-  "Vila",
-  "Nova",
-  "de",
-  "Gaia"
-]
-
-Explanation:
-The participants are:
-- Homem
-- mata
-- ex-companheira
-- com
-- tiro
-- em
-- Vila
-- Nova
-- de
-- Gaia
-
-
-
-### 1.1.1
-
-Task:
-Extract all participants.
-
-Definition:
-Participants refer to individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They are typically identified based on their relevance and significance to the situation, and may be explicitly mentioned or inferred from the context. Participants can take on a variety of roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
-
-Format:
-JSON-parseable list of strings.
+["Homem mata", "ex-companheira", "com", "tiro", "em", "Vila Nova de Gaia", "Um homem", "matou", "hoje", "com", "um", "disparo", "arma", "de", "fogo", "a", "ex-companheira", "em", "Vila Nova de Gaia", "e", "foi", "detido", "numa", "altura", "em", "que", "estaria", "a", "tentar", "o", "suicídio", "com", "a", "mesma", "arma", "Fonte", "do", "Comando", "Territorial", "da", "GNR", "do", "Porto", "referiu", "à", "agência", "Lusa", "que", "o", "crime", "ocorreu", "cerca", "das", "10:30", "na", "Rua", "da", "Figueirinha", "em", "Grijó", "Vila", "Nova", "de", "Gaia", "distrito", "do", "Porto", "e", "que", "o", "homem", "tem", "62", "anos", "A", "vítima", "era", "20", "anos", "mais", "jovem", "A", "fonte", "admitiu", "que", "o", "homem", "tenha", "cometido", "o", "crime", "em", "retaliação", "por", "a", "mulher", "ter", "optado", "por", "terminar", "a", "relação", "que", "ambos", "mantiveram", "durante", "10", "anos", "O", "caso", "passou", "para", "a", "alçada", "da", "Polícia", "Judiciária"]
 
 Input:
 "Homem mata ex-companheira com tiro em Vila Nova de Gaia
@@ -46,44 +9,4 @@ A fonte admitiu que o homem tenha cometido o crime em retaliação por a mulher 
 O caso passou para a alçada da Polícia Judiciária."
 
 Output:
-[
-  "Homem",
-  "mata",
-  "ex-companheira",
-  "com",
-  "tiro",
-  "em",
-  "Vila",
-  "Nova",
-  "de",
-  "Gaia"
-]
-
-Explanation:
-The participants are:
-- Homem
-- mata
-- ex-companheira
-- com
-- tiro
-- em
-- Vila
-- Nova
-- de
-- Gaia
-
-
-
-### 1.1.2
-
-Task:
-Extract all participants.
-
-Definition:
-Participants refer to individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They are typically identified based on their relevance and significance to the situation, and may be explicitly mentioned or inferred from the context. Participants can take on a variety of roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
-
-Format:
-JSON-parseable list of strings.
-
-Input:
-"Hom
+["Homem mata", "ex-companheira", "com", "tiro", "em", "Vila Nova de Gaia", "Um homem", "matou", "hoje", "com", "um", "disparo", "arma", "de", "fogo", "a", "ex-companheira", "em", "Vila Nova de Gaia", "e", "foi", "detido", "numa", "altura", "em", "que", "estaria", "a", "tentar", "o", "suicídio", "com", "a", "mesma", "arma", "Fonte", "do", "Comando", "Territorial", "da", "GNR", "do", "Porto", "referiu", "à", "agência", "Lusa", "que", "o", "crime", "ocorreu", "cerca", "das", "10:30", "na", "Rua", "da", "Figueirinha", "em", "Grijó", "Vila", "Nova", "de", "Gaia", "distrito", "do", "Porto", "e", "que", "o", "homem", "tem", "62",

@@ -1,1 +1,1 @@
-["470 pence", "$7.43", "last Wednesday", "301 million", "53.2%", "59.2%", "12.4%", "internal resources", "public share offering"]
+["Wednesday", "last Wednesday", "301 million", "12.4%", "53.2%", "internal resources", "public share offering"]

@@ -1,26 +1,4 @@
-[
-["Homem", "State"],
-["garrafa", "Occurrence"],
-["restaurante", "Aspectual"],
-["Palmela", "Location"],
-["Setúbal", "Location"],
-["hospital de São Bernardo", "Location"],
-["GNR", "Organization"],
-["Lusa", "Organization"],
-["bombeiros", "Organization"],
-["Águas de Moura", "Organization"]
-]
+[["agressão", "Occurrence"], ["garrafa", "Object"], ["ferido", "Occurrence"], ["gravidade", "State"], ["hospital", "Location"], ["proprietário", "Agent"], ["restaurante", "Location"], ["consumir", "Action"], ["bebidas alcoólicas", "Object"], ["proibido", "State"], ["via pública", "Location"], ["outras", "Plural"], ["pessoas", "Agent"], ["envolvidas", "Plural"], ["sofreram", "Occurrence"], ["ferimentos", "Occurrence"], ["ligeiros", "State"], ["ambulância", "Object"], ["meios próprios", "Object"], ["mobilizados", "Action"], ["local", "Location"], ["bombeiros", "Agent"]]
 
-Explanation:
-
-* "Homem" is a State (class) because it is a characteristic of the entity "Homem" that is described in the text.
-* "garrafa" is an Occurrence (class) because it is an event that happens in the text.
-* "restaurante" is an Aspectual (class) because it is a characteristic of the entity "restaurante" that is described in the text.
-* "Palmela" and "Setúbal" are Locations (class) because they are places mentioned in the text.
-* "hospital de São Bernardo" is a Location (class) because it is aplace mentioned in the text.
-* "GNR", "Lusa", "bombeiros" and "Águas de Moura" are Organizations (class) because they are entities mentioned in the text as organizations.
-
-Note:
-
-* The classes are not mutually exclusive, and an entity can be classified under more than one class. For example, "restaurante" can be classified under both "Aspectual" and "Location".
-* The output is a JSON-parseable list, where each element is a list with two strings, the first string is the entity and the second is the class.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

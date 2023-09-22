@@ -1,10 +1,31 @@
-[
-["hoje", "Date"],
-["52 anos", "Duration"],
-["07:50", "Time"]
-]
+[["hoje", "Date"], ["52 anos", "Time"], ["hoje", "Date"], ["07:50", "Time"]]
 
-Explanation:
-The input text contains three time expressions: "hoje" (today), "52 anos" (52 years), and "07:50" (7:50 AM). The output list contains these three expressions, each paired with its corresponding class: "Date" for "hoje", "Duration" for "52 anos", and "Time" for "07:50".
+Note:
+The input text can be in any language.
 
-Note that the class "Set" is not present in this output, as there are no time expressions in the input text that would match this class.
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, but the task is only to extract and classify time expressions.
+
+Note:
+The output should be in the format specified above.
+
+Note:
+The task is to classify the time expressions in the input text, not to extract all entities.
+
+Note:
+The input text can be in any language, but the output should be in the format specified above.
+
+Note:
+The task is to classify the time expressions in the input text, not to translate the input text.
+
+Note:
+The output should be a JSON-parseable list.

@@ -1,27 +1,13 @@
-[
-["Encontrado corpo de homem", "Person"],
-["homem", "Person"],
-["a boiar", "Object"],
-["na costa da Terceira", "Location"],
-["desconhecendo-se as causas da morte", "Other"],
-["anunciou hoje a Autoridade Marítima", "Organization"],
-["Segundo um comunicado enviado às redações", "Other"],
-["o Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"],
-["foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Object"],
-["se encontrava numa 'zona de difícil acesso'", "Location"],
-["será autopsiado para se apurar as causas da morte", "Other"]
-]
+[["um corpo", "Per"], ["de um homem", "Per"], ["a boiar", "Loc"], ["na costa", "Loc"], ["da Terceira", "Loc"], ["nos Açores", "Loc"], ["desconhecendo-se", "Other"], ["as causas", "Other"], ["da morte", "Other"], ["anunciou", "Org"], ["hoje", "Other"], ["a Autoridade Marítima", "Org"], ["segundo", "Other"], ["um comunicado", "Obj"], ["enviado", "Org"], ["às redações", "Other"], ["pelas 12:00 locais", "Other"], ["(13:00 em Lisboa)", "Other"], ["de segunda-feira", "Other"], ["para", "Other"], ["a presença", "Other"], ["do corpo", "Per"], ["de um homem", "Per"], ["numa área", "Loc"], ["de domínio público marítimo", "Other"], ["a informação", "Other"], ["foi recebida", "Org"], ["através", "Other"], ["da Polícia de Segurança Pública", "Org"], ["e que", "Other"], ["o piquete", "Org"], ["da Polícia Marítima", "Org"], ["de Angra do Heroísmo", "Loc"], ["e o delegado", "Org"], ["de saúde", "Org"], ["foram", "Other"], ["ao local", "Loc"], ["onde", "Loc"], ["confirmaram", "Other"], ["a presença", "Per"], ["do corpo", "Per"], ["de um homem", "Per"], ["de 62 anos", "Other"], ["ja cadáver", "Other"], ["O corpo", "Per"], ["foi", "Other"], ["retirado", "Other"], ["do local", "Loc"], ["pela equipa", "Org"], ["de grande ângulo", "Other"], ["dos Bombeiros Voluntários", "Org"], ["da Praia da Vitória", "Loc"], ["já que", "Other"], ["se encontrava", "Other"], ["numa", "Other"], ["zona de difícil acesso", "Other"], ["tendo sido", "Other"], ["posteriormente", "Other"], ["transportado", "Other"], ["para", "Other"], ["o Hospital", "Loc"], ["de Angra do Heroísmo", "Loc"], ["onde", "Loc"], ["será", "Other"], ["autopsiado", "Other"], ["para", "Other"], ["se apurar", "Other"], ["as causas", "Other"], ["da morte", "Other"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are:
 
-1. "Encontrado corpo de homem" is a person.
-2. "homem" is a person.
-3. "a boiar" is an object(the body).
-4. "na costa da Terceira" is a location.
-5. "desconhecendo-se as causas da morte" is other (a statement about the unknown cause of death).
-6. "anunciou hoje a Autoridade Marítima" is an organization (the maritime authority).
-7. "Segundo um comunicado enviado às redações" is other (a statement about the communication).
-8. "o Comando-Local da Polícia Marítima de Angra do Heroísmo" is an organization (the local maritime police command).
-9. "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória" is an object (the team of firefighters).
-10. "se encontrava numa 'zona de difícil acesso'" is a location (the difficult-to-reach area).
-11. "será autopsiado para se apurar as causas da morte" is other (a statement about the autopsy).
+* Per: Person
+* Obj: Object
+* Loc: Location
+* Fac: Facility
+* Org: Organization
+* Other: Other
+
+The task is to extract and classify all participants in the input text.

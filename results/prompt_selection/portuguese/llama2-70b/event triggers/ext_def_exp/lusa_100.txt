@@ -1,1 +1,1 @@
-["violence", "physical violence", "injuries", "threats", "death threats", "separation", "persecution", "stalking"]
+["violência física", "injúrias", "ameaças de morte", "separação", "perseguir", "residência", "local de trabalho", "botão de pânico", "medida de proteção", "antecedentes criminais", "ilícitos", "proibido"]

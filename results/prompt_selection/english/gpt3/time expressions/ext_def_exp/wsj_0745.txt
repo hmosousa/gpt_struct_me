@@ -1,1 +1,1 @@
-["last week", "Tuesday's", "yesterday", "five pence", "eight U.S. cents", "near-record 720 pence", "Since Tuesday", "Dec. 31, 1990", "14 months", "1984", "100%", "2.5 billion", "1988", "Tuesday", "this week"]
+["Tuesday", "last week", "Thursday", "yesterday", "Tuesday", "late trading", "4%", "Dec. 31, 1990", "14 months", "1984", "1988", "Tuesday", "100%"]

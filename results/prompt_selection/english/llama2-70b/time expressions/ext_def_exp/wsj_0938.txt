@@ -1,1 +1,1 @@
-["November", "May", "last April", "April", "two years", "yesterday"]
+["Nov. 22", "last May", "May", "April", "Last April"]

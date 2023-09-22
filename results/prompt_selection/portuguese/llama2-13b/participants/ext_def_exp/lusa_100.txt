@@ -1,43 +1,36 @@
-["Violência doméstica", "Pulseira eletrónica", "Penafiel", "Porto", "GNR", "separação", "perseguição", "residência", "local de trabalho", "teleassistência", "antecedentes criminais", "ilícitos", "proibido de contactar"]
+["Um homem de 39 anos", "Penafiel", "distrito do Porto", "violência física", "injúrias", "ameaças de morte", "a ex-companheira", "de 42 anos", "a GNR", "a autoridade policial", "o suspeito", "a separação", "a vítima", "a sua residência", "o local de trabalho", "o botão de pânico", "teleassistência", "o homem", "antecedentes criminais", "ilícitos", "a mesma natureza", "a vítima"]
 
-Explanation:
-The participants in this news article are:
-- Violência doméstica: The topic of the article, which is domestic violence.
-- Pulseira eletrónica: A device used to monitor the suspect's movements.
-- Penafiel: The city where the suspect was detained.
-- Porto: The district where the city is located.
-- GNR: The Portuguese National Guard, which detained the suspect.
-- separação: The separation of the suspect and his ex-partner.
-- perseguição: The suspect's pursuit of his ex-partner.
-- residência: The suspect's residence.
-- local de trabalho: The suspect's place of work.
-- teleassistência: A servicethat provides assistance to victims of domestic violence.
-- antecedentes criminais: The suspect's criminal record.
-- ilícitos: The suspect's illegal actions.
-- proibido de contactar: The suspect's prohibition from contacting his ex-partner.
+Format:
+JSON-parseable list of strings.
 
-Hints:
-- Participants can be mentioned explicitly or implied from the context.
-- Participants can take on different roles, such as actors, agents, patients, victims, or observers.
-- Participants can be identified based on their relevance and significance to the situation.
-- Participants can be identified based on their actions and interactions with other participants.
-- Participants can be identified based on their relationships with other participants.
-- Participants can be identified based on their attributes or characteristics.
-- Participants can be identified based on their location or geographical context.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with other participants.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the environment.
-- Participants can be identified based on their actions or interactions with the
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam a morte de um homem que foi esfaqueado no bairro de Manhattan, no centro da cidade, no domingo, segundo informou a polícia local.
+O homem, de 24 anos, foi encontrado às 19h30 (hora local) com ferimentos no peito e no pescoço, no bairro de Chelsea, no oeste de Manhattan, segundo a polícia.
+O homem foi levado para o hospital, mas morreu pouco depois.
+A polícia não identificou o homem e não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaque

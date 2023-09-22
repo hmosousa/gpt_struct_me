@@ -1,27 +1,12 @@
-[
-{
-"participant": "Homem",
-"class": "Person"
-},
-{
-"participant": "Mercado de Arroios",
-"class": "Location"
-},
-{
-"participant": "PSP",
-"class": "Organization"
-},
-{
-"participant": "Comando Metropolitano de Lisboa",
-"class": "Organization"
-},
-{
-"participant": "Suspeito",
-"class": "Person"
-},
-{
-"participant": "Polícia Judiciária",
-"class": "Organization"
-}
-]
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+	[["um homem", "Per"], ["29 anos", "Age"], ["Lisboa", "Loc"], ["mercado de Arroios", "Loc"], ["rua Ângela Pinto", "Loc"], ["café", "Fac"], ["ajuda", "Per"], ["desentendimento", "Other"], ["uma arma branca", "Obj"], ["dois indivíduos", "Per"], ["suspeito", "Per"], ["tentativa de fuga", "Other"], ["polícia", "Org"], ["PJ", "Org"], ["crime de homicídio", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned, such as people, locations, and objects.
+* The output is organized in a list with each entity and its corresponding class. For example, "um homem" is classified as "Per" (person), "29 anos" is classified as "Age" (age), "Lisboa" is classified as "Loc" (location), etc.
+* The classes are defined at the beginning of the code, and they are used to categorize each entity in the output list.
+* The code uses regular expressions to extract the entities from the input text, and then it uses the classes to categorize them.
+* The code can be used to classify entities in a text, and then use that information to create a database or a knowledge graph.
+* The code can also be used to analyze the relationships between entities, and to identify patterns or trends in the text.

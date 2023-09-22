@@ -1,23 +1,8 @@
-[
-["Homem", "State"],
-["Estarreja", "Location"],
-["Transportadora J Amaral", "Organization"],
-["cisterna de camião", "Object"],
-["sábado", "Day"],
-["Lusa", "Source"],
-["GNR de Aveiro", "Organization"],
-["Joaquim Rebelo", "Person"],
-["Delegada de Saúde", "Person"],
-["Polícia Judiciária", "Organization"],
-["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"]
-]
+[["encontrado", "I_Action"], ["morto", "State"], ["cisterna", "Location"], ["camião", "Location"], ["fazendo", "Occurrence"], ["desaparecido", "Occurrence"], ["sábado", "Date"], ["graduado", "Person"], ["conseguiu", "Reporting"], ["determinar", "Occurrence"], ["causa", "Occurrence"], ["compareceu", "Reporting"], ["Delegada", "Person"], ["Polícia", "Organization"], ["Judiciária", "Organization"], ["tomou", "I_Action"], ["controle", "State"], ["local", "Location"], ["esteve", "Reporting"], ["Viatura", "Organization"], ["Médica", "Organization"], ["Emergência", "Occurrence"], ["Reanimação", "Occurrence"], ["transporte", "I_Action"], ["cadáver", "State"], ["Hospital", "Location"], ["Infante", "Person"], ["D. Pedro", "Person"]]
 
 Note:
-- "Homem" and "Estarreja" are not classes, they are entities.
-- "Transportadora J Amaral" and "cisterna de camião" are not classes, they are objects.
-- "sábado" is not a class, it is a day of the week.
-- "Lusa", "GNR de Aveiro", "Joaquim Rebelo", "Delegada de Saúde", "Polícia Judiciária" and "Viatura Médica de Emergência e Reanimação de Aveiro" are not classes, they are sources.
+The classes are based on the Penn Treebank tag set and were chosen based on their relevance to the task at hand. The classes are not exhaustive and other classes may be relevant in certain cases.
 
-Please help me with this task.
+Your task is to extract and classify all event triggers in the given texts.
 
-Thank you.
+Please provide the output in the format specified above.

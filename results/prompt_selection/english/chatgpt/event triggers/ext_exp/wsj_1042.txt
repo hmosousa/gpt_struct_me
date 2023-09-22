@@ -1,1 +1,1 @@
-["declared a dividend", "issued", "will enable", "may be exercised", "will issue"]
+["declared", "issued", "said", "purchase", "exercise", "issue", "will issue"]

@@ -1,14 +1,1 @@
-[["Jovem", "Date"], ["14", "Age"], ["18:16", "Time"], ["Vila das Aves", "Location"], ["Lusa", "Source"], ["Proteção Civil", "Organization"], ["Hospital São João", "Location"], ["Vila Nova de Famalicão", "Location"], ["GNR", "Location"]]
-Explanation:
-* "Jovem" is a date expression, representing the age of the person involved in the accident.
-* "14" is a duration expression, representing the age of the person in years.
-* "18:16" is a time expression, representing the time of the accident.
-* "Vila das Aves" is a location expression, representing the place where the accident occurred.
-* "Lusa" is a source expression, representing the source of the information.
-* "Proteção Civil" is an organization expression, representing the organization that provided assistance.
-* "Hospital São João" is a location expression, representing the hospital where the person was taken after the accident.
-* "Vila Nova de Famalicão" isa location expression, representing the location of the ambulance.
-* "GNR" is a location expression, representing the location of the GNR.
-
-Note:
-The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+[["Jovem", "Person"], ["14 anos", "Age"], ["Santo Tirso", "Location"], ["18:16", "Time"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"]]

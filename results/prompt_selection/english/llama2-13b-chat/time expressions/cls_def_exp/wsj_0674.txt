@@ -1,25 +1,4 @@
-[
-["Jim Pattison Industries", "Date"],
-["Innopac Inc.", "Time"],
-["13.8 million", "Duration"],
-["137.8 million", "Set"],
-["1988", "Date"],
-["Aug. 31", "Date"],
-["20 Canadian cents", "Duration"],
-["70 Canadian cents", "Duration"],
-["252 million", "Set"],
-["291.6 million", "Set"]
-]
+[["Jim Pattison Industries Ltd.", "ORGANIZATION"], ["Innopac Inc.", "ORGANIZATION"], ["13.8 million", "NUMBER"], ["4.2 million", "NUMBER"], ["137.8 million", "NUMBER"], ["20 Canadian cents", "AMOUNT"], ["70 Canadian cents", "AMOUNT"], ["Aug. 31", "DATE"], ["1988", "DATE"], ["Leominster, Mass.", "LOCATION"], ["McDonald's Corp.", "ORGANIZATION"]]
 
-Explanation:
-
-1. "Jim Pattison Industries" is a date because it refers to a specific company.
-2. "Innopac Inc." is a time because it refers to a specific point in time.
-3. "13.8 million" is a duration because it represents a period of time.
-4. "137.8 million" is a set because it represents a collection of items.
-5. "1988" is a date because it refers to a specific year.
-6. "Aug. 31" is a date because it refers to a specific day.
-7. "20 Canadian cents" is a duration because it represents a period of time.
-8. "70 Canadian cents" is a duration because it represents a period of time.
-9. "252 million" is a set because it represents a collection of items.
-10. "291.6 million" is a set because it represents a collection of items.
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first is the name of the entity, and the second is the class or category to which the entity belongs. The classes used in this example are "ORGANIZATION", "NUMBER", "DATE", and "LOCATION".

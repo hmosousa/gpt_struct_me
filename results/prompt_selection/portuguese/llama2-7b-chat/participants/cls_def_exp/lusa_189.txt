@@ -1,9 +1,1 @@
-[["Homem", "Person"], ["Barreiro", "Location"], ["PSP", "Organization"], ["Lusa", "Media"], ["Tiro", "Event"], ["Fuga", "Action"], ["Polícia Judiciária", "Organization"]]
-Explanation:
-* "Homem" is a person and belongs to the class "Person".
-* "Barreiro" is a location and belongs to the class "Location".
-* "PSP" is an organization and belongs to the class "Organization".
-* "Lusa" is a media outlet and belongs to the class "Media".
-* "Tiro" is an event and belongs to the class "Event".
-* "Fuga" is an action and belongs to the class "Action".
-* "Polícia Judiciária" is an organization and belongs to the class "Organization".
+[["um homem", "Per"], ["Barreiro", "Loc"], ["PSP", "Org"], ["Direção Nacional", "Org"], ["tirador", "Per"], ["fuga", "Other"], ["incidente", "Per"], ["hoje", "Time"], ["20:20", "Time"], ["informações", "Other"], ["circunstâncias", "Other"], ["tiroteio", "Per"], ["Polícia Judiciária", "Org"]]

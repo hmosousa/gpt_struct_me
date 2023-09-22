@@ -1,1 +1,1 @@
-[["na segunda-feira", "Date"], ["hoje", "Date"]]
+[["segunda-feira", "Date"]]

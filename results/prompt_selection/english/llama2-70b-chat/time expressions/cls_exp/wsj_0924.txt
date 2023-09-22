@@ -1,18 +1,4 @@
-[
-["Aug. 9", "Date"],
-["Sept. 30", "Date"],
-["4.7 million Canadian dollars", "Amount"],
-["4 million", "Amount"],
-["12 Canadian cents", "Amount"],
-["2.3 million", "Amount"],
-["14 Canadian cents", "Amount"],
-["348.2 million", "Amount"],
-["307.2", "Amount"]
-]
+[["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["4.7 million Canadian dollars", "AMOUNT"], ["$4 million", "AMOUNT"], ["12 Canadian cents", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents", "AMOUNT"], ["348.2 million", "AMOUNT"], ["307.2", "AMOUNT"]]
 
 Note:
-The input text contains two dates: "Aug. 9" and "Sept. 30". The first one should be classified as a Date, and the second one should be classified as a Date as well.
-
-The input text also contains several amounts: "4.7 million Canadian dollars", "4 million", "12 Canadian cents", "2.3 million", "14 Canadian cents", "348.2 million", and "307.2". All of them should be classified as Amount.
-
-The input text does not contain any time expressions that should be classified as Time, Duration, or Set.
+The date class should be used for any date that is not a specific time. The time class should be used for any specific time. The amount class should be used for any monetary value. The duration class should be used for any length of time. The set class should be used for any group of items that are related.

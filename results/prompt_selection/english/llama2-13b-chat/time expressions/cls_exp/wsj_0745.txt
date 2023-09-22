@@ -1,18 +1,2 @@
 
-[
-["General Motors Corp.", "Date"],
-["Jaguar PLC", "Date"],
-["Ford Motor Co.", "Date"],
-["British car maker", "Set"],
-["U.S. auto maker", "Set"],
-["Jaguar shares", "Duration"],
-["Jaguar's share price", "Duration"],
-["London's stock exchange", "Set"],
-["Conservative government", "Set"],
-["golden share", "Set"],
-["15% restriction", "Set"],
-["anti-takeover barrier", "Set"],
-["Britoil PLC", "Date"],
-["British lawmakers", "Set"],
-["Jaguar Chairman Sir John Egan", "Person"]
-]
+[["Thursday", "DATE"], ["Friday", "DATE"], ["Tuesday", "DATE"], ["1984", "DATE"], ["1990", "DATE"], ["1988", "DATE"], ["nearly two months", "DURATION"], ["10-hour", "DURATION"], ["over a week", "DURATION"], ["15%", "PERCENT"], ["30%", "PERCENT"], ["12.45%", "PERCENT"], ["720 pence", "AMOUNT"], ["11.60", "AMOUNT"], ["eight U.S. cents", "AMOUNT"], ["five pence", "AMOUNT"], ["four percent", "PERCENT"], ["15%", "PERCENT"], ["golden share", "SET"], ["magic share", "SET"], ["Britoil PLC", "COMPANY"], ["British Petroleum Co.", "COMPANY"], ["U.S.", "COUNTRY"], ["Detroit", "CITY"], ["Coventry", "CITY"], ["Jaguar Chairman Sir John Egan", "PERSON"], ["Jaguar management", "SET"], ["Britoil PLC", "COMPANY"], ["British Petroleum Co.", "COMPANY"], ["U.S.", "COUNTRY"], ["Detroit", "CITY"], ["Coventry", "CITY"]]

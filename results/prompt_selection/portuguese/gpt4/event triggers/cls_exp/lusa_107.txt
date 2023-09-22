@@ -1,18 +1,1 @@
-[
-["atropelada", "Occurrence"],
-["protesto", "Occurrence"],
-["informaram", "Reporting"],
-["ocorreu", "Occurrence"],
-["tentar sair", "Intensional Action"],
-["tentaram evitar", "Intensional Action"],
-["incendiou-se", "Occurrence"],
-["forçou", "Intensional Action"],
-["atropelado", "Occurrence"],
-["sofreu", "Occurrence"],
-["transportada", "Occurrence"],
-["colocou em fuga", "Intensional Action"],
-["foi identificado", "State"],
-["estão em protesto", "State"],
-["poderem trabalhar", "Intensional State"],
-["foram detetadas", "State"]
-]
+[["atropelada", "Occurrence"], ["protesto", "Occurrence"], ["informaram", "Reporting"], ["ocorreu", "Occurrence"], ["declarações", "Reporting"], ["disse", "Reporting"], ["condutor", "State"], ["transportava", "I_Action"], ["tentar", "I_Action"], ["sair", "I_Action"], ["tentaram", "I_Action"], ["evitar", "I_Action"], ["incendiou-se", "Occurrence"], ["forçou", "I_Action"], ["saída", "I_Action"], ["atropelado", "Occurrence"], ["sofreu", "Occurrence"], ["ferimentos", "State"], ["transportada", "I_Action"], ["Hospital", "State"], ["referiu", "Reporting"], ["colocou", "I_Action"], ["fuga", "State"], ["identificado", "State"], ["protesto", "Occurrence"], ["trabalhar", "I_Action"], ["detetadas", "Perception"], ["percentagens", "State"], ["coliformes fecais", "State"], ["águas", "State"], ["ria", "State"]]

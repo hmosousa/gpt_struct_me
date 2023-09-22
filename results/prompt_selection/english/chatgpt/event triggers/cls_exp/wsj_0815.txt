@@ -1,1 +1,1 @@
-[["said", "Reporting"], ["reached", "State"], ["seeking", "Intensional Action"], ["used", "State"], ["pursue", "Intensional Action"], ["said", "Reporting"], ["stands", "State"], ["reap", "Intensional Action"], ["accepting", "Intensional Action"]]
+[["said", "REPORTING"], ["continuing", "ASPECTUAL"], ["reached", "ASPECTUAL"], ["seeking", "ASPECTUAL"], ["pursue", "I_ACTION"], ["stands", "STATE"], ["reap", "I_ACTION"], ["accepting", "ASPECTUAL"]]

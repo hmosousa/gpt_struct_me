@@ -1,30 +1,5 @@
-[
-["PJ", "Organization"],
-["homem", "Person"],
-["Setúbal", "Location"],
-["restaurante", "Facility"],
-["coletividade", "Organization"],
-["presumível agressor", "Person"],
-["vítima", "Person"],
-["conflito", "Nature"],
-["arma de fogo", "Object"],
-["sexagenário", "Person"],
-["jovem", "Person"],
-["crimes", "Nature"],
-["homicídio qualificado", "Nature"],
-["detenção de arma proibida", "Nature"],
-["omissão de auxílio", "Nature"],
-["primeiro interrogatório judicial", "Facility"],
-["medida de coação de prisão preventiva", "Facility"]
-]
+[["A Polícia Judiciária (PJ)", "Org"], ["um homem", "Per"], ["63 anos", "Per"], ["suspeito", "Per"], ["ter baleado", "Per"], ["um jovem", "Per"], ["na passada quarta-feira", "Loc"], ["no restaurante", "Fac"], ["uma coletividade", "Org"], ["de Setúbal", "Loc"], ["Segundo", "Other"], ["um comunicado", "Obj"], ["a PJ", "Org"], ["o presumível agressor", "Per"], ["terá disparado", "Per"], ["sobre", "Other"], ["a vítima", "Per"], ["na sequência", "Other"], ["um conflito", "Other"], ["com um grupo", "Per"], ["de convivas", "Per"], ["que se encontrava", "Other"], ["a almoçar", "Other"], ["na coletividade", "Fac"], ["no Alto da Guerra", "Loc"], ["A polícia", "Org"], ["adianta", "Other"], ["que o sexagenário", "Per"], ["acabou por alvejar", "Per"], ["um jovem", "Per"], ["do grupo", "Per"], ["com um disparo", "Other"], ["de arma de fogo", "Obj"], ["provocando-lhe", "Other"], ["ferimentos consideráveis", "Other"], ["num ombro e braço", "Other"], ["O detido", "Per"], ["que fugiu", "Other"], ["do local", "Loc"], ["está indiciado", "Other"], ["pelo crime", "Other"], ["de homicídio qualificado", "Other"], ["na forma tentada", "Other"], ["detenção de arma proibida", "Other"], ["e omissão de auxílio", "Other"], ["Já", "Other"], ["foi", "Other"], ["primeiro interrogatório judicial", "Other"], ["tendo-lhe", "Other"], ["sido aplicada", "Other"], ["a medida", "Other"], ["de coação", "Other"], ["de prisão preventiva", "Other"]]
 
-Note:
-The input text is in Portuguese.
+Please note that the input text is in Portuguese, and the output should be in English.
 
-This task is similar to the previous one, but with a different input text and classes. Your goal is to extract and classify all participants in the text, using the given classes.
-
-You can use the same approach as before, by creating a list of all the entities in the text, and then classifying them according to their type. You can use the classes you defined before, or create new ones if needed.
-
-The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
-
-You can use the same code you wrote for the previous task, but with some adjustments to handle the new input text and classes.
+Also, please note that the task is not to extract the entities and classes, but to classify the entities as one of the seven classes provided.

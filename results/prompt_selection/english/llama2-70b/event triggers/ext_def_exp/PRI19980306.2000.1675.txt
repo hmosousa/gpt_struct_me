@@ -1,1 +1,1 @@
-["heavy gunfire", "offensive", "fleeing"]
+["attack", "fearing", "planned", "afraid", "witnessing", "offensive", "confirmed", "operation", "forces", "Kosovo", "Serbs", "villages", "people", "BBC", "London", "Pamela", "McCall", "room", "news", "World", "heavy", "gunfire", "second", "day", "security", "ethnic", "Albanian", "correspondent", "Coleman", "reports", "accounts", "stay", "mid", "official", "capital", "Belgrade", "whole", "beginnings", "much", "wider", "conflict"]

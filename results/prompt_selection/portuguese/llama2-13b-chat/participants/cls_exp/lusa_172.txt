@@ -1,27 +1,14 @@
-[
-["Corpo", "Object"],
-["homem", "Person"],
-["Lagoa", "Location"],
-["Algarve", "Location"],
-["praia da Estaquinha", "Location"],
-["Autoridade Marítima", "Organization"],
-["Estação Salva-vidas de Ferragudo", "Organization"],
-["delegada de saúde de Lagoa", "Person"],
-["gabinete de medicina legal de Portimão", "Location"]
-]
-
-Explanation:
-
-* Corpo is an object.
-* homem is a person.
-* Lagoa and Algarve are locations.
-* praia da Estaquinha is a location.
-* Autoridade Marítima is an organization.
-* Estação Salva-vidas de Ferragudo is an organization.
-* delegada de saúde de Lagoa is a person.
-* gabinete de medicina legal de Portimão is a location.
+[["um corpo", "Per"], ["de um homem", "Per"], ["aparecendo entre 60 e 70 anos", "Per"], ["foi encontrado", "Per"], ["a boiar no mar", "Loc"], ["na praia da Estaquinha", "Loc"], ["no concelho de Lagoa", "Loc"], ["no Algarve", "Loc"], ["segundo as autoridades", "Other"], ["o homem", "Per"], ["um pescador", "Per"], ["teria alegadamente caído", "Other"], ["ao mar", "Loc"], ["quando praticava pesca lúdica", "Other"], ["numa arriba", "Other"], ["naquela praia de Lagoa", "Loc"], ["do distrito de Faro", "Loc"], ["depois de ter sido dado", "Other"], ["o alerta", "Other"], ["para o avistamento", "Other"], ["de um corpo a boiar", "Other"], ["no mar", "Loc"], ["procedeu à recolha", "Org"], ["do corpo", "Per"], ["transportando-o", "Org"], ["para a marina de Portimão", "Loc"], ["“O óbito foi declarado", "Other"], ["no local", "Loc"], ["pelo delegado de saúde", "Org"], ["de Lagoa", "Loc"], ["tendo o corpo", "Org"], ["been transportado", "Other"], ["para o gabinete de medicina legal", "Loc"], ["de Portimão", "Loc"], ["A Polícia Marítima", "Org"], ["de Portimão", "Org"], ["tomou conta", "Org"], ["da ocorrência", "Other"]]
 
 Note:
 
-* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
-* The entities are in the first column and the classes are in the second column.
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

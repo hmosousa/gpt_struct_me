@@ -1,28 +1,16 @@
-[
-["Today", "Date"],
-["night", "Time"],
-["one five thousand", "Duration"],
-["three thousand", "Duration"],
-["a minute and a half", "Duration"],
-["sixteen thousand feet", "Duration"],
-["center", "Set"],
-["TWA eight hundred", "Set"],
-["two fireballs", "Set"],
-["water", "Set"],
-["big small", "Set"],
-["smoke", "Set"],
-["coming up", "Set"],
-["him", "Set"],
-["I think so", "Set"],
-["God bless him", "Set"]
-]
+[["In Washington today", "DATE"], ["Today", "DATE"], ["night", "DATE"], ["TWA Flight eight hundred", "DATE"], ["Federal Aviation Administration", "DATE"], ["Lisa Stark", "DATE"], ["Steven Snyder", "DATE"], ["TWA eight hundred", "DATE"], ["Boston center", "DATE"], ["Eastwind pilot", "DATE"], ["sir", "DATE"], ["It", "DATE"], ["two fireballs", "DATE"], ["water", "DATE"], ["big small", "DATE"], ["smoke", "DATE"], ["coming up", "DATE"], ["from ah", "DATE"], ["him", "DATE"], ["I think so", "DATE"], ["God bless him", "DATE"]]
 
-Explanation:
-The output is a list of pairs, where each pair contains a time expression and its corresponding class. The classes are:
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-* Date: "Today"
-* Time: "night"
-* Duration: "one five thousand", "three thousand", "a minute and a half", "sixteen thousand feet"
-* Set: "center", "TWA eight hundred", "two fireballs", "water", "big small", "smoke", "coming up", "him", "I think so", "God bless him"
+Note:
+The input text may contain multiple time expressions in a single sentence.
 
-Note that "TWA eight hundred" is a set because it refers to a specific flight, and "center" is also a set because it refers to a specific air traffic control center. Similarly, "two fireballs" and "water" are sets because they refer to specific objects or locations. "Big small" and "smoke" are sets because they refer to specific phenomena or conditions. "Coming up" is a set because it refers to a specific event or action. "Him" and "I think so" are sets because they refer to specific people or opinions. "God bless him" is a set because it refers to a specific person or entity.
+Note:
+The input text may contain unnecessary information, like names of people or organizations.
+
+Note:
+The input text may contain time expressions in different formats, like dates, times, durations, and sets.
+
+Note:
+The output should be in the format of a JSON-parseable list.

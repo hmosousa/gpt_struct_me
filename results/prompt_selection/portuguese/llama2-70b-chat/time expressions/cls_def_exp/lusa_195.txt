@@ -1,32 +1,19 @@
-[
-["PJ", "Date"],
-["quarta-feira", "Date"],
-["hoje", "Date"],
-["Alto da Guerra", "Location"],
-["sexagenário", "Duration"],
-["jovem", "Duration"],
-["ombro e braço", "Duration"],
-["homicídio qualificado", "Set"],
-["detenção de arma proibida", "Set"],
-["omissão de auxílio", "Set"],
-["primeiro interrogatório judicial", "Date"],
-["coação de prisão preventiva", "Set"]
-]
+[["na passada quarta-feira", "Date"], ["hoje", "Date"], ["Alto da Guerra", "Location"], ["sexagenário", "Time"], ["jovem", "Time"], ["homicídio qualificado", "Time"], ["prisão preventiva", "Time"]]
 
-Explanation:
-The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+Note:
+The input text can be in any language.
 
-* "PJ" - Date (abbreviation for "Polícia Judiciária")
-* "quarta-feira" - Date (Portuguese for "Wednesday")
-* "hoje" - Date (Portuguese for "today")
-* "Alto da Guerra" - Location (name of a location inSetúbal, Portugal)
-* "sexagenário" - Duration (refers to a person who is 63 years old)
-* "jovem" - Duration (refers to a young person)
-* "ombro e braço" - Duration (refers to the injured body parts)
-* "homicídio qualificado" - Set (a criminal offense in Portuguese law)
-* "detenção de arma proibida" - Set (a criminal offense in Portuguese law)
-* "omissão de auxílio" - Set (a criminal offense in Portuguese law)
-* "primeiro interrogatório judicial" - Date (refers to the first judicial interrogation)
-* "coação de prisão preventiva" - Set (a legal term for preventive detention)
+Note:
+The output format is a JSON-parseable list.
 
-The output is a JSON-parseable list where each element is a list with two strings: the first string is the entity (the temporal expression), and the second string is the class (the category to which the expression belongs).
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, but the task is to extract and classify only time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.

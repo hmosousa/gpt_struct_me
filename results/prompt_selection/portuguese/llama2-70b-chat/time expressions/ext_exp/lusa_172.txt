@@ -1,1 +1,1 @@
-["hoje à tarde", "60 e 70 anos", "um pescador", "numa arriba", "naquela praia de Lagoa", "do distrito de Faro", "depois de ter sido dado o alerta", "a Estação Salva-vidas de Ferragudo", "o óbito foi declarado no local", "tendo o corpo sido transportado para o gabinete de medicina legal de Portimão"]
+["hoje à tarde", "60 e 70 anos", "hoje", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]

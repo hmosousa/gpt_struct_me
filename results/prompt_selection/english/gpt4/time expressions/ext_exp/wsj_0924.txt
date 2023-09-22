@@ -1,1 +1,1 @@
-["Aug. 9", "Sept. 30", "a year ago", "a year earlier"]
+["Aug. 9", "the annual meeting", "the fiscal-first quarter ended Sept. 30", "a year ago", "a year earlier"]

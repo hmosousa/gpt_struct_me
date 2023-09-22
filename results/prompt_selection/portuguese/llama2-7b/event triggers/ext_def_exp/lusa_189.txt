@@ -1,16 +1,1 @@
-["Homem morto a tiro no Barreiro", "atirador em fuga", "Um homem foi hoje morto a tiro no Barreiro", "baleado com dois tiros de caçadeira", "o atirador está em fuga", "disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje", "não adiantando", "mais informações sobre as circunstâncias do tiroteio", "Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo", "a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."]
-
-Explanation:
-The event triggers are:
-
-- Homem morto a tiro no Barreiro
-- atirador em fuga
-- Um homem foi hoje morto a tiro no Barreiro
-- baleado com dois tiros de caçadeira
-- o atirador está em fuga
-- disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP)
-- A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje
-- não adiantando
-- mais informações sobre as circunstâncias do tiroteio
-- Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo
-- a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso.
+["morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "atirador", "fugas", "morto", "at

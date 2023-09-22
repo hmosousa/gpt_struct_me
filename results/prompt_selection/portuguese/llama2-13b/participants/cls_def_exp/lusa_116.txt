@@ -1,16 +1,1 @@
-[
-  ["Person", "Jovem de 14 anos"],
-  ["Organization", "Proteção Civil"],
-  ["Organization", "Bombeiros da Vila das Aves"],
-  ["Organization", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão"],
-  ["Organization", "Ambulância de Suporte Imediato de Vida de Santo Tirso"],
-  ["Organization", "GNR"],
-  ["Location", "Vila das Aves"],
-  ["Location", "Hospital São João"],
-  ["Object", "Autocarro"],
-  ["Nature", "Acidente"],
-  ["Facility", "Rua Luís Gonzaga Mendes de Carvalho"],
-  ["Other", "Lusa"],
-  ["Other", "Vila Nova de Famalicão"],
-  ["Other", "Santo Tirso"]
-]
+[["Um jovem de 14 anos", "Per"], ["ficou hoje em estado grave", "Other"], ["ter", "Other"], ["ser atropelado", "Other"], ["por um autocarro", "Other"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["acrescentou a fonte", "Other"], ["o Hospital São João", "Obj"], ["o Porto", "Loc"], ["acrescentou a fonte", "Other"], ["a fonte", "Other"], ["a Lusa", "Org"], ["a Viatura Médica de Emergência", "Org"], ["a Ambulância de Suporte Imediato de Vida", "Org"], ["a GNR local", "Org"], ["a Lusa", "Org"], ["a corporação", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["a Lusa", "Org"], ["

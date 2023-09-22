@@ -1,21 +1,4 @@
-[
-["Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people", "Date"],
-["early this week", "Duration"],
-["numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move", "Set"],
-["a after-tax charge of less than $4 million to be spread over the next three quarters", "Duration"],
-["for the first nine months", "Duration"],
-["Xerox earned $492 million, or $4.55 a share, on revenue of $12.97 billion", "Date"],
-["Hurricane Hugo payments and the reserves set up to cover future payments", "Duration"],
-["Property/casualty insurance has been a tough business in recent quarters", "Duration"]
-]
+[["Xerox Corp.", "ORGANIZATION"], ["Crum amp Forster", "ORGANIZATION"], ["early this week", "DATE"], ["$4 million", "AMOUNT"], ["first nine months", "SET"], ["$4.55", "AMOUNT"], ["12.97 billion", "AMOUNT"], ["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"]]
 
-Explanation:
-
-1. "Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people" - Date
-2. "early this week" - Duration
-3. "numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move" - Set
-4. "a after-tax charge of less than $4 million to be spread over the next three quarters" - Duration
-5. "for the first nine months" - Duration
-6. "Xerox earned $492 million, or $4.55 a share, on revenue of $12.97 billion" - Date
-7. "Hurricane Hugo payments and the reserves set up to cover future payments" - Duration
-8. "Property/casualty insurance has been a tough business in recent quarters" - Duration
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

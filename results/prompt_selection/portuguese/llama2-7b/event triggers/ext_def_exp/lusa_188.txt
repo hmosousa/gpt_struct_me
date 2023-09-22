@@ -1,7 +1,22 @@
-["Homem de 48 anos morre em acidente de trabalho em Mogadouro",
-"Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.",
-"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência",
-"O alerta foi dado cerca das 17 horas.",
-"Nas operações de socorro estiveram envolvidos meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).",
-"Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros",
-"A GNR de Mogadouro tomou conta da ocorrência."]
+["Homem", "48", "morre", "acidente", "trabalho", "Mogadouro", "Um", "morreu", "hoje", "vítima", "acidente", "localidade", "Vilarinhos", "Galegos", "Concelho", "Mogadouro", "distrito", "Bragança", "Trata-se", "queda", "altura", "homem", "48", "trabalhava", "obra", "construção", "civil", "vítima", "ferimentos", "resistir", "transportada", "ambulância", "campo", "futebol", "helitransportada", "hospital", "referência", "alerta", "dado", "cerca", "horas", "operações", "socorro", "envolveram", "bombeiros", "SIV", "VMER", "INEM", "acionado", "helicóptero", "estacionado", "Macedo", "Cavaleiros", "GNR", "tomou", "controlo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100% dos casos em Portugal são de transmissão comunal
+A transmissão comunal de covid-19 é a responsável por 100% dos casos confirmados em Portugal, segundo dados divulgados hoje pela Direção-Geral da Saúde (DGS).
+A transmissão comunal é aquela que se dá entre pessoas que não têm contato com um caso confirmado, mas que vivem em um mesmo espaço, como um mesmo apartamento, por exemplo.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 1

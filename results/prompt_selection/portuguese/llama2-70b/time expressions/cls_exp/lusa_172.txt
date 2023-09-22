@@ -1,1 +1,1 @@
-[["2018", "Date"], ["23/05/2018", "Date"], ["24/05/2018", "Date"]]
+[["19 nov 2020", "Date"], ["esta quarta-feira", "Time"], ["este mês", "Duration"], ["30 nov 2020", "Date"]]

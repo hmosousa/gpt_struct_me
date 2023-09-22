@@ -1,25 +1,13 @@
-[
-["Homem", "Person"],
-["pessoas", "Person"],
-["Yang", "Person"],
-["sauna", "Location"],
-["balneário", "Location"],
-["meios de comunicação estatais", "Organization"],
-["Liaoning", "Location"],
-["Guangxi", "Location"],
-["Pequim", "Location"],
-["segurança", "Person"],
-["escola", "Location"],
-["condenado", "Person"]
-]
+[["Yang", "Per"], ["sete pessoas", "Per"], ["outras sete", "Per"], ["uma faca", "Obj"], ["na cidade de Kaiyuan", "Loc"], ["na província de Liaoning", "Loc"], ["perpetrado", "Per"], ["à porta de uma sauna e de um balneário", "Loc"], ["o suspeito", "Per"], ["foi detido", "Per"], ["o motivo do ataque", "Other"], ["A lei chinesa", "Org"], ["restringe", "Per"], ["a venda e posse de armas de fogo", "Other"], ["e os ataques em massa", "Other"], ["são geralmente realizados com facas ou explosivos caseiros", "Other"], ["Autores de ataques semelhantes", "Other"], ["realizados no passado", "Other"], ["foram descritos", "Per"], ["como doentes mentais", "Other"], ["ou por terem rancor contra a sociedade", "Other"], ["Em ataques anteriores", "Other"], ["um segurança de uma escola", "Per"], ["empunhando uma faca", "Obj"], ["feriu", "Per"], ["pelo menos 39 pessoas", "Per"], ["num jardim de infância", "Loc"], ["na região sul de Guangxi", "Loc"], ["em junho deste ano", "Other"], ["tendo sido condenado à morte", "Other"], ["Em 2018", "Other"], ["um homem", "Per"], ["matou", "Per"], ["uma pessoa", "Per"], ["e feriu", "Per"], ["12 também", "Per"], ["num ataque com uma faca", "Other"], ["num centro comercial em Pequim", "Loc"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Yang") and the second string is the class (e.g. "Per"). The classes are:
 
-1. "Homem" and "pessoas" are both classified as "Person".
-2. "Yang" is classified as "Person".
-3. "sauna" and "balneário" are both classified as "Location".
-4. "meios de comunicação estatais" is classified as "Organization".
-5. "Liaoning", "Guangxi", and "Pequim" are all classified as "Location".
-6. "segurança" is classified as "Person".
-7. "escola" is classified as "Location".
-8. "condenado" is classified as "Person".
+* Per: Person
+* Obj: Object
+* Other: Other
+* Org: Organization
+* Loc: Location
+* Fac: Facility
+
+The output is in JSON-parseable format, with each tuple represented as a dictionary with two keys: "entity" and "class".

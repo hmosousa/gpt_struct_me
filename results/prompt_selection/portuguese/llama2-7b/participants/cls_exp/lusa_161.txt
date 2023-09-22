@@ -1,68 +1,15 @@
-[
-  ["Person", "Homem"],
-  ["Organization", "GNR"],
-  ["Organization", "Polícia Judiciária"],
-  ["Location", "Rua da Figueirinha"],
-  ["Location", "Grijó"],
-  ["Location", "Vila Nova de Gaia"],
-  ["Location", "Porto"],
-  ["Nature", "Arma de fogo"],
-  ["Nature", "Tiro"],
-  ["Nature", "Suicídio"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
- ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature", "Terminar a relação"],
-  ["Nature", "Relacionado"],
-  ["Nature", "Terminar"],
-  ["Nature", "Relação"],
-  ["Nature
+[["um homem", "Per"], ["matou", "Per"], ["com um disparo", "Obj"], ["arma", "Obj"], ["de fogo", "Obj"], ["a ex-companheira", "Per"], ["em Vila Nova de Gaia", "Loc"], ["e foi detido", "Per"], ["numa altura", "Per"], ["em que", "Per"], ["estaria", "Per"], ["o suicídio", "Per"], ["com a mesma", "Obj"], ["arma", "Obj"], ["a GNR", "Org"], ["referiu à agência", "Org"], ["Lusa", "Org"], ["que o crime", "Per"], ["ocorreu", "Per"], ["cerca", "Loc"], ["das 10:30", "Loc"], ["na Rua", "Loc"], ["da Figueirinha", "Loc"], ["em Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["e que o homem", "Per"], ["tem 62 anos", "Per"], ["a vítima", "Per"], ["era 20 anos mais nova", "Per"], ["a fonte", "Per"], ["admitiu que o homem", "Per"], ["tenha cometido o crime", "Per"], ["em retaliação", "Per"], ["por a mulher", "Per"], ["ter optado por terminar", "Per"], ["a relação", "Per"], ["que ambos", "Per"], ["mantiveram durante", "Per"], ["10 anos", "Per"], ["o caso", "Per"], ["passou para a alçada", "Per"], ["da Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem mata ex-companheira com tiro em Vila Nova de Gaia
+Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia e foi detido numa altura em que estaria a tentar o suicídio com a mesma arma, disse fonte da GNR.
+Fonte do Comando Territorial da GNR do Porto referiu à agência Lusa que o crime ocorreu cerca das 10:30 na Rua da Figueirinha, em Grijó, Vila Nova de Gaia, distrito do Porto, e que o homem tem 62 anos.
+A vítima era 20 anos mais nova.
+A fonte admitiu que o homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos.
+O caso passou para a alçada da Polícia Judiciária."
+
+Output:
+[["um homem", "Per"], ["matou", "Per"], ["com um disparo", "Obj"], ["arma", "Obj"], ["de fogo", "Obj"], ["a ex-companheira", "Per"], ["em Vila Nova de Gaia", "Loc"], ["e foi detido", "Per"], ["numa altura", "Per"], ["em que", "Per"], ["estaria", "Per"], ["o suicídio", "Per"], ["com a mesma", "Obj"], ["arma", "Obj"], ["a GNR", "Org"], ["referiu à agência", "Org"], ["Lusa", "Org"], ["que o crime", "Per"], ["ocorreu", "Per"], ["cerca", "Loc"], ["das 10:30", "Loc"], ["na Rua", "Loc"], ["da Figueirinha", "Loc"], ["em Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["e que o homem", "Per"], ["tem 62 anos", "Per"], ["a vítima", "Per"], ["era 20 anos mais nova", "Per"], ["a fonte", "Per"], ["admitiu que o homem", "Per"], ["tenha cometido o crime", "Per"], ["em retaliação", "Per"], ["por a mulher", "Per"], ["ter optado por terminar

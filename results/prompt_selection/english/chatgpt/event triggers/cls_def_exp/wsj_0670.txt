@@ -1,14 +1,1 @@
-[
-["expects", "Reporting"],
-["report", "Reporting"],
-["sell", "Intensional Action"],
-["offset", "Intensional State"],
-["gain", "Intensional State"],
-["earned", "Occurrence"],
-["sale", "Occurrence"],
-["explore", "Intensional Action"],
-["subject", "State"],
-["provides", "State"],
-["produces", "Occurrence"],
-["had", "State"]
-]
+[["expects", "REPORTING"], ["said", "REPORTING"], ["agreed", "REPORTING"], ["sell", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["gain", "OCCURRENCE"], ["earned", "REPORTING"], ["including", "REPORTING"], ["sale", "OCCURRENCE"], ["said", "REPORTING"], ["continues", "ASPECTUAL"], ["explore", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["subject", "STATE"], ["audit", "OCCURRENCE"], ["provides", "REPORTING"], ["payments", "OCCURRENCE"], ["produces", "OCCURRENCE"], ["had", "STATE"], ["sales", "OCCURRENCE"], ["operating", "STATE"]]

@@ -1,1 +1,1 @@
-["Hurricane Hugo", "California earthquake"]
+["rose", "stemming", "reduced", "advanced", "including", "up", "declined", "estimated", "result", "fell", "lost", "compared", "posted", "was", "loss", "results", "charge", "second", "quarter", "underperforming"]

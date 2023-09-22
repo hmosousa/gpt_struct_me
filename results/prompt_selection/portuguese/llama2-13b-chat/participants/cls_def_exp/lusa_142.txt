@@ -1,18 +1,1 @@
-[
-["GNR", "Organization"],
-["mulher", "Person"],
-["12.300 doses de haxixe", "Object"],
-["Estrada Nacional 122", "Location"],
-["Beja", "Location"],
-["Tribunal Judicial de Beja", "Location"],
-["viatura", "Object"]
-]
-
-Explanation:
-
-* GNR is an organization.
-* mulher is a person.
-* 12.300 doses de haxixe is an object.
-* Estrada Nacional 122 and Beja are locations.
-* Tribunal Judicial de Beja is a location.
-* viatura is an object.
+[["uma mulher", "Per"], ["de 36 anos", "Per"], ["por suspeitas", "Other"], ["do crime de tráfico de droga", "Other"], ["a GNR", "Org"], ["12.300 doses de haxixe", "Obj"], ["no concelho alentejano de Mértola", "Loc"], ["no distrito de Beja", "Loc"], ["hoje", "Other"], ["para primeiro interrogatório", "Other"], ["e eventual aplicação de medidas de coação", "Other"], ["segundo", "Other"], ["a força de segurança", "Org"], ["na Estrada Nacional 122", "Loc"], ["junto à vila de Mértola", "Loc"], ["a suspeita", "Per"], ["que seguia numa viatura", "Other"], ["demonstrou um comportamento nervoso", "Other"], ["após ter sido abordada por militares da GNR", "Other"], ["os militares efetuaram uma busca à viatura", "Other"], ["e uma revista à mulher", "Other"], ["o que lhes permitiu apurar", "Other"], ["que tinha droga na sua posse", "Other"], ["e apreender", "Other"], ["as 12.300 doses de haxixe", "Obj"], ["o veículo", "Obj"], ["e um telemóvel", "Obj"]]

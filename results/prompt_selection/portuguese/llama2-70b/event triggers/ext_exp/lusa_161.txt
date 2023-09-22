@@ -1,1 +1,1 @@
-["homicide", "suicide"]
+["matou", "ex-companheira", "tiro", "Vila Nova de Gaia", "disparo", "arma de fogo", "detido", "tentava", "suicídio", "mesma arma", "crime", "ocorreu", "Rua da Figueirinha", "Grijó", "Porto", "homem", "vítima", "cometido", "retaliação", "mulher", "terminar", "relação", "mantiveram", "anos", "caso"]

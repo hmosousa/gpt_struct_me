@@ -6,3 +6,31 @@ The company also said it continues to explore all options concerning the possibl
 The sale of the extrusion division is subject to audit adjustments for working capital changes through the closing.
 The agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years, depending on the plant's shipping levels.
 The extrusion unit produces bare and painted custom extrusions for building products and construction industries. In fiscal 1989, it had sales of about $40 million and an operating loss of $1.5 million."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell 100 million barrels of oil from the Strategic Petroleum Reserve to help ease the impact of the Persian Gulf crisis on the U.S. economy, a senior administration official said Friday.
+The official, who spoke on condition of anonymity, said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S. economy.
+The official said the plan is being considered as a way to offset the impact of the crisis on the U.S

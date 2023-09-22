@@ -1,1 +1,1 @@
-[["early", "Time"], ["this week", "Date"], ["less than $4 million", "Duration"], ["three quarters", "Set"], ["$492 million", "Amount"], ["first nine months", "Duration"], ["Hugo", "Name"], ["California", "Location"]]
+[["Crum & Forster", "ORGANIZATION"], ["Hugo", "PERSON"], ["California", "LOCATION"], ["$4 million", "MONEY"], ["$492 million", "MONEY"], ["$12.97 billion", "MONEY"]]

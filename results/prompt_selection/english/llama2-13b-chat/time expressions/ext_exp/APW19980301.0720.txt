@@ -1,8 +1,4 @@
-[
-"Sunday",
-"Friday",
-"1978",
-"last week",
-"last year",
-"two months ago"
-]
+["Sunday", "Sunday", "Friday", "last week", "last year", "February", "nearly two years", "1978", "1985", "39", "two months", "six weeks"]
+
+Format:
+JSON-parseable list of strings.

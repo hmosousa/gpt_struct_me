@@ -1,10 +1,5 @@
-[
-"Grua de camião",
-"homem de 52 anos",
-"poste de iluminação",
-"Rua da Constituição",
-"Porto",
-"PSP",
-"Hospital de Santo António",
-"funcionário de bombas de gasolina"
-]
+["Grua de camião", "derrubou", "poste de iluminação", "Porto", "matou", "homem", "52 anos", "sofreu", "ferimentos", "ligheiros", "acidente", "caminho", "Rua da Constituição", "PSP", "Comando Metropolitano", "Hospital de Santo António", "vítima", "morreu", "estructura", "funçãoário", "bombas de gasolina", "ferimentos", "ligheiros", "acidente", "07:50"]
+
+
+Format:
+JSON-parseable list of strings.

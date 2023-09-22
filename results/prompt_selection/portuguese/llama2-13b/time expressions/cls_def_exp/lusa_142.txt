@@ -1,15 +1,1 @@
-[
-  ["Date", "2019-03-12"],
-  ["Time", "12:30"],
-  ["Duration", "PT1H30M"],
-  ["Set", "PT1H30M"]
-]
-
-Explanation:
-The first element is a date, the second is a time, the third is a duration, and the fourth is a set.
-
-Hints:
-- Use the `date` and `time` functions to extract the date and time.
-- Use the `duration` function to extract the duration.
-- Use the `set` function to extract the set.
-
+[["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses de haxixe", "Duration"], ["12.300 doses

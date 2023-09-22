@@ -1,1 +1,1 @@
-["hoje", "à tarde", "hoje à tarde", "proibido", "nesta ocorrência", "ambos", "uma", "outra", "segundo"]
+["hoje", "hoje à tarde", "30 nov 2020", "proibido o consumo de álcool na via pública", "setembro", "final do ano"]

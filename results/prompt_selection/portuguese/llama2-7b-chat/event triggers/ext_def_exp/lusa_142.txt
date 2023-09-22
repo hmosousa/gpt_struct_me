@@ -1,19 +1,5 @@
-[
-"GNR detém suspeita de tráfico de droga",
-"apresende 12.300 doses de haxixe",
-"Mértola",
-"Beja",
-"Tribunal Judicial de Beja",
-"primeiro interrogatório",
-"medidas de coação",
-"demonstrou um comportamento nervoso",
-"Estrada Nacional 122",
-"viatura",
-"busca",
-"revisão",
-"apurou",
-"droga",
-"haxixe",
-"veículo",
-"telemóvel"
-]
+["detém", "suspeita", "tráfico", "droga", "apresende", "doses", "haxixe", "Mértola", "concelho", "alentejano", "distrito", "Beja", "militares", "Posto", "Tribunal", "judicial", "medidas", "coação", "seguro", "patrulhamento", "Estrada", "nacional", "vila", "demonstrou", "comportamento", "nervos", "efetaram", "busca", "revisaram", "apuraram", "veículo", "telemóvel"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list includes all the words and phrases that are relevant to the task of extracting event triggers.

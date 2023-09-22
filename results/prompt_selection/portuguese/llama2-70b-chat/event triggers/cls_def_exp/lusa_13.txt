@@ -1,38 +1,7 @@
-[
-["Autoridades judiciais", "State"],
-["buscas", "Occurrence"],
-["em casa de motorista de Maradona", "Aspectual"],
-["Maximiliano Trimarchi", "State"],
-["motorista de Diego Maradona", "State"],
-["no âmbito da investigação", "Intensional Action"],
-["por alegada negligência na morte do ex-futebolista argentino", "Intensional State"],
-["ocorrida em 25 de novembro", "Occurrence"],
-["Em comunicado", "State"],
-["a procuradoria-geral de San Isidro", "State"],
-["refere", "Intensional Action"],
-["que as buscas", "Occurrence"],
-["foram ordenadas", "Intensional Action"],
-["depois de saber que Trimarchi estava junto de Maradona quando este morreu", "Intensional State"],
-["na sua casa", "Aspectual"],
-["em San André", "Aspectual"],
-["na província de Buenos Aires", "Aspectual"],
-["A polícia já realizou perícias", "Occurrence"],
-["aos telemóveis de Leopoldo Luque", "State"],
-["médico de Maradona", "State"],
-["que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro", "Occurrence"],
-["e da psiquiatra Agustina Cosachov", "State"],
-["Dois dias após a morte de Maradona", "Occurrence"],
-["de 60 anos", "State"],
-["a justiça argentina abriu um inquérito", "Intensional Action"],
-["para determinar se houve negligência médica na assistência ao antigo futebolista", "Intensional State"]
-]
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["apartamento", "State"], ["Maximiliano Trimarchi", "State"], ["motorista", "State"], ["Diego Maradona", "State"], ["investigação", "Occurrence"], ["alegada negligência", "Occurrence"], ["morte", "Occurrence"], ["ex-futebolista", "State"], ["argentino", "State"], ["ocorrida", "Occurrence"], ["San Isidro", "State"], ["procuradoria-geral", "State"], ["comunicado", "Reporting"], ["apreendido", "Occurrence"], ["telemóvel", "State"], ["Trimarchi", "State"], ["juntamente", "Occurrence"], ["Maradona", "State"], ["casa", "State"], ["San André", "State"], ["provincia", "State"], ["Buenos Aires", "State"], ["polícia", "State"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["Leopoldo Luque", "State"], ["médico", "State"], ["Maradona", "State"], ["hematoma subdural", "State"], ["Agustina Cosachov", "State"], ["psiquiatra", "State"], ["inquérito", "Occurrence"], ["justiça", "State"], ["argentina", "State"], ["abriu", "Aspectual"], ["determinar", "I_Action"], ["negligência médica", "Occurrence"], ["assistência", "State"], ["antigo futebolista", "State"]]
 
-Note:
+Please note that the input text is in Portuguese and the output should be in English.
 
-* The input text is in Portuguese, but the output should be in English.
-* The entities and classes should be in lowercase.
-* The output should be a JSON-parseable list, with each element being a list of two strings, the first being the entity and thesecond being the class.
-* The classes should be from the given list: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
-* The entities and classes should be accurately identified and classified according to their context in the input text.
+Also, please note that the task is to extract and classify all event triggers, not to extract all events.
 
-This task is a sample task and the given input text is a sample text. The actual task will have a different input text and the model should be able to classify the entities and classes accurately based on the context.
+Event triggers are words or phrases that indicate the occurrence of an event, such as "fazem" (they make), "houve" (there was), "realizam" (they realize), "começam" (they begin), "acabam" (they end), "estão" (they are), "são" (they are), "fizeram" (they did), "têm" (they have), "foram" (they were), "seriam" (they would be), "podem" (they can), "devem" (they must), "poderiam" (they could), "teriam" (they would have), "quando" (when), "se" (if), "caso" (if), "para" (for), "a partir de" (since), "em seguida" (then), "em seguida" (then), "depois" (after), "antes" (before), "durante" (during), "após" (after), "com" (with), "sem" (without), "antes de" (before), "depois de" (after), "em" (in), "na" (in), "no" (in), "ao" (to), "do" (of), "da" (of), "pelo" (by), "pela" (by), "pelos" (by), "pela" (by), "pelo" (by), "de" (of), "desde" (since), "até" (until), "em" (in), "na" (in), "no" (in), "ao" (to), "do" (of), "da" (of), "pelo" (by), "pela" (by), "pelos" (by), "pela" (by), "pelo" (by), "de" (of), "desde" (since), "até" (until), "em" (in), "na" (in), "no" (in), "ao" (to), "do" (of), "da" (of), "pelo" (by), "pela" (by), "pelos" (by), "pela" (by), "pelo" (by), "de" (of), "desde" (since), "até" (until), "em" (in), "na" (in), "no" (in), "ao" (to), "do" (of), "da" (of), "pelo" (by), "pela" (by),

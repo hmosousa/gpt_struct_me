@@ -1,28 +1,5 @@
-[
-["this coming Sunday", "Date"],
-["March eighth", "Date"],
-["twenty years", "Duration"],
-["seventy-five percent", "Duration"],
-["the past twenty years", "Duration"],
-["today", "Date"],
-["the right to work", "Set"],
-["the right to survival", "Set"],
-["a nation of widows", "Set"],
-["their families", "Set"],
-["international aid", "Set"],
-["the capital Kabul", "Location"],
-["the women of Kabul", "Set"],
-["Afghanistan", "Location"],
-["peace and justice", "Set"]
-]
+[["Sunday", "DATE"], ["March eighth", "DATE"], ["twenty years", "DURATION"], ["seventy-five percent", "SET"], ["Afghanistan", "DATE"], ["Pakistan", "DATE"], ["Iran", "DATE"], ["Europe", "DATE"], ["Australia", "DATE"], ["North America", "DATE"], ["Kabul", "DATE"], ["Afghan", "DATE"], ["Taleban", "DATE"], ["today", "DATE"], ["right to work", "SET"], ["right to survival", "SET"], ["urban areas", "SET"], ["rural parts", "SET"], ["international aid", "SET"], ["women's right to education", "SET"], ["access to work", "SET"], ["peace and justice", "SET"]]
 
-Explanation:
-The output is a list of temporal expressions extracted from the input text. Each expression is a string, and it is accompanied by a class that indicates its type. The classes used in this task are:
+Please review the input and output samples and let me know if you have any questions.
 
-* Date: Indicates a specific point in time, such as a day, month, or year.
-* Time: Indicates a specific time of day or a time period, such as hours, minutes, or seconds.
-* Duration: Indicates a period of time, such as "twenty years" or "the past twenty years".
-* Set: Indicates a set of items, such as "the right to work" or "the women of Kabul".
-* Location: Indicates a specific place, such as a city, country, or region.
-
-Note that some expressions can be classified under more than one category. For example, "the right to work" can be classified under both "Set" and "Duration", depending on the context in which it is used.
+I'm ready when you are!

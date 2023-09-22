@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["Estrada Nacional 10-8", "Set"], ["Setúbal", "Set"], ["Comando Distrital de Operações de Socorro", "Setúbal"], ["Hospital de São Bernardo", "Setúbal"], ["06:55", "Time"]]
+[["hoje", "Date"], ["Estrada Nacional 10-8", "Set"], ["Mitrena", "Set"], ["Setúbal", "Set"], ["Comando Distrital de Operações de Socorro (CDOS)", "Set"], ["Setúbal", "Set"], ["Hospital de São Bernardo", "Set"], ["Setúbal", "Set"], ["06:55", "Time"], ["Palmela", "Set"], ["Sapadores de Setúbal", "Set"], ["PSP", "Set"], ["16 elementos", "Set"], ["cinco veículos", "Set"]]

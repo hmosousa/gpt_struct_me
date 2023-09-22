@@ -1,30 +1,13 @@
-[
-["GNR", "State"],
-["mulher", "Occurrence"],
-["droga", "Aspectual"],
-["viatura", "Perception"],
-["militares", "Reporting"],
-["Estrada Nacional 122", "Location"],
-["Beja", "Location"],
-["Tribunal Judicial de Beja", "Location"],
-["coação", "Intensional Action"],
-["medidas de coação", "Intensional Action"]
-]
-
-Explanation:
-
-* GNR: State (the entity is the GNR)
-* mulher: Occurrence (the entity is the woman)
-* droga: Aspectual (the entity is the drug)
-* viatura: Perception (the entity is the vehicle)
-* militares: Reporting (the entity is the military)
-* Estrada Nacional 122: Location (the entity is the road)
-* Beja: Location (the entity is the city)
-* Tribunal Judicial de Beja: Location (the entity is the court)
-* coação: Intensional Action (the entity is the coercion)
-* medidas de coação: Intensional Action (the entity is the coercive measures)
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico", "Occurrence"], ["de", "Preposition"], ["droga", "Occurrence"], ["apreende", "I_Action"], ["12.300", "Quantity"], ["doses", "Quantity"], ["haxixe", "Occurrence"], ["no", "Preposition"], ["concelho", "Occurrence"], ["alentejano", "Adjective"], ["de", "Preposition"], ["Mértola", "Location"], ["distrito", "Occurrence"], ["Beja", "Location"], ["divulgado", "Occurrence"], ["hoje", "Adverb"], ["Tribunal", "Occurrence"], ["Judicial", "Adjective"], ["de", "Preposition"], ["Beja", "Location"], ["para", "Preposition"], ["primeiro", "Adjective"], ["interrogatório", "Occurrence"], ["e", "Conjunction"], ["eventual", "Adjective"], ["aplicação", "Occurrence"], ["de", "Preposition"], ["medidas", "Noun"], ["coação", "Noun"]]
 
 Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "detém", "suspeita", "apreende"), and the second string is the class (e.g. "I_Action", "State", "Occurrence"). The classes are:
 
-* The classes are based on the categories proposed by the task, but the entities and their relationships could be represented in different ways, depending on the context and the level of detail desired.
-* The output is a JSON-parseable list, where each element is a list with two strings, representing the entity and the class.
+* I_Action: actions performed by entities
+* State: states or conditions of entities
+* Occurrence: events or occurrences that happen to entities
+* Aspectual: aspects or features of entities or events
+* Intensional Action: actions that have a specific goal or intention
+* Intensional State: states that have a specific goal or intention
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "Covi-19", "erros", "quarentena", "divulgação", "transmissão comunitária". In the second input text, the event triggers are "detém", "suspeita", "apreende", "droga", "haxixe". Your output should be a list of tuples, where each tuple contains the entity and the class of the event trigger.

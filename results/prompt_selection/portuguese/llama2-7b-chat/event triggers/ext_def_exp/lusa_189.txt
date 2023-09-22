@@ -1,11 +1,11 @@
-[
-"Homem morto",
-"tiro no Barreiro",
-"atirador em fuga",
-"incidente ocorreu",
-"20:20 de hoje",
-"circunstâncias do tiroteio",
-"suspeita de homicídio",
-"armas de fogo",
-"Polícia Judiciária"
-]
+["morto", "atirador", "em", "fuga", "Direção", "National", "Polícia", "Segurança", "Pública", "incidente", "ocorreu", "20:20", "informações", "circunstâncias", "tiroteio", "suspeita", "homicídio", "armas", "fogo", "Polícia", "Judiciária", "investigação", "caso"]
+
+
+Note:
+
+This task is to extract all event triggers from the given text. Event triggers are words or phrases that indicate the occurrence of an event, such as "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo".
+
+
+
+
+

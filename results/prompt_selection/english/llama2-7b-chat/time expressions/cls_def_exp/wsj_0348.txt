@@ -1,20 +1,7 @@
-[
-{ "entity": "Ogden Projects Inc.", "class": "Date" },
-{ "entity": "third quarter", "class": "Time" },
-{ "entity": "1987", "class": "Date" },
-{ "entity": "August", "class": "Time" },
-{ "entity": "14", "class": "Duration" },
-{ "entity": "13 facilities", "class": "Set" },
-{ "entity": "seven", "class": "Set" },
-{ "entity": "33%", "class": "Duration" },
-{ "entity": "283.8 million", "class": "Duration" },
-{ "entity": "39.5 million", "class": "Duration" },
-{ "entity": "101.7 million", "class": "Duration" },
-{ "entity": "26.875", "class": "Duration" },
-{ "entity": "75 cents", "class": "Duration" },
-{ "entity": "14", "class": "Duration" },
-{ "entity": "13", "class": "Set" },
-{ "entity": "7", "class": "Set" },
-{ "entity": "1987", "class": "Date" },
-{ "entity": "1987", "class": "Date" }
-]
+
+	[["net income", "MONEY"], ["third quarter", "DATE"], ["$6.6 million", "MONEY"], ["$1.1 million", "MONEY"], ["$101.7 million", "MONEY"], ["$39.5 million", "MONEY"], ["13 facilities", "SET"], ["seven", "SET"], ["Ogden Projects Inc.", "ORGANIZATION"], ["Ogden Corp.", "ORGANIZATION"], ["$26.875", "MONEY"], ["$14", "MONEY"]]
+
+
+Format:
+
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

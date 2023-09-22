@@ -1,23 +1,12 @@
-[
-["GNR", "Organization"],
-["homens", "Person"],
-["tráfico de droga", "Object"],
-["Sines", "Location"],
-["estupefacientes", "Object"],
-["heroína", "Object"],
-["cocaína", "Object"],
-["numerário", "Object"],
-["veículo", "Object"],
-["telemóveis", "Object"],
-["Tribunal Judicial de Santiago do Cacém", "Location"]
-]
+[["GNR", "Org"], ["dos homens", "Per"], ["tráfico de droga", "Other"], ["em Sines", "Loc"], ["a GNR", "Org"], ["deteve", "Verb"], ["dois suspeitos", "Per"], ["no sábado", "Day"], ["em uma ação de patrulhamento", "Other"], ["num local", "Loc"], ["ja referenciado por tráfico de estupefacientes", "Other"], ["os militares", "Per"], ["detiveram", "Verb"], ["quando estes", "Per"], ["se preparavam", "Other"], ["para efetuar uma transação", "Other"], ["na operação", "Other"], ["foram apreendidas", "Verb"], ["1.570 doses de heroína", "Obj"], ["103 doses de cocaína", "Obj"], ["844 euros", "Obj"], ["em numerário", "Other"], ["um veículo", "Obj"], ["quatro telemóveis", "Obj"], ["Os detidos", "Per"], ["vão ser presentes", "Verb"], ["ao Tribunal Judicial", "Org"], ["de Santiago do Cacém", "Loc"], ["para primeiro interrogatório judicial", "Other"], ["e aplicação", "Other"], ["de eventuais medidas de coação", "Other"]]
 
-Explanation:
+Note:
 
-* GNR is an organization.
-* homens is a person.
-* tráfico de droga is an object.
-* Sines is a location.
-* estupefacientes, heroína, cocaína, and numerário are objects.
-* veículo and telemóveis are objects.
-* Tribunal Judicial de Santiago do Cacém is a location.
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Other" stands for "other" (e.g. objects, locations, etc.)
+* "Loc" stands for "location"
+* "Fac" stands for "facility"
+* "Obj" stands for "object"
+
+Please let me know if you have any questions or need further clarification.

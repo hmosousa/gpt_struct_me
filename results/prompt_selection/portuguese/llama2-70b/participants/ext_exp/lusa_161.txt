@@ -1,1 +1,1 @@
-["homem", "ex-companheira", "Vila Nova de Gaia", "GNR", "Porto", "Rua da Figueirinha", "Grijó"]
+["ex-companheira", "Vila Nova de Gaia", "disparo", "arma de fogo", "suicídio", "GNR", "Porto", "Rua da Figueirinha", "Grijó", "homem", "mulher", "relação", "Polícia Judiciária"]

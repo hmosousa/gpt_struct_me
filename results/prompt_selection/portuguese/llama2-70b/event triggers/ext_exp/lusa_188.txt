@@ -1,1 +1,1 @@
-["homem","acidente","trabalho"]
+["morreu", "acidente", "trabalho", "localidade", "Concelho", "distrito", "bombeiros", "trata-se", "queda", "altura", "homem", "obra", "construção", "civil", "não resistir", "ferimentos", "falecer", "helitransportada", "hospital", "referência", "explicou", "comandante", "alerta", "dito", "envolvido", "meios", "ambulância", "Suporte", "Imediato", "Vida", "Viatura", "Medica", "Emergência", "Reanimação", "Instituto", "Nacional", "Emergência", "Médica", "Macedo", "Cavaleiros"]

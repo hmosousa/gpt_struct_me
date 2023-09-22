@@ -1,16 +1,16 @@
-[
-["14 anos", "Duration"],
-["hoje", "Date"],
-["18:16", "Time"],
-["Rua Luís Gonzaga Mendes de Carvalho", "Set"]
-]
+[["hoje", "Time"], ["18:16", "Time"], ["14 anos", "Duration"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"], ["Vila das Aves", "Location"], ["Porto", "Location"], ["Vila Nova de Famalicão", "Location"], ["Santo Tirso", "Location"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Note:
+The input text may contain more than one temporal expression.
+The output format is a JSON-parseable list.
+The classes are:
 
-* "14 anos" is a duration, as it represents a period of time that has passed or will pass.
-* "hoje" is a date, as it refers to the current day.
-* "18:16" is a time, as it represents a specific time of day.
-* "Rua Luís Gonzaga Mendes de Carvalho" is a set, as it refers to a specific location.
+* Date: Representing a specific point in time, such as a day, month, or year.
+* Time: Representing a specific time of day, such as hours, minutes, or seconds.
+* Duration: Representing a period of time, such as days, weeks, months, or years.
+* Set: Representing a specific set of time, such as a date and time.
+* Location: Representing a specific location, such as a city, street, or country.
 
-The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class (Duration, Date, Time, or Set).
+Note that the input text may contain more than one temporal expression, and the output format is a JSON-parseable list.
+
+The task is to extract and classify all time expressions in the given input text.

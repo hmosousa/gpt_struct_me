@@ -1,1 +1,1 @@
-["hoje", "sequência", "Rua da Constituição", "Porto", "1984", "dezembro"]
+["hoje", "Rua da Constituição", "Porto", "09 dez 2016", "08h43"]

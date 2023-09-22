@@ -1,68 +1,21 @@
-[
-  ["Person", "Violência doméstica: Pulseira eletrónica para homem detido em Penafiel"],
-  ["Organization", "GNR"],
-  ["Organization", "Penafiel"],
-  ["Organization", "Porto"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization", "Portugal"],
-  ["Organization
+[["um homem", "Per"], ["de 39 anos", "Per"], ["suspeito", "Per"], ["de violência física", "Per"], ["injúrias", "Per"], ["de morte", "Per"], ["à ex-companheira", "Per"], ["de 42 anos", "Per"], ["informou", "Per"], ["hoje", "Per"], ["fonte", "Org"], ["da GNR", "Org"], ["não", "Per"], ["aceitou", "Per"], ["a separação", "Per"], ["e começou", "Per"], ["a perseguir", "Per"], ["a vítima", "Per"], ["na sua residência", "Loc"], ["e no local", "Loc"], ["de trabalho", "Loc"], ["a mulher", "Per"], ["already", "Per"], ["usava", "Per"], ["um botão", "Obj"], ["de pânico", "Obj"], ["que lhe", "Per"], ["lhe", "Per"], ["aplicado", "Per"], ["por", "Per"], ["teleassistência", "Obj"], ["o homem", "Per"], ["com", "Per"], ["antecedentes", "Per"], ["criminais", "Per"], ["por", "Per"], ["ilícitos", "Per"], ["da mesma", "Per"], ["natureza", "Per"], ["ficou", "Per"], ["proibido", "Per"], ["de contactar", "Per"], ["a vítima", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridade policial: Pulseira eletrónica para homem detido em Penafiel
+Um homem de 39 anos foi colocado sob vigilância eletrónica, em Penafiel, distrito do Porto, suspeito de violência física, injúrias e ameaças de morte à ex-companheira, de 42 anos, informou hoje fonte da GNR.
+Em comunicado, a autoridade policial indicou que o suspeito "não aceitou a separação e começou a perseguir a vítima na sua residência e no local de trabalho".
+A mulher já usava um botão de pânico, que lhe tinha sido aplicado por medida de proteção por teleassistência.
+O homem, com antecedentes criminais por ilícitos da mesma natureza, ficou ainda proibido de contactar a vítima."
+
+Output:
+[["a autoridade policial", "Org"], ["indicou", "Per"], ["que", "Per"], ["o suspeito", "Per"], ["não", "Per"], ["aceitou", "Per"], ["a separação", "Per"], ["e começou", "Per"], ["a perseguir", "Per"], ["a vítima", "Per"], ["na sua residência", "Loc"], ["e no local", "Loc"], ["de trabalho", "Loc"], ["a mulher", "Per"], ["already", "Per"], ["usava", "Per"], ["um botão", "Obj"], ["de pânico", "Obj"], ["que lhe", "Per"], ["lhe", "Per"], ["aplicado", "Per"], ["por", "Per"], ["teleassistência", "Obj"], ["o homem", "Per"], ["com", "Per"], ["antecedentes", "Per"], ["criminais", "Per"], ["por", "Per"], ["ilícitos", "Per"], ["da mesma", "Per"], ["natureza", "Per"], ["ficou", "Per"], ["proibido", "Per"], ["de contactar", "Per"], ["a vítima", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridade policial: Pulseira eletrónica para homem detido em Penafiel
+Um homem de 39 anos foi colocado sob vigilância eletrónica, em Penafiel, distrito do Porto, suspeito de violência física, injúrias e ameaças

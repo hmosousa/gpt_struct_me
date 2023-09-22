@@ -1,1 +1,1 @@
-["Jim Pattison Industries Ltd.", "Innopac Inc.", "C$1.9 billion", "4.2 million", "13.8 million common shares outstanding", "about 137.8 million Canadian dollars (US$117.3 million)", "fourth-quarter loss of about C$2.6 million, or 18 Canadian cents a share", "net income for the year ended Aug. 31 C$2.7 million, or 20 Canadian cents a share", "C$291.6 million"]
+["Pattison", "Innopac", "Jim", "Fabi", "McDonald", "Mass"]

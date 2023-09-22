@@ -1,19 +1,12 @@
-[
-["Di Giorgio Corp.", "State"],
-["Di Giorgio Corp.", "Occurrence"],
-["Robert Mellor", "Perception"],
-["DIG Acquisition Corp.", "Intensional Action"],
-["DIG Acquisition Corp.", "Intensional State"],
-["Rose Partners Limited Partnership", "Aspectual"]
-]
+[["Di Giorgio Corp.", "OCCURRENCE"], ["said", "REPORTING"], ["continuing", "OCCURRENCE"], ["potential", "OCCURRENCE"], ["buyers", "OCCURRENCE"], ["no", "OCCURRENCE"], ["agreement", "OCCURRENCE"], ["units", "OCCURRENCE"], ["seeking", "OCCURRENCE"], ["alternatives", "OCCURRENCE"], ["tender", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["vehicle", "OCCURRENCE"], ["accepting", "OCCURRENCE"], ["more", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["individual", "OCCURRENCE"], ["units", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity, and the second string is the class label. The class labels are:
 
-* "Di Giorgio Corp." is a State entity, as it is the subject of the sentence and is not undergoing any change.
-* "Occurrence" is the class for "said it's continuing talks with potential buyers", as it is an event that is happening.
-* "Robert Mellor" is a Perception entity, as it is the person who is perceiving the situation.
-* "DIG Acquisition Corp." is an Intensional Action entity, as it is the subject of the sentence and is performing an action.
-* "DIG Acquisition Corp." is also an Intensional State entity, as it is the subject of the sentence and has a state (being the vehicle for the acquisition).
-* "Rose Partners Limited Partnership" is an Aspectual entity, as it is mentioned in the sentence but is not the subject of the sentence.
+* OCCURRENCE: events or actions that occur or take place
+* REPORTING: statements or phrases that report or describe events or actions
+* ASPECTUAL: statements or phrases that describe the aspect or nature of something
+* INTENSIONAL ACTION: statements or phrases that describe an action or event that is intended or planned
+* INTENSIONAL STATE: statements or phrases that describe a state or condition that is intended or planned
 
-Note: This is just one example, and the output may vary depending on the input sentence.
+In this example, the input text is a news article, and the output is a list of tuples, where each tuple contains the name of the entity (e.g. "Di Giorgio Corp.") and the class label (e.g. "OCCURRENCE") for each entity in the text. The class labels indicate the type of event or action that is taking place in the text.

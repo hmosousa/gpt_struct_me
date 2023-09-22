@@ -1,7 +1,3 @@
-
 [
-"buscas em casa de motorista de Maradona",
-"apreendido telemóvel do motorista",
-"perícias aos telemóveis de Leopoldo Luque",
-"perícias aos telemóveis de Agustina Cosachov"
+"buscas", "apreendido", "telemóvel", "procuradoria-geral", "san isidro", "saber", "trimarchi", "morreu", "casa", "san andré", "provincia de buenos aires", "polícia", "perícias", "telemóveis", "leopoldo luque", "médico", "operação", "hematoma subdural", "início de novembro", "agustina cosachov", "dois dias", "morte de maradona", "justiça argentina", "inquérito", "negligência médica", "assistência", "antigo futebolista"
 ]

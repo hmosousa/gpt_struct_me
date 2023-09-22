@@ -1,1 +1,1 @@
-["morre", "esfaqueado", "morreu", "esfaqueado", "desentendimento", "informou", "ocorrido", "declarado", "ido", "pedir", "ajuda", "desentendimento", "envolveu", "esfaqueado", "detido", "tentativa", "fuga", "aguarda", "acionada", "tratar", "homicídio", "encontrava-se", "preservado"]
+["morre", "esfaqueado", "informou", "ocorrido", "declarado", "ido", "pedir", "ajuda", "desentendimento", "envolveu", "esfaqueado", "detido", "tentativa de fuga", "aguarda", "acionada", "tratar", "homicídio", "encontrava-se", "preservado"]

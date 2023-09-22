@@ -1,1 +1,4 @@
-["José Carrasco", "homem de 48 anos"]
+[ "um homem de 48 anos", "Vilarinhos dos Galegos", "Concelho de Mogadouro", "distrito de Bragança", "Lusa", "fonte dos bombeiros", "acidente de trabalho", "trabalhava", "uma obra de construção civil", "a vítima", "ferimentos", "falecer", "ambulância para o campo de futebol", "helitransportada", "hospital de referência", "José Carrasco", "meios dos bombeiros", "ambulância de Suporte Imediato de Vida (SIV)", "Viatura Medica de Emergência e Reanimação (VMER)", "Instituto Nacional e Emergência Médica (INEM)", "helicóptero do INEM", "Macedo de Cavaleiros", "GNR de Mogadouro"]
+
+Format:
+JSON-parseable list of strings.

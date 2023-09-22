@@ -1,74 +1,15 @@
-[
-  ["GNR", "State"],
-  ["detém", "Occurrence"],
-  ["homens", "Occurrence"],
-  ["tráfico", "Occurrence"],
-  ["de", "Aspectual"],
-  ["droga", "Occurrence"],
-  ["em", "Aspectual"],
-  ["Sines", "Occurrence"],
-  ["A", "Intensional Action"],
-  ["GNR", "State"],
-  ["deteve", "Occurrence"],
-  ["dois", "Occurrence"],
-  ["homens", "Occurrence"],
-  ["com", "Aspectual"],
-  ["idades", "Occurrence"],
-  ["entre", "Aspectual"],
-  ["os", "Aspectual"],
-  ["34", "Occurrence"],
-  ["e", "Aspectual"],
-  ["43", "Occurrence"],
-  ["anos", "Occurrence"],
-  ["por", "Aspectual"],
-  ["tráfico", "Occurrence"],
-  ["de", "Aspectual"],
-  ["droga", "Occurrence"],
-  ["em", "Aspectual"],
-  ["Sines", "Occurrence"],
-  ["no", "Aspectual"],
-  ["distrito", "Occurrence"],
-  ["de", "Aspectual"],
-  ["Setúbal", "Occurrence"],
-  ["tendo", "Occurrence"],
-  ["a", "Aspectual"],
-  ["prevenção", "Occurrence"],
-  ["a", "Aspectual"],
-  ["apreendido", "Occurrence"],
-  ["1.673", "Occurrence"],
-  ["doses", "Occurrence"],
-  ["de", "Aspectual"],
-  ["estupefacientes", "Occurrence"],
-  ["divulgou", "Occurrence"],
-  ["hoje", "Occurrence"],
-  ["aquela", "Occurrence"],
-  ["força", "Occurrence"],
-  ["de", "Aspectual"],
-  ["segurança", "Occurrence"],
-  ["indicou", "Occurrence"],
-  ["que", "Aspectual"],
-  ["a", "Intensional Action"],
-  ["detenção", "Occurrence"],
-  ["dos", "Occurrence"],
-  ["dois", "Occurrence"],
-  ["suspeitos", "Occurrence"],
-  ["foi", "Occurrence"],
-  ["efetuada", "Occurrence"],
-  ["no", "Aspectual"],
-  ["sábado", "Occurrence"],
-  ["no", "Aspectual"],
-  ["decorrer", "Occurrence"],
-  ["de", "Aspectual"],
-  ["uma", "Occurrence"],
-  ["ação", "Occurrence"],
-  ["de", "Aspectual"],
-  ["pátio", "Occurrence"],
-  ["no", "Aspectual"],
-  ["concelho", "Occurrence"],
-  ["de", "Aspectual"],
-  ["Sines", "Occurrence"],
-  ["“Após", "Occurrence"],
-  ["verificarem", "Occurrence"],
-  ["movimentações", "Occurrence"],
-  ["suspeitas", "Occurrence"],
-  ["
+[["detém", "I_Action"], ["tráfico", "Occurrence"], ["deteve", "I_Action"], ["homens", "Occurrence"], ["idades", "Aspectual"], ["entre", "Aspectual"], ["anos", "Aspectual"], ["apreendido", "I_Action"], ["dos", "Aspectual"], ["doses", "Occurrence"], ["estupefacientes", "Occurrence"], ["divulgou", "Reporting"], ["indicou", "Reporting"], ["efetuada", "Occurrence"], ["sábado", "Occurrence"], ["decorrente", "Aspectual"], ["ação de patrulhamento", "Occurrence"], ["referenciado", "Aspectual"], ["tráfico de estupefacientes", "Occurrence"], ["preparavam", "Aspectual"], ["efetuar", "I_Action"], ["transação", "Occurrence"], ["apreendidas", "I_Action"], ["movimentações", "Aspectual"], ["suspeitas", "Aspectual"], ["local", "Occurrence"], ["referenciado", "Aspectual"], ["tráfico de estupefacientes", "Occurrence"], ["detidos", "Occurrence"], ["presentes", "I_Action"], ["Tribunal Judicial", "Occurrence"], ["Santiago do Cacém", "Occurrence"], ["primeiro interrogatório judicial", "Occurrence"], ["aplicação", "Occurrence"], ["eventuais", "Aspectual"], ["medidas de coação", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém dois homens por tráfico de droga em Sines
+A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
+“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR.
+Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis.
+Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."
+
+Output:
+[["detém", "I_Action"], ["tráfico", "Occurrence"], ["deteve", "I_Action"], ["homens", "Occurrence"], ["idades", "Aspectual"], ["entre", "Aspectual"], ["anos", "Aspectual"], ["apreendido", "I_Action"], ["dos", "Aspectual"], ["doses", "Occurrence"], ["estupefacientes", "Occurrence"], ["divulgou", "Reporting"], ["indicou", "Reporting"], ["efetuada", "Occurrence"], ["sábado", "Occurrence"], ["decorrente", "Aspectual"], ["ação de patrulhamento", "Occurrence"], ["referenciado", "Aspectual"], ["tráfico de estupefacientes", "Occurrence"], ["preparavam", "Aspectual"], ["efetuar", "I_Action"], ["transação", "Occurrence"], ["apreendidas", "I_Action"], ["movimentações", "Aspectual"], ["suspeitas", "Aspectual

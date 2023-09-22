@@ -1,7 +1,1 @@
-["Oct. 23", "two years ago", "20th century"]
-
-Explanation:
-
-* "Oct. 23" is a specific date and therefore a temporal expression.
-* "two years ago" is a temporal expression because it describes a time period.
-* "20th century" is a temporal expression because it describes a time period.
+["Oct. 23", "two years ago", "20th century", "daily"]

@@ -1,15 +1,6 @@
-[
-"Grua de camião derrubou poste de iluminação",
-"poste de eletricidade",
-"homem de 52 anos",
-"morreu",
-"ferimentos ligeiros",
-"Rua da Constituição",
-"Hospital de Santo António",
-"ferimentos ligeiros",
-"estructura atingiu",
-"funcionário de bombas de gasolina",
-"sofreu",
-"acidente",
-"07:50"
-]
+["em Porto", "Porto", "Rua da Constituição", "iluminação", "Grua de camião", "homem de 52 anos", "ferimentos ligeiros", "Hospital de Santo António", "estouro"]
+
+
+
+
+

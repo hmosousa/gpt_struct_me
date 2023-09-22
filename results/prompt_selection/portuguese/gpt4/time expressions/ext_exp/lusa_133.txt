@@ -1,1 +1,1 @@
-["hoje", "na segunda-feira"]
+["segunda-feira"]

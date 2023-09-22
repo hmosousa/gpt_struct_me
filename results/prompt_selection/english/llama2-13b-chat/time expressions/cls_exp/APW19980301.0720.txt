@@ -1,15 +1,4 @@
-[
-["JERUSALEM", "Date"],
-["Sunday", "Time"],
-["1978", "Duration"],
-["U.N. Resolution 425", "Set"]
-]
+[["Sunday", "DATE"], ["Sunday", "DATE"], ["Friday", "DATE"], ["last week", "DATE"], ["200", "DURATION"], ["nearly two years", "DURATION"], ["1978", "DATE"], ["1985", "DATE"], ["39", "NUMBER"], ["2", "NUMBER"], ["6", "NUMBER"], ["10", "NUMBER"], ["20", "NUMBER"], ["30", "NUMBER"], ["40", "NUMBER"], ["50", "NUMBER"], ["60", "NUMBER"], ["70", "NUMBER"], ["80", "NUMBER"], ["90", "NUMBER"], ["100", "NUMBER"], ["200", "NUMBER"], ["300", "NUMBER"], ["400", "NUMBER"], ["500", "NUMBER"], ["600", "NUMBER"], ["700", "NUMBER"], ["800", "NUMBER"], ["900", "NUMBER"], ["1000", "NUMBER"]]
 
-Explanation:
-
-* "JERUSALEM" is a Date.
-* "Sunday" is a Time.
-* "1978" is a Duration.
-* "U.N. Resolution 425" is a Set.
-
-Note: The input text is a news article, and the time expressions are extracted and classified based on their context and form.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

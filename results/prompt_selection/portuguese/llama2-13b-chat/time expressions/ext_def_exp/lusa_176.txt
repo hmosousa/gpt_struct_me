@@ -1,9 +1,1 @@
-["06:55", "hoje", "na Estrada Nacional 10-8", "na zona da Mitrena", "em Setúbal", "disseram fontes da PSP e Proteção Civil"]
-
-Note:
-
-* "06:55" is a time expression indicating 6:55 AM.
-* "hoje" is a time expression indicating today.
-* "na Estrada Nacional 10-8" and "na zona da Mitrena" are location expressions.
-* "em Setúbal" is a location expression indicating the city of Setúbal.
-* "disseram fontes da PSP e Proteção Civil" is a quote expression.
+["hoje", "34 anos", "Estrada Nacional 10-8", "na zona da Mitrena", "em Setúbal", "06:55", "bombeiros", "veículos", "PSP", "VMER"]

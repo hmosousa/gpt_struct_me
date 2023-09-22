@@ -1,1 +1,1 @@
-[["$6.6 million", "Amount"], ["third quarter", "Date"], ["$1.1 million", "Amount"], ["four cents a share", "Amount"], ["year ago", "Duration"], ["$101.7 million", "Amount"], ["$39.5 million", "Amount"], ["August", "Month"], ["$26.875", "Amount"], ["$14 apiece", "Amount"], ["seven a year ago", "Set"]]
+[["$6.6 million", "MONEY"], ["third quarter", "DATE"], ["Fairfield", "LOCATION"], ["N.J.", "LOCATION"], ["New York", "LOCATION"], ["August", "DATE"], ["$26.875", "MONEY"], ["$14", "MONEY"], ["seven", "SET"], ["year ago", "DURATION"], ["twice", "SET"]]

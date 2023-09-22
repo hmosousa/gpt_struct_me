@@ -1,1 +1,1 @@
-["recognized", "listed", "creation", "innovated", "elimination", "thought out", "result"]
+["recognized", "listed", "named", "innovated", "thought", "result"]

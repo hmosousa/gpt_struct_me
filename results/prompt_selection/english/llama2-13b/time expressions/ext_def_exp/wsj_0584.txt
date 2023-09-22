@@ -1,4 +1,10 @@
-["The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN.
+["Thursday", "Friday", "next week", "Jan. 13", "over a week", "Friday", "Thursday", "Previously", "nearly two months", "Thursday", "03/06/1998 13:19:00", "daily", "1990", "10-hour", "Friday", "Feb. 23"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN.
 Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner, forcing huge debt on the proposed new company. The debt, estimated at $4.7 billion, could mortgage the cellular company's future earning power in order to placate some LIN holders in the short term.
 The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations. But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger. LIN said it expects to borrow the money to pay the dividend, but commitments from banks still haven't been obtained. Under previous terms, holders would have received a dividend of only $20 a share.
 In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise. That money also would have to be borrowed. In effect, McCaw has forced LIN's hand by bidding $1.9 billion for the stake earlier this month.
@@ -8,5 +14,4 @@ McCaw, the largest provider of cellular telephone service in the U.S., already o
 "This game isn't over yet, " said Joel D. Gross, a vice president at Donaldson, Lufkin amp Jenrette Securities Corp. "At some point, it will become non-economical for one company. But I don't think we're at that point yet."
 Under its revised proposal, Atlanta-based BellSouth would have a 50% interest in the new cellular company and would be responsible for half of its debt. To sweeten the pact further -- and to ease concerns of institutional investors -- BellSouth added a provision designed to give extra protection to holders if the regional Bell company ever decides to buy the rest of the new cellular company. The provision, described as "back-end" protection, would require BellSouth to pay a price equivalent to what an outside party might have to pay.
 McCaw's bid also has a similar clause. Only McCaw's proposal requires the company to begin an auction process in June 1994 for remaining shares at third-party prices.
-To mollify shareholders concerned about the long-term value of the company under the BellSouth-LIN agreement, BellSouth also agreed to pay as much as $10 a share, or $540 million, if, after five years, the trading value of the new cellular company isn't as high as the value that shareholders would have realized from the McCaw offer.
-"We're very pleased with the new deal. We didn't expect BellSouth to be so responsive," said Frederick A. Moran, president of Moran Asset Management Inc., which holds 500,000 LIN shares. BellSouth's
+To mollify shareholders concerned about the long-term value of the company under the BellSouth-LIN agreement, Bell

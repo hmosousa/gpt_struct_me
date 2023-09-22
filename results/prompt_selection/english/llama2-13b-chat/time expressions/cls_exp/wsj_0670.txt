@@ -1,25 +1,4 @@
-[
-["National Intergroup", "Date"],
-["$5.3 million", "Time"],
-["$15 million", "Set"],
-["30 million", "Duration"],
-["97 cents", "Date"],
-["$18 million", "Set"],
-["778.6 million", "Date"],
-["54.5%", "Set"],
-["Hawesville, Ky", "Set"],
-["two years", "Duration"]
-]
+[["National Intergroup", "ORGANIZATION"], ["R.D. Werner Co.", "ORGANIZATION"], ["$5.3 million", "AMOUNT"], ["$15 million", "AMOUNT"], ["30 million", "AMOUNT"], ["97 cents", "AMOUNT"], ["$22.5 million", "AMOUNT"], ["$778.6 million", "AMOUNT"], ["Hawesville, Ky", "LOCATION"], ["two years", "DURATION"], ["fiscal 1989", "DATE"]]
 
-Explanation:
-
-* National Intergroup is a date.
-* $5.3 million is a time.
-* $15 million is a set.
-* $30 million is a duration.
-* 97 cents is a date.
-* $18 million is a set.
-* $778.6 million is a date.
-* 54.5% is a set.
-* Hawesville, Ky is a set.
-* two years is a duration.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

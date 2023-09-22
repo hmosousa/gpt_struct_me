@@ -1,67 +1,11 @@
-[
-"Homem",
-"morre",
-"ciclomotor",
-"conduzia",
-"ser",
-"colhido",
-"veículo",
-"ligeiro",
-"Estrada",
-"Nacional",
-"10-8",
-"Mitrena",
-"Setúbal",
-"PSP",
-"Proteção",
-"Civil",
-"CDOS",
-"Hospital",
-"São",
-"Bernardo",
-"Setúbal",
-"Medicina",
-"legal",
-"obito",
-"encaminhado",
-"bombeiros",
-"Palmela",
-"Sapadores",
-"VMER",
-"PSP",
-"emergencia",
-"reanimação"
-]
-Explanation:
-The output is a JSON-parseable list of strings, where each string represents a participant in the event. The participants are:
-* Homem (Man)
-* Morre (Died)
-* Ciclomotor (Cyclo)
-* Conduzia(Driving)
-* Ser (He)
-* Colhido (Caught)
-* Veículo (Vehicle)
-* Ligeiro (Light)
-* Estrada (Road)
-* Nacional (National)
-* 10-8 (Route 10-8)
-* Mitrena (Mitrena)
-* Setúbal (Setúbal)
-* PSP (Police)
-* Proteção (Protection)
-* Civil (Civil Defense)
-* CDOS (Command District Operations Support)
-* Hospital (Hospital)
-* São Bernardo (São Bernardo Hospital)
-* Setúbal (Setúbal)
-* Medicina (Medicine)
-* Legal (Legal)
-* Obito (Deceased)
-* Encaminhado (Transferred)
-* Bombeiros (Firefighters)
-* Palmela (Palmela)
-* Sapadores (Sapadores)
-* VMER (Medical Emergency and Resuscitation Vehicle)
-* PSP (Police)
-* Emergencia (Emergency)
-* Reanimação (Resuscitation)
+
+["Homem", "morre", "ciclomotor", "conduzia", "ser", "colhido", "veículo", "ligheiro", "Estrada", "Nacional", "10-8", "Mitrena", "Setúbal", "fontes", "PSP", "Proteção", "Civil", "Comando", "Distrital", "Operações", "Socorro", "CDOS", "Lusa", "óbito", "local", "corpo", "encaminhado", "Hospital", "São", "Bernardo", "bombeiros", "veículos", "Palmela", "Sapadores", "VMER", "PSP", "total", "veículos", "apoiatados", "5", "veículos"]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a participant in the event described in the input text. The list includes the names of the people and organizations involved, as well as the vehicles and equipment used.

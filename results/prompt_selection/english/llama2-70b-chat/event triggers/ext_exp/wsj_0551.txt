@@ -1,11 +1,1 @@
-["merger", "buy", "transaction", "close"]
-
-Explanation:
-The output is a list of all the event triggers in the given text. An event trigger is a word or phrase that indicates a significant event or action is taking place. In this case, the event triggers are:
-
-* "merger" - indicates a corporate merger is taking place
-* "buy" - indicates a purchase or acquisition is taking place
-* "transaction" - indicates a financial transaction is taking place
-* "close" - indicates the closing of a deal or transaction
-
-Note that the output is in a JSON-parseable format, which means it can be easily parsed and used in a JSON-based application.
+["said", "merger", "completed", "bank", "agreed", "buy", "stock", "market", "value", "transaction", "close", "year", "end"]

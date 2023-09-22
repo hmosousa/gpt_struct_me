@@ -1,17 +1,48 @@
-[
-"Homem de 48 anos",
-"Vítima de acidente de trabalho",
-"Mogadouro",
-"Concelho de Mogadouro",
-"Distrito de Bragança",
-"Lusa",
-"Fonte dos bombeiros",
-"Comandante dos bombeiros de Mogadouro",
-"José Carrasco",
-"Meios dos bombeiros de Mogadouro",
-"Ambulância de Suporte Imediato de Vida (SIV)",
-"Viatura Medica de Emergência e Reanimação (VMER)",
-"Instituto Nacional e Emergência Médica (INEM)",
-"Helicóptero do INEM estacionado em Macedo de Cavaleiros"
-"GNR de Mogadouro"
-]
+["Homem", "de 48 anos", "morte", "acidente de trabalho", "Vilarinhos", "Galegos", "Concelho", "Mogadouro", "distrito", "Bragança", "Lusa", "fonte", "bombeiros", "Trata-se", "queda", "altura", "trabalhava", "obra", "construção", "civil", "vítima", "ferimentos", "falecer", "transportada", "ambulância", "campo", "futebol", "helitransportada", "hospital", "referência", "alerta", "17 horas", "meios", "bombeiros", "SIV", "VMER", "INEM", "GNR", "Mogadouro", "tomou", "contä", "ocorrência"]
+
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a participant in the event described in the input text. The participants are:
+* "Homem" (man)
+* "de 48 anos" (of 48 years old)
+* "morte" (death)
+* "acidente de trabalho" (work accident)
+* "Vilarinhos" (Vilarinhos)
+* "Galegos" (Galegos)
+* "Concelho" (municipality)
+* "Mogadouro" (Mogadouro)
+* "distrito" (district)
+* "Bragança" (Bragança)
+* "Lusa" (Lusa) (newspaper)
+* "fonte" (source)
+* "bombeiros" (firefighters)
+* "Trata-se" (it happens)
+* "queda" (fall)
+* "altura" (height)
+* "trabalhava" (worked)
+* "obra" (work)
+* "construção" (construction)
+* "civil" (civil)
+* "vítima" (victim)
+* "ferimentos" (injuries)
+* "falecer" (to die)
+* "transportada" (transported)
+* "ambulância" (ambulance)
+* "campo" (field)
+* "futebol" (football)
+* "helitransportada" (helicopter transported)
+* "hospital" (hospital)
+* "referência" (reference)
+* "alerta" (alert)
+* "17 horas" (17 hours)
+* "meios" (means)
+* "bombeiros" (firefighters)
+* "SIV" (Suporte Imediato de Vida) (Immediate Support Life)
+* "VMER" (Viatura Medica de Emergência e Reanimação) (Medical Emergency and Reanimation Vehicle)
+* "INEM" (Instituto Nacional e Emergência Médica) (National Institute and Emergency Medical)
+* "GNR" (Guarda Nacional de República") (National Guard)
+* "Mogadouro" (Mogadouro) (municipality)
+* "tomou" (took)
+* "contä" (took)
+* "ocorrência" (occurrence)

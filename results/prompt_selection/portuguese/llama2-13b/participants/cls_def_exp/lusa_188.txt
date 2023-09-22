@@ -1,179 +1,28 @@
-[
-  ["Person", "Homem"],
-  ["Organization", "Bombeiros"],
-  ["Object", "Ambulância"],
-  ["Location", "Mogadouro"],
-  ["Nature", "Acidente"],
-  ["Facility", "Hospital"],
-  ["Other", "Helicóptero"]
-]
+[["um homem de 48 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["vítima", "Per"], ["de um acidente de trabalho", "Per"], ["na localidade de Vilarinhos dos Galegos", "Loc"], ["Concelho de Mogadouro", "Loc"], ["distrito de Bragança", "Loc"], ["fonte dos bombeiros", "Org"], ["Trata-se", "Per"], ["de um acidente que envolve", "Per"], ["uma queda em altura", "Per"], ["O homem de 48 anos", "Per"], ["trabalhava", "Per"], ["numa obra de construção civil", "Per"], ["A vítima", "Per"], ["acabaria", "Per"], ["por não resistir", "Per"], ["aos ferimentos", "Per"], ["acabando", "Per"], ["por falecer", "Per"], ["quando estava", "Per"], ["a ser transportada", "Per"], ["por ambulância", "Obj"], ["para o campo de futebol", "Loc"], ["onde depois seria helitransportada", "Per"], ["para um hospital de referência", "Obj"], ["O alerta", "Per"], ["foi dado", "Per"], ["cerca das 17 horas", "Per"], ["Nas operações de socorro", "Per"], ["estiveram envolvido", "Per"], ["meios dos bombeiros", "Org"], ["de Mogadouro", "Loc"], ["a ambulância", "Obj"], ["de Suporte Imediato de Vida", "Obj"], ["(SIV)", "Obj"], ["e a Viatura Medica de Emergência e Reanimação", "Obj"], ["(VMER)", "Obj"], ["do Instituto Nacional e Emergência Médica", "Org"], ["(INEM)", "Org"], ["Foi ainda acionado", "Per"], ["o helicóptero", "Obj"], ["do INEM", "Obj"], ["estacionado", "Per"], ["em Macedo de Cavaleiros", "Loc"], ["A GNR de Mogadouro", "Org"], ["tomou conta", "Per"], ["da ocorrência", "Per"]]
 
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Autor

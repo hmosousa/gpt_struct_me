@@ -1,18 +1,19 @@
-["Homem de 48 anos morre em acidente de trabalho em Mogadouro", "Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.
-"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.
-O alerta foi dado cerca das 17 horas.
-Nas operações de socorro estiveram envolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).
-Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros
-A GNR de Mogadouro tomou conta da ocorrência."]
+["um homem de 48 anos", "um acidente de trabalho", "a localidade de Vilarinhos dos Galegos", "Concelho de Mogadouro", "distrito de Bragança", "fonte dos bombeiros", "uma queda em altura", "trabalhava numa obra de construção civil", "a vítima", "falecer quando estava a ser transportada por ambulância", "para o campo de futebol", "onde depois seria helitransportada para um hospital de referência", "o comandante dos bombeiros de Mogadouro", "José Carrasco", "o alerta", "as 17 horas", "meios dos bombeiros de Mogadouro", "a ambulância de Suporte Imediato de Vida (SIV)", "a Viatura Medica de Emergência e Reanimação (VMER)", "o Instituto Nacional e Emergência Médica (INEM)", "o helicóptero do INEM", "Macedo de Cavaleiros", "a GNR de Mogadouro"]
 
-Explanation:
+Format:
+JSON-parseable list of strings.
 
-```
-"Homem de 48 anos morre em acidente de trabalho em Mogadouro
-Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.
-"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quandoestava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.
-O alerta foi dado cerca das 17 horas.
-Nas operações de socorro estiveram envolvido meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).
-Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros
-A GNR de Mogadouro tomou conta da ocorrência."
-```
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque terrorista de 11 de Setembro subiu para oito, após a morte de uma mulher que estava internada num hospital.
+A mulher, de 63 anos, morreu no dia 27 de Setembro, após ter sido internada no hospital Bellevue, no bairro de Manhattan, onde se encontrava desde o dia 11 de Setembro, quando foi atingida por um dos aviões que sequestraram os terroristas.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos aviões que sequestraram os terroristas, que se despenharam no bairro de Manhattan, no centro de Nova Iorque.
+A mulher, que trabalhava como secretária numa empresa de seguros, foi atingida por um dos avi

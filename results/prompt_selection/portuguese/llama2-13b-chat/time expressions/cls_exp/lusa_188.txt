@@ -1,36 +1,9 @@
-[
-["Homem", "Date"],
-["48 anos", "Date"],
-["hoje", "Date"],
-["vítima", "Date"],
-["acidente de trabalho", "Event"],
-["localidade de Vilarinhos dos Galegos", "Location"],
-["Concelho de Mogadouro", "Location"],
-["distrito de Bragança", "Location"],
-["Lusa", "Organization"],
-["fonte dos bombeiros", "Organization"],
-["17 horas", "Time"],
-["meios dos bombeiros", "Equipment"],
-["ambulância de Suporte Imediato de Vida", "Equipment"],
-["Viatura Medica de Emergência e Reanimação", "Equipment"],
-["Instituto Nacional e Emergência Médica", "Organization"],
-["helicóptero do INEM", "Equipment"],
-["Macedo de Cavaleiros", "Location"],
-["GNR de Mogadouro", "Organization"]
-]
+[["hoje", "Date"], ["17 horas", "Time"], ["Vilarinhos dos Galegos", "Location"], ["Concelho de Mogadouro", "Location"], ["Bragança", "Location"], ["Instituto Nacional e Emergência Médica", "Organization"], ["INEM", "Organization"], ["Macedo de Cavaleiros", "Location"]]
 
-Explanation:
-
-* "Homem" and "48 anos" are both Date expressions, as they refer to the age of the person who died.
-* "hoje" is also a Date expression, as it refers to the current day.
-* "vítima" is a Date expression, as it refers to the person who died.
-* "acidente de trabalho" is an Event expression, as it refers to the work accident that occurred.
-* "localidade de Vilarinhos dos Galegos" and "Concelho de Mogadouro" are both Location expressions, as they refer to the place where the accident occurred.
-* "distrito de Bragança" is also a Location expression, as it refers to the district where the accident occurred.
-* "Lusa" and "fonte dos bombeiros" are both Organization expressions, as they refer to the news agency and the source of the information, respectively.
-* "17 horas" is a Time expression, as it refers to the time when the alert was given.
-* "meios dos bombeiros" and "ambulância de Suporte Imediato de Vida" are both Equipment expressions, as they refer to the means used by the firefighters to respond to the emergency.
-* "Viatura Medica de Emergência e Reanimação" and "Instituto Nacional e Emergência Médica" are both Equipment expressions, as they refer to the medical equipment used in the emergency.
-* "helicóptero do INEM" is an Equipment expression, as it refers to the helicopter used in the emergency.
-* "Macedo de Cavaleiros" is a Location expression, as it refers to the place where the helicopter was stationed.
-* "GNR de Mogadouro" is an Organization expression, as it refers to the National Republican Guard of Mogadouro.
+Note:
+- "hoje" is considered a date because it is a word that indicates the current day.
+- "17 horas" is considered a time because it is a specific time of the day.
+- "Vilarinhos dos Galegos" and "Concelho de Mogadouro" are considered locations because they are specific places where the event occurred.
+- "Bragança" is considered a location because it is a specific place where the event occurred.
+- "Instituto Nacional e Emergência Médica" and "INEM" are considered organizations because they are specific entities that were involved in the event.
+- "Macedo de Cavaleiros" is considered a location because it is a specific place where the event occurred.

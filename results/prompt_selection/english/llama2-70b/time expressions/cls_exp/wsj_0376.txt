@@ -1,1 +1,1 @@
-[["Courtaulds PLC", "Set"], ["plans", "Date"], ["spin off", "Duration"], ["textiles operations", "Set"], ["restructuring", "Time"], ["boost shareholder value.", "Set"]]
+[["#473", "NUMBER"], ["next year's first quarter", "DATE"], ["15 pence", "NUMBER"], ["362 pence", "NUMBER"], ["about #1.44 billion", "NUMBER"], ["#4 billion", "NUMBER"], ["#980 million", "NUMBER"], ["March 31", "DATE"], ["5% to 10%", "PERCENTAGE"], ["small stakes", "SET"], ["Mr.", "TITLE"], ["London", "LOCATION"]]

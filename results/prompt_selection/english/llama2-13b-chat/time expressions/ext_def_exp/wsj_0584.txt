@@ -1,13 +1,3 @@
+["Thursday", "Friday", "Thursday", "Friday", "next week", "nearly two months", "1990", "10-hour", "over a week", "Friday", "Thursday", "Feb. 23", "Jan. 13", "Previously", "daily", "03/06/1998 13:19:00"]
 
-[
-"shortly before the proposed merger",
-"in the short term",
-"in 1994 or later",
-"about $115 to $125 a share",
-"about $112 to $118 a share",
-"about $98 to $110 a share",
-"next year",
-"in June 1994",
-"five years",
-"as high as the value that shareholders would have realized from the McCaw offer"
-]
+Please note that the output is a list of strings, where each string represents a time expression from the input text. The list is in the format of a JSON object, with each string as a key-value pair.

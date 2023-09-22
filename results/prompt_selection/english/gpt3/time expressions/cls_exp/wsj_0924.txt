@@ -1,1 +1,1 @@
-[["Aug. 9", "Date"], ["fiscal-first quarter", "Duration"], ["Sept. 30", "Date"], ["year ago", "Set"]]
+[["Aug. 9", "DATE"], ["20%", "SET"], ["50%", "SET"], ["Sept. 30", "DATE"], ["fiscal-first quarter", "DURATION"], ["a year ago", "DURATION"]]

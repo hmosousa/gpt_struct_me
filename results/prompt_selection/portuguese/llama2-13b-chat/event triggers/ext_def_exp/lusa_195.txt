@@ -1,12 +1,14 @@
-["balear", "disparar", "almoçar", "ferimentos", "omissão de auxílio"]
 
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+JSON-parseable list of strings.
 
-* "balear" (to shoot)
-* "disparar" (to fire)
-* "almoçar" (to have lunch)
-* "ferimentos" (injuries)
-* "omissão de auxílio" (failure to provide assistance)
+Note:
 
-These words and phrases indicate the occurrence of specific events in the text, such as the shooting, the failure to provide assistance, and the injuries sustained by the victim.
+* The output should be a list of strings, where each string represents an event trigger.
+* The events should be extracted based on the given input text and the definitions provided.
+* The output should be in JSON format, which is a popular data interchange format that is easy to read and write.
+
+Hint:
+
+* Look for words or phrases that indicate a change in state or a significant occurrence.
+* Pay attention to verbs and nouns that convey action or events.
+* Use the definitions provided to guide your extraction.

@@ -1,19 +1,67 @@
-["morre", "esfaqueado", "costas", "mercado de Arroios", "Lisboa", "desentendimento", "arma branca", "café", "ajuda", "suspeito", "crime", "homicídio", "Polícia Judiciária", "forças policiais", "fitas de segurança"]
 
-Explanation:
+JSON-parseable list of strings.
 
-* "morre" is an event trigger because it indicates that the subject of the sentence (the man) has died.
-* "esfaqueado" is an event trigger because it indicates that the subject of the sentence was stabbed.
-* "costas" is an event trigger because it indicates the location of the stabbing.
-* "mercado de Arroios" is an event trigger because it provides the location of the incident.
-* "Lisboa" is an event trigger because it provides the location of the incident.
-* "desentendimento" is an event trigger because it indicates a conflict or disagreement that led to the stabbing.
-* "arma branca" is an eventtrigger because it indicates the weapon used in the stabbing.
-* "café" is an event trigger because it provides the location where the victim sought help.
-* "ajuda" is an event trigger because it indicates that the victim sought help.
-* "suspeito" is an event trigger because it indicates that a suspect has been identified.
-* "crime" is an event trigger because it indicates that a criminal act has been committed.
-* "homicídio" is an event trigger because it indicates that the victim died as a result of the stabbing.
-* "Polícia Judiciária" is an event trigger because it indicates that the police have been involved in the investigation.
-* "forças policiais" is an event trigger because it indicates that the police have been involved in the incident.
-* "fitas de segurança" is an event trigger because it indicates that the scene of the incident has been preserved by the police.
+Note:
+
+* The list of strings should be in the format of an array of objects, where each object represents a single event trigger.
+* Each object should have the following properties:
+	+ "text": the text of the event trigger (e.g. "pediu", "desculpa", "erros", etc.)
+	+ "type": the type of event trigger (e.g. "verb", "noun", etc.)
+	+ "value": the value of the event trigger (e.g. "desculpa", "erros", etc.)
+
+Example output:
+
+[
+{
+"text": "pediu",
+"type": "verb",
+"value": "desculpa"
+},
+{
+"text": "erros",
+"type": "noun",
+"value": "levaram"
+},
+{
+"text": "mortes",
+"type": "noun",
+"value": "820"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"value": "divulgação"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"value": "pedir"
+},
+{
+"text": "erros",
+"type": "noun",
+"value": "cometidos"
+},
+{
+"text": "disse",
+"type": "verb",
+"value": "Dan Andrews"
+},
+{
+"text": "fraco controlo",
+"type": "noun",
+"value": "quarentena"
+},
+{
+"text": "infeções",
+"type": "noun",
+"value": "desencadearam"
+},
+{
+"text": "transmissão comunitária",
+"type": "noun",
+"value": "caso"
+}
+]
+
+Note that the output is a JSON-parseable list of strings, where each string represents an event trigger, and each event trigger has a "text", "type", and "value" property.

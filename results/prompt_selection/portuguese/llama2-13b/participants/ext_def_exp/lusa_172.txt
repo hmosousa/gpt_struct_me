@@ -1,1 +1,37 @@
-["pescador", "pescador"]
+["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "O corpo de um homem aparentando entre 60 e 70 anos", "a boiar no mar", "a praia da Estaquinha", "o concelho de Lagoa (Algarve)", "a Autoridade Marítima", "De acordo com as autoridades", "um pescador", "alegadamente", "caído ao mar", "praticava pesca lúdica", "uma arriba", "naquela praia de Lagoa", "do distrito de Faro", "Depois de ter sido dado o alerta", "avistamento de um corpo", "a marina de Portimão", "O óbito foi declarado", "a delegada de saúde de Lagoa", "a gabinete de medicina legal de Portimão", "a Polícia Marítima de Portimão"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de

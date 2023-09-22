@@ -1,20 +1,8 @@
-[
-["GNR", "Organization"],
-["mulher", "Person"],
-["Mértola", "Location"],
-["Beja", "Location"],
-["Estrada Nacional 122", "Location"],
-["viatura", "Object"],
-["telemóvel", "Object"],
-["haxixe", "Nature"]
-]
+[["GNR", "Org"], ["uma mulher", "Per"], ["36 anos", "Other"], ["suspeitas", "Per"], ["tráfico de droga", "Other"], ["apreendeu", "Verb"], ["12.300 doses", "Other"], ["haxixe", "Other"], ["concelho alentejano", "Loc"], ["Mértola", "Loc"], ["distrito de Beja", "Loc"], ["Tribunal Judicial", "Org"], ["Beja", "Loc"], ["primeiro interrogatório", "Other"], ["eventual aplicação", "Other"], ["medidas de coação", "Other"], ["força de segurança", "Org"], ["Estrada Nacional 122", "Loc"], ["vila de Mértola", "Loc"], ["viatura", "Other"], ["militares", "Org"], ["GNR", "Org"], ["busca", "Verb"], ["viatura", "Other"], ["mulher", "Per"], ["droga", "Other"], ["telemóvel", "Other"]]
 
-Explanation:
+Note:
+The task is to extract and classify all participants in the given text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-* GNR is an organization, so it is classified as "Organization".
-* The woman is a person, so it is classified as "Person".
-* Mértola and Beja are locations, so they are classified as "Location".
-* Estrada Nacional 122 is a location, so it is classified as "Location".
-* The vehicle is an object, so it is classified as "Object".
-* The telemóvel is an object, so it is classified as "Object".
-* Haxixe is a nature, so it is classified as "Nature".
+Note that the task is not to identify the relationships between entities, but rather to classify each entity independently. For example, in the first input text, "o Ministério do Interior" is classified as an organization, and "a Geórgia" is classified as a location.
+
+Also, note that the task is not to extract all possible entities from the text, but rather to classify the entities that are mentioned as participants in the given text. For example, in the first input text, "o agressor" is classified as a person, but "a televisão estatal" is not classified as an organization because it is not mentioned as a participant in the text.

@@ -1,23 +1,17 @@
-[
-"mata",
-"fere",
-"mortas",
-"ficaram",
-"ataque",
-"perpetrado",
-"suspeito",
-"detido",
-"motivo",
-"restringe",
-"venda",
-"posse",
-"ataques",
-"feriu",
-"rancor",
-"sociedade",
-"condenado",
-"mata",
-"feriu",
-"12",
-"2018"
-]
+	["em menos de uma semana", "sábado", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "epoca de veda", "epocas de veda", "Kaiyuan", "Liaoning", "Guangxi", "Pequim"]
+
+Note:
+The output list includes all time expressions found in the input text, including:
+* "em menos de uma semana" (less than a week)
+* "sábado" (Saturday)
+* "sábado" (Saturday)
+* "setembro" (September)
+* "final do ano" (end of the year)
+* "menos de uma semana" (less than a week)
+* "30 nov 2020" (November 30, 2020)
+* "epoca de veda" (fishing ban period)
+* "epocas de veda" (fishing ban periods)
+* "Kaiyuan" (Kaiyuan)
+* "Liaoning" (Liaoning)
+* "Guangxi" (Guangxi)
+* "Pequim" (Beijing)

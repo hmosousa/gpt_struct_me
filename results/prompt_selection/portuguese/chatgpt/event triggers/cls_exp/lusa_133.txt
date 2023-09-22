@@ -1,10 +1,1 @@
-[
-    ["apreendeu", "Occurrence"], 
-    ["captura", "State"], 
-    ["levar", "Intensional Action"], 
-    ["revelou", "Reporting"], 
-    ["ocorreu", "Occurrence"], 
-    ["controlar", "Intensional Action"], 
-    ["refere", "Reporting"], 
-    ["encontraram", "Occurrence"], 
-    ["elaborado", "Occurrence"], ["punível", "State"], ["apreendido", "State"], ["sido", "State"], ["considerado", "State"], ["doado", "Intensional Action"], ["acrescenta", "Reporting"], ["acrescenta", "Reporting"], ["acrescenta", "Reporting"], ["acrescenta", "Reporting"]]
+[["apreendeu", "I_Action"], ["quilogramas", "State"], ["captura", "State"], ["interdita", "State"], ["coima", "State"], ["porto de pesca costeira", "State"], ["revelou", "Reporting"], ["comunicado", "Occurrence"], ["apreensão", "State"], ["ocorreu", "Occurrence"], ["fiscalização", "State"], ["controlar", "I_Action"], ["cumprimento", "State"], ["regras", "State"], ["descarga", "State"], ["transporte", "State"], ["comercialização", "State"], ["regime de primeira venda", "State"], ["pescado fresco", "State"], ["refere", "Reporting"], ["nota de imprensa", "Occurrence"], ["operacao", "State"], ["militares", "State"], ["encontraram", "Occurrence"], ["veículo", "State"], ["quilos", "State"], ["acabando", "Occurrence"], ["seguimento", "State"], ["posteriores diligências", "State"], ["localizar", "I_Action"], ["embarcação de pesca", "State"], ["responsável", "State"], ["ainda", "Aspectual"], ["interior", "State"], ["ainda", "Aspectual"], ["quilos", "State"], ["acrescenta", "Reporting"], ["identificados", "Occurrence"], ["condutor", "State"], ["veículo", "State"], ["mestre", "State"], ["embarcação", "State"], ["elaborado", "Occurrence"], ["auto de contraordenação", "State"], ["interdito", "State"], ["transporte", "State"], ["captura", "State"], ["espécie", "State"], ["infração", "State"], ["punível", "State"], ["coima", "State"], ["pescado apreendido", "State"], ["controlo higiossanitário", "State"], ["considerado", "State"], ["próprio para consumo", "State"], ["doado", "I_Action"], ["instituição de solidariedade social", "State"], ["acrescenta", "Reporting"]]

@@ -1,1 +1,1 @@
-["hoje", "já", "ainda"]
+["hoje", "já", "hoje"]

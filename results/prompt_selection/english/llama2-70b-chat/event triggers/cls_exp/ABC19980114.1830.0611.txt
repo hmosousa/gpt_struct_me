@@ -1,29 +1,6 @@
-[
-["TWA Flight eight hundred", "Occurrence"],
-["Federal Aviation Administration", "State"],
-["Lisa Stark", "Reporting"],
-["TWA pilot Steven Snyder", "Intensional Action"],
-["TWA's eight hundred heavy", "Aspectual"],
-["a pilot from a nearby flight", "Perception"],
-["Boston center", "State"],
-["Eastwind pilot", "Intensional Action"],
-["two fireballs", "Occurrence"],
-["smoke", "Aspectual"],
-["someone", "Intensional State"],
-["God", "Intensional State"]
-]
+[["Lisa Stark", "PERSON"], ["TWA", "ORGANIZATION"], ["Steven Snyder", "PERSON"], ["TWA", "ORGANIZATION"], ["Boston", "LOCATION"], ["Eastwind", "ORGANIZATION"], ["Lisa Stark", "PERSON"], ["TWA", "ORGANIZATION"], ["God", "DEITY"], ["Lisa Stark", "PERSON"], ["Washington", "LOCATION"]]
 
-Explanation:
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
 
-* "TWA Flight eight hundred" is an Occurrence as it refers to an event that happened in the past.
-* "Federal Aviation Administration" is a State as it refers to an organization that exists in the present.
-* "Lisa Stark" is a Reporting as it refers to a person who is reporting on the event.
-* "TWA pilot Steven Snyder" is an Intensional Action as it refers to a person who is performing an action (flying the plane) that is related to the event.
-* "TWA's eight hundred heavy" is an Aspectual as it refers to the weight of the plane, which is an aspect of the event.
-* "a pilot from a nearby flight" is a Perception as it refers to a person who perceived the event (the explosion) happening.
-* "Boston center" is a State as it refers to a location that exists in the present.
-* "Eastwind pilot" is an Intensional Action as it refers to a person who is performing an action (flying a plane) that is related to the event.
-* "two fireballs" is an Occurrence as it refers to an event that happened in the past.
-* "smoke" is an Aspectual as it refers to an aspect of the event (the smoke that resulted from the explosion).
-* "someone" is an Intensional State as it refers to a person who is in a state of praying, which is related to the event.
-* "God" is an Intensional State as it refers to a being who is in a state of being prayed to, which is related to the event.
+This task's dataset is based on the article "Australia Votes to Become a Republic" by the Associated Press, and the template for the output is based on the paper "A Maximalist Program for Structured Event Extraction" by Christopher Manning and Hinrich Schütze.

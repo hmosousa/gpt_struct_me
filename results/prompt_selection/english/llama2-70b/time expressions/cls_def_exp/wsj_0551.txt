@@ -1,1 +1,1 @@
-[["year end", "Duration"]]
+[["June", "MONTH"], ["year end", "DATE"], ["$450 million", "MONEY"], ["12.4 million", "NUMBER"], ["Cleveland", "LOCATION"], ["Trustcorp", "ORGANIZATION"], ["Society Corp.", "ORGANIZATION"], ["Society Bank & Trust", "ORGANIZATION"]]

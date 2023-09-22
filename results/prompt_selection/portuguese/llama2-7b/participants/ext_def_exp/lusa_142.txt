@@ -1,57 +1,11 @@
-[
-  "GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola",
-  "A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.",
-  "A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.",
-  "Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, \"demonstrouum comportamento nervoso\", após ter sido abordada por militares da GNR.",
-  "Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
-]
+["GNR", "detém", "suspeita", "de", "tráfico", "de", "drogas", "e", "apreende", "12.300", "doses", "de", "haxixe", "em", "Mértola", "A", "GNR", "deteve", "uma", "mulher", "de", "36", "anos", "por", "suspeitas", "do", "crime", "de", "tráfico", "de", "drogas", "e", "apreendeu", "12.300", "doses", "de", "haxixe", "no", "concelho", "alentejano", "de", "Mértola", "no", "distrito", "de", "Beja", "foi", "hoje", "divulgado", "A", "mulher", "foi", "detida", "por", "militares", "do", "Posto", "Territorial", "de", "Mértola", "na", "segunda-feira", "e", "é", "hoje", "presente", "ao", "Tribunal", "Judicial", "de", "Beja", "para", "primeiro", "interrogatório", "e", "eventual", "aplicação", "de", "medidas", "de", "coação", "Segundo", "a", "força", "de", "segurança", "no", "decorrido", "uma", "ação", "de", "patrulhamento", "na", "Estrada", "Nacional", "122", "junto", "à", "vila", "de", "Mértola", "a", "suspeita", "que", "seguia", "numa", "viatura", "demonstrou", "um", "comportamento", "nervo", "após", "ter", "sido", "abordada", "por", "militares", "da", "GNR", "Os", "militares", "e", "efetuaram", "uma", "busca", "à", "viatura", "e", "uma", "revisão", "à", "mulher", "Os", "militares", "e", "apuraram", "que", "tinha", "drogas", "na", "sua", "posse", "e", "apreenderam", "as", "12.300", "doses", "de", "haxixe", "o", "veículo", "e", "um", "telemóvel"]
 
-Examples:
-[
-  "GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola",
-  "A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.",
-  "A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.",
-  "Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, \"demonstrou um comportamento nervoso\", após ter sido abordada por militares da GNR.",
-  "Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
-]
-""
+Input:
+"A GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
+A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
+A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.
+Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, "demonstrou um comportamento nervoso", após ter sido abordada por militares da GNR.
+Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
 
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
-
-""
+Output:
+["A", "GNR", "detém", "suspeita", "de", "tráfico", "de", "drogas", "e",

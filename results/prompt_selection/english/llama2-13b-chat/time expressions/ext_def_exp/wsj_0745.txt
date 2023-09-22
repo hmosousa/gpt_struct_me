@@ -1,33 +1,4 @@
+["Thursday", "Friday", "Tuesday", "nearly two months", "1990", "10-hour", "over a week", "Friday", "Thursday", "Feb. 23", "Jan. 13", "Previously", "daily", "03/06/1998 13:19:00"]
 
-* soon
-* last week
-* Tuesday
-* near-record
-* eight U.S. cents
-* nearly 4%
-* December 31, 1990
-* next 14 months
-* single share
-* magic share
-* 1984
-* part
-* prematurely
-* current
-* hostile
-* readily
-* twice
-* 1988
-* British-owned
-* independent
-* this week
-* Tuesday
-* promised
-* controversial
-* privatized
-* marginal
-* receptive
-* request
-* friendly
-* suitor
-* bid
-* end
+Format:
+JSON-parseable list of strings.

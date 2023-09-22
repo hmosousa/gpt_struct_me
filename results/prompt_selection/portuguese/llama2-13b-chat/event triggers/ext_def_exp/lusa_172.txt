@@ -1,10 +1,4 @@
-["encontrado", "caído", "recolha", "transportado", "declarado"]
+[“encontrado”, “homem”, “praia”, “Estaquinha”, “Lagoa”, “Algarve”, “caído”, “pesca”, “lúdica”, “arriba”, “praia”, “Faro”, “alerta”, “avistamento”, “corpo”, “mar”, “recolha”, “transporte”, “gabinete”, “médica”, “Portimão”, “polícia”, “ocorrência”]
 
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
-
-* "encontrado" (found) - indicating the discovery of the body
-* "caído" (fallen) - indicating the alleged fall of the man into the sea
-* "recolha" (recovery) - indicating the recovery of the body
-* "transportado" (transported) - indicating the transportation of the body
-* "declarado" (declared) - indicating the declaration of the death at the scene.
+Note:
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text. The output should be in JSON-parseable format.

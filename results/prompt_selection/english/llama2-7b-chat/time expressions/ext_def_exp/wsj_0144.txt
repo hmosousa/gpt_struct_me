@@ -1,1 +1,20 @@
-["89 cents a share", "less than $10 million", "83 cents a share", "11%", "40 million", "94.2 million", "3 billion", "59%", "7.2 million", "6.1 million", "24 million", "306 million", "195 million", "415 million"]
+	["11%", "$40 million", "89 cents", "83 cents", "31 million", "10 million", "less than $10 million", "59%", "7.2 million", "6.1 million", "24 million", "1988", "195 million", "415 million"]
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+* Time expressions in the input text:
+	* "nearly two months"
+	* "last month"
+	* "1990"
+	* "1988"
+	* "Feb. 23"
+	* "Thursday"
+	* "Friday"
+	* "03/06/1998 13:19:00"
+
+
+

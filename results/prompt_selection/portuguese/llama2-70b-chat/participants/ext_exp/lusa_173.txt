@@ -1,7 +1,1 @@
-[
-"Homem de 34 anos",
-"Joaquim Rebelo",
-"Delegada de Saúde",
-"Polícia Judiciária",
-"Viatura Médica de Emergência e Reanimação de Aveiro"
-]
+["Um homem de 34 anos", "um funcionário", "Transportadora J Amaral", "Estarreja", "um camião", "a cisterna", "desaparecido", "sábado", "Joaquim Rebelo", "a cisterna", "aberta", "a Delegada de Saúde", "a Polícia Judiciária", "a Viatura Médica de Emergência e Reanimação de Aveiro", "o Hospital Infante D. Pedro"]

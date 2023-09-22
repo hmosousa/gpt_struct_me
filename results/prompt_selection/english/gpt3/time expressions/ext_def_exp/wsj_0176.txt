@@ -1,1 +1,1 @@
-["this week", "the next three quarters", "the first nine months", "recent quarters"]
+["early this week", "less than $4 million", "the next three quarters", "first nine months", "recent quarters"]

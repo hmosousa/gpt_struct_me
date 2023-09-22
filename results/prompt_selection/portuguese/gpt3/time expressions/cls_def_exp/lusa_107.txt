@@ -1,1 +1,1 @@
-[["hoje", "Date"], ["12:50", "Time"], ["cerca das 12:50", "Time"], ["uma semana", "Duration"], ["mais de uma semana", "Duration"]]
+[["hoje", "Date"], ["cerca das 12:50", "Time"], ["mais de uma semana", "Duration"], ["uma semana", "Duration"]]

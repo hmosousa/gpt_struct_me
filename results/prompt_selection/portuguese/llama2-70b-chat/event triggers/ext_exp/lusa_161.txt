@@ -1,1 +1,1 @@
-["Homem mata ex-companheira com tiro em Vila Nova de Gaia", "Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia", "O homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos"]
+["matou", "ex-companheira", "tiro", "Vila Nova de Gaia", "disparo", "arma de fogo", "detido", "suicídio", "mesma arma", "crime", "Rua da Figueirinha", "Grijó", "Porto", "vítima", "mulher", "relação", "10 anos", "retaliação", "caso", "Polícia Judiciária"]

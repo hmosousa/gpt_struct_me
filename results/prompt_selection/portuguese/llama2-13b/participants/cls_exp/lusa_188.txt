@@ -1,30 +1,20 @@
-[
-  [
-    "Person",
-    "Organization"
-  ],
-  [
-    "Organization",
-    "Object"
-  ],
-  [
-    "Object",
-    "Location"
-  ],
-  [
-    "Location",
-    "Nature"
-  ],
-  [
-    "Nature",
-    "Facility"
-  ],
-  [
-    "Facility",
-    "Other"
-  ],
-  [
-    "Other",
-    "Other"
-  ]
-]
+[["um homem de 48 anos", "Per"], ["morreu", "Verb"], ["hoje", "Adv"], ["vítima", "Per"], ["de um acidente de trabalho", "Obj"], ["na localidade de Vilarinhos dos Galegos", "Loc"], ["Concelho de Mogadouro", "Loc"], ["distrito de Bragança", "Loc"], ["fonte dos bombeiros", "Org"], ["um acidente de trabalho", "Obj"], ["uma queda em altura", "Obj"], ["o homem de 48 anos", "Per"], ["trabalhava", "Verb"], ["numa obra de construção civil", "Obj"], ["a vítima", "Per"], ["acabaria", "Verb"], ["por não resistir", "Verb"], ["aos ferimentos", "Obj"], ["acabando", "Verb"], ["por falecer", "Verb"], ["quando estava", "Verb"], ["a ser transportada", "Verb"], ["por ambulância", "Obj"], ["para o campo de futebol", "Obj"], ["onde depois seria helitransportada", "Obj"], ["para um hospital de referência", "Obj"], ["o alerta", "Noun"], ["foi dado", "Verb"], ["cerca das 17 horas", "Adv"], ["Nas operações de socorro", "Obj"], ["estiveram envolvido", "Verb"], ["meios dos bombeiros", "Obj"], ["de Mogadouro", "Loc"], ["a ambulância de Suporte Imediato de Vida", "Obj"], ["(SIV)", "Obj"], ["e a Viatura Medica de Emergência e Reanimação", "Obj"], ["(VMER)", "Obj"], ["do Instituto Nacional e Emergência Médica", "Obj"], ["(INEM)", "Obj"], ["Foi ainda acionado", "Verb"], ["o helicóptero", "Obj"], ["do INEM", "Obj"], ["estacionado", "Verb"], ["em Macedo de Cavaleiros", "Loc"], ["A GNR de Mogadouro", "Org"], ["tomou conta", "Verb"], ["da ocorrência", "Obj"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque de ontem subiu para oito, após a morte de uma mulher que estava em coma.
+A mulher, de 44 anos, morreu no dia 1 de novembro, no hospital Bellevue, onde estava internada desde o ataque, que ocorreu na tarde de 31 de outubro, no bairro de Manhattan, no centro da cidade.
+A mulher, que trabalhava como professora de inglês, foi atingida por um dos tiros disparados pelo autor do ataque, que matou oito pessoas e feriu 11.
+O autor do ataque, de 29 anos, foi abatido por policiais.
+O ataque ocorreu na tarde de 31 de outubro, no bairro de Manhattan, no centro da cidade.
+O autor do ataque, de 29 anos, foi abatido por policiais.
+O ataque ocorreu na tarde de 31 de outubro, no bairro de Manhattan, no centro da cidade.
+O autor do ataque, de 29 anos, foi abatido por policiais.
+O ataque ocorreu na tarde de 31 de outubro, no bairro de Manhattan, no centro da cidade.
+O autor do ataque, de 29 anos, foi abatido por policiais.
+O ataque ocorreu na tarde de 31 de outubro, no bairro de Manhattan, no centro da cidade.
+O autor do ataque, de 29 anos, foi abatido por policiais.
+O ataque ocorreu na tarde de 31 de outubro

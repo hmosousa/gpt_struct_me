@@ -1,27 +1,9 @@
-[
-["Homem de 48 anos", "State"],
-["acidente de trabalho", "Occurrence"],
-["Mogadouro", "Location"],
-["Vilarinhos dos Galegos", "Location"],
-["Bragança", "Location"],
-["Lusa", "Reporting"],
-["bombeiros de Mogadouro", "Agent"],
-["José Carrasco", "Agent"],
-["ambulância de Suporte Imediato de Vida (SIV)", "Agent"],
-["Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)", "Agent"],
-["helicóptero do INEM", "Agent"],
-["GNR de Mogadouro", "Agent"]
-]
+[["morre", "I_Action"], ["vítima", "Occurrence"], ["acidente", "Occurrence"], ["trabalhava", "Reporting"], ["ferimentos", "Occurrence"], ["falecer", "Occurrence"], ["ambulância", "I_Action"], ["socorro", "I_Action"], ["meios", "I_Action"], ["alerta", "Occurrence"], ["INEM", "I_Action"], ["helicóptero", "I_Action"], ["GNR", "I_Action"]]
 
-Explanation:
+Note:
+The classes are the same as the previous task.
 
-* "Homem de 48 anos" is a state (the person's age)
-* "acidente de trabalho" is an occurrence (the event that happened)
-* "Mogadouro" and "Vilarinhos dos Galegos" are locations (where the event took place)
-* "Lusa" is a reporting entity (the news agency that reported the event)
-* "bombeiros de Mogadouro" and "José Carrasco" are agents (the people who were involved in the event)
-* "ambulância de Suporte Imediato de Vida (SIV)" and "Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)" are agents (the medical teams that responded to the event)
-* "helicóptero do INEM" is an agent (the helicopter that was used to transport the victim)
-* "GNR de Mogadouro" is an agent (the police force that responded to the event)
+Hint:
+The entities in the text are the people, places, and things mentioned in the text. The classes are the events, states, and actions described in the text.
 
-Note that the output is a list of pairs, where each pair consists of an entity and its corresponding class. The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+Please let me know if you have any questions or need further clarification.

@@ -1,17 +1,1 @@
-["holders adopted a shareholder-rights plan at the annual meeting", "the poison pill took effect Aug. 9", "Rights attached to the company's common shares were issued", "a hostile bidder acquires more than 20% of the shares outstanding", "the rights allow holders to buy additional shares", "the board's discretion", "Dominion Textile posted net income", "the fiscal-first quarter ended Sept. 30", "the company had a net loss", "Sales were C$348.2 million compared with C$307.2 a year earlier"]
-
-Explanation:
-The output is a list of all the events mentioned in the text. The events are:
-
-* holders adopted a shareholder-rights plan at the annual meeting
-* the poison pill took effect Aug. 9
-* Rights attached to the company's common shares were issued
-* a hostile bidder acquires more than 20% of the shares outstanding
-* the rights allow holders to buy additional shares
-* the board's discretion
-* Dominion Textile posted net income
-* the fiscal-first quarter ended Sept. 30
-* the company had a net loss
-* Sales were C$348.2 million compared with C$307.2 a year earlier
-
-Note that some of the events are mentioned multiple times in the text, but they are only included once in the output list.
+["adopted", "took", "issued", "triggered", "allow", "posted", "had", "were"]

@@ -1,9 +1,1 @@
-[
-"Transportadora J Amaral",
-"GNR de Aveiro",
-"Joaquim Rebelo",
-"Delegada de Saúde",
-"Polícia Judiciária",
-"Viatura Médica de Emergência e Reanimação de Aveiro",
-"Hospital Infante D. Pedro"
-]
+["um homem", "34 anos", "funcionário", "Transportadora J Amaral", "Estarreja", "um camião", "a cisterna", "desaparecido", "sábado", "Joaquim Rebelo", "a cisterna", "aberta", "a Delegada de Saúde", "a Polícia Judiciária", "a Viatura Médica de Emergência e Reanimação de Aveiro", "o Hospital Infante D. Pedro", "o cadáver"]

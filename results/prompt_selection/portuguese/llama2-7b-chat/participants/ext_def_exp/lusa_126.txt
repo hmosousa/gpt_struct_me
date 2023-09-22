@@ -1,14 +1,4 @@
-[
-"GNR",
-"2 homens",
-"34-43 anos",
-"tráfico de droga",
-"Sines",
-"Setúbal",
-"1.673 doses de estupefacientes",
-"1.570 doses de heroína",
-"103 doses de cocaína",
-"8444 euros em numerário",
-"um veículo",
-"quatro telemóveis"
-]
+["GNR", "deteve", "dous", "homens", "por", "tráfico", "de", "droga", "em", "Sines", "no", "distrito", "de", "Setúbal", "tendo", "apreendido", "1.673", "doses", "de", "estupefacientes", ",", "divulgou", "hoje", "aquela", "força", "de", "segurança", ".", "Em", "comunicado", "a", "Guarda", "Nacional", "Republicana", "GNR", "indicou", "que", "a", "detenção", "dos", "dois", "suspeitos", "foi", "efetuda", "no", "sábado", "no", "decórrer", "de", "uma", "ação", "de", "patrulhamento", "num", "local", "já", "referenciado", "por", "tráfico", "de", "estupefacientes", ",", "no", "concelho", "de", "Sines.", "Após", "verificarem", "movimentações", "suspeitas", ",", "em", "local", "já", "referenciado", "por", "tráfico", "de", "estupefacientes", ",", "os", "militares", "detiveram", "os", "dois", "suspeitos", "quando", "estes", "se", "preparavam", "para", "efetuar", "uma", "transação", ",", "na", "operção", "foram", "apreendidas", "1.570", "doses", "de", "heroína", ",", "103", "doses", "de", "cocaína", ",", "844", "euros", "em", "numerário", ",", "um", "veículo", ",", "quatro", "telemóveis.", "Os", "detidos", "vão", "ser", "presentes", "ao", "Tribunal", "Judicial", "de", "Santiago", "do", "Cacém", "para", "primeiro", "interrogatório", "judicial", "e", "aplicação", "de", "eventuais", "medidas", "de", "coação"."]
+
+Format:
+JSON-parseable list of strings.

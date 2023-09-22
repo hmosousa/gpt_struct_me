@@ -1,1 +1,1 @@
-["Homem", "mercado de Arroios", "Lisboa", "29 anos", "PSP", "Comando Metropolitano de Lisboa (Cometlis)", "rua Ângela Pinto", "café", "dois indivíduos", "arma branca", "Avenida Almirante Reis", "Polícia Judiciária (PJ)", "forças policiais"]
+["Um homem de 29 anos", "agência Lusa", "PSP", "Comando Metropolitano de Lisboa (Cometlis)", "uma arma branca", "o óbito", "um café", "vítima", "fonte do Cometlis", "PSP", "Avenida Almirante Reis", "suspeito do crime", "fonte da polícia", "Polícia Judiciária (PJ)", "forças policiais", "fitas de segurança"]

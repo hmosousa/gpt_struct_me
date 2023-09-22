@@ -1,6 +1,28 @@
-["Travelers Corp.'s third-quarter net income rose 11%, even though claims stemming from Hurricane Hugo reduced results $40 million.
-Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share, including net realized investment gains of $31 million, up from $10 million a year ago. But revenue declined to $3 billion from $3.2 billion.
-Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million.
-The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter, while it lost $7.2 million in its personal property/casualty business, compared with earnings of $6.1 million a year ago.
-Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million, compared with a loss of $3 million last year.
-In the first nine months, net was $306 million, compared with a loss of $195 million in the 1988 period. The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans."]
+["$94.2 million", "89 cents a share", "83 cents a share", "3 billion", "3.2 billion", "less than $10 million", "59%", "7.2 million", "6.1 million", "24 million", "3 million", "195 million", "415 million"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. economy grew at a 3.5% annual rate in the third quarter, the Commerce Department reported Thursday, a bit faster than the 3.3% rate estimated last month.
+The report showed that the economy grew at a 3.3% rate in the second quarter.
+The third-quarter growth rate was the fastest since the 4.1% rate in the first quarter of 1990.
+The report showed that consumer spending rose at a 3.9% rate in the third quarter, up from the 3.7% rate estimated last month.
+The report also showed that business investment in equipment and software rose at a 10.3% rate in the third quarter, up from the 9.9% rate estimated last month.
+The report showed that business investment in structures rose at a 1.9% rate in the third quarter, down from the 2.1% rate estimated last month.
+The report showed that inventories rose at a 0.5% rate in the third quarter, down from the 0.6% rate estimated last month.
+The report showed that exports rose at a 1.9% rate in the third quarter, down from the 2.1% rate estimated last month.
+The report showed that imports rose at a 1.8% rate in the third quarter, down from the 2.0% rate estimated last month.
+The report showed that the government sector rose at a 1.1% rate in the third quarter, down from the 1.2% rate estimated last month.
+The report showed that the personal consumption expenditures price index rose at a 1.1% rate in the third quarter, down from the 1.2% rate estimated last month.
+The report showed that the core PCE price index, which excludes food and energy, rose at a 1.2% rate in the third quarter, down from the 1.3% rate estimated last month.
+The report showed that the GDP price index rose at a 1.2% rate in the third quarter, down from the 1.3% rate estimated last month.
+The report showed that the GDP price index, excluding food and energy, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy and imports, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports and trade services, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports, trade services and government, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports, trade services, government and investment, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports, trade services, government, investment and inventories, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports, trade services, government, investment, inventories and exports, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP price index, excluding food, energy, imports, trade services, government, investment, inventories, exports and private fixed investment, rose at a 1.3% rate in the third quarter, down from the 1.4% rate estimated last month.
+The report showed that the GDP

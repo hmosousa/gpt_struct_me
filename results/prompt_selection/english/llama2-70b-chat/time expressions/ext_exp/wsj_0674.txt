@@ -1,9 +1,1 @@
-[
-"about 137.8 million Canadian dollars (US$117.3 million)",
-"C$2.6 million, or 18 Canadian cents a share",
-"C$2.7 million, or 20 Canadian cents a share",
-"C$9.7 million, or 70 Canadian cents a share",
-"last year",
-"1988",
-"earlier this year"
-]
+["one of", "about", "didn't", "currently", "about", "Separately", "fourth-quarter", "about", "down from", "up from", "1988", "a", "very positive", "I'm", "whether", "potential", "often", "such as", "earlier", "this year", "first", "U.S."]

@@ -1,1 +1,1 @@
-["third quarter", "a year ago", "August", "this summer", "seven a year ago", "third-quarter", "34 cents a share", "a year earlier", "33%"]
+["third quarter", "August", "yesterday", "summer", "year ago", "third-quarter", "a year ago"]

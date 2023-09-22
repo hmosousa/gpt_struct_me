@@ -1,7 +1,7 @@
-[
-"Autoridades judiciais fazem buscas em casa de motorista de Maradona",
-"As autoridades judiciais argentinas realizaram buscas no apartamento de Maximiliano Trimarchi",
-"Em comunicado, a procuradoria-geral de San Isidro refere que as buscas foram ordenadas após saber que Trimarchi estava junto de Maradona quando este morreu",
-"A polícia já realizou perícias aos telemóveis de Leopoldo Luque e da psiquiatra Agustina Cosachov",
-"Dois dias após a morte de Maradona, a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista"
-]
+	["fazem", "buscas", "apartamento", "motorista", "Diego", "Maradona", "procuradoria-geral", "San", "Isidro", "polícia", "perícias", "telemóveis", "Leopoldo", "Luque", "psquiatra", "Agustina", "Cosachov", "inquérito", "negligência", "medical", "assistência", "antigo", "futebolista", "justiça", "abriu", "dias", "morreu", "anos", "determinar", "houve"]
+
+
+Note:
+
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event or action. In this task, we are looking for words or phrases that signal the start of an event or action, such as "pediu", "desculpa", "erros", "levaram", "morreram", "fraco controlo", "desencadearam", "infeções", "estado em grande parte livre", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", etc.
+The output is a JSON-parseable list of strings, where each string is an event trigger.

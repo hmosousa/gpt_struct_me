@@ -1,9 +1,6 @@
-[
-"net income jumped to $6.6 million",
-"net of $1.1 million",
-"revenue soared to $101.7 million",
-"closed yesterday at $26.875",
-"began trading this summer at $14 apiece",
-"third-quarter net income of $27.1 million",
-"revenue rose 33% to $378.1 million"
-]
+["said", "net", "jumped", "income", "soared", "closed", "began", "interests", "operation", "meanwhile", "reported", "rose", "revenue", "share", "third", "year", "company", "New", "York", "stock", "trading", "beginning", "Ogden", "Corp", "also", "management", "said", "meanwhile", "output"]
+
+
+
+
+

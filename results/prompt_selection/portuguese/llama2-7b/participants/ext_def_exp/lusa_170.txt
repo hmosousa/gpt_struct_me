@@ -1,15 +1,11 @@
-[
-  "Encontrado corpo de homem em zona rochosa na costa da Terceira",
-  "O corpo de um homem "a boiar junto a uma zona rochosa na costa leste da Terceira", nos Açores, foi detetado na segunda-feira, desconhecendo-se as causas da morte, anunciou hoje a Autoridade Marítima.",
-  "Segundo um comunicado enviado às redações, o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado pelas 12:00 locais (13:00 em Lisboa) de segunda-feira para "a presença do corpo de um homem a boiar” numa área de domínio público marítimo.",
-  "A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP) e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foramao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".",
-  "O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", já que se encontrava numa "zona de difícil acesso, tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo, onde será autopsiado para se apurar as causas da morte"."
-]
+["Encontrado", "corpo", "de", "homem", "em", "zona", "rochosa", "na", "costa", "da", "Terceira", "O", "corpo", "de", "um", "homem", "a", "boiar", "junto", "a", "zona", "rochosa", "na", "costa", "leste", "da", "Terceira", "nos", "Açores", "O", "Comando-Local", "da", "Polícia", "Marítima", "de", "Angra", "do", "Heroísmo", "foi", "alertado", "pelas", "12:00", "locais", "13:00", "em", "Lisboa", "para", "a", "presença", "do", "corpo", "de", "um", "homem", "a", "boiar", "numa", "área", "de", "domínio", "público", "marítimo", "A", "autoridade", "adiantou", "que", "a", "informação", "foi", "recebida", "através", "da", "PSP", "e", "que", "o", "piquete", "da", "Polícia", "Marítima", "de", "Angra", "do", "Heroísmo", "e", "o", "delegado", "de", "saúde", "foram", "ao", "local", "onde", "confirmaram", "a", "presença", "do", "corpo", "de", "um", "homem", "de", "62", "anos", "já", "cadáver", "O", "corpo", "foi", "retirado", "do", "local", "pelas", "equipa", "de", "grande", "ângulo", "dos", "Bombeiros", "Voluntários", "da", "Praia", "da", "Vitória", "já", "que", "se", "encontrava", "numa", "zona", "de", "difícil", "a", "cesso", "tendo", "sido", "posteriormente", "transportado", "para", "o", "Hospital", "de", "Angra", "do", "Heroísmo", "onde", "será", "autopsiado", "para", "se", "apurar", "as", "causas", "da", "morte"]
 
-Examples:
-[
-  "Encontrado corpo de homem em zona rochosa na costa da Terceira",
-  "O corpo de um homem "a boiar junto a uma zona rochosa na costa leste da Terceira", nos Açores, foi detetado na segunda-feira, desconhecendo-se as causas da morte, anunciou hoje a Autoridade Marítima.",
-  "Segundo um comunicado enviado às redações, o Comando-Local da Polícia Marítimade Angra do Heroísmo foi alertado pelas 12:00 locais (13:00 em Lisboa) de segunda-feira para "a presença do corpo de um homem a boiar” numa área de domínio público marítimo.",
-  "A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP) e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".",
-  "O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", já que se encontrava numa "zona de difícil acesso, tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo, onde será autopsiado para se apurar as causas da morte"."
+Input:
+"Homem de 22 anos é morto numa escola de samba em São Paulo
+Um homem de 22 anos foi morto na madrugada desta terça-feira numa escola de samba em São Paulo, informou a Polícia Civil.
+Segundo a polícia, o homem foi morto por um tiro na cabeça, na escola de samba "São Paulo de Vila Madalena", na zona leste da cidade.
+O homem foi identificado como o estudante de 22 anos, que cursava medicina na Universidade de São Paulo (USP), e que estava na escola de samba para fazer um trabalho de estágio.
+A polícia não divulgou mais informações sobre o caso, que está sob investigação.
+A escola de samba "São Paulo de Vila Madalena" é uma das mais tradicionais do carnaval paulistano.
+Em 2016, a escola foi campeã do Grupo 1 do Carnaval de São Paulo, com o enredo "O que é que você quer que eu faça?", de autoria do carnavalesco Paulo Barros.
+A escola foi fundada em 1948, e já foi campeã do Grupo 1 em 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 201

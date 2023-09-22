@@ -1,28 +1,11 @@
-[
-{
-"participant": "GNR",
-"class": "Organization"
-},
-{
-"participant": "mulher",
-"class": "Person"
-},
-{
-"participant": "Mértola",
-"class": "Location"
-},
-{
-"participant": "Beja",
-"class": "Location"
-},
-{
-"participant": "Estrada Nacional 122",
-"class": "Location"
-},
-{
-"participant": "telemóvel",
-"class": "Object"
-}
-]
+[["GNR", "Org"], ["suspeita", "Per"], ["tráfico de droga", "Other"], ["12.300 doses", "Other"], ["haxixe", "Other"], ["Mértola", "Loc"], ["Beja", "Loc"], ["Tribunal Judicial", "Org"], ["primer interrogatório", "Other"], ["medidas de coação", "Other"], ["Estrada Nacional", "Loc"], ["vila", "Loc"], ["militares", "Org"], ["viatura", "Loc"], ["revisão", "Other"], ["droga", "Other"], ["apurar", "Other"], ["apreender", "Other"], ["os militares", "Org"], ["os militares da GNR", "Org"]]
+
+
 Note:
-The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with entities and classes marked.
+* The output is the list of entities and their corresponding classes.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.
+* The entities are: GNR, mulher, suspeita, droga, haxixe, Mértola, Beja, Tribunal Judicial, Estrada Nacional, vila, militares, viatura, and revisão.
+* The output shows the entities and their corresponding classes.

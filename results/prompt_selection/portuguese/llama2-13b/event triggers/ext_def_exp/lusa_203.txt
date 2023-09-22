@@ -1,1 +1,25 @@
-["mata", "fere", "morte", "ferida", "ataque", "facão", "nordeste", "china", "província", "kaiyuan", "sauna", "balneário", "suspeito", "identificado", "media", "sobrenome", "yang", "detido", "motivo", "ataque", "massivo", "arma", "fogo", "explosivos", "caseros", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque","ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ataques", "ataque", "ata
+["mata", "pessoas", "ferem", "feridas", "ataque", "facas", "nordeste", "China", "noticiaram", "meios", "comunicação", "estatais", "perpetrado", "sauna", "balneário", "suspeito", "identificado", "sobrenome", "Yang", "detido", "motivo", "ataque", "permanece", "desconhecido", "venda", "posse", "armas", "fogo", "ataques", "semelhantes", "realizados", "facas", "explosivos", "caseiros", "Autores", "ataques", "semelhantes", "realizados", "passado", "descritos", "doentes", "mentais", "rancor", "sociedade", "ataques", "anteriores", "segurança", "escola", "empunhando", "feriu", "infância", "região", "Guangxi", "junho", "ano", "condenado", "morte", "2018", "homem", "pessoa", "feriu", "ataque", "comercial", "Pequim"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China
+Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.
+O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o

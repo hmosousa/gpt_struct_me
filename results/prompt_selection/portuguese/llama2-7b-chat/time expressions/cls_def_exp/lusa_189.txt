@@ -1,17 +1,12 @@
-[["Homem", "Date"], ["morto", "Time"], ["a tiro", "Duration"], ["hoje", "Date"], ["20:20", "Time"], ["não adiantando", "Duration"], ["suspeita", "Set"]]
-Explanation:
-* "Homem" is a date expression, indicating that a man was killed.
-* "morto" is a time expression, indicating that the man was killed.
-* "a tiro" is a duration expression, indicating that the man was killed with a single shot.
-* "hoje" is a date expression, indicating that the incident occurred today.
-* "20:20" is a time expression, indicating the exact time of the incident (9:20 PM).
-* "não adiantando" is a duration expression, indicating that the incident occurred without warning.
-* "suspeita" is a set expression, indicating that the incident is being investigated as a suspected homicide.
+[["homem", "Person"], ["morto", "Date"], ["tiro", "Time"], ["Barreiro", "Location"], ["atirador", "Person"], ["em fuga", "Duration"], ["20:20", "Time"], ["incidente", "Event"]]
+
+Expected output:
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
 
 Note:
-* The output is a JSON-parseable list, where each element is a list with two strings. Thefirst string is the entity, and the second string is the class.
-* The classes are defined as follows:
-	+ Date: A date expression represents a specific point in time, such as a birthday or anniversary.
-	+ Time: A time expression represents a specific time of day, such as 9:00 AM or 5:00 PM.
-	+ Duration: A duration expression represents a specific amount of time, such as 30 seconds or 2 hours.
-	+ Set: A set expression represents a category or group of things, such as a set of colors or a set of numbers. In this case, the set expression "suspeita" indicates that the incident is being investigated as a suspected homicide.
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with time expressions.
+* The task is to extract and classify all time expressions in the input text.
+* The classes are: Date, Time, Duration, and Set.
+* The definition of temporal expressions is provided in the task description.
+* The example input and output demonstrate how to extract and classify time expressions in a news article.

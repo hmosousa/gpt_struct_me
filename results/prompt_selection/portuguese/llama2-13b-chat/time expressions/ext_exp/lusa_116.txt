@@ -1,9 +1,1 @@
-[
-"18:16",
-"hoje"
-]
-
-Explanation:
-
-* 18:16: time of the accident
-* hoje: today (in Portuguese)
+["18:16", "Vila das Aves", "Hospital São João", "Rua Luís Gonzaga Mendes de Carvalho", "Vila Nova de Famalicão", "Santo Tirso"]

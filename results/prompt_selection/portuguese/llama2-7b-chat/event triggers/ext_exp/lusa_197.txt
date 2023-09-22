@@ -1,10 +1,8 @@
-[
-"Grua de camião derrubou poste de iluminação",
-"Poste de iluminação derrubado",
-"Homem de 52 anos morreu",
-"Homem sofreu ferimentos ligeiros",
-"Vítima transportada com vida para hospital",
-"Vítima acabou por morrer",
-"Estruatura atingiu funcionário de bombas de gasolina",
-"Funcionário sofreu ferimentos ligeiros"
-]
+
+["derrubou", "poste", "iluminação", "matou", "homem", "anos", "morreu", "sofreu", "ferimentos", "ligeros", "Rua", "Constituição", "Comando", "PSP", "Porto", "vítima", "transportada", "vida", "Hospital", "Santo", "António", "estructura", "atingiu", "funcionário", "bombas", "gasolina", "acidente", "ocorreu", "07:50"]
+
+
+Note:
+
+The task is to extract all the event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "pediu", "matou", "sofreu", "derrubou", etc.
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.

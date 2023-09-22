@@ -1,8 +1,10 @@
-[
-{entity: "Oct. 23", class: "Date"},
-{entity: "two years ago", class: "Duration"},
-{entity: "10 most significant events", class: "Set"},
-{entity: "the money-fund concept", class: "Set"},
-{entity: "Harry Brown", class: "Person"},
-{entity: "the SEC", class: "Organization"}
-]
+	[["two years", "DATE"], ["10 most significant events", "SET"], ["Harry Brown", "PERSON"], ["ourselves", "PERSON"], ["1900", "DATE"]]
+
+
+Note:
+
+* The input text is a letter written by Bruce R. Bent, the President of The Reserve Fund, to the Centennial Journal.
+* The text contains several time expressions, which are highlighted in bold.
+* The time expressions are classified into four categories: Date, Time, Duration, and Set.
+* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+* The output list includes the time expressions found in the input text, along with their corresponding class labels.

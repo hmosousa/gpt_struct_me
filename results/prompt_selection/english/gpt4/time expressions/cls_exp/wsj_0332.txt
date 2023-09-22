@@ -1,1 +1,1 @@
-[["last Wednesday", "Date"]]
+[["last Wednesday", "DATE"]]

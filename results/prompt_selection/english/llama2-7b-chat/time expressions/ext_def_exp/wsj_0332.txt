@@ -1,10 +1,5 @@
-[
-"a friendly bid",
-"$7.43",
-"#301 million",
-"last Wednesday",
-"internal resources",
-"restructuring",
-"related Orkem businesses",
-"further acquisitions"
-]
+
+	["Orkem S.A.", "Coates Brothers PLC", "French", "U.K.", "last Wednesday", "1998-03-06 13:19:00", "7.43", "301 million", "53.2%", "Wednesday", "internal resources", "restructuring", "addition", "further acquisitions", "public share offering"]
+
+Format:
+JSON-parseable list of strings.

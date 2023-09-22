@@ -1,2 +1,1 @@
-
-[ "acidente de trabalho", "queda em altura", "trabalhava numa obra de construção civil", "ferimentos", "falecer", "ambulância", "helitransportada", "hospital de referência", "alerta", "socorro", "bombeiros", "SIV", "Viatura Medica de Emergência e Reanimação", "INEM", "helicóptero", "GNR" ]
+[ "morre", "acidente", "trabalho", "Mogadouro", "vítima", "ferimentos", "falecer", "ambulância", "hospital", "referência", "alerta", "socorro", "envolvido", "meios", "bombeiros", "SIV", "Viatura", "INEM", "helicóptero", "GNR" ]

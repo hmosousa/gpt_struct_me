@@ -1,1 +1,4 @@
-["hoje", "25 de novembro", "em novembro", "dois dias após a morte de Maradona"]
+["hoje", "25 de novembro", "em comunicado", "no início de novembro", "2 dias após a morte de Maradona"]
+
+Hint:
+Note that some of the time expressions may be implied rather than explicitly stated.

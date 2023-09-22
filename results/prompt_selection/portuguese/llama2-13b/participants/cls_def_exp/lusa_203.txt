@@ -1,81 +1,17 @@
-[
-  ["Person", "Homem"],
-  ["Person", "Mata"],
-  ["Person", "Pessoas"],
-  ["Person", "Fere"],
-  ["Person", "Outras"],
-  ["Person", "Sete"],
-  ["Person", "Faca"],
-  ["Person", "Nordeste"],
-  ["Person", "China"],
-  ["Person", "Pelo"],
-  ["Person", "Mais"],
-  ["Person", "Sete"],
-  ["Person", "Ficam"],
-  ["Person", "Feridas"],
-  ["Person", "Num"],
-  ["Person", "Ataco"],
-  ["Person", "Com"],
-  ["Person", "Uma"],
-  ["Person", "Faca"],
-  ["Person", "Nordeste"],
-  ["Person", "Da"],
-  ["Person", "China"],
-  ["Person", "Noticiaram"],
-  ["Person", "Hoje"],
-  ["Person", "Meios"],
-  ["Person", "De"],
-  ["Person", "Comunicao"],
- ["Person", "Estatais"],
-  ["Person", "O"],
-  ["Person", "Suspeito"],
-  ["Person", "Identificado"],
-  ["Person", "Com"],
-  ["Person", "Sobrenome"],
-  ["Person", "Yang"],
-  ["Person", "Detido"],
-  ["Person", "Motivo"],
-  ["Person", "Ataque"],
-  ["Person", "Permanece"],
-  ["Person", "Desconhecido"],
-  ["Person", "Ataques"],
-  ["Person", "Semelhantes"],
-  ["Person", "Realizados"],
-  ["Person", "Passado"],
-  ["Person", "Descrito"],
-  ["Person", "Doentes"],
-  ["Person", "Mentais"],
-  ["Person", "Rancor"],
-  ["Person", "Sociedade"],
-  ["Person", "Em"],
-  ["Person", "Posto"],
-  ["Person", "Seguranca"],
-  ["Person", "Escola"],
-  ["Person", "Empunhando"],
-  ["Person", "Feriu"],
-  ["Person", "Pelo"],
-  ["Person", "Menos"],
-  ["Person", "39"],
-  ["Person", "Pessoas"],
-  ["Person", "Jardim"],
-  ["Person", "Infancia"],
-  ["Person", "Regiao"],
-  ["Person", "Sul"],
-  ["Person", "Guangxi"],
-  ["Person", "Junho"],
-  ["Person", "Este"],
-  ["Person", "Ano"],
-  ["Person", "Condenado"],
-  ["Person", "Morte"],
-  ["Person", "Em"],
-  ["Person", "Pequim"],
-  ["Person", "Ataque"],
-  ["Person", "Com"],
-  ["Person", "Facas"],
-  ["Person", "Num"],
-  ["Person", "Centro"],
-  ["Person", "Comercial"],
-  ["Person", "Pequim"],
-  ["Person", "Ataque"],
-  ["Person", "Com"],
-  ["Person
+[["um ataque", "Obj"], ["com uma faca", "Obj"], ["no nordeste da China", "Loc"], ["noticiaram", "Per"], ["hoje", "Other"], ["os meios de comunicação estatais", "Org"], ["uma sauna", "Obj"], ["e de um balneário", "Obj"], ["a cidade de Kaiyuan", "Loc"], ["na província de Liaoning", "Loc"], ["o suspeito", "Per"], ["identificado", "Per"], ["os media", "Org"], ["o sobrenome Yang", "Other"], ["o suspeito", "Per"], ["detido", "Per"], ["o motivo", "Other"], ["o ataque", "Obj"], ["permanece", "Other"], ["desconhecido", "Other"], ["A lei chinesa", "Other"], ["restringe", "Other"], ["a venda e posse", "Other"], ["de armas de fogo", "Other"], ["os ataques em massa", "Other"], ["geralmente", "Other"], ["realizados", "Other"], ["com facas", "Obj"], ["ou explosivos caseiros", "Obj"], ["Autores", "Other"], ["de ataques semelhantes", "Other"], ["realizados no passado", "Other"], ["descritos", "Other"], ["como doentes mentais", "Other"], ["ou por terem rancor contra a sociedade", "Other"], ["Em ataques anteriores", "Other"], ["um segurança", "Other"], ["de uma escola", "Other"], ["empunhando uma faca", "Obj"], ["feriu", "Other"], ["pelo menos 39 pessoas", "Other"], ["num jardim de infância", "Other"], ["na região sul de Guangxi", "Loc"], ["em junho deste ano", "Other"], ["tendo sido condenado à morte", "Other"], ["Em 2018", "Other"], ["um homem", "Other"], ["matou uma pessoa", "Other"], ["e feriu 12", "Other"], ["também num ataque", "Other"], ["com uma faca", "Obj"], ["num centro comercial", "Obj"], ["em Pequim", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China
+Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.
+O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o suspeito sido identificado pelos media com o sobrenome Yang.
+O suspeito foi detido, mas o motivo do ataque permanece desconhecido.
+A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros.
+Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade.
+Em ataques anteriores, um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte.
+Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim."
+
+Output:
+[["um ataque", "Obj"], ["com uma faca", "Obj"], ["no nordeste da China", "Loc"], ["noticiaram", "Per"], ["hoje", "Other"], ["os meios de comunicação estatais", "Org"], ["uma sauna", "Obj"], ["e de um balneário", "Obj"], ["a cidade de Kaiyuan", "Loc"], ["na prov

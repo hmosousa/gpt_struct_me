@@ -1,31 +1,31 @@
-[
-{
-"participant": "Person",
-"class": "GNR"
-},
-{
-"participant": "Organization",
-"class": "Guarda"
-},
-{
-"participant": "Object",
-"class": "veículo"
-},
-{
-"participant": "Location",
-"class": "Aveiro"
-},
-{
-"participant": "Nature",
-"class": "atu-rabilho"
-},
-{
-"participant": "Facility",
-"class": "porto de pesca costeira da Gafanha da Nazaré"
-},
-{
-"participant": "Other",
-"class": "instituição de solidariedade social"
-}
-]
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+	[["GNR", "Org"], ["390 quilogramas", "Other"], ["atum-rabilho", "Other"], ["captura", "Other"], ["interdita", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["porto de pesca costeira", "Loc"], ["Gafanha da Nazaré", "Loc"], ["Aveiro", "Loc"], ["comunado", "Org"], ["militares", "Org"], ["veículo", "Org"], ["77 quilos", "Other"], ["Em seguida", "Org"], ["encontraram", "Org"], ["embarcção", "Org"], ["313 quilos", "Other"], ["mestre", "Org"], ["auto de contraordenação", "Org"], ["infração", "Other"], ["punível", "Other"], ["coima", "Other"], ["instituição de solidariedade social", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article about the GNR (Guardia Nacional Republicana) aprehending 390 kilograms of illegal fishing in Aveiro, Portugal.
+* The output list includes the entities and their corresponding classes:
+	* GNR (Guardia Nacional Republicana): Org
+	* 390 quilogramas (kilograms): Other
+	* atum-rabilho (illegal fishing): Other
+	* captura (aprehende): Other
+	* interdita (illegal): Other
+	* coima (fine): Other
+	* 37.500 euros (fine amount): Other
+	* porto de pesca costeira (fishing port): Loc
+	* Gafanha da Nazaré (location): Loc
+	* Aveiro (location): Loc
+	* militares (military): Org
+	* veículo (vehicle): Org
+	* 77 quilos (77 kilograms): Other
+	* Em seguida (subsequently): Org
+	* encontraram (found): Org
+	* embarcação (fishing boat): Org
+	* 313 quilos (313 kilograms): Other
+	* mestre (boat captain): Org
+	* auto de contraordenação (order to stop): Org
+	* infração (infraction): Other
+	* punível (punishable): Other
+	* coima (fine): Other
+	* instituição de solidariedade social (social solidarity institution): Org

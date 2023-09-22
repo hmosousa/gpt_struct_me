@@ -1,1 +1,1 @@
-["Di Giorgio Corp. said", "Di Giorgio is seeking alternatives", "Robert Mellor said", "DIG is pursuing the acquisition", "Di Giorgio stands to reap more money"]
+["said", "continuing", "reached", "seeking", "offer", "used", "said", "stands", "sale", "accepting"]

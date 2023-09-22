@@ -1,1 +1,1 @@
-["homem", "outro", "camão", "poste", "Rua da Constituição", "Porto", "PSP", "fonte", "Comando Metropolitano", "grua", "vítima", "Hospital de Santo António"]
+["Grua de camião", "poste de iluminação", "Porto", "homem de 52 anos", "hoje", "outro", "ferimentos ligeiros", "camião", "derrubou", "Rua da Constituição", "PSP", "fonte", "Comando Metropolitano", "PSP", "Porto", "grua", "caminhão", "atrás", "homem", "circulava", "na rua", "vítima", "Hospital de Santo António", "morreu", "estrutura", "bombas de gasolina", "funcionário", "ferimentos ligeiros", "acidente"]

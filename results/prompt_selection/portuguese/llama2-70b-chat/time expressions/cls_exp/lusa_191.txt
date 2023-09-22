@@ -1,21 +1,21 @@
-[
-["Homem", "Date"],
-["29 anos", "Date"],
-["hoje", "Date"],
-["10:54", "Time"],
-["pelo", "Duration"],
-["14:34", "Time"],
-["preservado", "Duration"]
-]
+[["hoje", "Date"], ["10:54", "Time"], ["30 nov 2020", "Date"], ["Avenida Almirante Reis", "Location"], ["14:34", "Time"], ["polícia", "Organization"]]
 
-Explanation:
-The input text contains several time expressions:
+Note:
+The input text can be in different languages.
 
-* "hoje" (today) is a date expression and should be classified as such.
-* "29 anos" (29 years) is a date expression and should be classified as such.
-* "10:54" (10:54 AM) is a time expression and should be classified as such.
-* "pelo" (around) is a duration expression and should be classified as such.
-* "14:34" (2:34 PM) is a time expression and should be classified as such.
-* "preservado" (preserved) is a duration expression and should be classified as such.
+Note:
+The output format is JSON-parseable, meaning that it can be easily parsed and processed by any JSON-compatible tool or programming language.
 
-The output should be a list of pairs, where each pair contains the time expression and its correspondingclass (Date, Time, Duration, or Set).
+Note:
+The task is to extract and classify all time expressions, including dates, times, durations, and sets.
+
+Note:
+The classes are:
+
+* Date: Any expression that refers to a specific date, such as "hoje", "sábado", "30 nov 2020".
+* Time: Any expression that refers to a specific time, such as "10:54", "14:34".
+* Duration: Any expression that refers to a period of time, such as "em menos de uma semana", "menos de uma semana".
+* Set: Any expression that refers to a specific set of time, such as "época de veda", "épocas de veda".
+
+Note:
+The input text may contain other types of entities, such as locations, organizations, and people, which should be ignored for the purpose of this task.

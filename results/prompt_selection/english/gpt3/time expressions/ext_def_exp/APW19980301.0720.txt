@@ -1,1 +1,1 @@
-["Sunday", "Sunday", "Sunday", "Prime Minister Benjamin Netanyahu", "Cabinet", "Friday", "Sunday", "1985", "last week", "last February", "Sunday", "Sunday", "two years", "six weeks ago"]
+["1985", "Sunday", "Sunday", "Friday", "last week", "last February", "two years", "six weeks ago", "1978"]

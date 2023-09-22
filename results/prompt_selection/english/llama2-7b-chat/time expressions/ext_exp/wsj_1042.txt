@@ -1,8 +1,4 @@
-[
-"one warrant",
-"three shares",
-"90 days",
-"one share",
-"$5.50",
-"one-third warrant"
-]
+["one warrant", "three shares", "common stock", "1.1 million", "Class C warrants", "one share", "$5.50", "90 days", "additional 243,677"]
+
+Format:
+JSON-parseable list of strings.

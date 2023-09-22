@@ -1,8 +1,1 @@
-[
-"homem",
-"pescador",
-"Autoridade Marítima",
-"Estação Salva-vidas de Ferragudo",
-"delegada de saúde de Lagoa",
-"Polícia Marítima de Portimão"
-]
+["O corpo de um homem", "a praia da Estaquinha", "no concelho de Lagoa", "Algarve", "a Autoridade Marítima", "um pescador", "alegadamente", "caído ao mar", "uma arriba", "naquela praia de Lagoa", "do distrito de Faro", "Depois", "o alerta", "o avistamento", "do corpo", "a Estação Salva-vidas de Ferragudo", "a recolha", "o corpo", "a marina de Portimão", "a delegada de saúde de Lagoa", "o óbito", "no local", "o gabinete de medicina legal de Portimão", "a Polícia Marítima de Portimão", "a ocorrência"]

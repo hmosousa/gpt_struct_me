@@ -1,1 +1,1 @@
-["homem", "ciclomotor", "veículo ligeiro", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "Lusa", "Hospital de São Bernardo"]
+["um homem", "34 anos", "o ciclomotor", "um veículo ligeiro", "na zona da Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "Setúbal", "São Bernardo", "Setúbal", "bombeiros", "veículos", "corporações de Palmela", "Sapadores de Setúbal", "uma VMER", "PSP"]

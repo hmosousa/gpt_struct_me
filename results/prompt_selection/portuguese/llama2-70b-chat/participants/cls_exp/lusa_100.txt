@@ -1,30 +1,8 @@
-[
-["homem", "Person"],
-["Penafiel", "Location"],
-["GNR", "Organization"],
-["suspeito", "Person"],
-["ex-companheira", "Person"],
-["mulher", "Person"],
-["botão de pânico", "Object"],
-["teleassistência", "Facility"],
-["homem", "Person"],
-["ilícitos", "Nature"],
-["vítima", "Person"]
-]
+[["um homem", "Per"], ["39 anos", "Other"], ["Penafiel", "Loc"], ["um homem", "Per"], ["suspeito", "Per"], ["violência física", "Other"], ["injúrias", "Other"], ["ameaças de morte", "Other"], ["ex-companheira", "Per"], ["42 anos", "Other"], ["GNR", "Org"], ["comunicado", "Other"], ["a autoridade policial", "Org"], ["o suspeito", "Per"], ["não aceitou", "Other"], ["a separação", "Other"], ["começou a perseguir", "Other"], ["a vítima", "Per"], ["na sua residência", "Loc"], ["no local de trabalho", "Loc"], ["a mulher", "Per"], ["já usava", "Other"], ["um botão de pânico", "Other"], ["lhe havia sido aplicado", "Other"], ["por medida de proteção", "Other"], ["teleassistência", "Other"], ["o homem", "Per"], ["antecedentes criminais", "Other"], ["ilícitos", "Other"], ["da mesma natureza", "Other"], ["ficou", "Other"], ["proibido de contactar", "Other"]]
 
 Note:
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The classification must be done according to the provided classes.
+
 The input text is in Portuguese.
 
-This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
-
-* Person: A person, such as a human being.
-* Organization: A group of people or an entity that is involved in an activity or event.
-* Object: A physical object or a concept.
-* Location: A place or a location.
-* Nature: A natural phenomenon or a characteristic of something.
-* Facility: A place or a resource that is used for a specific purpose.
-* Other: Anyentity that does not fit into the above categories.
-
-The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
-
-In this task, the input text is in Portuguese, and the entities and classes should be identified and classified accordingly. The output should be in the format specified above.
+The output must be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

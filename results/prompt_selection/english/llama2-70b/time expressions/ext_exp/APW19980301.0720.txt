@@ -1,1 +1,1 @@
-["JERUSALEM", "AP", "Sunday", "Friday", "Netanyahu", "Lebanese government", "U.N.", "Resolution 425", "1978", "Israel", "self-declared security zone", "south Lebanon", "Lebanese army", "U.N. forces", "Lebanese-Israeli border", "Netanyahu", "U.N. resolution", "Cabinet minister Michael Eitan", "Eitan", "Uri Lubrani", "Channel One", "Hezbollah", "last year", "two military helicopters crashed", "February", "Netanyahu's comments last week", "Washington", "Baltimore", "Europe"]
+["Friday", "last Friday", "1978", "Feb.", "Last February"]

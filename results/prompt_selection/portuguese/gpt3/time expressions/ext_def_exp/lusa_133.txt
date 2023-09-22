@@ -1,1 +1,1 @@
-["segunda-feira", "77 quilos", "313 quilos"]
+["segunda-feira", "primeira venda"]

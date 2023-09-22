@@ -1,18 +1,1 @@
-[
-["expects to report", "Intensional Action"],
-["sale", "Occurrence"],
-["agreed to sell", "Intensional Action"],
-["charge", "State"],
-["offset", "Occurrence"],
-["gain", "State"],
-["earned", "Occurrence"],
-["sale", "Occurrence"],
-["continues to explore", "Aspectual"],
-["sale", "Occurrence"],
-["subject to", "State"],
-["provides for", "Intensional Action"],
-["payments", "Occurrence"],
-["produces", "Occurrence"],
-["sales", "Occurrence"],
-["loss", "State"]
-]
+[["expects", "I_STATE"], ["report", "REPORTING"], ["charge", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["said", "REPORTING"], ["agreed", "I_STATE"], ["sell", "I_ACTION"], ["charge", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["gain", "OCCURRENCE"], ["sell", "I_ACTION"], ["earned", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["Revenue", "OCCURRENCE"], ["said", "REPORTING"], ["continues", "ASPECTUAL"], ["explore", "I_ACTION"], ["sale", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["subject", "STATE"], ["adjustments", "OCCURRENCE"], ["provides", "I_STATE"], ["payments", "OCCURRENCE"], ["proceeds", "OCCURRENCE"], ["depending", "ASPECTUAL"], ["produces", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["loss", "OCCURRENCE"]]

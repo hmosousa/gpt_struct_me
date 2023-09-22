@@ -1,13 +1,174 @@
-[
-"Homem morre após ciclomotor ser colhido por veículo ligeiro",
-"Ciclomotor conduzia 34-anos-old man",
-"Veículo ligeiro colheu ciclomotor",
-"Mitrena, Setúbal",
-"Estrada Nacional 10-8",
-"06:55",
-"Bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal",
-"Uma viatura médica de emergência e reanimação (VMER)",
-"PSP",
-"Serviço de Medicina legal do Hospital de São Bernardo",
-"06:55"
-]
+	["morre", "ciclomotor", "conduzia", "ser", "colhido", "veículo", "ligeiro", "Estrada", "Nacional", "Mitrena", "Setúbal", "fontes", "PSP", "Proteção", "Civil", "Comando", "Distrital", "Operações", "Socorro", "Hospital", "São", "Bernardo", "alerta", "mobilizados", "bombeiros", "veículos", "corporações", "Palmela", "Sapadores", "VMER", "PSP", "total", "veículos", "apoio"]
+
+
+Note:
+
+* The output is a JSON-parseable list of strings, where each string is a trigger event from the input text.
+* The events are extracted based on the provided regular expressions.
+* The regular expressions used are:
+	* "morre" - matches the string "morre"
+	* "ciclomotor" - matches the string "ciclomotor"
+	* "conduzia" - matches the string "conduzia"
+	* "ser" - matches the string "ser"
+	* "colhido" - matches the string "colhido"
+	* "veículo" - matches the string "veículo"
+	* "ligeiro" - matches the string "ligeiro"
+	* "Estrada" - matches the string "Estrada"
+	* "Nacional" - matches the string "Nacional"
+	* "Mitrena" - matches the string "Mitrena"
+	* "Setúbal" - matches the string "Setúbal"
+	* "fontes" - matches the string "fontes"
+	* "PSP" - matches the string "PSP"
+	* "Proteção" - matches the string "Proteção"
+	* "Civil" - matches the string "Civil"
+	* "Comando" - matches the string "Comando"
+	* "Distrital" - matches the string "Distrital"
+	* "Operações" - matches the string "Operações"
+	* "Socorro" - matches the string "Socorro"
+	* "Hospital" - matches the string "Hospital"
+	* "São" - matches the string "São"
+	* "Bernardo" - matches the string "Bernardo"
+	* "alerta" - matches the string "alerta"
+	* "mobilizados" - matches the string "mobilizados"
+	* "bombeiros" - matches the string "bombeiros"
+	* "veículos" - matches the string "veículos"
+	* "corporações" - matches the string "corporações"
+	* "Palmela" - matches the string "Palmela"
+	* "Sapadores" - matches the string "Sapadores"
+	* "VMER" - matches the string "VMER"
+	* "PSP" - matches the string "PSP"
+	* "total" - matches the string "total"
+	* "veículos" - matches the string "veículos"
+	* "apoio" - matches the string "apoio"
+
+Note:
+
+* The regular expressions are case-insensitive.
+* The regular expressions use the .* syntax to match any character (except for a newline) zero or more times.
+* The regular expressions use the | syntax to specify multiple possible matches.
+* The regular expressions use the ^ syntax to specify that the match should start from the beginning of the string.
+* The regular expressions use the $ syntax to specify that the match should end at the end of the string.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

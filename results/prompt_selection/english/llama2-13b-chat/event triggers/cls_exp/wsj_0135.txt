@@ -1,22 +1,4 @@
-[
-["Elco Industries Inc.", "State"],
-["Elco Industries Inc.", "Occurrence"],
-["Elco Industries Inc.", "Reporting"],
-["Elco Industries Inc.", "Perception"],
-["Elco Industries Inc.", "Aspectual"],
-["Elco Industries Inc.", "Intensional Action"],
-["Elco Industries Inc.", "Intensional State"]
-]
+[["Elco Industries Inc.", "OCCURRENCE"], ["expects", "I_ACTION"], ["net", "OCCURRENCE"], ["income", "OCCURRENCE"], ["year", "OCCURRENCE"], ["ending", "OCCURRENCE"], ["June", "OCCURRENCE"], ["30", "OCCURRENCE"], ["below", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["analyst", "OCCURRENCE"], ["$1.65", "OCCURRENCE"], ["a", "OCCURRENCE"], ["share", "OCCURRENCE"], ["The", "OCCURRENCE"], ["Rockford", "OCCURRENCE"], ["Ill.", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["fasteners", "OCCURRENCE"], ["also", "OCCURRENCE"], ["said", "REPORTING"], ["expects", "I_ACTION"], ["post", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["current", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["year", "OCCURRENCE"], ["lower", "OCCURRENCE"], ["demand", "OCCURRENCE"], ["In", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["1989", "OCCURRENCE"], ["Elco", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["$7.8", "OCCURRENCE"], ["million", "OCCURRENCE"], ["or", "OCCURRENCE"], ["$1.65", "OCCURRENCE"], ["a", "OCCURRENCE"], ["share", "OCCURRENCE"], ["The", "OCCURRENCE"], ["company's", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["$1.125", "OCCURRENCE"], ["to", "OCCURRENCE"], ["$13.625", "OCCURRENCE"], ["in", "OCCURRENCE"], ["over-the-counter", "OCCURRENCE"], ["yesterday", "OCCURRENCE"]]
 
-Explanation:
-
-* "Elco Industries Inc." is the entity.
-* "State" refers to the fact that the company's net income is expected to fall below a recent analyst's estimate.
-* "Occurrence" refers to the fact that the company's industrial unit is facing margin pressures and lower demand.
-* "Reporting" refers to the fact that the company is reporting on its financial performance.
-* "Perception" refers to the fact that the company's stock fell in over-the-counter trading.
-* "Aspectual" refers to the fact that the company's financial performance is being described in terms of its comparison to previous years.
-* "Intensional Action" refers to the fact that the company is making a statement about its expected financial performance.
-* "Intensional State" refers to the fact that the company's financial performance is expected to be in a certain state (i.e., below a recent analyst's estimate).
-
-Note: This is just one possible way to classify the event triggers in the given text. Depending on the specific requirements of the task, other classifications may be more appropriate.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

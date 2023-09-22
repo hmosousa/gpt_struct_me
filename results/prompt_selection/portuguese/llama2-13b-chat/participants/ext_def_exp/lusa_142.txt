@@ -1,1 +1,2 @@
-["GNR", "mulher de 36 anos", "Tribunal Judicial de Beja"]
+
+JSON-parseable list of strings.

@@ -1,5 +1,6 @@
-[
-"Homem de 69 anos",
-"Mulher, apparentemente embriagada",
-"Outras duas pessoas"
-]
+["um homem de 69 anos", "proprietário de um restaurante em Cajados", "Palmela (Setúbal)", "hoje ferido", "gravidade", "seu estabelecimento", "uma garrafa", "uma mulher", "aparentemente embriagada", "fugir", "um automóvel", "a guarda", "o proprietário do restaurante", "proibido", "o consumo de álcool", "na via pública", "outras duas pessoas", "ferimentos ligeiros", "ambulância", "bombeiros", "da corporação de Águas de Moura", "o hospital de São Bernardo", "Setúbal", "uma", "que"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all participants from the given text.

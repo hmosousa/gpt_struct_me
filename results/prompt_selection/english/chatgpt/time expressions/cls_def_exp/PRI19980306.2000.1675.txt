@@ -1,1 +1,1 @@
-[["second day", "Date"], ["offensive", "Duration"], ["mid afternoon", "Time"]]
+[["second day", "DURATION"], ["mid afternoon", "TIME"]]

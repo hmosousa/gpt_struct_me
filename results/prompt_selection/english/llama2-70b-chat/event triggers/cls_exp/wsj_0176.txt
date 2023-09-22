@@ -1,51 +1,36 @@
-[
-["Xerox Corp.", "State"],
-["Crum amp Forster", "State"],
-["employees", "Occurrence"],
-["laying off", "Action"],
-["300 people", "Aspectual"],
-["25% of the staff", "Aspectual"],
-["numerous staff functions", "Occurrence"],
-["centralized", "Action"],
-["cost-cutting move", "Intensional Action"],
-["less than $4 million", "Aspectual"],
-["spread over the next three quarters", "Aspectual"],
-["Xerox earned $492 million", "State"],
-["$4.55 a share", "State"],
-["revenue of $12.97 billion", "State"],
-["Earnings at Xerox's financial-services operations", "State"],
-["rose slightly", "Occurrence"],
-["capital gains at Crum amp Forster", "Occurrence"],
-["offset Hurricane Hugo payments", "Occurrence"],
-["reserves set up to cover future payments", "Occurrence"],
-["Property/casualty insurance", "State"],
-["tough business", "State"],
-["pricing has been cutthroat", "Occurrence"],
-["natural disasters", "Occurrence"],
-["huge payments", "Occurrence"]
-]
+[["Xerox Corp.", "OCCURRENCE"], ["employees", "OCCURRENCE"], ["Crum amp Forster", "OCCURRENCE"], ["laying off", "OCCURRENCE"], ["staff", "OCCURRENCE"], ["centralized", "OCCURRENCE"], ["cost-cutting", "OCCURRENCE"], ["move", "OCCURRENCE"], ["result", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["spread", "OCCURRENCE"], ["first nine months", "OCCURRENCE"], ["Xerox earned", "REPORTING"], ["$492 million", "OCCURRENCE"], ["$4.55 a share", "OCCURRENCE"], ["$12.97 billion", "OCCURRENCE"], ["earnings", "OCCURRENCE"], ["financial-services operations", "OCCURRENCE"], ["rose slightly", "OCCURRENCE"], ["capital gains", "OCCURRENCE"], ["Crum amp Forster", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["Hurricane Hugo payments", "OCCURRENCE"], ["reserves", "OCCURRENCE"], ["cover future payments", "OCCURRENCE"], ["Property/casualty insurance", "OCCURRENCE"], ["tough business", "OCCURRENCE"], ["pricing", "OCCURRENCE"], ["cutthroat", "OCCURRENCE"], ["natural disasters", "OCCURRENCE"], ["Hurricane Hugo", "OCCURRENCE"], ["California earthquake", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The classes are not mutually exclusive, and some triggers may belong to multiple classes.
 
-* "Xerox Corp." is a State entity.
-* "Crum amp Forster" is a State entity.
-* "employees" is an Occurrence entity.
-* "laying off" is an Action entity.
-* "300 people" and "25% of the staff" are Aspectual entities describing the extent of the layoffs.
-* "numerous staff functions" is an Occurrence entity.
-* "centralized" is an Action entity.
-* "cost-cutting move" is an Intensional Action entity, as it describes the purpose of the centralization.
-* "less than $4 million" and "spread over the next three quarters" are Aspectual entities describing the cost of the centralization.
-* "Xerox earned $492 million" is a State entity.
-* "$4.55 a share" is a State entity.
-* "revenue of $12.97 billion" is a State entity.
-* "Earnings at Xerox's financial-services operations" is a State entity.
-* "rose slightly" is an Occurrence entity.
-* "capital gains at Crum amp Forster" is an Occurrence entity.
-* "offset Hurricane Hugo payments" is an Occurrence entity.
-* "reserves set up to cover future payments" is an Occurrence entity.
-* "Property/casualty insurance" is a State entity.
-* "tough business" is a State entity.
-* "pricing has been cutthroat" is an Occurrence entity.
-* "natural disasters" is an Occurrence entity.
-* "huge payments" is an Occurrence entity.
+This task is an example of a typical NLP task, where you need to extract and classify event triggers in a given text. The event triggers are the words or phrases that indicate the occurrence of an event, such as "laying off" or "earnings rose slightly". The classes are the categories that the event triggers belong to, such as "OCCURRENCE" or "REPORTING".
+
+The input text is a news article about Xerox Corp. laying off employees in its Crum amp Forster personal insurance operations. The output is a list of event triggers and their corresponding classes.
+
+The classes used in this task are:
+
+* OCCURRENCE: Indicates that the event trigger describes an event or occurrence that is happening or has happened.
+* REPORTING: Indicates that the event trigger is reporting on a past event or occurrence.
+* ASPECTUAL: Indicates that the event trigger describes an event or occurrence that is ongoing or continuous.
+* INTENSIONAL ACTION: Indicates that the event trigger describes an action or event that is intended or planned.
+* INTENSIONAL STATE: Indicates that the event trigger describes a state or condition that is intended or planned.
+* PERCEPTION: Indicates that the event trigger describes a perception or opinion about an event or occurrence.
+
+The event triggers in this task are:
+
+* "laying off" (OCCURRENCE)
+* "earnings rose slightly" (REPORTING)
+* "centralized" (OCCURRENCE)
+* "cost-cutting" (OCCURRENCE)
+* "move" (OCCURRENCE)
+* "result" (OCCURRENCE)
+* "charge" (OCCURRENCE)
+* "spread" (OCCURRENCE)
+* "first nine months" (OCCURRENCE)
+* "Xerox earned" (REPORTING)
+* "$492 million" (OCCURRENCE)
+* "$4.55 a share" (OCCURRENCE)
+* "$12.97 billion" (OCCURRENCE)
+* "earnings" (OCCURRENCE)
+* "financial-services operations" (OCCURRENCE)
+* "rose slightly"

@@ -1,13 +1,1 @@
-[
-"hoje",
-"às 06:55"
-]
-
-Explanation:
-
-The input text contains two time expressions:
-
-* "hoje" (today)
-* "às 06:55" (at 6:55)
-
-The output is a JSON-parseable list of strings containing these two time expressions.
+["hoje", "34 anos", "06:55"]

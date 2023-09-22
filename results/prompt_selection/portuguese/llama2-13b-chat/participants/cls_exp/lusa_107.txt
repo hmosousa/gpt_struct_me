@@ -1,26 +1,14 @@
-[
-["Mulher", "Person"],
-["mariscadores", "Organization"],
-["Torreira", "Location"],
-["viatura", "Object"],
-["bivalves", "Object"],
-["hospital de Aveiro", "Location"],
-["GNR", "Organization"],
-["Bombeiros", "Organization"]
-]
-
-Explanation:
-
-* "Mulher" is a person.
-* "mariscadores" is an organization.
-* "Torreira" is a location.
-* "viatura" is an object.
-* "bivalves" is an object.
-* "hospital de Aveiro" is a location.
-* "GNR" is an organization.
-* "Bombeiros" is an organization.
+[["uma mulher", "Per"], ["de 44 anos", "Per"], ["foi atropelada", "Other"], ["sem gravidade", "Other"], ["na Murtosa", "Loc"], ["durante um protesto", "Other"], ["com cerca de dezenas de mariscadores", "Other"], ["informaram os Bombeiros e a GNR", "Org"], ["o caso ocorreu", "Loc"], ["cerca das 12:50", "Other"], ["junto ao cais da Torreira", "Loc"], ["o condutor da viatura", "Per"], ["era um homem", "Per"], ["que transportava bivalves", "Other"], ["e que estaria a tentar sair do local", "Other"], ["os pescadores tentaram evitar que ele saísse de lá", "Other"], ["a situação incendiou-se um bocadinho", "Other"], ["e o senhor forçou a saída com a viatura", "Other"], ["tendo atropelado uma senhora", "Other"], ["segundo os Bombeiros", "Org"], ["a mulher sofreu ferimentos ligeiros", "Other"], ["tendo sido transportada para o Hospital de Aveiro", "Other"], ["a GNR referiu ainda", "Org"], ["que o condutor se colocou em fuga", "Other"], ["mas, entretanto", "Other"], ["ja foi identificado", "Other"], ["os mariscadores da Torreira", "Org"], ["estão em protesto há mais de uma semana", "Other"], ["devido ao facto de não poderem trabalhar", "Other"], ["por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro", "Other"]]
 
 Note:
 
-* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
-* The entities and classes were extracted based on the given input and the task requirements.
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

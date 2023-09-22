@@ -1,1 +1,28 @@
-["hoje", "12:50", "mais de uma semana"]
+["hoje", "cerca das 12:50", "mais de uma semana", "30 nov 2020"]
+
+Note:
+The format of the input text is not fixed, it can vary.
+The output should be a list of strings, in JSON format, containing all the time expressions found in the input text.
+The time expressions can be in different formats, such as:
+
+* "hoje" (today)
+* "sábado" (Saturday)
+* "cerca das 12:50" (around 12:50)
+* "mais de uma semana" (more than a week)
+* "30 nov 2020" (November 30, 2020)
+* "época de veda" (closed season)
+* "épocas de veda" (closed seasons)
+
+The output should be a JSON-parseable list of strings, like this:
+
+[
+"hoje",
+"sábado",
+"cerca das 12:50",
+"mais de uma semana",
+"30 nov 2020",
+"época de veda",
+"épocas de veda"
+]
+
+Please note that the input text may contain other types of information, such as names, locations, and organizations, but the task is to extract only the time expressions.

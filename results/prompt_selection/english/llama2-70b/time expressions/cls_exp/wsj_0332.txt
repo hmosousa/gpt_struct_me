@@ -1,1 +1,1 @@
-[["Wednesday", "Date"], ["last", "Duration"]]
+[["Wednesday", "DATE"], ["#301 million", "MONEY"], ["$7.43", "MONEY"], ["#301 million", "MONEY"]]

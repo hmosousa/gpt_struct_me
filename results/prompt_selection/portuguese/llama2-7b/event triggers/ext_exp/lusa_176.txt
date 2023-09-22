@@ -1,11 +1,23 @@
-["Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal",
-"Um homem de 34 anos morreu hoje após o ciclomotor que conduzia ter sido colhido por um veículo ligeiro na Estrada Nacional 10-8, na zona da Mitrena, em Setúbal, disseram fontes da PSP e Proteção Civil.",
-"Fonte do Comando Distrital de Operações de Socorro (CDOS) de Setúbal indicou à agência Lusa que o óbito do homem foi declarado no local, tendo o corpo sido encaminhado para o serviço de Medicina legal do Hospital de São Bernardo, em Setúbal.",
-"O alerta, de acordo com o CDOS, foi dado às 06:55, tendo sido mobilizados bombeiros e veículos das corporações de Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER),além da PSP, num total de 16 elementos, apoiados por cinco veículos."]
+["morreu", "ciclomotor", "conduzia", "ser", "colhido", "veículo", "ligeiro", "Estrada", "nacional", "mitrena", "setúbal", "disseram", "fontes", "psp", "proteção", "civil", "indicou", "agência", "lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "hospital", "são", "bernardo", "mobilizados", "bombeiros", "corporações", "palmela", "sapadores", "viatura", "medicina", "reanimação", "vmers", "apoiados", "veículos"]
 
-Expected output:
-["Homem morre após ciclomotor que conduzia ser colhido por veículo ligeiro em Setúbal",
-"Um homem de 34 anos morreu hoje após o ciclomotor que conduzia ter sido colhido por um veículo ligeiro na Estrada Nacional 10-8, na zona da Mitrena, em Setúbal, disseram fontes da PSP e Proteção Civil.",
-"Fonte do Comando Distrital de Operações de Socorro (CDOS) de Setúbal indicou à agência Lusa que o óbito do homem foi declarado no local, tendo o corpo sido encaminhado para o serviço de Medicina legal do Hospital de São Bernardo, em Setúbal.",
-"O alerta, de acordo com o CDOS, foi dado às 06:55, tendo sido mobilizados bombeiros e veículos das corporaçõesde Palmela e Sapadores de Setúbal e uma viatura médica de emergência e reanimação (VMER),além da PSP, num total de 16 elementos, apoiados por cinco veículos."]
+Format:
+JSON-parseable list of strings.
 
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 10

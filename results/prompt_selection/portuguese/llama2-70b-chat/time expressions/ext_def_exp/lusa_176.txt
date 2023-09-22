@@ -1,7 +1,6 @@
-["hoje", "06:55"]
-
-Explanation:
-The input text contains two time expressions: "hoje" (today) and "06:55" (6:55 AM).
+["hoje", "34 anos", "06:55"]
 
 Note:
-The format of the output is a JSON-parseable list of strings, which means that each element in the list is a string representing a time expression, and the list is surrounded by square brackets and separated by commas.
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

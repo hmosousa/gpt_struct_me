@@ -1,22 +1,10 @@
-[
-["GNR", "Date"],
-["sábado", "Time"],
-["1.673", "Duration"],
-["1.570", "Duration"],
-["103", "Duration"],
-["844", "Duration"],
-["quatro", "Set"]
-]
+[["sábado", "Date"], ["sábado", "Date"], ["1.673", "Quantity"], ["1.570", "Quantity"], ["103", "Quantity"], ["844", "Quantity"], ["Tribunal Judicial de Santiago do Cacém", "Location"], ["primeiro interrogatório judicial", "Time"]]
 
-Explanation:
-The input text contains several time expressions:
+Note:
 
-* "GNR detém" (GNR detains) - This is a date expression, as it refers to a specific event that occurred on a particular date.
-* "sábado" (Saturday) - This is a time expression, as it refers to a specific day of the week.
-* "1.673 doses de estupefacientes" (1.673 doses of narcotics) - This is a duration expression, as it refers to a quantity of something that was seized over a period of time.
-* "1.570 doses de heroína" (1.570 doses of heroin) - This is a duration expression, as it refers to a quantity of something that was seized over aperiod of time.
-* "103 doses de cocaína" (103 doses of cocaine) - This is a duration expression, as it refers to a quantity of something that was seized over a period of time.
-* "844 euros em numerário" (844 euros in cash) - This is a duration expression, as it refers to a quantity of money that was seized over a period of time.
-* "quatro telemóveis" (four mobile phones) - This is a set expression, as it refers to a collection of items that were seized.
-
-The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity (GNR, sábado, 1.673, etc.) and the second string is the class (Date, Time, Duration, Set).
+* Duration is a class that includes expressions of time that are not specific dates or times, such as "menos de uma semana" (less than a week) or "em cerca de uma hora" (in about an hour).
+* Set is a class that includes expressions of time that refer to a specific period or set of periods, such as "época de veda" (closed season) or "fins do ano" (end of the year).
+* Time is a class that includes expressions of time that refer to a specific time of day, such as "sábado" (Saturday) or "20:00" (8:00 PM).
+* Date is a class that includes expressions of time that refer to a specific date, such as "30 nov 2020" (November 30, 2020) or "2020-12-31" (December 31, 2020).
+* Quantity is a class that includes expressions of quantity, such as "1.673" (1,673) or "103" (103).
+* Location is a class that includes expressions of location, such as "Sines" or "Tribunal Judicial de Santiago do Cacém" (Santiago do Cacém Court).

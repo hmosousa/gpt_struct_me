@@ -1,1 +1,1 @@
-["June 30", "1990", "$1.65", "fiscal 1989", "current fiscal year", "slightly above", "fiscal 1989", "$155 million", "industrial unit", "margin pressures", "lower demand", "fiscal 1989", "$7.8 million", "$13.625"]
+["June 30, 1990", "fiscal 1989", "current fiscal year", "fiscal 1989", "yesterday"]

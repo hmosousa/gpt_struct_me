@@ -1,1 +1,4 @@
-["390 quilogramas", "37.500 euros", "segunda-feira", "2023", "Aveiro", "GNR", "Guarda", "porto de pesca costeira da Gafanha da Nazaré", "37.500 euros", "infração punível", "controle higiossanitário", "instituição de solidariedade social"]
+["em Aveiro", "segunda-feira", "390 quilogramas", "atum-rabilho", "37.500 euros", "GNR", "porto de pesca costeira", "Gafanha da Nazaré", "comunicado", "infração punível", "coima", "instituição de solidariedade social"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression extracted from the input text.

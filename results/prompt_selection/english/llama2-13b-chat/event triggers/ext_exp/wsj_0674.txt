@@ -1,1 +1,4 @@
-[ "intent to seek control", "control", "Innopac Inc." ]
+
+JSON-parseable list of strings:
+
+["intends", "seek", "control", "Innopac", "didn't", "elaborate", "statement", "company", "holds", "outstanding", "aggregate", "market", "value", "separately", "reported", "fourth", "quarter", "loss", "inventory", "write", "downs", "results", "net", "income", "year", "ended", "Aug", "31", "C", "2", "7", "million", "revenue", "252", "million", "1988", "Martin", "Fabi", "Innopac", "viewed", "positively", "said", "directly", "terms", "planned", "bid", "control", "Among", "things", "polystyrene", "foam", "products", "often", "used", "fast", "food", "chains", "such", "McDonald's", "Corp", "joint", "venture", "units", "Innopac", "Mobil", "Corp", "earlier", "year", "opened", "first", "U", "S", "polystyrene", "recycling", "plant", "Leominster", "Mass"]

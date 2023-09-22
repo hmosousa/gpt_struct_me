@@ -1,1 +1,1 @@
-["Homem morre", "ciclomotor que conduzia ser colhido por veículo ligeiro", "alerta dado", "bombeiros mobilizados", "veículos das corporações mobilizados", "viatura médica de emergência e reanimação mobilizada", "PSP mobilizada"]
+["morreu", "conduzia", "colhido", "veículo ligeiro", "disseram", "indicou", "declarado", "encaminhado", "alerta", "mobilizados", "corporações", "viatura", "emergência", "reanimação", "elementos", "apoiados", "veículos"]

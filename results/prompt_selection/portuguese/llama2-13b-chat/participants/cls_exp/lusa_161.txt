@@ -1,25 +1,10 @@
-[
-["Homem", "Person"],
-["ex-companheira", "Person"],
-["tiro", "Object"],
-["arma de fogo", "Object"],
-["Rua da Figueirinha", "Location"],
-["Grijó", "Location"],
-["Vila Nova de Gaia", "Location"],
-["distrito do Porto", "Location"],
-["62 anos", "Person"],
-["20 anos mais nova", "Person"]
-]
-
-Explanation:
-
-* Homem, ex-companheira, tiro, arma de fogo, Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto are all participants.
-* Homem and ex-companheira are people.
-* Tiro and arma de fogo are objects.
-* Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto are locations.
-* 62 anos and 20 anos mais nova are not participants, they are just attributes of the Homem.
+[["um homem", "Per"], ["ex-companheira", "Per"], ["com", "Other"], ["tiro", "Obj"], ["em", "Loc"], ["Vila Nova de Gaia", "Loc"], ["e", "Per"], ["foi detido", "Org"], ["numa altura", "Other"], ["em que", "Other"], ["estaria", "Other"], ["a tentar", "Other"], ["o suicídio", "Other"], ["com", "Other"], ["a mesma arma", "Other"], ["disparo", "Obj"], ["de", "Other"], ["arma", "Other"], ["de fogo", "Other"], ["Fonte", "Org"], ["do Comando Territorial", "Org"], ["da GNR", "Org"], ["do Porto", "Loc"], ["referiu", "Other"], ["à agência", "Other"], ["Lusa", "Org"], ["que", "Other"], ["o crime", "Other"], ["ocorreu", "Other"], ["cerca", "Other"], ["das", "Other"], ["10:30", "Other"], ["na", "Other"], ["Rua da Figueirinha", "Loc"], ["em", "Other"], ["Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito", "Other"], ["do Porto", "Loc"], ["e", "Per"], ["a vítima", "Per"], ["era", "Other"], ["20 anos", "Other"], ["mais", "Other"], ["jovem", "Other"], ["A fonte", "Org"], ["admitiu", "Other"], ["que", "Other"], ["o homem", "Per"], ["tenha", "Other"], ["cometido", "Other"], ["o crime", "Other"], ["em", "Other"], ["retaliação", "Other"], ["por", "Other"], ["a mulher", "Per"], ["terminar", "Other"], ["a relação", "Other"], ["que", "Other"], ["ambos", "Other"], ["mantiveram", "Other"], ["durante", "Other"], ["10 anos", "Other"]]
 
 Note:
 
-* In this task,you should only focus on the entities mentioned in the text, and not on the attributes of those entities (such as the age of the Homem).
-* Also, you should not worry about the case of the words, as the output will be in lowercase.
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

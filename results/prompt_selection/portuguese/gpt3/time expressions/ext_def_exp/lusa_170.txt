@@ -1,1 +1,1 @@
-["12:00 locais (13:00 em Lisboa)", "segunda-feira", "62 anos"]
+["segunda-feira", "12:00 locais (13:00 em Lisboa)", "segunda-feira", "62 anos"]

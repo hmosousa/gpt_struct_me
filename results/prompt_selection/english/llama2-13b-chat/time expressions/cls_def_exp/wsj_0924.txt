@@ -1,16 +1,4 @@
-[
-["Aug. 9", "Date"],
-["Sept. 30", "Date"],
-["12 Canadian cents a share", "Duration"],
-["50% of the then current market price", "Duration"],
-["a year ago", "Duration"],
-["C$348.2 million", "Set"]
-]
+[["Dominion Textile Inc.", "ORGANIZATION"], ["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["12 Canadian cents", "AMOUNT"], ["C$348.2 million", "AMOUNT"], ["C$307.2 million", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents", "AMOUNT"]]
 
-Explanation:
-
-* "Aug. 9" and "Sept. 30" are dates and belong to the "Date" class.
-* "12 Canadian cents a share" is a duration and belongs to the "Duration" class.
-* "50% of the then current market price" is a duration and belongs to the "Duration" class.
-* "a year ago" is a duration and belongs to the "Duration" class.
-* "C$348.2 million" is a set and belongs to the "Set" class.
+Note:
+The input text may contain multiple time expressions, and the output should list each time expression with its corresponding class (DATE, DURATION, AMOUNT, etc.).

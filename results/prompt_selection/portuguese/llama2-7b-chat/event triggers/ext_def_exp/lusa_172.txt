@@ -1,18 +1,5 @@
-[
-"encontrado",
-"corpo",
-"homem",
-"Lagoa",
-"Algarve",
-"Autoridade Marítima",
-"pescador",
-"mar",
-"praia",
-"Estaquinha",
-"Faro",
-"Estação Salva-vidas",
-"Ferragudo",
-"Portimão",
-"gabinete de medicina legal",
-"Polícia Marítima"
-]
+["encontrado", "corpo", "homem", "Lagoa", "Algarve", "Autoridade", "marítima", "pescador", "caiu", "mar", "praia", "Estaquinha", "district", "Faro", "Estação", "Salva-vidas", "Ferragudo", "recolha", "transportou", "gabinete", "medicina", "legal", "Portimão", "tomou", "controlo"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a trigger event.

@@ -1,8 +1,48 @@
-["declared a dividend", "issued", "exercised"]
-
-Explanation:
-The input text contains three event triggers:
-
-1. "declared a dividend" - This is an event trigger because it refers to a specific action taken by the company (declaring a dividend).
-2. "issued" - This is an event trigger because it refers to a specific action taken by the company (issuing additional warrants).
-3. "exercised" - This is an event trigger because it refers to a specific action that can be taken by the holders of the warrants (exercising their warrants to purchase common stock).
+[
+"declared",
+"dividend",
+"one",
+"warrant",
+"three",
+"shares",
+"common",
+"stock",
+"Currently",
+"Avon",
+"based",
+"Santa",
+"Monica",
+"Calif",
+"3.3",
+"million",
+"outstanding",
+"issued",
+"company",
+"each",
+"Class",
+"C",
+"warrants",
+"enable",
+"holders",
+"purchase",
+"$5.50",
+"warrants",
+"may",
+"exercised",
+"90",
+"days",
+"issue",
+"date",
+"Avon",
+"additional",
+"243,677",
+"Class",
+"A",
+"B",
+"unclassified",
+"warrants",
+"rate",
+"one-third",
+"warrant",
+"exercised"
+]

@@ -1,13 +1,1 @@
-[
-["Homem", "Person"],
-["Transportadora J Amaral", "Organization"],
-["Estarreja", "Location"],
-["cisterna de um camião", "Object"],
-["GNR de Aveiro", "Organization"],
-["Bombeiros de Estarreja", "Organization"],
-["Joaquim Rebelo", "Person"],
-["Delegada de Saúde", "Person"],
-["Polícia Judiciária", "Organization"],
-["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"],
-["Hospital Infante D. Pedro", "Facility"]
-]
+[["Um homem de 34 anos", "Per"], ["Transportadora J Amaral", "Org"], ["Estarreja", "Loc"], ["o interior da cisterna de um camião", "Loc"], ["fonte da GNR de Aveiro", "Per"], ["O alerta", "Other"], ["09:56", "Other"], ["o homem", "Per"], ["a manutenção da cisterna", "Other"], ["sábado", "Other"], ["Lusa", "Org"], ["o comandante dos Bombeiros de Estarreja", "Per"], ["Joaquim Rebelo", "Per"], ["A cisterna", "Obj"], ["o funcionário da transportadora", "Per"], ["o graduado", "Per"], ["a causa da morte", "Other"], ["a fonte da GNR", "Per"], ["a Delegada de Saúde", "Per"], ["a Polícia Judiciária", "Org"], ["a ocorrência", "Other"], ["a Viatura Médica de Emergência e Reanimação de Aveiro", "Fac"], ["o transporte do cadáver", "Other"], ["o Hospital Infante D. Pedro", "Fac"], ["a fonte dos bombeiros", "Per"]]

@@ -1,26 +1,15 @@
-[
-{
-"entity": "Corpo de homem",
-"class": "Person"
-},
-{
-"entity": "Autoridade Marítima",
-"class": "Organization"
-},
-{
-"entity": "Estação Salva-vidas de Ferragudo",
-"class": "Facility"
-},
-{
-"entity": "Polícia Marítima de Portimão",
-"class": "Organization"
-}
-]
 
-Explanation:
-The output list contains 4 participants:
-1. Corpo de homem (Person)
-2. Autoridade Marítima (Organization)
-3. Estação Salva-vidas de Ferragudo (Facility)
-4. Polícia Marítima de Portimão (Organization)
-Each participant is represented as a JSON object with two strings: "entity" and "class". The "entity" string is the name of the participant, and the "class" string is the class of the participant (Person, Organization, Facility, or Other).
+[["corpo", "Per"], ["Autoridade Marítima", "Org"], ["homem", "Per"], ["Algarve", "Loc"], ["praia", "Loc"], ["Estaquinha", "Loc"], ["Faro", "Loc"], ["Lagoa", "Loc"], ["pescador", "Per"], ["mar", "Loc"], ["arriba", "Loc"], ["recolha", "Org"], ["gabinete", "Loc"], ["medicina legal", "Loc"], ["Portimão", "Org"], ["polícia marítima", "Org"]]
+
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned.
+* The entities are classified into different categories based on their relevance to the context.
+* The categories are: Person, Organization, Location, Nature, Facility, and Other.
+* Each entity is assigned to one category based on its relevance to the context.
+* For example, "homem" is classified as "Person" because it refers to a person mentioned in the context.
+* Similarly, "Autoridade Marítima" is classified as "Organization" because it is an organization mentioned in the context.
+* The output list shows the entities and their corresponding classes.

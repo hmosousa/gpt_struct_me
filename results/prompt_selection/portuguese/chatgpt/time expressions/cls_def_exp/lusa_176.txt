@@ -1,1 +1,1 @@
-[["34 anos", "Duration"], ["hoje", "Date"], ["Estrada Nacional 10-8", "Set"], ["Setúbal", "Set"], ["Comando Distrital de Operações de Socorro", "Set"], ["Hospital de São Bernardo", "Set"], ["06:55", "Time"]]
+[["hoje", "Date"], ["Estrada Nacional 10-8", "Time"], ["Mitrena", "Time"], ["Setúbal", "Time"], ["Comando Distrital de Operações de Socorro", "Time"], ["Hospital de São Bernardo", "Time"], ["06:55", "Time"]]

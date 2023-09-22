@@ -1,25 +1,6 @@
-[
-["Violência doméstica", "Occurrence"],
-["Pulseira eletrônica", "State"],
-["homem", "Intensional Action"],
-["colocado", "State"],
-["suspeito", "Intensional State"],
-["persegui", "Intensional Action"],
-["não aceitou", "Intensional State"],
-["separação", "Occurrence"],
-["começou", "Occurrence"],
-["perseguiu", "Intensional Action"],
-["vítima", "State"],
-["botão de pânico", "State"],
-["proibido", "State"]
-]
+[["Pulseira eletrônica", "State"], ["homem", "State"], ["detido", "Occurrence"], ["Penafiel", "State"], ["suspeito", "State"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["ex-companheira", "State"], ["separação", "Occurrence"], ["perseguiu", "Occurrence"], ["residência", "State"], ["local de trabalho", "State"], ["botão de pânico", "State"], ["proibido", "State"], ["contactar", "I_Action"]]
 
-Explanation:
-The output is a list of pairs, where each pair consists of an entity and its corresponding class. The classes are:
+Note:
+The input text is in Portuguese.
 
-* Occurrence: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
-* State: refers to a state or condition that exists or persists over a period of time.
-* Intensional Action: refers to an action that is intended or planned.
-* Intensional State: refers toa state or condition that is intended or planned.
-
-In the example, "Violência doméstica" is classified as an Occurrence, as it refers to a specific incident of domestic violence. "Pulseira eletrônica" is classified as a State, as it refers to a condition or state that exists over a period of time (the person is wearing an electronic bracelet). "homem" is classified as an Intensional Action, as it refers to the action of the man (the suspect) being placed under electronic surveillance. "colocado" is classified as a State, as it refers to the condition of being placed under electronic surveillance. "suspeito" is classified as an Intensional State, as it refers to the state of being suspected of a crime. "persegui" is classified as an Intensional Action, as it refers to the action of persecuting someone. "não aceitou" is classified as an Intensional State, as it refers to the state of not accepting something. "separação" is classified as an Occurrence, as it refers to a specific event orincident (the separation of the couple). "começou" is classified as an Occurrence, as it refers to a specific event or incident (the man began to persecute the woman). "perseguiu" is classified as an Intensional Action, as it refers to the action of persecuting someone. "vítima" is classified as a State, as it refers to the condition of being a victim. "botão de pânico" is classified as a State, as it refers to the condition of having a panic button. "proibido" is classified as a State, as it refers to the condition of being prohibited from contacting someone.
+Please extract and classify all event triggers in the given text.

@@ -1,1 +1,1 @@
-["third-quarter", "last month", "latest quarter", "first nine months", "1988 period", "1988 second quarter"]
+["11%", "third-quarter", "$40 million", "1988", "1988", "second quarter", "less than $10 million", "latest quarter", "year ago", "first nine months"]

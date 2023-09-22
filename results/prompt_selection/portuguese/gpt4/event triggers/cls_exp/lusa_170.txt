@@ -1,13 +1,1 @@
-[
-["Encontrado", "Occurrence"],
-["detetado", "Perception"],
-["anunciou", "Reporting"],
-["alertado", "Perception"],
-["recebida", "Perception"],
-["foram ao local", "Intensional Action"],
-["confirmaram", "Perception"],
-["foi retirado", "Intensional Action"],
-["transportado", "Intensional Action"],
-["será autopsiado", "Intensional Action"],
-["se apurar", "Intensional Action"]
-]
+[["Encontrado", "Perception"], ["corpo", "State"], ["homem", "State"], ["boiar", "State"], ["zona rochosa", "State"], ["costa", "State"], ["deteção", "Perception"], ["desconhecendo-se", "Perception"], ["causas", "State"], ["morte", "State"], ["anunciou", "Reporting"], ["comunicado", "Reporting"], ["enviado", "I_Action"], ["alertado", "Perception"], ["presença", "State"], ["corpo", "State"], ["homem", "State"], ["boiar", "State"], ["área", "State"], ["domínio público marítimo", "State"], ["informação", "State"], ["recebida", "Perception"], ["piquete", "State"], ["Polícia Marítima", "State"], ["Angra do Heroísmo", "State"], ["delegado de saúde", "State"], ["local", "State"], ["confirmaram", "Perception"], ["presença", "State"], ["corpo", "State"], ["homem", "State"], ["cadáver", "State"], ["retirado", "I_Action"], ["local", "State"], ["equipa", "State"], ["grande ângulo", "State"], ["Bombeiros Voluntários", "State"], ["Praia da Vitória", "State"], ["encontrava", "Perception"], ["zona", "State"], ["difícil acesso", "State"], ["transportado", "I_Action"], ["Hospital", "State"], ["Angra do Heroísmo", "State"], ["autopsiado", "I_Action"], ["apurar", "I_Action"], ["causas", "State"], ["morte", "State"]]

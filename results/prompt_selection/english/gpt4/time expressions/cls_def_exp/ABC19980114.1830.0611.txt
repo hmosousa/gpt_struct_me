@@ -1,5 +1,1 @@
-[
-["today", "Date"],
-["the night", "Time"],
-["a minute and a half later", "Duration"]
-]
+[["today", "DATE"], ["the night", "TIME"], ["a minute and a half later", "DURATION"]]

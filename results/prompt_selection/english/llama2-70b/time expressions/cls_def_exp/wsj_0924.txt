@@ -1,1 +1,1 @@
-[["Aug. 9", "Date"], ["Sept. 30", "Date"]]
+[["Aug.", "SET"], ["Sept.", "SET"], ["C$", "CURRENCY"], ["C$", "CURRENCY"], ["C$", "CURRENCY"], ["C$", "CURRENCY"]]

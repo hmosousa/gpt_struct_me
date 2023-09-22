@@ -1,19 +1,10 @@
-[
-["this week", "Time"],
-["three quarters", "Duration"],
-["first nine months", "Duration"],
-["$4 million", "Set"],
-["$492 million", "Set"],
-["$12.97 billion", "Set"],
-["Hurricane Hugo", "Date"],
-["California earthquake", "Date"]
-]
+[["Xerox Corp.", "DATE"], ["this week", "DATE"], ["300", "NUMBER"], ["25%", "NUMBER"], ["$4 million", "NUMBER"], ["$492 million", "NUMBER"], ["$4.55", "NUMBER"], ["$12.97 billion", "NUMBER"], ["Hurricane Hugo", "DATE"], ["California earthquake", "DATE"]]
 
-Explanation:
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
 
-* "this week" is classified as Time because it refers to a specific period of time that is currently happening.
-* "three quarters" is classified as Duration because it refers to a specific amount of time in the future.
-* "first nine months" is classified as Duration because it refers to a specific period of time in the past.
-* "$4 million" and "$492 million" are classified as Set because they refer to specific amounts of money.
-* "$12.97 billion" is classified as Set because it refers to a specific amount of money.
-* "Hurricane Hugo" and "California earthquake" are classified as Date because they refer to specific events that occurred on a specific date in the past.
+Note:
+The input text may contain irrelevant information. Your task is to extract the relevant information and classify it according to the given classes.
+
+Note:
+You may assume that the input text is in English.

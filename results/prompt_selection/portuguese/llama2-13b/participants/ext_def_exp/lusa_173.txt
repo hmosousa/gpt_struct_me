@@ -1,1 +1,20 @@
-["J Amaral", "Transportadora J Amaral", "Estarreja", "GNR de Aveiro", "Lusa", "GNR", "Joaquim Rebelo", "Bombeiros de Estarreja", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro", "Hospital Infante D. Pedro"]
+["Um homem de 34 anos", "Transportadora J Amaral", "Estarreja", "a Lusa", "fonte", "GNR", "Aveiro", "alerta", "cisterna", "camião", "homem", "fazer", "manutenção", "cisterna", "sábado", "acrescentou", "Lusa", "graduado", "determinar", "causa", "morte", "cisterna", "encontrava-se", "aberta", "acrescentou", "delegada", "Saúde", "Polícia Judiciária", "tomou", "ocorrência", "Viatura Médica", "Emergência", "Reanimação", "Aveiro", "transporte", "cadáver", "Hospital Infante D. Pedro", "fonte", "bombeiros"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos por COVID-19 ultrapassa 20.000, um número que o estado de Nova Iorque já havia ultrapassado há mais de uma semana.
+O número de mortos por COVID-19 na cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, ultrapassou 20.000, anunciou hoje o prefeito da cidade, Bill de Blasio, numa conferência de imprensa.
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de mortos por COVID-19 na cidade de Nova Iorque é "um número que não devia ter sido alcançado".
+"Estamos muito tristes por ter chegado a este número", disse o prefeito, que acrescentou que o número de

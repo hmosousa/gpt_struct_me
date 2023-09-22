@@ -1,12 +1,1 @@
-[
-  ["Violência doméstica", "Nature"],
-  ["Pulseira eletrónica", "Object"],
-  ["homem", "Person"],
-  ["Penafiel", "Location"],
-  ["Porto", "Location"],
-  ["ex-companheira", "Person"],
-  ["GNR", "Organization"],
-  ["comunicado", "Object"],
-  ["botão de pânico", "Object"],
-  ["medida de proteção", "Other"]
-]
+[["Violência doméstica", "Nature"], ["Pulseira eletrónica", "Obj"], ["homem", "Per"], ["Penafiel", "Loc"], ["distrito do Porto", "Loc"], ["violência física", "Nature"], ["injúrias", "Nature"], ["ameaças de morte", "Nature"], ["ex-companheira", "Per"], ["fonte da GNR", "Org"], ["comunicado", "Obj"], ["autoridade policial", "Org"], ["suspeito", "Per"], ["separação", "Other"], ["perseguir", "Other"], ["vítima", "Per"], ["residência", "Fac"], ["local de trabalho", "Fac"], ["mulher", "Per"], ["botão de pânico", "Obj"], ["medida de proteção", "Other"], ["teleassistência", "Fac"], ["antecedentes criminais", "Other"], ["ilícitos", "Other"], ["mesma natureza", "Nature"], ["contactar", "Other"], ["vítima", "Per"]]

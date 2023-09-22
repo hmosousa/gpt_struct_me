@@ -1,34 +1,3 @@
-[
-["GNR", "Date"],
-["390 quilogramas", "Quantity"],
-["Aveiro", "Location"],
-["37.500 euros", "Amount"],
-["segunda-feira", "Date"],
-["Gafanha da Nazaré", "Location"],
-["77 quilos", "Quantity"],
-["313 quilos", "Quantity"],
-["condutor do veículo", "Person"],
-["mestre da embarcação", "Person"],
-["auto de contraordenação", "Document"],
-["37.500 euros", "Amount"]
-]
+[["390 quilogramas", "Quantity"], ["37.500 euros", "Quantity"], ["segunda-feira", "Date"], ["Gafanha da Nazaré", "Location"], ["Aveiro", "Location"], ["313 quilos", "Quantity"], ["37.500 euros", "Quantity"], ["30 nov 2020", "Date"]]
 
-Explanation:
-
-* "GNR" is classified as "Date" because it refers to the day of the week (second-feira)
-* "390 quilogramas" is classified as "Quantity" because it is a numerical value representing a quantity
-* "Aveiro" is classified as "Location" because it refers to a geographic location
-* "37.500 euros" is classified as "Amount"because it is a numerical value representing a monetary amount
-* "segunda-feira" is classified as "Date" because it refers to the day of the week
-* "Gafanha da Nazaré" is classified as "Location" because it refers to a geographic location
-* "77 quilos" is classified as "Quantity" because it is a numerical value representing a quantity
-* "313 quilos" is classified as "Quantity" because it is a numerical value representing a quantity
-* "condutor do veículo" is classified as "Person" because it refers to a person
-* "mestre da embarcação" is classified as "Person" because it refers to a person
-* "auto de contraordenação" is classified as "Document" because it is a document
-* "37.500 euros" is classified as "Amount" because it is a numerical value representing a monetary amount
-
-Note:
-
-* The input text contains some irrelevant information, such as the name of the port and the fact that the fish was donated to a social solidarity institution. This information is not included in the output list.
-* The output list only includes the entities and classes that are relevant to the task of extracting and classifying time expressions.
+Please note that the input text is in Portuguese.

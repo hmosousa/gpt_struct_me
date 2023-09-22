@@ -1,12 +1,16 @@
-["merger", "completed", "buy", "stock", "market value", "about", "year end"]
+[
+"merger",
+"completed",
+"Society Corp.",
+"bank",
+"buy",
+"stock",
+"market value",
+"about",
+"450 million",
+"transaction",
+"close",
+"year end"
+]
 
-Explanation:
-The input text contains the following event triggers:
-
-* "merger" - refers to the planned merger between Trustcorp and Society Corp.
-* "completed" - indicates that the merger is expected to be completed.
-* "buy" - refers to Society Corp.'s purchase of Trustcorp.
-* "stock" - refers to the shares of stock that Society Corp. will receive in the merger.
-* "market value" - refers to the value of the shares of stock.
-* "about" - indicates that the market value is approximately $450 million.
-* "year end" - indicates that the transaction is expected to close at the end of the year.
+Please provide the output in JSON format.

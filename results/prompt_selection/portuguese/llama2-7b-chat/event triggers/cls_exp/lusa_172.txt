@@ -1,34 +1,8 @@
-[
-{
-"entity": "Corpo de homem",
-"class": "State"
-},
-{
-"entity": "Praia da Estaquinha",
-"class": "Location"
-},
-{
-"entity": "Lagoa",
-"class": "Location"
-},
-{
-"entity": "Algarve",
-"class": "Location"
-},
-{
-"entity": "Faro",
-"class": "Location"
-},
-{
-"entity": "Estação Salva-vidas de Ferragudo",
-"class": "Organization"
-},
-{
-"entity": "Polícia Marítima de Portimão",
-"class": "Organization"
-}
-]
-]
+[["encontrado", "Occurrence"], ["corpo", "State"], ["aparentando", "Occurrence"], ["60", "Aspectual"], ["70", "Aspectual"], ["ao mar", "Occurrence"], ["praia", "State"], ["Estaquinha", "State"], ["concelho", "State"], ["Lagoa", "State"], ["Algarve", "State"], ["revelou", "Reporting"], ["autoridades", "Reporting"], ["terá", "Intensional Action"], ["caído", "Intensional Action"], ["praticava", "Intensional Action"], ["pesca", "Intensional Action"], ["lúdica", "Intensional Action"], ["naquela", "Aspectual"], ["praia", "State"], ["do", "State"], ["dado", "Reporting"], ["alerta", "Reporting"], ["avistamento", "Occurrence"], ["transportou", "I_Action"], ["gabinete", "State"], ["medicina", "State"], ["legal", "State"], ["tomou", "I_Action"]]
 
-Explanation:
-The output is a list of JSON objects, where each object represents an event trigger. The "entity" field contains the name of the entity that triggered the event (e.g. "Corpo de homem" for the body of a man), and the "class" field contains the class of the trigger (e.g. "State" for the body of aman). The output also includes the location of the event (e.g. "Praia da Estaquinha") and the organizations involved (e.g. "Estação Salva-vidas de Ferragudo" and "Polícia Marítima de Portimão").
+
+Note:
+
+* The input text is in Portuguese, and the output is in JSON-parseable lists, where each element is a list with two strings. The first string is the entity, and the second is the class.
+* The classes are: Occurrence (for events that happen), State (for states of being), Reporting (for reporting events), Intensional Action (for events that are intended), and Aspectual (for events that are aspectual).
+* The input text mentions the discovery of a body floating in the sea in Lagoa, Algarve, Portugal. The output lists the entities and their corresponding classes.

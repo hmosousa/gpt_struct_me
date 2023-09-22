@@ -1,21 +1,5 @@
-[
-["Encontrado corpo de homem", "Date"],
-["segunda-feira", "Time"],
-["12:00 locais", "Time"],
-["13:00 em Lisboa", "Time"],
-["a boiar", "Duration"],
-["na costa da Terceira", "Set"],
-["na costa leste da Terceira", "Set"],
-["Angra do Heroísmo", "Set"],
-["Praia da Vitória", "Set"],
-["Hospital de Angra do Heroísmo", "Set"]
-]
+[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["zona rochosa", "Set"], ["praia da Vitória", "Set"], ["hospital de Angra do Heroísmo", "Set"], ["62 anos", "Duration"]]
 
-Explanation:
-
-* "Encontrado corpo de homem" is a Date expression because it refers to a specific point in time (the discovery of the body).
-* "segunda-feira" is a Time expression because it refers to a specific day of the week.
-* "12:00 locais" and "13:00 em Lisboa" are Time expressions because they refer to specific times of day.
-* "a boiar" is a Duration expression because it refers to a period of time (the body floatingin the water).
-* "na costa da Terceira" and "na costa leste da Terceira" are Set expressions because they refer to specific geographic locations.
-* "Angra do Heroísmo", "Praia da Vitória", and "Hospital de Angra do Heroísmo" are Set expressions because they refer to specific locations.
+Note:
+- "em menos de uma semana" is not a time expression, so it should not be included in the output.
+- "épocas de veda" should be classified as "Time" instead of "Set".

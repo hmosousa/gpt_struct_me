@@ -1,21 +1,16 @@
-[
-["AVON RENT-A-CAR amp TRUCK Corp.", "State"],
-["declared a dividend", "Occurrence"],
-["one warrant for each three shares of common stock", "Aspectual"],
-["Currently", "State"],
-["3.3 million common shares outstanding", "State"],
-["1.1 million Class C warrants were issued", "Occurrence"],
-["Each of the Class C warrants", "Aspectual"],
-["will enable the holders to purchase one share of common stock at $5.50", "Intensional Action"],
-["The warrants may be exercised until 90 days after their issue date", "State"],
-["Avon also said it will issue an additional 243,677 of the Class C warrants", "Occurrence"],
-["to holders of its Class A, Class B and unclassified warrants", "State"],
-["Issuance of those warrants", "Occurrence"],
-["will be at the rate of one-third warrant for each warrant exercised", "Aspectual"]
-]
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["has", "STATE"], ["issued", "OCCURRENCE"], ["will", "I_ACTION"], ["enable", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["issuance", "OCCURRENCE"]]
 
-I'm not sure how to approach this task. I've tried to identify the triggers in the given text, but I'm not sure how to classify them. Could you provide some guidance or examples of how to classify event triggers?
+Note:
+The classes are not mutually exclusive, and an entity may belong to multiple classes.
 
-Also, I'm not sure what the difference is between "Occurrence" and "State" classes. Could you explain the difference between these two classes?
+Note:
+The input text may contain unnecessary words or punctuation. Your task is to extract the relevant information and classify it accordingly.
 
-Thank you for your help!
+Note:
+You may encounter unknown or out-of-vocabulary words. You can either skip them or use a dictionary or thesaurus to find their meanings and classify them accordingly.
+
+Note:
+You may encounter ambiguous words or phrases that can be classified under multiple classes. Use your judgment to determine the most appropriate class.
+
+Note:
+You may encounter words or phrases that are not relevant to the task. You can skip them or classify them under a special class, such as "OTHER".

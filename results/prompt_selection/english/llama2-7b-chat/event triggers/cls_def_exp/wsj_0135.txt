@@ -1,12 +1,1 @@
-[
-{ "entity": "Elco Industries Inc.", "class": "Reporting" },
-{ "entity": "net income", "class": "Aspectual" },
-{ "entity": "sales", "class": "Aspectual" },
-{ "entity": "margins", "class": "Intensional Action" },
-{ "entity": "demand", "class": "Intensional State" },
-{ "entity": "fiscal year", "class": "Aspectual" },
-{ "entity": "$1.65 a share", "class": "Perception" },
-{ "entity": "$155 million", "class": "Aspectual" },
-{ "entity": "$7.8 million", "class": "Intensional State" },
-{ "entity": "stock", "class": "Perception" }
-]
+[["said", "REPORTING"], ["expects", "OCCURRENCE"], ["fall", "OCCURRENCE"], ["below", "OCCURRENCE"], ["recent", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["$1.65", "OCCURRENCE"], ["a", "OCCURRENCE"], ["share", "OCCURRENCE"], ["The", "OCCURRENCE"], ["Rockford", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["of", "OCCURRENCE"], ["fasteners", "OCCURRENCE"], ["also", "OCCURRENCE"], ["said", "REPORTING"], ["posts", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["in", "OCCURRENCE"], ["current", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["year", "OCCURRENCE"], ["that", "OCCURRENCE"], ["are", "OCCURRENCE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["1989", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["$7.8", "OCCURRENCE"], ["million", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["$1.125", "OCCURRENCE"], ["to", "OCCURRENCE"], ["$13.625", "OCCURRENCE"]]

@@ -1,36 +1,18 @@
-[
-["GNR", "Date"],
-["Apreende", "Time"],
-["390 quilogramas", "Duration"],
-["Aveiro", "Date"],
-["37.500 euros", "Set"],
-["segunda-feira", "Date"],
-["Gafanha da Nazaré", "Date"],
-["Aveiro", "Date"],
-["77 quilos", "Duration"],
-["313 quilos", "Duration"],
-["condutor do veículo", "Date"],
-["mestre da embarcação", "Date"],
-["auto de contraordenação", "Time"],
-["37.500 euros", "Set"]
-]
+[["390 quilogramas", "Quantity"], ["37.500 euros", "Quantity"], ["segunda-feira", "Date"], ["Gafanha da Nazaré", "Location"], ["Aveiro", "Location"], ["77 quilos", "Quantity"], ["313 quilos", "Quantity"], ["auto de contraordenação", "Document"], ["37.500 euros", "Quantity"]]
 
-Explanation:
-The input text contains several temporal expressions that can be classified into four different classes: Date, Time, Duration, and Set.
+Note:
+The input text may contain other temporal expressions not listed in the example, such as "hoje", "ontem", "amanhã", "este mês", "este ano", etc.
 
-* "GNR" is a Date expression, referring to a specific point in time.
-* "Apreende" is a Time expression, referring to a specific moment in time.
-* "390 quilogramas" is a Durationexpression, referring to a quantity of time (weight).
-* "Aveiro" is a Date expression, referring to a specific location.
-* "37.500 euros" is a Set expression, referring to a specific amount of money.
-* "segunda-feira" is a Date expression, referring to a specific day of the week.
-* "Gafanha da Nazaré" is a Date expression, referring to a specific location.
-* "Aveiro" is a Date expression, referring to a specific location.
-* "77 quilos" is a Duration expression, referring to a quantity of time (weight).
-* "313 quilos" is a Duration expression, referring to a quantity of time (weight).
-* "condutor do veículo" is a Date expression, referring to a specific person.
-* "mestre da embarcação" is a Date expression, referring to a specific person.
-* "auto de contraordenação" is a Time expression, referring to a specific moment in time.
-* "37.500 euros" is a Set expression, referring to aspecific amount of money.
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
 
-The output is a list of pairs, where each pair contains the temporal expression and its corresponding class.
+The classes are:
+
+* Date: Representing a specific point in time, such as a day, month, or year.
+* Time: Representing a specific time of day or a time period, such as "14:30" or "15:00-16:00".
+* Duration: Representing a period of time, such as "1 hora" or "3 dias".
+* Set: Representing a set of time, such as "2020" or "2° semestre".
+* Quantity: Representing a quantity of something, such as "390 quilogramas" or "37.500 euros".
+* Location: Representing a location, such as "Gafanha da Nazaré" or "Aveiro".
+* Document: Representing a document, such as "auto de contraordenação" or "certificado".
+
+The goal is to extract and classify all time expressions in the input text, and return them in the output format.

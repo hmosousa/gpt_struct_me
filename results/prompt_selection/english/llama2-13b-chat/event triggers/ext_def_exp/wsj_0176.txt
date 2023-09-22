@@ -1,13 +1,14 @@
-["lays off employees", "centralizes staff functions", "incurs a charge", "earns revenue", "experiences tough business", "pays out for natural disasters"]
 
-Note:
-The output should be a list of strings, where each string represents an event trigger. The events are:
+JSON-parseable list of strings.
 
-* Laying off employees
-* Centralizing staff functions
-* Incurring a charge
-* Earning revenue
-* Experiencing tough business
-* Paying out for natural disasters
+Please note that the output should be in the format of a JSON object, with the keys being the event triggers and the values being the corresponding descriptions.
 
-Please let me know if you have any questions or need further clarification.
+Example:
+
+{
+"laid off": "Xerox Corp. has told employees in its Crum amp Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff.",
+"cost-cutting move": "A spokeswoman for Crum amp Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.",
+"charge": "The move would result in an after-tax charge of less than $4 million to be spread over the next three quarters.",
+"earnings": "Earnings at Xerox's financial-services operations actually rose slightly, but that was largely because capital gains at Crum amp Forster offset Hurricane Hugo payments and the reserves set up to cover future payments.",
+"tough business": "Property/casualty insurance has been a tough business in recent quarters, as pricing has been cutthroat and natural disasters such as Hurricane Hugo and the California earthquake have resulted in huge payments."
+}

@@ -1,32 +1,13 @@
-[
-["GNR", "State"],
-["Aveiro", "Location"],
-["atum-rabilho", "Aspectual"],
-["390 quilogramas", "Quantity"],
-["cumprimento das regras", "Reporting"],
-["descida", "Perception"],
-["embarcação de pesca", "Intensional Action"],
-["mestre da embarcação", "Agent"],
-["condutor do veículo", "Agent"],
-["coima", "Intensional State"],
-["37.500 euros", "Quantity"],
-["higiossanitário", "Aspectual"],
-["solidariedade social", "Intensional State"]
-]
+[["apreendeu", "I_Action"], ["atum-rabilho", "Occurrence"], ["captura", "Occurrence"], ["interdita", "State"], ["coima", "State"], ["pesca", "Occurrence"], ["costeira", "Location"], ["Gafanha", "Location"], ["Nazaré", "Location"], [" Guarda", "Organization"], ["fiscalização", "Occurrence"], ["regras", "State"], ["descarga", "Occurrence"], ["transporte", "Occurrence"], ["comercialização", "Occurrence"], ["primeira venda", "Occurrence"], ["pescado", "Occurrence"], ["higiossanitário", "Aspectual"], ["consumo", "State"], ["doado", "I_Action"], ["instituição", "Organization"]]
 
-Explanation:
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
 
-* GNR is a state (entity) and "apreende" is an occurrence (event trigger)
-* Aveiro is a location (entity)
-* atum-rabilho is an aspectual (event trigger)
-* 390 quilogramas is a quantity (event trigger)
-* cumprimento das regras is a reporting (eventtrigger)
-* descida is a perception (event trigger)
-* embarcação de pesca is an intensional action (event trigger)
-* mestre da embarcação and condutor do veículo are agents (entities)
-* coima is an intensional state (event trigger)
-* 37.500 euros is a quantity (event trigger)
-* higiossanitário is an aspectual (event trigger)
-* solidariedade social is an intensional state (event trigger)
+* I_Action: Intensional Action
+* I_State: Intensional State
+* Occurrence: Occurrence
+* Aspectual: Aspectual
+* Reporting: Reporting
+* State: State
 
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+The task is to extract and classify all event triggers in the input text. The event triggers are the words or phrases that indicate an event or action is taking place. The classes are based on the types of events or actions described in the text.

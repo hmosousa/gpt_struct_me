@@ -1,28 +1,8 @@
-[
-{
-"participants": [
-{
-"entity": "Homem",
-"class": "Person"
-},
-{
-"entity": "Mercado de Arroios",
-"class": "Location"
-},
-{
-"entity": "PSP",
-"class": "Organization"
-},
-{
-"entity": "Comando Metropolitano de Lisboa",
-"class": "Organization"
-},
-{
-"entity": "Suspeito",
-"class": "Person"
-}
-]
-]
+	[["um homem", "Per"], ["29 anos", "Age"], ["Lisboa", "Loc"], ["mercado de Arroios", "Fac"], ["rua Ângela Pinto", "Loc"], ["10:54", "Time"], ["um café", "Fac"], ["ajuda", "Per"], ["desentendimento", "Other"], ["dois indivíduos", "Per"], ["uma arma branca", "Obj"], ["um", "Per"], ["o suspeito", "Per"], ["Avenida Almirante Reis", "Loc"], ["tentativa de fuga", "Other"], ["a Polícia Judiciária", "Org"], ["o crime", "Per"], ["se tratar", "Other"]]
+
 
 Note:
-The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are: "um homem", "29 anos", "Lisboa", "mercado de Arroios", "rua Ângela Pinto", "10:54", "um café", "ajuda", "desentendimento", "dois indivíduos", "arma branca", "um", "o suspeito", "Avenida Almirante Reis", "tentativa de fuga", "a Polícia Judiciária", "o crime", "se tratar".
+* The classes are: "Per" (person), "Age" (age), "Loc" (location), "Fac" (facility), "Time" (time), "Other" (other).

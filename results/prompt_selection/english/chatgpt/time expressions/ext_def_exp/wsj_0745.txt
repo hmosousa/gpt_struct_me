@@ -1,1 +1,1 @@
-["last week", "yesterday", "Tuesday", "late trading", "Dec. 31, 1990", "this week", "during British Petroleum Co.'s #2.5 billion ( $4 billion ) takeover of Britoil PLC in 1988", "Tuesday", "The end"]
+["last week", "yesterday", "Tuesday", "late trading", "Tuesday", "Dec. 31, 1990", "1984", "this week", "Tuesday"]

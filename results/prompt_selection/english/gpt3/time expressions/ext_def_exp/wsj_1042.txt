@@ -1,1 +1,1 @@
-["90 days", "one warrant", "three shares", "3.3 million", "1.1 million", "$5.50", "243,677", "one-third warrant"]
+["90 days", "3.3 million", "1.1 million", "243,677", "one-third"]

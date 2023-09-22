@@ -1,13 +1,32 @@
-["Autoridades judiciais fazem buscas em casa de motorista de Maradona", "As autoridades judiciais argentinas realizaram hoje buscas no apartamento de Maximiliano Trimarchi, motorista de Diego Maradona, no âmbito da investigação por alegada negligência na morte do ex-futebolista argentino, ocorrida em 25 de novembro.
-Em comunicado, a procuradoria-geral de San Isidro, refere que as buscas, durante as quais foi apreendido o telemóvel do motorista, foram ordenadas depois de saber que Trimarchi estava junto de Maradona quando este morreu, na sua casa, em San André, na província de Buenos Aires.
-A polícia já realizou perícias aos telemóveis de Leopoldo Luque, médico de Maradona, que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro, e da psiquiatra Agustina Cosachov.
-Dois dias após a morte de Maradona, de 60 anos, a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista."]
+["autoridades", "judiciais", "fazem", "buscas", "casa", "motorista", "Maradona", "Autoridades", "judiciais", "argentinas", "realizaram", "hoje", "buscas", "apartamento", "Maximiliano", "Trimarchi", "motorista", "Diego", "Maradona", "ocorrida", "25", "novembro", "comunicado", "procuradoria", "geral", "San", "Isidro", "refere", "buscas", "apreendido", "telemóvel", "motorista", "polícia", "realizou", "perícias", "telemóveis", "Leopoldo", "Luque", "médico", "Maradona", "participou", "operação", "hematoma", "subdural", "início", "novembro", "justiça", "argentina", "abriu", "inquérito", "determinar", "negligência", "medical", "assistência", "antigo", "futebolista"]
 
-Explanation:
+Format:
+JSON-parseable list of strings.
 
-```python
-import re
+Input:
+"Covid-19: Brasil registra 1.000 mortes em 24 horas
+O Brasil registou 1.000 mortes por covid-19 em 24 horas, segundo dados do Ministério da Saúde.
+O número de mortes é o maior desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia."
 
-text = "Autoridades judiciais fazem buscas em casa de motorista de Maradona\nAs autoridades judiciais argentinas realizaram hoje buscas no apartamento de Maximiliano Trimarchi, motorista de Diego Maradona, no âmbito da investigação por alegada negligência na morte do ex-futebolista argentino, ocorrida em 25 de novembro.\nEm comunicado, a procuradoria-geral de San Isidro, refere que as buscas, durante as quais foi apreendido o telemóvel do motorista, foram ordenadas depois de saber que Trimarchi estava junto de Maradona quando este morreu, na sua casa, em San André, na província de Buenos Aires.\nA polícia já realizou perícias aos telemóveis de Leopoldo Luque, médico de Maradona, que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro, e da psiquiatra Agustina Cosachov.\nDois dias após a morte de Maradona, de 60 anos, a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista."
+Output:
+["Brasil", "registra", "mortes", "horas", "Brasil", "registou", "1.000", "mortes", "covid", "19", "24", "horas", "dados", "Ministério", "Saúde", "Brasil", "registra", "170.000", "mortes", "covid", "19", "início", "pandemia", "Brasil", "segundo", "país", "mortes", "covid", "19", "atrás", "Estados", "Unidos", "Brasil", "registra", "6.300.000", "casos", "covid", "19", "início", "pandemia"]
 
-pattern = re.compile(r'(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Brasil registra 1.000 mortes em 24 horas
+O Brasil registou 1.000 mortes por covid-19 em 24 horas, segundo dados do Ministério da Saúde.
+O número de mortes é o maior desde o início da pandemia.
+O Brasil registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia."

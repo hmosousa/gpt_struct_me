@@ -1,13 +1,6 @@
-[
-"protesto de mariscadores na Murtosa",
-"atropelada",
-"Mulher atropelada",
-"44 anos",
-"Torreira",
-"cais da Torreira",
-"GNR",
-"bivalves",
-"saída",
-"fugida",
-"identificado"
-]
+	["atropelada", "protesto", "mariscadores", "Murtosa", "distrito", "Aveiro", "casi", "Torreira", "ferimentos", "ligeiros", "transportada", "Hospital", "GNR", "fuga", "identificado", "detetadas", "percentagens", "coliformes", "fecais", "rias", "Aveiro"]
+
+Note:
+
+This task is to extract all event triggers from the given text. Event triggers are words or phrases that indicate a significant event or action has occurred, such as "protest", "accident", "death", "infection", "quarantine", "outbreak", etc.
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.

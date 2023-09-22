@@ -1,10 +1,1 @@
-[
-["Homem encontrado morto em cisterna de camião em Estarreja", "Occurrence"],
-["Um homem de 34 anos, funcionário da Transportadora J Amaral, em Estarreja, foi hoje encontrado morto no interior da cisterna de um camião", "Occurrence"],
-["O alerta foi dado pelas 09:56", "Reporting"],
-["o homem, que alegadamente estaria a fazer a manutenção da cisterna, encontrava-se desaparecido desde sábado", "State"],
-["A cisterna onde o funcionário da transportadora estava a trabalhar encontrava-se aberta", "State"],
-["o graduado, que não conseguiu determinar a causa da morte", "Perception"],
-["Ainda segundo a fonte da GNR compareceu no local a Delegada de Saúde e a Polícia Judiciária, que tomou conta da ocorrência", "Reporting"],
-["No local esteve também a Viatura Médica de Emergência e Reanimação de Aveiro, que fez o transporte do cadáver para o Hospital Infante D. Pedro", "Occurrence"]
-]
+[["encontrado", "Perception"], ["morto", "State"], ["cisterna", "State"], ["camião", "State"], ["disse", "Reporting"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["fazer", "I_Action"], ["manutenção", "State"], ["encontrava-se", "State"], ["desaparecido", "State"], ["cisterna", "State"], ["trabalhar", "I_Action"], ["encontrava-se", "State"], ["aberta", "State"], ["conseguiu", "I_Action"], ["determinar", "I_Action"], ["causa", "State"], ["morte", "State"], ["compareceu", "I_Action"], ["local", "State"], ["tomou", "I_Action"], ["conta", "State"], ["ocorrência", "Occurrence"], ["esteve", "Aspectual"], ["fez", "I_Action"], ["transporte", "I_Action"], ["cadáver", "State"], ["Hospital", "State"]]

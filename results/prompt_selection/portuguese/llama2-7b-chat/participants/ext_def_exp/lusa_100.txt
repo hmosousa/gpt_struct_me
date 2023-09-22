@@ -1,11 +1,5 @@
-[
-"ex-companheira",
-"homem",
-"Penafiel",
-"distrito do Porto",
-"GNR",
-"vítima",
-"botão de pânico",
-"teleassistência",
-"antecedentes criminais",
-"ilícitos"]
+["Violência doméstica", "Pulseira eletrónica", "homem detido", "Penafiel", "distrito do Porto", "ex-companheira", "42 anos", "suspeito", "violência física", "injúrias", "ameaças de morte", "GNR", "autoridade policial", "separação", "perseguir", "residência", "local de trabalho", "botão de pânico", "teleassistência", "antecedentes criminais", "ilícitos", "proibido de contactar a vítima"]
+
+
+Format:
+JSON-parseable list of strings.

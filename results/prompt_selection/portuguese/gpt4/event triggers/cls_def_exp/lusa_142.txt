@@ -1,15 +1,1 @@
-[
-["GNR detém suspeita de tráfico de droga", "Occurrence"],
-["apreende 12.300 doses de haxixe", "Occurrence"],
-["GNR deteve uma mulher", "Occurrence"],
-["mulher foi detida", "Occurrence"],
-["é hoje presente ao Tribunal Judicial de Beja", "Occurrence"],
-["aplicação de medidas de coação", "Occurrence"],
-["ação de patrulhamento", "Occurrence"],
-["demonstrou um comportamento nervoso", "State"],
-["ter sido abordada", "Occurrence"],
-["militares efetuaram uma busca à viatura", "Occurrence"],
-["uma revista à mulher", "Occurrence"],
-["apurar que tinha droga na sua posse", "Perception"],
-["apreender as 12.300 doses de haxixe", "Occurrence"]
-]
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico de droga", "Occurrence"], ["apreende", "I_Action"], ["doses", "Occurrence"], ["haxixe", "State"], ["deteve", "I_Action"], ["mulher", "State"], ["suspeitas", "State"], ["prática", "Occurrence"], ["crime", "Occurrence"], ["tráfico de droga", "Occurrence"], ["apreendeu", "I_Action"], ["doses", "Occurrence"], ["haxixe", "State"], ["divulgado", "Reporting"], ["detida", "State"], ["militares", "State"], ["Posto Territorial", "State"], ["presente", "State"], ["Tribunal Judicial", "State"], ["interrogatório", "Occurrence"], ["aplicação", "Occurrence"], ["medidas de coação", "State"], ["refere", "Reporting"], ["comunicado", "State"], ["força de segurança", "State"], ["decorrer", "Aspectual"], ["ação", "Occurrence"], ["patrulhamento", "Occurrence"], ["Estrada Nacional", "State"], ["vila", "State"], ["suspeita", "State"], ["viatura", "State"], ["demonstrou", "Perception"], ["comportamento nervoso", "State"], ["abordada", "State"], ["militares", "State"], ["efetuaram", "I_Action"], ["busca", "Occurrence"], ["viatura", "State"], ["revista", "Occurrence"], ["mulher", "State"], ["permitiu", "I_Action"], ["apurar", "I_Action"], ["droga", "State"], ["posse", "State"], ["apreender", "I_Action"], ["doses", "Occurrence"], ["haxixe", "State"], ["veículo", "State"], ["telemóvel", "State"]]

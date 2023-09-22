@@ -1,4 +1,1 @@
-[
-"17 horas",
-"hoje"
-]
+["hoje", "17 horas", "Vilarinhos dos Galegos", "Concelho de Mogadouro", "distrito de Bragança", "Bragança", "Macedo de Cavaleiros", "INEM"]

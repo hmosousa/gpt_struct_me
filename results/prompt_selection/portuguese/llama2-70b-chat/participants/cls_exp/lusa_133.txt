@@ -1,32 +1,38 @@
-[
-["GNR", "Organization"],
-["Aveiro", "Location"],
-["Gafanha da Nazaré", "Location"],
-["Guarda", "Organization"],
-["77 quilos de atum-rabilho", "Object"],
-["313 quilos de atum-rabilho", "Object"],
-["condutor do veículo", "Person"],
-["mestre da embarcação", "Person"],
-["auto de contraordenação", "Object"],
-["pescado apreendido", "Object"],
-["instituição de solidariedade social", "Organization"]
-]
+[["GNR", "Org"], ["Aveiro", "Loc"], ["390 quilogramas", "Other"], ["atum-rabilho", "Other"], ["cuja", "Other"], ["captura", "Other"], ["interdita", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["porto", "Fac"], ["pesca costeira", "Fac"], ["Gafanha da Nazaré", "Loc"], ["A", "Other"], ["ação", "Other"], ["fiscalização", "Other"], ["controle", "Other"], ["cumprimento", "Other"], ["regras", "Other"], ["descarga", "Other"], ["transporte", "Other"], ["comercialização", "Other"], ["regime", "Other"], ["primeira venda", "Other"], ["pescado fresco", "Other"], ["militares", "Org"], ["veículo", "Other"], ["77 quilos", "Other"], ["embarcação", "Fac"], ["313 quilos", "Other"], ["mestre", "Per"], ["condutor", "Per"], ["auto de contraordenação", "Other"], ["facto", "Other"], ["transporte", "Other"], ["captura", "Other"], ["espécie", "Other"], ["infração", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["pescado", "Other"], ["apreendido", "Other"], ["controle higiossanitário", "Other"], ["próprio", "Other"], ["consumo", "Other"], ["instituição", "Org"], ["solidariedade social", "Other"]]
 
 Note:
-The input text is in Portuguese.
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+Note that the task is not to identify the relationships between entities, but rather to classify each entity independently. For example, in the first input, "o Ministério do Interior" is classified as an organization, and "a Geórgia" is classified as a location.
 
-* Person: A person or group of people.
-* Organization: A company, organization, or institution.
-* Object: A physical object or entity.
-* Location: A geographical location.
-* Nature: A natural entity, such as an animal or plant.
-* Facility: A building or structure.
-* Other: Any entity that does not fit into the above categories.
+Also, note that the task is not to extract all possible entities from the text, but rather to classify the entities that are mentioned as participants in the text. For example, in the first input, "a televisão" is not classified as a participant, since it is not mentioned as a participant in the text.
 
-The output should be a list of entities, where each entity is represented as a list with two elements: the entity itself, and its corresponding class.
+The classes used in the output are:
 
-For example, in the given input text, "GNR" is a person, so it should be classified as such, and "Aveiro" is a location, so it should be classified as such. "77 quilos de atum-rabilho" is an object, and "condutor do veículo" is a person.
+* Per: Person
+* Org: Organization
+* Obj: Object
+* Loc: Location
+* Nature: Nature
+* Fac: Facility
+* Other: Other
 
-The task is to classify all entities in the input text into the corresponding classes.
+The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class. For example:
+
+[
+["John Doe", "Per"],
+["Acme Inc.", "Org"],
+["the sun", "Nature"],
+["the moon", "Nature"],
+["the earth", "Loc"],
+["a tree", "Obj"],
+["a bird", "Per"],
+["a car", "Obj"],
+["a house", "Fac"],
+["a book", "Obj"],
+["a pen", "Obj"]
+]
+
+The input and output files are in the format of plain text. The input file contains the text to be processed, and the output file contains the classified entities.
+
+The task is to write a program that takes the input file as input and produces the output file as output. The program should be written in Python.

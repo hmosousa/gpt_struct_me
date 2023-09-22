@@ -1,1 +1,2 @@
-["intends to seek control", "didn't elaborate", "currently holds", "reported a fourth-quarter loss", "viewed Mr. Pattison's decision", "planned bid for control"]
+
+JSON-parseable list of strings.

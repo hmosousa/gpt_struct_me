@@ -1,1 +1,1 @@
-["90 days", "1.1 million", "3.3 million", "1 share", "5.50", "243,677", "1 warrant", "3 shares"]
+["one warrant for each three shares of common stock", "90 days", "one share of common stock at $5.50", "1.1 million Class C warrants", "243,677 of the Class C warrants", "one-third warrant for each warrant exercised"]

@@ -1,39 +1,21 @@
-[
-["Homem", "State"],
-["morre", "Occurrence"],
-["desentendimento", "Intensional Action"],
-["esfaqueado", "Intensional State"],
-["nas costas", "Aspectual"],
-["junto ao mercado de Arroios", "Location"],
-["Lisboa", "Location"],
-["hoje", "Time"],
-["PSP", "Reporting"],
-["Comando Metropolitano de Lisboa", "Reporting"],
-["Cometlis", "Reporting"],
-["árma branca", "Aspectual"],
-["suspeito do crime", "Intensional State"],
-["detido", "Occurrence"],
-["Avenida Almirante Reis", "Location"],
-["fuga", "Intensional Action"],
-["Polícia Judiciária", "Reporting"],
-["crime de homicídio", "Intensional State"]
-]
+[["Homem", "State"], ["morre", "Occurrence"], ["esfaqueado", "Occurrence"], ["costas", "State"], ["mercado", "State"], ["Arroios", "State"], ["Lisboa", "State"], ["desentendimento", "Occurrence"], ["informou", "Reporting"], ["PSP", "State"], ["Comando", "State"], ["Metropolitano", "State"], ["Lisboa", "State"], ["Cometlis", "State"], ["esfaqueamento", "Occurrence"], ["terá", "Aspectual"], ["zona", "State"], ["costas", "State"], ["suspeito", "State"], ["crime", "State"], ["detido", "Occurrence"], ["Avenida", "State"], ["Almirante", "State"], ["Reis", "State"], ["tentativa", "Occurrence"], ["fuga", "Occurrence"], ["polícia", "State"], ["PJ", "State"], ["acionada", "Occurrence"], ["homicídio", "State"], ["local", "State"], ["crime", "State"], ["preservado", "Occurrence"], ["forças", "State"], ["policiais", "State"], ["fitas", "State"], ["segurança", "State"]]
 
-Explanation:
+Please note that the input and output are in Portuguese.
 
-* "Homem" is a State entity because it refers to a person's death.
-* "morre" is an Occurrence entity because it indicates anevent happening.
-* "desentendimento" is an Intensional Action entity because it refers to the action of someone getting into a fight.
-* "esfaqueado" is an Intensional State entity because it refers to the state of being stabbed.
-* "nas costas" is an Aspectual entity because it describes the location of the stabbing.
-* "junto ao mercado de Arroios" and "Lisboa" are Location entities because they describe the location of the event.
-* "hoje" is a Time entity because it indicates when the event happened.
-* "PSP" and "Comando Metropolitano de Lisboa" are Reporting entities because they are the sources of the information.
-* "Cometlis" is also a Reporting entity because it is the name of the Comando Metropolitano de Lisboa.
-* "árma branca" is an Aspectual entity because it describes the type of weapon used.
-* "suspeito do crime" is an Intensional State entity because it refers to the state of being a suspect in a crime.
-* "detido" is an Occurrence entity because it indicates an event happening.
-* "Avenida Almirante Reis" is a Location entity because it describes the location where the suspect was detained.
-* "fuga" is an Intensional Action entity because it refers to the action of trying to escape.
-* "Polícia Judiciária" is a Reporting entity because it is the name of the police department investigating the crime.
-* "crime de homicídio" is an Intensional State entity because it refers to the state of being a homicide victim.
+Your task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate a specific event or action has occurred or will occur. They can be verbs, nouns, adjectives, or adverbs that describe the event or action.
+
+For example, in the first input text, "pediu" (asked) is an event trigger that indicates the act of asking for something. "Desculpa" (apology) is also an event trigger that indicates the act of apologizing. "Erros" (errors) is an event trigger that indicates the existence of errors.
+
+In the second input text, "Homem" (man) is a state trigger that indicates the existence of a man. "Morre" (dies) is an event trigger that indicates the act of dying. "Esfaqueado" (stabbed) is an event trigger that indicates the act of stabbing. "Costas" (back) is a state trigger that indicates the location of the stabbing.
+
+Your output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class. The class can be one of the following:
+
+* State: Indicates the state of something or someone.
+* Occurrence: Indicates an event or action that has occurred or will occur.
+* Reporting: Indicates the act of reporting or describing an event or action.
+* Perception: Indicates the perception or observation of an event or action.
+* Aspectual: Indicates the aspect or nature of an event or action.
+* Intensional Action: Indicates the intention or purpose behind an event or action.
+* Intensional State: Indicates the state or condition of something or someone that is intended or desired.
+
+Note that some words or phrases may have multiple possible classes, depending on the context in which they are used. Your task is to determine the most appropriate class for each event trigger in the given text.

@@ -1,41 +1,21 @@
-[
-{
-"entity": "um homem de 69 anos",
-"class": "Set"
-},
-{
-"entity": "restaurante em Cajados",
-"class": "Set"
-},
-{
-"entity": "Palmela",
-"class": "Set"
-},
-{
-"entity": "concelho de Palmela",
-"class": "Set"
-},
-{
-"entity": "GNR",
-"class": "Set"
-},
-{
-"entity": "hospital de São Bernardo",
-"class": "Set"
-},
-{
-"entity": "Setúbal",
-"class": "Set"
-},
-{
-"entity": "Comando Distrital de Operações de Socorro",
-"class": "Set"
-},
-{
-"entity": "bombeiros da corporação de Águas de Moura",
-"class": "Set"
-}
-]
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
 
-Note:
-The output is a list of JSON objects, where each object represents a temporal expression and has two fields: "entity" and "class". The "entity" field contains the name of the entity expressed by the temporal expression, and the "class" field contains the class of the entity according to the definition provided.
+Explanation:
+
+In this input, we have the following time expressions:
+
+* "em menos de uma semana" (Duration)
+* "sábado" (Date)
+* "setembro" (Time)
+* "final do ano" (Time)
+
+These time expressions are classified as follows:
+
+
+* "em menos de uma semana" is classified as Duration, because it refers to a period of time shorter than a week.
+* "sábado" is classified as Date, because it refers to a specific day of the week.
+* "setembro" is classified as Time, because it refers to a month.
+* "final do ano" is classified as Time, because it refers to the end of the year.
+
+
+Note that the input also contains other linguistic elements that are not time expressions, such as "garrafa", "restaurante", "proprietário", "estabelecimento", "alcoólicas", "via pública", "Comando Distrital de Operações de Socorro", "bombeiros", and "corporação de Águas de Moura". These elements are not included in the output.

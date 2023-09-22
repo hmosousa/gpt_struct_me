@@ -1,1 +1,1 @@
-["recognized the money-fund concept as one of the significant events of the past century", "the creation of the money fund as one of the 10 most significant events in the world of finance in the 20th century", "the Reserve Fund, America's first money fund", "the creators of the money-fund concept, Harry Brown and myself", "innovated telephone redemptions, daily dividends, total elimination of share certificates and the constant $1 pershare pricing"]
+["recognized", "listed", "named", "innovated", "thought out", "result"]

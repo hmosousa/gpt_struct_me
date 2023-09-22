@@ -1,11 +1,24 @@
-["GNR detém dois homens por tráfico de droga em Sines", "A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+["GNR", "Sines", "Setúbal", "tráfico de droga", "a GNR", "a Guarda Nacional Republicana", "a detenção", "os dois suspeitos", "um local", "o concelho de Sines", "movimentações", "suspeitas", "o comando territorial", "Setúbal", "a GNR", "a operação", "1.570 doses de heroína", "103 doses de cocaína", "844 euros", "numerário", "um veículo", "quatro telemóveis", "os detidos", "o Tribunal Judicial", "Santiago do Cacém", "primeiro interrogatório judicial", "eventuais", "medidas de coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém dois homens por tráfico de droga em Sines
+A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
 Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
 “Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR.
 Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis.
-Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."]
+Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."
 
-Explanation:
+Output:
+["GNR", "Sines", "Setúbal", "tráfico de droga", "a GNR", "a Guarda Nacional Republicana", "a detenção", "os dois suspeitos", "um local", "o concelho de Sines", "movimentações", "suspeitas", "o comando territorial", "Setúbal", "a GNR", "a operação", "1.570 doses de heroína", "103 doses de cocaína", "844 euros", "numerário", "um veículo", "quatro telemóveis", "os detidos", "o Tribunal Judicial", "Santiago do Cacém", "primeiro interrogatório judicial", "eventuais", "medidas de coação"]
 
-```
+Format:
+JSON-parseable list of strings.
 
-```
+Input:
+"GNR detém dois homens por tráfico de droga em Sines
+A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
+“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da

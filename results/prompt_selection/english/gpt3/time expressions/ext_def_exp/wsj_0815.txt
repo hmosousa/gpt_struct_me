@@ -1,1 +1,1 @@
-["second", "minute", "hour", "day", "week", "month", "year"]
+["DIG Acquisition Corp.", "32-a-share", "Rose Partners Limited Partnership", "executive vice president", "individual units"]

@@ -1,6 +1,1 @@
-[
-["the third quarter", "Set"],
-["the year-ago third quarter", "Set"],
-["the next two years", "Duration"],
-["fiscal 1989", "Date"]
-]
+[["the third quarter", "DATE"], ["the year-ago third quarter", "DATE"], ["the next two years", "DURATION"], ["fiscal 1989", "DATE"]]

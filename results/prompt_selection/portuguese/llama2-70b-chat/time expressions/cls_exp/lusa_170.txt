@@ -1,14 +1,12 @@
-[
-["segunda-feira", "Date"],
-["12:00 locais", "Time"],
-["13:00 em Lisboa", "Time"],
-["62 anos", "Duration"],
-["já cadáver", "Set"]
-]
+[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["62 anos", "Duration"], ["hoje", "Date"], ["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["hoje", "Date"]]
 
-Explanation:
+Note:
+The input text is in Portuguese.
 
-* "segunda-feira" is classified as a Date.
-* "12:00 locais" and "13:00 em Lisboa" are classified as Times.
-* "62 anos" is classified as a Duration.
-* "já cadáver" is classified as a Set (a set of states, in this case, "cadáver").
+Hint:
+You can use the following resources to help you with the task:
+
+* Portuguese date and time expressions: <https://www.linguaedge.com/pt-PT/lingua-edge-translation-services/portuguese-date-and-time-expressions/>
+* Portuguese duration expressions: <https://www.linguaedge.com/pt-PT/lingua-edge-translation-services/portuguese-duration-expressions/>
+
+You can also use any other resource you find helpful.

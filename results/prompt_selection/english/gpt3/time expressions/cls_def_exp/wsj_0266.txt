@@ -1,1 +1,1 @@
-[["Oct. 23", "Date"], ["two years ago", "Duration"], ["10 most significant events", "Set"], ["daily dividends", "Time"], ["constant $1 pershare pricing", "Time"]]
+[["Oct. 23", "DATE"], ["two years ago", "DURATION"], ["10 most significant events", "SET"], ["20th century", "DATE"], ["daily dividends", "SET"], ["$1 pershare pricing", "SET"], ["The Reserve Fund", "SET"]]

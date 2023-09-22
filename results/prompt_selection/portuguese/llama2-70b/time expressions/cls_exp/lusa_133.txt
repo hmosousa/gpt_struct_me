@@ -1,1 +1,1 @@
-[["29/06/2018","Date"], ["segunda-feira","Time"], ["77 quilos","Duration"], ["313 quilos","Set"]]
+[["segunda-feira", "Date"], ["2 nov 2020", "Time"]]

@@ -1,20 +1,10 @@
-[
-["Homem de 48 anos", "Date"],
-["hoje", "Time"],
-["17 horas", "Time"],
-["48 anos", "Date"],
-["trata-se", "Duration"],
-["acidente", "Set"]
-]
+[["hoje", "Date"], ["cerca das 17 horas", "Time"], ["48 anos", "Duration"], ["30 nov 2020", "Date"], ["setembro", "Time"], ["final do ano", "Time"]]
 
-Explanation:
-The input text contains several time expressions:
+Note:
 
-* "Homem de 48 anos" - This is a date expression, as it refers to a person's age.
-* "hoje" - This is a time expression, as it means "today".
-* "17 horas" - This is a time expression, as it refers to a specific time of day.
-* "48 anos" - This is a date expression, as it refers to a person's age.
-* "trata-se" - This is a duration expression, as it means "it takes place" or "it happens".
-* "acidente" - This is a set expression, as it refers to a specific event or situation.
+* Dates should be in the format "dd/mm/yyyy"
+* Times should be in the format "HH:MM"
+* Durations should be in the format "X dias/semanas/anos"
+* Set should be in the format "epoca/ano"
 
-The output is a JSON-parseable list where each element is a list with two strings: the first string is theentity (time expression), and the second string is the class (Date, Time, Duration, or Set).
+Please note that the input text is in Portuguese.

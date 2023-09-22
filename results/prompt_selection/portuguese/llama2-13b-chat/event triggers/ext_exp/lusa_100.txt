@@ -1,17 +1,1 @@
-["violência doméstica", "pulseira eletrónica", "homem detido", "penafiel", "suspeito de violência física", "injúrias", "ameaças de morte", "ex-companheira", "separação", "perseguição", "botão de pânico", "teleassistência", "antecedentes criminais"]
-
-Explanation:
-
-* "violência doméstica" is an event trigger because it is a keyword that indicates that the article is about domestic violence.
-* "pulseira eletrónica" is an event trigger because it is a specific type of device that is used to monitor the suspect.
-* "homem detido" is an event trigger because it indicates that the suspect has been detained by the authorities.
-* "penafiel" is an event trigger because it is the location where the suspect was detained.
-* "suspeito de violência física" is an event trigger because it indicates that the suspect is suspected of committing physical violence.
-* "injúrias" is an event triggerbecause it indicates that the suspect is suspected of committing verbal abuse.
-* "ameaças de morte" is an event trigger because it indicates that the suspect is suspected of making threats of violence.
-* "ex-companheira" is an event trigger because it indicates that the victim and suspect were in a previous relationship.
-* "separação" is an event trigger because it indicates that the victim and suspect have separated.
-* "perseguição" is an event trigger because it indicates that the suspect has been pursuing the victim.
-* "botão de pânico" is an event trigger because it is a specific type of device that is used to alert authorities in case of an emergency.
-* "teleassistência" is an event trigger because it indicates that the victim has been using a teleassistance device to alert authorities.
-* "antecedentes criminais" is an event trigger because it indicates that the suspect has a criminal record.
+[ "colocado", "suspeito", "violência", "injúrias", "ameaças", "morte", "ex-companheira", "informou", "fonte", "GNR", "perseguir", "residência", "trabalho", "botão", "pânico", "teleassistência", "antecedentes", "criminais", "ilícitos", "ficou", "proibido", "contactar" ]

@@ -1,1 +1,1 @@
-[["Oct. 23", "Date"], ["two years ago", "Duration"], ["the past century", "Duration"], ["the 20th century", "Duration"], ["America's first money fund", "Set"], ["telephone redemptions", "Set"], ["daily dividends", "Set"], ["total elimination of share certificates", "Set"], ["the constant $1 pershare pricing", "Set"], ["the part of the SEC", "Set"]]
+[["Oct. 23", "DATE"], ["about two years ago", "DURATION"], ["10 most significant events", "SET"], ["20th century", "DATE"], ["daily", "SET"], ["$1 pershare", "SET"], ["some inadvertence", "SET"]]

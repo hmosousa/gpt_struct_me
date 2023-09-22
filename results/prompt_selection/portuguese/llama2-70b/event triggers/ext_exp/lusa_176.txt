@@ -1,1 +1,1 @@
-["homem", "morre", "ciclomotor", "colhido", "veículo", "ligeiro", "setubal"]
+["morrem", "ciclomotores", "colhidos", "veículo", "conduziu", "ter", "colhido", "veículo", "nacional", "zona", "mitrena", "setubal", "disseram", "fontes", "psp", "protecao civil", "fonte", "comando", "distrito", "operacoes", "socorros", "indicaram", "agencia", "lusas", "declarar", "corpo", "encaminhar", "servico", "medicina", "legal", "bernardo", "setubal", "alerta", "dado", "palmela", "sapadores", "viaturas", "emergencias", "reanimacao", "total", "elementos", "apoiadas", "veiculos"]

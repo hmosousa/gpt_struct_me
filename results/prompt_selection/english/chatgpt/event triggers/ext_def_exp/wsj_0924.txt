@@ -1,1 +1,1 @@
-["adopted", "took effect", "acquires", "triggered", "allow", "buy", "receive", "posted", "ended", "had", "compared with"]
+["adopted", "took", "pending", "triggered", "acquires", "issued", "triggered", "allow", "buy", "receive", "posted", "ended", "had", "compared"]

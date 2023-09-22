@@ -1,13 +1,1 @@
-[
-"90 days",
-"one share",
-"$5.50",
-"one-third"
-]
-
-Explanation:
-
-* "90 days" is a time expression indicating the duration of the warrant's exercise period.
-* "one share" is a time expression indicating the number of shares that can be purchased with one warrant.
-* "$5.50" is a time expression indicating the price at which the shares can be purchased.
-* "one-third" is a time expression indicating the ratio of warrants to be issued for each warrant exercised.
+["Jan. 13", "Thursday", "daily", "Thursday", "03/06/1998 13:19:00", "Friday", "10-hour", "Friday", "1990", "over a week", "Feb. 23", "next week", "Thursday", "nearly two months", "Friday", "Previously"]

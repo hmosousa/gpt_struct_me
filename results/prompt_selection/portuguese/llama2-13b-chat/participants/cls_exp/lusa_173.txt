@@ -1,31 +1,12 @@
-[
-["Homem", "Person"],
-["Transportadora J Amaral", "Organization"],
-["Estarreja", "Location"],
-["cisterna de camião", "Object"],
-["GNR de Aveiro", "Organization"],
-["Lusa", "Organization"],
-["Joaquim Rebelo", "Person"],
-["Delegada de Saúde", "Person"],
-["Polícia Judiciária", "Organization"],
-["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"]
-]
-
-Explanation:
-
-* "Homem" is a person.
-* "Transportadora J Amaral" is an organization.
-* "Estarreja" is a location.
-* "cisterna de camião" is an object.
-* "GNR de Aveiro" is an organization.
-* "Lusa" is an organization.
-* "Joaquim Rebelo" is a person.
-* "Delegada de Saúde" is a person.
-* "Polícia Judiciária" is an organization.
-* "Viatura Médica de Emergência e Reanimação de Aveiro" is an organization.
+[["um homem", "Per"], ["de 34 anos", "Per"], ["um funcionário", "Per"], ["da Transportadora J Amaral", "Org"], ["em Estarreja", "Loc"], ["foi hoje encontrado morto", "Other"], ["no interior da cisterna", "Loc"], ["de um camião", "Obj"], ["disse à Lusa", "Org"], ["fonte da GNR de Aveiro", "Org"], ["o alerta", "Other"], ["foi dado pelas 09:56", "Other"], ["encontrava-se desaparecido", "Other"], ["desde sábado", "Other"], ["acrescentou à Lusa", "Org"], ["o comandante dos Bombeiros", "Org"], ["de Estarreja", "Loc"], ["Joaquim Rebelo", "Per"], ["a cisterna", "Fac"], ["onde", "Loc"], ["o funcionário", "Per"], ["estava a trabalhar", "Other"], ["encontrava-se aberta", "Other"], ["acrescentou", "Org"], ["o graduado", "Per"], ["que", "Other"], ["não conseguiu determinar", "Other"], ["a causa da morte", "Other"], ["Ainda", "Other"], ["segundo", "Other"], ["a fonte da GNR", "Org"], ["compareceu no local", "Other"], ["a Delegada de Saúde", "Org"], ["e a Polícia Judiciária", "Org"], ["que", "Other"], ["tomou conta da ocorrência", "Other"], ["No local", "Loc"], ["esteve também", "Other"], ["a Viatura Médica", "Org"], ["de Emergência e Reanimação", "Other"], ["de Aveiro", "Loc"], ["que", "Other"], ["fez o transporte", "Other"], ["do cadáver", "Other"], ["para o Hospital", "Other"], ["Infante D. Pedro", "Loc"]]
 
 Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
 
-* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
-* The entities are extracted from the text using named entity recognition techniques.
-* The classes are assigned based on the type of entity. For example, "Homem" is a person, "Transportadora J Amaral" is an organization, etc.
+* Per: Person
+* Org: Organization
+* Fac: Facility
+* Loc: Location
+* Other: Other
+
+The task is to extract and classify all participants in the input text. The participants are the entities mentioned in the text, and the classes are the categories they belong to.

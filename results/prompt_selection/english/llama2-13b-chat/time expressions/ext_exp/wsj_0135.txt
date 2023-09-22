@@ -1,11 +1,4 @@
-[
-"year ending June 30, 1990",
-"current fiscal year",
-"fiscal 1989"
-]
+["1990", "1989", "13.625", "1.65", "1.125", "7.8 million", "fiscal year", "current fiscal year", "recent analyst's estimate", "fiscal 1989 sales", "fiscal 1989", "yesterday", "over-the-counter trading"]
 
-Explanation:
-
-* "year ending June 30, 1990" is a time expression indicating the end of the company's fiscal year.
-* "current fiscal year" is a time expression indicating the current year the company is in.
-* "fiscal 1989" is a time expression indicating the previous year the company was in.
+Format:
+JSON-parseable list of strings.

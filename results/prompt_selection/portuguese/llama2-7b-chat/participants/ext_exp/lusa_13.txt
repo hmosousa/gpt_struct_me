@@ -1,7 +1,11 @@
 [
-"Autoridades judiciais",
-"Maximiliano Trimarchi",
-"Diego Maradona",
-"Leopoldo Luque",
-"Agustina Cosachov"
-]
+"Autoridades judiciais", "buscas", "apartamento", "Maximiliano Trimarchi", "Diego Maradona", "procuradoria-geral", "San Isidro", "telemóveis", "Leopoldo Luque", "Agustina Cosachov", "inquérito", "negligência médica", "assistência", "justiça argentina", "abriu", "dez", "anos", "determinar", "houve"]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a word or a phrase from the input text. The list is sorted alphabetically.

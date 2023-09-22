@@ -1,22 +1,4 @@
-[
-["Courtaulds", "Date"],
-["Courtaulds Textiles", "Set"],
-["next year's first quarter", "Duration"],
-["300 million", "Number"],
-["400 million", "Number"],
-["15 pence", "Number"],
-["362 pence", "Number"],
-["1.44 billion", "Number"],
-["50 million", "Number"],
-["980 million", "Number"]
-]
+[["Courtaulds", "DATE"], ["next year", "DATE"], ["first quarter", "DATE"], ["300 million", "NUMBER"], ["400 million", "NUMBER"], ["15 pence", "NUMBER"], ["362 pence", "NUMBER"], ["1.44 billion", "NUMBER"], ["5%", "PERCENTAGE"], ["10%", "PERCENTAGE"], ["March 31", "DATE"], ["last year", "DATE"], ["Australian", "NATIONALITY"], ["Kerry Packer", "PERSON"], ["Julia Blake", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
 
-Explanation:
-
-* "Courtaulds" is a Date entity.
-* "Courtaulds Textiles" is a Set entity.
-* "next year's first quarter" is a Duration entity.
-* "300 million" and "400 million" are Number entities.
-* "15 pence" and "362 pence" are Number entities.
-* "1.44 billion" is a Number entity.
-* "50 million" and "980 million" are Number entities.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

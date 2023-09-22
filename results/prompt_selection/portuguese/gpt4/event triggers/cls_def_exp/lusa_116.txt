@@ -1,11 +1,1 @@
-[
-["em estado grave", "State"],
-["ser atropelado", "Occurrence"],
-["disse à Lusa", "Reporting"],
-["ter sido assistido", "Occurrence"],
-["foi transportado", "Occurrence"],
-["acrescentou a fonte", "Reporting"],
-["O acidente ocorreu", "Occurrence"],
-["a prestar assistência", "Intensional Action"],
-["disse à Lusa", "Reporting"]
-]
+[["ficou", "State"], ["estado grave", "State"], ["atropelado", "Occurrence"], ["autocarro", "State"], ["disse", "Reporting"], ["assistido", "State"], ["transportado", "Occurrence"], ["Bombeiros", "State"], ["Hospital São João", "State"], ["acrescentou", "Reporting"], ["acidente", "Occurrence"], ["ocorreu", "Occurrence"], ["prestar assistência", "I_Action"], ["Bombeiros", "State"], ["Viatura Médica de Emergência e Reanimação", "State"], ["Ambulância de Suporte Imediato de Vida", "State"], ["GNR local", "State"], ["disse", "Reporting"]]

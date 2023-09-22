@@ -1,24 +1,169 @@
-[
-["Di Giorgio Corp.", "Date"],
-["continuing talks", "Duration"],
-["no agreement", "Duration"],
-["$32-a-share", "Set"],
-["DIG Acquisition Corp.", "Date"],
-["Rose Partners Limited Partnership", "Date"],
-["Robert Mellor", "Date"],
-["more money", "Set"]
-]
+[["Di Giorgio Corp.", "ORGANIZATION"], ["$32-a-share", "AMOUNT"], ["DIG Acquisition Corp.", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"], ["Robert Mellor", "PERSON"], ["executive vice president", "TITLE"], ["individual units", "UNIT"], ["others", "UNKNOWN"]]
 
 Note:
 The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
 
-Explanation:
+Note:
+The input text may contain more than one entity of the same class.
 
-* "Di Giorgio Corp." is a date entity and is classified as such.
-* "continuing talks" is a duration entity and is classified as such.
-* "no agreement" is a duration entity and is classified as such.
-* "$32-a-share" is a set entity and is classified as such.
-* "DIG Acquisition Corp." is a date entity and is classified as such.
-* "Rose Partners Limited Partnership" is a date entity and is classified as such.
-* "Robert Mellor" is a date entity and is classified as such.
-* "more money" is a set entity and is classified as such.
+Note:
+The input text may contain entities that are not in the training data.
+
+Note:
+The input text may contain misspelled entities.
+
+Note:
+The input text may contain entities with punctuation.
+
+Note:
+The input text may contain entities with numbers.
+
+Note:
+The input text may contain entities with special characters.
+
+Note:
+The input text may contain entities with multiple words.
+
+Note:
+The input text may contain entities with irregular capitalization.
+
+Note:
+The input text may contain entities with irregular spacing.
+
+Note:
+The input text may contain entities with irregular punctuation.
+
+Note:
+The input text may contain entities with irregular formatting.
+
+Note:
+The input text may contain entities with irregular word order.
+
+Note:
+The input text may contain entities with irregular tense.
+
+Note:
+The input text may contain entities with irregular mood.
+
+Note:
+The input text may contain entities with irregular voice.
+
+Note:
+The input text may contain entities with irregular person.
+
+Note:
+The input text may contain entities with irregular number.
+
+Note:
+The input text may contain entities with irregular gender.
+
+Note:
+The input text may contain entities with irregular animacy.
+
+Note:
+The input text may contain entities with irregular polarity.
+
+Note:
+The input text may contain entities with irregular reflexivity.
+
+Note:
+The input text may contain entities with irregular reciprocity.
+
+Note:
+The input text may contain entities with irregular causativity.
+
+Note:
+The input text may contain entities with irregular permissivity.
+
+Note:
+The input text may contain entities with irregular possibility.
+
+Note:
+The input text may contain entities with irregular necessity.
+
+Note:
+The input text may contain entities with irregular obligation.
+
+Note:
+The input text may contain entities with irregular prohibition.
+
+Note:
+The input text may contain entities with irregular permission.
+
+Note:
+The input text may contain entities with irregular suggestion.
+
+Note:
+The input text may contain entities with irregular command.
+
+Note:
+The input text may contain entities with irregular request.
+
+Note:
+The input text may contain entities with irregular proposal.
+
+Note:
+The input text may contain entities with irregular offer.
+
+Note:
+The input text may contain entities with irregular promise.
+
+Note:
+The input text may contain entities with irregular threat.
+
+Note:
+The input text may contain entities with irregular invitation.
+
+Note:
+The input text may contain entities with irregular greeting.
+
+Note:
+The input text may contain entities with irregular farewell.
+
+Note:
+The input text may contain entities with irregular apology.
+
+Note:
+The input text may contain entities with irregular congratulations.
+
+Note:
+The input text may contain entities with irregular thanks.
+
+Note:
+The input text may contain entities with irregular praise.
+
+Note:
+The input text may contain entities with irregular criticism.
+
+Note:
+The input text may contain entities with irregular compliment.
+
+Note:
+The input text may contain entities with irregular complaint.
+
+Note:
+The input text may contain entities with irregular excuse.
+
+Note:
+The input text may contain entities with irregular justification.
+
+Note:
+The input text may contain entities with irregular explanation.
+
+Note:
+The input text may contain entities with irregular clarification.
+
+Note:
+The input text may contain entities with irregular correction.
+
+Note:
+The input text may contain entities with irregular contradiction.
+
+Note:
+The input text may contain entities with irregular confirmation.
+
+Note:
+The input text may contain entities with irregular verification.
+
+Note:
+The input text may contain entities with irregular authentication

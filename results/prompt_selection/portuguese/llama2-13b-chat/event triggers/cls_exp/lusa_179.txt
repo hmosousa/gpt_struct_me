@@ -1,19 +1,17 @@
-[
-["Homem", "State"],
-["companheira", "Occurrence"],
-["MP", "Reporting"],
-["Polícia Judiciária", "Perception"],
-["vítima", "Aspectual"],
-["arguido", "Intensional Action"],
-["prostituir-se", "Intensional State"]
-]
+[["homem", "I_Action"], ["prisão", "State"], ["preventiva", "State"], ["indiciou", "Reporting"], ["MP", "Organization"], ["polícia", "Organization"], ["detido", "I_Action"], ["levado", "I_Action"], ["juiz", "Organization"], ["de", "Preposition"], ["instrução", "State"], ["revela", "Reporting"], ["vítima", "I_Person"], ["colocada", "I_Action"], ["instituição", "State"], ["de", "Preposition"], ["acolhimento", "State"], ["pessoas", "Noun"], ["sujeitas", "Verb"], ["crime", "Noun"], ["tráfico", "Noun"], ["exploração", "Noun"], ["sexual", "Adjective"], ["sequestro", "Noun"], ["violação", "Noun"]]
 
-Explanation:
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "homem", "vítima"), and the second string is the class (e.g. "I_Action", "I_Person"). The classes are:
 
-* "Homem" is a State entity, as it refers to the person who is the subject of the event.
-* "companheira" is an Occurrence entity, as it refers to the event of the woman being forced into prostitution.
-* "MP" is a Reporting entity, as it is the source of the information about the event.
-* "Polícia Judiciária" is a Perception entity, as it is the entity that perceives the event.
-* "vítima" is an Aspectual entity, as it refers to the aspect of the event that is being described (i.e. the woman being a victim of exploitation).
-* "arguido" is an Intensional Action entity, as it refers to theaction of the man in forcing the woman into prostitution.
-* "prostituir-se" is an Intensional State entity, as it refers to the state of the woman being forced into prostitution.
+* I_Action: actions performed by entities
+* I_Person: people or individuals
+* State: states or conditions
+* Occurrence: events or occurrences
+* Reporting: reporting or mentioning
+* Aspectual: aspectual or descriptive
+* Intensional Action: intentional actions
+* Intensional State: intentional states
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the input text "homem preso preventivamente", "prisão" is an event trigger indicating the occurrence of the action "prisão" (imprisonment).
+
+Please note that the output should be a list of lists, where each inner list contains two strings: the first string is the entity, and the second string is the class.

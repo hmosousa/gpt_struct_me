@@ -1,1 +1,14 @@
-["Mulher atropelada", "mariscadores", "Torreira", "Aveiro", "Bombeiros", "GNR", "condutor", "viatura", "ferimentos ligeiros", "hospital de Aveiro"]
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* "uma mulher" is a participant, but "44 anos" is not.
+* "informaram os Bombeiros e a GNR" is not a participant, but "Bombeiros" and "GNR" are.
+* "fonte da GNR" is not a participant, but "GNR" is.
+* "os pescadores" is a participant, but "tentaram evitar" is not.
+* "o senhor" is a participant, but "com a viatura" is not.
+* "segundo os Bombeiros" is not a participant, but "Bombeiros" is.
+* "a GNR referiu" is not a participant, but "GNR" is.
+* "os mariscadores" is a participant, but "da Torreira" is not.
+* "em protesto há mais de uma semana" is not a participant, but "mariscadores" is.

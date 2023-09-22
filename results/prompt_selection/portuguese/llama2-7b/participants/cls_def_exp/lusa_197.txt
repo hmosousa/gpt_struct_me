@@ -1,84 +1,20 @@
-[
-  ["Grua de camião", "Person"],
-  ["de 52 anos", "Person"],
-  ["morreu", "Person"],
-  ["hoje", "Person"],
-  ["sofreu", "Person"],
-  ["ferimentos", "Person"],
-  ["lígeiros", "Person"],
-  ["na", "Person"],
-  ["sequência", "Person"],
-  ["acidente", "Person"],
-  ["com", "Person"],
-  ["um", "Person"],
-  ["camião", "Person"],
-  ["que", "Person"],
-  ["derrubou", "Person"],
-  ["poste", "Person"],
-  ["de", "Person"],
-  ["eletricidade", "Person"],
-  ["na", "Person"],
-  ["Rua", "Person"],
-  ["da", "Person"],
-  ["Constituição", "Person"],
-  ["no", "Person"],
-  ["Porto", "Person"],
-  ["sobre", "Person"],
-  ["a", "Person"],
-  ["grua", "Person"],
-  ["do", "Person"],
-  ["camião", "Person"],
-  ["atingindo", "Person"],
-  ["o", "Person"],
-  ["homem", "Person"],
-  ["que", "Person"],
-  ["circulava", "Person"],
-  ["na", "Person"],
-  ["rua", "Person"],
-  ["a", "Person"],
-  ["vítima", "Person"],
-  ["transportada", "Person"],
-  ["com", "Person"],
-  ["vida", "Person"],
-  ["para", "Person"],
-  ["Hospital", "Person"],
-  ["de", "Person"],
-  ["Santo", "Person"],
-  ["António", "Person"],
-  ["acabou", "Person"],
-  ["por", "Person"],
-  ["morrer", "Person"],
-  ["a", "Person"],
-  ["estrutura", "Person"],
-  ["atingiu", "Person"],
-  ["o", "Person"],
-  ["funcionário", "Person"],
-  ["das", "Person"],
- ["bombas", "Person"],
-  ["de", "Person"],
-  ["gasolina", "Person"],
-  ["sofreu", "Person"],
-  ["ferimentos", "Person"],
-  ["lígeiros", "Person"],
-  ["na", "Person"],
-  ["sequência", "Person"],
-  ["acidente", "Person"],
-  ["com", "Person"],
-  ["um", "Person"],
-  ["camião", "Person"],
-  ["que", "Person"],
-  ["derrubou", "Person"],
-  ["poste", "Person"],
-  ["de", "Person"],
-  ["eletricidade", "Person"],
-  ["na", "Person"],
-  ["Rua", "Person"],
-  ["da", "Person"],
-  ["Constituição", "Person"],
-  ["no", "Person"],
-  ["Porto", "Person"],
-  ["sobre", "Person"],
-  ["a", "Person"],
-  ["grua", "Person"],
-  ["do", "Person"],
-  ["camião",
+[["Grua de camião", "Obj"], ["derrubou", "Per"], ["poste de iluminação", "Fac"], ["no Porto", "Loc"], ["e matou", "Per"], ["homem de 52 anos", "Per"], ["hoje", "Per"], ["um", "Per"], ["outro", "Per"], ["sofreu ferimentos", "Per"], ["ligeiros", "Per"], ["na sequência", "Per"], ["um camião", "Obj"], ["que", "Per"], ["derrubou", "Per"], ["um poste", "Fac"], ["de eletricidade", "Fac"], ["na Rua", "Loc"], ["da Constituição", "Loc"], ["de acordo", "Per"], ["com a fonte", "Org"], ["das Relações Públicas", "Org"], ["do Comando Metropolitano", "Org"], ["da PSP", "Org"], ["do Porto", "Loc"], ["o poste", "Fac"], ["de iluminação", "Fac"], ["atingindo", "Per"], ["o homem", "Per"], ["que", "Per"], ["circulava", "Per"], ["na rua", "Loc"], ["a vítima", "Per"], ["também", "Per"], ["foi", "Per"], ["transportada", "Per"], ["com vida", "Per"], ["para", "Loc"], ["o Hospital", "Loc"], ["de Santo António", "Loc"], ["mas", "Per"], ["acabou", "Per"], ["por morrer", "Per"], ["o acidente", "Per"], ["ocorreu", "Per"], ["cerca", "Per"], ["das", "Per"], ["07:50", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades francesas detêm 10 pessoas suspeitas de terrorismo
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 1

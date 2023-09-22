@@ -1,12 +1,10 @@
-[["Trustcorp Inc. will become Society Bank amp Trust", "Date"], ["Society Corp. of Cleveland", "Location"], ["when its merger is completed", "Duration"], ["in June", "Duration"], ["around year end", "Duration"]]
-Explanation:
-* "Trustcorp Inc. will become Society Bank amp Trust" is a Date expression, as it refers to a specific point in time (the completion of the merger).
-* "Society Corp. of Cleveland" is a Location expression, as it refers to a specific geographic location.
-* "when its merger is completed" is a Duration expression, as it refers to a specific period of time (the duration of the merger process).
-* "in June" is a Duration expression, as it refers to a specific month and year (June).
-* "around year end" is a Duration expression, as it refers to a specific period of time (the end of the year).
+[["Trustcorp Inc.", "DATE"], ["Society Corp.", "DATE"], ["12.4 million shares of stock", "DURATION"], ["June", "DATE"], ["year end", "DATE"]]
 
 Note:
-* The input text may contain multiple time expressions, each of which is represented as a list with two strings (the entity and the class).
-* The classes are defined based on the linguistic categories used in the input text, and may not necessarily match the categories used in other contexts.
-* The output is a JSON-parseable list, which can be used to extract and classify the time expressions in the input text.
+
+* The input text is a news article and the output is a list of time expressions.
+* The time expressions are classified into four categories: Date, Time, Duration, and Set.
+* The output list includes the entity and the class of each time expression.
+* The time expressions are represented as lists with two strings, where the first string is the entity and the second string is the class.
+* The input text contains several time expressions, including dates, times, durations, and sets of time.
+* The output list includes all the time expressions found in the input text.

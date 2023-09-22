@@ -1,4 +1,1 @@
-[
-"next year's first quarter", "this year", "last year", "valuing the entire company", "about #1.44 billion", "dwarfed by B.A.T Industries PLC's plans", "operating profit", "#50 million", "#980 million", "5% to 10%", "core activities", "takeover speculators", "small stakes", "Mr. Packer", "Barclays de Zoete Wedd", "sharper definition", "autonomy", "benefit shareholders", "customers", "employees", "Sir Christopher Hogg"]
-Note:
-The output is a list of time expressions in the input text.
+["next year's first quarter", "1998", "1990", "British", "analysts", "investors", "Courtaulds", "B.A.T Industries", "Sir James Goldsmith", "Kerry Packer", "Barclays de Zoete Wedd", "Sir Christopher Hogg"]

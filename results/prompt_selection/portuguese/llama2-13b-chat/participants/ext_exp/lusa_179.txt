@@ -1,1 +1,18 @@
-["Homem preso preventivamente em Penafiel", "mulher com quem vivia", "vítima"]
+
+List of strings, where each string is a participant in the text.
+
+Note:
+
+* Participants are identified based on their mention in the text, and may include people, organizations, locations, and objects.
+* Participants are listed in the order they appear in the text.
+* Participants may be mentioned multiple times in the text, and may be listed multiple times in the output.
+
+For example, if the text is:
+
+"The cat chased the mouse. The mouse ran into the hole."
+
+The output might be:
+
+["cat", "mouse", "hole"]
+
+In this case, the cat, mouse, and hole are all participants in the text. The cat chased the mouse, and the mouse ran into the hole.

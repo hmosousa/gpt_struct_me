@@ -1,1 +1,1 @@
-["Encontrado morto", "Manutenção da cisterna", "Desaparecido desde sábado", "Cisterna aberta", "Causa da morte não determinada"]
+[ "encontrado", "morto", "cisterna", "camião", "fazendo", "manutenção", "desaparecido", "sábado", "determinar", "causa", "morte", "compareceu", "Delegada", "Polícia", "Judiciária", "tomou", "controle", "local", "Viatura", "Médica", "Emergência", "Reanimação", "Hospital", "Infante", "D.", "Pedro"]

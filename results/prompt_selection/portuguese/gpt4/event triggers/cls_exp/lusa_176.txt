@@ -1,12 +1,1 @@
-[
-["morre", "Occurrence"],
-["conduzia", "Occurrence"],
-["ser colhido", "Occurrence"],
-["dito", "Reporting"],
-["indicou", "Reporting"],
-["declarado", "State"],
-["encaminhado", "Occurrence"],
-["alerta", "Reporting"],
-["dado", "Reporting"],
-["mobilizados", "Occurrence"]
-]
+[["morre", "Occurrence"], ["conduzia", "I_Action"], ["colhido", "Occurrence"], ["disseram", "Reporting"], ["indicou", "Reporting"], ["óbito", "Occurrence"], ["declarado", "Occurrence"], ["encaminhado", "I_Action"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["mobilizados", "I_Action"], ["bombeiros", "Occurrence"], ["veículos", "Occurrence"], ["apoiados", "I_Action"]]

@@ -1,23 +1,4 @@
-[
-"Certainly",
-"780.6 million Canadian dollars",
-"US$666 million",
-"Nov. 22",
-"C$8.5 million",
-"all cash",
-"all of the company",
-"MCA and the Bronfmans have agreed on a price",
-"$57 million",
-"then lease back to Cineplex its 18-screen theater complex in Universal City, Calif.",
-"$100 million",
-"loan financing",
-"Film House unit",
-"Michael Gifford",
-"British theater chain's total involvement",
-"Toronto Stock Exchange",
-"C$12.875",
-"C$16.40 level",
-"solid offer",
-"investors will need a solid offer before the stock begins to rise again"
-]
-Note: The output is a JSON-parseable list of strings. Each string is a time expression in the original text, formatted according to the specified format.
+["Cineplex Odeon Corp.", "Garth Drabinsky", "Myron Gottlieb", "Sandra Kolber", "MCA Inc.", "Charles Bronfman", "Jeffery Logsdon", "Rank Organisation PLC", "Michael Gifford", "Pierre Panet-Raymond"]
+
+Format:
+JSON-parseable list of strings.

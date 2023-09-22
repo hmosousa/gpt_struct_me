@@ -1,1 +1,13 @@
-["today", "night", "Washington", "Flight 800", "down", "plane", "exploded", "moment", "more", "hint", "trouble", "conversation", "controllers", "pilot", "Steven Snyder", "climb", "minute", "half", "later", "flight", "sixteen thousand feet", "something", "response", "details", "blew up", "fireballs", "water", "smoke"]
+["Washington", "today", "night", "down", "why", "plane", "exploded", "you", "cannot", "miss", "moment", "ABC", "'s", "Lisa", "Stark", "more.", "There", "no", "hint", "trouble", "last", "conversation", "controllers", "pilot", "Steven", "Snyder", "TWA", "eight", "hundred", "heavy", "climb", "one", "five", "thousand", "leavin", "-three", "thousand", "minute", "half", "later", "flight", "calls", "\"Ah", "we", "just", "saw", "explosion", "ahead", "sixteen", "feet", "something", "like", "that", ".It", "went", "down.\".", "controller", "Boston", "center", "tries", "raise", "TWA", "eight", "hundred", ".", "response.", "Later", "asks", "Eastwind", "pilot", "details.", "\"Ah", "yes", "sir", ".It-", "blew", "air", ",", "then", "two", "fireballs", "go", "water", ",", "small", ",", "smoke", ",", "coming", "up", "from", "that.", "point", "became", "contact", "plane", ",", "someone", "said", "prayer.", "\"TWA", "eight", "hundred", "center", "I", "him.", \"I", "God", "bless", "him.", "Stark", "news", "Washington"]
+"""
+import json
+import re
+import sys
+
+def main():
+   with open(sys.argv[1], 'r') as f:
+       data = json.load(f)
+
+   for d in data['data']:
+       text = d['text'].lower()
+       time_regex = r'([0-9]{4})|((?:[0-2][0-9])|(?:3[01]))/((?:[0-2][0-9])|(?:3[01])))|((?:[0-2][0-9])|(?:3[01]))\s*(?:(?:am)|(?:pm))|((?:[0-2][0-9])|(?:3[01]))\s+((?:[a-z]+)\s+(?:[0-9]{4}))|((?:[a-z]+)\s+(?:[0-9]{4})\s+(th|st|nd|rd))\s+of\s+(?:[a-z]+)|((?:[a-z]+)\s+(?:[0-9]{4})\s+\w{3,5}\s+of\s+(?:[a-z]+))|((?:[a-z]+)\s+(?:[0-9]{4})\s+of\s+(?:[a-z]+))|((?:[a-z]+)\s+(?:[0-9]{4})\s+of\s+(?:[a-z]+)\s+(?:[0-9]{4}))|((?:[a-z]+)\s+(?:[0-9]{4})\s+of\s+(?:[a-z]+)\s+(?:[0-9]{4})\s+(?:[

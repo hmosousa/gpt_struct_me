@@ -1,70 +1,14 @@
-[
-  ["GNR", "State"],
-  ["detém", "Occurrence"],
-  ["homens", "Occurrence"],
-  ["por", "Occurrence"],
-  ["tráfico", "Occurrence"],
-  ["de", "Occurrence"],
-  ["droga", "Occurrence"],
-  ["em", "Occurrence"],
-  ["Sines", "Occurrence"],
-  ["distrito", "Occurrence"],
-  ["Setúbal", "Occurrence"],
-  ["tendo", "Occurrence"],
-  ["apreendido", "Occurrence"],
-  ["1.673", "Occurrence"],
-  ["doses", "Occurrence"],
-  ["estupefacientes", "Occurrence"],
-  ["divulgou", "Occurrence"],
-  ["hoje", "Occurrence"],
-  ["aquela", "Occurrence"],
-  ["força", "Occurrence"],
-  ["segurança", "Occurrence"],
-  ["Em", "Occurrence"],
-  ["comunicado", "Occurrence"],
-  ["a", "Occurrence"],
-  ["Guarda", "Occurrence"],
-  ["Nacional", "Occurrence"],
-  ["Republicana", "Occurrence"],
-  ["(GNR)", "Occurrence"],
-  ["detiv", "Occurrence"],
-  ["os", "Occurrence"],
-  ["suspeitos", "Occurrence"],
-  ["e", "Occurrence"],
-  ["efetuada", "Occurrence"],
-  ["na", "Occurrence"],
-  ["operação", "Occurrence"],
-  ["apreendidas", "Occurrence"],
-  ["1.570", "Occurrence"],
-  ["doses", "Occurrence"],
-  ["de", "Occurrence"],
-  ["heroína", "Occurrence"],
-  ["103", "Occurrence"],
-  ["doses", "Occurrence"],
-  ["de", "Occurrence"],
-  ["cocaína", "Occurrence"],
-  ["844", "Occurrence"],
-  ["euros", "Occurrence"],
-  ["em", "Occurrence"],
-  ["numerário", "Occurrence"],
- ["veículo", "Occurrence"],
-  ["quatro", "Occurrence"],
-  ["telemóveis", "Occurrence"],
-  ["os", "Occurrence"],
-  ["detidos", "Occurrence"],
-  ["vão", "Occurrence"],
-  ["presentes", "Occurrence"],
-  ["Tribunal", "Occurrence"],
-  ["Judicial", "Occurrence"],
-  ["de", "Occurrence"],
-  ["Santiago", "Occurrence"],
-  ["do", "Occurrence"],
-  ["Cacém", "Occurrence"],
-  ["para", "Occurrence"],
-  ["primeiro", "Occurrence"],
-  ["interrogatório", "Occurrence"],
-  ["aplicação", "Occurrence"],
-  ["eventuais", "Occurrence"],
-  ["medidas", "Occurrence"],
-  ["coação", "Occurrence"]
-]
+[["detém", "I_Action"], ["homens", "Occurrence"], ["por", "Occurrence"], ["tráfico", "Occurrence"], ["droga", "Occurrence"], ["Sines", "State"], ["distrito", "State"], ["Setúbal", "State"], ["tendo", "I_State"], ["apreendido", "Occurrence"], ["1673", "Occurrence"], ["doses", "Occurrence"], ["divulgou", "Reporting"], ["aquela", "State"], ["força", "State"], ["segurança", "State"], ["deteteve", "I_Action"], ["homens", "Occurrence"], ["com", "Occurrence"], ["idades", "Occurrence"], ["entre", "Occurrence"], ["os", "Occurrence"], ["34", "Occurrence"], ["e", "Occurrence"], ["os", "Occurrence"], ["43", "Occurrence"], ["anos", "Occurrence"], ["por", "Occurrence"], ["tráfico", "Occurrence"], ["de", "Occurrence"], ["droga", "Occurrence"], ["Sines", "State"], ["concelho", "State"], ["Sines", "State"], ["efetuada", "Reporting"], ["sábado", "Occurrence"], ["no", "Occurrence"], ["decorrimento", "Occurrence"], ["uma", "Occurrence"], ["ação", "Occurrence"], ["de", "Occurrence"], ["patrulhamento", "Occurrence"], ["num", "Occurrence"], ["local", "State"], ["já", "Occurrence"], ["referenciado", "State"], ["por", "Occurrence"], ["tráfico", "Occurrence"], ["estupefacientes", "Occurrence"], ["os", "Occurrence"], ["militares", "Occurrence"], ["detiveram", "I_Action"], ["os", "Occurrence"], ["quando", "Occurrence"], ["estes", "Occurrence"], ["se", "Occurrence"], ["preparavam", "Reporting"], ["para", "Occurrence"], ["e", "Occurrence"], ["efetuar", "Occurrence"], ["uma", "Occurrence"], ["transação", "Occurrence"], ["os", "Occurrence"], ["vão", "I_State"], ["presentes", "Reporting"], ["Tribunal", "State"], ["Judicial", "State"], ["de", "State"], ["Santiago", "State"], ["do", "State"], ["Cacém", "State"], ["para", "Occurrence"], ["primeiro", "Occurrence"], ["interrogatório", "Occurrence"], ["judicial", "Occurrence"], ["aplicação", "Occurrence"], ["eventuais", "Occurrence"], ["medidas", "Occurrence"], ["coação", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas já foram contaminadas pelo novo coronavírus
+A pandemia de covid-19 já contaminou mais de 100 milhões de pessoas em todo o mundo, segundo dados divulgados hoje pela Organização Mundial da Saúde (OMS).
+A OMS informou que, até hoje, 100.4 milhões de pessoas foram contaminadas pelo novo coronavírus, que causou a pandêmia de covid-19.
+A OMS também informou que, até hoje, 4.7 milhões de pessoas morreram devido ao novo coronavírus.
+A OMS informou que, até hoje, 100.4 milhões de pessoas foram contaminadas pelo novo coronavírus, que causou a pandêmia de covid-19.
+A OMS também informou que, até hoje, 4.7 milhões de pessoas morreram devido ao novo coronavírus.
+A OMS informou que, até hoje, 100.4 milhões de pessoas foram contaminadas pelo novo coronavírus, que causou a pandêmia de covid-19.
+A OMS também informou que, até hoje, 4.7 milhões de

@@ -1,1 +1,1 @@
-["sale of its aluminum unit's extrusion division", "sale of National Aluminum's rolling division", "explore all options concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky", "shipping levels"]
+[ "sale", "extrusion", "division", "charge", "gain", "pact", "rolling", "steel", "tube", "company", "revenue", "options", "stake", "smelter", "working", "payments", "levels", "units", "products", "loss" ]

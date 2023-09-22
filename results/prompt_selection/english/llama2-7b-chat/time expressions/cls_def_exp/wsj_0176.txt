@@ -1,32 +1,4 @@
-[
-{
-"Date": "early this week",
-"Class": "Duration"
-},
-{
-"Date": "first nine months",
-"Class": "Time"
-},
-{
-"Date": "next three quarters",
-"Class": "Duration"
-},
-{
-"Date": "Hurricane Hugo",
-"Class": "Event"
-},
-{
-"Date": "California earthquake",
-"Class": "Event"
-}
-]
+	[["Xerox Corp", "COMPANY"], ["Crum amp Forster", "BRAND"], ["early this week", "DATE"], ["last nine months", "PERIOD"], ["$4 million", "MONEY"], ["$4.55", "MONEY"], ["$12.97 billion", "MONEY"], ["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"]]
 
-Explanation:
-* "early this week" is a Duration expression, as it refers to a short period of time.
-* "first nine months" is a Time expression, as it refers to a specific period of time (9 months).
-* "next three quarters" is a Duration expression, as it refers to a longer period of time (3 quarters).
-* "Hurricane Hugo" and "California earthquake" are Event expressions, as they refer to specific, notable events.
-
-Note:
-* The output is a JSON-parseable list, where each element is a list with two strings: the entity and the class.
-* The entity is the time expression, and the class is the category of time expression (Date, Time, Duration, or Event).
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

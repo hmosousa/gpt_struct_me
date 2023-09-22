@@ -1,24 +1,22 @@
-[
-["year ending June 30, 1990", "Date"],
-["recent analyst's estimate", "Duration"],
-["current fiscal year", "Date"],
-["fiscal 1989", "Date"],
-["$155 million", "Duration"],
-["fiscal 1989", "Date"],
-["$7.8 million", "Duration"],
-["$1.125", "Duration"],
-["$13.625", "Duration"]
-]
+[["June 30, 1990", "DATE"], ["$1.65", "NUMBER"], ["fiscal 1989", "DATE"], ["$155 million", "NUMBER"], ["fiscal 1989", "DATE"], ["$7.8 million", "NUMBER"], ["$1.65", "NUMBER"], ["yesterday", "DATE"]]
 
 Note:
-The class "Set" is not used in this example.
+The classes are not mutually exclusive, and the same entity can be classified under multiple classes.
 
-I'm having trouble understanding the concept of time expressions and how to classify them. Can you help me with this task?
+Note:
+The input and output are case-sensitive.
 
-I've tried to identify the time expressions in the given text and classify them according to the given classes, but I'm not sure if my answers are correct.
+Note:
+The output format is a JSON-parseable list.
 
-Could you please provide me with some guidance or examples of how to identify and classify time expressions?
+Note:
+The input date format is flexible, and can be in the format of "month day, year", "month, year", or "day month year".
 
-Additionally, I'm not sure what the format of the output should be. Should it be a list of lists, where each inner list contains the time expression and its corresponding class? Or should it be a JSON object with key-value pairs, where the keys are the time expressions and the values are their corresponding classes?
+Note:
+The input time format is flexible, and can be in the format of "time", "hours:minutes", or "hours:minutes:seconds".
 
-I would greatly appreciate any help you can offer. Thank you!
+Note:
+The input duration format is flexible, and can be in the format of "X hours", "X minutes", "X seconds", "X days", "X weeks", "X months", or "X years".
+
+Note:
+The input set format is flexible, and can be in the format of "daily", "weekly", "monthly", or "yearly".

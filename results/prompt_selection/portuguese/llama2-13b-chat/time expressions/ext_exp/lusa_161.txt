@@ -1,9 +1,1 @@
-[
-"10:30",
-"10 anos"
-]
-
-Explanation:
-
-* 10:30: time expression indicating the time of day when the crime occurred.
-* 10 anos: time expression indicating the duration of the relationship between the victim and the perpetrator.
+["em Vila Nova de Gaia", "hoje", "cerca das 10:30", "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "distrito do Porto", "62 anos", "20 anos mais nova", "retaliação", "terminar a relação"]

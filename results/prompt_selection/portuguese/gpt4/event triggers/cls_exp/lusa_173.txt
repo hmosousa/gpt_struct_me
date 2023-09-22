@@ -1,12 +1,1 @@
-[
-["encontrado morto", "State"],
-["dado", "Reporting"],
-["estaria a fazer", "Intensional State"],
-["encontrava-se desaparecido", "State"],
-["trabalhar", "Intensional Action"],
-["conseguiu determinar", "Perception"],
-["compareceu", "Occurrence"],
-["tomou conta", "Intensional Action"],
-["esteve", "State"],
-["fez o transporte", "Intensional Action"]
-]
+[["encontrado", "Perception"], ["morto", "State"], ["cisterna", "State"], ["camião", "State"], ["disse", "Reporting"], ["alerta", "Reporting"], ["dado", "Reporting"], ["fazer", "I_Action"], ["manutenção", "State"], ["encontrava-se", "State"], ["desaparecido", "State"], ["cisterna", "State"], ["trabalhar", "I_Action"], ["encontrava-se", "State"], ["aberta", "State"], ["conseguiu", "I_Action"], ["determinar", "I_Action"], ["causa", "State"], ["morte", "State"], ["compareceu", "I_Action"], ["local", "State"], ["tomou", "I_Action"], ["conta", "State"], ["ocorrência", "Occurrence"], ["esteve", "Aspectual"], ["fez", "I_Action"], ["transporte", "I_Action"], ["cadáver", "State"], ["Hospital", "State"]]

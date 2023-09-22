@@ -1,17 +1,1 @@
-[
-{entity: "I", class: "State"},
-{entity: "Oct. 23", class: "Date"},
-{entity: "Centennial Journal", class: "Aspectual"},
-{entity: "the money-fund concept", class: "Intensional Action"},
-{entity: "Harry Brown", class: "Person"},
-{entity: "the SEC", class: "Organization"}
-]
-
-Explanation:
-
-* State: "I" is the subject of the sentence and is in a state of being pleased.
-* Date: "Oct. 23" is a temporal event that occurred in the past.
-* Aspectual: "Centennial Journal" is a publication that is being mentioned in the context of an event.
-* Intensional Action: "the money-fund concept" is an action that was taken or created, and is being referred to in the context of an event.
-* Person: "Harry Brown" is a person who is associated with the event of creating the money-fund concept.
-* Organization: "the SEC" is an organization that is associated with the event of creating the money-fund concept.
+[["pleased", "OCCURRENCE"], ["noted", "REPORTING"], ["recognized", "OCCURRENCE"], ["listed", "OCCURRENCE"], ["creators", "I_STATE"], ["innovated", "I_ACTION"], ["daily", "OCCURRENCE"], ["elimination", "OCCURRENCE"], ["result", "OCCURRENCE"], ["painfully", "OCCURRENCE"], ["thought", "OCCURRENCE"], ["part", "OCCURRENCE"], ["result", "OCCURRENCE"]]

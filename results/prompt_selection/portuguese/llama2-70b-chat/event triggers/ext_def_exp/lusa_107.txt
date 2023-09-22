@@ -1,11 +1,1 @@
-[
-"mulher atropelada",
-"protesto de mariscadores",
-"homem transportava bivalves",
-"tentaram evitar que ele saísse",
-"situação incendiou-se",
-"senhor forçou a saída",
-"atropelou uma senhora",
-"mulher sofreu ferimentos ligeiros",
-"condutor se colocou em fuga"
-]
+["atropelada", "protesto", "mariscadores", "Murtosa", "Aveiro", "Bombeiros", "GNR", "Torreira", "Lusa", "homem", "bivalves", "tentar", "sair", "situação", "incendiou-se", "senhor", "forçou", "saída", "viatura", "atropelou", "mulher", "ferimentos", "ligeiros", "hospital", "fugir", "identificado", "mariscadores", "protesto", "semana", "trabalhar", "detetadas", "percentagens", "excessivas", "coliformes", "fecais", "águas", "ria", "Aveiro"]

@@ -1,60 +1,20 @@
-["Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se",
-"Um juiz de instrução ordenou a prisão preventiva de um homem de 47 anos de idade que o Ministério Público (MP) de Penafiel indiciou por obrigar a mulher com quem vivia a prostituir-se, informou hoje fonte policial.",
-"Em comunicado, a Polícia Judiciária, que deteve o homem e o levou a juiz de instrução por indicação do MP, revela ainda que a vítima, de 26 anos, foi colocada numa instituição de acolhimento para pessoas sujeitas a este tipo de crime.",
-"A mulher “vivia em comunhão de vida desde 2017 com o arguido, que a sujeitava a exploração sexual na via pública, ficando com os proveitos obtidos dessa prática”, segundo a PJ.",
-"Desde essa altura e até aatualidade, relata a polícia, “a vítima fugiu algumas vezes da sujeição a que estava submetida, mas era localizada pelo suspeito e obrigada ou convencida a voltar para junto de si, sob promessa de receber produto estupefaciente do qual é dependente, que o arguido lhe cedia”.",
-"O MP junto da comarca de Porto-Este, em Penafiel, indicia o homem pela prática dos crimes de tráfico de pessoas para exploração sexual, sequestro e violação."]
+["preso", "preventivamente", "Penafiel", "obrigar", "companheira", "prostituir-se", "juiz", "instrução", "ordenou", "prisão", "preventiva", "homem", "47", "anos", "idade", "Ministério", "Público", "Penafiel", "indiciou", "obrigar", "mulher", "vivia", "comunhão", "de", "vida", "só", "com", "arguido", "sujeitava", "exploração", "via", "pública", "ficando", "proveitos", "obtidos", "desse", "prática", "sendo", "submetida", "fugiu", "algumas", "situada", "suspeito", "obrigada", "convencida", "voltar", "junto", "promessa", "receber", "produto", "estupefaciente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indicou", "prática", "tráfico", "de", "pessoas", "exploração", "sequestro", "violação"]
 
-Explanation:
+Format:
+JSON-parseable list of strings.
 
-### 1. Extract all event triggers.
-
-### 2. Extract all event triggers.
-
-### 3. Extract all event triggers.
-
-### 4. Extract all event triggers.
-
-### 5. Extract all event triggers.
-
-### 6. Extract all event triggers.
-
-### 7. Extract all event triggers.
-
-### 8. Extract all event triggers.
-
-### 9. Extract all event triggers.
-
-### 10. Extract all event triggers.
-
-### 11. Extract all event triggers.
-
-### 12. Extract all event triggers.
-
-### 13. Extract all event triggers.
-
-### 14. Extract all event triggers.
-
-### 15. Extract all event triggers.
-
-### 16. Extract all event triggers.
-
-### 17. Extract all event triggers.
-
-### 18. Extract all event triggers.
-
-### 19. Extract all event triggers.
-
-### 20. Extract all event triggers.
-
-### 21. Extract all event triggers.
-
-### 22. Extract all event triggers.
-
-### 23. Extract all event triggers.
-
-### 24. Extract all event triggers.
-
-### 25. Extract all event triggers.
-
-### 26. Extract all event triggers.
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo, segundo a Organização Mundial da Saúde (OMS).
+A OMS informou hoje que, em 18 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000

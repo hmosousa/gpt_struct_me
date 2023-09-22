@@ -1,1 +1,1 @@
-["hoje", "sábado", "9h56", "depois de sábado"]
+["sábado", "09:56", "34 anos", "Estarreja", "Transportadora J Amaral", "cisterna de um camião", "manutenção da cisterna", "dezembro", "2020", "GNR de Aveiro", "Delegada de Saúde", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro", "Hospital Infante D. Pedro"]

@@ -1,1 +1,2 @@
-["Homem de 69 anos", "mulher", "bombeiros da corporação de Águas de Moura"]
+
+JSON-parseable list of strings.

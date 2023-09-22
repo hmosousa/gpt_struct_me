@@ -1,15 +1,5 @@
-[
-"GNR",
-"36 years old woman",
-"Mértola",
-"Beja",
-"12.300 doses of hashish",
-"Estrada Nacional 122",
-"nervous behavior",
-"patrol",
-"busca",
-"review",
-"droga",
-"vehicle",
-"telemóvel"
-]
+	["GNR", "suspeita", "tráfico de droga", "12.300 doses", "haxixe", "Mértola", "concelho alentejano", "distrito de Beja", "Tribunal Judicial", "medidas de coação", "patrulhamento", "Estrada Nacional", "viatura", "militares", "GNR", "apurar", "droga", "apreender", "veículo", "telemóvel"]
+
+
+Format:
+JSON-parseable list of strings.

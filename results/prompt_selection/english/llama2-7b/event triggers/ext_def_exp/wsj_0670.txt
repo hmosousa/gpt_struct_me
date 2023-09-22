@@ -1,8 +1,28 @@
-["National Intergroup Inc. said it expects to report a charge of $5.3 million related to the sale of its aluminum unit's extrusion division for the third quarter.",
-"The company said it has agreed to sell the extrusion division for $15 million to R.D. Werner Co., a closely held firm based in Greenville, Pa.",
-"The charge is offset by an after-tax gain of about $30 million in the quarter from the previously announced pact to sell National Aluminum's rolling division.",
-"National Intergroup in the year-ago third quarter earned $22.5 million, or 97 cents a share, including a gain of $18 million from the sale of a steel tube company. Revenue was $778.6 million.",
-"The company also said it continues to explore all options concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky.",
-"The sale of the extrusion division is subject to audit adjustments for working capital changes through the closing.",
-"The agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years, depending on the plant's shipping levels.",
-"The extrusion unit produces bare and painted custom extrusions for building products and construction industries. In fiscal 1989, it had sales of about $40 million and an operating loss of $1.5 million."]
+["National", "said", "expects", "charge", "million", "related", "sale", "aluminum", "unit's", "extrusion", "division", "agreed", "sell", "closely", "based", "Greenville", "offset", "after-tax", "gain", "pact", "rolling", "year-ago", "earned", "including", "sale", "steel", "tube", "revenue", "also", "explore", "sale", "stake", "smelter", "Hawesville", "subject", "audit", "adjustments", "closing", "payments", "proceeds", "building", "construction", "fiscal", "sales", "operating", "loss"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the collapse of the WorldCom telecommunications company, the Justice Department said on Thursday.
+The settlement, which is subject to court approval, is the largest ever in a securities class action lawsuit, the Justice Department said.
+The lawsuit was brought by New York Attorney General Eliot Spitzer, who accused WorldCom of fraudulently inflating its earnings by $9 billion.
+The company, which filed for bankruptcy protection in July 2002, was renamed MCI Inc. after it was acquired by Verizon Communications Inc.
+The settlement will be paid by Verizon, which acquired MCI in 2006, the Justice Department said.
+The settlement is the latest in a series of lawsuits brought by state attorneys general against companies accused of accounting fraud.
+The Justice Department said the settlement will resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve

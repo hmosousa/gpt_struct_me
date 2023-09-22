@@ -1,30 +1,16 @@
-[
-["hoje à tarde", "Time"],
-["60 e 70 anos", "Duration"],
-["hoje", "Date"],
-["Lagoa", "Set"],
-["Algarve", "Set"],
-["Faro", "Set"],
-["Estaquinha", "Set"],
-["Portimão", "Set"],
-["Ferragudo", "Set"],
-["Lagoa", "Set"],
-["Portimão", "Set"]
-]
+[["hoje à tarde", "Time"], ["60 e 70 anos", "Duration"], ["Estaquinha", "Date"], ["Algarve", "Date"], ["Faro", "Date"], ["Portimão", "Date"], ["hoje", "Time"], ["Lagoa", "Date"], ["Ferragudo", "Date"], ["Portimão", "Date"]]
 
-Explanation:
-The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+Note:
+The input text can be in different languages.
 
-* "hoje à tarde" - Time (specific time of day)
-* "60 e 70 anos" - Duration (range of years)
-* "hoje" - Date (specific day)
-* "Lagoa" - Set (location)
-* "Algarve" - Set (location)
-* "Faro" - Set (location)
-* "Estaquinha" - Set (location)
-* "Portimão" - Set (location)
-* "Ferragudo" - Set (location)
-* "Lagoa" - Set (location)
-* "Portimão" - Set (location)
+Note:
+The output format is a JSON-parseable list.
 
-Note that some locations appear twice in the output list, as they are mentioned twice in the input text. Also, "hoje" can be classified as both Time and Date, but for the purpose of this task, we're classifying it as Time.
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, but the task is to extract and classify only time expressions.

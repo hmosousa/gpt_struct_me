@@ -1,30 +1,6 @@
-[
-["Autoridades judiciais", "State"],
-["Maximiliano Trimarchi", "Occurrence"],
-["Diego Maradona", "Occurrence"],
-["investigação", "Intensional Action"],
-["alegada negligência", "Intensional State"],
-["morte", "Occurrence"],
-["telemóvel", "Aspectual"],
-["Leopoldo Luque", "State"],
-["Agustina Cosachov", "State"],
-["inquérito", "Intensional Action"]
-]
-
-Explanation:
-
-* "Autoridades judiciais" is classified as "State" because it refers to the legal system of Argentina.
-* "Maximiliano Trimarchi" is classified as "Occurrence" because it refers to a specific event or situation.
-* "Diego Maradona" is classified as "Occurrence" because it refers to a specific event or situation.
-* "investigação" is classified as "Intensional Action" because it refers to an ongoing investigation.
-* "alegada negligência" is classified as "Intensional State" because it refers to a suspected state of negligence.
-* "morte" is classified as "Occurrence" because it refers to a specific event or situation.
-* "telemóvel" is classified as "Aspectual" because it refers to a specific aspect of the event.
-* "Leopoldo Luque" is classified as "State" because it refers to the medical professional who participated in the operation.
-* "Agustina Cosachov" is classified as "State" because it refers to the psiquiatra who was involved in the case.
-* "inquérito" is classified as "Intensional Action" because it refers to an ongoing investigation.
+[["maximiliano trimarchi", "I_State"], ["apartamento", "State"], ["diego maradona", "I_State"], ["investigação", "Occurrence"], ["alegada negligência", "Occurrence"], ["morte", "Occurrence"], ["ex-futebolista", "I_State"], ["argentino", "I_State"], ["procuradoria-geral", "I_State"], ["san isidro", "I_State"], ["comunicado", "Reporting"], ["buscas", "Occurrence"], ["telemóvel", "State"], ["saber", "Reporting"], ["trimarchi", "I_State"], ["juntos", "Occurrence"], ["maradona", "I_State"], ["casa", "State"], ["san andré", "I_State"], ["província de buenos aires", "I_State"], ["polícia", "I_State"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["leopoldo luque", "I_State"], ["médico", "I_State"], ["hematoma subdural", "Occurrence"], ["novembro", "State"], ["psiquiatra", "I_State"], ["agustina cosachov", "I_State"], ["inquérito", "Occurrence"], ["justiça argentina", "I_State"], ["abriu", "Aspectual"], ["determinar", "I_Action"], ["negligência médica", "Occurrence"], ["assistência", "State"], ["antigo futebolista", "I_State"]]
 
 Note:
+The input text is in Portuguese, but the output should be in English.
 
-* The classifications are based on the meaning of the words in the context of the sentence and the overall event being described.
-* The classifications are not necessarily absolute and could vary depending on the specific context and interpretation of the text.
+Please, extract and classify all event triggers in the given text.

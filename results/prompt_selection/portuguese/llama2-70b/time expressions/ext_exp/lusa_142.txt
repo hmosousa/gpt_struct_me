@@ -1,1 +1,1 @@
-["segunda-feira", "Estrada Nacional 122"]
+["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado"]

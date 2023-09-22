@@ -1,1 +1,1 @@
-["segunda-feira"]
+["segunda-feira", "24 nov 2020"]

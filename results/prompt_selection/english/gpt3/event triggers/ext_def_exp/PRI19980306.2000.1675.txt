@@ -1,1 +1,1 @@
-["gunfire", "offensive", "fleeing", "operation", "over", "attack", "planned", "conflict"]
+["fearing", "planned", "fleeing", "said", "witnessing", "confirm", "over", "move", "staying", "saying", "beginnings", "sources", "worried", "sources", "saying", "afield", "further", "sources", "saying", "offensive", "sources", "saying", "operation", "thought", "sources", "saying", "attack"]

@@ -1,1 +1,1 @@
-["atropelada", "protesto", "mariscadores", "informaram", "ocorreu", "tentando", "sair", "tentaram", "evitar", "incendiou-se", "forçou", "atropelado", "sofreu", "transportada", "referiu", "colocou", "fuga", "identificado", "protesto", "detetadas"]
+["atropelada", "protesto", "mariscadores", "informaram", "ocorreu", "tentando sair", "tentaram evitar", "incendiou-se", "forçou a saída", "atropelado", "sofreu", "transportada", "referiu", "colocou em fuga", "identificado", "protesto", "poderem trabalhar", "detetadas", "percentagens excessivas", "coliformes fecais"]

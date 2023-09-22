@@ -1,1 +1,35 @@
-["$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$15 million", "$30 million", "$5.3 million", "$
+["$5.3 million", "$15 million", "R.D. Werner Co.", "Greenville, Pa.", "National Intergroup Inc.", "aluminum unit's extrusion division", "rolling division", "National Aluminum's rolling division", "Hawesville, Ky.", "custom extrusions", "building products", "construction industries", "fiscal 1989", "sale of its aluminum unit's extrusion division", "sale of National Aluminum's rolling division", "sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky.", "potential payments of additional proceeds to National Aluminum over the next two years", "depending on the plant's shipping levels"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1993 bombing of the World Trade Center, a federal judge said Friday.
+The settlement, which must still be approved by a federal judge, is the largest ever paid by the federal government in a terrorism case.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached after a 10-day trial in which New York argued that the government had failed to protect the city from terrorist attacks.
+The government had argued that it was not liable for the attack because it was not foreseeable.
+The settlement was reached

@@ -1,10 +1,1 @@
-[
-"homem",
-"Autoridade Marítima",
-"Comando-Local da Polícia Marítima de Angra do Heroísmo",
-"Polícia de Segurança Pública (PSP)",
-"piquete da Polícia Marítima de Angra do Heroísmo",
-"delegado de saúde",
-"equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
-"Hospital de Angra do Heroísmo"
-]
+["um homem", "a zona rochosa", "na costa leste da Terceira", "os Açores", "a Autoridade Marítima", "o Comando-Local da Polícia Marítima", "Angra do Heroísmo", "a Polícia de Segurança Pública (PSP)", "o piquete", "o delegado de saúde", "o corpo", "um homem", "62 anos", "cadáver", "a equipa de grande ângulo", "Bombeiros Voluntários", "a Praia da Vitória", "o Hospital de Angra do Heroísmo", "as causas da morte", "a autopsia", "se"]

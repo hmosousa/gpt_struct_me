@@ -1,1 +1,7 @@
-["Maximiliano Trimarchi", "Diego Maradona", "Leopoldo Luque", "Agustina Cosachov"]
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* "Autoridades judiciais" is a single participant, not a list of participants.
+* The list of participants should be in JSON-parseable format.

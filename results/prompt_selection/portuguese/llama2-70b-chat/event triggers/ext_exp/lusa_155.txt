@@ -1,15 +1,1 @@
-[
-"Homem de 69 anos",
-"proprietário de um restaurante em Cajados",
-"agressão com uma garrafa",
-"mulher, apparentemente embriagada",
-"consumo de álcool na via pública",
-"proibido o consumo de álcool na via pública",
-"outras duas pessoas envolvidas",
-"ferimentos ligeiros",
-"hospital de São Bernardo",
-"coma",
-"transporte em estado de coma",
-"fonte da GNR",
-"fonte do CDOS"
-]
+["Homem", "ferido", "gravidade", "agressão", "garrafa", "restaurante", "Palmela", "Cajados", "Setúbal", "proprietário", "estabelecimento", "GNR", "fonte", "vítima", "hospital", "São Bernardo", "Setúbal", "mulher", "embriagada", "fuga", "automóvel", "agressão", "motivada", "consumo", "álcool", "via pública", "proibido", "ferimentos", "ligeiros", "ambulância", "bombeiros", "corporação", "Águas de Moura"]

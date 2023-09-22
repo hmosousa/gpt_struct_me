@@ -1,1 +1,1 @@
-["à tarde", "hoje", "60 e 70 anos", "agora"]
+["à tarde", "hoje", "hoje", "este domingo", "domingo", "15 novembro", "14 novembro", "13 novembro", "12 novembro", "11 novembro", "10 novembro", "9 novembro", "8 novembro", "7 novembro", "6 novembro", "5 novembro", "4 novembro", "3 novembro", "2 novembro", "1 novembro"]

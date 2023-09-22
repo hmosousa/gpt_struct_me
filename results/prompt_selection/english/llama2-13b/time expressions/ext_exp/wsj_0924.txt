@@ -2,177 +2,31 @@
 The so-called poison pill took effect Aug. 9 pending ratification by holders. Rights attached to the company's common shares were issued that are triggered if a hostile bidder acquires more than 20% of the shares outstanding. Once triggered, the rights allow holders to buy additional shares at 50% of the then current market price or, at the board's discretion, to receive securities or assets.
 Separately, Dominion Textile posted net income of 4.7 million Canadian dollars ($4 million), or 12 Canadian cents a share, for the fiscal-first quarter ended Sept. 30. The company had a net loss of C$2.3 million, or 14 Canadian cents a share, a year ago. Sales were C$348.2 million compared with C$307.2 a year earlier."]
 
-Explanation:
-This is a simple task.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output is a list of strings.
-
-The input is a string.
-
-The output
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department, which owns the stock, is considering selling the shares in a public offering, according to a person familiar with the matter.
+The Treasury Department bought the stock in 1991 as part of a $2 billion bailout of Citicorp, which was then the nation's largest bank.
+The Treasury Department has been selling off its Citicorp stock in small blocks over the past few years.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.
+The Treasury Department has sold 20 million shares of Citicorp stock since 1994, raising about $1 billion.

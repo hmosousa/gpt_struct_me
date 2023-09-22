@@ -1,1 +1,4 @@
-["Hurricane Hugo", "California earthquake", "underperforming real estate and mortgage loans"]
+["rose", "stemming", "reduced", "results", "advanced", "including", "gains", "but", "estimated", "earnings", "fell", "compared", "posted", "first", "nine", "year-ago", "charge"]
+
+Format:
+JSON-parseable list of strings.

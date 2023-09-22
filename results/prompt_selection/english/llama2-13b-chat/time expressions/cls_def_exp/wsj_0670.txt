@@ -1,34 +1,4 @@
-[
-["National Intergroup Inc.", "Date"],
-["third quarter", "Date"],
-["$15 million", "Amount"],
-["$30 million", "Amount"],
-["97 cents a share", "Amount"],
-["$22.5 million", "Amount"],
-["year-ago third quarter", "Date"],
-["$778.6 million", "Amount"],
-["Hawesville, Ky", "Location"],
-["two years", "Duration"],
-["fiscal 1989", "Date"]
-]
+[["National Intergroup", "ORGANIZATION"], ["R.D. Werner Co.", "ORGANIZATION"], ["$5.3 million", "AMOUNT"], ["$15 million", "AMOUNT"], ["30 million", "AMOUNT"], ["97 cents", "AMOUNT"], ["$22.5 million", "AMOUNT"], ["$778.6 million", "AMOUNT"], ["Hawesville, Ky", "LOCATION"], ["two years", "DURATION"], ["fiscal 1989", "DATE"]]
 
-Explanation:
-
-1. National Intergroup Inc. - Entity
-2. third quarter - Date
-3. $15 million - Amount
-4. $30 million - Amount
-5. 97 cents a share - Amount
-6. $22.5 million - Amount
-7. year-ago third quarter - Date
-8. $778.6 million - Amount
-9. Hawesville, Ky - Location
-10. two years - Duration
-11. fiscal 1989 - Date
-
-Note:
-
-* Date expressions are in the format of "third quarter" or "year-ago third quarter" and can be classified as such.
-* Amount expressions are in the format of "$15 million" or "97 cents a share" and can be classified as such.
-* Duration expressions are in the format of "two years" and can be classified as such.
-* Location expressions are in the format of "Hawesville, Ky" and can be classified as such.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

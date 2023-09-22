@@ -1,24 +1,27 @@
-["Encontrado", "corpo", "de", "homem", "em", "zona", "rochosa", "na", "costa", "da", "Terceira", "O", "corpo", "de", "um", "homem", "a", "boiar", "junto", "a", "zona", "rochosa", "na", "costa", "leste", "da", "Terceira", "", "O", "Comando-Local", "da", "Polícia", "Marítima", "de", "Angra", "do", "Heroísmo", "foi", "alertado", "pelas", "12:00", "locais", "13:00", "em", "Lisboa", "para", "a", "presença", "do", "corpo", "de", "um", "homem", "a", "boiar", "numa", "área", "de", "domínio", "público", "marítimo", "A", "autoridade","adiantou", "que", "a", "informação", "foi", "recebida", "através", "da", "Polícia", "de", "Segurança", "Pública", "(PSP)", "e", "que", "o", "piquete", "da", "Polícia", "Marítima", "de", "Angra", "do", "Heroísmo", "e", "o", "delegado", "de", "saúde", "foram", "ao", "local", "onde", "confirmaram", "a", "presença", "do", "corpo", "de", "um", "homem", "de", "62", "anos", "já", "cadáver", "O", "corpo", "foi", "retirado", "do", "local", "pelas", "equipa", "de", "grande", "ângulo", "dos", "Bombeiros", "Voluntários", "da", "Praia", "da", "Vitória", "já", "que", "se", "encontrava", "numa", "zona", "de", "difícil", "a", "cesso", "tendo", "sido", "posteriormente", "transportado", "para", "o", "Hospital", "de", "Angra", "do", "Heroísmo", "onde", "será", "autopsiado", "para", "se", "apurar", "as", "causas", "da", "morte", "."]
+["Encontrado", "corpo", "homem", "zona", "rochosa", "costa", "Terceira", "Açores", "desconhecendo-se", "causas", "morta", "autoridade", "marítima", "Comando-Local", "Polícia", "Angra", "Heroísmo", "alertado", "presença", "homem", "boiar", "área", "domínio", "publico", "marítimo", "informação", "recebida", "PSP", "piquete", "Polícia", "Marítima", "Angra", "Heroísmo", "delegado", "saúde", "local", "confirmaram", "presença", "homem", "62", "anos", "cadáver", "foi", "removido", "local", "equipa", "Bombeiros", "Voluntários", "Praia", "Vitória", "transportado", "Hospital", "Angra", "Heroísmo", "apurar", "causas", "morte"]
 
-Explanation:
-The event triggers are:
+Format:
+JSON-parseable list of strings.
 
-- "Encontrado"
-- "corpo"
-- "de"
-- "homem"
-- "em"
-- "zona"
-- "rochosa"
-- "na"
-- "costa"
-- "da"
-- "Terceira"
-- "O"
-- "corpo"
-- "de"
-- "um"
-- "homem"
-- "a"
-- "boiar"
-- "
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de 100 milhões de pessoas em todo o mundo em resposta à pandemia de covid-19 é um recorde mundial, segundo a Agência Mundial de Saúde (OMS).
+A OMS informou hoje que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A agência também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A OMS também informou que 1,5 milhões de pessoas estão

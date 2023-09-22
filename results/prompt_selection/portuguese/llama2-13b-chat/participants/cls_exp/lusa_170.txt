@@ -1,19 +1,15 @@
-[
-["Encontrado corpo de homem", "Person"],
-["Terceira", "Location"],
-["Açores", "Location"],
-["Polícia Marítima", "Organization"],
-["Polícia de Segurança Pública", "Organization"],
-["Bombeiros Voluntários da Praia da Vitória", "Organization"],
-["Hospital de Angra do Heroísmo", "Location"],
-["cadáver", "Object"]
-]
+[["um corpo", "Per"], ["de um homem", "Per"], ["a boiar", "Loc"], ["na costa", "Loc"], ["da Terceira", "Loc"], ["nos Açores", "Loc"], ["segundo", "Other"], ["um comunicado", "Obj"], ["enviado às redações", "Other"], ["a autoridade", "Org"], ["adiantou", "Other"], ["que", "Other"], ["o piquete", "Org"], ["da Polícia Marítima", "Org"], ["de Angra do Heroísmo", "Loc"], ["e o delegado", "Org"], ["de saúde", "Org"], ["foram ao local", "Other"], ["onde", "Loc"], ["confirmaram", "Other"], ["a presença", "Other"], ["do corpo", "Per"], ["de um homem", "Per"], ["de 62 anos", "Other"], ["ja cadáver", "Other"], ["foi retirado", "Other"], ["do local", "Other"], ["pela equipa", "Org"], ["de grande ângulo", "Other"], ["dos Bombeiros Voluntários", "Org"], ["da Praia da Vitória", "Loc"], ["e posteriormente", "Other"], ["transportado", "Other"], ["para o Hospital", "Other"], ["de Angra do Heroísmo", "Loc"], ["onde", "Loc"], ["será autopsiado", "Other"], ["para se apurar", "Other"], ["as causas", "Other"], ["da morte", "Other"]]
 
-Explanation:
+Note:
 
-* "Encontrado corpo de homem" is a person.
-* "Terceira" and "Açores" are locations.
-* "Polícia Marítima" and "Polícia de Segurança Pública" are organizations.
-* "Bombeiros Voluntários da Praia da Vitória" is an organization.
-* "Hospital de Angra do Heroísmo" is a location.
-* "cadáver" is an object.
+* "Per" stands for "person"
+* "Loc" stands for "location"
+* "Obj" stands for "object"
+* "Org" stands for "organization"
+* "Other" stands for "other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to identify them correctly.
+* Some entities may have multiple classes, so be careful when categorizing them.
+* The output should be a list of lists, where each list contains two strings: the entity and the class.

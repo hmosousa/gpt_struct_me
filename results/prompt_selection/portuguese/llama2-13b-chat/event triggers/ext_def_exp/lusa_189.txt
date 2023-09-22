@@ -1,8 +1,4 @@
-["Homem morto a tiro no Barreiro", "atirador em fuga", "20:20", "hoje", "suspeita de homicídio envolvendo armas de fogo", "Polícia Judiciária"]
+[“morto”, “tiro”, “Barreiro”, “atirador”, “fuga”, “homem”, “baleado”, “dois tiros”, “caçadeira”, “incidente”, “ocorreu”, “20:20”, “hoje”, “circunstâncias”, “tiroteio”, “disse”, “suspeita”, “homicídio”, “armas de fogo”, “polícia judiciária”, “investigação”, “caso”]
 
 Note:
-- "hoje" is not a trigger, it's a temporal adverb.
-- "20:20" is not a trigger, it's a temporal phrase.
-- "suspeita de homicídio envolvendo armas de fogo" is not a trigger, it's a descriptive phrase.
-
-Please, help me to extract the event triggers from the text.
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text. The output should be in JSON-parseable format.

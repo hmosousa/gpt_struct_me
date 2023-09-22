@@ -1,8 +1,36 @@
-[
-"Homem encontrado morto em cisterna de camião em Estarreja",
-"Um homem de 34 anos, funcionário da Transportadora J Amaral, em Estarreja, foi hoje encontrado morto no interior da cisterna de um camião",
-"O alerta foi dado pelas 09:56 e o homem, que alegadamente estaria a fazer a manutenção da cisterna, encontrava-se desaparecido desde sábado",
-"A cisterna onde o funcionário da transportadora estava a trabalhar encontrava-se aberta",
-"A Delegada de Saúde e a Polícia Judiciária compareceram no local",
-"Ao longo do dia, compareceram também a Viatura Médica de Emergência e Reanimação de Aveiro, que fez o transporte do cadáver para o Hospital Infante D. Pedro"
-]
+	["encontrado", "morto", "cisterna", "camião", "Transportadora", "J Amaral", "Estarreja", "09:56", "desaparecido", "sábado", "Joaquim", "Bombeiros", "encontrava-se", "aberta", "Graduado", "cause", "Delegada", "Polícia", "Judiciária", "tomou", "local", "Viatura", "Emergência", "Reanimação", "Aveiro", "Hospital", "Infante", "D. Pedro"]
+
+
+Note:
+
+* The output is a JSON-parseable list of strings, where each string is a trigger event from the input text.
+* The events are extracted based on the provided regular expressions.
+* The regular expressions used are:
+	* "encontrado" - Found
+	* "morto" - Dead
+	* "cisterna" - Cisterna
+	* "camião" - Truck
+	* "Transportadora" - Transportadora
+	* "J Amaral" - J Amaral
+	* "Estarreja" - Estarreja
+	* "09:56" - 09:56
+	* "desaparecido" - Disappeared
+	* "sábado" - Saturday
+	* "Joaquim" - Joaquim
+	* "Bombeiros" - Firefighters
+	* "encontrava-se" - Was found
+	* "aberta" - Open
+	* "Graduado" - Graduated
+	* "cause" - Cause
+	* "Delegada" - Delegate
+	* "Polícia" - Police
+	* "Judiciária" - Judiciary
+	* "tomou" - Took
+	* "local" - Local
+	* "Viatura" - Vehicle
+	* "Emergência" - Emergency
+	* "Reanimação" - Reanimation
+	* "Aveiro" - Aveiro
+	* "Hospital" - Hospital
+	* "Infante" - Infante
+	* "D. Pedro" - D. Pedro

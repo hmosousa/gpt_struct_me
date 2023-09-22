@@ -1,1 +1,1 @@
-[["next year's first quarter", "Date"], ["15 pence", "Time"], ["March 31", "Date"], ["year ended March 31", "Duration"], ["5% to 10%", "Set"], ["Barclays de Zoete Wedd", "Set"], ["Sir Christopher Hogg", "Set"]]
+[["next year's first quarter", "DATE"], ["15 pence", "DURATION"], ["March 31", "DATE"], ["5% to 10%", "DURATION"], ["last year", "DATE"], ["#1.44 billion", "DURATION"], ["#300 million ($473 million) and #400 million", "DURATION"], ["#50 million", "DURATION"], ["#980 million", "DURATION"], ["#4 billion", "DURATION"]]

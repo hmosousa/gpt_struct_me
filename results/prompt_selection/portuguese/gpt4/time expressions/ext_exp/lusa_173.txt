@@ -1,1 +1,1 @@
-["hoje", "09:56", "desde sábado"]
+["hoje", "pelas 09:56", "desde sábado"]

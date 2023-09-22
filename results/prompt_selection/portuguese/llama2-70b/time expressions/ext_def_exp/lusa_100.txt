@@ -1,1 +1,1 @@
-["1", "39", "42", "hoje"]
+["39 anos", "42 anos", "separação", "residência", "local de trabalho", "botão de pânico", "mesma natureza"]

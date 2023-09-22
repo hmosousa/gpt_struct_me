@@ -1,4 +1,1 @@
-["07:50", "52 anos"]
-
-Explanation:
-The input text contains two time expressions: "07:50" and "52 anos". The first one is a specific time point, and the second one is a duration (52 years). Both should be extracted and represented as strings in a JSON-parseable list.
+["cerca das 07:50", "hoje", "52 anos", "30 nov 2020", "Rua da Constituição", "Porto", "PSP", "hospital de Santo António"]

@@ -1,9 +1,1 @@
-[["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Occurrence"], 
-["O corpo de um homem aparentando entre 60 e 70 anos", "State"], 
-["foi encontrado hoje à tarde a boiar no mar junto à praia da Estaquinha, no concelho de Lagoa (Algarve)", "Occurrence"], 
-["revelou a Autoridade Marítima", "Reporting"], 
-["terá alegadamente caído ao mar quando praticava pesca lúdica numa arriba, naquela praia de Lagoa, do distrito de Faro", "Perception"], 
-["foi ativada a Estação Salva-vidas de Ferragudo que procedeu à recolha do corpo, transportando-o para a marina de Portimão", "Aspectual"], 
-["“O óbito foi declarado no local pela delegada de saúde de Lagoa", "Intensional Action"], 
-["tendo o corpo sido transportado para o gabinete de medicina legal de Portimão”", "Intensional State"], 
-["A Polícia Marítima de Portimão tomou conta da ocorrência", "Aspectual"]]
+[["encontrado", "I_Action"], ["boiar", "State"], ["mar", "State"], ["Lagoa", "State"], ["Algarve", "State"], ["corpo", "State"], ["aparentando", "Perception"], ["encontrado", "I_Action"], ["boiar", "State"], ["pescador", "State"], ["caído", "Occurrence"], ["mar", "State"], ["pesca lúdica", "State"], ["arriba", "State"], ["alerta", "State"], ["avistamento", "State"], ["corpo", "State"], ["boiar", "State"], ["Estação Salva-vidas", "State"], ["recolha", "I_Action"], ["corpo", "State"], ["transportado", "I_Action"], ["marina", "State"], ["Portimão", "State"], ["óbito", "State"], ["declarado", "I_Action"], ["local", "State"], ["delegada", "State"], ["saúde", "State"], ["transportado", "I_Action"], ["gabinete", "State"], ["medicina legal", "State"], ["Portimão", "State"], ["Autoridade Marítima", "State"], ["Polícia Marítima", "State"], ["Portimão", "State"], ["tomou", "I_Action"], ["conta", "State"], ["ocorrência", "State"]]

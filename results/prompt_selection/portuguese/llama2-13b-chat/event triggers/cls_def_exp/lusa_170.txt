@@ -1,38 +1,4 @@
-[
-["Encontrado corpo de homem", "State"],
-["de homem", "Occurrence"],
-["em zona rochosa", "Location"],
-["na costa da Terceira", "Location"],
-["segundo-feira", "Temporal"],
-["desconhecendo-se as causas da morte", "Aspectual"],
-["anunciou hoje", "Reporting"],
-["a Autoridade Marítima", "Agent"],
-["segundo um comunicado", "Reporting"],
-["enviado às redações", "Reporting"],
-["pelas 12:00 locais", "Temporal"],
-["13:00 em Lisboa", "Temporal"],
-["a presença do corpo de um homem a boiar", "Perception"],
-["numa área de domínio público marítimo", "Location"],
-["a informação foi recebida", "Reporting"],
-["através da Polícia de Segurança Pública (PSP)", "Source"],
-["o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local", "Action"],
-["where confirmed 'a presença do corpo de um homem, de 62 anos, já cadáver'", "Perception"],
-["o corpo foi retirado do local", "Action"],
-["pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Action"],
-["e posteriormente transportado para o Hospital de Angra do Heroísmo", "Action"],
-["where será autopsiado para se apurar as causas da morte", "Action"]
-]
+[["Encontrado", "I_Action"], ["corpo", "Occurrence"], ["de", "PrepositionalPhrase"], ["homem", "Noun"], ["em", "PrepositionalPhrase"], ["zona", "Noun"], ["rochosa", "Adjective"], ["na", "PrepositionalPhrase"], ["costa", "Noun"], ["da", "PrepositionalPhrase"], ["Terceira", "Noun"], ["segundo", "Adverb"], ["um", "Determiner"], ["comunicado", "Noun"], ["enviado", "I_Action"], ["às", "PrepositionalPhrase"], ["redações", "Noun"], ["segundo", "Adverb"], ["a", "PrepositionalPhrase"], ["informação", "Noun"], ["foi", "I_Action"], ["recebida", "I_Action"], ["através", "PrepositionalPhrase"], ["da", "PrepositionalPhrase"], ["Polícia", "Noun"], ["de", "PrepositionalPhrase"], ["Segurança", "Noun"], ["Pública", "Noun"], ["e", "Conjunction"], ["o", "Determiner"], ["piquete", "Noun"], ["da", "PrepositionalPhrase"], ["Polícia", "Noun"], ["Marítima", "Noun"], ["de", "PrepositionalPhrase"], ["Angra", "Noun"], ["do", "PrepositionalPhrase"], ["Heroísmo", "Noun"], ["foram", "I_Action"], ["ao", "PrepositionalPhrase"], ["local", "Noun"], ["onde", "PrepositionalPhrase"], ["confirmaram", "I_Action"], ["a", "PrepositionalPhrase"], ["presença", "Noun"], ["do", "PrepositionalPhrase"], ["corpo", "Noun"], ["de", "PrepositionalPhrase"], ["um", "Determiner"], ["homem", "Noun"], ["de", "PrepositionalPhrase"], ["62", "Determiner"], ["anos", "Noun"], ["ja", "Adverb"], ["cadáver", "Noun"]]"
 
 Note:
-
-* State: refers to the state of the entity, in this case, the body of the man.
-* Occurrence: refers to the occurrence of the event, in this case, the finding of the body.
-* Location: refers to the location where the event took place, in this case, the coast of the Terceira island.
-* Temporal: refers to the temporal information of the event, in this case, the day of the week and the time.
-*Aspectual: refers to the aspect of the event, in this case, the fact that the cause of death is unknown.
-* Reporting: refers to the fact that the information is being reported by an entity, in this case, the Authority Marítima.
-* Agent: refers to the entity that performed the action, in this case, the Police Marítima.
-* Source: refers to the source of the information, in this case, the Polícia de Segurança Pública (PSP).
-* Action: refers to the action that was taken, in this case, the retrieval of the body and its transportation to the hospital.
-
-Please note that the output is a list of lists, where each list contains two strings: the entity and the class.
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Encontrado") and the second string is the class (e.g. "I_Action"). The classes are based on the categories you provided in the task.

@@ -1,15 +1,1 @@
-[
-"obrigar companheira a prostituir-se",
-"prostituir-se",
-"obrigar a mulher a prostituir-se",
-"exploração sexual na via pública",
-"sujeita a este tipo de crime",
-"fugiu algumas vezes da sujeição",
-"localizada pelo suspeito",
-"obrigada ou convencida",
-"produto estupefaciente",
-"dependente dele",
-"prática dos crimes de tráfico de pessoas para exploração sexual",
-"sequestro",
-"violação"
-]
+	["preso", "preventivamente", "obrigar", "companheira", "prisão", "juiz", "instrução", "Polícia", "judiciária", "detectou", "levou", "indicação", "MP", "Penafiel", "vítima", "instituição", "acolhimento", "sujeita", "exploração", "sexual", "via", "promessa", "produto", "estupefaciente", "dependente", "suspeito", "localizada", "fugiu", "sujeição", "dependente", "tráfico", "pessoas", "sequestro", "violação"]

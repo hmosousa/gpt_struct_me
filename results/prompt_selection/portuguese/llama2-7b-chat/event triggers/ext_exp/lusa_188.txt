@@ -1,13 +1,1 @@
-[
-"Homem de 48 anos morre em acidente de trabalho em Mogadouro",
-"Trata-se de um acidente que envolve uma queda em altura",
-"O homem de 48 anos trabalhava numa obra de construção civil",
-"A vítima acabou por não resistir aos ferimentos",
-"O alerta foi dado cerca das 17 horas",
-"Nas operações de socorro estiveram envolvidos meios dos bombeiros de Mogadouro",
-"A ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)",
-"Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros",
-"A GNR de Mogadouro tomou conta da ocorrência"
-]
-Note:
-The output is a JSON-parseable list of strings, where each stringrepresents an event trigger. The event triggers are the key phrases or keywords that indicate the occurrence of an event, such as "Homem de 48 anos morre em acidente de trabalho em Mogadouro" or "O alerta foi dado cerca das 17 horas".
+	["morre", "acidente", "trabalho", "Mogadouro", "localidade", "Vilarinhos", "Galegos", "Concelho", "Bragança", "Lusa", "fonte", "bombeiros", "Trata-se", "queda", "altura", "homem", "48", "obra", "construção", "civil", "vítima", "ferimentos", "resistiu", "falecer", "ambulância", "campo", "futebol", "helitransportada", "hospital", "referência", "alerta", "17", "horas", "meios", "bombeiros", "SIV", "VMER", "INEM", "GNR", "Mogadouro", "ocorrência"]

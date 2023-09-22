@@ -1,7 +1,3 @@
-["Homem morre", "ciclomotor", "veículo ligeiro", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "CDOS", "Lusa", "hospital de São Bernardo", "bombeiros", "veículos", "Palmela", "Sapadores de Setúbal", "viatura médica de emergência e reanimação", "VMER"]
+[ "um homem de 34 anos", "o ciclomotor", "veículo ligeiro", "na Estrada Nacional 10-8", "na zona da Mitrena", "em Setúbal", "fontes da PSP e Proteção Civil", "o óbito do homem", "no local", "tendo o corpo sido encaminhado para o serviço de Medicina legal do Hospital de São Bernardo", "em Setúbal", "de acordo com o CDOS", "as 06:55", "bombeiros", "veículos", "as corporações de Palmela e Sapadores de Setúbal", "uma viatura médica de emergência e reanimação (VMER)", "a PSP", "num total de 16 elementos", "cinco veículos"]
 
-Note:
-
-* All participants are extracted in lowercase.
-* No distinction is made between participants and locations.
-* The output is a JSON-parseable list of strings.
+Please note that the output should be a JSON-parseable list of strings, with each string representing a participant in the event.

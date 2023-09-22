@@ -1,28 +1,9 @@
-[
-["Jovem", "State"],
-["autocarro", "Occurrence"],
-["Vila das Aves", "Location"],
-["Hospital São João", "Location"],
-["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
-["Bombeiros da Vila das Aves", "Reporting"],
-["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Reporting"],
-["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Reporting"],
-["GNR", "Reporting"],
-["18:16", "Aspectual"],
-["Lusa", "Reporting"]
-]
-
-Explanation:
-
-* "Jovem" and "autocarro" are entities.
-* "Vila das Aves" and "Hospital São João" are locations.
-* "Rua Luís Gonzaga Mendes de Carvalho" is a location.
-* "Bombeiros da Vila das Aves", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", and "Ambulância de Suporte Imediato de Vida de Santo Tirso" are reporting entities.
-* "GNR" is a reporting entity.
-* "18:16" is an aspectual entity.
-* "Lusa" is a reporting entity.
+[["jovem", "I_Agent"], ["atropelado", "Occurrence"], ["ficou", "State"], ["hoje", "Aspectual"], ["em", "State"], ["estado", "State"], ["grave", "State"], ["pelo", "I_Action"], ["Bombeiros", "I_Agent"], ["Vila", "Location"], ["das", "Location"], ["Aves", "Location"], ["hospital", "Location"], ["São", "Location"], ["João", "Location"], ["no", "Location"], ["local", "Location"], ["prestar", "I_Action"], ["assistência", "I_Action"], ["além", "Conjunction"], ["Viatura", "I_Agent"], ["Médica", "I_Agent"], ["de", "Location"], ["Emergência", "I_Action"], ["Reanimação", "I_Action"], ["de", "Location"], ["Vida", "Location"], ["Santo", "Location"], ["Tirso", "Location"], ["GNR", "I_Agent"], ["local", "Location"]]
 
 Note:
+The classes are the same as in the previous task.
 
-* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
-* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+Hint:
+The input text is a news article about a car accident involving a 14-year-old boy. The classes are the same as in the previous task.
+
+Please let me know if you have any questions or need further clarification.

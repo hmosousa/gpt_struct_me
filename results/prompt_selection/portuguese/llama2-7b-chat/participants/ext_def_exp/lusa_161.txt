@@ -1,12 +1,4 @@
-[
-"Homem",
-"ex-companheira",
-"Vila Nova de Gaia",
-"GNR",
-"Porto",
-"Rua da Figueirinha",
-"Grijó",
-"Vila Nova de Gaia",
-"distrito do Porto",
-"Polícia Judiciária"
-]
+["um homem", "ex-companheira", "Vila Nova de Gaia", "GNR", "Comando Territorial", "Rua da Figueirinha", "Grijó", "distrito do Porto", "62 anos", "20 anos", "relação", "terminar", "Polícia Judiciária"]
+
+Format:
+JSON-parseable list of strings.

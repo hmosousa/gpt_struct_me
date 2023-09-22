@@ -1,22 +1,24 @@
-[
-["Homem morto", "Occurrence"],
-["atirador em fuga", "Occurrence"],
-["hoje", "Aspectual"],
-["às 20:20", "Aspectual"],
-["incidente", "Occurrence"],
-["suspeita de homicídio", "Intensional Action"],
-["investigação", "Intensional State"]
-]
+[["homem", "State"], ["morto", "Occurrence"], ["tiro", "Occurrence"], ["atirador", "State"], ["em fuga", "State"], ["incidente", "Occurrence"], ["ocorreu", "Aspectual"], ["suspeita", "State"], ["homicídio", "State"], ["armas de fogo", "State"], ["investigação", "Occurrence"], ["caso", "Occurrence"]]
 
-Explanation:
-The output is a list of pairs, where each pair consists of an entity and its corresponding class.
+Note:
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
 
-* "Homem morto" is classified as "Occurrence" because it refers to an event that took place, specifically a person being killed.
-* "atirador em fuga" is also classified as "Occurrence" because it refers to an event that took place, specifically the shooter fleeing the scene.
-* "hoje" is classified as "Aspectual" because it refers to a time period during which the event took place.
-* "às 20:20" is also classified as "Aspectual" because it refers to a specific time at which theevent took place.
-* "incidente" is classified as "Occurrence" because it refers to an event that took place, specifically the shooting incident.
-* "suspeita de homicídio" is classified as "Intensional Action" because it refers to a suspected action or event that is being investigated.
-* "investigação" is classified as "Intensional State" because it refers to a state of being investigated.
+The classes are:
 
-Note that some entities may have multiple possible classes, depending on the context and interpretation of the sentence. The classes used in this example are based on one possible interpretation of the sentence.
+* State: refers to any state, situation or condition.
+* Occurrence: refers to any occurrence, incident, action or event.
+* Reporting: refers to any reporting, description or narration of an event or state.
+* Perception: refers to any perception, understanding or interpretation of an event or state.
+* Aspectual: refers to any aspectual information, such as the time or the way something happens.
+* Intensional Action: refers to any action or activity that is intended or planned.
+* Intensional State: refers to any state or situation that is intended or planned.
+
+The task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event or a change in state. They can be verbs, nouns, adjectives or adverbs that convey a sense of time, manner, or cause and effect.
+
+For example, in the sentence "The man was shot dead", "shot" is an event trigger that indicates the occurrence of a violent event, and "dead" is a state trigger that indicates the result of that event. In the sentence "The dog ran away", "ran" is an event trigger that indicates the occurrence of a movement event, and "away" is a state trigger that indicates the result of that event.
+
+Your output should be a list of all event triggers in the text, along with their corresponding class labels. The class labels should be chosen from the list of classes provided above.
+
+Note that some words or phrases may have multiple meanings or functions in different contexts. You should use your judgment to determine the appropriate class label based on the context in which the word or phrase appears.
+
+Also, note that some event triggers may be ambiguous or have multiple possible class labels. In such cases, you should choose the most appropriate class label based on the context and the specific meaning of the word or phrase in that context.

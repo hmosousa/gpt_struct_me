@@ -1,1 +1,1 @@
-["Homem", "proprietário de um restaurante", "mulher", "pessoas", "bombeiros"]
+["fonte da GNR", "uma mulher", "aparentemente embriagada", "o proprietário do restaurante", "a mulher", "consumir bebidas alcoólicas", "via pública", "fonte do Comando Distrital de Operações de Socorro (CDOS)", "Setúbal", "duas pessoas", "ferimentos ligeiros", "ambulância", "meios próprios", "bombeiros", "corporação de Águas de Moura"]

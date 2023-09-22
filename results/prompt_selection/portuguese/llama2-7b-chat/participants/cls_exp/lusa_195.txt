@@ -1,37 +1,10 @@
-[
-{
-"participant": "PJ",
-"class": "Organization"
-},
-{
-"participant": "homem",
-"class": "Person"
-},
-{
-"participant": "restaurante",
-"class": "Location"
-},
-{
-"participant": "coletividade",
-"class": "Location"
-},
-{
-"participant": "grupo de convivas",
-"class": "Group"
-},
-{
-"participant": "vítima",
-"class": "Person"
-}
-]
-]
+[["PJ", "Org"], ["homem suspeito", "Per"], ["balear jovem", "Per"], ["coletividade", "Loc"], ["restaurante", "Fac"], ["vítima", "Per"], ["conflito", "Other"], ["grupo de convivas", "Org"], ["almoçar", "Other"], ["arma de fogo", "Obj"], ["ferimentos", "Per"], ["ombro", "Loc"], ["braço", "Loc"], ["detido", "Per"], ["indiciado", "Org"], ["crimes", "Other"], ["homicídio qualificado", "Per"], ["detenção de arma proibida", "Other"], ["omissão de auxílio", "Other"], ["prisão preventiva", "Org"]]
 
-Explanation:
-The input text describes an incident where a 63-year-old man was arrested for shooting a young person in a restaurant in Setúbal, Portugal. The text mentions the following participants:
-* PJ (Polícia Judiciária): Organization
-* homem (man): Person
-* restaurante (restaurant): Location
-* coletividade (community center): Location
-* grupo de convivas (group of diners): Group
-* vítima (victim): Person
-The task is to extract and classify these participants into their respective categories (Person, Organization, Location, Nature, Facility, and Other).
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with entities and classes marked.
+* The output is the list of entities and their corresponding classes.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.
+* The entities are: PJ (Organization), homem suspeito (Person), balear jovem (Per), coletividade (Location), restaurante (Facility), vítima (Person), conflito (Other), grupo de convivas (Organization), almoçar (Other), arma de fogo (Obj), ferimentos (Per), ombro (Loc), braço (Loc), detido (Person), indiciado (Organization), crimes (Other), homicídio qualificado (Per), detenção de arma proibida (Other), omissão de auxílio (Other), prisão preventiva (Organization).

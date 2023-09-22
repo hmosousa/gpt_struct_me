@@ -1,1 +1,19 @@
-["today", "last conversation", "moment", "last", "minute", "a minute and a half later", "sixteen thousand feet", "center", "hear", "later", "more details", "big", "small", "smoke", "coming up from that", "point", "clear", "contact", "plane", "someone said a prayer", "TWA eight hundred", "center", "I think that was him", "I think so", "God bless him"]
+	["Washington", "today", "Federal Aviation Administration", "TWA Flight", "eight hundred", "Steven Snyder", "TWA eight hundred", "climb", "maintain", "one five thousand", "leavin-", "three thousand", "nearby flight", "Ah", "explosion", "up ahead", "sixteen thousand feet", "It just went down", "Boston center", "TWA eight hundred", "if you hear center", "ident", "response", "Eastwind pilot", "two fireballs", "water", "big small", "smoke", "coming up", "God bless him", "Lisa Stark", "ABC news", "Washington"]
+
+
+Note:
+
+* Time expressions in the input text:
+	* "nearly two months"
+	* "next week"
+	* "Friday"
+	* "Thursday"
+	* "03/06/1998 13:19:00"
+	* "Feb. 23"
+	* "Jan. 13"
+	* "Thursday"
+	* "Friday"
+	* "10-hour"
+	* "Previously"
+	* "over a week"
+	* "1990"

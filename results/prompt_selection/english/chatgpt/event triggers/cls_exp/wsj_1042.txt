@@ -1,1 +1,1 @@
-[["declared", "Occurrence"], ["issued", "Occurrence"], ["purchase", "Intensional Action"], ["exercise", "Intensional Action"], ["issue", "Occurrence"]]
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["exercise", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["exercise", "OCCURRENCE"]]

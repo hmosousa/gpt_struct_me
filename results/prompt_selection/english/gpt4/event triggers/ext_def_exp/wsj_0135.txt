@@ -1,1 +1,1 @@
-["expects net income", "to fall", "expects to post sales", "face margin pressures", "lower demand", "earned", "stock fell", "trading"]
+["expects", "fall", "said", "post", "face", "earned", "fell", "trading"]

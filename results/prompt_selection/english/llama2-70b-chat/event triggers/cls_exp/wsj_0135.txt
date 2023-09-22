@@ -1,31 +1,9 @@
-[
-["Elco Industries Inc.", "State"],
-["net income", "Occurrence"],
-["$1.65 a share", "Reporting"],
-["slightly above", "Aspectual"],
-["fiscal 1989 sales", "Intensional State"],
-["$155 million", "Intensional State"],
-["industrial unit", "State"],
-["margin pressures", "State"],
-["lower demand", "State"],
-["$7.8 million", "Reporting"],
-["$1.65 a share", "Reporting"],
-["stock", "State"],
-["$1.125", "Reporting"],
-["$13.625", "Reporting"]
-]
+[["said", "REPORTING"], ["expects", "I_STATE"], ["fall", "OCCURRENCE"], ["below", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["expects", "I_STATE"], ["post", "OCCURRENCE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["company", "OCCURRENCE"], ["said", "REPORTING"], ["industrial", "OCCURRENCE"], ["unit", "OCCURRENCE"], ["continues", "ASPECTUAL"], ["face", "OCCURRENCE"], ["margin", "OCCURRENCE"], ["pressures", "OCCURRENCE"], ["lower", "OCCURRENCE"], ["demand", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["$7.8 million", "OCCURRENCE"], ["$1.125", "OCCURRENCE"], ["$13.625", "OCCURRENCE"], ["trading", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
 
-* "Elco Industries Inc." is a State entity.
-* "net income" is an Occurrence entity.
-* "$1.65 a share" is a Reporting entity.
-* "slightly above" is an Aspectual entity.
-* "fiscal 1989 sales" and "$155 million" are Intensional State entities.
-* "industrial unit" is a State entity.
-* "margin pressures" and "lower demand" are State entities.
-* "$7.8 million" and "$1.65 a share" are Reporting entities.
-* "stock" is a State entity.
-* "$1.125" and "$13.625" are Reporting entities.
+This task is similar to the Stanford Natural Language Processing Group's (SNLPG) task, "Event Argument Extraction" (EAE).
 
-Note that some entities can fit into multiple classes, but for the purpose of this task, each entity should only be assigned to one class.
+Note:
+This is a sample task. The actual task will have a different input and output.

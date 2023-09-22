@@ -1,19 +1,13 @@
-[
-["segunda-feira", "Date"],
-["12:00 locais", "Time"],
-["13:00 em Lisboa", "Time"],
-["62 anos", "Duration"],
-["hoje", "Date"],
-["através da Polícia de Segurança Pública (PSP)", "Set"]
-]
+[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["62 anos", "Duration"], ["hoje", "Date"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Note:
+The input text can be in any language, but the classes are in English.
 
-* "segunda-feira" (second Monday) is a date and can be classified as such.
-* "12:00 locais" (12:00 local time) and "13:00 em Lisboa" (13:00 in Lisbon) are times and can be classified as such.
-* "62 anos" (62 years) is a duration and can be classified as such.
-* "hoje" (today) is a date and can be classified as such.
-* "através da Polícia de Segurança Pública (PSP)" (through the Public Security Police) is a set and can be classified assuch.
+Hint:
+You can use regular expressions to extract the temporal expressions.
 
-Note that the input text contains other temporal expressions that are not relevant to this task, such as "desconhecendo-se as causas da morte" (not knowing the causes of death) and "tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo" (having been transported to Angra do Heroísmo Hospital later). These expressions should be ignored for the purpose of this task.
+Note:
+The input text can have more than one temporal expression.
+
+Note:
+The output format is a JSON-parseable list.

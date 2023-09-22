@@ -1,1 +1,1 @@
-["passada", "quarta-feira", "hoje"]
+["passada quarta-feira", "quarta-feira", "sexagenário"]

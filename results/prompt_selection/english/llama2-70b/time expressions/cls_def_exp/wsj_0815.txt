@@ -1,1 +1,1 @@
-[["said", "Time"], ["continuing", "Duration"], ["talks", "Set"], ["potential", "Set"], ["buyers", "Set"], ["certain", "Set"], ["units", "Set"], [",", ","], ["but", "Set"], ["has", "Set"], ["reached", "Time"], ["no", "Set"], ["agreement", "Set"], ["on", "Set"], ["any", "Set"], ["deals.", "Set"]]
+[["Di Giorgio Corp.", "ORGANIZATION"], ["$32-a-share", "MONEY"], ["DIG Acquisition Corp.", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"], ["$32-a-share", "MONEY"], ["DIG", "ORGANIZATION"], ["Robert Mellor", "PERSON"], ["Di Giorgio", "ORGANIZATION"]]

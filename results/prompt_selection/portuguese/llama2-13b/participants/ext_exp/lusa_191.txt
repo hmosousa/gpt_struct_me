@@ -1,110 +1,16 @@
-"Homem", "morre", "esfaqueado", "costas", "mercado", "Arroios", "Lisboa", "sequência", "desentendimento", "agência", "Lusa", "PSP", "Cometlis", "rua", "Ângela Pinto", "cabeça", "pedir", "ajuda", "desentendimento", "indivíduos", "arma", "branca", "esfaqueado", "zona", "costas", "polícia", "informações", "caso", "detido", "Avenida", "Almirante", "Reis", "fuga", "dados", "suspeito", "crime", "PJ", "acionada", "homicídio", "cabeça", "fitas", "segurança"
+["Um homem de 29 anos", "morreu hoje", "depois de ter sido esfaqueado", "as costas", "junto ao mercado de Arroios", "em Lisboa", "na sequência de um desentendimento", "informou à agência Lusa", "a PSP", "De acordo com o Comando Metropolitano de Lisboa", "Cometlis", "o esfaqueamento", "terá ocorrido", "na rua Ângela Pinto", "pelas 10:54", "tendo o óbito", "declarado dentro de um café", "onde a vítima terá ido pedir ajuda", "Terá sido um desentendimento", "entre dois indivíduos", "que envolveu uma arma branca", "tendo um deles", "esfaqueado na zona das costas", "Ainda a recolher informações", "sobre o caso", "a PSP avançou", "que o suspeito", "do crime terá sido detido", "na Avenida Almirante Reis", "após tentativa de fuga", "A polícia referiu", "que aguarda mais dados", "relativamente ao suspeito", "À Lusa", "fonte da polícia", "adiantou ainda", "que a Polícia Judiciária", "PJ", "ja foi acionada", "por se tratar", "de um crime de homicídio", "Cerca das 14:34", "o local do crime", "encontrava-se preservado", "pelas forças policiais", "e com fitas de segurança"]
 
-Explanation:
-The task is to extract all participants.
+Format:
+JSON-parseable list of strings.
 
-The input is a JSON-parseable list of strings.
+Input:
+"Homem morre após ser esfaqueado nas costas junto ao mercado de Arroios em Lisboa
+Um homem de 29 anos morreu hoje depois de ter sido esfaqueado nas costas junto ao mercado de Arroios, em Lisboa, na sequência de um desentendimento, informou à agência Lusa a PSP.
+De acordo com o Comando Metropolitano de Lisboa (Cometlis), o esfaqueamento terá ocorrido na rua Ângela Pinto, pelas 10:54, tendo o óbito sido declarado dentro de um café, onde a vítima terá ido pedir ajuda.
+“Terá sido um desentendimento entre dois indivíduos que envolveu uma arma branca, tendo um deles sido esfaqueado na zona das costas”, disse fonte do Cometlis.
+Ainda a recolher informações sobre o caso, a PSP avançou que o suspeito do crime terá sido detido na Avenida Almirante Reis após tentativa de fuga. A polícia referiu que aguarda mais dados relativamente ao suspeito.
+À Lusa, fonte da polícia adiantou ainda que a Polícia Judiciária (PJ) já foi acionada por se tratar de um crime de homicídio.
+Cerca das 14:34, o local do crime encontrava-se preservado pelas forças policiais e com fitas de segurança."
 
-The output is a JSON-parseable list of strings.
-
-The input is a news article.
-
-The output is a list of all participants.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings.
-
-The output is a list of strings.
-
-The input is a list of strings
+Output:
+["Um homem de 29 anos", "morreu hoje", "depois de ter sido esfaqueado", "as costas", "junto ao mercado de Arroios", "em Lisboa", "na sequência de um desentendimento", "informou à agência Lusa", "a PSP", "De acordo com o Comando Metropolitano de Lisboa", "Cometlis", "o esfaqueamento", "terá ocorrido", "na rua Ângela Pinto", "pelas 10:54", "tendo o óbito", "declarado dentro de um café", "onde a vítima terá ido pedir ajuda", "Terá sido um desentendimento", "entre dois indivíduos", "que envolveu uma arma branca", "tendo um deles", "esfaqueado na zona das

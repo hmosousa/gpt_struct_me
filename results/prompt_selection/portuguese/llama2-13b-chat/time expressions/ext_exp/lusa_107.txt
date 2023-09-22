@@ -1,4 +1,4 @@
-[
-"12:50",
-"sem gravidade"
-]
+["em menos de uma semana", "12:50", "hoje", "junto ao cais da Torreira", "final de semana", "30 nov 2020", "época de veda", "épocas de veda"]
+
+Note:
+The task is to extract all time expressions from the text, regardless of their format (date, time, duration, etc.). The output should be a JSON-parseable list of strings, where each string represents a time expression.

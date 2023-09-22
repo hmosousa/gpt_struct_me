@@ -1,1 +1,1 @@
-["net income jumped", "soared", "closed", "began trading", "has interests", "reported", "rose"]
+["said", "jumped", "closed", "began", "trading", "closed", "reported", "rose"]

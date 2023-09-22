@@ -1,4 +1,7 @@
-["hoje", "às 20:20", "não adiantando"]
+["hoje", "20:20", "agência Lusa", "Direção Nacional da Polícia de Segurança Pública (PSP)", "hoje", "20:20", "polícia judiciária"]
 
-Explanation:
-The input text contains three time expressions: "hoje" (today), "às 20:20" (at 8:20 PM), and "não adiantando" (not disclosing). These expressions are extracted and listed in the output.
+Hint:
+Note that some time expressions can be found in different forms, such as "em menos de uma semana" and "menos de uma semana". Both expressions convey the same meaning, but the first one is more explicit.
+
+Note:
+The output should be a JSON-parseable list of strings, where each string represents a time expression found in the input text.

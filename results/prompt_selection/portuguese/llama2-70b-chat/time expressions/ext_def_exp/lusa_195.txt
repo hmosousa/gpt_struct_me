@@ -1,1 +1,6 @@
-["na passada quarta-feira", "hoje", "no Alto da Guerra", "sexagenário", "jovem", "um disparo de arma de fogo", "provocando-lhe ferimentos consideráveis num ombro e braço", "o detido", "crimes de homicídio qualificado na forma tentada", "detenção de arma proibida", "omissão de auxílio", "Já foi presente a primeiro interrogatório judicial", "tendo-lhe sido aplicada a medida de coação de prisão preventiva"]
+["na passada quarta-feira", "30 nov 2020", "quarta-feira"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

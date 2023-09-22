@@ -1,7 +1,1 @@
-[
-"06:55",
-"16:55"
-]
-
-Explanation:
-The task is to extract all time expressions from the given text. The output should be a JSON-parseable list of strings, where each string represents a time expression. In this case, there are two time expressions: "06:55" and "16:55".
+["hoje", "34 anos", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "agência Lusa", "CDOS", "hospital de São Bernardo", "Palmela", "Sapadores de Setúbal", "viatura médica de emergência e reanimação (VMER)", "06:55"]

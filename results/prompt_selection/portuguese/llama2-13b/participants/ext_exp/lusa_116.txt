@@ -1,1 +1,37 @@
-["Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso", "Um jovem de 14 anos ficou hoje em estado grave após ter sido atropelado por um autocarro na Vila das Aves, concelho de Santo Tirso, disse à Lusa fonte da Proteção Civil.", "O jovem, após ter sido assistido no local, foi transportado pelos Bombeiros da Vila das Aves para o Hospital São João, no Porto, acrescentou a fonte.", "O acidente ocorreu pela 18:16, na Rua Luís Gonzaga Mendes de Carvalho.", "No local, a prestar assistência, para além dos Bombeiros da Vila das Aves, esteve a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão, a Ambulância de Suporte Imediato de Vida de Santo Tirso e a GNR local, disse à Lusa fonte da corporação."]
+["Um jovem de 14 anos", "ficou hoje em estado grave", "ter", "atropelado", "um autocarro", "na Vila das Aves", "concelho de Santo Tirso", "diz", "fonte", "Proteção Civil", "Um jovem", "14 anos", "fazer", "assistido", "local", "transportado", "Bombeiros", "Vila das Aves", "Hospital São João", "Porto", "acidente", "18:16", "Rua Luís Gonzaga Mendes de Carvalho", "local", "prestar assistência", "além", "Bombeiros", "Vila das Aves", "Viatura Médica", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte Imediato", "Vida", "Santo Tirso", "GNR", "fonte", "corporação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia
+Pessoas que não pagam impostos podem ser presas, diz ministro da Economia

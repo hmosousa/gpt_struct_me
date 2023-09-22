@@ -1,1 +1,1 @@
-[["Sunday", "Date"], ["Cabinet", "Set"], ["1978", "Date"], ["Friday", "Date"], ["Sunday", "Date"], ["1985", "Date"], ["last week", "Duration"], ["last February", "Date"], ["Sunday", "Date"], ["Two top aides", "Set"], ["Sunday", "Date"], ["nearly two years", "Duration"], ["six weeks ago", "Duration"]]
+[["Sunday", "DATE"], ["Sunday", "DATE"], ["1978", "DATE"], ["Friday", "DATE"], ["Sunday", "DATE"], ["Friday", "DATE"], ["1985", "DATE"], ["last week", "DATE"], ["last February", "DATE"], ["two years", "DURATION"], ["six weeks ago", "DATE"]]

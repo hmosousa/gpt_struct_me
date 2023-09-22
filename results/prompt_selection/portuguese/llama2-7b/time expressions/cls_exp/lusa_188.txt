@@ -1,5 +1,30 @@
-"2019-07-25T19:00:00.000Z"
+[["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"], ["48 anos", "Age"]]
 
-Explanation:
-The output is a string with the date and time of the event.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 48 anos morre em acidente de trabalho em Mogadouro
+Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.
+"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.
+O alerta foi dado cerca das 17 horas.
+Nas operações de socorro estiveram envolvidos meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).
+Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros
+A GNR de Mogadouro tomou conta da ocorrência."
 

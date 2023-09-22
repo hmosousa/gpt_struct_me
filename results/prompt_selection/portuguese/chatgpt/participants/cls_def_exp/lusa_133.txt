@@ -1,17 +1,1 @@
-[
-["GNR", "Organization"],
-["Aveiro", "Location"],
-["atum-rabilho", "Object"],
-["coima", "Other"],
-["porto de pesca costeira da Gafanha da Nazaré", "Location"],
-["Guarda", "Organization"],
-["fiscalização", "Other"],
-["regras de descarga, transporte, comercialização e regime de primeira venda de pescado fresco", "Other"],
-["veículo", "Object"],
-["embarcação de pesca", "Object"],
-["condutor do veículo", "Person"],
-["mestre da embarcação", "Person"],
-["auto de contraordenação", "Object"],
-["espécie", "Nature"],
-["instituição de solidariedade social", "Organization"]
-]
+[["A GNR", "Org"], ["390 quilogramas de atum-rabilho", "Obj"], ["cuja captura", "Other"], ["uma coima até 37.500 euros", "Other"], ["o porto de pesca costeira da Gafanha da Nazaré", "Loc"], ["Aveiro", "Loc"], ["hoje", "Other"], ["comunicado", "Other"], ["A Guarda", "Org"], ["A apreensão", "Other"], ["segunda-feira", "Other"], ["uma ação de fiscalização", "Other"], ["o cumprimento das regras", "Other"], ["descarga, transporte, comercialização e regime de primeira venda de pescado fresco", "Other"], ["a nota de imprensa", "Other"], ["a operação", "Other"], ["os militares", "Per"], ["num veículo", "Other"], ["77 quilos de atum-rabilho", "Obj"], ["no seguimento das posteriores diligências", "Other"], ["a GNR", "Org"], ["a Guarda", "Org"], ["o condutor do veículo", "Per"], ["o mestre da embarcação", "Per"], ["o auto de contraordenação", "Other"], ["o transporte e a captura desta espécie", "Other"], ["uma infração punível", "Other"], ["uma coima até 37.500 euros", "Other"], ["O pescado apreendido", "Obj"], ["um controlo higiossanitário", "Other"], ["uma instituição de solidariedade social", "Org"], ["o comunicado", "Other"]]

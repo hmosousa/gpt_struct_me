@@ -1,27 +1,4 @@
-[
-["Xerox Corp.", "State"],
-["Crum amp Forster", "Aspectual"],
-["employees", "Occurrence"],
-["staff functions", "Intensional Action"],
-["cost-cutting move", "Intensional Action"],
-["charge", "Occurrence"],
-["earnings", "State"],
-["financial-services operations", "State"],
-["capital gains", "Occurrence"],
-["Hurricane Hugo payments", "Occurrence"],
-["reserves", "State"]
-]
+[["Xerox Corp.", "ORGANIZATION"], ["told", "REPORTING"], ["employees", "OCCURRENCE"], ["laying", "OCCURRENCE"], ["off", "OCCURRENCE"], ["about", "OCCURRENCE"], ["300", "NUMBER"], ["people", "OCCURRENCE"], ["25%", "NUMBER"], ["staff", "OCCURRENCE"], ["early", "OCCURRENCE"], ["this", "OCCURRENCE"], ["week", "OCCURRENCE"], ["numerous", "OCCURRENCE"], ["staff", "OCCURRENCE"], ["functions", "OCCURRENCE"], ["going", "OCCURRENCE"], ["to", "OCCURRENCE"], ["be", "OCCURRENCE"], ["centralized", "OCCURRENCE"], ["cost-cutting", "OCCURRENCE"], ["move", "OCCURRENCE"], ["result", "OCCURRENCE"], ["in", "OCCURRENCE"], ["after-tax", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["less", "NUMBER"], ["than", "COMPARISON"], ["$4", "NUMBER"], ["million", "NUMBER"], ["to", "OCCURRENCE"], ["be", "OCCURRENCE"], ["spread", "OCCURRENCE"], ["over", "OCCURRENCE"], ["the", "OCCURRENCE"], ["next", "OCCURRENCE"], ["three", "NUMBER"], ["quarters", "OCCURRENCE"], ["By", "OCCURRENCE"], ["comparison", "OCCURRENCE"], ["for", "OCCURRENCE"], ["the", "OCCURRENCE"], ["first", "OCCURRENCE"], ["nine", "NUMBER"], ["months", "OCCURRENCE"], ["Xerox", "ORGANIZATION"], ["earned", "OCCURRENCE"], ["$492", "NUMBER"], ["million", "NUMBER"], ["on", "OCCURRENCE"], ["revenue", "OCCURRENCE"], ["of", "OCCURRENCE"], ["$12.97", "NUMBER"], ["billion", "NUMBER"]]
 
-Explanation:
-
-* Xerox Corp. is a State, as it is a company that exists over time.
-* Crum amp Forster is an Aspectual, as it is a specific operation within Xerox Corp.
-* Employees are an Occurrence, as they are a specific group of people who are affected by the layoffs.
-* Staff functions are an Intensional Action, as they are specific actions that are being centralized.
-* The cost-cutting move is an Intensional Action, as it is a specific action being taken by Xerox Corp.
-* Charge is an Occurrence, as it is a specific amount of money that is being set aside.
-* Earnings are a State, as they represent the financial performance of Xerox Corp. over time.
-* Financial-services operations are a State, as they represent the ongoing operations of Xerox Corp.
-* Capital gains are an Occurrence, as they represent a specific increase in value.
-* Hurricane Hugo payments are an Occurrence, as they represent specific payments being made.
-* Reserves are a State, as they represent the amount of money set aside for future payments.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

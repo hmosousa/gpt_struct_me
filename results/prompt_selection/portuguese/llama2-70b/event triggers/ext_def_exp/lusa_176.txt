@@ -1,1 +1,1 @@
-["morrer", "colher", "conduzir", "ter"]
+["morrem", "ciclomotor", "colhidos", "veículo ligeiro", "Setúbal", "homem", "conduzia", "ter", "colhido", "veículo ligeiro", "zona", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "CDOS", "Setúbal", "Lusa", "corpo", "encaminhado", "Serviço de Medicina Legal", "Hospital de São Bernardo", "Setúbal", "alerta", "dado", "bombeiros", "Sapadores de Setúbal", "viatura médica de emergência e reanimação", "VMER", "PSP"]

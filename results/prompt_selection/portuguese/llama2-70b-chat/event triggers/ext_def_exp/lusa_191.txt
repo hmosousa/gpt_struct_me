@@ -1,1 +1,3 @@
-["Homem morre", "esfaqueado", "desentendimento", "tentativa de fuga", "detido", "homicídio", "crime"]
+["morreu", "esfaqueado", "costas", "mercado", "Arroios", "Lisboa", "desentendimento", "esfaqueamento", "rue", "Comando", "Metropolitano", "Lisboa", "Cometlis", "obito", "café", "ajuda", "desentendimento", "indivíduos", "arma", "branca", "suspeito", "crime", "detido", "Avenida", "Almirante", "Reis", "fuga", "polícia", "PJ", "homicídio", "local", "crime", "fitas", "segurança"]
+
+Please extract all event triggers from the given text.

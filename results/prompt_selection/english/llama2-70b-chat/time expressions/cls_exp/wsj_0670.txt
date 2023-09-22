@@ -1,19 +1,114 @@
-[
-["National Intergroup Inc.", "Date"],
-["third quarter", "Time"],
-["$5.3 million", "Duration"],
-["$15 million", "Duration"],
-["$30 million", "Duration"],
-["year-ago third quarter", "Time"],
-["$22.5 million", "Duration"],
-["$18 million", "Duration"],
-["$778.6 million", "Duration"],
-["two years", "Duration"],
-["fiscal 1989", "Date"]
-]
+[["$5.3 million", "NUMBER"], ["$15 million", "NUMBER"], ["$30 million", "NUMBER"], ["$18 million", "NUMBER"], ["$778.6 million", "NUMBER"], ["$40 million", "NUMBER"], ["$1.5 million", "NUMBER"]]
 
 Note:
-The input text contains multiple time expressions. Your task is to extract and classify all of them.
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-Hint:
-You can use named entities to help identify time expressions.
+Note:
+The input date format is MM/DD/YYYY.
+
+Note:
+The input time format is HH:MM:SS.
+
+Note:
+The input duration format is HH:MM:SS.
+
+Note:
+The input set format is DAILY/WEEKLY/MONTHLY/YEARLY.
+
+Note:
+The input date and time format can be in different formats, but it should be consistent throughout the input.
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The input and output should be in the same format as the example given.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note:
+The output should contain all the time expressions, dates, times, durations, and sets found in the input text, along with their corresponding classes.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note:
+The output should contain all the time expressions, dates, times, durations, and sets found in the input text, along with their corresponding classes.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note:
+The output should contain all the time expressions, dates, times, durations, and sets found in the input text, along with their corresponding classes.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note:
+The output should contain all the time expressions, dates, times, durations, and sets found in the input text, along with their corresponding classes.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note:
+The output should contain all the time expressions, dates, times, durations, and sets found in the input text, along with their corresponding classes.
+
+Note:
+The output should be in the same format as the input.
+
+Note:
+The task is to extract and classify all time expressions, dates, times, durations, and sets from the given text.
+
+Note:
+The classes are DATE, TIME, DURATION, and SET.
+
+Note:
+The input text can contain multiple time expressions, dates, times, durations, and sets.
+
+Note

@@ -1,11 +1,2 @@
-["heavy gunfire", "offensive", "people fleeing", "official Serb sources", "operation over", "future", "much wider conflict"]
 
-Explanation:
-
-* "heavy gunfire" is an event trigger because it indicates that there is ongoing violence in the area.
-* "offensive" is an event trigger because it suggests that the security forces are actively engaging in an attack.
-* "people fleeing" is an event trigger because it indicates that the situation is becoming dangerous for the local population.
-* "official Serb sources" is an event trigger because it suggests that there may be a formal statement or announcement coming from the Serbian government.
-* "operation over" is an event trigger because it suggests that the offensive may have ended.
-* "future" is an event trigger because it implies that the current events may have long-term consequences.
-* "much wider conflict" is an event trigger because it suggests that the current conflict may escalate into a larger, more widespread conflict.
+[ "offensive", "security", "forces", "villages", "ethnic", "Albanians", "fearing", "afraid", "stay", "operation", "official", "Serb", "sources", "saying", "mid", "afternoon", "confirmed", "Belgrade", "future", "witnessing", "much", "wider", "conflict" ]

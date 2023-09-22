@@ -1,18 +1,166 @@
-["Apreensão", "fiscalização", "descarga", "transporte", "comercialização", "primeira venda", "pescado fresco", "embarcação de pesca", "condutor", "mestre", "coima", "infração", "higiossanitário", "solidariedade social"]
 
-Explanation:
+JSON-parseable list of strings.
 
-* Apreensão: The event of the seizure of the 390 kilograms of tuna.
-* Fiscalização: The act of controlling the compliance with regulations.
-* Descarga: The event of unloading the tuna from the vehicle.
-* Transporte: The event of transporting the tuna.
-* Comercialização: The event of selling the tuna.
-* Primeira venda: The event of selling the tuna for the first time.
-* Pescado fresco: The event of the tuna being fresh.
-* Embarcação de pesca: The event of the fishing boat being involved in the seizure.
-* Condutor: The persondriving the vehicle.
-* Mestre: The person in charge of the fishing boat.
-* Coima: The fine for the infraction.
-* Infração: The act of breaking the law.
-* Higiossanitário: The event of the tuna being subjected to a hygiene and sanitary inspection.
-* Solidariedade social: The event of the tuna being donated to a social solidarity institution.
+Note:
+
+* The list of strings should be in the format of an array of objects, where each object represents a single event trigger.
+* Each object should have the following properties:
+	+ "text": the text of the event trigger (e.g. "pediu", "desculpa", "erros", etc.)
+	+ "type": the type of event trigger (e.g. "verb", "noun", "adjective", etc.)
+	+ "pos": the part of speech of the event trigger (e.g. "verb", "noun", "adjective", etc.)
+
+Example output:
+
+[
+{
+"text": "pediu",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "erros",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "levaram",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "mortes",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "divulgação",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "explicou",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "implementado",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "investigação",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "Quero",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "pedir",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "erros",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "cometidos",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "disse",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "fraco controlo",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "desencadearam",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "infeções",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "estado em grande parte livre",
+"type": "adjective",
+"pos": "adjective"
+},
+{
+"text": "morreram",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "fornece",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "segurança",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "feito",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "registada",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "caso",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "transmissão comunitária",
+"type": "noun",
+"pos": "noun"
+},
+{
+"

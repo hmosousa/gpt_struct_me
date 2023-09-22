@@ -1,30 +1,10 @@
-[
-["Homem", "Person"],
-["veículo ligeiro", "Object"],
-["Estrada Nacional 10-8", "Location"],
-["Mitrena", "Location"],
-["PSP", "Organization"],
-["Proteção Civil", "Organization"],
-["Comando Distrital de Operações de Socorro", "Organization"],
-["Hospital de São Bernardo", "Location"],
-["bombeiros", "Organization"],
-["veículos", "Object"],
-["VMER", "Object"]
-]
-
-Explanation:
-
-* "Homem" is a person.
-* "veículo ligeiro" is an object.
-* "Estrada Nacional 10-8" and "Mitrena" are locations.
-* "PSP" and "Proteção Civil" are organizations.
-* "Comando Distrital de Operações de Socorro" is an organization.
-* "Hospital de São Bernardo" is a location.
-* "bombeiros" and "veículos" are objects.
-* "VMER" is an object.
+[["um homem", "Per"], ["34 anos", "Other"], ["morreu", "Per"], ["hoje", "Other"], ["o ciclomotor", "Obj"], ["que conduzia", "Per"], ["ter sido colhido", "Other"], ["por um veículo ligeiro", "Other"], ["na Estrada Nacional 10-8", "Loc"], ["na zona da Mitrena", "Loc"], ["em Setúbal", "Loc"], ["disseram fontes", "Org"], ["da PSP e Proteção Civil", "Org"], ["Fonte do Comando Distrital de Operações de Socorro", "Org"], ["de Setúbal", "Loc"], ["indicou à agência Lusa", "Org"], ["que o óbito", "Other"], ["do homem", "Per"], ["foi declarado", "Other"], ["no local", "Loc"], ["tendo o corpo", "Other"], ["been encaminhado", "Other"], ["para o serviço de Medicina legal", "Other"], ["do Hospital de São Bernardo", "Other"], ["em Setúbal", "Loc"], ["O alerta", "Other"], ["de acordo com o CDOS", "Org"], ["foi dado", "Other"], ["às 06:55", "Other"], ["tendo sido mobilizados", "Other"], ["bombeiros", "Org"], ["e veículos", "Org"], ["das corporações", "Org"], ["de Palmela e Sapadores", "Org"], ["de Setúbal", "Loc"], ["e uma viatura médica", "Other"], ["de emergência e reanimação", "Other"], ["VMER", "Other"], ["além da PSP", "Org"], ["num total de 16 elementos", "Other"], ["apoiados por cinco veículos", "Other"]]
 
 Note:
 
-* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
-* The entities are extracted from the text using named entity recognition techniques.
-* The classes are predefined categories that the entities are grouped into.
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

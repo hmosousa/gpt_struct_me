@@ -1,19 +1,3 @@
-[
-["Homem de 48 anos", "State"],
-["acidente de trabalho", "Occurrence"],
-["Um homem de 48 morreu", "Reporting"],
-["Trata-se de um acidente que envolve uma queda em altura", "Perception"],
-["O homem de 48 anos trabalhava numa obra de construção civil", "Aspectual"],
-["A vítima acabaria por não resistir aos ferimentos", "Intensional Action"],
-["acabando por falecer", "Intensional State"]
-]
+[["Homem", "State"], ["morre", "Occurrence"], ["acidente", "Occurrence"], ["trabalho", "State"], ["localidade", "State"], ["Vilarinhos dos Galegos", "State"], ["Concelho", "State"], ["Mogadouro", "State"], ["distrito", "State"], ["Bragança", "State"], ["Lusa", "Reporting"], ["fonte", "State"], ["bombeiros", "State"], ["acidente", "Occurrence"], ["queda", "Occurrence"], ["altura", "State"], ["trabalhava", "State"], ["obra", "State"], ["construção", "State"], ["civil", "State"], ["vítima", "State"], ["não resistir", "Occurrence"], ["ferimentos", "State"], ["falecer", "Occurrence"], ["transportada", "Occurrence"], ["ambulância", "State"], ["campo", "State"], ["futebol", "State"], ["helitransportada", "Occurrence"], ["hospital", "State"], ["referência", "State"], ["alerta", "Occurrence"], ["dado", "State"], ["17 horas", "State"], ["operações", "State"], ["socorro", "State"], ["bombeiros", "State"], ["Mogadouro", "State"], ["ambulância", "State"], ["SIV", "State"], ["VMER", "State"], ["INEM", "State"], ["helicóptero", "State"], ["INEM", "State"], ["Macedo de Cavaleiros", "State"], ["GNR", "State"], ["Mogadouro", "State"], ["tomou", "I_Action"], ["contar", "I_Action"], ["ocorrência", "State"]]
 
-Explanation:
-
-* "Homem de 48 anos" is a State as it describes the age of the victim.
-* "acidente de trabalho" is an Occurrence as it refers to an event that happened at work.
-* "Um homem de 48 morreu" is a Reporting as it reports the death of a man.
-* "Trata-se de um acidente que envolve uma queda em altura" is a Perception as it describes the nature of the accident.
-* "O homem de 48 anos trabalhava numa obra de construção civil" is an Aspectual as it describes the victim's job.
-* "A vítima acabaria por não resistir aos ferimentos" is an Intensional Action as it describes the victim's fate.
-* "acabando por falecer" is an Intensional State as it describes the victim's final state.
+Please note that the input and output are in Portuguese.

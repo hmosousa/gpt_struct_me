@@ -1,17 +1,1 @@
-[
-"Homem ferido com gravidade",
-"Proprietário de restaurante em Cajados",
-"69 anos",
-"Palmela",
-"GNR",
-"Vítima",
-"Em estado de coma",
-"Hospital de São Bernardo",
-"Setúbal",
-"Mulher embriagada",
-"Automóvel",
-"Proibido o consumo de álcool na via pública",
-"Comando Distrital de Operações de Socorro",
-"CDOS",
-"Bombeiros da corporação de Águas de Moura"
-]
+	["Homem ferido", "com gravidade", "após agressão", "com uma garrafa", "no restaurante", "em Palmela", "Setúbal", "ficou", "hoje ferido", "com gravidade", "após ter sido", "agredido", "no seu estabelecimento", "com uma garrafa", "diz fonte", "da GNR", "a vítima", "foi transportada", "em estado de coma", "para o hospital", "de São Bernardo", "em Setúbal", "segundo a fonte", "da GNR", "a agressão", "foi efetuada", "hoje à tarde", "por uma mulher", "aparentemente embriagada", "que se pôs", "em fuga", "conduzindo um automóvel", "de acordo com a guarda", "foi motivada", " pelo facto", "do proprietário", "do restaurante", "não querer", "que a mulher", "estivesse a consumir", "bebidas alcoólicas", "longo ao seu estabelecimento", "por ser", "proibido o consumo", "de álcool na via pública", "de acordo com fonte", "do CDOS", "outras duas pessoas", "envolvidas nesta", "ocorrência sofreram", "ferimentos ligeiros", "tendo ambas", " sido transportadas", "também para o hospital", "de São Bernardo", "uma de ambulância", "e outra por meios próprios", "segundo o CDOS", "foram mobilizados", "para o local", "bombeiros da corporação", "de Águas de Moura"]

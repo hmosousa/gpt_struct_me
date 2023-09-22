@@ -1,31 +1,3 @@
-[
-["Homem", "State"],
-["ciclomotor", "Occurrence"],
-["veículo ligeiro", "Occurrence"],
-["Estrada Nacional 10-8", "Aspectual"],
-["Mitrena", "Aspectual"],
-["Setúbal", "Aspectual"],
-["PSP", "Reporting"],
-["Proteção Civil", "Reporting"],
-["Comando Distrital de Operações de Socorro (CDOS)", "Reporting"],
-["Hospital de São Bernardo", "Aspectual"],
-["Medicina legal", "Aspectual"],
-["Palmela", "Aspectual"],
-["Sapadores de Setúbal", "Aspectual"],
-["VMER", "Reporting"],
-["PSP", "Intensional Action"],
-["num total de 16 elementos", "Intensional State"]
-]
+[["Homem", "State"], ["morreu", "Occurrence"], ["ciclomotor", "State"], ["ter", "Aspectual"], ["colhido", "Occurrence"], ["veículo ligeiro", "State"], ["Estrada Nacional 10-8", "State"], ["zona da Mitrena", "State"], ["Setúbal", "State"], ["PSP", "State"], ["Proteção Civil", "State"], ["Fonte", "State"], ["Comando Distrital de Operações de Socorro", "State"], ["CDOS", "State"], ["Setúbal", "State"], ["óbito", "Occurrence"], ["corpo", "State"], ["encaminhado", "I_Action"], ["serviço de Medicina legal", "State"], ["Hospital de São Bernardo", "State"], ["Setúbal", "State"], ["alerta", "Occurrence"], ["dado", "I_Action"], ["06:55", "State"], ["mobilizados", "I_Action"], ["bombeiros", "State"], ["veículos", "State"], ["Palmela", "State"], ["Sapadores de Setúbal", "State"], ["VMER", "State"], ["PSP", "State"], ["apoiados", "I_Action"], ["cinco veículos", "State"]]
 
-Explanation:
-
-* "Homem" is classified as "State" because it refers to the victim's condition.
-* "ciclomotor" and "veículo ligeiro" are classified as "Occurrence" because they refer to the objects involved in the accident.
-* "Estrada Nacional 10-8", "Mitrena", and "Setúbal" are classified as "Aspectual" because they provide additional information about the location of the accident.
-* "PSP" and "Proteção Civil" are classified as "Reporting" because they are organizations involved in the response to the accident.
-* "Comando Distrital de Operações de Socorro (CDOS)" is classified as "Reporting" because it is an organization involved in the response to the accident, and the information provided is about the response efforts.
-* "Hospital de São Bernardo" and "Medicina legal" are classified as "Aspectual" because they provide additional information about the location where the victim's body was taken.
-* "Palmela" and "Sapadores de Setúbal" are classified as "Aspectual" because they provide additional information about the location where the accident occurred.
-* "VMER" is classified as "Reporting" because it is an organizationinvolved in the response to the accident.
-* "PSP" is classified as "Intensional Action" because it refers to the organization's actions in response to the accident.
-* "num total de 16 elementos" is classified as "Intensional State" because it refers to the current state of the response efforts.
+Please note that the input and output are in Portuguese.

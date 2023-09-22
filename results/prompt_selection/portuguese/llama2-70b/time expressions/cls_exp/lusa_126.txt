@@ -1,1 +1,1 @@
-[["2", "Date"], ["34", "Duration"], ["43", "Duration"], ["Sines", "Set"], ["sábado", "Time"]]
+[["sábado", "Date"], ["Santiago do Cacém", "Location"]]

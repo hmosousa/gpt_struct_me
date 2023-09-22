@@ -1,18 +1,49 @@
-[
-["hoje", "Date"],
-["10:30", "Time"],
-["10 anos", "Duration"],
-["20 anos", "Duration"],
-["10", "Set"]
-]
+[["hoje", "Date"], ["10:30", "Time"], ["10:30", "Time"], ["20", "Duration"], ["10", "Duration"], ["10", "Duration"]]
 
-Explanation:
-The input text contains several temporal expressions:
+Note:
+The input text can be in any language.
 
-* "hoje" (today) is a date expression and should be classified as such.
-* "10:30" is a time expression and should be classified as such.
-* "10 anos" (10 years) is a duration expression and should be classified as such.
-* "20 anos" (20 years) is also a duration expression and should be classified as such.
-* "10" (10) is a set expression, as it represents a specific quantity, and should be classified as such.
+Note:
+The output format is a JSON-parseable list.
 
-The output should be a JSON-parseable list of tuples, where each tuple contains the temporal expression and its corresponding class.
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, but the task is to extract and classify only time expressions.
+
+Note:
+The output should be in the format specified above.
+
+Note:
+The task is to classify each time expression into one of the four classes: Date, Time, Duration, and Set.
+
+Note:
+The class Date refers to a specific point in time, such as a birthday or a specific event.
+
+Note:
+The class Time refers to a specific time of day, such as 10:30 or 20:00.
+
+Note:
+The class Duration refers to a period of time, such as 10 years or 20 minutes.
+
+Note:
+The class Set refers to a specific set of time, such as a week or a month.
+
+Note:
+The input text can contain ambiguous time expressions that can be classified into more than one class.
+
+Note:
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+The task is to extract and classify all time expressions in the input text.
+
+Note:
+The input text can be in any language, but the task is to extract and classify only time expressions that are expressed in a way that can be understood by a human reader.
+
+Note:
+The output should be in the format specified above, with each element in the list being a pair of a time expression and its corresponding class.

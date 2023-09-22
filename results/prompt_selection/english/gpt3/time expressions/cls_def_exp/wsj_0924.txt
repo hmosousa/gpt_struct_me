@@ -1,1 +1,1 @@
-[["Aug. 9", "Date"], ["fiscal-first quarter", "Duration"], ["Sept. 30", "Date"], ["year ago", "Set"]]
+[["Aug. 9", "DATE"], ["20%", "DURATION"], ["50%", "DURATION"], ["Sept. 30", "DATE"], ["fiscal-first quarter", "DURATION"], ["a year ago", "DURATION"], ["C$348.2 million", "DURATION"], ["C$307.2", "DURATION"]]

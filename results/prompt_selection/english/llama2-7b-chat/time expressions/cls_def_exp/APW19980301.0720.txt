@@ -1,22 +1,5 @@
-[
-{
-"Date": "1985",
-"Class": "Date"
-},
-{
-"Date": "1978",
-"Class": "Date"
-},
-{
-"Time": "last week",
-"Class": "Time"
-},
-{
-"Duration": "nearly 200 Israeli soldiers have been killed fighting Hezbollah and other guerrillas",
-"Class": "Duration"
-},
-{
-"Set": "1985-1995",
-"Class": "Set"
-}
-]
+	[["JERUSALEM", "LOCATION"], ["Top Israeli officials", "PERSON"], ["Sunday", "DATE"], ["Prime Minister Benjamin Netanyahu", "PERSON"], ["Cabinet", "GROUP"], ["Friday", "DATE"], ["Uri Lubrani", "PERSON"], ["Channel One", "MEDIA"], ["1985", "DATE"], ["200", "NUMBER"], ["73", "NUMBER"], ["February", "DATE"], ["Walid Mualem", "PERSON"], ["Uzi Arad", "PERSON"], ["Danny Naveh", "PERSON"], ["Yitzhak Mordechai", "PERSON"]]
+
+
+
+

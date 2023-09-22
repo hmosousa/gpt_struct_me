@@ -1,157 +1,17 @@
-[
-  ["Person", "Mulher"],
-  ["Organization", "Bombeiros"],
-  ["Organization", "GNR"],
-  ["Object", "viatura"],
-  ["Location", "cais da Torreira"],
-  ["Nature", "águas da ria de Aveiro"],
-  ["Facility", "Hospital de Aveiro"],
-  ["Other", "mariscadores da Torreira"]
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[["uma mulher", "Per"], ["de 44 anos", "Per"], ["atropelada", "Per"], ["sem gravidade", "Other"], ["na Murtosa", "Loc"], ["o protesto", "Other"], ["com cerca de dezenas de mariscadores", "Other"], ["informaram os Bombeiros", "Org"], ["a GNR", "Org"], ["o cais da Torreira", "Loc"], ["a viatura", "Obj"], ["um homem", "Per"], ["transportava bivalves", "Other"], ["estava a tentar sair do local", "Other"], ["Os pescadores", "Org"], ["tentaram evitar que ele saísse de lá", "Other"], ["a situação incendiou-se um bocadinho", "Other"], ["o senhor", "Per"], ["forçou a saída", "Other"], ["com a viatura", "Obj"], ["tendo atropelado uma senhora", "Other"], ["Segundo os Bombeiros", "Org"], ["a mulher", "Per"], ["sofreu ferimentos ligeiros", "Other"], ["tendo sido transportada para o Hospital de Aveiro", "Other"], ["a GNR", "Org"], ["se colocou em fuga", "Other"], ["mas", "Other"], ["entretanto", "Other"], ["ja foi identificado", "Other"], ["Os mariscadores", "Org"], ["da Torreira", "Loc"], ["estão em protesto há mais de uma semana", "Other"], ["devido ao facto de não poderem trabalhar", "Other"], ["por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Mulher atropelada durante protesto de mariscadores na Murtosa
+Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.
+O caso ocorreu cerca das 12:50, junto ao cais da Torreira.
+Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.
+“Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora”, disse a mesma fonte.
+Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital de Aveiro.
+A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.
+Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
+
+Output:
+[["uma mulher", "Per"], ["de 44 anos", "Per"], ["atropelada", "Per"], ["sem gravidade", "Other"], ["na Murtosa", "Loc"], ["o protesto", "Other"], ["com cerca de dezenas de mariscadores", "Other"], ["informaram os Bombeiros", "Org"], ["a GNR", "Org"], ["o cais da Torreira", "Loc"], ["a viatura", "Obj"], ["um homem", "Per"], ["transportava bivalves", "Other"], ["estava a tentar sair do local", "Other"], ["Os pescadores", "Org"], ["tentaram evitar que ele saísse de lá", "Other"], ["a situação incendiou-se um bocadinho", "Other"], ["o senhor", "Per"], ["forçou a saída", "Other"], ["com a viatura", "Obj"], ["tendo atropel

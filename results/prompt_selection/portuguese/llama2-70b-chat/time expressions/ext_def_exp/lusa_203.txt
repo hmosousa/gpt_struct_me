@@ -1,11 +1,1 @@
-["hoje", "à porta", "em junho deste ano", "2018"]
-
-Explanation:
-The input text contains several time expressions:
-
-* "hoje" (today)
-* "à porta" (at the door) - not a time expression, but a location
-* "em junho deste ano" (in June this year)
-* "2018" (the year 2018)
-
-The output is a list of time expressions found in the input text.
+["hoje", "pelo menos", "sete", "sete", "Kaiyuan", "Liaoning", "junho deste ano", "2018", "Pequim"]

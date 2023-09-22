@@ -1,9 +1,1 @@
-
-[
-"Encontrado corpo de homem em zona rochosa na costa da Terceira",
-"a boiar junto a uma zona rochosa na costa leste da Terceira",
-"presença do corpo de um homem a boiar",
-"a presença do corpo de um homem, de 62 anos, já cadáver",
-"foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
-"será autopsiado para se apurar as causas da morte"
-]
+[ "detetado", "causas", "morte", "comunicado", "polícia", "domínio público marítimo", "informação", "recebida", "piquete", "delegado", "saúde", "local", "confirmaram", "presença", "cadáver", "removido", "equipa", "great angle", "bombeiros", "praia", "vitória", "posteriormente", "transportado", "hospital", "apurar", "causas", "morte", "autopsiado" ]

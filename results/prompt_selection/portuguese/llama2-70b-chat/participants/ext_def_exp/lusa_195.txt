@@ -1,11 +1,1 @@
-[
-"PJ",
-"homem suspeito",
-"jovem",
-"polícia",
-"presumível agressor",
-"vítima",
-"grupo de convivas",
-"sexagenário",
-"detido"
-]
+["A Polícia Judiciária (PJ) de Setúbal", "um homem", "63 anos", "suspeito", "ter baleado", "um jovem", "restaurante", "uma coletividade", "Setúbal", "conflito", "um grupo", "convivas", "almoçar", "Alto da Guerra", "sexagenário", "jovem", "disparo", "arma de fogo", "ferimentos", "ombro", "braço", "detido", "fugiu", "local", "indiciado", "crimes", "homicídio qualificado", "forma tentada", "detenção", "arma proibida", "omissão", "auxílio", "primeiro interrogatório judicial", "medida", "coação", "prisão preventiva"]

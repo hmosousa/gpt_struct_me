@@ -1,9 +1,1 @@
-["Aug. 9", "Sept. 30", "fiscal-first quarter", "a year ago", "348.2 million", "307.2"]
-
-Explanation:
-The output is a list of all time expressions found in the input text.
-
-"Aug. 9" and "Sept. 30" are specific dates.
-"fiscal-first quarter" is a time period described by a compound noun.
-"a year ago" is an amount of time described by a common phrase.
-"348.2 million" and "307.2" are numbers that can be interpreted as amounts of time (e.g., 348.2 million seconds or 307.2 days).
+["Aug. 9", "Sept. 30", "fiscal-first quarter", "year ago", "C$2.3 million", "14 Canadian cents", "C$348.2 million", "C$307.2"]

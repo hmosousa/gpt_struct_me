@@ -1,16 +1,10 @@
-[
-"Violência doméstica",
-"Pulseira eletrónica",
-"Homem detido",
-"Penafiel",
-"Distrito do Porto",
-"Suspeito de violência física",
-"Injúrias e ameaças de morte",
-"Ex-companheira",
-"Botão de pânico",
-"Medida de proteção",
-"Teleassistência",
-"Antecedentes criminais",
-"Ilícitos da mesma natureza",
-"Proibido de contactar a vítima"
-]
+["Violência", "doméstica", "pulseira", "eletrônica", "homem", "detido", "Penafiel", "distrito", "Porto", "suspeito", "violência", "física", "injúrias", "ameaças", "death", "separação", "perseguir", "vítima", "residência", "local", "trabalho", "botão", "pânico", "teleassistência", "proibido", "contactar", "antecedentes", "criminais", "ilícitos", "natureza"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a trigger event.
+
+
+
+
+

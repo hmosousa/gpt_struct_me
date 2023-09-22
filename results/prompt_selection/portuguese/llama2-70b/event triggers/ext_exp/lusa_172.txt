@@ -1,1 +1,1 @@
-["homem", "mar", "praia", "pescador"]
+["homem", "mar", "Lagoa", "Algarve", "corpo", "aparentando", "anos", "boiar", "praia", "Estaquinha", "concelho", "revelou", "Marítima", "pescador", "caído", "praticava", "lúdica", "arriba", "praia", "Faro", "alerta", "avistamento", "Salva-vidas", "procederam", "transportaram", "marina", "Portimão", "órbi", "declarado", "local", "saúde", "transporte", "gabinete", "medicina", "legal", "tomou", "ocorrência"]

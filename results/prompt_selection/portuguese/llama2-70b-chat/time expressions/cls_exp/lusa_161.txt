@@ -1,11 +1,11 @@
-[
-["hoje", "Date"],
-["10:30", "Time"],
-["10 anos", "Duration"],
-["20 anos", "Duration"]
-]
+[["hoje", "Date"], ["cerca das 10:30", "Time"], ["10", "Duration"], ["20", "Duration"], ["10", "Duration"]]
 
-Explanation:
-The input text contains four time expressions: "hoje" (today), "10:30" (time), "10 anos" (10 years, duration), and "20 anos" (20 years, duration). The output is a JSON-parseable list where each element is a list with two strings: the first string is the entity (time expression), and the second string is the class (Date, Time, Duration, or Set).
+Note:
+The input text is in Portuguese.
 
-Note that "hoje" is classified as a Date, "10:30" is classified as a Time, "10 anos" and "20 anos" are both classified as Durations.
+Hint:
+You can use the following resources to help you with the task:
+
+* Portuguese date and time expressions
+* Regular expressions
+* Natural Language Processing libraries for Python such as NLTK or spaCy.

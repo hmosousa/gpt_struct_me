@@ -1,19 +1,4 @@
-[
-["Xerox Corp.", "State"],
-["Xerox Corp.", "Occurrence"],
-["Crum amp Forster", "Reporting"],
-["Crum amp Forster", "Perception"],
-["Xerox Corp.", "Aspectual"],
-["Xerox Corp.", "Intensional Action"],
-["Crum amp Forster", "Intensional State"]
-]
+[["Xerox Corp.", "ORGANIZATION"], ["told", "REPORTING"], ["employees", "OCCURRENCE"], ["laying", "OCCURRENCE"], ["off", "OCCURRENCE"], ["about", "OCCURRENCE"], ["300", "NUMBER"], ["people", "OCCURRENCE"], ["25%", "NUMBER"], ["staff", "OCCURRENCE"], ["early", "OCCURRENCE"], ["this", "OCCURRENCE"], ["week", "OCCURRENCE"], ["numerous", "OCCURRENCE"], ["staff", "OCCURRENCE"], ["functions", "OCCURRENCE"], ["going", "OCCURRENCE"], ["to", "OCCURRENCE"], ["be", "OCCURRENCE"], ["centralized", "OCCURRENCE"], ["cost-cutting", "OCCURRENCE"], ["move", "OCCURRENCE"], ["result", "OCCURRENCE"], ["in", "OCCURRENCE"], ["after-tax", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["less", "NUMBER"], ["than", "COMPARISON"], ["$4", "NUMBER"], ["million", "NUMBER"], ["to", "OCCURRENCE"], ["be", "OCCURRENCE"], ["spread", "OCCURRENCE"], ["over", "OCCURRENCE"], ["the", "OCCURRENCE"], ["next", "OCCURRENCE"], ["three", "NUMBER"], ["quarters", "OCCURRENCE"], ["By", "OCCURRENCE"], ["comparison", "OCCURRENCE"], ["for", "OCCURRENCE"], ["the", "OCCURRENCE"], ["first", "OCCURRENCE"], ["nine", "NUMBER"], ["months", "OCCURRENCE"], ["Xerox", "ORGANIZATION"], ["earned", "OCCURRENCE"], ["$492", "NUMBER"], ["million", "NUMBER"], ["on", "OCCURRENCE"], ["revenue", "OCCURRENCE"], ["of", "OCCURRENCE"], ["$12.97", "NUMBER"], ["billion", "NUMBER"]]
 
-Explanation:
-
-* Xerox Corp. is the entity and "State" is the class because the article reports on the company's financial situation.
-* Xerox Corp. is also the entity and "Occurrence" is the class because the article reports on a layoff.
-* Crum amp Forster is the entity and "Reporting" is the class because the article reports on the company's financial results.
-* Crum amp Forster is also the entity and "Perception" is the class because the article reports on the company's financial performance.
-* Xerox Corp. is the entity and "Aspectual" is the class because the article reports on the company's financial situation in a general sense.
-* Xerox Corp. is also the entity and "Intensional Action" is the class because the article reports on the company's decision to centralize staff functions.
-* Crum amp Forster is the entity and "Intensional State" is the class because the article reports on the company's financial results in a specific context.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

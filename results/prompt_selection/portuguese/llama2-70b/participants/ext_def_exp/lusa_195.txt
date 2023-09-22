@@ -1,1 +1,1 @@
-["homem", "jovem"]
+["homem", "jovem", "coletividade", "Setúbal", "PJ", "homem", "63 anos", "baleado", "restaurante", "coletividade", "Setúbal", "presumível agressor", "disparado", "vítima", "conflito", "grupo", "convivas", "almoçar", "Alto da Guerra", "sexagenário", "arma de fogo", "ferimentos", "ombro", "braço", "detido", "crime", "homicídio qualificado", "forma tentada", "detenção", "arma proibida", "omissão", "auxílio", "interrogatório judicial"]

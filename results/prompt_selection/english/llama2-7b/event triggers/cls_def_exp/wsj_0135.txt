@@ -1,21 +1,32 @@
-[
-  ["Elco Industries Inc.", "State"],
-  ["Elco Industries Inc.", "Occurrence"],
-  ["Elco Industries Inc.", "Reporting"],
-  ["Elco Industries Inc.", "Perception"],
-  ["Elco Industries Inc.", "Aspectual"],
-  ["Elco Industries Inc.", "Intensional Action"],
-  ["Elco Industries Inc.", "Intensional State"]
-]
+[["said", "REPORTING"], ["expects", "I_STATE"], ["below", "OCCURRENCE"], ["recent", "OCCURRENCE"], ["analyst", "PERCEPTION"], ["estimate", "OCCURRENCE"], ["income", "STATE"], ["fall", "OCCURRENCE"], ["sales", "STATE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["1989", "OCCURRENCE"], ["earned", "STATE"], ["7", "STATE"], ["8", "STATE"], ["million", "STATE"], ["fell", "OCCURRENCE"], ["1", "STATE"], ["13", "STATE"], ["625", "STATE"]]
 
-Examples:
-[
-  ["Elco Industries Inc.", "State"],
-  ["Elco Industries Inc.", "Occurrence"],
-  ["Elco Industries Inc.", "Reporting"],
-  ["Elco Industries Inc.", "Perception"],
-  ["Elco Industries Inc.", "Aspectual"],
-  ["Elco Industries Inc.", "Intensional Action"],
-  ["Elco Industries Inc.", "Intensional State"]
-]
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common pesticide.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to be resistant to the pesticide Bt.
+The corn is made by Monsanto Co. and is called YieldGard.
+The EPA said it has determined that the corn is not likely to have an adverse effect on the environment.
+The agency said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near cornfields.
+The EPA said it will require Monsanto to conduct a study to determine whether the corn poses a threat to monarch butterflies.
+The monarch butterfly is a threatened species that feeds on milkweed, which is a plant that grows near corn

@@ -1,59 +1,9 @@
-[
-["Ogden Projects Inc.", "State"],
-["net income", "Aspectual"],
-["jumped", "Occurrence"],
-["$6.6 million", "Intensional State"],
-["18 cents a share", "Intensional State"],
-["The Fairfield, N.J., company", "State"],
-["which is 92%-owned by Ogden Corp., New York", "State"],
-["had net of $1.1 million", "Aspectual"],
-["four cents a share", "Intensional State"],
-["a year ago", "Occurrence"],
-["Revenue soared to $101.7 million", "Occurrence"],
-["$39.5 million", "Intensional State"],
-["Ogden Projects", "State"],
-["whose shares began trading on the New York Stock Exchange in August", "State"],
-["closed yesterday at $26.875", "State"],
-["down 75 cents", "Occurrence"],
-["The stock began trading this summer at $14 apiece", "State"],
-["Ogden Projects", "State"],
-["which has interests in solid-waste recovery and hazardous-waste cleanup", "State"],
-["said it has 13 facilities in operation", "Reporting"],
-["up from seven a year ago", "Occurrence"],
-["Meanwhile", "Occurrence"],
-["Ogden Corp.", "State"],
-["which also has interests in building maintenance and management", "State"],
-["reported third-quarter net income of $27.1 million", "Reporting"],
-["67 cents a share", "Intensional State"],
-["more than twice the $13.5 million", "Comparison"],
-["34 cents a share", "Intensional State"],
-["a year earlier", "Occurrence"],
-["Revenue rose 33% to $378.1 million", "Occurrence"],
-["$283.8 million", "Intensional State"]
-]
+[["said", "REPORTING"], ["jumped", "OCCURRENCE"], ["had", "OCCURRENCE"], ["soared", "OCCURRENCE"], ["began", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["began", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["meanwhile", "ASPECTUAL"], ["reported", "REPORTING"], ["more", "OCCURRENCE"], ["than", "OCCURRENCE"], ["twice", "OCCURRENCE"], ["rose", "OCCURRENCE"]]
 
 Note:
-The output format is a list of pairs, where each pair consists of an entity (a string) and a class (a string). The classes are:
+The classes are not mutually exclusive, and some triggers may belong to multiple classes.
 
-* State: Indicates a state of being or a condition.
-* Occurrence: Indicates an event or a happening.
-* Reporting: Indicates a report or a statement about something.
-* Perception: Indicates a perception or an observation.
-* Aspectual: Indicates an aspect or a feature.
-* Intensional Action: Indicates an action or a activity with a specific intention.
-* Intensional State: Indicates a state of being with a specific intention.
+This task is an extraction task.
 
-In this task, you are given a text and you need to extract and classify all event triggers. An event trigger is a word or a phrase that indicates a change in state, occurrence, or activity. For example, in the sentence "Ogden Projects Inc. said net income jumped to $6.6 million", "jumped" is an event trigger that indicates a change in state.
-
-Your output should be a list of pairs, where each pair consists of the entity (a string) and the class (a string). For example, the output for the sentence "Ogden Projects Inc. said net income jumped to $6.6 million" would be:
-
-[
-["Ogden Projects Inc.", "State"],
-["net income", "Aspectual"],
-["jumped", "Occurrence"],
-["$6.6 million", "Intensional State"]
-]
-
-Note that the same entity can have multiple classes. For example, in the sentence "Ogden Projects, whose shares began trading on the New York Stock Exchange in August, closed yesterday at $26.875", "Ogden Projects" has two classes: "State" and "Reporting".
-
-Also, note that the classes are not mutually exclusive. For example, an event trigger can be both an "Occurrence" and an "Aspectual".
+Note:
+Please provide your output in the specified format.

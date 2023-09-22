@@ -1,7 +1,1 @@
-[
-"GNR",
-"mulher de 36 anos",
-"militares do Posto Territorial de Mértola",
-"Tribunal Judicial de Beja",
-"suspeita"
-]
+["A GNR deteve uma mulher de 36 anos", "por suspeitas da prática do crime de tráfico de droga", "12.300 doses de haxixe", "no concelho alentejano de Mértola", "no distrito de Beja", "A mulher foi detida", "militares do Posto Territorial de Mértola", "Tribunal Judicial de Beja", "primeiro interrogatório", "eventual aplicação de medidas de coação", "uma ação de patrulhamento", "Estrada Nacional 122", "vila de Mértola", "suspeita", "comportamento nervoso", "militares da GNR", "busca à viatura", "uma revista à mulher", "telemóvel", "o veículo", "A GNR", "que"]

@@ -1,10 +1,1 @@
-[
-["last week", "Date"],
-["yesterday", "Date"],
-["Tuesday", "Date"],
-["Dec. 31, 1990", "Date"],
-["the next 14 months", "Duration"],
-["1984", "Date"],
-["this week", "Date"],
-["Tuesday", "Date"]
-]
+[["last week", "DATE"], ["yesterday", "DATE"], ["Tuesday", "DATE"], ["yesterday", "DATE"], ["Dec. 31, 1990", "DATE"], ["the next 14 months", "DURATION"], ["1984", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"]]

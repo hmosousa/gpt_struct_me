@@ -1,75 +1,60 @@
-[
-  ["Homem", "Time"],
-  ["mata", "Time"],
-  ["ex-companheira", "Person"],
-  ["com", "Time"],
-  ["tiro", "Time"],
-  ["em", "Time"],
-  ["Vila", "Place"],
-  ["Nova", "Place"],
-  ["de", "Time"],
-  ["Gaia", "Place"],
-  ["Um", "Person"],
-  ["homem", "Person"],
-  ["matou", "Time"],
-  ["hoje", "Time"],
-  ["com", "Time"],
-  ["um", "Person"],
-  ["disparo", "Time"],
-  ["arma", "Time"],
-  ["de", "Time"],
-  ["fogo", "Time"],
-  ["a", "Time"],
-  ["ex-companheira", "Person"],
-  ["em", "Time"],
-  ["Vila", "Place"],
-  ["Nova", "Place"],
-  ["de", "Time"],
-  ["Gaia", "Place"],
-  ["e","Time"],
-  ["fue", "Time"],
-  ["detido", "Time"],
-  ["numa", "Time"],
-  ["altura", "Time"],
-  ["em", "Time"],
-  ["a", "Time"],
-  ["tentar", "Time"],
-  ["o", "Time"],
-  ["suicídio", "Time"],
-  ["com", "Time"],
-  ["a", "Time"],
-  ["mesma", "Time"],
-  ["arma", "Time"],
-  ["de", "Time"],
-  ["fogo", "Time"],
-  ["a", "Time"],
-  ["Homem", "Person"],
-  ["tem", "Time"],
-  ["62", "Time"],
-  ["anos", "Time"],
-  ["a", "Time"],
-  ["vítima", "Person"],
-  ["era", "Time"],
-  ["20", "Time"],
-  ["mais", "Time"],
-  ["nova", "Time"],
-  ["de", "Time"],
-  ["Gaia", "Place"],
-  ["distrito", "Time"],
-  ["do", "Time"],
-  ["Porto", "Place"],
-  ["e", "Time"],
-  ["passou", "Time"],
-  ["a", "Time"],
-  ["alçada", "Time"],
-  ["da", "Time"],
-  ["Polícia", "Time"],
-  ["Judiciária", "Time"]
-]
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
 
 Explanation:
+	The first element is the entity and the second is the class.
+	The entity is the string that is extracted from the text.
+	The class is the class that the entity belongs to.
 
-Time:
-Homem mata ex-companheira com tiro em Vila Nova de Gaia
-Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia e foi detido numa altura em que estaria a tentar o suicídio com a mesma arma, disse fonte da GNR.
-Fonte do Comando Territorial da GNR do Porto referiu à agência Lusa que o crime ocorreu cerca das 10:30 na Rua da Figueirinha, em Grijó, Vila Nova de Gaia, distrito do Porto, e que o homem
+Constraints:
+	The input is a string.
+	The input is a valid JSON string.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON

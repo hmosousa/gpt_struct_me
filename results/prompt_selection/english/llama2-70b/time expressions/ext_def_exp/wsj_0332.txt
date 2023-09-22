@@ -1,1 +1,1 @@
-["last wednesday", "today"]
+["Wednesday", "last Wednesday"]

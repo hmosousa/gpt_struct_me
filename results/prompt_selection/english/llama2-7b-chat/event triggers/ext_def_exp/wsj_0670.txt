@@ -1,28 +1,6 @@
-[
-"said",
-"expects",
-"sale",
-"division",
-"R.D. Werner Co",
-"Greenville",
-"Pa",
-"charge",
-"after-tax",
-"gain",
-"pact",
-"rolling",
-"year-ago",
-"third quarter",
-"earned",
-"revenue",
-"Hawesville",
-"Ky",
-"agreement",
-"audit",
-"adjustments",
-"shipping",
-"unit",
-"sales",
-"fiscal 1989",
-"operating loss"
-]
+
+["said", "expects", "charge", "sell", "division", "agreed", "offset", "after-tax", "gain", "pact", "earned", "revenue", "explore", "options", "stake", "subject", "adjustments", "payments", "unit", "produces", "sales", "fiscal", "operating", "loss"]
+
+
+Format:
+JSON-parseable list of strings.

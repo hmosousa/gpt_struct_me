@@ -1,25 +1,13 @@
-[
-["Mulher", "State"],
-["atropelada", "Occurrence"],
-["protesto", "Reporting"],
-["mariscadores", "Aspectual"],
-["Torreira", "Location"],
-["viatura", "Object"],
-["condutor", "Agent"],
-["ferimentos", "State"],
-["hospital", "Location"]
-]
+[["mulher", "I_Action"], ["atropelada", "Occurrence"], ["sem gravidade", "State"], ["Murtosa", "Location"], ["district of Aveiro", "Location"], ["protesto", "Occurrence"], ["mariscadores", "I_Action"], ["dezenas", "Quantity"], ["Bombeiros", "I_Action"], ["GNR", "I_Action"], ["condutor", "I_Action"], ["viatura", "I_Action"], ["bivalves", "I_Action"], ["tentar", "I_Action"], ["saída", "I_Action"], ["forçou", "I_Action"], ["ferimentos", "State"], ["ligeiros", "Quantity"], ["transportada", "I_Action"], ["Hospital de Aveiro", "Location"], ["fuga", "Occurrence"], ["identificado", "I_Action"], ["detetadas", "Occurrence"], ["percentagens", "Quantity"], ["coliformes fecais", "Occurrence"], ["rias de Aveiro", "Location"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are:
 
-* "Mulher" is a State, as it describes a permanent condition of the person.
-* "atropelada" is an Occurrence, as it describes a specific event that happened to the woman.
-* "protesto" is a Reporting event, as it describes an ongoing action or situation.
-* "mariscadores" is an Aspectual event, as it describes the ongoing action of the fishermen.
-* "Torreira" is a Location, as it describes a specific place.
-* "viatura" is an Object, as it describes a specific vehicle.
-* "condutor" is an Agent, as it describes the person who was driving the vehicle.
-* "ferimentos" is a State, as it describes the injuries sustained by the woman.
-* "hospital" is a Location, as it describes a specific place where the woman was taken.
-
-Note: The output is a JSON-parseable list, where each element is a list with two strings, representing the entity and the class.
+* I_Action: an action or event that is happening or has happened
+* Occurrence: an event or happening that is not a action
+* State: a state or condition that exists or has existed
+* Reporting: a reporting or mentioning of an event or state
+* Perception: a perception or interpretation of an event or state
+* Aspectual: an aspect or feature of an event or state
+* Intensional Action: an action that has a specific goal or intention
+* Intensional State: a state that has a specific goal or intention.

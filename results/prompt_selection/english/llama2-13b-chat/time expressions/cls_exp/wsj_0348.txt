@@ -1,38 +1,4 @@
-[
-["Ogden Projects Inc.", "Date"],
-["$6.6 million", "Time"],
-["18 cents a share", "Time"],
-["a year ago", "Duration"],
-["$1.1 million", "Time"],
-["four cents a share", "Duration"],
-["$101.7 million", "Time"],
-["$39.5 million", "Duration"],
-["yesterday", "Set"],
-["$26.875", "Time"],
-["$14 apiece", "Set"],
-["13 facilities", "Set"],
-["seven a year ago", "Duration"],
-["Ogden Corp.", "Date"],
-["$27.1 million", "Time"],
-["67 cents a share", "Time"],
-["$13.5 million", "Time"],
-["34 cents a share", "Duration"],
-["$378.1 million", "Time"],
-["$283.8 million", "Duration"]
-]
+[["Ogden Projects Inc.", "DATE"], ["$6.6 million", "NUMBER"], ["18 cents a share", "NUMBER"], ["$1.1 million", "NUMBER"], ["four cents a share", "NUMBER"], ["$101.7 million", "NUMBER"], ["$39.5 million", "NUMBER"], ["75 cents", "NUMBER"], ["$26.875", "NUMBER"], ["$14 apiece", "NUMBER"], ["13 facilities", "SET"], ["seven a year ago", "SET"], ["Ogden Corp.", "DATE"], ["$27.1 million", "NUMBER"], ["67 cents a share", "NUMBER"], ["$13.5 million", "NUMBER"], ["34 cents a share", "NUMBER"], ["$378.1 million", "NUMBER"], ["$283.8 million", "NUMBER"]]
 
-Explanation:
-
-* "Ogden Projects Inc." is a date.
-* "$6.6 million" and "18 cents a share" are times.
-* "a year ago" is a duration.
-* "$1.1 million" and "four cents a share" are times.
-* "$101.7 million" and "$39.5 million" are times.
-* "yesterday" is a set.
-* "$26.875" and "$14 apiece" are times.
-* "13 facilities" is a set.
-* "seven a year ago" is a duration.
-* "Ogden Corp." is a date.
-* "$27.1 million", "67 cents a share", and "$13.5 million" are times.
-* "34 cents a share" is a duration.
-* "$378.1 million" and "$283.8 million" are times.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

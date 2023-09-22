@@ -1,1 +1,1 @@
-[["the second day", "Date"], ["By mid afternoon", "Time"]]
+[["second day", "DURATION"], ["mid afternoon", "TIME"]]

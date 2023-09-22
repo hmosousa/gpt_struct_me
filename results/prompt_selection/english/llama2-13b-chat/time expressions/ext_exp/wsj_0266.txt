@@ -1,1 +1,7 @@
-["Oct. 23", "two years ago", "20th century", "10 most significant events in the world of finance"]
+["Thursday", "two years ago", "10 most significant events", "20th century", "Oct. 23", "1998", "daily", "1990", "13:19:00"]
+
+Hint:
+There are several time expressions in the text, including dates, times, and time periods.
+
+Note:
+The input text may contain additional information that is not relevant to the task. Please disregard any irrelevant information and focus only on the time expressions.

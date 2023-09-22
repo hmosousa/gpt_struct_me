@@ -1,16 +1,1 @@
-[
-["fazem buscas", "Occurrence"],
-["realizaram hoje buscas", "Occurrence"],
-["ocorrida", "State"],
-["buscas", "Occurrence"],
-["foi apreendido", "Occurrence"],
-["foram ordenadas", "Occurrence"],
-["saber", "Perception"],
-["morreu", "State"],
-["realizou perícias", "Occurrence"],
-["participou", "Occurrence"],
-["foi submetido", "Occurrence"],
-["abriu um inquérito", "Occurrence"],
-["determinar", "Intensional Action"],
-["houve negligência", "State"]
-]
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["realizaram", "I_Action"], ["buscas", "Occurrence"], ["investigação", "Occurrence"], ["morte", "Occurrence"], ["ocorrida", "Occurrence"], ["comunicado", "Reporting"], ["buscas", "Occurrence"], ["apreendido", "Occurrence"], ["telemóvel", "State"], ["ordenadas", "I_Action"], ["saber", "Perception"], ["estava", "State"], ["morreu", "Occurrence"], ["casa", "State"], ["realizou", "I_Action"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["participou", "I_Action"], ["operação", "Occurrence"], ["submetido", "Occurrence"], ["morte", "Occurrence"], ["abriu", "I_Action"], ["inquérito", "Occurrence"], ["determinar", "I_Action"], ["negligência médica", "State"], ["assistência", "State"]]

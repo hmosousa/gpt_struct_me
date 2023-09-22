@@ -1,12 +1,5 @@
-[
-"Jovem de 14 anos",
-"Autocarro",
-"Santo Tirso",
-"Proteção Civil",
-"Bombeiros",
-"Hospital São João",
-"Vila das Aves",
-"Vila Nova de Famalicão",
-"Ambulância de Suporte Imediato de Vida",
-"GNR"
-]
+["Jovem", "de 14 anos", "em estado grave", "após ser atropelado", "por autocarro", "em Santo Tirso", "m", "Vila das Aves", "concelho", "Santo Tirso", "Lusa", "fonte", "Proteção Civil", "O jovem", "após ter", "ser assistido", "transportado", "Bombeiros", "Vila das Aves", "Hospital São João", "Porto", "18:16", "Rua Luís Gonzaga Mendes de Carvalho", "No local", "prestar assistência", "além", "Bombeiros", "Vila das Aves", "esteve", "Viatura Médica", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte Imediato", "GNR", "local", "Lusa", "corporação"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a participant in the event described in the input text. The participants are identified based on their relevance and significance to the situation, and may be explicitly mentioned or inferred from the context.

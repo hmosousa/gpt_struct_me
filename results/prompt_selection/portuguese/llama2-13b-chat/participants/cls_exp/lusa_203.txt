@@ -1,34 +1,16 @@
-[
-["Homem", "Person"],
-["pessoas", "Person"],
-["faca", "Object"],
-["nordeste da China", "Location"],
-["Kaiyuan", "Location"],
-["provincia de Liaoning", "Location"],
-["suspeito", "Person"],
-["Yang", "Person"],
-["detido", "Object"],
-["motivo do ataque", "Other"],
-["ataques semelhantes", "Other"],
-["doentes mentais", "Other"],
-["rancor contra a sociedade", "Other"],
-["segurança de uma escola", "Person"],
-["facão", "Object"],
-["jardim de infância", "Location"],
-["região sul de Guangxi", "Location"],
-["2018", "Other"]
-]
+[["Yang", "Per"], ["sete pessoas", "Per"], ["outras sete", "Per"], ["feridas", "Per"], ["uma faca", "Obj"], ["na cidade de Kaiyuan", "Loc"], ["na província de Liaoning", "Loc"], ["perpetrado", "Per"], ["à porta de uma sauna e de um balneário", "Loc"], ["o suspeito", "Per"], ["detido", "Org"], ["o motivo do ataque", "Per"], ["desconhecido", "Other"], ["A lei chinesa", "Org"], ["restringe", "Per"], ["a venda e posse de armas de fogo", "Other"], ["os ataques em massa", "Per"], ["geralmente", "Per"], ["realizados com facas ou explosivos caseiros", "Other"], ["Autores de ataques semelhantes", "Other"], ["realizados no passado", "Other"], ["descritos", "Per"], ["como doentes mentais", "Other"], ["ou", "Other"], ["terem rancor contra a sociedade", "Other"], ["Em ataques anteriores", "Other"], ["um segurança de uma escola", "Per"], ["empunhando uma faca", "Obj"], ["feriu", "Per"], ["pelo menos 39 pessoas", "Per"], ["num jardim de infância", "Loc"], ["na região sul de Guangxi", "Loc"], ["em junho deste ano", "Other"], ["tendo sido condenado à morte", "Other"], ["Em 2018", "Other"], ["um homem", "Per"], ["matou", "Per"], ["uma pessoa", "Per"], ["e", "Other"], ["feriu", "Per"], ["12", "Per"], ["num ataque com uma faca", "Other"], ["num centro comercial", "Loc"], ["em Pequim", "Loc"]]
 
-Explanation:
+Note:
 
-* "Homem" and "pessoas" are classified as "Person".
-* "faca" is classified as "Object".
-* "nordeste da China", "Kaiyuan", "provincia deLiaoning" are classified as "Location".
-* "suspeito" and "Yang" are classified as "Person".
-* "detido" is classified as "Object".
-* "motivo do ataque" and "ataques semelhantes" are classified as "Other".
-* "doentes mentais" and "rancor contra a sociedade" are also classified as "Other".
-* "segurança de uma escola" is classified as "Person".
-* "facão" is classified as "Object".
-* "jardim de infância" and "região sul de Guangxi" are classified as "Location".
-* "2018" is classified as "Other".
+* "Per" stands for "person"
+* "Loc" stands for "location"
+* "Obj" stands for "object"
+* "Other" stands for "other"
+
+Hint:
+
+* The entity "Yang" is a person
+* The entity "uma faca" is an object
+* The entity "na cidade de Kaiyuan" is a location
+* The entity "num jardim de infância" is a location
+* The entity "num centro comercial" is a location

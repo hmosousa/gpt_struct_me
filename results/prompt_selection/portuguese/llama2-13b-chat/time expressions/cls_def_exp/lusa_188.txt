@@ -1,38 +1,9 @@
-[
-["Homem", "Date"],
-["de 48 anos", "Duration"],
-["morre", "Event"],
-["em acidente de trabalho", "Event"],
-["em Mogadouro", "Location"],
-["hoje", "Date"],
-["vítima de um acidente de trabalho", "Event"],
-["na localidade de Vilarinhos dos Galegos", "Location"],
-["Concelho de Mogadouro", "Location"],
-["distrito de Bragança", "Location"],
-["Lusa", "Organization"],
-["fonte dos bombeiros", "Source"],
-["Trata-se de um acidente que envolve uma queda em altura", "Description"],
-["O homem de 48 anos trabalhava numa obra de construção civil", "Description"],
-["A vítima acabaria por não resistir aos ferimentos", "Description"],
-["acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol", "Description"],
-["onde depois seria helitransportada para um hospital de referência", "Description"],
-["O alerta foi dado cerca das 17 horas", "Time"],
-["Nas operações de socorro estiveram envolvido meios dos bombeiros de Mogadouro", "Event"],
-["a ambulância de Suporte Imediato de Vida (SIV)", "Vehicle"],
-["e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM)", "Vehicle"],
-["Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros", "Vehicle"],
-["A GNR de Mogadouro tomou conta da ocorrência", "Event"]
-]
+[["hoje", "Date"], ["17 horas", "Time"], ["Vilarinhos dos Galegos", "Location"], ["Concelho de Mogadouro", "Location"], ["Bragança", "Location"], ["Instituto Nacional e Emergência Médica", "Organization"], ["INEM", "Organization"], ["Macedo de Cavaleiros", "Location"]]
 
-Explanation:
-
-* "Homem" is a noun and its class is "Date" because it refers to a person who is 48 years old.
-* "de 48 anos" is an adjective phrase and its class is "Duration" because it describes the age ofthe person.
-* "morre" is a verb and its class is "Event" because it indicates that the person died.
-* "em acidente de trabalho" is a prepositional phrase and its class is "Event" because it describes the cause of the person's death.
-* "em Mogadouro" is a prepositional phrase and its class is "Location" because it indicates where the accident occurred.
-* "hoje" is an adverb and its class is "Date" because it indicates the day of the week.
-* "vítima de um acidente de trabalho" is a noun phrase and its class is "Event" because it describes the person who died.
-* "na localidade de Vilarinhos dos Galegos" is a prepositional phrase and its class is "Location" because it indicates where the accident occurred.
-* "Concelho de Mogadouro" is a noun phrase and its class is "Location" because it indicates the name of the council where the accident occurred.
-* "distrito de Bragança" is a noun phrase and its class is "Location
+Note:
+- "hoje" is considered a date because it is used to refer to the current day.
+- "17 horas" is considered a time because it is used to refer to a specific time of day.
+- "Vilarinhos dos Galegos" and "Concelho de Mogadouro" are considered locations because they are used to refer to specific geographic locations.
+- "Bragança" is also considered a location because it is used to refer to a specific geographic location.
+- "Instituto Nacional e Emergência Médica" and "INEM" are considered organizations because they are used to refer to specific entities that provide a service or have a specific purpose.
+- "Macedo de Cavaleiros" is considered a location because it is used to refer to a specific geographic location.

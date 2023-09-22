@@ -1,1 +1,1 @@
-["GNR", "homem 1", "homem 2"]
+["A GNR", "dois homens", "tráfico de droga", "Sines", "district de Setúbal", "1.673 doses", "estupefacientes", "Garda Nacional Republicana", "GNR", "os suspeitos", "local", "already", "referenciado", "tráfico", "estupefacientes", "militares", "transação", "comando territorial", "Setúbal", "GNR", "apreendidas", "heroína", "cocaína", "numerário", "veículo", "telemóveis", "detidos", "Tribunal Judicial", "Santiago do Cacém", "primeiro interrogatório judicial", "medidas de coação"]

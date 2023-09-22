@@ -1,15 +1,1 @@
-[
-"esfaqueado",
-"homem de 29 anos",
-"Lisboa",
-"mercado de Arroios",
-"rua Ângela Pinto",
-"café",
-"arme branca",
-"desentendimento",
-"suspeito",
-"tentativa de fuga",
-"Avenida Almirante Reis",
-"Polícia Judiciária",
-"homicídio"
-]
+	["morre", "esfaqueado", "costas", "mercado", "Arroios", "Lisboa", "sequência", "desentendimento", "Comando", "Metropolitano", "Lisboa", "Cometlis", "terá", "ocorrido", "rua", "Pinto", "10:54", "declarado", "café", "pedir", "ajuda", "desentendimento", "involveu", "arma", "branca", "terá", "esfaqueado", "zona", "costas", "suspeito", "detido", "Avenida", "Almirante", "Reis", "tentativa", "fuga", "polícia", "recolher", "informações", "adiante", "PJ", "acionada", "crime", "homicídio", "local", "preservado", "forças", "policiais", "fitas", "segurança"]

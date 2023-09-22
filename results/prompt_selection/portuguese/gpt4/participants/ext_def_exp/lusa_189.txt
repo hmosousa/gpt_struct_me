@@ -1,1 +1,1 @@
-["Homem morto", "atirador", "agência Lusa", "Direção Nacional da Polícia de Segurança Pública (PSP)", "Polícia Judiciária"]
+["Um homem", "o Barreiro", "dois tiros de caçadeira", "o atirador", "agência Lusa", "fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "o incidente", "20:20 de hoje", "as circunstâncias", "o tiroteio", "uma suspeita de homicídio", "armas de fogo", "a ocorrência", "a Polícia Judiciária", "o caso"]

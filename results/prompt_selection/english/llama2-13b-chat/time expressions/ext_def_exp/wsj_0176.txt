@@ -1,12 +1,4 @@
-["300 people", "early this week", "the next three quarters", "first nine months", "Hurricane Hugo payments", "future payments"]
+["early this week", "first nine months", "Hurricane Hugo payments", "next three quarters", "three quarters", "first quarter", "second quarter", "third quarter"]
 
-Explanation:
-The input text contains the following time expressions:
-
-* "early this week" (a specific point in time)
-* "the next three quarters" (a time period)
-* "first nine months" (a time period)
-* "Hurricane Hugo payments" (a specific point in time)
-* "future payments" (a time period)
-
-The output list contains all of these time expressions, represented as strings.
+Format:
+JSON-parseable list of strings.

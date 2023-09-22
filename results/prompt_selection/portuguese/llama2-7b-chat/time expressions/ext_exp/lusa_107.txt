@@ -1,20 +1,6 @@
-[
-"Mulher atropelada durante protesto de mariscadores na Murtosa",
-"Uma mulher de 44 anos",
-"Cerca de dezenas de mariscadores",
-"12:50",
-"Cais da Torreira",
-"O caso ocorreu cerca das 12:50",
-"Em declarações à Lusa",
-"O condutor da viatura",
-"Um homem que transportava bivalves",
-"Tentou sair do local",
-"Situação incendiou-se",
-"Forçou a saída com a viatura",
-"Atropelou uma senhora",
-"Ferimentos ligeiros",
-"Transportada para o Hospital de Aveiro",
-"Identificado",
-"Mais de uma semana",
-"Detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro"
-]
+	["menos de uma semana", "dezenas", "12:50", "Torreira", "Murtosa", "Aveiro", "Hospital de Aveiro", "GNR", "Torreira", "havendo"]
+
+Note:
+	* Time expressions are in the format of "X semanas", "X dias", "X horas", "X minutos", "X segundos", etc.
+	* The input text contains 7 time expressions: "menos de uma semana", "há mais de uma semana", "setembro", "final do ano", "30 nov 2020", "epoca de veda", and "epocas de veda".
+	* The output list contains 8 time expressions: "menos de uma semana", "dezenas", "12:50", "Torreira", "Murtosa", "Aveiro", "Hospital de Aveiro", and "havendo".

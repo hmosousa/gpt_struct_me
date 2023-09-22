@@ -1,31 +1,15 @@
-[
-["Corpo", "Date"],
-["hoje", "Time"],
-["à tarde", "Time"],
-["do distrito de Faro", "Set"],
-["naquela praia de Lagoa", "Set"],
-["no concelho de Lagoa", "Set"],
-["na arriba", "Duration"],
-["no mar", "Duration"],
-["do corpo", "Duration"],
-["terá alegadamente caído", "Duration"],
-["para a marina de Portimão", "Duration"],
-["para o gabinete de medicina legal de Portimão", "Duration"]
-]
+[["hoje à tarde", "Time"], ["Lagoa", "Location"], ["Algarve", "Location"], ["praia da Estaquinha", "Location"], ["Faro", "Location"], ["pescador", "Occupation"], ["caído ao mar", "Action"], ["avistamento de um corpo a boiar no mar", "Action"], ["Estação Salva-vidas de Ferragudo", "Organization"], ["marina de Portimão", "Location"], ["delegada de saúde de Lagoa", "Person"], ["gabinete de medicina legal de Portimão", "Location"], ["Polícia Marítima de Portimão", "Organization"]]
 
-Explanation:
-
-* "Corpo" is a noun and belongs to the class "Date" because it refers to a dead body found at the sea.
-* "hoje" is an adverb and belongs to the class "Time" because it indicates the day when the event occurred.
-* "à tarde" is an adverb and belongs to the class "Time" because it indicates the time when the event occurred.
-* "do distrito de Faro" is a prepositional phrase and belongs to theclass "Set" because it describes the location where the event occurred.
-* "naquela praia de Lagoa" is a prepositional phrase and belongs to the class "Set" because it describes the location where the event occurred.
-* "no concelho de Lagoa" is a prepositional phrase and belongs to the class "Set" because it describes the location where the event occurred.
-* "na arriba" is a prepositional phrase and belongs to the class "Duration" because it describes the time when the event occurred.
-* "no mar" is a prepositional phrase and belongs to the class "Duration" because it describes the location where the event occurred.
-* "do corpo" is a prepositional phrase and belongs to the class "Duration" because it describes the time when the event occurred.
-* "terá alegadamente caído" is a prepositional phrase and belongs to the class "Duration" because it describes the time when the event occurred.
-* "para a marina de Portimão" is a prepositional phrase and belongs to the class "Duration" because it describes the location where the event occurred.
-* "para o gabinete de medicina legal de Portimão" is a prepositional phrase and belongs to the class "Duration" because it describes the location where the event occurred.
-
-Note: In this task, the prepositional phrases "naquela praia de Lagoa" and "no concelho de Lagoa" are considered as one unit, because they are both describing the same location.
+Note:
+- "hoje à tarde" is considered a time expression because it is a specific time of the day.
+- "em menos de uma semana" is considered a duration expression because it is a specific time period.
+- "setembro" is considered a time expression because it is a specific month.
+- "final do ano" is considered a time expression because it is a specific time period.
+- "Lagoa" and "Algarve" are considered location expressions because they are specific places.
+- "praia da Estaquinha" and "Faro" are considered location expressions because they are specific places.
+- "pescador" is considered an occupation expression because it is a specific profession.
+- "caído ao mar" is considered an action expression because it is a specific action.
+- "avistamento de um corpo a boiar no mar" is considered an action expression because it is a specific action.
+- "Estação Salva-vidas de Ferragudo" and "marina de Portimão" are considered organization expressions because they are specific places.
+- "delegada de saúde de Lagoa" and "gabinete de medicina legal de Portimão" are considered person expressions because they are specific individuals.
+- "Polícia Marítima de Portimão" is considered an organization expression because it is a specific place.

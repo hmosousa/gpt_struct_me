@@ -1,19 +1,16 @@
-"Mulher atropelada durante protesto de mariscadores na Murtosa
-Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.
-O caso ocorreu cerca das 12:50, junto ao cais da Torreira.
-Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.
-“Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora”, disse a mesma fonte.
-Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital de Aveiro.
-A GNR referiu ainda que ocondutor se colocou em fuga, mas, entretanto, já foi identificado.
-Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
+["Mulher atropelada", "durante protesto", "de mariscadores", "na Murtosa", "Uma mulher", "de 44 anos", "foi hoje", "atropelada", "sem gravidade", "na Murtosa", "distrito de Aveiro", "durante um protesto", "com cerca", "dezenas", "de mariscadores", "informaram", "os Bombeiros", "e a GNR", "O caso", "ocorreu", "cerca", "das 12:50", "junto ao cais", "da Torreira", "Em declarações", "à Lusa", "fonte da GNR", "dizia", "que o condutor", "da viatura", "era um homem", "que transportava bivalves", "e que estaria", "a tentar sair", "do local", "Os pescadores", "tentaram evitar", "que ele saísse", "de lá", "A situação", "incendiou-se", "um bocadinho", "e o senhor", "forçou a saída", "com a viatura", "tendo atropelado", "uma senhora", "Segundo os Bombeiros", "a mulher", "sofreu ferimentos", "ligeiros", "tendo sido", "transportada", "para o Hospital", "de Aveiro", "A GNR", "referiu", "que o condutor", "se colocou", "em fuga", "mas", "entretanto", "ja foi", "identificado", "Os mariscadores", "da Torreira", "estão em protesto", "há mais", "de uma semana", "devido ao facto", "de não poderem", "trabalhar", "por terem sido", "detetadas", "percentagens", "excessivas", "de coliformes", "fecais", "nas águas", "da ria", "de Aveiro"]
 
-Expected output:
-"Mulher atropelada durante protesto de mariscadores na Murtosa
-Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.
-O caso ocorreu cerca das 12:50, junto ao cais da Torreira.
-Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.
-“Os pescadores tentaram evitar que ele saísse de lá.A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora”, disse a mesma fonte.
-Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital de Aveiro.
-A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.
-Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
+Format:
+JSON-parseable list of strings.
 
+Input:
+"Homem de 22 anos é detido por polícia na Madeira
+Um homem de 22 anos foi detido pela Polícia Judiciária na Madeira, em relação a um caso de violência doméstica, informou a Polícia.
+O homem, que é de nacionalidade portuguesa, foi detido na madrugada desta terça-feira, em Funchal, e levado para a Unidade Central de Investigação Criminal (Ucic).
+A Polícia Judiciária informou que o homem é suspeito de ter violado a mulher com quem mora, numa casa de Funchal.
+A mulher, de 22 anos, foi levada para um hospital de Funchal, onde foi submetida a exames médicos.
+A Polícia Judiciária informou que o homem é suspeito de ter violado a mulher com quem mora, numa casa de Funchal.
+A mulher, de 22 anos, foi levada para um hospital de Funchal, onde foi submetida a exames médicos."
+
+Output:
+["Homem de 22 anos", "é detido", "por polícia", "na Madeira", "Um homem", "de 22 anos", "foi detido", "pela Polícia Judiciária", "na Madeira", "em relação", "a um caso", "de violência doméstica", "informou", "a Polícia", "O homem", "é de nacionalidade", "portuguesa", "foi detido", "na madrugada", "desta terça-feira", "em Funchal", "e levado", "para a Unidade", "Central de Investigação Criminal", "Ucic", "A Polícia Judiciária", "informou", "que o homem", "é suspeito", "de ter violado", "a mulher", "com quem mora", "numa casa", "de Funchal", "A mulher", "de 22 anos", "foi levada", "para um hospital", "de Funchal", "onde foi", "submet

@@ -1,1 +1,1 @@
-["Hugo", "California Earthquake"]
+["Hugo", "California", "earthquake", "month", "charge", "lines", "business", "loss", "operations", "posted", "results"]

@@ -1,14 +1,14 @@
-["tráfico de droga", "detém", "dos homens", "Sines", "estupefacientes", "apreendidas", "heroína", "cocaína", "euros", "veículo", "telemóveis", "Tribunal Judicial de Santiago do Cacém"]
+
+JSON-parseable list of strings.
 
 Note:
-- "tráfico de droga" is a event trigger because it refers to the action of transporting or selling drugs, which is a criminal activity.
-- "detém" is a event trigger because it refers to the act of detaining or arresting someone.
-- "dos homens" is a event trigger because it refers to the number of people being detained.
-- "Sines" is a event trigger because it refers to the location where the detention took place.
-- "estupefacientes" is a event trigger because it refers to the drugs that were seized.
-- "apreendidas" is a event trigger because it refers to the act of seizing or confiscating something.
-- "heroína" and "cocaína" are eventtriggers because they refer to the specific types of drugs that were seized.
-- "euros" is a event trigger because it refers to the amount of money that was seized.
-- "veículo" is a event trigger because it refers to the car that was seized.
-- "telemóveis" is a event trigger because it refers to the cell phones that were seized.
-- "Tribunal Judicial de Santiago do Cacém" is a event trigger because it refers to the court where the detained individuals will be taken for questioning and possible charges.
+
+* The output should be a list of strings, where each string represents an event trigger.
+* The events should be extracted based on the given input text and the definitions provided.
+* The output should be in JSON format, which is a popular format for data exchange and storage.
+
+Hint:
+
+* Look for verbs and phrases that indicate actions, occurrences, or changes in state.
+* Pay attention to temporal phrases and expressions that indicate when and where events take place.
+* Use the definitions provided to help you identify the events in the input text.

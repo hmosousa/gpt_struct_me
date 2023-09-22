@@ -1,13 +1,20 @@
-[
-["Homem", "Person"],
-["atirador", "Person"],
-["Direção Nacional da Polícia de Segurança Pública (PSP)", "Organization"],
-["Polícia Judiciária", "Organization"]
-]
+[["um homem", "Per"], ["morto a tiro", "Other"], ["no Barreiro", "Loc"], ["atirador", "Per"], ["em fuga", "Other"], ["uma caçadeira", "Obj"], ["dois tiros", "Other"], ["a Direção Nacional", "Org"], ["da Polícia de Segurança Pública (PSP)", "Org"], ["o incidente", "Other"], ["ocorreu", "Loc"], ["às 20:20 de hoje", "Other"], ["não adiantando", "Other"], ["mais informações", "Other"], ["sobre as circunstâncias", "Other"], ["do tiroteio", "Other"], ["Disse apenas", "Per"], ["que tratando-se", "Per"], ["de uma suspeita", "Per"], ["de homicídio envolvendo armas de fogo", "Other"], ["a ocorrência", "Other"], ["está a ser acompanhada", "Per"], ["pela Polícia Judiciária", "Org"], ["responsável", "Org"], ["pelo investigação", "Other"], ["do caso", "Other"]]
 
-Explanation:
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
 
-* "Homem" is a person.
-* "atirador" is a person.
-* "Direção Nacional da Polícia de Segurança Pública (PSP)" is an organization.
-* "Polícia Judiciária" is an organization.
+* Per: Person
+* Other: Other
+* Obj: Object
+* Fac: Facility
+* Loc: Location
+* Org: Organization
+
+The task is to extract and classify all participants in the input text. The participants can be individuals, groups, organizations, or other entities that are actively involved in or impacted by the event or state described in the text. The classes are:
+
+* Person: any individual involved in or impacted by the event, such as the victim, perpetrator, witness, or bystander.
+* Other: any entity that is not a person, such as an object, facility, or location.
+* Object: any physical object or item that is involved in or impacted by the event, such as a weapon, vehicle, or piece of evidence.
+* Facility: any building, structure, or other facility that is involved in or impacted by the event, such as a school, hospital, or office.
+* Location: any geographic location that is involved in or impacted by the event, such as a city, state, or country.
+* Organization: any entity that is involved in or impacted by the event, such as a government agency, business, or non-profit organization.

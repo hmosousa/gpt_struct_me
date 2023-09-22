@@ -1,23 +1,6 @@
-[
-"Autoridades judiciais",
-"fazem buscas",
-"em casa de motorista de Maradona",
-"Autoridades judiciais argentinas",
-"realizaram buscas",
-"no apartamento de Maximiliano Trimarchi",
-"motorista de Diego Maradona",
-"durante as quais foi apreendido o telemóvel do motorista",
-"Em comunicado",
-"a procuradoria-geral de San Isidro",
-"refere que as buscas",
-"foram ordenadas",
-"depois de saber que Trimarchi estava junto de Maradona quando este morreu",
-"na sua casa, em San André, na província de Buenos Aires",
-"A polícia já realizou perícias",
-"aux telemóveis de Leopoldo Luque",
-"médico de Maradona",
-"que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro",
-"da psiquiatra Agustina Cosachov",
-"Dois dias após a morte de Maradona, de 60 anos",
-"a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista"
-]
+	["fazem", "buscas", "apartamento", "motorista", "Diego Maradona", "investigação", "negligência", "morte", "procuradoria-geral", "San Isidro", "telemóveis", "Leopoldo Luque", "psquiatra", "Agustina Cosachov", "inquérito", "justiça", "abriu", "determinar", "houve"]
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list includes both concrete actions, such as "fazem" (they are doing), "apartamento" (apartment), "motorista" (driver), and "telemóveis" (phones), as well as more abstract events, such as "investigação" (investigation), "negligência" (negligence), "morte" (death), and "inquérito" (inquiry).

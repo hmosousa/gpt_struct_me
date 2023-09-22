@@ -1,27 +1,25 @@
-[
-["this week", "Date"],
-["three quarters", "Duration"],
-["first nine months", "Date"],
-["$492 million", "Amount"],
-["$4.55 a share", "Amount"],
-["$12.97 billion", "Amount"],
-["Hurricane Hugo", "Date"],
-["future payments", "Duration"],
-["recent quarters", "Duration"],
-["natural disasters", "Duration"]
-]
+[["Xerox Corp.", "DATE"], ["this week", "DATE"], ["300", "NUMBER"], ["25%", "NUMBER"], ["$4 million", "NUMBER"], ["next three quarters", "DURATION"], ["$492 million", "NUMBER"], ["$4.55", "NUMBER"], ["12.97 billion", "NUMBER"], ["Hurricane Hugo", "DATE"], ["California earthquake", "DATE"]]
 
-Explanation:
-The output is a list of temporal expressions extracted from the input text. Each element in the list consists of a string representing the entity (the actual text) and a string representing the class (the type of temporal expression).
+Note:
+The output format is a JSON-parseable list.
 
-The classes used in this task are:
+Note:
+The input is a text.
 
-* Date: A specific point in time, such as a day, month, or year.
-* Time: A specific time of day, such as hours, minutes, or seconds.
-* Duration: A period of time, such as a number of days, weeks, months, or years.
-* Amount: A quantity of money or other measure.
-* Set: A group of items or a specific number of items, such as "300 people" or "25% of the staff".
+Note:
+The output is a list of classified time expressions.
 
-In the example output, "this week" is classified as a Date, "three quarters" is classified as a Duration, and "$492 million" is classified as an Amount. Similarly, "Hurricane Hugo" is classified as a Date, and "future payments" is classified as a Duration.
+Note:
+The classes are: DATE, TIME, DURATION, SET, NUMBER.
 
-Note that some temporal expressions may be ambiguous or have multiple possible classes. For example, "recent quarters" could be classified as either a Duration or a Date, depending on the context in which it is used.
+Note:
+The input text can contain multiple time expressions.
+
+Note:
+The time expressions can be in different formats.
+
+Note:
+The task is to classify the time expressions, not to extract them.
+
+Note:
+The output should be in the format of a JSON-parseable list.

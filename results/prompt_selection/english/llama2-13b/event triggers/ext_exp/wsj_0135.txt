@@ -1,5 +1,29 @@
-["Elco Industries Inc. said it expects net income in the year ending June 30, 1990, to fall below a recent analyst's estimate of $1.65 a share."]
+["Elco", "expects", "analyst", "estimate", "1.65", "share", "Rockford", "Ill.", "maker", "fasteners", "also", "sales", "year", "slightly", "1989", "margin", "pressures", "demand", "1989", "earned", "million", "share", "company", "stock", "trading", "yesterday"]
 
-Explanation:
-The first sentence is the only one that contains an event trigger.
+Format:
+JSON-parseable list of strings.
 
+Input:
+"The U.S. government is expected to announce today that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.

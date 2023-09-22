@@ -1,34 +1,7 @@
-[
-["Corpo de homem", "Person"],
-["Lagoa", "Location"],
-["Algarve", "Location"],
-["Estaquinha", "Location"],
-["Faro", "Location"],
-["Ferragudo", "Location"],
-["Portimão", "Location"],
-["Polícia Marítima", "Organization"],
-["Pescador", "Person"],
-["Estation Salva-vidas", "Facility"],
-["Delegada de saúde", "Person"],
-["Gabinete de medicina legal", "Facility"],
-["Polícia Marítima", "Organization"]
-]
+[["Corpo de homem", "Per"], ["um homem", "Per"], ["a boiar", "Other"], ["no mar", "Loc"], ["Lagoa", "Loc"], ["Algarve", "Loc"], ["Autoridade Marítima", "Org"], ["o homem", "Per"], ["um pescador", "Per"], ["terá", "Other"], ["caído", "Other"], ["ao mar", "Loc"], ["uma arriba", "Fac"], ["naquela praia de Lagoa", "Loc"], ["do distrito de Faro", "Loc"], ["Depois", "Other"], ["de ter sido dado o alerta", "Other"], ["o avistamento", "Other"], ["do corpo", "Per"], ["a boiar", "Other"], ["no mar", "Loc"], ["foi ativada", "Other"], ["a Estação Salva-vidas de Ferragudo", "Org"], ["procedeu", "Other"], ["à recolha", "Other"], ["do corpo", "Per"], ["transportando-o", "Other"], ["para a marina de Portimão", "Loc"], ["“O óbito foi declarado", "Other"], ["no local", "Loc"], ["pela delegada de saúde de Lagoa", "Per"], ["tendo", "Other"], ["o corpo", "Per"], ["transportado", "Other"], ["para o gabinete de medicina legal de Portimão", "Loc"], ["A Polícia Marítima de Portimão", "Org"], ["tomou conta", "Other"], ["da ocorrência", "Other"]]
 
 Note:
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The classification should be done according to the context of the sentence.
+
+Note 2:
 The input text is in Portuguese.
-
-This task is similar to the previous one, but with a different input text and classes. As before, your goal is to extract and classify all participants in the given text.
-
-The classes in this task are:
-
-* Person: A person, including their name, age, or role.
-* Organization: A company, institution, or group.
-* Object: A tangible object or entity.
-* Location: A geographical location, including cities, countries, or landmarks.
-* Nature: A natural entity, such as a river, mountain, or animal.
-* Facility: A man-made structure or entity, such as a building, hospital, or ship.
-* Other: Any entity that doesn't fit into the above categories.
-
-The output should be a JSON-parseable list, where each element is a list with two strings: the entity and its corresponding class.
-
-The input text is in Portuguese, so make sure to use a language model that can handle Portuguese text.

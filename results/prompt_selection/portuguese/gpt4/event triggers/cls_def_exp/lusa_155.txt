@@ -1,16 +1,1 @@
-[
-["Homem ferido com gravidade após agressão com uma garrafa num restaurante em Palmela", "Occurrence"],
-["ficou hoje ferido com gravidade", "State"],
-["após ter sido agredido no seu estabelecimento", "Occurrence"],
-["a vítima foi transportada", "Occurrence"],
-["em estado de coma", "State"],
-["a agressão foi efetuada hoje à tarde por uma mulher", "Occurrence"],
-["que se pôs em fuga conduzindo um automóvel", "Occurrence"],
-["a agressão", "Occurrence"],
-["foi motivada pelo facto de", "Reporting"],
-["o proprietário do restaurante não querer que a mulher estivesse a consumir bebidas alcoólicas junto ao seu estabelecimento", "Intensional State"],
-["por ser proibido o consumo de álcool na via pública", "State"],
-["outras duas pessoas envolvidas nesta ocorrência sofreram ferimentos ligeiros", "Occurrence"],
-["tendo ambas sido transportadas também para o hospital de São Bernardo", "Occurrence"],
-["foram mobilizados para o local bombeiros da corporação de Águas de Moura", "Occurrence"]
-]
+[["ferido", "State"], ["agressão", "Occurrence"], ["garrafa", "State"], ["restaurante", "State"], ["ficou", "Aspectual"], ["ferido", "State"], ["agredido", "Occurrence"], ["estabelecimento", "State"], ["disse", "Reporting"], ["transportada", "Occurrence"], ["estado de coma", "State"], ["hospital", "State"], ["agressão", "Occurrence"], ["efetuada", "Occurrence"], ["pôs em fuga", "Occurrence"], ["conduzindo", "I_Action"], ["automóvel", "State"], ["agressão", "Occurrence"], ["motivada", "State"], ["não querer", "I_State"], ["consumir", "I_Action"], ["bebidas alcoólicas", "State"], ["estabelecimento", "State"], ["proibido", "State"], ["consumo de álcool", "State"], ["via pública", "State"], ["sofreram", "Occurrence"], ["ferimentos ligeiros", "State"], ["transportadas", "Occurrence"], ["hospital", "State"], ["ambulância", "State"], ["meios próprios", "State"], ["mobilizados", "Occurrence"], ["local", "State"], ["bombeiros", "State"], ["corporação", "State"]]

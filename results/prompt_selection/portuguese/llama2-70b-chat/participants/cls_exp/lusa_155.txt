@@ -1,64 +1,6 @@
-[
-["Homem", "Person"],
-["restaurante", "Facility"],
-["Palmela", "Location"],
-["Cajados", "Location"],
-["Setúbal", "Location"],
-["GNR", "Organization"],
-["Lusa", "Organization"],
-["São Bernardo", "Facility"],
-["mulher", "Person"],
-["automóvel", "Object"],
-["bebidas alcoólicas", "Object"],
-["álcool", "Object"],
-["via pública", "Location"],
-["Comando Distrital de Operações de Socorro", "Organization"],
-["Setúbal", "Location"],
-["bombeiros", "Organization"],
-["Águas de Moura", "Location"]
-]
+[["um homem", "Per"], ["69 anos", "Per"], ["proprietário", "Per"], ["restaurante", "Org"], ["Cajados", "Loc"], ["concelho de Palmela", "Loc"], ["Setúbal", "Loc"], ["uma garrafa", "Obj"], ["sua estabelecimento", "Fac"], ["em estado de coma", "Other"], ["hospital de São Bernardo", "Fac"], ["Setúbal", "Loc"], ["uma mulher", "Per"], ["aparentemente embriagada", "Other"], ["automóvel", "Obj"], ["a agressão", "Per"], ["o proprietário", "Per"], ["o restaurante", "Org"], ["proibido", "Other"], ["o consumo de álcool", "Other"], ["na via pública", "Loc"], ["outras duas pessoas", "Per"], ["ferimentos ligeiros", "Other"], ["ambulância", "Other"], ["hospital de São Bernardo", "Fac"], ["bombeiros", "Org"], ["corporação de Águas de Moura", "Org"]]
 
 Note:
-The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are the ones you defined.
+The input text is in Portuguese.
 
-This task is a classic example of named entity recognition and classification. The goal is to identify and classify all the entities in the given text into predefined categories.
-
-The input textis in Portuguese, and it describes a news story about a man who was injured after being attacked with a bottle in a restaurant in Palmela. The text also mentions the location of the restaurant, the name of the city, and the organization that the victim belongs to.
-
-Your task is to write a code that can extract and classify all the entities in the input text into the following classes:
-
-* Person
-* Organization
-* Object
-* Location
-* Nature
-* Facility
-* Other
-
-The output should be a list of pairs, where each pair contains the entity and its corresponding class.
-
-Here's an example of how the output should look like:
-
-[
-["Homem", "Person"],
-["restaurante", "Facility"],
-["Palmela", "Location"],
-["Cajados", "Location"],
-["Setúbal", "Location"],
-["GNR", "Organization"],
-["Lusa", "Organization"],
-["São Bernardo", "Facility"],
-["mulher", "Person"],
-["automóvel", "Object"],
-["bebidas alcoólicas","Object"],
-["álcool", "Object"],
-["via pública", "Location"],
-["Comando Distrital de Operações de Socorro", "Organization"],
-["Setúbal", "Location"],
-["bombeiros", "Organization"],
-["Águas de Moura", "Location"]
-]
-
-Note that some entities may belong to more than one class. For example, "Palmela" could be classified as both a Location and a Facility, depending on the context.
-
-This task requires a good understanding of natural language processing and named entity recognition techniques. You can use any programming language or library you prefer to solve this task. Good luck!
+The task is to extract and classify all participants in the given text. Participants can be people, organizations, objects, locations, nature, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,13 +1,4 @@
-[
-"no agreement on any deals",
-"seeking alternatives",
-"pursue to acquisition",
-"stands to reap more money"
-]
+["Thursday", "Friday", "unsolicited", "1998", "13:19:00", "DIG Acquisition Corp.", "Rose Partners Limited Partnership", "Robert Mellor", "Thursday", "Friday"]
 
-Explanation:
-
-* "no agreement on any deals" contains the time expression "no" and the phrase "on any deals", which implies a present state.
-* "seeking alternatives" contains the time expression "seeking" and the phrase "alternatives", which implies a present state.
-* "pursue to acquisition" contains the time expression "pursue" and the phrase "to acquisition", which implies a present state.
-* "stands to reap more money" contains the time expression "stands" and the phrase "to reap more money", which implies a present state.
+Format:
+JSON-parseable list of strings.

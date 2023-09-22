@@ -1,18 +1,4 @@
-[
-["Courtaulds Textiles", "Set"],
-["next year's first quarter", "Duration"],
-["300 million", "Set"],
-["400 million", "Set"],
-["15 pence", "Duration"],
-["362 pence", "Set"],
-["1.44 billion", "Set"],
-["March 31", "Date"],
-["50 million", "Duration"],
-["980 million", "Set"],
-["5% to 10%", "Duration"],
-["core activities", "Set"],
-["last year", "Duration"],
-["Australian financier Kerry Packer", "Person"],
-["institutional shareholders", "Set"],
-["customers and employees", "Set"]
-]
+[["Jan. 13", "DATE"], ["next year's first quarter", "DATE"], ["March 31", "DATE"], ["5% to 10%", "DURATION"], ["Friday", "DATE"], ["15 pence", "AMOUNT"], ["362 pence", "AMOUNT"], ["#1.44 billion", "AMOUNT"], ["#4 billion", "AMOUNT"], ["Australian financier", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir James Goldsmith", "PERSON"], ["Julia Blake", "PERSON"], ["Courtaulds Textiles", "ORGANIZATION"], ["B.A.T Industries PLC", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

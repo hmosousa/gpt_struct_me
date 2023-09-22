@@ -1,11 +1,1 @@
-[
-  ["Homem", "Person"],
-  ["mercado de Arroios", "Location"],
-  ["Lisboa", "Location"],
-  ["PSP", "Organization"],
-  ["Comando Metropolitano de Lisboa", "Organization"],
-  ["Cometlis", "Organization"],
-  ["rua Ângela Pinto", "Location"],
-  ["café", "Facility"],
-  ["Polícia Judiciária", "Organization"]
-]
+[["Um homem de 29 anos", "Per"], ["hoje", "Other"], ["esfaqueado nas costas", "Per"], ["o mercado de Arroios", "Loc"], ["Lisboa", "Loc"], ["a agência Lusa", "Org"], ["o Comando Metropolitano de Lisboa (Cometlis)", "Org"], ["a rua Ângela Pinto", "Loc"], ["10:54", "Other"], ["dentro de um café", "Fac"], ["a vítima", "Per"], ["ajuda", "Other"], ["dois indivíduos", "Per"], ["uma arma branca", "Obj"], ["um deles", "Per"], ["a zona das costas", "Loc"], ["fonte do Cometlis", "Org"], ["o suspeito do crime", "Per"], ["a Avenida Almirante Reis", "Loc"], ["tentativa de fuga", "Other"], ["a polícia", "Org"], ["mais dados", "Other"], ["o suspeito", "Per"], ["a Lusa", "Org"], ["a Polícia Judiciária (PJ)", "Org"], ["um crime de homicídio", "Other"], ["Cerca das 14:34", "Other"], ["o local do crime", "Loc"], ["as forças policiais", "Org"], ["fitas de segurança", "Other"]]

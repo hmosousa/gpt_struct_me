@@ -1,23 +1,14 @@
-[
-["Homem", "Person"],
-["mulher", "Person"],
-["Polícia Judiciária", "Organization"],
-["Ministério Público", "Organization"],
-["Penafiel", "Location"],
-["instituição de acolhimento", "Facility"],
-["proveitos", "Object"],
-["produto estupefaciente", "Object"]
-]
-
-Explanation:
-
-* "Homem" and "mulher" are both classified as "Person".
-* "Polícia Judiciária" and "Ministério Público" are both classified as "Organization".
-* "Penafiel" is classified as "Location".
-* "instituição de acolhimento" is classified as "Facility".
-* "proveitos" and "produto estupefaciente" are both classified as "Object".
+[["um homem", "Per"], ["47 anos de idade", "Other"], ["a mulher", "Per"], ["26 anos", "Other"], ["instituição de acolhimento", "Fac"], ["pessoas sujeitas", "Other"], ["esse tipo de crime", "Other"], ["exploração sexual", "Other"], ["na via pública", "Loc"], ["os proveitos", "Obj"], ["a vítima", "Per"], ["fugiu algumas vezes", "Other"], ["sujeição", "Other"], ["localizada", "Other"], ["obrigada ou convencida", "Other"], ["promessa", "Other"], ["receber produto estupefaciente", "Other"], ["do qual é dependente", "Other"], ["o arguido", "Per"], ["lhe cedia", "Other"], ["o MP", "Org"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"], ["tráfico de pessoas", "Other"], ["para exploração sexual", "Other"], ["sequestro", "Other"], ["violação", "Other"]]
 
 Note:
 
-* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second stringis the class.
-* The entities in the text are extracted using the NLTK library's spaCy model, and the classes are assigned based on their context and meaning.
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify all of them correctly.
+* Some entities and classes may have multiple mentions in the input text, so be sure to count them correctly.

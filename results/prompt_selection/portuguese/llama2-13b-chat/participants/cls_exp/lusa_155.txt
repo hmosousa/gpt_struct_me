@@ -1,27 +1,4 @@
-[
-["Homem", "Person"],
-["Garrafa", "Object"],
-["Restaurante", "Facility"],
-["Palmela", "Location"],
-["Setúbal", "Location"],
-["GNR", "Organization"],
-["Lusa", "Organization"],
-["CDOS", "Organization"],
-["bombeiros", "Organization"],
-["águas de mourra", "Organization"]
-]
+[["um homem", "Per"], ["de 69 anos", "Per"], ["proprietário", "Per"], ["do restaurante", "Org"], ["em Cajados", "Loc"], ["no concelho de Palmela", "Loc"], ["ferido", "Per"], ["com gravidade", "Per"], ["após", "Other"], ["ter", "Other"], ["agredido", "Per"], ["no seu estabelecimento", "Org"], ["com uma garrafa", "Obj"], ["disse fonte", "Org"], ["da GNR", "Org"], ["que", "Other"], ["a vítima", "Per"], ["foi", "Other"], ["transportada", "Other"], ["em estado de coma", "Other"], ["para", "Other"], ["o hospital", "Org"], ["de São Bernardo", "Loc"], ["em", "Other"], ["Setúbal", "Loc"], ["segundo", "Other"], ["a fonte", "Org"], ["da GNR", "Org"], ["a agressão", "Per"], ["foi", "Other"], ["efetuada", "Other"], ["hoje à tarde", "Other"], ["pelo", "Other"], ["facto", "Other"], ["de", "Other"], ["o proprietário", "Per"], ["do restaurante", "Org"], ["não querer", "Other"], ["que", "Other"], ["a mulher", "Per"], ["estivesse", "Other"], ["a consumir", "Other"], ["bebidas", "Other"], ["alcoólicas", "Other"], ["junto", "Other"], ["ao seu estabelecimento", "Org"], ["por", "Other"], ["ser", "Other"], ["proibido", "Other"], ["o consumo", "Other"], ["de", "Other"], ["álcool", "Other"], ["na via pública", "Other"], ["de acordo", "Other"], ["com", "Other"], ["fonte", "Org"], ["do", "Other"], ["Comando", "Org"], ["Distrital", "Org"], ["de", "Other"], ["Operações", "Org"], ["de", "Other"], ["Socorro", "Org"], ["outras", "Other"], ["duas", "Other"], ["pessoas", "Per"], ["envolvidas", "Other"], ["na", "Other"], ["ocorrência", "Other"], ["sofreram", "Other"], ["ferimentos", "Other"], ["ligeiros", "Other"], ["tendo", "Other"], ["ambas", "Other"], ["been", "Other"], ["transportadas", "Other"], ["também", "Other"], ["para", "Other"], ["o", "Other"], ["hospital", "Org"], ["de", "Other"], ["São", "Other"], ["Bernardo", "Loc"], ["segundo", "Other"], ["o", "Other"], ["CDOS", "Org"], ["foram", "Other"], ["mobilizados", "Other"], ["para", "Other"], ["o", "Other"], ["local", "Org"], ["bombeiros", "Org"], ["da", "Other"], ["corporação", "Org"], ["de", "Other"], ["Águas", "Other"], ["de", "Other"], ["Moura", "Loc"]]
 
-Explanation:
-
-* "Homem" and "mulher" are both classified as "Person".
-* "Garrafa" is classified as "Object".
-* "Restaurante" is classified as "Facility".
-* "Palmela" and "Setúbal" are both classified as "Location".
-* "GNR", "Lusa", and "CDOS" are all classified as "Organization".
-* "bombeiros" and "águas de mourra" are both classified as "Organization".
-
-Note:
-
-* The output is a JSON-parseable list where each elementis a list with two strings. The first string is the entity and the second is the class.
-* The entities are in the format of a list to allow for multiple entities to be extracted from the input text.
-* The classes are in the format of a list to allow for multiple classes to be assigned to each entity.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

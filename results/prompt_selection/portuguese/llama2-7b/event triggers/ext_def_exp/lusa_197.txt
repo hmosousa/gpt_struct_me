@@ -1,22 +1,20 @@
-["Grua de camião derrubou poste de iluminação no Porto e matou homem de 52 anos",
-"Um homem de 52 anos morreu hoje, e um outro sofreu ferimentos ligeiros, na sequência de um acidente com um camião que derrubou um poste de eletricidade na Rua da Constituição, no Porto, disse à Lusa fonte da PSP.",
-"De acordo com a fonte das Relações Públicas do Comando Metropolitano da PSP do Porto, o poste de iluminação foi derrubado pela grua do camião atingindo o homem que circulava na rua.",
-"A vítima ainda foi transportada com vida para o Hospital de Santo António, mas acabou por morrer.",
-"A estrutura atingiu ainda o funcionário de umas bombas de gasolina, que sofreu ferimentos ligeiros.",
-"O acidente ocorreu cerca das 07:50."]
+["Grua", "derrubou", "poste", "iluminação", "Porto", "matou", "homem", "anos", "morreu", "sofreu", "ferimentos", "lígeiros", "sequência", "acidente", "derrubou", "poste", "eletricidade", "Rua", "Constituição", "Porto", "fonte", "PSP", "de", "acordo", "vítima", "circulava", "transportada", "vida", "Hospital", "Santo", "António", "acabou", "morreu", "estructura", "atingiu", "funcionário", "bombas", "gasolina", "sofreu", "ferimentos", "lígeiros", "acidente", "ocorreu", "cerca", "07:50"]
 
-Explanation:
-The event triggers are the strings that are not part of the main text.
-
-## Solution
-
-```python
-import json
-import re
-
-def extract_event_triggers(text):
-    event_triggers = []
-    for event in re.finditer(r'[^\w\s]+', text):
-        event_triggers.append(event.group())
-    return event_triggers
-```
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, mas também a saúde mental de muitas pessoas, segundo um estudo publicado na revista The Lancet.
+O estudo, realizado por um grupo de 150 especialistas em saúde mental, mostra que a quarentena é um "mecanismo de proteção" contra a covid-19, mas também um "mecanismo de prejudício" para a saúde mental.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saúde mental", diz o estudo.
+"A quarentena é um mecanismo de proteção contra a covid-19, mas também um mecanismo de prejudício para a saú

@@ -1,105 +1,345 @@
-[
-"Homem",
-"Mata",
-"Set",
-"Pessoas",
-"Fere",
-"Outras",
-"Com",
-"Faca",
-"Nordeste",
-"China",
-"Kaiyuan",
-"Liaoning",
-"Por",
-"Least",
-"Set",
-"Feridas",
-"Atac",
-"Media",
-"Yang",
-"Detido",
-"Motivo",
-"Desconhecido",
-"Law",
-"Restricts",
-"Venda",
-"Posse",
-"Armas",
-"Fogo",
-"Ataques",
-"Mass",
-"Facas",
-"Explosivos",
-"Caseros",
-"Autors",
-"Semelhantes",
-"Realizados",
-"Past",
-"Described",
-"As",
-"Dientes",
-"Mentais",
-"Rancor",
-"Sociedade",
-"Em",
-"Ataques",
-"Anteriores",
-"Junho",
-"Condemned",
-"Death",
-"Pequim"
-]
-Explanation:
-The task is to extract all the participants mentioned in the text, which are the people involved in the attacks or affected by them. The output should be a JSON-parseable list of strings, where each string represents a participant.
-The participants are:
-* Homem (man)
-* Mata (killer)
-* Set (several people)
-* Pessoas (people)
-* Fere (injured)
-* Outras (others)
-* Com (with)
-* Faca (knife)
-* Nordeste (northeast)
-* China (China)
-* Kaiyuan (Kaiyuan)
-* Liaoning (Liaoning)
-* Por (because)
-* Least (at least)
-* Set (seven)
-* Feridas (injuries)
-* Atac (attack)
-* Media (media)
-* Yang (Yang)
-* Detido (detained)
-* Motivo (motive)
-* Desconhecido (unknown)
-* Law (law)
-* Restricts (restricts)
-* Venda (sale)
-* Posse (possession)
-* Armas (weapons)
-* Fogo (fire)
-* Ataques (attacks)
-* Mass (mass)
-* Facas (knives)
-* Explosivos (explosives)
-* Caseros (homemade)
-* Autors (authors)
-* Semelhantes (similar)
-* Realizados (realized)
-* Past (past)
-* Described (described)
-* As (as)
-* Dientes (teeth)
-* Mentais (mental)
-* Rancor (rage)
-* Sociedade (society)
-* Em (in)
-* Ataques (attacks)
-* Anteriores (prior)
-* Junho (June)
-* Condemned (condemned)
-* Death (death)
-* Pequim (Beijing)
+	["Homem", "mata", "sete", "pessoas", "e", "fere", "outras", "sete", "com", "uma", "facão", "no", "nordeste", "da", "China", "noticiaram", "hoje", "os", "meios", "de", "comunicação", "estatais", ".", "O", "ataque", "na", "cidade", "de", "Kaiyuan", ",", "na", "provincia", "de", "Liaoning", ",", "foi", "perpetrado", "à", "porta", "de", "uma", "sauna", "e", "do", "um", "balneário", ",", "tendo", "o", "suspeito", " sido", "identificado", "por", "os", "media", "com", "o", "sobrenome", "Yang", ".", "O", "suspeito", "foi", "detido", ",", "mas", "o", "motivo", "do", "ataque", "permanece", "desconhecido", ".", "A", "lei", "chinesa", "restringe", "a", "venda", "e", "posse", "de", "armas", "de", "fogo", ",", "e", "os", "ataques", "em", "massas", "são", "geralmente", "realizados", "com", "facas", "ou", "explosivos", "caseiros", ".", "Autores", "de", "ataques", "semelhantes", "realizados", "no", "passado", "eram", "descritos", "como", "doentes", "mentais", "ou", "por", "terem", "rancro", "contra", "a", "sociedade", ".", "Em", "ataques", "anteriores", ",", "um", "segurança", "de", "uma", "escola", "empunhando", "uma", "facão", "feriu", "pelo", "mínimo", "39", "pessoas", "num", "jardim", "de", "infância", "na", "região", "sul", "de", "Guangxi", ",", "tendo", " sido", "condenado", "à", "morte", ".", "Em", "2018", ",", "um", "homem", "matou", "uma", "pessoa", "e", "feriu", "12", "also", "num", "ataque", "com", "uma", "facão", "num", "centro", "comercial", "em", "Pequim", ".]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

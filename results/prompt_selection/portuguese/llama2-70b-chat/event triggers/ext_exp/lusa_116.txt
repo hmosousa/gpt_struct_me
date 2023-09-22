@@ -1,1 +1,1 @@
-["18:16", "Rua Luís Gonzaga Mendes de Carvalho", "Vila das Aves", "Santo Tirso", "Vila Nova de Famalicão", "Vida de Santo Tirso"]
+["jovem", "atropelado", "autocarro", "Vila das Aves", "Santo Tirso", "Proteção Civil", "Bombeiros", "Hospital São João", "Porto", "Rua Luís Gonzaga Mendes de Carvalho", "Viatura Médica de Emergência e Reanimação", "Ambulância de Suporte Imediato de Vida", "GNR", "local"]

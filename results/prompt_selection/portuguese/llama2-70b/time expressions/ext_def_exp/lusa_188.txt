@@ -1,1 +1,1 @@
-["homens","anos","acidentes","trabalho","localidades","concelhos","distritos","bombeiros","obra","construcao","civil","ferimentos","campo","futeboles","helitranporte"]
+["hoje", "30 nov 2020"]

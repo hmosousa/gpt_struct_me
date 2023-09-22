@@ -1,122 +1,15 @@
-["Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se", "Um juiz de instrução ordenou a prisão preventiva de um homem de 47 anos de idade que o Ministério Público (MP) de Penafiel indiciou por obrigar a mulher com quem vivia a prostituir-se, informou hoje fonte policial. Em comunicado, a Polícia Judiciária, que deteve o homem e o levou a juiz de instrução por indicação do MP, revela ainda que a vítima, de 26 anos, foi colocada numa instituição de acolhimento para pessoas sujeitas a este tipo de crime. A mulher “vivia em comunhão de vida desde 2017 com o arguido, que a sujeitava a exploração sexual na via pública, ficando com os proveitos obtidos dessa prática”, segundo a PJ. Desde essa altura e até a atualidade, relata a polícia, “a vítima fugiu algumas vezes da sujeição a que estava submetida, mas era localizada pelo suspeito e obrigada ou convencida a voltar para junto de si, sob promessa de receber produto estupefaciente do qual é dependente, que o arguido lhe cedia”. O MP junto da comarca de Porto-Este, em Penafiel, indica o homem pela prática dos crimes de tráfico de pessoas para exploração sexual, sequestro e violação."]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+["um juiz de instrução", "um homem de 47 anos de idade", "o Ministério Público (MP)", "Penafiel", "indiciou", "obrigar", "a mulher", "com quem", "vive", "prostituir-se", "informou", "fonte policial", "revela", "a Polícia Judiciária", "deteve", "levou", "juiz de instrução", "indicação", "MP", "revela", "a vítima", "26 anos", "instituição", "acolhimento", "pessoas", "sujeitas", "este tipo", "crime", "vivia", "comunhão", "vida", "2017", "sujeitava", "exploração", "via pública", "proveitos", "obtidos", "dessa prática", "polícia", "fugiu", "sujeição", "promessa", "receber", "produto estupefaciente", "dependente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indica", "crimes", "tráfico", "pessoas", "exploração sexual", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem preso por tentativa de estupro de 13-anos
+Um homem de 23 anos foi preso por tentativa de estupro de uma menina de 13 anos, no concelho de Vila do Conde, informou hoje a Polícia Judiciária.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que

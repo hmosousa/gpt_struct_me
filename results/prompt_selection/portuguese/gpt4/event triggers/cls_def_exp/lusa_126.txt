@@ -1,14 +1,1 @@
-[
-["GNR detém dois homens", "Occurrence"],
-["tráfico de droga", "Occurrence"],
-["detenção dos dois suspeitos", "Occurrence"],
-["ação de patrulhamento", "Occurrence"],
-["verificarem movimentações suspeitas", "Perception"],
-["detiveram os dois suspeitos", "Occurrence"],
-["preparavam para efetuar uma transação", "Intensional Action"],
-["operação", "Occurrence"],
-["apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis", "Occurrence"],
-["detidos vão ser presentes ao Tribunal Judicial", "Intensional Action"],
-["primeiro interrogatório judicial", "Occurrence"],
-["aplicação de eventuais medidas de coação", "Intensional Action"]
-]
+[["detém", "I_Action"], ["dois homens", "Occurrence"], ["tráfico de droga", "Occurrence"], ["deteve", "I_Action"], ["dois homens", "Occurrence"], ["tráfico de droga", "Occurrence"], ["apreendido", "I_Action"], ["doses de estupefacientes", "Occurrence"], ["divulgou", "Reporting"], ["detenção", "Occurrence"], ["dois suspeitos", "Occurrence"], ["efetuada", "Aspectual"], ["ação de patrulhamento", "Occurrence"], ["tráfico de estupefacientes", "Occurrence"], ["verificarem", "Perception"], ["movimentações suspeitas", "Occurrence"], ["detiveram", "I_Action"], ["dois suspeitos", "Occurrence"], ["preparavam", "Aspectual"], ["efetuar", "I_Action"], ["transação", "Occurrence"], ["avançou", "Reporting"], ["operação", "Occurrence"], ["apreendidas", "I_Action"], ["doses de heroína", "Occurrence"], ["doses de cocaína", "Occurrence"], ["euros em numerário", "Occurrence"], ["veículo", "Occurrence"], ["quatro telemóveis", "Occurrence"], ["detidos", "State"], ["vão ser presentes", "I_Action"], ["Tribunal Judicial", "State"], ["interrogatório judicial", "Occurrence"], ["aplicação", "I_Action"], ["medidas de coação", "Occurrence"]]

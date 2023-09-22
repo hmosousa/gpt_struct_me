@@ -1,1 +1,4 @@
-["continuing talks", "reach no agreement", "seeking alternatives", "unsolicited tender offer", "DIG Acquisition Corp.", "Rose Partners Limited Partnership", "individual units", "accepting offer"]
+["said", "reached", "seeking", "alternatives", "unsolicited", "tender", "offer", "DIG", "Acquisition", "vehicle", "pursue", "accepting", "individual", "others", "reap", "more", "money", "sale", "individual", "units", "than", "accepting", "DIG's", "offer"]
+
+Format:
+JSON-parseable list of strings.

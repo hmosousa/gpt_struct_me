@@ -1,16 +1,7 @@
-[
-  ["Date", "Date"],
-  ["Time", "Time"],
-  ["Duration", "Duration"],
-  ["Set", "Set"]
-]
+[["90 days", "DURATION"], ["Santa Monica", "SET"], ["$5.50", "SET"], ["3.3 million", "SET"], ["1.1 million", "SET"], ["Class C", "SET"], ["Class A", "SET"], ["Class B", "SET"], ["unclassified", "SET"]]
 
-Explanation:
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
 
-Date: 2010-05-10
-
-Time: 10:00
-
-Duration: 10
-
-Set: 1
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the families of 600 people killed in the 1983 bombing of a U.S. Marine barracks in Beirut, Lebanon. The settlement, announced Friday, is the largest ever paid by the U.S. government in a terrorism case. The families had sued the government under a law that allows relatives of people killed in terrorist attacks to sue the government for damages. The lawsuit was filed in 1992. The families had alleged that the U.S. government was negligent in failing to provide adequate security for the barracks. The U.S. government had argued that the lawsuit was barred by the doctrine of sovereign immunity. The families had sought $1.5 billion in damages. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after a federal judge in Washington, D.C., ruled in 1998 that the lawsuit could proceed. The judge said the lawsuit was not barred by the doctrine of sovereign immunity. The settlement was reached after

@@ -1,11 +1,1 @@
-[
-["Violência doméstica", "State"],
-["Pulseira eletrónica para homem detido", "Occurrence"],
-["Um homem de 39 anos foi colocado sob vigilância eletrónica", "Occurrence"],
-["suspeito de violência física, injúrias e ameaças de morte à ex-companheira", "State"],
-["informou hoje fonte da GNR", "Reporting"],
-["não aceitou a separação e começou a perseguir a vítima na sua residência e no local de trabalho", "Intensional Action"],
-["A mulher já usava um botão de pânico", "State"],
-["que lhe tinha sido aplicado por medida de proteção por teleassistência", "Occurrence"],
-["O homem, com antecedentes criminais por ilícitos da mesma natureza, ficou ainda proibido de contactar a vítima", "State"]
-]
+[["Violência doméstica", "Occurrence"], ["Pulseira eletrónica", "State"], ["homem detido", "Occurrence"], ["foi colocado", "Aspectual"], ["sob vigilância eletrónica", "State"], ["suspeito", "State"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["informou", "Reporting"], ["não aceitou", "I_State"], ["separação", "Occurrence"], ["começou", "Aspectual"], ["perseguir", "I_Action"], ["vítima", "State"], ["residência", "State"], ["local de trabalho", "State"], ["mulher", "State"], ["usava", "State"], ["botão de pânico", "State"], ["aplicado", "Occurrence"], ["medida de proteção", "State"], ["teleassistência", "State"], ["homem", "State"], ["antecedentes criminais", "State"], ["ficou", "Aspectual"], ["proibido", "State"], ["contactar", "I_Action"], ["vítima", "State"]]

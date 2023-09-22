@@ -1,1 +1,1 @@
-["Jovem de 14 anos em estado grave", "atropelado por autocarro", "assistido no local", "transportado pelos Bombeiros da Vila das Aves", "acidente ocorreu pela 18:16", "prestar assistência", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR local"]
+["ficou", "grave", "atropelado", "autocarro", "disser", "Proteção Civil", "assistido", "transportado", "Bombeiros", "ocorreu", "prestar", "assistência", "Viatura Médica", "Emergência", "Reanimação", "Ambulância", "Suporte Imediato", "Vida", "GNR"]

@@ -1,1 +1,1 @@
-["amended pact", "proposed merger", "special cash dividend", "previous terms", "buy out", "bidding", "amended pact", "auction", "revised proposal", "back-end protection", "revised agreement", "accept some dilution", "scaled back", "antitrust suit", "fair auction"]
+["announced", "borrowed", "forced", "acknowledged", "estimated", "estimate", "valued", "extended", "expect", "escalate", "sweeten", "added", "agreed", "surprised", "scaled", "speculated", "hint"]

@@ -1,31 +1,10 @@
-[
-{
-"entity": "PJ",
-"class": "Organization"
-},
-{
-"entity": "homem",
-"class": "Person"
-},
-{
-"entity": "restaurante",
-"class": "Location"
-},
-{
-"entity": "coletividade",
-"class": "Location"
-},
-{
-"entity": "grupo de convivas",
-"class": "Group"
-},
-{
-"entity": "arma de fogo",
-"class": "Object"
-},
-{
-"entity": "vítima",
-"class": "Person"
-}
-]
-]
+[["PJ", "Org"], ["homem suspeito", "Per"], ["balear jovem", "Per"], ["coletividade", "Loc"], ["restaurante", "Fac"], ["vítima", "Per"], ["conflito", "Other"], ["grupo de convivas", "Org"], ["almoçar", "Other"], ["arma de fogo", "Obj"], ["ferimentos", "Per"], ["ombro", "Loc"], ["braço", "Loc"], ["detido", "Per"], ["indiciado", "Org"], ["crimes", "Other"], ["homicídio qualificado", "Per"], ["detenção de arma proibida", "Other"], ["omissão de auxílio", "Other"], ["prisão preventiva", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned, such as people, organizations, locations, and objects.
+* The output is a list of entities and their corresponding classes, where each entity is matched to a class based on its relevance and significance to the situation.
+* The classes are defined based on the context of the input, and they can be used to categorize and analyze the entities mentioned in the article.
+* The output can be used to create a database or a knowledge graph of entities and their classes, which can be useful for various applications such as information retrieval, text summarization, and machine learning.

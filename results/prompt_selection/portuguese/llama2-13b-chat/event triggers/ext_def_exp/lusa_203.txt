@@ -1,1 +1,14 @@
-["Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China", "Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China", "O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário", "O suspeito foi detido, mas o motivo do ataque permanece desconhecido", "A lei chinesa restringe a venda e posse de armas de fogo", "Os ataques em massa são geralmente realizados com facas ou explosivos caseiros", "Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade", "Em ataques anteriores, um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte", "Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim"]
+
+JSON-parseable list of strings.
+
+Note:
+
+* The output should be a list of strings, where each string represents an event trigger.
+* The events should be extracted based on the given input and the definitions provided.
+* The output should be in JSON-parseable format.
+
+Hint:
+
+* Look for words or phrases that indicate a change in state or a significant occurrence.
+* Pay attention to verbs and nouns that convey action or change.
+* Use the definitions provided to guide your extraction.

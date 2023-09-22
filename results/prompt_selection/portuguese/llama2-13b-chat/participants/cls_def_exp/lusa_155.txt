@@ -1,19 +1,4 @@
-[
-["Homem", "Person"],
-["Mulher", "Person"],
-["Bombeiros", "Organization"],
-["GNR", "Organization"],
-["Hospital de São Bernardo", "Location"],
-["Setúbal", "Location"],
-["Cajados", "Location"],
-["Agressão", "Event"]
-]
+[["um homem", "Per"], ["de 69 anos", "Per"], ["proprietário", "Per"], ["do restaurante", "Org"], ["em Cajados", "Loc"], ["no concelho de Palmela", "Loc"], ["ferido com gravidade", "Per"], ["após ter sido agredido", "Per"], ["no seu estabelecimento", "Org"], ["com uma garrafa", "Obj"], ["segundo a fonte da GNR", "Other"], ["a vítima", "Per"], ["foi transportada", "Per"], ["em estado de coma", "Other"], ["para o hospital de São Bernardo", "Loc"], ["em Setúbal", "Loc"], ["segundo a fonte da GNR", "Other"], ["a agressão", "Per"], ["foi efetuada", "Per"], ["hoje à tarde", "Per"], ["por uma mulher", "Per"], ["aparentemente embriagada", "Other"], ["que se pôs em fuga", "Per"], ["conduzindo um automóvel", "Other"], ["segundo a guarda", "Other"], ["a agressão", "Per"], ["foi motivada", "Per"], ["pelo facto", "Other"], ["de", "Other"], ["o proprietário", "Per"], ["do restaurante", "Org"], ["não querer", "Per"], ["que a mulher", "Other"], ["estivesse a consumir", "Per"], ["bebidas alcoólicas", "Other"], ["junto ao seu estabelecimento", "Org"], ["por ser", "Other"], ["proibido", "Other"], ["o consumo", "Other"], ["de álcool", "Other"], ["na via pública", "Other"], ["outras duas pessoas", "Per"], ["envolvidas nesta ocorrência", "Per"], ["sofreram ferimentos ligeiros", "Per"], ["tendo ambas", "Other"], ["been transportadas", "Per"], ["também para o hospital de São Bernardo", "Loc"], ["uma de ambulância", "Other"], ["e outra por meios próprios", "Other"], ["segundo o CDOS", "Other"], ["foram mobilizados", "Per"], ["para o local", "Loc"], ["bombeiros", "Org"], ["da corporação", "Other"], ["de Águas de Moura", "Other"]]
 
-Explanation:
-
-* "Homem" and "Mulher" are both classified as "Person" because they are individuals involved in the event.
-* "Bombeiros" is classified as "Organization" because it is a group of people who provide a service.
-* "GNR" is classified as "Organization" for the same reason.
-* "Hospital de São Bernardo" is classified as "Location" because it is a physical place where the events took place.
-* "Setúbal" and "Cajados" are both classified as "Location" for the same reason.
-* "Agressão" is classified as "Event" because it is the central action that took place.
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The entities are in English, and the classes are in Portuguese.

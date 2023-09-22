@@ -1,1 +1,1 @@
-["layoffs", "cost-cutting", "centralized", "charge", "earnings", "financial-services", "capital gains", "Hurricane Hugo", "reserves", "property/casualty insurance"]
+[ "laying", "told", "employees", "staff", "cost-cutting", "move", "result", "charge", "earned", "revenue", "offset", "payments", "reserves", "cover", "business", "pricing", "disasters", "huge" ]

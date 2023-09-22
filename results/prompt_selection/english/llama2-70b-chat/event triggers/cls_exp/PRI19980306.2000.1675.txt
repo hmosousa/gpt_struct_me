@@ -1,16 +1,6 @@
-[
-["Pamela McCall", "State"],
-["Kosovo", "Occurrence"],
-["security forces", "Reporting"],
-["villages", "Perception"],
-["offensive", "Aspectual"],
-["fleeing", "Intensional Action"],
-["fearing", "Intensional State"],
-["operation", "Reporting"],
-["Belgrade", "State"],
-["ethnic Albanians", "State"],
-["conflict", "Aspectual"]
-]
+[["Pamela McCall", "REPORTING"], ["Kosovo", "OCCURRENCE"], ["security forces", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["ethnic Albanians", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["offensive", "OCCURRENCE"], ["afraid", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["official Serb sources", "REPORTING"], ["Belgrade", "OCCURRENCE"], ["capital of Serbia", "OCCURRENCE"], ["planned", "I_ACTION"], ["ethnic Albanians", "OCCURRENCE"], ["witnessing", "OCCURRENCE"], ["beginnings", "OCCURRENCE"], ["much wider conflict", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["Pristina", "OCCURRENCE"]]
 
-Explanation:
-Pamela McCall is a state, as she is a person. Kosovo is an occurrence, as it is a location. Security forces is reporting, as it is describing an action. Villages is perception, as it is describing a visual scene. Offensive is aspectual, as it is describing a quality of the action. Fleeing is intensional action, as it is describing an action that is being performed. Fearing is intensional state, as it is describing a state of being. Operation is reporting, as it is describing an action. Belgrade is a state, as it is a location. Ethnic Albanians is a state, as it is a group of people. Conflict is aspectual, as it is describing a quality of the situation.
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+This task is similar to the Stanford Natural Language Processing Group's task on Event Argument Extraction, but with a different set of classes.

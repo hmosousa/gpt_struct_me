@@ -1,28 +1,57 @@
+[["um homem", "Per"], ["69 anos", "Per"], ["proprietário", "Per"], ["restaurante", "Org"], ["Cajados", "Loc"], ["concelho de Palmela", "Loc"], ["Setúbal", "Loc"], ["uma garrafa", "Obj"], ["sua estabelecimento", "Fac"], ["em estado de coma", "Other"], ["hospital de São Bernardo", "Fac"], ["Setúbal", "Loc"], ["uma mulher", "Per"], ["aparentemente embriagada", "Other"], ["automóvel", "Obj"], ["a agressão", "Per"], ["o proprietário", "Per"], ["o restaurante", "Org"], ["a mulher", "Per"], ["proibido", "Other"], ["o consumo de álcool", "Other"], ["na via pública", "Loc"], ["outras duas pessoas", "Per"], ["ferimentos ligeiros", "Other"], ["ambulância", "Other"], ["hospital de São Bernardo", "Fac"], ["bombeiros", "Org"], ["corporação de Águas de Moura", "Org"]]
+
+Please note that the input text is in Portuguese, and the output should be in English.
+
+Also, please note that the task is not to classify the entities in the text, but to classify the participants in the event described in the text.
+
+In this task, we are given a text in Portuguese and we need to extract and classify all participants in the event described in the text. The output should be in English.
+
+The participants can be classified into the following classes:
+
+* Person: refers to individuals involved in the event, such as the victim, the perpetrator, or witnesses.
+* Organization: refers to organizations involved in the event, such as the bank, the police, or the hospital.
+* Object: refers to objects involved in the event, such as the gun, the money, or the car.
+* Location: refers to locations where the event took place, such as the bank, the city, or the hospital.
+* Nature: refers to the nature of the event, such as a robbery, a shooting, or a car accident.
+* Facility: refers to facilities where the event took place, such as a bank, a hospital, or a restaurant.
+* Other: refers to any other participants that do not fit into the above categories, such as the police, the government, or the media.
+
+The input text is in Portuguese, and the output should be in English. The task is not to classify the entities in the text, but to classify the participants in the event described in the text.
+
+For example, in the given input text, the participants can be classified as follows:
+
+* "um homem armado" - Person
+* "vários reféns" - Person
+* "o banco" - Organization
+* "a Geórgia" - Location
+* "a polícia" - Organization
+* "a sucursal bancária" - Facility
+* "um vídeo" - Object
+* "uma granada de mão" - Object
+* "500.000 dólares" - Object
+* "dinheiro" - Object
+* "A Mtavari TV" - Organization
+* "um refém" - Person
+* "o agressor" - Person
+* "19 pessoas" - Person
+* "as instalações bancárias" - Facility
+* "o canal de televisão" - Organization
+
+Therefore, the output for the given input text would be:
+
 [
-["Homem de 69 anos", "Person"],
-["proprietário do restaurante", "Person"],
-["mulher", "Person"],
-["restaurante", "Facility"],
-["Cajados", "Location"],
-["Palmela", "Location"],
-["Setúbal", "Location"],
-["GNR", "Organization"],
-["Lusa", "Organization"],
-["hospital de São Bernardo", "Facility"],
-["Comando Distrital de Operações de Socorro (CDOS)", "Organization"],
-["bombeiros da corporação de Águas de Moura", "Organization"],
-["automóvel", "Object"]
-]
-
-Explanation:
-The input text describes an event where a 69-year-old man, the proprietor of a restaurant in Cajados, was seriously injured after being attacked with a bottle by a woman, who then fled the scene. The victim was transported to the hospital in a coma, and two other people who were involved in the incident suffered minor injuries. The text also mentions the GNR (National Republican Guard) and the CDOS (District Operations Command) of Setúbal, as well as the hospital and the restaurant.
-
-The output is a list of participants, each identified by their entity and class. The classes used are:
-
-* Person: Used for individuals, such as the 69-year-old man, the woman who committed the assault, and the two people who suffered minor injuries.
-* Facility: Used for locations where events took place, such as the restaurant and the hospital.
-* Location: Used for geographical locations, such as Cajados, Palmela, and Setúbal.
-* Organization: Used for institutions and organizations, such as the GNR, Lusa, and the CDOS.
-* Object: Used for objects that are relevant to the event, such as the bottle used in the assault.
-
-Note that some entities may belong to multiple classes. For example, the restaurant could be classified as both a Facility and a Location.
+["um homem armado", "Per"],
+["vários reféns", "Per"],
+["o banco", "Org"],
+["a Geórgia", "Loc"],
+["a polícia", "Org"],
+["a sucursal bancária", "Fac"],
+["um vídeo", "Other"],
+["uma granada de mão", "Obj"],
+["500.000 dólares", "Obj"],
+["dinheiro", "Obj"],
+["A Mtavari TV", "Org"],
+["um refém", "Per"],
+["o agressor", "Per"],
+["19 pessoas", "Per"],
+["as instalações bancárias", "

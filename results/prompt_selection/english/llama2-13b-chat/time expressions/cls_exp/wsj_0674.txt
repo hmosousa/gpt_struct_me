@@ -1,13 +1,4 @@
-[
-["Jim Pattison Industries", "Date"],
-["Innopac Inc.", "Time"],
-["137.8 million Canadian dollars", "Duration"],
-["1988", "Set"]
-]
+[["Jim Pattison Industries Ltd.", "ORGANIZATION"], ["Innopac Inc.", "ORGANIZATION"], ["13.8 million", "NUMBER"], ["4.2 million", "NUMBER"], ["137.8 million", "NUMBER"], ["20 Canadian cents", "AMOUNT"], ["70 Canadian cents", "AMOUNT"], ["Aug. 31", "DATE"], ["1988", "DATE"], ["Leominster, Mass.", "LOCATION"], ["McDonald's Corp.", "ORGANIZATION"]]
 
-Explanation:
-
-* "Jim Pattison Industries" is a date because it refers to the name of a company and not a specific time or duration.
-* "Innopac Inc." is a time because it refers to a specific point in time (the fourth quarter).
-* "137.8 million Canadian dollars" is a duration because it refers to a period of time (the amount of money earned in a specific period).
-* "1988" is a set because it refers to a specific year.
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

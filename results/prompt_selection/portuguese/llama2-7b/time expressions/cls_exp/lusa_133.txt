@@ -1,33 +1,27 @@
-[
-  ["Date", "Time"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
- ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:00"],
-  ["2019-05-28", "12:00:
+[["390 quilogramas", "Duration"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"], ["2 nov 2020", "Date"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["1.100 quilos", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR apreende em Aveiro 390 quilogramas de atum-rabilho
+A GNR apreendeu 390 quilogramas de atum-rabilho, cuja captura está interdita, podendo levar a uma coima até 37.500 euros, no porto de pesca costeira da Gafanha da Nazaré, em Aveiro, revelou hoje em comunicado a Guarda.
+A apreensão ocorreu na segunda-feira durante uma ação de fiscalização com o objetivo de controlar o cumprimento das regras de descarga, transporte, comercialização e regime de primeira venda de pescado fresco, refere a nota de imprensa.
+Durante a operação, os militares encontraram num veículo "77 quilos de atum-rabilho", acabando no seguimento das posteriores diligências por localizar "a embarcação de pesca responsável, tendo ainda no seu interior 313 quilos de atum-rabilho", acrescenta a GNR.
+Ainda segundo a Guarda, "foram identificados o condutor do veículo e o mestre da embarcação" e elaborado o "auto de contraordenação pelo facto de estar interdito o transporte e a capt

@@ -1,1 +1,1 @@
-["last week", "yesterday", "Tuesday", "on Dec. 31, 1990", "the next 14 months", "in 1984", "this week", "over lunch Tuesday", "once before", "in 1988"]
+["last week", "yesterday", "Tuesday", "Dec. 31, 1990", "the next 14 months", "1984", "this week", "Tuesday"]

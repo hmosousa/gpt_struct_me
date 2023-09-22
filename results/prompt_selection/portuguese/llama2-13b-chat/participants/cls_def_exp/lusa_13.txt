@@ -1,19 +1,14 @@
-[
-["Maximiliano Trimarchi", "Person"],
-["Diego Maradona", "Person"],
-["Leopoldo Luque", "Person"],
-["Agustina Cosachov", "Person"],
-["procuradoria-geral de San Isidro", "Organization"],
-["polícia", "Organization"]
-]
+[["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["a apartamento", "Loc"], ["as autoridades", "Org"], ["a investigação", "Other"], ["a negligência", "Other"], ["a morte", "Other"], ["o ex-futebolista", "Other"], ["o telemóvel", "Obj"], ["a procuradoria-geral", "Org"], ["San Isidro", "Loc"], ["as buscas", "Other"], ["Leopoldo Luque", "Per"], ["Agustina Cosachov", "Per"], ["o hematoma subdural", "Obj"], ["a operação", "Other"], ["a justiça argentina", "Org"], ["o inquérito", "Other"]]
 
-Explanation:
+Note:
 
-* Maximiliano Trimarchi is a person and the motorist of Diego Maradona.
-* Diego Maradona is a person and the former Argentine football player who passed away.
-* Leopoldo Luque is a person and the doctor who performed the operation on Maradona.
-* Agustina Cosachov is a person and the psychiatrist who participated in the operation.
-* procuradoria-geral de San Isidro is an organization and the prosecutor's office that ordered the searches.
-* polícia is an organization and the police force that carried out the searches.
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
 
-Note: In this example, the output is a JSON-parseable list of participants, where each element is a list of two strings: the first string is the entity (person, organization, etc.), and the second string is the class (Person, Organization, etc.).
+Hint:
+
+* Use the given text to identify the participants and classify them accordingly.
+* Pay attention to the context and the relationships between the entities.
+* Use the correct class for each entity.

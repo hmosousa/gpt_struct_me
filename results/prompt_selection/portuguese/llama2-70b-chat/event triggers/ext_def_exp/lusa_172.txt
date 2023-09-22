@@ -1,12 +1,1 @@
-[
-"homem encontrado a boiar no mar em Lagoa",
-"homem aparentando entre 60 e 70 anos",
-"homem terá alegadamente caído ao mar",
-"alerta para o avistamento de um corpo a boiar no mar",
-"Estação Salva-vidas de Ferragudo",
-"recolha do corpo",
-"transporte do corpo para a marina de Portimão",
-"óbito declarado no local",
-"transporte do corpo para o gabinete de medicina legal de Portimão",
-"Polícia Marítima de Portimão tomou conta da ocorrência"
-]
+["encontrado", "homem", "a boiar", "mar", "praia", "Estaquinha", "concelho", "Lagoa", "Algarve", "Autoridade Marítima", "homem", "pescador", "caído", "mar", "arriba", "praia", "dado", "alerta", "corpo", "recolha", "transporte", "marina", "Portimão", "óbito", "declarado", "local", "delegada", "saúde", "Lagoa", "gabinete", "medicina legal", "Portimão", "Polícia Marítima", "ocorrência"]

@@ -1,21 +1,13 @@
-[
-["Homem", "Person"],
-["Veículo ligeiro", "Object"],
-["Estrada Nacional 10-8", "Location"],
-["Mitrena", "Location"],
-["PSP", "Organization"],
-["Proteção Civil", "Organization"],
-["Comando Distrital de Operações de Socorro", "Organization"],
-["Hospital de São Bernardo", "Facility"],
-["São Bernardo", "Location"]
-]
+[["um homem", "Per"], ["34 anos", "Other"], ["morreu", "Per"], ["hoje", "Other"], ["o ciclomotor", "Obj"], ["que conduzia", "Per"], ["ter sido colhido", "Other"], ["por um veículo ligeiro", "Other"], ["na Estrada Nacional 10-8", "Loc"], ["na zona da Mitrena", "Loc"], ["em Setúbal", "Loc"], ["disseram fontes", "Other"], ["da PSP e Proteção Civil", "Org"], ["do Comando Distrital de Operações de Socorro", "Org"], ["de Setúbal", "Loc"], ["indicou à agência Lusa", "Other"], ["que o óbito", "Per"], ["do homem", "Per"], ["foi declarado", "Other"], ["no local", "Loc"], ["tendo o corpo", "Other"], ["been encaminhado", "Other"], ["para o serviço de Medicina legal", "Other"], ["do Hospital de São Bernardo", "Other"], ["em Setúbal", "Loc"], ["O alerta", "Other"], ["de acordo com", "Other"], ["o CDOS", "Org"], ["foi dado", "Other"], ["às 06:55", "Other"], ["tendo sido mobilizados", "Other"], ["bombeiros", "Org"], ["e veículos", "Other"], ["das corporações", "Other"], ["de Palmela e Sapadores", "Org"], ["de Setúbal", "Loc"], ["e uma viatura médica", "Other"], ["de emergência e reanimação", "Other"], ["VMER", "Org"], ["além da PSP", "Other"], ["num total", "Other"], ["de 16 elementos", "Other"], ["apoiados por", "Other"], ["cinco veículos", "Other"]]
 
-Explanation:
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
 
-* "Homem" is a person.
-* "Veículo ligeiro" is an object.
-* "Estrada Nacional 10-8" and "Mitrena" are locations.
-* "PSP" and "Proteção Civil" are organizations.
-* "Comando Distrital de Operações de Socorro" is an organization.
-* "Hospital de São Bernardo" is a facility.
-* "São Bernardo" is a location.
+* Per: Person
+* Obj: Object
+* Other: Other
+* Org: Organization
+* Fac: Facility
+* Loc: Location
+
+The input text is a news article describing a traffic accident in which a man died after being hit by a light vehicle. The output list classifies the entities mentioned in the text, including the man, the age, the location, the vehicle, and the organizations involved.

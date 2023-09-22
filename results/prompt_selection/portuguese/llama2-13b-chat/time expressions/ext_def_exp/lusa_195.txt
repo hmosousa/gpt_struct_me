@@ -1,15 +1,4 @@
-["quarta-feira", "on the past Wednesday", "no restaurante de uma coletividade de Setúbal", "na sequência de um conflito com um grupo de convivas", "no Alto da Guerra", "consideráveis num ombro e braço", "do grupo", "tentada", "detenção de arma proibida", "omissão de auxílio", "prisão preventiva"]
+["quarta-feira", "Alto da Guerra", "30 nov 2020", "setembro", "final do ano", "época de veda", "épocas de veda"]
 
-Note:
-
-* "quarta-feira" is a time expression indicating the day of the week.
-* "on the past Wednesday" is a time expression indicating the day of the week and the fact that the event occurred in the past.
-* "no restaurante de uma coletividade de Setúbal" is a time expression indicating the location of the event.
-* "na sequência de um conflito com um grupo de convivas" is a time expression indicating the cause of the event.
-* "no Alto da Guerra" is a time expression indicating the location of the event.
-* "consideráveis num ombro e braço" is a time expressionindicating the severity of the injury.
-* "do grupo" is a time expression indicating the relationship between the victim and the perpetrator.
-* "tentada" is a time expression indicating the intention of the perpetrator.
-* "detenção de arma proibida" is a time expression indicating the type of weapon used in the crime.
-* "omissão de auxílio" is a time expression indicating the failure to provide assistance to the victim.
-* "prisão preventiva" is a time expression indicating the type of punishment imposed on the perpetrator.
+Hint:
+Note that some of the time expressions may have different forms, such as "final do ano" and "épocas de veda", but they all refer to the same concept of time.

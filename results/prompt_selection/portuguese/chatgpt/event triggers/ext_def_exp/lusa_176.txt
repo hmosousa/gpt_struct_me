@@ -1,1 +1,1 @@
-["morre", "conduzia", "colhido", "disseram", "indicou", "declarado", "encaminhado", "dado", "mobilizados", "apoiados"]
+["morre", "conduzia", "colhido", "disseram", "indicou", "declarado", "encaminhado", "alerta", "dado", "mobilizados", "apoiados"]

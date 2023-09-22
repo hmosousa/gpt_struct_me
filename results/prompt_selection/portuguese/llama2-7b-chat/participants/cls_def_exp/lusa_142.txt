@@ -1,27 +1,10 @@
-[
-{
-"participant": "mulher",
-"class": "Person"
-},
-{
-"participant": "GNR",
-"class": "Organization"
-},
-{
-"participant": "Posto Territorial de Mértola",
-"class": "Organization"
-},
-{
-"participant": "Tribunal Judicial de Beja",
-"class": "Location"
-},
-{
-"participant": "droga",
-"class": "Nature"
-},
-{
-"participant": "haxixe",
-"class": "Object"
-}
-]
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+[["GNR", "Org"], ["suspeita", "Per"], ["tráfico de droga", "Per"], ["12.300 doses", "Other"], ["haxixe", "Other"], ["Mértola", "Loc"], ["Beja", "Loc"], ["Tribunal Judicial", "Org"], ["primer interrogatório", "Per"], ["medidas de coação", "Per"], ["militares", "Org"], ["Posto Territorial", "Org"], ["viatura", "Loc"], ["demonstrou", "Per"], ["comportamento nervoso", "Per"], ["apurou", "Per"], ["droga", "Other"], ["apresentou", "Per"], ["Estrada Nacional", "Loc"], ["vila", "Loc"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and relationships.
+* The output list represents the entities and their classes, according to the definition provided.
+* The entities are: GNR, suspeita, tráfico de droga, haxixe, Mértola, Beja, Tribunal Judicial, militares, Posto Territorial, viatura, and Estrada Nacional.
+* The classes are: Organization (Org), Person (Per), Location (Loc), and Other (Other).

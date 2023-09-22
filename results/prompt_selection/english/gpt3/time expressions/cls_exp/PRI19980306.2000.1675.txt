@@ -1,1 +1,1 @@
-[["second day", "Duration"], ["mid afternoon", "Time"], ["Belgrade", "Set"], ["future", "Date"]]
+[["second day", "DURATION"], ["mid afternoon", "TIME"], ["Belgrade", "DATE"], ["the future", "DATE"], ["the beginnings", "DATE"], ["Pristina", "DATE"]]

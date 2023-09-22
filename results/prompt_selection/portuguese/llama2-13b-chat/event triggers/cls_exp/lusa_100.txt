@@ -1,27 +1,14 @@
-[
-["Violência doméstica", "State"],
-["Pulseira eletrónica", "Aspectual"],
-["homem detido", "Occurrence"],
-["Penafiel", "Location"],
-["GNR", "Reporting"],
-["separação", "Aspectual"],
-["perseguição", "Aspectual"],
-["teleassistência", "Aspectual"],
-["antecedentes criminais", "Intensional Action"]
-]
-
-Explanation:
-
-* "Violência doméstica" is a state, as it describes a situation.
-* "Pulseira eletrónica" is an aspectual entity, as it describes a device used to monitor the suspect.
-* "homem detido" is an occurrence, as it describes an event that happened (the man was detained).
-* "Penafiel" is a location, as it describes where the event took place.
-* "GNR" is a reporting entity, as it is the source of the information.
-* "separação" and "perseguição" are aspectual entities, as theydescribe the events that led to the detention.
-* "teleassistência" is an aspectual entity, as it describes the device used to monitor the suspect.
-* "antecedentes criminais" is an intensional action, as it describes the suspect's previous criminal history.
+[["homem", "I_Action"], ["detido", "State"], ["violência", "Occurrence"], ["física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças", "Occurrence"], ["morte", "Occurrence"], ["ex-companheira", "I_Person"], ["perseguir", "Occurrence"], ["residência", "Location"], ["trabalho", "Location"], ["medida", "State"], ["proteção", "State"], ["teleassistência", "State"], ["antecedentes", "State"], ["criminais", "State"], ["ficou", "I_Action"], ["proibido", "State"]]
 
 Note:
 
-* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
-* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* "I_Action" refers to an intensional action, which is an action that is performed with a specific goal or intention.
+* "State" refers to a state or condition, which is a fact or situation that exists or exists at a particular time.
+* "Occurrence" refers to an event or happening, which is something that takes place or occurs.
+* "Aspectual" refers to a aspect or feature of something, which is a particular way in which something exists or is experienced.
+
+Hint:
+
+* Use the given sentences to identify the event triggers and classify them into the appropriate categories.
+* Pay attention to the verb tenses and the context of the sentences to determine the correct classification.
+* Use the provided examples to guide you in your analysis.

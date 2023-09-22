@@ -1,23 +1,4 @@
-[
-["AVON", "Date"],
-["3.3 million", "Number"],
-["one warrant", "Duration"],
-["each three shares", "Set"],
-["1.1 million", "Number"],
-["Class C warrants", "Set"],
-["$5.50", "Number"],
-["90 days", "Duration"],
-["additional 243,677", "Number"]
-]
+[["AVON RENT-A-CAR amp TRUCK Corp.", "ORGANIZATION"], ["one warrant", "DURATION"], ["three shares", "SET"], ["common stock", "SET"], ["3.3 million", "NUMBER"], ["Class C warrants", "SET"], ["$5.50", "NUMBER"], ["90 days", "DURATION"], ["issue date", "DATE"], ["additional", "ADJECTIVE"], ["243,677", "NUMBER"], ["Class A", "SET"], ["Class B", "SET"], ["unclassified warrants", "SET"]]
 
-Explanation:
-
-* AVON is a date expression, as it refers to the name of the company.
-* 3.3 million is a number expression.
-* one warrant is a duration expression, as it refers to the number of days until the warrants can be exercised.
-* each three shares is a set expression, as it refers to the ratio of warrants to shares.
-* 1.1 million is a number expression.
-* Class C warrants is a set expression, as it refers to the type of warrants being issued.
-* $5.50 is a number expression.
-* 90 days is a duration expression, as it refers to the time period during which the warrants can be exercised.
-* additional 243,677 is a number expression.
+Note:
+The output is a list of lists, where each sub-list contains two strings: the first string is the entity and the second string is the class. The classes are: DATE, SET, DURATION, and ORGANIZATION.

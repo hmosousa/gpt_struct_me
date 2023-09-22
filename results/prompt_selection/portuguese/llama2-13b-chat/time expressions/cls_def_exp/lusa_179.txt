@@ -1,23 +1,4 @@
-[
-["Homem", "Date"],
-["Prisão preventiva", "Time"],
-["juiz de instrução", "Set"],
-["MP", "Set"],
-["Polícia Judiciária", "Set"],
-["vítima", "Date"],
-["arguido", "Date"],
-["2017", "Date"],
-["produto estupefaciente", "Duration"]
-]
+[["prisão preventiva", "Duration"], ["47 anos", "Date"], ["26 anos", "Date"], ["2017", "Time"], ["atualidade", "Time"], ["Penafiel", "Set"], ["Penafiel", "Set"]]
 
-Explanation:
-
-* "Homem" is a noun and belongs to the class "Date" because it refers to a person who was born on a specific date.
-* "Prisão preventiva" is a noun and belongs to the class "Time" because it refers to a specific period of time.
-* "juiz de instrução" is a noun and belongs to the class "Set" because it refers to a set of judges.
-* "MP" is an abbreviation and belongs to the class "Set" because it refers to a set of public prosecutors.
-* "Polícia Judiciária" is a noun and belongs to the class "Set" because it refers to aset of police officers.
-* "vítima" is a noun and belongs to the class "Date" because it refers to a person who was born on a specific date.
-* "arguido" is a noun and belongs to the class "Date" because it refers to a person who was born on a specific date.
-* "2017" is a noun and belongs to the class "Date" because it refers to a specific year.
-* "produto estupefaciente" is a noun and belongs to the class "Duration" because it refers to a specific period of time.
+Note:
+The dates and times are in Portuguese format (day before month).

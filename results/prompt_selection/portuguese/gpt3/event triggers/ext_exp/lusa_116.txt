@@ -1,1 +1,1 @@
-["jovem de 14 anos em estado grave", "atropelado por autocarro", "acidente ocorreu"]
+["ficou", "estado grave", "atropelado", "autocarro", "Vila das Aves", "concelho", "Santo Tirso", "assistido", "transportado", "Bombeiros", "Hospital São João", "Porto", "acidente", "ocorreu", "Rua Luís Gonzaga Mendes de Carvalho", "prestar", "assistência", "Viatura Médica", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte Imediato", "Vida", "Santo Tirso", "GNR"]

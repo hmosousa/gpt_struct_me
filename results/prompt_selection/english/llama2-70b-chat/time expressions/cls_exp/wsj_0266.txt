@@ -1,35 +1,139 @@
-[
-["Oct. 23", "Date"],
-["two years ago", "Duration"],
-["20th century", "Date"],
-["Harry Brown", "Person"],
-["myself", "Person"],
-["painfully", "Duration"]
-]
+[["Oct. 23", "DATE"], ["two years ago", "DURATION"], ["20th century", "DATE"], ["Harry Brown", "PERSON"], ["myself", "PERSON"], ["Bruce R. Bent", "PERSON"], ["The Reserve Fund", "ORGANIZATION"], ["New York", "LOCATION"]]
 
 Note:
-The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+The output format is a JSON-parseable list.
 
-This task is to classify time expressions in a given text. The output is a list of tuples, where each tuple contains the time expression and its corresponding class. The classes are:
+Hint:
+You can use NLTK library for this task.
 
-* Date: A specific date, such as "Oct. 23" or "20th century".
-* Time: A specific time, such as "2 years ago" or "painfully".
-* Duration: A period of time, such as "two years" or "painfully".
-* Set: A set of dates, such as "the past century" or "the 20th century".
+Note:
+Please make sure to submit your code in a JSON format.
 
-The input text is:
+Also, please make sure that your code is executable and can be run on any machine.
 
-"I was pleased to note that your Oct. 23 Centennial Journal item recognized the money-fund concept as one of the significant events of the past century. Actually, about two years ago, the Journal listed the creation of the money fund as one of the 10 most significant events in the world of finance in the 20th century. But the Reserve Fund, America's first money fund, was not named, nor were the creators of the money-fund concept, Harry Brown and myself. We innovated telephone redemptions, daily dividends, total elimination of share certificates and the constant $1 pershare pricing, all of which were painfully thought out and not the result of some inadvertence on the part of the SEC."
+Please provide a sample output for the given input.
 
-The expected output is:
+Please provide a sample output for the given input.
 
-[
-["Oct. 23", "Date"],
-["two years ago", "Duration"],
-["20th century", "Date"],
-["Harry Brown", "Person"],
-["myself", "Person"],
-["painfully", "Duration"]
-]
+Input:
+"The company plans to release its quarterly earnings report on April 25."
 
-Note that the output format is a JSON-parseable list, where each element is a list of two strings: the first string is the entity, and the second string is the class.
+Output:
+[["April 25", "DATE"]]
+
+Input:
+"The company will hold its annual meeting on March 28 at 10:00 am."
+
+Output:
+[["March 28", "DATE"], ["10:00 am", "TIME"]]
+
+Input:
+"The project is expected to take three months to complete."
+
+Output:
+[["three months", "DURATION"]]
+
+Input:
+"The team will meet every Wednesday at 2:00 pm."
+
+Output:
+[["every Wednesday", "SET"], ["2:00 pm", "TIME"]]
+
+Input:
+"The report must be submitted by the end of the month."
+
+Output:
+[["end of the month", "DATE"]]
+
+Input:
+"The company was founded in 1911 and has been providing quality products and services for over 100 years."
+
+Output:
+[["1911", "DATE"], ["over 100 years", "DURATION"]]
+
+Input:
+"The new policy will go into effect on January 1, 2023."
+
+Output:
+[["January 1, 2023", "DATE"]]
+
+Input:
+"The meeting has been scheduled for 3:00 pm on December 15."
+
+Output:
+[["December 15", "DATE"], ["3:00 pm", "TIME"]]
+
+Input:
+"The project is expected to last for two years."
+
+Output:
+[["two years", "DURATION"]]
+
+Input:
+"The company will launch its new product line on September 10."
+
+Output:
+[["September 10", "DATE"]]
+
+Input:
+"The team will meet on a bi-weekly basis."
+
+Output:
+[["bi-weekly", "SET"]]
+
+Input:
+"The report is due by the end of the week."
+
+Output:
+[["end of the week", "DATE"]]
+
+Input:
+"The company has been in business for over 50 years."
+
+Output:
+[["over 50 years", "DURATION"]]
+
+Input:
+"The new employee will start on Monday, April 3."
+
+Output:
+[["Monday", "DATE"], ["April 3", "DATE"]]
+
+Input:
+"The meeting will take place on a monthly basis."
+
+Output:
+[["monthly", "SET"]]
+
+Input:
+"The project is expected to finish by the end of the year."
+
+Output:
+[["end of the year", "DATE"]]
+
+Input:
+"The team will meet every Tuesday and Thursday at 10:00 am."
+
+Output:
+[["every Tuesday and Thursday", "SET"], ["10:00 am", "TIME"]]
+
+Input:
+"The company will release its quarterly earnings report on October 20."
+
+Output:
+[["October 20", "DATE"]]
+
+Input:
+"The project is expected to last for six months."
+
+Output:
+[["six months", "DURATION"]]
+
+Input:
+"The team will meet on a weekly basis."
+
+Output:
+[["weekly", "SET"]]
+
+Input:
+"The report must be submitted by the end of the quarter

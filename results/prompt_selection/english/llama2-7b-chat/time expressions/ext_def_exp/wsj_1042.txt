@@ -1,1 +1,4 @@
-["in", "currently", "about", "90", "days", "after", "issue", "date", "will", "issue"]
+	["one warrant", "three shares", "1.1 million", "common stock", "Class C warrants", "Class A", "Class B", "unclassified warrants", "90 days", "additional 243,677"]
+
+Format:
+JSON-parseable list of strings.

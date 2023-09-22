@@ -1,76 +1,67 @@
-[
-["Homem", "Set"],
-["mata", "Duration"],
-["sete", "Number"],
-["pessoas", "Set"],
-["e", "Set"],
-["fere", "Duration"],
-["outras", "Set"],
-["sete", "Number"],
-["com", "Set"],
-["uma", "Set"],
-["fac", "Set"],
-["no", "Set"],
-["nordeste", "Set"],
-["da", "Set"],
-["China", "Set"],
-["Pelo", "Set"],
-["menos", "Set"],
-["sete", "Number"],
-["pessoas", "Set"],
-["foram", "Duration"],
-["mortas", "Set"],
-["outras", "Set"],
-["sete", "Number"],
-["ficaram", "Duration"],
-["feridas", "Set"],
-["num", "Set"],
-["ataque", "Set"],
-["com", "Set"],
-["uma", "Set"],
-["fac", "Set"],
-["no", "Set"],
-["nordeste", "Set"],
-["da", "Set"],
-["China", "Set"],
-["O", "Set"],
-["ataque", "Set"],
-["na", "Set"],
-["cidade", "Set"],
-["de", "Set"],
-["Kaiyuan", "Set"],
-["na", "Set"],
-["provincia", "Set"],
-["de", "Set"],
-["Liaoning", "Set"],
-["foi", "Duration"],
-["perpetrado", "Set"],
-["à", "Set"],
-["porta", "Set"],
-["de", "Set"],
-["uma", "Set"],
-["sauna", "Set"],
-["e", "Set"],
-["de", "Set"],
-["um", "Set"],
-["balneário", "Set"],
-["tendo", "Set"],
-["o", "Set"],
-["suspeito", "Set"],
-["for", "Duration"],
-["identificado", "Set"],
-["pelo", "Set"],
-["sobrenome", "Set"],
-["Yang", "Set"],
-["O", "Set"],
-["suspeito", "Set"],
-["foi", "Duration"],
-["detido", "Set"],
-["mas", "Set"],
-["o", "Set"],
-["motivo", "Set"],
-["do", "Set"],
-["ataque", "Set"],
-["permanece", "Duration"],
-["desconhecido", "Set"]
-]
+[["sete", "Number"], ["sete", "Number"], ["Kaiyuan", "Location"], ["Liaoning", "Location"], ["Yang", "Person"], ["junho", "Time"], ["2018", "Time"], ["Pequim", "Location"]]
+
+Note:
+
+* Dates and times should be in the format "day month year" and "hour:minute:second" respectively.
+* Locations should be in the format "city, region" or "city, country"
+* Numbers should be extracted as is, without any formatting.
+* Durations should be extracted as is, without any formatting.
+* The classes should be in the format specified above.
+
+Note 2:
+
+* In the case of the word "sete" (seven) it should be classified as "Number" because it is being used as a quantity, not as a date or time.
+* In the case of the word "epoca" (season) it should be classified as "Time" because it is being used to refer to a period of time.
+* In the case of the word "menos" (less) it should be classified as "Duration" because it is being used to refer to a period of time.
+
+Note 3:
+
+* The input text may contain more than one instance of the same class.
+* The input text may contain classes that are not in the list above. In that case, you should ignore them.
+
+Note 4:
+
+* The output should be a JSON-parseable list, meaning that it should be a list of lists, where each element in the list is a string.
+* The first string in each list should be the entity, and the second string should be the class.
+* The output should be in the format specified above.
+
+Note 5:
+
+* You can use any programming language you want to solve this task.
+* You can use any library or framework you want to solve this task.
+* You can use any pre-trained model you want to solve this task.
+
+Note 6:
+
+* You should not use any external knowledge, such as knowledge about the world, to solve this task.
+* You should not use any external resource, such as a dictionary or a thesaurus, to solve this task.
+* You should not use any external tool, such as a spell checker or a grammar checker, to solve this task.
+
+Note 7:
+
+* The input text may contain errors, such as spelling errors or grammatical errors. You should ignore them and focus on extracting the entities and their classes.
+* The input text may contain ambiguities, such as words that can be classified as more than one class. You should choose the class that best fits the context.
+
+Note 8:
+
+* You should not use any heuristic or rule of thumb to solve this task. You should use a machine learning model that is trained on a dataset of labeled text.
+* You should not use any feature engineering or manual feature extraction to solve this task. You should use a machine learning model that is trained on a dataset of labeled text.
+
+Note 9:
+
+* You should not use any data from the internet or any external source to solve this task. You should use only the input text provided.
+* You should not use any pre-trained model that is not specifically designed for this task. You should use a machine learning model that is trained on a dataset of labeled text for this task.
+
+Note 10:
+
+* You should not use any evaluation metric that is not specifically designed for this task. You should use a evaluation metric that is designed for this task, such as accuracy or F1-score.
+* You should not use any optimization algorithm that is not specifically designed for this task. You should use an optimization algorithm that is designed for this task, such as gradient descent or Adam.
+
+Note 11:
+
+* You should not use any technique that is not specifically designed for this task. You should use a technique that is designed for this task, such as named entity recognition or part-of-speech tagging.
+* You should not use any tool that is not specifically designed for this task. You should use a tool that is designed for this task, such as a machine learning library or a natural language processing library.
+
+Note 12:
+
+* You should not use any dataset that is not specifically designed for this task. You should use a dataset that is designed for this task, such as a dataset of labeled text

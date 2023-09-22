@@ -1,25 +1,7 @@
-[
-["2017", "Date"],
-["hoje", "Date"],
-["desde essa altura e até a atualidade", "Duration"],
-["algumas vezes", "Set"]
-]
+[["2017", "Time"], ["2017", "Time"], ["atualidade", "Time"], ["algumas vezes", "Duration"], ["setembro", "Time"], ["final do ano", "Time"]]
 
-Explanation:
-The input text contains several time expressions:
+Note:
+The input text is in Portuguese.
 
-* "2017" is a date and should be classified as such.
-* "hoje" means "today" in Portuguese and is also a date, so it should be classified as a date.
-* "desde essa altura e até a atualidade" means "since that time until the present" and should be classified as a duration.
-* "algumas vezes" means "sometimes" and should be classified as a set (a collection of items that may have some elements in common).
-
-Therefore, the output should be a list of four elements, each containing the time expression and its corresponding class:
-
-[
-["2017", "Date"],
-["hoje", "Date"],
-["desde essa altura e até a atualidade", "Duration"],
-["algumas vezes", "Set"]
-]
-
-This output can be easily parsed and used by a machine learning model to train and evaluate its performance on time expression classification tasks.
+Note:
+The output format is a JSON-parseable list.

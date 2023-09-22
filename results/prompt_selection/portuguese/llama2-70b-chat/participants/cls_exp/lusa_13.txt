@@ -1,20 +1,7 @@
-[
-["Maximiliano Trimarchi", "Person"],
-["Diego Maradona", "Person"],
-["Leopoldo Luque", "Person"],
-["Agustina Cosachov", "Person"],
-["San Isidro", "Location"],
-["Buenos Aires", "Location"],
-["Argentina", "Location"],
-["Maradona", "Other"],
-["telemóvel", "Object"]
-]
+[["Autoridades judiciais", "Org"], ["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["ex-futebolista argentino", "Per"], ["San Isidro", "Loc"], ["procuradoria-geral", "Org"], ["telemóvel", "Obj"], ["Leopoldo Luque", "Per"], ["médico", "Per"], ["Maradona", "Per"], ["Agustina Cosachov", "Per"], ["psiquiatra", "Per"], ["inquérito", "Other"], ["negligência médica", "Other"], ["assistência", "Other"], ["antigo futebolista", "Per"]]
 
-Note:
-The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+Please note that the input text is in Portuguese and the output should be in English.
 
-In this task, you are given a text in Portuguese and you must extract and classify all participants mentioned in the text. The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.
+Also, please note that the task is to classify the entities in the text, not to extract the entities.
 
-You must output a list of entities and their corresponding classes, following the format specified in the input.
-
-For example, in the given input, "Maximiliano Trimarchi" is a Person, "Diego Maradona" is a Person, "Leopoldo Luque" is a Person, "Agustina Cosachov" is a Person, "San Isidro" is a Location, "Buenos Aires" is a Location, "Argentina" is a Location, "Maradona" is an Other, and "telemóvel" is an Object.
+Please provide the output in the format specified.

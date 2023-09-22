@@ -1,25 +1,13 @@
-["Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China",
-"Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.",
-"O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o suspeito sido identificado pelos media com o sobrenome Yang.",
-"O suspeito foi detido, mas o motivo do ataque permanece desconhecido.",
-"A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros.",
-"Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade.",
-"Em ataques anteriores, umsegurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte.",
-"Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim."]
+["Homem", "mata", "sete pessoas", "e fere outras sete com uma faca no nordeste da China", "Pelo menos", "sete pessoas", "foram mortas", "e outras sete ficaram feridas", "num ataque com uma faca", "no nordeste da China", "noticiaram", "hoje", "os meios de comunicação estatais", "O ataque", "na cidade de Kaiyuan", "na província de Liaoning", "foi perpetrado à porta", "de uma sauna", "e de um balneário", "tendo o suspeito", "identificado pelos media", "com o sobrenome Yang", "O suspeito", "foi detido", "mas o motivo", "do ataque", "permanece desconhecido", "A lei chinesa", "restringe a venda", "e posse de armas de fogo", "e os ataques em massa", "são geralmente realizados", "com facas", "ou explosivos caseiros", "Autores", "de ataques semelhantes", "realizados no passado", "eram descritos", "como doentes mentais", "ou por terem rancor", "contra a sociedade", "Em ataques anteriores", "um segurança", "de uma escola", "empunhando uma faca", "feriu pelo menos", "39 pessoas", "num jardim de infância", "na região sul de Guangxi", "em junho deste ano", "tendo sido condenado à morte", "Em 2018", "um homem", "matou uma pessoa", "e feriu 12 também", "num ataque com uma faca", "num centro comercial", "em Pequim"]
 
-Examples:
-[
-  "Homem mata sete pessoas e fere outras sete com uma faca no nordeste da China",
-  "Pelo menos sete pessoas foram mortas e outras sete ficaram feridas num ataque com uma faca no nordeste da China, noticiaram hoje os meios de comunicação estatais.",
-  "O ataque na cidade de Kaiyuan, na província de Liaoning, foi perpetrado à porta de uma sauna e de um balneário, tendo o suspeito sido identificado pelos media com o sobrenome Yang.",
-  "O suspeito foi detido, mas omotivo do ataque permanece desconhecido.",
-  "A lei chinesa restringe a venda e posse de armas de fogo, e os ataques em massa são geralmente realizados com facas ou explosivos caseiros.",
-  "Autores de ataques semelhantes realizados no passado foram descritos como doentes mentais ou por terem rancor contra a sociedade.",
-  "Em ataques anteriores, um segurança de uma escola empunhando uma faca feriu pelo menos 39 pessoas num jardim de infância na região sul de Guangxi, em junho deste ano, tendo sido condenado à morte.",
-  "Em 2018, um homem matou uma pessoa e feriu 12 também num ataque com uma faca num centro comercial em Pequim."
-]
-*/
+Input:
+"Homem armado faz vários reféns dentro de um banco na Geórgia
+Um homem armado fez hoje à tarde vários reféns, ainda em número incerto, dentro das instalações de um banco na Geórgia, informaram as autoridades desta ex-república soviética.
+O Ministério do Interior da Geórgia não precisou, até ao momento, quantas pessoas foram feitas reféns dentro do banco, localizado na cidade de Zugdidi (região oeste), ou quais são as exigências do agressor.
+A polícia isolou, entretanto, a zona onde fica a sucursal bancária e montou uma operação "para neutralizar o agressor", informou o ministério num comunicado.
+A televisão estatal da Geórgia, a Mtavari TV, noticiou que o sequestrador está armado com uma granada de mão e exige 500.000 dólares (cerca de 420.000 euros) em dinheiro.
+A Mtavari TV conseguiu falar com um dos reféns que indicou que o agressor mantém 19 pessoas dentro das instalações bancárias.
+O canal de televisão também divulgou um vídeo que mostra uma sala com pessoas sentadas no chão e um homem vestido com um uniforme militar, de rosto coberto, e armado com uma espingarda."
 
-const extractParticipants = (text) => {
-  const participants = [];
-  const participantsRegex = /(Homem mata sete pessoas e fere outras set
+Output:
+["um comunicado", "Um homem armado", "vários reféns", "número incerto", "as instalações", "a Geórgia", "as autoridades", "esta ex-república soviética", "O Ministério do Interior", "a Geórgia", "quantas pessoas", "reféns", "o banco,", "a cidade de Zugdidi (região oeste)", "quais", "o agressor", "A polícia", "a zona", "onde", "a sucursal bancária", "o agressor", "o ministério", "A televisão estatal", "a Mtavari TV", "o sequestrador", "uma granada de mão", "500.000 dólares (cerca de 420.000

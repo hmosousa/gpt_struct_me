@@ -1,3 +1,4 @@
-[
-"after", "today", "hoje", "10:54", "inside", "a café", "14:34"
-]
+["em Lisboa", "Lisboa", "Arroios", "rua Ângela Pinto", "Cometlis", "PSP", "Avenida Almirante Reis", "Polícia Judiciária", "PJ"]
+
+Note:
+The output list contains time expressions in the format of "X semana", "X dia", "X mês", "X ano", where X is a number that represents the specific time period.

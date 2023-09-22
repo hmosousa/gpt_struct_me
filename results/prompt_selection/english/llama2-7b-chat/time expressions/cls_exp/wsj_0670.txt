@@ -1,22 +1,2 @@
-[
-{
-"National Intergroup",
-"Date",
-"2001-09-01"
-},
-{
-"National Intergroup",
-"Time",
-"1 year ago"
-},
-{
-"National Intergroup",
-"Duration",
-"3 months"
-},
-{
-"National Intergroup",
-"Set",
-"$15 million"
-}
-]
+
+	[["$5.3 million", "MONEY"], ["$15 million", "MONEY"], ["$30 million", "MONEY"], ["97 cents", "MONEY"], ["$18 million", "MONEY"], ["$778.6 million", "MONEY"], ["Hawesville", "LOCATION"], ["1989", "DATE"]]

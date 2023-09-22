@@ -1,12 +1,1 @@
-[
-"Encontrado corpo de homem",
-"O corpo de um homem",
-"62 anos",
-"Zona rochosa na costa da Terceira",
-"Autoridade Marítima",
-"Comando-Local da Polícia Marítima de Angra do Heroísmo",
-"Polícia de Segurança Pública (PSP)",
-"Delegado de saúde",
-"Equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória",
-"Hospital de Angra do Heroísmo"
-]
+	["Encontrado", "corpo", "zona rochosa", "costa", "Terceira", "Açores", "O corpo", "de um homem", "a boiar", "zona", "rochosa", "costa", "leste", "Terceira", "Açores", "segunda-feira", "Comando-Local", "Polícia Marítima", "Angra do Heroísmo", "Polícia de Segurança Pública", "PSP", "piquete", "de Polícia Marítima", "de Angra do Heroísmo", "delegado", "de saúde", "local", "equipa", "de grande ângulo", "Bombeiros Voluntários", "Praia da Vitória", "Hospital", "Angra do Heroísmo", "autopsiado", "apurar", "causas", "da morte"]

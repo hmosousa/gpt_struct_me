@@ -1,1 +1,1 @@
-["short term", "Friday", "weekend", "1994 or later", "five years"]
+["Friday", "1988", "1990", "1991", "1994", "1995", "Friday", "Saturday", "Sunday", "over the weekend", "June 1994", "five years", "1984"]

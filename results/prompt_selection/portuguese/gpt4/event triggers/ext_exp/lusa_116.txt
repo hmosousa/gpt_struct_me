@@ -1,1 +1,1 @@
-["ser atropelado", "assistido no local", "foi transportado", "acidente ocorreu", "prestar assistência"]
+["ficou", "estado grave", "atropelado", "autocarro", "assistido", "transportado", "acidente", "ocorreu", "prestar assistência", "esteve"]

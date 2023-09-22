@@ -1,16 +1,1 @@
-[
-"hoje",
-"20:20",
-"não adiantando"
-]
-
-Explanation:
-
-* "hoje" is a time expression indicating the day of the week.
-* "20:20" is a time expression indicating the time of day in a 24-hour clock.
-* "não adiantando" is a phrase indicating that no further information is available.
-
-Note:
-
-* The input text is in Portuguese.
-* The output is a JSON-parseable list of strings, with each string representing a time expression.
+["hoje", "20:20", "agência Lusa", "Direção Nacional da Polícia de Segurança Pública (PSP)", "homem morto", "tiroteio", "circunstâncias", "suspeita de homicídio envolvendo armas de fogo", "Polícia Judiciária"]

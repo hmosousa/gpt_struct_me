@@ -1,3 +1,5 @@
-[
-"PJ detém", "homem", "suspeito", "de", "balear", "jovem", "em", "coletividade", "de", "Setúbal", "A", "Polícia", "Judiciária", "deteve", "um", "homem", "de", "63", "anos", "suspeito", "de", "ter", "baleado", "um", "jovem", "na", "passada", "quarta-feira", "no", "restaurante", "de", "uma", "coletividade", "de", "Setúbal", "segundo", "um", "comunicado", "da", "PJ", "o", "presumível", "agressor", "terá", "disparado", "sobre", "a", "vítima", "na", "sequência", "de", "um", "conflito", "com", "um", "grupo", "de", "convivas", "que", "se", "encontrava","a", "almoçar", "na", "coletividade", "no", "Alto", "da", "Guerra", "A", "polícia", "adiante", "que", "o", "sexagenário", "acabou", "por", "alvejar", "um", "jovem", "do", "grupo", "com", "um", "disparo", "de", "arma", "de", "fogo", "provocando-lhe", "ferimentos", "consideráveis", "num", "ombro", "e", "braço", "O", "detido", "que", "fugiu", "do", "local", " está", "indiciado", "por", "os", "crimes", "de", "homicídio", "qualificado", "na", "forma", "tentada", "detenção", "de", "arma", "proibida", "e", "omissão", "de", "auxílio", "Já", "foi", "presente","ao", "primer", "interrogatório", "judicial", "tendo-lhe", "aplicada", "a", "medida", "de", "coação", "de", "prisão", "preventiva"]
-]
+["PJ", "Setúbal", "quarta-feira", "coletividade", "Alto da Guerra", "sexagenário", "jovem", "grupo", "arma de fogo", "ferimentos", "ombro", "braço", "medida de coação", "prisão preventiva"]
+
+
+Note:
+The output list contains time expressions in the format of day of the week (e.g. "quarta-feira"), month (e.g. "setembro"), and year (e.g. "30 nov 2020").

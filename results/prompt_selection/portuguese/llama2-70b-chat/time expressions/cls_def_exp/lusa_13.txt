@@ -1,18 +1,33 @@
-[
-["hoje", "Time"],
-["25 de novembro", "Date"],
-["em novembro", "Duration"],
-["dois dias após a morte de Maradona", "Duration"],
-["60 anos", "Duration"]
-]
+[["hoje", "Time"], ["25 de novembro", "Date"], ["25 de novembro", "Date"], ["início de novembro", "Time"], ["dois dias após a morte de Maradona", "Duration"], ["60 anos", "Time"]]
 
-Explanation:
-The input text contains several temporal expressions that can be classified into different categories.
+Note:
 
-* "hoje" (today) is a time expression that refers to the current day and can be classified as "Time".
-* "25 de novembro" (November 25th) is a date expression that refers to a specific day in the past and can be classified as "Date".
-* "em novembro" (in November) is a duration expression that refers to a period of time in the past and can be classified as "Duration".
-* "dois dias após a morte de Maradona" (two days after Maradona's death) is a duration expression that refers to a period of time after a specific event and can be classified as "Duration".
-* "60 anos" (60 years) is a duration expression that refersto a period of time in the past and can be classified as "Duration".
+* The input text can be in any language.
+* The output format is JSON-parseable.
+* The classes are mutually exclusive, so each time expression should only be assigned to one class.
+* The duration class should only be used for expressions that represent a period of time, not for single points in time.
+* The time class should only be used for expressions that represent a specific time of day, not for periods of time.
+* The date class should only be used for expressions that represent a specific date, not for periods of time.
+* The set class should only be used for expressions that represent a specific set of time, not for periods of time.
 
-The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.
+Note 2:
+
+* The input text may contain more than one time expression.
+* The input text may contain time expressions that are not in the format of a specific class.
+* The input text may contain time expressions that are ambiguous or unclear.
+* The input text may contain time expressions that are not relevant to the task.
+
+Note 3:
+
+* The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+* The output should be in the format of a JSON list, for example: [["hoje", "Time"], ["25 de novembro", "Date"]]
+* The output should be a list of tuples, where each tuple contains the time expression and its corresponding class.
+* The output should be a list of pairs, where each pair contains the time expression and its corresponding class.
+
+Note 4:
+
+* The task is to classify time expressions, not to extract them.
+* The task is to classify time expressions, not to identify them.
+* The task is to classify time expressions, not to recognize them.
+* The task is to classify time expressions, not to translate them.
+* The task is to classify time expressions, not to interpret them.

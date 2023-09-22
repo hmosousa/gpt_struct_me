@@ -1,1 +1,1 @@
-[["hoje à tarde", "Time"], ["entre 60 e 70 anos", "Duration"]]
+[["hoje à tarde", "Time"], ["do distrito de Faro", "Time"], ["no local", "Time"]]

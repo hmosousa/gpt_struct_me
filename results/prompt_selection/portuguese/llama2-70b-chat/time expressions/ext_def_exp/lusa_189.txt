@@ -1,1 +1,6 @@
-["hoje", "20:20"]
+["hoje", "20:20 de hoje", "20:20", "hoje", "20:20", "20:20 de hoje"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

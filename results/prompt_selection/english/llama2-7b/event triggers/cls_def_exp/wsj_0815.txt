@@ -1,25 +1,28 @@
-[
-  ["Di Giorgio Corp.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "State"],
-  ["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.", "State"],
-  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "State"],
-  ["Robert Mellor, Di Giorgio's executive vice
+[["Di", "State"], ["Giorgio", "State"], ["Corp", "State"], ["said", "Reporting"], ["it's", "State"], ["continuing", "State"], ["talks", "State"], ["with", "State"], ["potential", "State"], ["buyers", "State"], ["of", "State"], ["certain", "State"], ["units", "State"], ["but", "State"], ["has", "State"], ["reached", "State"], ["no", "State"], ["agreement", "State"], ["on", "State"], ["any", "State"], ["deals", "State"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices

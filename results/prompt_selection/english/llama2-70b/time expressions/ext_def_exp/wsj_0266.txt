@@ -1,1 +1,1 @@
-["Oct.", "23", "two years ago"]
+["Oct. 23", "two years ago", "the 20th century", "America's", "first", "daily", "painfully"]

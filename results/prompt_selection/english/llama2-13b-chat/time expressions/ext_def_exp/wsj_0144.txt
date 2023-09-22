@@ -1,1 +1,4 @@
-["3rd quarter", "last month", "a year ago", "the 1988 period", "the 1988 second quarter"]
+["11%", "89 cents a share", "31 million", "less than $10 million", "59%", "7.2 million", "6.1 million", "24 million", "306 million", "195 million", "415 million"]
+
+Format:
+JSON-parseable list of strings.

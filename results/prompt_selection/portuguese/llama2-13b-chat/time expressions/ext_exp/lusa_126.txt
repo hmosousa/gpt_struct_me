@@ -1,6 +1,1 @@
-[
-"sábado",
-"hoje",
-"no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes",
-"no concelho de Sines"
-]
+["sábado", "1.673 doses de estupefacientes", "1.570 doses de heroína", "103 doses de cocaína", "844 euros em numerário", "um veículo", "quatro telemóveis", "34 e 43 anos", "setembro", "final do ano", "2 homens"]

@@ -1,1 +1,1 @@
-["homem morto a tiro no Barreiro", "atirador em fuga", "tiroteio", "Polícia Judiciária responsável pelo investigação do caso"]
+["morto", "tiro", "Barreiro", "atirador", "fuga", "baleado", "tiros", "caçadeira", "incidente", "ocorreu", "informações", "circunstâncias", "tiroteio", "suspeita", "homicídio", "envolvendo", "armas", "fogo", "ocorrência", "acompanhada", "Polícia Judiciária", "investigação"]

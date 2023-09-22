@@ -1,17 +1,1 @@
-[
-"desde 2017",
-"até a atualidade",
-"essas altura",
-"algumas vezes",
-"localizada",
-"obrigada ou convencida"
-]
-
-Explanation:
-
-* "desde 2017" is a temporal expression indicating the starting point of a period of time.
-* "até a atualidade" is a temporal expression indicating the ending point of a period of time.
-* "essas altura" is a temporal expression indicating a specific point in time.
-* "algumas vezes" is a temporal expression indicating a frequency or number of times.
-* "localizada" is a temporal expression indicating the location of an event.
-* "obrigada ou convencida" is a temporal expression indicating the coercion or persuasion of an event.
+["em uma instituição de acolhimento", "desde 2017", "até a atualidade", "algumas vezes", "promessa de receber produto estupefaciente"]

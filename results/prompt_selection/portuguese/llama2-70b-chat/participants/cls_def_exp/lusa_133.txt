@@ -1,22 +1,3 @@
-[
-["GNR", "Organization"],
-["A GNR", "Organization"],
-["Gafanha da Nazaré", "Location"],
-["Guarda", "Organization"],
-["77 quilos de atum-rabilho", "Object"],
-["313 quilos de atum-rabilho", "Object"],
-["condutor do veículo", "Person"],
-["mestre da embarcação", "Person"],
-["auto de contraordenação", "Object"],
-["pescado apreendido", "Object"],
-["instituição de solidariedade social", "Organization"]
-]
+[["GNR", "Org"], ["Aveiro", "Loc"], ["390 quilogramas", "Other"], ["atum-rabilho", "Other"], ["cuja captura", "Other"], ["interdita", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["porto de pesca costeira", "Fac"], ["Gafanha da Nazaré", "Loc"], ["A", "Per"], ["segunda-feira", "Other"], ["ação de fiscalização", "Other"], ["objetivo", "Other"], ["controlar", "Other"], ["cumprimento", "Other"], ["regras", "Other"], ["descarga", "Other"], ["transporte", "Other"], ["comercialização", "Other"], ["regime de primeira venda", "Other"], ["pescado fresco", "Other"], ["nota de imprensa", "Other"], ["militares", "Org"], ["veículo", "Other"], ["77 quilos", "Other"], ["atun-rabilho", "Other"], ["embarcação de pesca", "Fac"], ["mestre", "Per"], ["auto de contraordenação", "Other"], ["facto", "Other"], ["transporte", "Other"], ["captura", "Other"], ["espécie", "Other"], ["infração", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["pescado apreendido", "Other"], ["controle higiossanitário", "Other"], ["próprio para consumo", "Other"], ["instituição de solidariedade social", "Org"]]
 
-Note:
-The input text is in Portuguese.
-The output should be in English.
-The classes used are the ones provided in the task description.
-The entities and classes should be in lowercase.
-The output should be a JSON-parseable list.
-The entities and classes should be separated by a comma.
-The output should not have any duplicates.
+Please note that the input and output are in Portuguese.

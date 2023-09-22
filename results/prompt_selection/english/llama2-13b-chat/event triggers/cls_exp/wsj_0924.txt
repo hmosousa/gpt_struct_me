@@ -1,31 +1,13 @@
-[
-["Dominion Textile Inc.", "State"],
-["annual meeting", "Occurrence"],
-["Aug. 9", "Aspectual"],
-["hostile bidder", "Intensional Action"],
-["more than 20% of the shares outstanding", "Intensional Action"],
-["rights attached to the company's common shares", "Intensional Action"],
-["additional shares", "Intensional Action"],
-["50% of the then current market price", "Intensional Action"],
-["at the board's discretion", "Intensional Action"],
-["securities or assets", "Intensional Action"],
-["fiscal-first quarter ended Sept. 30", "Perception"],
-["net income of 4.7 million Canadian dollars ($4 million)", "State"],
-["12 Canadian cents a share", "State"],
-["net loss of C$2.3 million, or 14 Canadian cents a share, a year ago", "State"]
-]
+[["Dominion Textile Inc.", "OCCURRENCE"], ["adopted", "OCCURRENCE"], ["rights", "I_ACTION"], ["plan", "OCCURRENCE"], ["pending", "OCCURRENCE"], ["ratification", "OCCURRENCE"], ["hostile", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["more", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["allow", "I_ACTION"], ["holders", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["at", "OCCURRENCE"], ["market", "OCCURRENCE"], ["price", "OCCURRENCE"], ["board", "OCCURRENCE"], ["discretion", "OCCURRENCE"], ["separately", "ASPECTUAL"], ["posted", "OCCURRENCE"], ["net", "OCCURRENCE"], ["income", "OCCURRENCE"], ["Canadian", "OCCURRENCE"], ["dollars", "OCCURRENCE"], ["or", "OCCURRENCE"], ["12", "OCCURRENCE"], ["Canadian", "OCCURRENCE"], ["cents", "OCCURRENCE"], ["a", "OCCURRENCE"], ["year", "OCCURRENCE"], ["ago", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["C$348.2", "OCCURRENCE"], ["million", "OCCURRENCE"], ["compared", "OCCURRENCE"], ["C$307.2", "OCCURRENCE"]]
 
-Explanation:
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Dominion Textile Inc.") and the second string is the class (e.g. "OCCURRENCE"). The classes are:
 
-1. "Dominion Textile Inc." is a State entity.
-2. "annual meeting" is an Occurrence event trigger.
-3. "Aug. 9" is an Aspectual event trigger.
-4. "hostile bidder" is an Intensional Action event trigger.
-5. "more than 20% of the shares outstanding" is an Intensional Action event trigger.
-6. "rights attached to the company's common shares" is an Intensional Action event trigger.
-7. "additional shares" is an Intensional Action event trigger.
-8. "50% of the then current market price" is an Intensional Action event trigger.
-9. "at the board's discretion" is an Intensional Action event trigger.
-10. "securities or assets" is an Intensional Action event trigger.
-11. "fiscal-first quarter ended Sept. 30" is a Perception event trigger.
-12. "net income of 4.7 million Canadian dollars ($4 million)" and "net loss of C$2.3 million, or 14 Canadian cents a share, a year ago" are both State event triggers.
+* OCCURRENCE: events that occur at a specific point in time
+* I_ACTION: actions performed by entities
+* I_STATE: states of entities
+* ASPECTUAL: aspects of entities or events
+* REPORTING: reporting of events or states
+* PERCEPTION: perceptions of entities or events
+
+Your task is to classify each entity and event in the input text into the appropriate class.

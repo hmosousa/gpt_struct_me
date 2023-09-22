@@ -1,12 +1,1 @@
-["atropelado por autocarro", "assistido no local", "transportado para o Hospital São João", "acidente na Rua Luís Gonzaga Mendes de Carvalho", "prestar assistência", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR local"]
-
-Explanation:
-
-* "atropelado por autocarro" is an event trigger.
-* "assistido no local" is an event trigger.
-* "transportado para o Hospital São João" is an event trigger.
-* "acidente na Rua Luís Gonzaga Mendes de Carvalho" is an event trigger.
-* "prestar assistência" is an event trigger.
-* "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão" is an event trigger.
-* "Ambulância de Suporte Imediato de Vida de Santo Tirso" is an event trigger.
-* "GNR local" is an event trigger.
+[“atropelado”, “jovem”, “estado grave”, “autocarro”, “Vila das Aves”, “Santo Tirso”, “local”, “assistido”, “transportado”, “Hospital São João”, “Porto”, “acidente”, “18:16”, “Rua Luís Gonzaga Mendes de Carvalho”, “prestar assistência”, “Bombeiros da Vila das Aves”, “Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão”, “Ambulância de Suporte Imediato de Vida de Santo Tirso”, “GNR local”]

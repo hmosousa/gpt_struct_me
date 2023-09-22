@@ -1,10 +1,1 @@
-[
-   "has told",
-   "is laying off",
-   "was going to be centralized",
-   "would result in",
-   "earned",
-   "rose slightly",
-   "offset",
-   "set up"
-]
+["told", "laying", "employees", "spread", "earned", "actually", "largely", "because", "offset", "reserves", "set", "up", "cover", "payments", "has", "been", "a", "tough", "business", "in", "recent", "quarters", "as", "pricing", "has", "been", "cutthroat", "and", "natural", "disasters", "such", "as", "Hugo", "and", "the", "California", "earthquake", "have", "resulted", "in", "huge", "payments"]

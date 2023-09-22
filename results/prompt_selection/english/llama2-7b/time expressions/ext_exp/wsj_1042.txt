@@ -1,1 +1,25 @@
-["2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "2010-03-16", "201
+["AVON RENT-A-CAR amp TRUCK Corp.", "Santa Monica, Calif.", "3.3 million", "1.1 million", "Class C", "1 share", "5.50", "90 days", "243,677"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Taiwan, the State Department said. The sale, which is valued at $1.8 billion, was approved by the U.S. Defense Department and the State Department, the department said in a statement. The sale is subject to congressional approval. The sale is the first of its kind since the United States resumed arms sales to Taiwan in 1992. The United States has sold Taiwan more than $10 billion in arms since 1992, including 150 F-16s, 120 Patriot missiles and 100 Harpoon missiles. The United States has a policy of selling arms to Taiwan to help it defend itself against China, which claims the island as its own. The United States has no formal diplomatic relations with Taiwan, but it maintains unofficial ties with the island. The United States has been trying to persuade China to resume talks with Taiwan on a peace treaty. The two sides have not held talks since 1993. The United States has been trying to persuade China to resume talks with Taiwan on a peace treaty. The two sides have not held talks since 1993."
+
+Output:
+["U.S. government", "Taiwan", "12 F-16 fighter jets", "State Department", "Defense Department", "congressional approval", "1992", "150 F-16s", "120 Patriot missiles", "100 Harpoon missiles", "China", "peace treaty", "1993"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Taiwan, the State Department said. The sale, which is valued at $1.8 billion, was approved by the U.S. Defense Department and the State Department, the department said in a statement. The sale is subject to congressional approval. The sale is the first of its kind since the United States resumed arms sales to Taiwan in 1992. The United States has sold Taiwan more than $10 billion in arms since 1992, including 150 F-16s, 120 Patriot missiles and 100 Harpoon missiles. The United States has a policy of selling arms to Taiwan to help it defend itself against China, which claims the island as its own. The United States has no formal diplomatic relations with Taiwan, but it maintains unofficial ties with the island. The United States has been trying to persuade China to resume talks with Taiwan on a peace treaty. The two sides have not held talks since 1993. The United States has been trying to persuade China to resume talks with Taiwan on a peace treaty. The two sides have not held talks since 1993."
+
+Output:
+["U.S. government", "Taiwan", "12 F-16 fighter jets", "State Department", "Defense Department", "congressional approval", "1992", "150 F-16s", "120 Patriot missiles", "100 Harpoon missiles", "China", "peace treaty", "1993"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Taiwan, the State Department said. The sale, which is valued at $1.8 billion, was approved by the U.S. Defense Department and the State Department, the department said in a statement. The sale is subject to congressional approval. The sale is the first of its kind since the United States resumed arms sales to Taiwan in 1992. The United States has sold Taiwan more than $10 billion in arms since 19

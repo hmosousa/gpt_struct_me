@@ -1,1 +1,1 @@
-["12.300 doses", "122", "segunda-feira", "hoje", "eventual", "primeiro"]
+["segunda-feira", "hoje", "30 nov 2020", "Estrada Nacional 122", "vila de Mértola"]

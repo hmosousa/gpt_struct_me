@@ -1,1 +1,1 @@
-["Homem de 29 anos", "suspeito do crime", "PSP", "Comando Metropolitano de Lisboa", "Polícia Judiciária"]
+["Um homem de 29 anos", "hoje", "Lisboa", "mercado de Arroios", "desentendimento", "PSP", "Comando Metropolitano de Lisboa", "Cometlis", "rue Ângela Pinto", "10:54", "café", "obito", "arma branca", "zona das costas", "suspeito", "Avenida Almirante Reis", "tentativa de fuga", "polícia", "PJ", "crime de homicídio", "local do crime", "forças policiais", "fitas de segurança", "Cerca das 14:34"]

@@ -1,1 +1,1 @@
-["Di Giorgio Corp.", "potential buyers", "DIG Acquisition Corp.", "Rose Partners Limited Partnership", "Robert Mellor", "$32-a-share", "DIG's offer"]
+["$32-a-share", "DIG", "Monday", "Friday", "Thursday"]

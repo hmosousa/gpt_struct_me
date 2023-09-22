@@ -1,17 +1,1 @@
-[
-["has told", "Reporting"],
-["is laying off", "Occurrence"],
-["said", "Reporting"],
-["were told", "Reporting"],
-["going to be centralized", "Intensional Action"],
-["said", "Reporting"],
-["would result in", "Intensional State"],
-["earned", "Occurrence"],
-["rose", "Occurrence"],
-["was", "State"],
-["offset", "Occurrence"],
-["set up", "Occurrence"],
-["has been", "State"],
-["has been", "State"],
-["have resulted in", "Occurrence"]
-]
+[["told", "REPORTING"], ["laying off", "OCCURRENCE"], ["said", "REPORTING"], ["told", "REPORTING"], ["going", "ASPECTUAL"], ["centralized", "OCCURRENCE"], ["said", "REPORTING"], ["result", "OCCURRENCE"], ["spread", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["set up", "OCCURRENCE"], ["cover", "OCCURRENCE"], ["has", "STATE"], ["been", "STATE"], ["cutthroat", "STATE"], ["resulted", "OCCURRENCE"]]

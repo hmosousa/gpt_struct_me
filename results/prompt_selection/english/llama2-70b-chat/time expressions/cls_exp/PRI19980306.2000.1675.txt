@@ -1,49 +1,6 @@
-[
-["For The World", "Date"],
-["this is Pamela McCall", "Time"],
-["in the BBC news room in London", "Location"],
-["More heavy gunfire", "Duration"],
-["in the Serbian province of Kosovo", "Location"],
-["It's the second day", "Duration"],
-["of an offensive", "Set"],
-["by the security forces", "Set"],
-["against villages populated by ethnic Albanians", "Set"],
-["BBC correspondent Karyn Coleman reports from Kosovo", "Time"],
-["There were more accounts of people fleeing", "Duration"],
-["from the villages near where the offensive was taking place", "Location"],
-["They were too afraid to stay", "Duration"],
-["fearing the forces may also move their operations further afield", "Duration"],
-["By mid afternoon", "Time"],
-["official Serb sources were saying the operation was over", "Set"],
-["but that has not yet been confirmed from Belgrade", "Location"],
-["the capital of Serbia", "Location"],
-["which is where the whole attack is thought to have been planned", "Set"],
-["The ethnic Albanians here in Kosovo are considerably worried", "Duration"],
-["about the future", "Set"],
-["and fear they are witnessing the beginnings of a much wider conflict", "Set"]
-]
+[["For The World", "DATE"], ["this is Pamela McCall", "DATE"], ["in the BBC news room in London", "DATE"], ["More heavy gunfire", "DATE"], ["in the Serbian province of Kosovo", "DATE"], ["It's the second day of an offensive", "DATE"], ["by the security forces", "DATE"], ["against villages populated by ethnic Albanians", "DATE"], ["BBC correspondent Karyn Coleman reports from Kosovo", "DATE"], ["There were more accounts of people fleeing", "DATE"], ["from the villages near where the offensive was taking place", "DATE"], ["They were too afraid to stay", "DATE"], ["fearing the forces may also move their operations further afield", "DATE"], ["By mid afternoon", "DATE"], ["official Serb sources were saying the operation was over", "DATE"], ["but that has not yet been confirmed from Belgrade", "DATE"], ["the capital of Serbia", "DATE"], ["which is where the whole attack is thought to have been planned", "DATE"], ["The ethnic Albanians here in Kosovo are considerably worried", "DATE"], ["about the future and fear they are witnessing the beginnings of a much wider conflict", "DATE"]]
 
-Explanation:
+Note:
+The date class is only for the first mention of a date in a sentence. If a date is mentioned again in the same sentence, it should not be tagged.
 
-* "For The World" is a date expression, specifically a day of the week.
-* "this is Pamela McCall" is a time expression, specifically a time of day.
-* "in the BBC news room in London" is a location expression.
-* "More heavy gunfire" is a duration expression, specifically an amount of time that something has been happening.
-* "in the Serbian province of Kosovo" is a location expression.
-* "It's the second day" is a duration expression, specifically a number of days that something has been happening.
-* "of an offensive" is a set expression, specifically a set of actions or events.
-* "by the security forces" is a set expression, specifically a set of actors or agents.
-* "against villages populated by ethnic Albanians" is a set expression, specifically a set of targets or affected parties.
-* "BBC correspondent Karyn Coleman reports from Kosovo" is a time expression, specifically a time of day.
-* "There were more accounts of people fleeing" is a duration expression, specifically an amount of time that something has been happening.
-* "from the villages near where the offensive was taking place" is a location expression.
-* "They were too afraid to stay" is a duration expression, specifically an amount of time that something has been happening.
-* "fearing the forces may also move their operations further afield" is a duration expression, specifically an amount of time that something has been happening.
-* "By mid afternoon" is a time expression, specifically a time of day.
-* "official Serb sources were saying the operation was over" is a set expression, specifically a set of statements or announcements.
-* "but that has not yet been confirmed from Belgrade" is a location expression.
-* "the capital of Serbia" is a location expression.
-* "which is where the whole attack is thought to have been planned" is a set expression, specifically a set of beliefs or assumptions.
-* "The ethnic Albanians here in Kosovo are considerably worried" is a duration expression, specifically an amount of time that something has been happening.
-* "about the future" is a set expression, specifically a set of concerns or fears.
-* "and fear they are witnessing the beginnings of a much wider conflict" is a set expression, specifically a set of beliefs or assumptions.
+Also, the duration class should only be used for quantities of time that are not specific dates or times. For example, "over a week" should be tagged as a duration, but "Friday" should not.

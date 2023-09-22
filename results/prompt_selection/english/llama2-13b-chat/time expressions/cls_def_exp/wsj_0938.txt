@@ -1,30 +1,14 @@
-[
-["Cineplex", "Date"],
-["Cineplex", "Time"],
-["Cineplex", "Duration"],
-["Cineplex", "Set"],
-["Garth Drabinsky", "Date"],
-["Garth Drabinsky", "Time"],
-["Garth Drabinsky", "Duration"],
-["Garth Drabinsky", "Set"],
-["Myron Gottlieb", "Date"],
-["Myron Gottlieb", "Time"],
-["Myron Gottlieb", "Duration"],
-["Myron Gottlieb", "Set"],
-["Sandra Kolber", "Date"],
-["Sandra Kolber", "Time"],
-["Sandra Kolber", "Duration"],
-["Sandra Kolber", "Set"],
-["Jeffery Logsdon", "Date"],
-["Jeffery Logsdon", "Time"],
-["Jeffery Logsdon", "Duration"],
-["Jeffery Logsdon", "Set"],
-["Michael Gifford", "Date"],
-["Michael Gifford", "Time"],
-["Michael Gifford", "Duration"],
-["Michael Gifford", "Set"],
-["Pierre Panet-Raymond", "Date"],
-["Pierre Panet-Raymond", "Time"],
-["Pierre Panet-Raymond", "Duration"],
-["Pierre Panet-Raymond", "Set"]
-]
+
+[["Thursday", "DATE"], ["Friday", "DATE"], ["nearly two months", "DURATION"], ["1990", "DATE"], ["10-hour", "DURATION"], ["over a week", "DURATION"], ["Friday", "DATE"], ["Thursday", "DATE"], ["Feb. 23", "DATE"], ["Jan. 13", "DATE"], ["Previously", "DATE"], ["daily", "SET"], ["03/06/1998 13:19:00", "TIME"]]
+
+Note:
+
+* "Thursday" and "Friday" are both DATE classes.
+* "nearly two months" is a DURATION class.
+* "1990" is a DATE class.
+* "10-hour" and "over a week" are both DURATION classes.
+* "Friday" and "Thursday" are both DATE classes.
+* "Feb. 23" and "Jan. 13" are both DATE classes.
+* "Previously" is a DATE class.
+* "daily" is a SET class.
+* "03/06/1998 13:19:00" is a TIME class.

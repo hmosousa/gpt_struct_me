@@ -1,14 +1,1 @@
-["90 days", "one share", "five dollars and fifty cents", "three shares", "one warrant", "three warrants", "243,677 warrants"]
-
-Explanation:
-The input text contains the following time expressions:
-
-* "90 days" (a period of time)
-* "one share" (a unit of quantity)
-* "five dollars and fifty cents" (a price)
-* "three shares" (a unit of quantity)
-* "one warrant" (a unit of quantity)
-* "three warrants" (a unit of quantity)
-* "243,677 warrants" (a quantity)
-
-Note that the output list contains only the time expressions, and not the other information conveyed by the input text.
+["Monday", "Santa Monica", "Calif.", "3.3 million", "1.1 million", "5.50", "90 days", "additional"]

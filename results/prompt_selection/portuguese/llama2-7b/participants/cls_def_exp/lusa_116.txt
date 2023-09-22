@@ -1,75 +1,18 @@
-[
-  ["Jovem de 14 anos", "Person"],
-  ["Um jovem de 14 anos", "Person"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro","Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro","Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro", "Object"],
-  ["ficheiro",
+[["Um jovem de 14 anos", "Per"], ["ficou hoje", "Per"], ["em estado grave", "Per"], ["após ter sido atropelado", "Per"], ["por um autocarro", "Obj"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["diz à Lusa", "Org"], ["fonte da Proteção Civil", "Org"], ["o jovem", "Per"], ["após ter sido assistido", "Per"], ["no local", "Loc"], ["por", "Per"], ["os Bombeiros", "Org"], ["da Vila das Aves", "Org"], ["para", "Loc"], ["o Hospital São João", "Loc"], ["no Porto", "Loc"], ["acrescentou", "Per"], ["a fonte", "Org"], ["o acidente", "Per"], ["ocorreu", "Per"], ["às", "Per"], ["18:16", "Obj"], ["na Rua", "Loc"], ["Luís Gonzaga Mendes de Carvalho", "Loc"], ["a prestar assistência", "Org"], ["para além", "Per"], ["dos Bombeiros", "Org"], ["da Vila das Aves", "Org"], ["esteve", "Per"], ["a Viatura Médica", "Org"], ["de Emergência e Reanimação", "Obj"], ["de Vila Nova de Famalicão", "Loc"], ["a Ambulância", "Org"], ["de Suporte Imediato de Vida", "Loc"], ["de Santo Tirso", "Loc"], ["e a GNR", "Org"], ["local", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Israel e Palestina acordam sobre a criação de um corredor humanitário
+A Autoridade Nacional Palestina (ANP) e o governo israelense acordaram em criação de um corredor humanitário para a Cisjordânia, informou a ANP.
+O corredor humanitário, que será aberto a partir de hoje, permitirá que os palestinos que trabalham em Israel e os israelenses que trabalham na Cisjordânia possam passar sem restrições.
+O corredor humanitário será aberto de 06:00 às 18:00, com exceção dos dias de sábado e feriado judaico, informou a ANP.
+A Autoridade Nacional Palestina também informou que o corredor humanitário será aberto para os palestinos que trabalham em Israel e os israelenses que trabalham na Cisjordânia, sem restrições.
+O corredor humanitário será aberto de 06:00 às 18:00, com exceção dos dias de sábado e feriado judaico, informou a ANP.
+A Autoridade Nacional Palestina também informou que o corredor humanitário será aberto para os palestinos que trabalham em Israel e os israelenses que trabalham na Cisjordânia, sem restrições.
+O corredor humanitário será aberto de 06:00 às 18:00, com exceção dos dias de sábado e feriado judaico, informou a ANP.
+A Autoridade Nacional Palestina também informou que o corredor humanitário será aberto para os palestinos que trabalham em Israel e os israelenses que trabalham na Cisjordânia, sem restrições.
+O corredor humanitário será aberto de 06:00 às 18:00, com exceção dos dias de sábado e feriado judaico, informou a ANP.
+A Autoridade Nacional Palestina também informou que o corredor humanitário será aberto para os palestinos que trabalham em Israel e os israelenses que trabalham na Cisjordânia, sem restrições.
+O corredor humanitário será aberto de 06

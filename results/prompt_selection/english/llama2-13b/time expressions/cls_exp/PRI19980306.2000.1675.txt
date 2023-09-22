@@ -1,18 +1,7 @@
-[
-  [
-    "Date",
-    "Date"
-  ],
-  [
-    "Time",
-    "Time"
-  ],
-  [
-    "Duration",
-    "Duration"
-  ],
-  [
-    "Set",
-    "Set"
-  ]
-]
+[["For The World", "SET"], ["this is Pamela McCall", "SET"], ["in the BBC news room", "SET"], ["in London", "SET"], ["More heavy gunfire", "SET"], ["in the Serbian province of Kosovo", "SET"], ["It's the second day of an offensive", "SET"], ["by the security forces", "SET"], ["against villages populated by ethnic Albanians", "SET"], ["BBC correspondent Karyn Coleman", "SET"], ["reports from Kosovo", "SET"], ["There were more accounts", "SET"], ["of people fleeing", "SET"], ["from the villages", "SET"], ["near where the offensive", "SET"], ["was taking place", "SET"], ["They were too afraid", "SET"], ["to stay", "SET"], ["fearing the forces", "SET"], ["may also move their operations", "SET"], ["further afield", "SET"], ["By mid afternoon", "SET"], ["official Serb sources", "SET"], ["were saying the operation", "SET"], ["was over", "SET"], ["but that has not yet been confirmed", "SET"], ["from Belgrade", "SET"], ["the capital of Serbia", "SET"], ["which is where the whole attack", "SET"], ["is thought to have been planned", "SET"], ["The ethnic Albanians", "SET"], ["here in Kosovo", "SET"], ["are considerably worried", "SET"], ["about the future", "SET"], ["and fear they are witnessing", "SET"], ["the beginnings of a much wider conflict", "SET"], ["Karyn Coleman", "SET"], ["BBC news", "SET"], ["Pristina", "SET"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The United States has warned Iraq that it will face military action if it does not cooperate with U.N. weapons inspectors. The warning came as the U.N. Security Council prepared to vote on a resolution that would give the inspectors more power. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill Richardson, said the United States would not rule out military action if Iraq did not cooperate. The U.S. ambassador to the U.N., Bill

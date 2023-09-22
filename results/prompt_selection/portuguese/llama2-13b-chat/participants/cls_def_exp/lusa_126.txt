@@ -1,24 +1,4 @@
-[
-["GNR", "Organization"],
-["homens", "Person"],
-["Sines", "Location"],
-["droga", "Object"],
-["estupefacientes", "Object"],
-["heroína", "Object"],
-["cocaína", "Object"],
-["euros", "Object"],
-["veículo", "Object"],
-["telemóveis", "Object"]
-]
+[["GNR", "Org"], ["dos homens", "Per"], ["tráfico de droga", "Other"], ["em Sines", "Loc"], ["a GNR", "Org"], ["as doses", "Other"], ["de estupefacientes", "Other"], ["divulgou", "Org"], ["hoje", "Other"], ["a Guarda Nacional Republicana", "Org"], ["indicou", "Org"], ["que", "Other"], ["a detenção", "Other"], ["dos dois suspeitos", "Per"], ["efetuada", "Other"], ["no sábado", "Other"], ["no decorrer", "Other"], ["de uma ação", "Other"], ["de patrulhamento", "Other"], ["num local", "Other"], ["ja referenciado", "Other"], ["por tráfico de estupefacientes", "Other"], ["no concelho", "Other"], ["de Sines", "Loc"], ["Após", "Other"], ["verificarem", "Other"], ["movimentações", "Other"], ["suspeitas", "Other"], ["em local", "Other"], ["ja referenciado", "Other"], ["por tráfico de estupefacientes", "Other"], ["os militares", "Per"], ["detiveram", "Other"], ["os dois suspeitos", "Per"], ["quando", "Other"], ["estes", "Other"], ["se preparavam", "Other"], ["para efetuar", "Other"], ["uma transação", "Other"], ["Na operação", "Other"], ["foram apreendidas", "Other"], ["1.570 doses", "Other"], ["de heroína", "Other"], ["103 doses", "Other"], ["de cocaína", "Other"], ["844 euros", "Other"], ["em numerário", "Other"], ["um veículo", "Other"], ["e quatro telemóveis", "Other"]]
 
-Explanation:
-
-* GNR is an organization.
-* Homens is a person.
-* Sines is a location.
-* Droga is an object.
-* Estupefacientes is an object.
-* Heroína and cocaína are objects.
-* Euros is an object.
-* Veículo is an object.
-* Telemóveis is an object.
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The entities are in English, and the classes are in Portuguese.

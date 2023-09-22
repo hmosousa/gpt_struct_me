@@ -1,36 +1,10 @@
-[
-{
-"participant": "Homem",
-"class": "Person"
-},
-{
-"participant": "Mulher",
-"class": "Person"
-},
-{
-"participant": "Guarda",
-"class": "Organization"
-},
-{
-"participant": "Restaurante",
-"class": "Location"
-},
-{
-"participant": "Automóvel",
-"class": "Object"
+	[["um homem", "Per"], ["69 anos", "Age"], ["Cajados", "Loc"], ["Palmela", "Loc"], ["Setúbal", "Loc"], ["GNR", "Org"], ["Lusa", "Org"], ["um restaurante", "Fac"], ["estabelecimento", "Fac"], ["uma garrafa", "Obj"], ["ferido", "Per"], ["com gravidade", "Per"], ["transportado", "Per"], ["em estado de coma", "Per"], ["hospital de São Bernardo", "Loc"], ["Setúbal", "Loc"], ["outras duas pessoas", "Per"], ["ferimentos ligeiros", "Per"], ["ambas", "Per"], ["mobilizados", "Org"], ["bombeiros", "Org"], ["corporação de Águas de Moura", "Org"]]
 
-},
-{
-"participant": "Hospital",
-"class": "Location"
-},
-{
-"participant": "Comando Distrital de Operações de Socorro",
-"class": "Organization"
-},
-{
-"participant": "Bombeiros",
-"class": "Facility"
-}
-]
-Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+
+* The output is a list of entities and their corresponding classes.
+* The entities are listed in the input text, and the classes are listed in the output.
+* The classes are defined in the task description, and they are used to categorize the entities in the output.
+* The output is in JSON format, which is a lightweight data interchange format.
+* The input and output are in Portuguese, which is the language of the input text.

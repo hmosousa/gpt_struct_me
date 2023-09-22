@@ -1,1 +1,1 @@
-["hoje", "pelas 10:54", "dentro de um café", "Cerca das 14:34"]
+["hoje", "10:54", "dentro de um café", "Avenida Almirante Reis", "Cerca das 14:34"]

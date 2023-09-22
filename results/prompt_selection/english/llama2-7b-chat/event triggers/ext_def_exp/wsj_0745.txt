@@ -1,14 +1,3 @@
-Event triggers:
-1. GM seeks U.S. antitrust clearance to purchase more than $15 million worth of Jaguar shares.
-2. GM intends to go to a 15% level once it wins U.S. clearance.
-3. Ford declares its preparedness to bid for the entire company.
-4. GM is close to completing a friendly deal with Jaguar that is likely to involve an eventual 30% stake and joint manufacturing ventures.
-5. Speculative investors push up Jaguar's share price.
-6. Ford's vice president for finance, David N. McCammon, states that the company will not go over a certain level in its bidding.
-7. The Conservative government may convince Jaguar to keep its golden share until Dec. 31, 1990.
-8. Ford could turn up the heat by convening a special shareholders' meeting and urging holders to drop the limits early.
-9. The government probably wouldn't give in readily to a hostile foray by Ford.
-10. GM wooed British lawmakers by pointing out that its willingness to settle for a minority stake would keep Jaguar British-owned and independent.
-111. The U.S. auto giant paid for 10 House of Commons members and two House of Lords members to fly to Detroit and tour its operations.
-12. Politics also influences the government's thinking on the anti-takeover restriction.
-13. Prime Minister Margaret Thatcher may be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal.
+	["wants", "first", "salvo", "control", "officials", "level", "bid", "ventures", "restriction", "agree", "meeting", "probably", "give", "hostile", "settle", "independent", "tour", "answers", "smothered", "thinking", "Politics", "proceed", "request", "unlocks"]
+
+Note: This output is in JSON format, which is a lightweight data interchange format. It is easy for humans to read and write, and for machines to parse and generate.

@@ -18,22 +18,24 @@
   ["Viatura Médica de Emergência e Reanimação de Aveiro", "Other"]
 ]
 
-Explanation:
+Examples:
+[
+  ["Homem", "Person"],
+  ["Transportadora J Amaral", "Organization"],
+  ["Estarreja", "Location"],
+  ["Aveiro", "Location"],
+  ["GNR", "Organization"],
+  ["Polícia Judiciária", "Organization"],
+  ["Hospital Infante D. Pedro", "Facility"],
+  ["Camion", "Object"],
+  ["Cisterna", "Object"],
+  ["Manutenção", "Activity"],
+  ["Desaparecido", "Activity"],
+  ["Fazer", "Activity"],
+  ["Aberto", "Activity"],
+  ["Causa", "Activity"],
+  ["Tomar", "Activity"],
+  ["Transporte", "Activity"],
+  ["Viatura Médica de Emergência e Reanimação de Aveiro", "Other"]
+]
 
-- "Homem" is a person
-- "Transportadora J Amaral" is an organization
-- "Estarreja" is a location
-- "Aveiro" is a location
-- "GNR" is an organization
-- "Polícia Judiciária" is an organization
-- "Hospital Infante D. Pedro" is a facility
-- "Camion" is an object
-- "Cisterna" is an object
-- "Manutenção" is an activity
-- "Desaparecido" is an activity
-- "Fazer" is an activity
-- "Aberto" is an activity
-- "Causa" is an activity
-- "Tomar" is an activity
-- "Transporte" is an activity
-- "Viatura Médica de Emergência e Reanimação de Aveiro" is an other

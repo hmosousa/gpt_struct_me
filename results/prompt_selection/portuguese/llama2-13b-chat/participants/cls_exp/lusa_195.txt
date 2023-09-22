@@ -1,26 +1,11 @@
-[
-["homem", "Person"],
-["PJ", "Organization"],
-["jovem", "Person"],
-["coletividade", "Location"],
-["Alto da Guerra", "Location"],
-["arma de fogo", "Object"],
-["ferimentos", "Nature"],
-["crimes", "Other"]
-]
-
-Explanation:
-
-* "homem" is a person
-* "PJ" is an organization
-* "jovem" is a person
-* "coletividade" is a location
-* "Alto da Guerra" is a location
-* "arma de fogo" is an object
-* "ferimentos" is a nature
-* "crimes" is an other
+[["um homem suspeito", "Per"], ["de balear jovem", "Per"], ["em coletividade de Setúbal", "Loc"], ["A Polícia Judiciária", "Org"], ["de Setúbal", "Loc"], ["deteteve", "Verb"], ["um homem de 63 anos", "Per"], ["segundo", "Other"], ["um comunicado", "Obj"], ["da PJ", "Org"], ["o presumível agressor", "Per"], ["terá disparado", "Verb"], ["sobre", "Pre"], ["a vítima", "Per"], ["na sequência", "Pre"], ["de um conflito", "Other"], ["com um grupo", "Other"], ["de convivas", "Other"], ["que se encontrava", "Pre"], ["a almoçar", "Other"], ["na coletividade", "Loc"], ["no Alto da Guerra", "Loc"], ["A polícia adianta", "Verb"], ["que", "Other"], ["o sexagenário", "Per"], ["acabou por alvejar", "Verb"], ["um jovem", "Per"], ["do grupo", "Other"], ["com um disparo", "Verb"], ["de arma de fogo", "Obj"], ["provoquando-lhe", "Verb"], ["ferimentos", "Other"], ["consideráveis", "Adj"], ["num ombro", "Other"], ["e braço", "Other"], ["O detido", "Per"], ["que fugiu", "Verb"], ["do local", "Loc"], ["está indiciado", "Verb"], ["pelo crime", "Other"], ["de homicídio qualificado", "Other"], ["na forma tentada", "Adj"], ["detenção de arma proibida", "Other"], ["e omissão de auxílio", "Other"]]
 
 Note:
 
-* "homicídio qualificado" is a crime, but it is not included in the output since it is not a direct object or a location.
-* "detido" is a person, but it is not included in the output since it is not the main subject of the sentence.
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Loc" stands for "location"
+* "Other" stands for "other"
+* "Obj" stands for "object"
+* "Adj" stands for "adjective"
+* "Verb" stands for "verb"

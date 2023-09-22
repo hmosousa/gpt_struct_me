@@ -1,16 +1,8 @@
-[
-["hoje", "Date"],
-["20:20", "Time"],
-["20:20", "Duration"],
-["nenhum", "Set"]
-]
+[["hoje", "Date"], ["20:20", "Time"], ["hoje", "Date"], ["20:20", "Time"]]
 
-Explanation:
-The input text contains four time expressions: "hoje" (today), "20:20" (8:20 PM), "nenhum" (none), and "20:20" (8:20 PM) again.
+Note:
 
-"Hoje" is classified as a Date.
-The first "20:20" is classified as a Time.
-The second "20:20" is classified as a Duration, since it's used to indicate the time the incident occurred.
-"Nenhum" is classified as a Set, since it's used to indicate the absence of a value.
-
-Note that the output is a JSON-parseable list, where each element is a list with two strings: the entity (the time expression) and the class (Date, Time, Duration, or Set).
+* Date: Representa qualquer data, incluindo dias, semanas, meses e anos.
+* Time: Representa qualquer hora, incluindo horas, minutos e segundos.
+* Duration: Representa qualquer quantidade de tempo, incluindo dias, horas, minutos e segundos.
+* Set: Representa um período de tempo específico, como uma época de veda ou um horário de trabalho.

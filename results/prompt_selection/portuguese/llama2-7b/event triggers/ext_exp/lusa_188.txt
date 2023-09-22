@@ -1,8 +1,23 @@
-"Homem de 48 anos morre em acidente de trabalho em Mogadouro
-Um homem de 48 morreu hoje vítima de um acidente de trabalho na localidade de Vilarinhos dos Galegos, Concelho de Mogadouro, distrito de Bragança, disse à Lusa fonte dos bombeiros.
-"Trata-se de um acidente que envolve uma queda em altura. O homem de 48 anos trabalhava numa obra de construção civil. A vítima acabaria por não resistir aos ferimentos, acabando por falecer quando estava a ser transportada por ambulância para o campo de futebol, onde depois seria helitransportada para um hospital de referência", explicou o comandante dos bombeiros de Mogadouro, José Carrasco.
-O alerta foi dado cerca das 17 horas.
-Nas operações de socorro estiveram envolvidos meios dos bombeiros de Mogadouro, a ambulância de Suporte Imediato de Vida (SIV) e a Viatura Medica de Emergência e Reanimação (VMER) do Instituto Nacional e Emergência Médica (INEM).
-Foi ainda acionado o helicóptero do INEM estacionado em Macedo de Cavaleiros
-A GNR de Mogadouro tomou conta da ocorrência."
+["morreu", "acidente", "vítima", "envolve", "queda", "altura", "trabalhava", "obra", "construção", "ferimentos", "transportada", "ambulância", "campo", "helitransportada", "hospital", "referência", "alerta", "dado", "operações", "socorro", "envolvido", "meios", "bombeiros", "SIV", "VMER", "INEM", "acionado", "helicóptero", "GNR", "tomou", "ocorrência"]
 
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 43.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 43.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 43.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 43.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou mais de 1.000 mortes e mais de 43.000 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de

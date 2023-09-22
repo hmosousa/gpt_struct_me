@@ -1,37 +1,6 @@
-[
-["PJ detém homem suspeito de balear jovem em coletividade de Setúbal", "Reporting"],
-["A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem", "Occurrence"],
-["na passada quarta-feira", "Aspectual"],
-["no restaurante de uma coletividade de Setúbal", "State"],
-["Segundo um comunicado da PJ", "Reporting"],
-["o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade", "Intensional Action"],
-["no Alto da Guerra", "State"],
-["A polícia adianta que o sexagenário acabou por alvejar um jovem do grupo com um disparo de arma de fogo", "Occurrence"],
-["provocando-lhe ferimentos consideráveis num ombro e braço", "State"],
-["O detido, que fugiu do local", "Occurrence"],
-["está indiciado pelos crimes de homicídio qualificado na forma tentada", "Intensional State"],
-["detenção de arma proibida", "Intensional State"],
-["omissão de auxílio", "Intensional State"],
-["Já foi presente a primeiro interrogatório judicial", "Reporting"],
-["tendo-lhe sido aplicada a medida de coação de prisão preventiva", "State"]
-]
+[["detém", "I_Action"], ["homem", "State"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "State"], ["coletividade", "State"], ["Setúbal", "State"], ["deteve", "I_Action"], ["presumível", "State"], ["agressor", "State"], ["terá", "Aspectual"], ["disparado", "Occurrence"], ["sobre", "Occurrence"], ["vítima", "State"], ["conflito", "Occurrence"], ["grupo", "State"], ["convivas", "State"], ["almoçar", "Occurrence"], ["Alto", "State"], ["Guerra", "State"], ["acabou", "Occurrence"], ["alvejar", "Occurrence"], ["jovem", "State"], ["ferimentos", "Occurrence"], ["consideráveis", "State"], ["ombro", "State"], ["braço", "State"], ["detido", "State"], ["fugiu", "Occurrence"], ["local", "State"], ["indiciado", "State"], ["crimes", "State"], ["homicídio", "State"], ["qualificado", "State"], ["forma", "State"], ["tentada", "State"], ["detenção", "State"], ["arma", "State"], ["proibida", "State"], ["omissão", "State"], ["auxílio", "State"], ["primeiro", "State"], ["interrogatório", "Occurrence"], ["judicial", "State"], ["aplicada", "Occurrence"], ["medida", "State"], ["coação", "State"], ["prisão", "State"], ["preventiva", "State"]]
 
 Note:
+The input text is in Portuguese.
 
-* The input text is in Portuguese.
-* The output should be a list of pairs, where each pair consists of the entity (the first string) and its corresponding class (the second string).
-* The classes are:
-	+ Reporting: refers to the act of reporting or describing an event or situation.
-	+ Occurrence: refers to an event or situation that is happening or has happened.
-	+ Aspectual: refers to a verb form that indicates the duration or repetition of an action.
-	+ State:refers to a situation or condition that exists or existed at a particular time.
-	+ Intensional Action: refers to an action that is intended or planned.
-	+ Intensional State: refers to a state or condition that is intended or planned.
-
-Explanation:
-
-* "PJ detém homem suspeito de balear jovem em coletividade de Setúbal" is classified as Reporting because it is describing an event that has happened.
-* "A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem" is classified as Occurrence because it is describing an event that has happened.
-* "na passada quarta-feira" is classified as Aspectual because it indicates the duration of an action (the event happened in the past and lasted for a period of time).
-* "no restaurante de uma coletividade de Setúbal" is classified as State because it describes a situation that exists or existed at a particular time.
-* "Segundo um comunicado da
+Please extract and classify all event triggers in the given text.

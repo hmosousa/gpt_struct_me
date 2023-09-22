@@ -1,15 +1,1 @@
-[
-["Orkem S.A. makes a friendly bid", "Occurrence"],
-["Coates Brothers PLC is valued at #301 million", "Aspectual"],
-["Coates executives and other shareholders accept the offer", "Occurrence"],
-["Orkem gains a controlling 53.2% stake in the company", "State"],
-["Orkem and Coates consider a merger", "Occurrence"],
-["Orkem would fund the acquisition through internal resources", "Intensional Action"],
-["Orkem restructures its U.K. unit", "Occurrence"],
-["Orkem seeks to make a public share offering in its U.K. business", "Intensional Action"]
-]
-
-Note:
-The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
-
-Please extract and classify all event triggers in the given text and provide the output in the specified format.
+[["Orkem S.A.", "OCCURRENCE"], ["Coates Brothers PLC", "OCCURRENCE"], ["U.K.", "OCCURRENCE"], ["French", "OCCURRENCE"], ["chemical manufacturer", "OCCURRENCE"], ["friendly bid", "OCCURRENCE"], ["470 pence", "OCCURRENCE"], ["$7.43", "OCCURRENCE"], ["share", "OCCURRENCE"], ["59.2%", "OCCURRENCE"], ["Coates executives", "OCCURRENCE"], ["other shareholders", "OCCURRENCE"], ["12.4%", "OCCURRENCE"], ["company", "OCCURRENCE"], ["Orkem", "OCCURRENCE"], ["British subsidiary", "OCCURRENCE"], ["Orkem Coatings U.K. Ltd.", "OCCURRENCE"], ["France's", "OCCURRENCE"], ["third-largest chemical group", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["internal resources", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["Orkem's U.K. unit", "OCCURRENCE"], ["related Orkem businesses", "OCCURRENCE"], ["possibly further acquisitions", "OCCURRENCE"], ["public share offering", "OCCURRENCE"]]
