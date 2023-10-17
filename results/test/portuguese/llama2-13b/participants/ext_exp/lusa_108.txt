@@ -1,0 +1,32 @@
+["Agente da polícia", "baleado mortalmente", "colega", "durante discussão", "Maputo", "Um agente", "polícia moçambicana", "detido", "acusado", "matar", "colega", "discussão", "província", "sul de Moçambique", "Lusa", "fonte", "corporação", "Eles", "discutir", "motivos", "desconhecidos", "meio", "disparou", "alvejando-o", "mortalmente", "Tratam-se", "agentes", "PRM", "Departamento", "Recursos Naturais", "Meio Ambiente", "distrito", "Magude", "província", "incidente", "acampamento", "madrugada", "quinta-feira", "atividade", "patrulha", "zona protegida", "processos", "disciplinar", "criminal", "comando", "interesse", "desfecho", "processos", "concluiu"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas que morreram em acidente de carro em Portugal
+Um homem e uma mulher morreram no domingo num acidente de carro na A1, perto de Vila Nova de Famalicão, no norte de Portugal, informou a Polícia Judiciária.
+O acidente ocorreu às 14h30, quando um carro de turismo, com quatro ocupantes, colidiu com um camião de transporte de carga, que estava parado numa zona de serviço.
+O carro foi atingido pelo camião, que estava a fazer manobras de paragem, e os ocupantes do carro foram atingidos por um pneu do camião.
+O homem e a mulher morreram no local do acidente.
+Os outros ocupantes do carro, um homem e uma mulher, foram levados a hospital, onde se encontra em estado grave.
+O camião foi conduzido por um homem, que não sofreu ferimentos.
+A Polícia Judiciária está a investigar o acidente."
+
+Output:
+["Pessoas", "morreram", "acidente", "carro", "Portugal", "homem", "mulher", "domingo", "acidente", "carro", "A1", "perto", "Vila Nova de Famalicão", "norte de Portugal", "Polícia Judiciária", "ocorreu", "14h30", "carro", "turismo", "quatro ocupantes", "colidiu", "camião", "transporte", "carga", "parado", "zona de serviço", "carro", "pneu", "camião", "ocupantes", "hospital", "estado grave", "conduzido", "homem", "ferimentos", "Polícia Judiciária", "investigar", "acidente"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas que morreram em acidente de carro em Portugal
+Um homem e uma mulher morreram no domingo num acidente de carro na A1, perto de Vila Nova de Famalicão, no norte de Portugal, informou a Polícia Judiciária.
+O acidente ocorreu às 14h30, quando um carro de turismo, com quatro ocupantes, colidiu com um camião de transporte de carga, que estava parado numa zona de serviço.
+O carro foi atingido pelo camião, que estava a fazer manobras de paragem, e os ocupantes do carro foram atingidos por um pneu do camião.
+O homem e a mulher morreram no local do acidente.
+Os outros ocupantes do carro, um homem e uma mulher, foram levados a hospital, onde se encontra em estado grave.
+O camião foi conduzido por um homem, que não sofreu ferimentos.
+A Polícia Judiciária está a investigar o acidente."
+
+Output:

@@ -1,0 +1,8 @@
+[["apreendeu", "I_Action"], ["quase quatro toneladas", "Occurrence"], ["haxixe", "Occurrence"], ["embarcação de alta velocidade", "Occurrence"], ["comportamento suspeito", "Occurrence"], ["foz do rio Guadiana", "Location"], ["intercetada", "Reporting"], ["fugue para território espanhol", "Occurrence"], ["informadas as autoridades policiais espanholas", "Reporting"], ["segundo", "Aspectual"], ["GNR", "Entity"], ["SIVICC", "Entity"], ["PJ", "Entity"]]
+
+Note:
+- "I_Action" refers to an action verb in the input text.
+- "Occurrence" refers to a noun or a noun phrase that represents an event or a state in the input text.
+- "Reporting" refers to a verb that indicates the source of the information in the input text.
+- "Aspectual" refers to an adverbial phrase that modifies the verb in the input text, indicating the aspect in which the action is performed.
+- "Entity" refers to a noun or a noun phrase that represents a person, place, thing, or organization mentioned in the input text.

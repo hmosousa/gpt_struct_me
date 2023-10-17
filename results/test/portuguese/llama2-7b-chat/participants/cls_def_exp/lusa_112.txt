@@ -1,0 +1,9 @@
+[["Governo", "Org"], ["Ricardo Pinheiro", "Per"], ["José Mendes", "Per"], ["José Fernandes Gomes Mendes", "Per"], ["Nelson de Sousa", "Org"], ["Palácio de Belém", "Loc"], ["Portugal", "Loc"], ["Câmara de Campo Maior", "Org"], ["distrito de Portalegre", "Loc"], ["círculo", "Org"], ["eleições legislativas", "Other"], [" deputado", "Per"], ["presidente", "Per"], ["mudança", "Other"], ["proposta", "Org"], ["primeiro-ministro", "Org"], ["exoneração", "Org"], ["nomeação", "Org"], ["Ricardo Miguel Furtado Pinheiro", "Per"], ["Presidente da República", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities mentioned. The output is a list of entities and their corresponding classes.
+* The classes are: Organization, Person, Location, Nature, Facility, and Other.
+* The entities are: Governo (Organization), Ricardo Pinheiro (Person), José Mendes (Person), José Fernandes Gomes Mendes (Person), Nelson de Sousa (Organization), Palácio de Belém (Location), Portugal (Location), Câmara de Campo Maior (Organization), distrito de Portalegre (Location), círculo (Organization), eleições legislativas (Other), deputado (Person), presidente (Person), mudança (Other), proposta (Organization), primeiro-ministro (Organization), exoneração (Organization), nomeação (Organization), Ricardo Miguel Furtado Pinheiro (Person), and Presidente da República (Organization).

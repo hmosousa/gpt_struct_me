@@ -1,0 +1,1 @@
+[["encerrou", "I_Action"], ["reunia", "Occurrence"], ["estabelecimento", "State"], ["reunia", "Occurrence"], ["musica", "Occurrence"], ["alvo", "Occurrence"], ["cumprimento", "Occurrence"], ["normas", "State"], ["pandemia", "State"], ["proprietária", "I_State"], ["dada", "Reporting"], ["ordem", "I_Action"], ["evento", "State"], ["elaboração", "Occurrence"], ["auto", "State"]]

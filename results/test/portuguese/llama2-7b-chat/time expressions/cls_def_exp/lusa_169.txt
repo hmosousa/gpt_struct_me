@@ -1,0 +1,1 @@
+[["homem de 61 anos", "Person"], ["Portalegre", "Location"], ["Carreiras", "Location"], ["GNR", "Organization"], ["Polícia Judiciária", "Organization"], ["domingo", "Date"], ["20:00", "Time"], ["21:30", "Time"]]

@@ -1,0 +1,12 @@
+[["Kash Patel", "Per"], ["Donald Trump", "Per"], ["Austin Tice", "Per"], ["Majd Kamalmaz", "Per"], ["os EUA", "Org"], ["a Síria", "Loc"], ["a guerra civil", "Other"], ["o Wall Street Journal", "Org"], ["a agência Associated Press (AP)", "Org"], ["o regime de Damasco", "Other"], ["a embaixada norte-americana", "Org"], ["o embaixador", "Per"], ["o Texas", "Loc"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+
+Hint:
+You can use the information provided in the text to identify the entities and their classes.
+
+Please let me know if you need any further clarification or details.

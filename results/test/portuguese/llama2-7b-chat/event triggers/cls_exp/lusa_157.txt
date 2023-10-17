@@ -1,0 +1,9 @@
+[["morte", "State"], ["morreu", "I_Action"], ["árvore", "Occurrence"], ["procedia", "Occurrence"], ["Barreiro", "Aspectual"], ["Tangil", "Aspectual"], ["Monção", "Aspectual"], ["Viana do Castelo", "Aspectual"], ["Comando Distrital de Operações de Socorro", "State"], ["CDOS", "State"], ["fonte", "I_State"], ["medico", "I_Action"], ["helicóptero", "I_Action"], ["Instituto Nacional de Emergência Médica", "State"], ["INEM", "State"], ["alto", "Occurrence"], ["feitos", "Occurrence"], ["feridos", "Occurrence"], ["informações", "Occurrence"], ["apontava", "Occurrence"], ["existência", "Occurrence"], ["acionadas", "I_Action"], ["ambulâncias", "I_Action"], ["Monção", "Aspectual"], ["Valença", "Aspectual"], ["operacionais", "I_Action"], ["bombeiros", "I_Action"], ["viaturas", "I_Action"], ["suporte", "I_Action"], ["vida", "Aspectual"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several events triggered by different entities.
+* The classes are: State (for events related to the state of the entity), Occurrence (for events related to the occurrence of something), Reporting (for events related to reporting), Perception (for events related to perception), Aspectual (for events related to aspects), Intensional Action (for events related to intensional actions), and Intensional State (for events related to intensional states).
+* The output list includes all the events triggered by different entities in the input text, with the corresponding class for each event.

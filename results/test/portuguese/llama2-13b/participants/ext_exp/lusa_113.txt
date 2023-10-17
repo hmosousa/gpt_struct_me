@@ -1,0 +1,28 @@
+["Pelo menos sete mortos", "Pelo menos sete pessoas", "um incêndio", "num edifício residencial", "Hong Kong", "a imprensa local", "as vítimas mortais", "três homens", "três mulheres", "uma criança de 09 anos", "o jornal South China Morning Post", "SCMP", "homens", "mulheres", "hospitalizados", "no domingo à noite", "estado crítico", "duas outras pessoas", "estado grave", "o incêndio", "a maioria das vítimas", "nepalesa", "os bombeiros", "uma conferência de imprensa", "uma janela", "o apartamento", "a segurança contra incêndios", "o evento", "a janela", "a casa de banho", "o apartamento"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque procuram um homem que disparou contra um polícia
+Autoridades de Nova Iorque procuram um homem que disparou contra um polícia, no dia 17 de Dezembro, e que se encontrava numa lista de procurados.
+O homem, de 27 anos, foi identificado como Rashid Brimmage, que se encontrava numa lista de procurados desde 2017, por acusações de roubo e assalto.
+O polícia que foi atingido, de 25 anos, foi hospitalizado e está em estado grave.
+O homem foi visto a fugir do local do tiroteio, no bairro de Harlem, numa motocicleta.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de calibre 9 mm, que atravessou o seu capacete e o seu casaco.
+O polícia foi atingido por uma bala de

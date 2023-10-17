@@ -1,0 +1,10 @@
+[["Polícia Judiciária", "Org"], ["um homem", "Per"], ["56 anos", "Other"], ["distrito de Évora", "Loc"], ["telemóveis", "Obj"], ["mais de duas centenas", "Other"], ["ficheiros informáticos", "Obj"], ["imagens de menores", "Other"], ["situações de cariz sexual", "Other"], ["detido", "Per"], ["prática do crime", "Per"], ["crime de pornografia de menores", "Other"], ["PJ", "Org"], ["investigação", "Other"], ["busca domiciliária", "Other"], ["presente", "Per"], ["primeiro interrogatório judicial", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and classes.
+* The entities are: "Polícia Judiciária", "um homem", "56 anos", "distrito de Évora", "telemóveis", "imagens de menores", "situações de cariz sexual".
+* The classes are: "Org", "Per", "Other", "Obj".
+* The output list has 12 elements, each representing a match between an entity in the input and a class in the output.

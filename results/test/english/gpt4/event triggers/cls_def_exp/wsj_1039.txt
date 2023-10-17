@@ -1,0 +1,1 @@
+[["reported", "REPORTING"], ["fell", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["said", "REPORTING"], ["earn", "OCCURRENCE"], ["said", "REPORTING"], ["result", "OCCURRENCE"], ["increased", "OCCURRENCE"], ["citing", "REPORTING"], ["expected", "I_STATE"], ["expected", "I_STATE"], ["pricecutting", "OCCURRENCE"], ["effects", "OCCURRENCE"]]

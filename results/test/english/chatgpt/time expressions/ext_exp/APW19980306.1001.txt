@@ -1,1 +1,0 @@
-["Friday", "two months", "Thursday", "Jan. 13", "Friday", "Feb. 23", "Thursday"]

@@ -1,0 +1,31 @@
+[["29 operacionais", "Set"], ["9 viaturas", "Set"], ["29 operacionais", "Set"], ["9 viaturas", "Set"], ["29 operacionais", "Set"], ["9 viaturas", "Set"], ["29 operacionais", "Set"], ["9 viaturas", "Set"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR encontrou idosa dada como desaparecida em aldeia de Vila Real
+A GNR encontrou esta tarde a idosa de 81 anos que estava dada como desaparecida desde segunda-feira em Sabroso, concelho de Vila Real, disse hoje fonte daquela força policial.
+A octogenária foi detetada por um cão da equipa cinotécnica da GNR a cerca de dois quilómetros da sua residência e foi transportada para a unidade de Vila Real do Centro Hospitalar de Trás-os-Montes e Alto Douro.
+O alerta para o desaparecimento da idosa, que reside com um familiar, foi dado pelas 17:00 de segunda-feira, tendo sido procurada por elementos da Unidade de Emergência de Proteção e Socorro (UEPS) da GNR durante a noite.
+As buscas foram retomadas esta manhã, envolveram elementos da GNR e dos bombeiros, e a mulher foi encontrada pelas 15:40.
+De acordo com a página na Internet da Autoridade Nacional de Emergência e Proteção Civil, foram mobilizados para esta ocorrência 29 operacionais e nove viaturas."
+
+Output:
+[["29 operacionais", "Set"], ["9 viaturas", "Set"], ["29 operacionais", "Set

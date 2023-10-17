@@ -1,0 +1,29 @@
+["Integra-A Hotel amp Restaurant Co.", "said", "planned", "rights", "offering", "raise", "about", "million", "declared", "effective", "company", "begin", "mailing", "materials", "shareholders", "end", "week", "under", "offer", "shareholder", "buy", "bonds", "due", "1993", "warrants", "common", "23", "5", "expire", "Nov", "21", "exercise", "100", "each", "Hallwood", "Group", "Inc", "agreed", "exercise", "aren't", "shareholders"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI Inc., had argued that the SEC should have warned them that the company's stock was overvalued.
+The investors had asked the high court to review a decision by the U.S. Court of Appeals for the Second Circuit in New York, which had ruled that the SEC had no duty to protect investors from fraud.
+The SEC had argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The investors had claimed that the SEC's failure to warn them had caused them to lose money.
+The Supreme Court's decision not to hear the case means that the Second Circuit's ruling will stand."
+
+Output:
+["The U.S. Supreme Court", "on", "Monday", "refused", "hear", "appeal", "group", "investors", "claimed", "Securities", "and", "Exchange", "Commission", "failed", "protect", "them", "fraud", "The", "investors", "stock", "company", "CMGI", "inc", "asked", "high", "court", "review", "decision", "Second", "Circuit", "New", "York", "ruled", "SEC", "failed", "warn", "investors", "harmed", "SEC's", "failure", "warn", "caused", "lose", "money", "Supreme", "decision", "stand"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI Inc., had argued that the SEC should have warned them that the company's stock was overvalued.
+The investors had asked the high court to review a decision by the U.S. Court of Appeals for the Second Circuit in New York, which had ruled that the SEC had no duty to protect investors from fraud.
+The SEC had argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The investors had claimed that the SEC's failure to warn them had caused them to lose money.
+The Supreme Court's decision not to hear the case means that the Second Circuit's ruling will stand."
+
+Output:
+["The U.S. Supreme Court", "on", "Monday", "refused", "hear", "appeal", "group", "investors", "claimed", "Securities", "and", "Exchange", "Commission", "failed", "protect", "them", "fraud", "The", "investors", "stock", "company", "CMGI", "inc", "asked", "high", "court", "review", "decision", "Second", "Circuit", "New", "York", "ruled", "SEC", "failed", "warn", "investors", "harmed", "SEC's", "failure", "warn", "caused", "lose", "money", "Supreme", "dec

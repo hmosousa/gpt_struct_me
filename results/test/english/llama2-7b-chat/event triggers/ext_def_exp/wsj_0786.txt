@@ -1,0 +1,4 @@
+["completed", "acquisition", "American", "Medical", "International", "Corp.", "purchasing", "shares", "debt", "includes", "board", "members", "chief", "officer", "remain", "earnings", "charges", "real", "estate", "offer", "private", "considering", "restructuring", "boost", "value", "put", "sale", "offers", "materialized", "yesterday", "Other", "new", "board", "members", "Harrison", "Adley", "Lyons", "Goldberg", "Handelsman"]
+
+Note:
+The input text is a news article and the output is a list of events extracted from the text. The events are listed in a JSON-parseable format, which can be easily used in a JavaScript program to analyze the text.

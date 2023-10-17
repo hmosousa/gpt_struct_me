@@ -1,0 +1,9 @@
+["domingo", "30 nov 2020", "pelo menos", "pelo menos"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of a JSON-parseable string.
+* The time expressions can be in different formats, such as "día da semana" (day of the week), "mês" (month), "ano" (year), "hora" (hour), "minuto" (minute), "segundo" (second), etc.
+* The input text may contain other information besides time expressions, such as names of people, places, and events.
+* The output should only include time expressions and not any other information from the input text.

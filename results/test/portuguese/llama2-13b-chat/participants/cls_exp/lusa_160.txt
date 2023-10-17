@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["abuso sexual de crianças agravado", "Cr"], ["a filha da companheira", "Per"], ["em Braga e Amares", "Loc"], ["o Ministério Público", "Org"], ["a Procuradoria-Geral Distrital do Porto", "Org"], ["os abusos", "Cr"], ["terão começado", "Other"], ["numa altura", "Other"], ["em que a vítima", "Per"], ["tinha 10 anos", "Other"], ["o MP", "Org"], ["considerou indiciado", "Other"], ["que o arguido", "Per"], ["passou a viver", "Other"], ["com a sua companheira", "Other"], ["em 2016", "Other"], ["primeiro em Braga", "Loc"], ["e depois em Amares", "Loc"], ["Ainda", "Other"], ["segundo o MP", "Other"], ["entre 2017 e 2019", "Other"], ["manteve trato sexual", "Cr"], ["com a filha da companheira", "Per"], ["aproveitando-se dos momentos", "Other"], ["que passava a sós com ela", "Other"], ["O despacho de acusação", "Other"], ["está datado de 05 de outubro", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Cr" stands for "Crime"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+* "Other" stands for "Other" (anything that doesn't fit in the other categories)

@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["de 54 anos", "Per"], ["encontrado morto", "Per"], ["numa ribeira", "Loc"], ["na aldeia de Fráguas", "Loc"], ["concelho de Tondela", "Loc"], ["afirmou à agência Lusa", "Org"], ["fonte da GNR", "Org"], ["segundo fonte do Comando Territorial da GNR de Viseu", "Org"], ["o homem terá", "Per"], ["caído da berma da via para a ribeira", "Other"], ["uma queda de cerca de dois metros", "Other"], ["Poderá, eventualmente, ter havido um acidente", "Per"], ["Ainda estamos a tentar perceber o contexto", "Per"], ["De acordo com a mesma fonte", "Org"], ["o óbito foi confirmado no local", "Per"], ["o corpo foi transportado para o Instituto Nacional de Medicina Legal", "Other"], ["Segundo o Comando Distrital de Operações de Socorro de Viseu", "Org"], ["no local", "Loc"], ["estiveram nove operacionais", "Per"], ["apoiados por quatro veículos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes.
+* Each entity is represented by a string.
+* Each class is represented by a string.
+* The entities and classes are separated by a comma.
+* The output should be a list of lists, where each list contains two strings: the entity and the class.

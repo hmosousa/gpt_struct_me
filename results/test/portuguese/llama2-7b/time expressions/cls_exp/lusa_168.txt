@@ -1,0 +1,27 @@
+[["em prisão preventiva", "Duration"], ["valongo", "Date"], ["valongo", "Date"], ["agredir física e psicologicamente", "Time"], ["agredir física e psicologicamente", "Time"], ["ampliação de mandado de detenção", "Time"], ["ampliação de mandado de detenção", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem em prisão preventiva por agredir física e psicologicamente a mãe em Valongo
+Um homem de 33 anos ficou em prisão preventiva por agredir física e psicologicamente a mãe, de 57, em Valongo, mesmo depois de estar proibido de contactar e estar perto dela, disse hoje a GNR do Porto.
+Em comunicado, esta força policial referiu que o detido por violência doméstica tem já antecedentes criminais pela prática deste mesmo crime, assim como por ameaça agravada, injúrias e ofensas à integridade física. ´
+No âmbito desta investigação, os militares apuraram que o homem, a quem já haviam sido aplicadas as medidas de coação de afastamento e proibição de contacto com a mãe por maus tratos, continuou a agredi-la física e psicologicamente, de forma reiterada, forçando-a a fornecer alimentação e a limpar o local onde este vivia, sublinhou.
+Segundo a GNR, no mais recente episódio de violência, o arguido ameaçou e coagiu a mãe a entregar-lhe dinheiro para “satisfazer o seu vício de consumo de drogas”, t

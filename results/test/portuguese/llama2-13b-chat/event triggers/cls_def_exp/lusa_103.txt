@@ -1,0 +1,15 @@
+[["matou", "I_Action"], ["filhos", "Occurrence"], ["para se vingar", "State"], ["da mulher", "Aspectual"], ["no México", "Location"], ["disseram", "Reporting"], ["os procuradores", "Organization"], ["no domingo", "Date"], ["os rapazes", "Occurrence"], ["tinham", "State"], ["3,7 e 8 anos", "State"], ["o suspeito", "I_Person"], ["telefonou", "I_Action"], ["ao pai", "I_Person"], ["a contar o que havia feito", "Reporting"], ["o avô", "I_Person"], ["chamou", "I_Action"], ["a polícia", "I_Organization"], ["fugiu", "I_Action"], ["para Sonora", "Location"], ["mas", "Conjunction"], ["foi", "I_Action"], ["imediatamente", "Adverb"], ["detido", "I_Action"], ["e enviado para Hidalgo", "I_Action"], ["para ser acusado", "State"], ["os procuradores", "Organization"], ["acrescentaram", "Reporting"], ["que", "Occurrence"], ["o homem", "I_Person"], ["discutiu", "I_Action"], ["com a mãe", "Aspectual"], ["das crianças", "Aspectual"], ["e matou", "I_Action"], ["os filhos", "Occurrence"], ["de modo a causar-lhe", "Aspectual"], ["uma grande dor", "State"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "matou") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: an action or event that occurs in the story
+* I_Person: a person who is involved in the story
+* Occurrence: an event or happening that takes place in the story
+* State: a state or condition that exists in the story
+* Aspectual: a state or condition that is described in terms of its aspect or duration
+* Reporting: a statement or description that is provided by a character or narrator
+* Location: a place or location where an event or action takes place
+* Date: a specific date or time period that is relevant to the story
+
+Your task is to extract and classify all the event triggers in the input text. For each event trigger, you should output the entity and the class, using the format described above.

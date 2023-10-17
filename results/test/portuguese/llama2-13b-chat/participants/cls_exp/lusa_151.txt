@@ -1,0 +1,14 @@
+[["Governo de Jacarta", "Org"], ["indonésio FPI", "Per"], ["A Indonésia", "Loc"], ["o ministro da Segurança", "Per"], ["Mohammad Mahfud", "Per"], ["a Frente de Defesa Islâmica", "Org"], ["FPI em indonésio", "Other"], ["o governo de Jacarta", "Org"], ["proibiu", "Other"], ["o uso dos símbolos", "Other"], ["do FPI", "Other"], ["o grupo radical", "Per"], ["que quer ver implementada", "Other"], ["a lei islâmica", "Other"], ["na Indonésia", "Loc"], ["pelo governador cristão", "Other"], ["de Jacarta", "Loc"], ["o líder da organização", "Per"], ["Rizieg Shihab", "Per"], ["entregou-se", "Other"], ["às autoridades", "Other"], ["no início do mês de dezembro", "Other"], ["depois de ter sido acusado", "Other"], ["de incitar", "Other"], ["a população", "Other"], ["a violar", "Other"], ["as medidas de restrição", "Other"], ["impostas pelo Governo", "Other"], ["para travar", "Other"], ["a pandemia de covid-19", "Other"], ["no país", "Loc"], ["organizando grandes manifestações", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities that are not persons or organizations, such as "a Indonésia", "o ministro da Segurança", "a Frente de Defesa Islâmica", "o uso dos símbolos", "a lei islâmica", "o líder da organização", and "a pandemia de covid-19".
+* These entities should be classified as "Loc" or "Other".
+* The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

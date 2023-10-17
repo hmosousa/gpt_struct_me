@@ -1,0 +1,4 @@
+["William C. Walbrecher Jr.", "James A. Taylor", "Edward L. Kane", "Citadel Holding Corp.", "Fidelity Federal Bank", "net loss", "68 cents a share", "net income", "$1.61 a share", "unusual write-downs", "after-tax impact", "4.9 million", "Valley Federal Savings and Loan Association", "Sept. 27, 1989", "loan and real estate loss reserves", "American Stock Exchange composite trading", "yesterday", "down 25 cents"]
+
+Note:
+The output is a list of all the event triggers in the input text. Each event trigger is a string that represents a specific event or action described in the text. The events are listed in the order they appear in the text.

@@ -1,0 +1,23 @@
+["um homem", "um automóvel", "as instalações", "o Estádio da Luz", "Lisboa", "a agência Lusa", "fonte", "Comando Metropolitano", "Cometlis", "PSP", "um homem", "uma viatura", "o Estádio da Luz", "a freguesia", "São Domingos de Benfica", "o incidente", "pelas 15:00", "a PSP", "a detenção", "esta infração", "sem adiantar", "informações", "a Rádio Renascença", "o homem", "o relvado", "a polícia", "informações", "o condutor", "as instalações", "o estádio", "o Benfica", "o Cometlis", "esclarecimentos", "a detenção", "este homem", "informações", "mais tarde"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem armado faz vários reféns dentro de um banco na Geórgia
+Um homem armado fez hoje à tarde vários reféns, ainda em número incerto, dentro das instalações de um banco na Geórgia, informaram as autoridades desta ex-república soviética.
+O Ministério do Interior da Geórgia não precisou, até ao momento, quantas pessoas foram feitas reféns dentro do banco, localizado na cidade de Zugdidi (região oeste), ou quais são as exigências do agressor.
+A polícia isolou, entretanto, a zona onde fica a sucursal bancária e montou uma operação "para neutralizar o agressor", informou o ministério num comunicado.
+A televisão estatal da Geórgia, a Mtavari TV, noticiou que o sequestrador está armado com uma granada de mão e exige 500.000 dólares (cerca de 420.000 euros) em dinheiro.
+A Mtavari TV conseguiu falar com um dos reféns que indicou que o agressor mantém 19 pessoas dentro das instalações bancárias.
+O canal de televisão também divulgou um vídeo que mostra uma sala com pessoas sentadas no chão e um homem vestido com um uniforme militar, de rosto coberto, e armado com uma espingarda."
+
+Output:
+["um homem", "um comunicado", "Um homem armado", "vários reféns", "número incerto", "as instalações", "a Geórgia", "as autoridades", "esta ex-república soviética", "O Ministério do Interior", "a Geórgia", "quantas pessoas", "reféns", "o banco,", "a cidade de Zugdidi (região oeste)", "quais", "o agressor", "A polícia", "a zona", "onde", "a sucursal bancária", "o agressor", "o ministério", "A televisão estatal", "a Mtavari TV", "o sequestrador", "uma granada de mão", "500.000 dólares (cerca de 420.000 euros)", "dinheiro", "A Mtavari TV", "um", "os reféns", "o agressor", "19 pessoas", "as instalações bancárias", "O canal de televisão", "um vídeo", "uma sala", "pessoas", "o chão", "um homem", "um uniforme militar", "rosto", "uma espingarda", "um banco", "que", "a Geórgia", "que"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem invade instalações do Estádio da Luz com automóvel
+Um homem invadiu com um automóvel as instalações do Estádio da Luz, em Lisboa, durante a tarde de hoje, disse à ag

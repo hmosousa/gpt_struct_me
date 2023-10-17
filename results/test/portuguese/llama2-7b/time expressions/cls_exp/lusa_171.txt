@@ -1,0 +1,27 @@
+[["quatro anos e meio", "Duration"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"], ["16 maio 2020", "Date"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Tribunal de Guimarães condena homem a quatro anos e meio de prisão por violação
+O tribunal de Guimarães condenou um homem “com uma vida desestruturada” por violar a amiga que lhe permitiu uma pernoita em sua casa, aplicando-lhe uma pena efetiva de quatro anos e meio de prisão, informou hoje a Procuradoria Regional.
+“O tribunal considerou provado que o arguido, no dia 16 de maio de 2020, pelas 04:20, a pretexto de precisar de descansar, se acolheu na casa da vítima, uma sua amiga residente numa freguesia de Guimarães", relata a Procuradoria Regional do Porto, na sua página na Internet.
+Considerou também provado que, por volta das 06:00, quando a mulher se aprontava para ir trabalhar, "abordou-a, agarrou-a e prendeu-lhe os braços, tirou-lhe à força roupa que envergava e manteve com ela relações sexuais”.
+O tribunal

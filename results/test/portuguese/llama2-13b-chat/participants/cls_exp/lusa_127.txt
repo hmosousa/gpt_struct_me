@@ -1,0 +1,16 @@
+[["GNR de Freamunde", "Org"], ["Paços de Ferreira", "Loc"], ["um restaurante", "Fac"], ["50 pessoas", "Per"], ["naquela localidade", "Loc"], ["do concelho", "Loc"], ["de Freamunde", "Loc"], ["os militares", "Org"], ["detetaram", "Per"], ["que", "Other"], ["o estabelecimento", "Fac"], ["estava", "Per"], ["a funcionar", "Per"], ["com música ao vivo", "Other"], ["na sequência", "Per"], ["de uma ação", "Per"], ["de fiscalização", "Org"], ["com vista", "Per"], ["ao cumprimento", "Per"], ["das normas", "Other"], ["referentes", "Other"], ["à pandemia", "Other"], ["covid-19", "Other"], ["segundo", "Other"], ["um comunicado", "Obj"], ["da autoridade", "Org"], ["a proprietária", "Per"], ["de 48 anos", "Per"], ["foi", "Per"], ["identificada", "Per"], ["tendo", "Per"], ["been dada", "Per"], ["ordem", "Per"], ["para", "Per"], ["terminar", "Per"], ["o evento", "Other"], ["resultando", "Per"], ["na", "Other"], ["elaboração", "Other"], ["de", "Other"], ["um", "Other"], ["auto", "Other"], ["de", "Other"], ["contraordenação", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* The entities and classes can be identified based on the context and the information provided in the text.
+* Some entities and classes may have multiple instances in the text.
+* The output should be a list of lists, where each list contains two strings: the entity and the class.

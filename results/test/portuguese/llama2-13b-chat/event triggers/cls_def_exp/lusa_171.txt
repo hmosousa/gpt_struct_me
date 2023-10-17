@@ -1,0 +1,19 @@
+[["condenou", "I_Action"], ["homem", "Entity"], ["violou", "Occurrence"], ["amiga", "Entity"], ["permitiu", "Occurrence"], ["pernoita", "Occurrence"], ["casa", "Entity"], ["tribunal", "Entity"], ["Guimarães", "Location"], ["procuradoria", "Entity"], ["regional", "Entity"], ["página", "Entity"], ["Internet", "Entity"], ["aprontava", "Occurrence"], ["ir", "Occurrence"], ["trabalhar", "Occurrence"], ["abordou", "I_Action"], ["agarrou", "I_Action"], ["prendeu", "I_Action"], ["tirou", "I_Action"], ["roupa", "Entity"], ["mantenha", "I_Action"], ["relações", "Occurrence"], ["sexuais", "Occurrence"], ["exclui", "I_Action"], ["hipótese", "Entity"], ["suspender", "I_Action"], ["pena", "Entity"], ["decisão", "Entity"], ["possível", "Adverb"], ["cinco", "Number"], ["anos", "Number"], ["prisão", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "amiga", "tribunal") and the second string is the class (e.g. "I_Action", "Occurrence", "Entity").
+
+Your task is to extract and classify all event triggers in the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. The classes are the categories that the event triggers belong to, based on their semantic meaning.
+
+For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null].
+
+The classes are:
+
+* I_Action: "pediu", "desculpa", "erros", "levaram", "Quero", "pedir", "desculpa", "cometidos", "disse", "fraco controlo", "fornece", "segurança"
+* Occurrence: "mortes", "infeções", "transmissão comunitária", "registada", "caso"
+* Entity: "homem", "governo", "estado", "australiano", "victoria", "hotéis", "quarentena", "programa", "sistema", "mortes", "infeções", "transmissão comunitária", "caso"
+* Aspectual: "começou", "aceitar"
+* Intensional Action: "implementado", "investigação"
+* Intensional State: "quarentena", "estado em grande parte livre"
+
+Note that some words or phrases can belong to multiple classes, depending on their context and meaning.

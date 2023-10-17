@@ -1,0 +1,15 @@
+["tomorrow", "Virginia", "Ashburn", "Mount Vernon", "Loudon county", "Saudi Arabia", "Islamic Saudi academy", "James Zogby", "Arab American Institute", "James Allmen", "fellowship church and school", "Ashburn", "Saudi government", "human rights", "religious persecution", "Virginia Welch", "religious freedom", "Loudon county", "America", "Nancy Marshalll"]
+
+Explanation:
+The World is a radio program that airs on the BBC World Service. It is a news and current affairs program that covers international stories from a global perspective.
+
+Solution:
+```python
+import re
+
+def extract_time_expressions(s):
+    time_expressions = []
+    for match in re.finditer(r'(\d{4})/(\d{2})/(\d{2})', s):
+        time_expressions.append(match.group(0))
+    return time_expressions
+```

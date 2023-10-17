@@ -1,0 +1,18 @@
+["Tribunal", "Guimarães", "condenar", "homem", "quatro", "anos", "meio", "prisão", "violação", "tribunal", "Guimarães", "condenou", "homem", "com", "vida", "desestruturada", "violando", "amiga", "permitiu", "pernoita", "casa", "aplicando", "pena", "efetiva", "anos", "meio", "prisão", "relata", "Procuradoria", "Regional", "Porto", "página", "Internet", "considerou", "provado", "arguido", "dia", "16", "maio", "2020", "pelas", "04:20", "pretexto", "necessidade", "descansar", "se", "acolheu", "casa", "vítima", "amiga", "residente", "freguesia", "Guimarães", "considerou", "provado", "arguido", "horas", "aprontava", "ir", "trabalhar", "abordou", "agarrou", "prendeu", "braços", "tirou", "roupa", "envergava", "manteve", "relações", "sexuais"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados hoje pela Organização Mundial da Saúde (OMS).
+A OMS informou que, em 24 de abril, 100 milhões de pessoas estavam em quarentena em 180 países, incluindo 80 milhões em 40 países da Ásia.
+A OMS também informou que, em 24 de abril, 1,7 milhão de pessoas estavam em quarentena em 18 países da Europa, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena em 12 países da Itália, incluindo 1,3 milhão em 12 países da Itália.
+A OMS também informou que, em 24 de abril, 1,3 milhão de pessoas estavam em quarentena

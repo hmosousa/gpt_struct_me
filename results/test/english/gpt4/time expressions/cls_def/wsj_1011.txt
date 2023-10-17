@@ -1,0 +1,11 @@
+[
+["the fiscal first quarter", "Date"],
+["last spring", "Date"],
+["Sept. 30", "Date"],
+["a year earlier", "Date"],
+["the quarter", "Date"],
+["now", "Date"],
+["a year earlier", "Date"],
+["the nine months", "Duration"],
+["a year earlier", "Date"]
+]

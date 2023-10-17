@@ -1,0 +1,1 @@
+["declared", "payable", "stock", "record", "declared", "cash", "dividend", "paid", "liquidity", "outstanding", "trading", "closed", "unchanged"]

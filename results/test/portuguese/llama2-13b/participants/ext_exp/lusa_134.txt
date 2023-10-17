@@ -1,0 +1,52 @@
+["Dois homens", "roubaram", "hoje", "a caixa registadora", "uma confeitaria", "o concelho de Santa Maria da Feira", "um dos dois envolvidos", "está em fuga às autoridades", "fonte oficial", "a GNR", "o assalto", "consumado", "entre as 12:00 e as 12:30", "uma confeitaria", "Milheirós de Poiares", "Santa Maria da Feria", "distrito de Aveiro", "os envolvidos", "atuaram", "de cara tapada", "Levaram", "a caixa registadora", "um montante", "dinheiro", "determinado", "segundo", "a fonte", "um dos assaltantes", "detido", "Milheirós de Poiares", "o outro", "continuava", "a ser procurado", "cerca da 14:30", "Na procura", "do homem", "ainda a monte", "envolvidos", "meios", "dispositivo territorial", "a GNR", "Destacamento de Intervenção", "aquela força policial"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Porque a Europa não pode ignorar a crise na Turquia
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a Europa.
+A crise na Turquia é uma crise para a

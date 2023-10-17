@@ -1,0 +1,20 @@
+["MP", "acusa", "homem", "abusar", "filha", "companheira", "Braga", "Amares", "Ministério", "Publico", "Porto", "Procuradoria", "Geral", "Distrital", "Porto", "abuso", "sexual", "criancas", "agravado", "vítima", "filha", "companheira", "acusou", "abuso", "sexual", "criancas", "agravado", "vítima", "filha", "companheira", "manteve", "trato", "sexual", "aproveitando", "momentos", "passou", "sós", "despacho", "acusação", "datado", "outubro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões da China, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, onde a pandemia começou.
+A China, que tem 1,4 bilhões de habitantes, tem 10 províncias e regiões em quarentena, incluindo a

@@ -1,0 +1,29 @@
+[["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"], ["Cabeceiras de Basto", "Location"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"], ["Autoridades moçambicanas", "Organization"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR fere com balas de borracha homem que usava arma de fogo em Cabeceiras de Basto
+A GNR feriu ligeiramente com “bagos de borracha” (balas de borracha) um homem em Cabeceiras de Basto que estava a fazer disparos para o ar com munições reais e que se recusou a parar, disse hoje fonte policial.
+O caso deu-se na freguesia de Refojos de Basto, concelho de Cabeceiras de Basto, distrito de Braga, um pouco antes das 00:00.
+O homem, de 52 anos, foi atingido pelas balas de borracha nas pernas.
+Fonte do Comando Territorial da GNR em Braga disse à agência Lusa que os operacionais só atingiram o homem depois de este desobedecer à ordem de cessar os disparos.
+“Não parou sequer quando os militares fizeram disparos de intimidação para o ar”, acrescentou a fonte, que afirmou desconhecer as causas do comportamento do detido.
+Depois de tratado a ferimentos ligeiros em unidade hospitalar, foi detido no posto

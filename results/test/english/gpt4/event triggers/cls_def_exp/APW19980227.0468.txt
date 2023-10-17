@@ -1,0 +1,1 @@
+[["allocated", "OCCURRENCE"], ["build", "OCCURRENCE"], ["designed", "OCCURRENCE"], ["used", "OCCURRENCE"], ["entered", "OCCURRENCE"], ["making", "ASPECTUAL"], ["help", "I_ACTION"], ["report", "REPORTING"], ["wielded", "OCCURRENCE"], ["famed", "PERCEPTION"], ["honor", "OCCURRENCE"], ["has", "STATE"]]

@@ -1,0 +1,17 @@
+["Um homem de 61 anos", "morreu hoje", "na sequência", "do despiste", "do automóvel", "que conduzia", "na Estrada Municipal 524", "no concelho de Marvão", "distrito de Portalegre", "disseram fontes", "da Proteção Civil", "e da GNR", "As mesmas fontes", "indicaram à agência Lusa", "que o óbito", "foi declarado", "no local", "pelo médico", "da viatura médica", "de emergência", "e reanimação", "do hospital de Portalegre", "e que o homem", "era o único ocupante", "do veículo ligeiro", "de passageiros", "Segundo fonte", "do Comando Distrital", "de Operações", "de Socorro", "de Portalegre", "o acidente", "ocorreu na zona", "da Bica", "na freguesia de Beirã", "tendo o corpo", "do homem", "foram mobilizados", "bombeiros", "e veículos", "da corporação", "de Marvão", "e a VMER", "além da GNR", "num total", "de oito elementos", "apoiados por quatro viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro chegou a 2.753
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque de 11 de setembro de 2001 chegou a 2.753, após a identificação de 1.640 restos mortais.
+A Comissão de Identificação de Nova Iorque (NYCID) anunciou que, após a identificação de 1.640 restos mortais, o número de mortos no ataque de 11 de setembro de 2001 chegou a 2.753.
+A comissão, que é responsável pela identificação dos restos mortais, disse que 1.640 restos mortais foram identificados desde o início do processo de identificação, em 2001.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1.113 restos mortais foram identificados com base em dados de DNA, 479 restos mortais foram identificados com base em dados de impressões digitais e 68 restos mortais foram identificados com base em dados de impressões dentárias.
+A comissão disse que 1

@@ -1,0 +1,31 @@
+[["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem encontrado morto no rio Tua na zona de Mirandela
+Um homem de 32 anos foi encontrado morto ao início da madrugada de hoje no rio Tua, na zona de Valverde da Gestosa, em Mirandela, local para onde terá ido pescar, informou a GNR.
+De acordo com informação disponibilizada à Lusa por aquela força de segurança, o homem terá saído de casa na manhã de domingo para ir à pesca.
+Por volta das 19:30, as autoridades foram alertadas para o desaparecimento e iniciaram buscas no local.
+O corpo foi encontrado depois da meia-noite e retirado do rio nas proximidades do local onde as autoridades encontraram os haveres do pescador.
+De acordo com a fonte, o caso foi entregue à Polícia Judiciária para serem apuradas as circunstâncias da morte."
+
+Output:
+[["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 2020", "Date"], ["1 déc 202

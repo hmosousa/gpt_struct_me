@@ -1,0 +1,6 @@
+[["PJ", "Org"], ["A Polícia Judiciária", "Per"], ["um homem", "Per"], ["cerca de 60 anos", "Age"], ["Gandarela", "Loc"], ["Celorico de Basto", "Loc"], ["distrito de Braga", "Loc"], ["indícios de lesão grave cranioencefálica", "Other"], ["fonte", "Org"], ["do Instituto Nacional de Emergência Médica", "Org"], ["o alerta", "Other"], ["a Gandarela", "Loc"], ["o concelho de Celorico de Basto", "Loc"], ["trauma grave", "Other"], ["pelas 21:45", "Time"], ["domingo", "Date"], ["os primeiros meios de socorro", "Org"], ["a Cruz Vermelha local", "Org"], ["encontraram-no", "Per"], ["em paragem cardiorrespiratória", "Other"], ["o corpo", "Org"], ["levado para a morgue", "Org"], ["de Guimarães", "Loc"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

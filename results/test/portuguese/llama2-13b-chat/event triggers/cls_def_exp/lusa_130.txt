@@ -1,0 +1,4 @@
+[["detém", "I_Action"], ["homem", "Entity"], ["cultivo", "Occurrence"], ["tráfico", "Occurrence"], ["droga", "Occurrence"], ["estupefacientes", "Occurrence"], ["divulgou", "Reporting"], ["comando", "Entity"], ["terreno", "Entity"], ["agricola", "Entity"], ["apreenderam", "I_Action"], ["cabeças", "Occurrence"], ["liamba", "Occurrence"], ["pés", "Occurrence"], ["balança", "Entity"], ["moinho", "Entity"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

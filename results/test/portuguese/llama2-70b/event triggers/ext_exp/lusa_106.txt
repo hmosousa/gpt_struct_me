@@ -1,0 +1,1 @@
+["atropelou", "pessoas", "manifestação", "movimento", "acidentalmente", "intencionalmente", "feridos", "transportado", "hospitais", "policia", "detido", "ocorrido", "mortes", "bombeiro", "ambulancia"]

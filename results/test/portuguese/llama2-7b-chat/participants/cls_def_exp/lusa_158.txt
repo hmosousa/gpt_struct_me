@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["48 anos", "Age"], ["Chorente", "Loc"], ["Barcelos", "Loc"], ["Comando Distrital de Operações de Socorros", "Org"], ["Braga", "Loc"], ["os dois automóveis", "Org"], ["13:00", "Time"], ["o hospital", "Org"], ["Viatodos", "Loc"]]

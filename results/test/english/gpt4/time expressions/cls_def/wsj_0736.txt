@@ -1,0 +1,7 @@
+[
+["Aug. 21", "Date"],
+["the third quarter", "Date"],
+["the year-earlier third quarter", "Date"],
+["June", "Date"],
+["Nov. 1", "Date"]
+]

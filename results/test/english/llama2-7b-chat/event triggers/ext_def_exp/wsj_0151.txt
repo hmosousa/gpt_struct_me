@@ -1,0 +1,54 @@
+["bought", "said", "boosts", "stake", "may", "help", "prevent", "seeking", "ouster", "announcement", "explore", "including", "possible", "shareholder", "value", "meant", "particularly", "take", "private", "proof", "scared"]
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string represents a trigger event in the input text. The events are identified by their position in the input text, and are represented as a JSON object with the following structure:
+{
+"position": 0,
+"event": "bought",
+"position": 18,
+"event": "said",
+"position": 20,
+"event": "boosts",
+"position": 20,
+"event": "stake",
+"position": 20,
+"event": "may",
+"position": 21,
+"event": "help",
+"position": 22,
+"event": "prevent",
+"position": 23,
+"event": "seeking",
+"position": 24,
+"event": "ouster",
+"position": 25,
+"event": "announcement",
+"position": 26,
+"event": "explore",
+"position": 27,
+"event": "including",
+"position": 28,
+"event": "possible",
+"position": 29,
+"event": "shareholder",
+"position": 30,
+"event": "value",
+"position": 31,
+"event": "meant",
+"position": 32,
+"event": "particularly",
+"position": 33,
+"event": "take",
+"position": 34,
+"event": "private",
+"position": 35,
+"event": "proof",
+"position": 36,
+"event": "scared",
+"position": 37,
+
+}
+
+Note that the position of each event is indicated by a number in the output, which corresponds to the position of the event in the input text.

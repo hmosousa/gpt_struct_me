@@ -1,0 +1,1 @@
+[["plans", "INTENSIONAL ACTION"], ["redeem", "OCCURRENCE"], ["pay", "INTENSIONAL ACTION"], ["converted", "ASPECTUAL"], ["issue", "INTENSIONAL ACTION"], ["closed", "OCCURRENCE"], ["redeeming", "ASPECTUAL"], ["said", "REPORTING"], ["had", "STATE"]]

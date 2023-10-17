@@ -1,0 +1,28 @@
+[["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"], ["arguido", "Set"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"MP acusa agente da GNR de Braga de peculato e abuso de poder
+O Ministério Público (MP) acusou um militar da GNR de Braga de peculato e abuso de poder por alegadamente ter falsificado os mapas mensais de suplementos remuneratórios, logrando assim receber indevidamente 5.400 euros.
+Segundo nota hoje publicada na página da Procuradoria-Geral Regional do Porto, o arguido era chefe do Núcleo de Investigação Criminal da GNR de Braga.
+“Enquanto responsável pelo preenchimento e envio para processamento dos mapas mensais de suplementos remuneratórios, de novembro de 2011 a outubro de 2016, incluiu o seu nome como beneficiário do suplemento de escala, embora não tivesse direito a receber tal suplemento”, refere a nota.
+O Ministério Público concluiu que, dessa forma, o arguido recebeu indevidamente o montante líquido de 5.400,17 euros.
+O arguido está ainda acusado de ter ordenado aos militares do efectivo do Núcleo de Investigação Criminal, seus subordinados, que o substituíssem na execução do serviço para que ele estava escalado."

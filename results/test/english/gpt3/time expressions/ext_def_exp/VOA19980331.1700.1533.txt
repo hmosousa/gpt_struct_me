@@ -1,0 +1,1 @@
+["recently", "five months ago", "five months", "two to six days", "year or two", "over several years"]

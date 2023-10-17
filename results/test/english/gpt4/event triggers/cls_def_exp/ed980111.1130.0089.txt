@@ -1,0 +1,1 @@
+[["lights", "STATE"], ["heat", "STATE"], ["change", "OCCURRENCE"], ["storm", "OCCURRENCE"], ["maintain", "OCCURRENCE"], ["toured", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["added", "OCCURRENCE"], ["flying", "OCCURRENCE"], ["trying", "I_ACTION"], ["locate", "OCCURRENCE"], ["stranded", "STATE"], ["have", "STATE"], ["going", "ASPECTUAL"], ["live", "OCCURRENCE"]]

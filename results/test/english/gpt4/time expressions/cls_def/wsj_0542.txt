@@ -1,0 +1,10 @@
+[
+["5 p.m. EST, Nov. 6", "Date"],
+["midnight Friday", "Time"],
+["last Friday", "Date"],
+["Sept. 26", "Date"],
+["20% annually", "Set"],
+["12% revenue growth", "Set"],
+["20% growth rate", "Set"],
+["Late last week", "Date"]
+]

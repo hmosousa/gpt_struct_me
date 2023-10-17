@@ -1,0 +1,6 @@
+[
+["this year's", "Date"],
+["early Tuesday", "Time"],
+["two day", "Duration"],
+["two days", "Duration"]
+]

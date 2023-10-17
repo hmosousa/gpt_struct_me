@@ -1,0 +1,28 @@
+[
+"travesty",
+"red carpet",
+"good Muslims",
+"good students",
+"ignorance",
+"fear",
+"bigotry",
+"shifted",
+"targeting",
+"offending",
+"violating",
+"embrace",
+"human freedom",
+"land use issues",
+"objections",
+"reality",
+"religiously",
+"one day",
+"second largest",
+"integrate",
+"American life",
+"problems",
+"face",
+"indication"
+]
+
+Note: The output is a list of strings, where each string is a word or phrase from the input text. The order of the strings is the same as the order in which they appear in the input text.

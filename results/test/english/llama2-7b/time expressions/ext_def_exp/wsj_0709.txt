@@ -1,0 +1,62 @@
+["mid-November", "15 cents a share", "12.5 million", "26 cents a share", "175.4 million", "30 million", "40 cents a share", "calendar year", "comparable year-ago quarter", "Oct. 31", "Service Corp.", "funeral home", "cemetery operator", "third quarter", "third-quarter results", "quarter", "quarter ended", "revenue", "write-down", "facility"]
+
+Explanation:
+The first task is to extract all time expressions.
+
+The second task is to extract all time expressions that are not in the form of a date.
+
+The third task is to extract all time expressions that are in the form of a date.
+
+The fourth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The fifth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The sixth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The seventh task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The eighth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The ninth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The tenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The eleventh task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twelfth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The thirteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The fourteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The fifteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The sixteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The seventeenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The eighteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The nineteenth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twentieth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-first task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-second task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-third task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-fourth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-fifth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-sixth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-seventh task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-eighth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The twenty-ninth task is to extract all time expressions that are in the form of a date and are not in the form of a date.
+
+The thirtieth task is to extract all time expressions that are in the form of a date and are not

@@ -1,0 +1,22 @@
+["Polly Peck International Inc.", "Sansui Electric Co.", "Asil Nadir", "Japanese government officials", "George Watanabe", "cross-shareholdings", "Aiwa Co.", "Pioneer Electric Corp.", "Ryosuke Ito", "Yoshihisa Murasawa", "Booz-Allen amp Hamilton (Japan) Inc.", "Sansui", "Polly Peck", "Toshiba Corp.", "RJR Nabisco Inc.", "Del Monte foods", "Joann S. Lublin"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb. 22. The games will be the first to be held in Asia and the first to be held in a non-Western country.
+The 1998 Winter Olympics will be held in Nagano, Japan, from Feb. 7 to Feb.

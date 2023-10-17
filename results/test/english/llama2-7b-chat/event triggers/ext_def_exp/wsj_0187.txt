@@ -1,0 +1,21 @@
+["taking", "agreed", "participants", "said", "executive", "former", "officials", "government", "subcontractors", "officials", "sign", "accord", "invest", "stake", "customers", "damages", "claims", "proceedings", "Tuesday"]
+
+Note:
+The task is to extract all event triggers from the given text. Event triggers are words or phrases that indicate a significant change or occurrence in the story. In this case, the event triggers are:
+* "agreed"
+* "said"
+* "executive"
+* "former"
+* "officials"
+* "government"
+* "subcontractors"
+* "officials"
+* "sign"
+* "accord"
+* "invest"
+* "stake"
+* "customers"
+* "damages"
+* "claims"
+* "proceedings"
+* "Tuesday"

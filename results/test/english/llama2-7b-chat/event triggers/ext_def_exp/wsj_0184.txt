@@ -1,0 +1,4 @@
+["said", "officials", "anticipates", "called", "questioned", "estimated", "likely", "rose", "spurred", "heard", "adopted", "said", "trimmed", "output"]
+
+Note:
+The input text contains 15 event triggers.

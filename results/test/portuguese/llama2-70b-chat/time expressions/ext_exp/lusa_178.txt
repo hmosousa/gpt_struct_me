@@ -1,0 +1,24 @@
+["hoje", "hoje", "19:23"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract time expressions:
+
+import re
+
+time_expressions = re.findall(r'\b(hoje|sábado|domingo|terça|quarta|quinta|sexta|sétima|mês|ano|semana|dia|noite|manhã|tarde|vespera|madrugada)\b', text)
+
+This code uses regular expressions to find all words that match the time expressions.
+The \b word boundary is used to ensure that the time expressions are matched as whole words, and not parts of other words.
+The re.findall function returns a list of all matches.
+You can then use this list to extract the time expressions from the text.
+
+Note that this code will match all time expressions in the text, regardless of whether they are in the past, present, or future tense.
+If you only want to extract time expressions in a specific tense, you can modify the regular expression accordingly.
+For example, to extract only time expressions in the past tense, you can use the following regular expression:
+
+r'\b(sábado|domingo|terça|quarta|quinta|sexta|sétima|mês|ano|semana|dia|noite|manhã|tarde|vespera|madrugada)\b'
+
+This regular expression will match all time expressions that are in the past tense, while ignoring those in the present or future tense.

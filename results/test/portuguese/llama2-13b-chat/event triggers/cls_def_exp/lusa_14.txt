@@ -1,0 +1,4 @@
+[["tentativa", "I_Action"], ["tráfico", "Occurrence"], ["menores", "Entity"], ["congo", "Entity"], ["rdcongo", "Entity"], ["supostos", "Entity"], ["traficantes", "Entity"], ["levadas", "Occurrence"], ["viajar", "I_Action"], ["comercialização", "Occurrence"], ["detidos", "Occurrence"], ["operação", "Occurrence"], ["colaboração", "Occurrence"], ["populares", "Entity"], ["terceira", "Adjective"], ["registada", "Occurrence"], ["ano", "Numeral"], ["primeira", "Adjective"], ["segunda", "Adjective"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

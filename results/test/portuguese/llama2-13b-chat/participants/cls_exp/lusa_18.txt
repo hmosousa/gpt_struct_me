@@ -1,0 +1,16 @@
+[["uma casa desabitada", "Loc"], ["na freguesia Jardim da Serra", "Loc"], ["no concelho de Câmara de Lobos", "Loc"], ["um incêndio", "Other"], ["danificou totalmente a habitação", "Other"], ["havendo suspeitas de fogo posto", "Other"], ["dito", "Per"], ["a autarquia", "Org"], ["Leonel Correia da Silva", "Per"], ["à agência Lusa", "Other"], ["a habitação", "Loc"], ["não estava habitada", "Other"], ["os danos", "Other"], ["provocados pelo fogo", "Other"], ["são apenas materiais", "Other"], ["Os Bombeiros", "Org"], ["de Câmara de Lobos", "Org"], ["efetuaram o combate ao incêndio", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the information provided in the input text to identify the entities and classes.
+* Each entity should be represented by a list with two strings. The first string is the entity and the second is the class.
+* The classes should be represented by a list of strings.
+
+Please let me know if you need any further clarification or assistance.

@@ -1,0 +1,19 @@
+["identificou", "homens", "apreendeu", "máquinas", "jogo", "illegal", "exploração", "apreendeu", "máquinas", "jogo", "elaborou", "contraordenação", "exploração", "máquinas", "iligais", "suspeitos", "de", "30", "anos", "âmbito", "fiscalização", "estabelecimentos", "restaurante", "bebidas", "telemóvel", "tablet", "computador", "impressora", "nove", "litros", "bebidas", "espirituosas", "estampilha", "fiscal", "remetidos", "Tribunal", "Judicial", "Amarante"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus, anunciou o governo chinês.
+A China está a cumprir um período de quarentena de 14 dias em 28 províncias e regiões, incluindo a capital

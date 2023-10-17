@@ -1,0 +1,4 @@
+[["detido", "I_Action"], ["prisão preventiva", "State"], ["violência doméstica", "Occurrence"], ["refugiou", "Occurrence"], ["amenaças de morte", "Occurrence"], ["suspeito", "I_Action"], ["consumidor habitual", "State"], ["problemas psiquiátricos", "State"], ["ir ao encontro", "Occurrence"], ["prática do crime", "Occurrence"], ["antecedentes criminais", "State"], ["medida de coação", "State"], ["aplicada", "I_Action"], ["reforço", "I_Action"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

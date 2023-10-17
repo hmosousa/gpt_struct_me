@@ -1,0 +1,3 @@
+["A GNR", "hoje", "resgatou", "25 cães", "um homem", "58 anos", "crime", "maus-tratos", "animais de companhia", "concelho", "Seia", "distrito", "Guarda", "Comando Territorial", "GNR", "Guarda", "ação", "terça-feira", "Núcleo de Investigação de Crimes e Contraordenações Ambientais", "NICCOA", "Núcleo de Proteção Ambiental", "NPA", "Gouveia", "mandado", "busca", "domiciliária", "cenário", "sobrepopulação", "sem condições", "higiene", "falta", "trato", "animais", "resgatados", "sem identificação", "eletrônica", "registo", "vacinação", "antirrábica", "habitação", "Veterinário", "Municipal", "Seia", "colaborou", "GNR", "homem", "arguido", "factos", "Tribunal Judicial", "Seia", "que"]
+
+Please note that the input text is in Portuguese.

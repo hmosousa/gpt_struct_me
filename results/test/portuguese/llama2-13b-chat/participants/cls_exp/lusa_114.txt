@@ -1,0 +1,10 @@
+[["Luanda Medical Center", "Fac"], ["hotel", "Obj"], ["projeto imobiliário", "Fac"], ["Torres Eucaliptos", "Obj"], ["Instituto Sapiens", "Fac"], ["Rua Amílcar Cabral", "Loc"], ["distrito da Ingombota", "Loc"], ["empresas Méssene – Investimentos Limitada", "Org"], ["Heavy Group – Investimentos Limitada", "Org"], ["Universal Sabedoria", "Org"], ["LMC", "Org"], ["empresas privadas", "Org"], ["Instituto Nacional de Segurança Social", "Org"], ["o Estado", "Org"], ["a PGR", "Org"], ["a nota", "Other"], ["os bens", "Fac"], ["o património imobiliário do Estado", "Fac"], ["livre de quaisquer ónus ou encargos", "Other"], ["a utilidade pública da clínica Luanda Medical Center", "Other"]]
+
+Note:
+
+* "Fac" stands for facility
+* "Obj" stands for object
+* "Per" stands for person
+* "Loc" stands for location
+* "Org" stands for organization
+* "Other" stands for anything else that does not fit in the other categories.

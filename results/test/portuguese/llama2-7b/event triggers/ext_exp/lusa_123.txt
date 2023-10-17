@@ -1,0 +1,26 @@
+["ferida", "acidente", "autoestrada", "morreu", "hospital", "criança", "12", "ferida", "gravidade", "acidente", "ocorrido", "autoestrada", "Norte", "zona", "São", "Talha", "Loures", "sábado", "noite", "acabou", "morreu", "hospital", "ferida", "encarcerada", "viatura", "transportada", "hospital", "trânsito", "cortado", "circulava", "faixa", "lateral", "operacionais", "bombeiros", "INEM", "polícia", "viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Crianças de 10 anos são vítimas de acidente na autoestrada do Norte
+Um acidente na autoestrada do Norte, na zona de São João da Talha, Loures, no sábado à noite, deixou duas crianças de 10 anos feridas, uma delas gravemente, e um adulto ferido sem gravidade.
+O acidente, que ocorreu cerca das 21:40 de sábado, ao quilómetro quatro da autoestrada do Norte, no sentido Norte/Sul, envolveu três ligeiros e provocou outros quatro feridos, todos sem gravidade.
+Anteriormente, fonte do Comando Geral da GNR tinha indicado à Lusa que a criança de 12 anos tinha ficado encarcerada numa das viaturas envolvidas no acidente e foi, posteriormente, transportada para o hospital.
+O trânsito chegou a estar cortado, mas pelas 23:30 de sábado já circulava “pela faixa lateral”.
+No local do acidente estiveram 22 operacionais dos bombeiros, do Instituto Nacional de Emergência Médica (INEM) e da polícia, apoiados por 10 viaturas."
+
+Output:
+["feridas", "acidente", "autoestrada", "vítimas", "adulto", "ferido", "gravidade", "acidente", "ocorrido", "autoestrada", "Norte", "zona", "São", "Talha", "Loures", "sábado", "noite", "deixou", "feridas", "uma", "delas", "gravemente", "envolveu", "três", "provocou", "quatro", "feridos", "todos", "sem", "gravidade", "indicado", "Lusa", "ferida", "encarcerada", "viatura", "transportada", "hospital", "trânsito", "cortado", "circulava", "faixa", "lateral", "operacionais", "bombeiros", "INEM", "polícia", "viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Crianças de 10 anos são vítimas de acidente na autoestrada do Norte
+Um acidente na autoestrada do Norte, na zona de São João da Talha, Loures, no sábado à noite, deixou duas crianças de 10 anos feridas, uma delas gravemente, e um adulto ferido sem gravidade.
+O acidente, que ocorreu cerca das 21:40 de sábado, ao quilómetro quatro da autoestrada do Norte, no sentido Norte/Sul, envolveu três ligeiros e provocou outros quatro feridos, todos sem gravidade.
+Anteriormente, fonte do Comando Geral da GNR tinha indicado à Lusa que a criança de 12 anos tinha ficado encarcerada numa das viaturas envolvidas no acidente e foi, posteriormente, transportada para o hospital.
+O trânsito chegou a estar cortado, mas pelas 23:30 de sábado já circulava “pela faixa lateral”.
+No local do acidente estiveram 22 operacionais dos bombeiros, do Instituto Nacional

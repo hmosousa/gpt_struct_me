@@ -1,0 +1,1 @@
+[["agreed", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["assume", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["said", "REPORTING"], ["said", "REPORTING"], ["said", "REPORTING"], ["plans", "I_STATE"], ["purchase", "OCCURRENCE"], ["has", "STATE"], ["outstanding", "STATE"], ["plans", "I_STATE"]]

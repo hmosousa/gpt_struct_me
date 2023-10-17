@@ -1,0 +1,1 @@
+[["desabamento", "Event"], ["Hyderabad", "Location"], ["chuvas", "Cause"], ["8", "Number"], ["20", "Time"], ["sul da Ásia", "Location"], ["550", "Number"], ["junho", "Time"]]

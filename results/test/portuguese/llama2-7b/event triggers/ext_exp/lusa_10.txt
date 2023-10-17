@@ -1,0 +1,22 @@
+["feriu", "ligeramente", "com", "bagos", "borracha", "balas", "borracha", "homem", "usava", "arma", "fogo", "Cabeceiras", "Basto", "GNR", "feriu", "ligeiramente", "com", "bagos", "borracha", "balas", "borracha", "homem", "estava", "fazendo", "disparos", "para", "ar", "que", "se", "recusou", "parar", "dito", "fonte", "policial", "caso", "deu", "se", "freguesia", "Refojos", "Basto", "concelho", "Cabeceiras", "Basto", "distrito", "Braga", "pouco", "antes", "00", "00", "homem", "atingido", "pernas", "fonte", "Comando", "Territorial", "GNR", "Braga", "dito", "operacionais", "atingiram", "desobedecer", "ordem", "cessar", "disparos", "intimidação", "ar", "acrescentou", "fonte", "afirmou", "desconhecer", "comportamento", "detido", "tratado", "ferimentos", "ligeiros", "unidade", "hospitalar", "detido", "posto", "GNR", "Cabeceiras", "presente", "juiz", "instrução", "fixação", "medidas", "coação", "tidas", "convenientes", "caso", "envolveu", "armas", "fogo", "Polícia", "Judiciária", "informada", "detalhes", "indicou", "fonte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de 100 milhões de pessoas em todo o mundo é um recorde mundial, segundo a Agência de Notícias de Emergência (WHO).
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A agência de notícias de emergência (WHO) informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.
+A WHO informou que 100 milhões de pessoas estão em quarentena em todo o mundo, um recorde mundial.

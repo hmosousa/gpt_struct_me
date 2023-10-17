@@ -1,0 +1,8 @@
+[["homem", "I_Action"], ["morreu", "State"], ["atingido", "Occurrence"], ["árvore", "Occurrence"], ["procedia", "Occurrence"], ["local", "Location"], ["freguesia", "Location"], ["distrito", "Location"], ["Viana do Castelo", "Location"], ["declare", "I_Action"], ["óbito", "State"], ["fazendo", "I_Action"], ["trabalhos florestais", "Occurrence"], ["caiu", "Occurrence"], ["em cima", "Occurrence"], ["alerta", "Occurrence"], ["14:25", "Time"], ["meio aéreo", "Aspectual"], ["ambulâncias", "Aspectual"], ["informações iniciais", "Occurrence"], ["existen", "Occurrence"], ["psicólogos", "Aspectual"], ["local", "Location"], ["compareceram", "I_Action"], ["total", "Quantity"], ["operacionais", "Aspectual"], ["viaturas", "Aspectual"], ["ambulância", "Aspectual"], ["SIV", "Aspectual"]]
+
+Note:
+The classes are based on the Penn Treebank tag set and were chosen based on their relevance to the task of event extraction. The classes are not mutually exclusive, and an event can be classified under multiple classes.
+
+Please help me to extract and classify all event triggers in the given text.
+
+Thank you!

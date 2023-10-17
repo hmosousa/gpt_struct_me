@@ -1,0 +1,13 @@
+[["GNR", "I_Action"], ["encerrou", "I_Action"], ["restaurante", "State"], ["reunia", "Occurrence"], ["pessoas", "Occurrence"], ["localidade", "State"], ["concelho", "State"], ["Paços de Ferreira", "State"], ["detetaram", "Occurrence"], ["estabelecimento", "State"], ["fiscalização", "Occurrence"], ["normas", "State"], ["pandemia", "State"], ["covid-19", "State"], ["proprietária", "State"], ["identificada", "Occurrence"], ["dada ordem", "I_Action"], ["terminar", "I_Action"], ["elaboração", "I_Action"], ["auto de contraordenação", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR", "restaurante", etc.) and the second string is the class (e.g. "I_Action", "State", etc.). The classes are:
+
+* I_Action: an action or event that is taking place or has taken place
+* State: a state or condition that exists or existed at a particular time
+* Occurrence: an event or happening that has taken place
+* Reporting: a statement or piece of information that is being reported or communicated
+* Perception: a sensory experience or interpretation of the world around us
+* Aspectual: a description of a state or condition that is true or applicable at a particular time
+* Intensional Action: an action that is intended or planned to be taken
+* Intensional State: a state that is intended or planned to exist.

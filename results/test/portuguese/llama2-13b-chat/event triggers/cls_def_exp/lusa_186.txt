@@ -1,0 +1,4 @@
+[["homem", "I_Action"], ["caiu", "Occurrence"], ["profundidade", "Occurrence"], ["resgatado", "I_Action"], ["sem ferimentos graves", "State"], ["queda", "Occurrence"], ["ocorreu", "Occurrence"], ["tampa", "Occurrence"], ["situado", "Occurrence"], ["em cima", "Occurrence"], ["acabou", "Occurrence"], ["cada", "Occurrence"], ["água", "Occurrence"], ["equipa", "I_Action"], ["com auxílio de cordas", "I_Action"], ["resgataram", "I_Action"], ["estabilizado", "State"], ["recusou", "I_Action"], ["transporte", "I_Action"], ["GNR", "I_Action"], ["tomou conta", "I_Action"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

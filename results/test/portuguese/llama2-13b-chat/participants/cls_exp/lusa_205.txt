@@ -1,0 +1,8 @@
+[["Polícia Judiciária", "Org"], ["suspeito", "Per"], ["de pornografia de menores", "Other"], ["em Évora", "Loc"], ["a detenção", "Other"], ["em flagrante delito", "Other"], ["de um homem de 56 anos", "Per"], ["residente no distrito de Évora", "Loc"], ["por suspeitas", "Other"], ["da prática do crime", "Other"], ["de pornografia de menores através de telemóveis", "Other"], ["em comunicado", "Other"], ["a PJ indicou", "Other"], ["que o suspeito", "Per"], ["foi localizado e detido", "Other"], ["por elementos", "Org"], ["da Unidade Local de Investigação Criminal de Évora", "Org"], ["a investigação", "Other"], ["surgiu na sequência", "Other"], ["de informação recolhida", "Other"], ["pela PJ", "Org"], ["adiantando que", "Other"], ["após uma busca domiciliária", "Other"], ["foram apreendidos", "Other"], ["á homem", "Per"], ["vários telemóveis", "Other"], ["que continham", "Other"], ["mais de duas centenas de ficheiros informáticos", "Other"], ["Segundo a PJ", "Other"], ["o suspeito", "Per"], ["utilizava esses equipamentos", "Other"], ["para partilhar conteúdos", "Other"], ["com imagens de menores", "Other"], ["em situações de cariz sexual", "Other"], ["O detido", "Per"], ["ja referenciado", "Other"], ["pelo mesmo tipo de crime", "Other"], ["vai ser presente", "Other"], ["a primeiro interrogatório judicial", "Other"], ["para a eventual aplicação", "Other"], ["de medidas de coação", "Other"]]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please help me with this task.
+
+Thank you.

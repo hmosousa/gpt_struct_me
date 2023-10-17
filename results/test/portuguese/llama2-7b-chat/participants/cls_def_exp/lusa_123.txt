@@ -1,0 +1,10 @@
+[["criança", "Per"], ["ferida", "Per"], ["acidente", "Per"], ["autoestrada", "Loc"], ["Norte", "Loc"], ["São João da Talha", "Loc"], ["Loures", "Loc"], ["hospital", "Org"], ["GNR", "Org"], ["trânsito", "Other"], ["faixa lateral", "Other"], ["bombeiros", "Org"], ["INEM", "Org"], ["polícia", "Org"], ["viaturas", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned, such as people, places, and organizations.
+* The output is a list of all the entities mentioned in the input, classified according to their type (person, organization, location, nature, facility, or other).
+* The classes are defined based on the context of the input, and they can be used to extract and classify similar entities in other texts.
+* The output list can be used for various applications, such as information retrieval, text summarization, or machine learning.

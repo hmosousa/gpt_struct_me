@@ -1,0 +1,34 @@
+["clear", "approval", "permits", "second-largest", "acquire", "first", "option", "1990"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court has agreed to hear a case that could determine whether the government can force a person to testify against himself.
+The case involves a man who was convicted of murder and sentenced to death in 1985.
+The man, who was not identified in court papers, was convicted of murdering a man in a bar in 1983.
+The man's attorneys argued that he was forced to testify against himself by a prosecutor who threatened to charge him with murder if he did not testify.
+The man's attorneys argued that the prosecutor's threat violated the Fifth Amendment, which protects against self-incrimination.
+The Supreme Court agreed to hear the case, which is scheduled to be argued in the fall.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Amendment protects against self-incrimination, but the court has not ruled on whether the Fifth Amendment protects against self-incrimination when a person is forced to testify against himself.
+The case is the latest in a series of cases involving the Fifth Amendment.
+The Supreme Court has ruled that the Fifth Am

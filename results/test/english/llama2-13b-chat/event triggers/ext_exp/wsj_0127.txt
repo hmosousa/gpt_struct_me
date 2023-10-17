@@ -1,0 +1,4 @@
+["slipped", "net", "income", "six", "months", "ended", "Oct", "1", "5%", "89.7", "million", "141.9", "million", "16", "pence", "share", "profit", "continuing", "lines", "fell", "10%", "130.6", "million", "one-time", "gains", "losses", "period", "year", "operations", "contributed", "34", "million", "before", "tax", "pretax", "profit", "fell", "3.7%", "133", "million", "analysts", "expectations", "dividend", "4.6", "pence", "15%", "4", "pence", "year", "earlier", "sales", "fell", "20%", "722", "million", "hurt", "disposal", "operations", "restructuring"]
+
+Format:
+JSON-parseable list of strings.

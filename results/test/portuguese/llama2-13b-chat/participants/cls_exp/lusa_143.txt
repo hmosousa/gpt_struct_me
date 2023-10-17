@@ -1,0 +1,14 @@
+[["GNR", "Org"], ["identificou", "Verb"], ["dois homens", "Per"], ["e", "Other"], ["apreendeu", "Verb"], ["quatro máquinas", "Obj"], ["de jogo", "Other"], ["e", "Other"], ["elaborou", "Verb"], ["11 autos", "Other"], ["de contraordenação", "Other"], ["por exploração", "Other"], ["das máquinas", "Other"], ["ilegais", "Other"], ["em", "Loc"], ["Vila Meã", "Loc"], ["Amarante", "Loc"], ["distrito", "Loc"], ["do", "Other"], ["Porto", "Loc"], ["fonte", "Other"], ["policial", "Other"], ["Além", "Other"], ["das máquinas", "Other"], ["de jogo", "Other"], ["foi", "Other"], ["apreendido", "Verb"], ["um", "Other"], ["telemóvel", "Obj"], ["um", "Other"], ["tablet", "Obj"], ["um", "Other"], ["computador", "Obj"], ["com", "Other"], ["impressora", "Other"], ["e", "Other"], ["nove", "Other"], ["litros", "Other"], ["de", "Other"], ["bebidas", "Other"], ["espirituosas", "Other"], ["sem", "Other"], ["estampilha", "Other"], ["fiscal", "Other"], ["Os", "Per"], ["factos", "Other"], ["foram", "Verb"], ["remetidos", "Other"], ["ao", "Other"], ["Tribunal", "Org"], ["Judicial", "Org"], ["de", "Other"], ["Amarante", "Loc"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Obj" stands for "Object"
+- "Other" stands for "Other"
+- "Loc" stands for "Location"
+- "Verb" stands for "Verb"
+
+Hint:
+You can use the Stanford CoreNLP library to perform the NER task.
+
+I hope this helps! Let me know if you have any questions or need further clarification.

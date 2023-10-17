@@ -1,0 +1,9 @@
+	[["um homem", "Per"], ["PSP", "Org"], ["16 feridos", "Other"], ["fogo", "Obj"], ["prédio habitacional", "Loc"], ["Aveiro", "Loc"], ["feridos", "Per"], ["fumo", "Other"], ["interceção", "Per"], ["peças de roupa", "Other"], ["hall de entrada", "Loc"], ["transporte", "Other"], ["hospitalar", "Other"], ["incêndio", "Obj"], ["relevo", "Other"], ["materiais", "Other"], ["relojoamentos", "Other"], ["Polícia Judiciária", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several participants, including people, organizations, and locations.
+* The participants are classified into different categories based on their roles and relationships to the event.
+* The output list includes all the participants mentioned in the input, along with their corresponding classes.

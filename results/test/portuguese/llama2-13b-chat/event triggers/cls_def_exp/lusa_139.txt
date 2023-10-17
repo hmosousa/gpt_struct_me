@@ -1,0 +1,13 @@
+[["deteta", "I_Action"], ["descarga", "Occurrence"], ["efluentes", "Occurrence"], ["suinícolas", "Occurrence"], ["para", "Occurrence"], ["soil", "Occurrence"], ["proveniente", "Occurrence"], ["exploração", "Occurrence"], ["agropecuária", "Occurrence"], ["militares", "I_Action"], ["patrulhamento", "Occurrence"], ["efluentes", "Occurrence"], ["armazenamento", "Occurrence"], ["sem", "Occurrence"], ["qualquer", "Occurrence"], ["tipo", "Occurrence"], ["mechanismo", "Occurrence"], ["depuração", "Occurrence"], ["punto", "Occurrence"], ["de", "Occurrence"], ["origen", "Occurrence"], ["elaboração", "I_Action"], ["auto", "Occurrence"], ["contraordenação", "Occurrence"], ["punível", "Occurrence"], ["coima", "Occurrence"], ["valor", "Occurrence"], ["máximo", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: Intensional Action
+* Occurrence: Event
+* Reporting: Reporting
+* Perception: Perception
+* Aspectual: Aspectual
+* Intensional State: Intensional State
+
+Your task is to extract and classify all event triggers from the input text.

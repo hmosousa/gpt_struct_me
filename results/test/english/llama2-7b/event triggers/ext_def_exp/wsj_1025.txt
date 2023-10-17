@@ -1,0 +1,31 @@
+["net", "loss", "third", "quarter", "seasonally", "slow", "leap", "operating", "revenue", "company", "reported", "quarter", "surged", "revenue", "current", "quarter", "extremely", "well"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of genetically modified corn that is resistant to a common weed killer, a move that could help farmers and boost the biotechnology industry.
+The Environmental Protection Agency is expected to decide by the end of the year whether to approve the sale of the corn, which is engineered to be resistant to the herbicide glyphosate, according to a person familiar with the matter.
+The corn, which is made by Monsanto Co., is designed to be sprayed with glyphosate, which is sold under the brand name Roundup.
+The corn is designed to be resistant to the herbicide, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is also designed to be resistant to a second herbicide, glufosinate, which is sold under the brand name Liberty.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to spray the weed killer on their fields without harming the corn.
+The corn is designed to be resistant to both herbicides, allowing farmers to

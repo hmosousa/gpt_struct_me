@@ -1,0 +1,6 @@
+[
+["yesterday", "Date"],
+["Dec. 15", "Date"],
+["the fiscal year ended Jan. 31", "Date"],
+["1992", "Date"]
+]

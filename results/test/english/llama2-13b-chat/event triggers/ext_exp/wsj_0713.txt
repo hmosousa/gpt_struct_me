@@ -1,0 +1,4 @@
+["takeover", "majority", "stake", "Banque", "Internationale", "de", "Placement", "BIP", "approval", "permit", "West", "Germany", "second", "largest", "bank", "acquire", "shares", "French", "investment", "bank", "first", "step", "Dresdner", "buy", "32.99%", "1,015", "francs", "$162", "share", "528", "million", "francs", "$84.7", "million", "Dresdner", "bank", "also", "buy", "all", "shares", "tendered", "shareholders", "Paris", "Stock", "Exchange", "same", "price", "from", "today", "through", "November", "17", "option", "buy", "30.84%", "stake", "Societe", "Generale", "after", "January", "1990", "1,015", "francs", "$162", "share"]
+
+Format:
+JSON-parseable list of strings.

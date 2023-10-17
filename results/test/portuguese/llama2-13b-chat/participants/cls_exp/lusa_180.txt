@@ -1,0 +1,11 @@
+[["um homem", "Per"], ["indiciado", "Other"], ["por", "Other"], ["falsificação", "Other"], ["testes", "Other"], ["com", "Other"], ["resultados", "Other"], ["negativos", "Other"], ["anunciou", "Other"], ["hoje", "Loc"], ["o", "Per"], ["porta-voz", "Org"], ["da", "Other"], ["polícia", "Org"], ["moçambicana", "Loc"], ["na", "Loc"], ["cidade", "Loc"], ["de", "Other"], ["Maputo", "Loc"], ["o", "Per"], ["indiciado", "Other"], ["trabalha", "Other"], ["com", "Other"], ["outro", "Other"], ["indivíduo", "Other"], ["que", "Other"], ["agora", "Other"], ["se", "Other"], ["encontra", "Other"], ["foragido", "Other"], ["segundo", "Other"], ["as", "Other"], ["autoridades", "Org"], ["estamos", "Other"], ["a", "Other"], ["trabalhar", "Other"], ["para", "Other"], ["localização", "Other"], ["do", "Other"], ["seu", "Other"], ["comparsa", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Other" stands for "Other"
+- "Loc" stands for "Location"
+- "Fac" stands for "Facility"
+- "Obj" stands for "Object"
+
+Please let me know if you need any further clarification or details.

@@ -1,1 +1,0 @@
-[["210 years", "DURATION"], ["Friday", "DATE"], ["next year", "DATE"], ["the 2000 Olympics", "DATE"], ["the 100th anniversary of Australian federation", "DATE"], ["several years ago", "DURATION"], ["about 51 percent this year", "DATE"], ["since 1901", "DURATION"], ["almost a hundred years", "DURATION"], ["his unsuccessful 1996 campaign", "DATE"]]

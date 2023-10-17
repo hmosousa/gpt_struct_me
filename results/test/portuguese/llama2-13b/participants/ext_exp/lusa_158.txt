@@ -1,0 +1,26 @@
+["um homem de 48 anos", "morreu", "vítima", "colisão", "registada", "entre", "veículos ligeiros", "freguesia de Chorente", "concelho de Barcelos (Braga)", "indicou", "fonte", "Comando Distrital de Operações de Socorros (CDOS)", "Braga", "acidente", "veículos", "registado", "as 13:00", "vítima mortal", "condutor", "veículo", "ferido ligeiro", "cerca de 20 anos de idade", "transportado", "Hospital de Barcelos", "adiantou", "fonte", "CDOS", "Bombeiros Voluntários", "Viatodos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque terrorista de 11 de Setembro de 2001 subiu para oito, após a morte de um homem que sofria de câncer de pulmão.
+O homem, que tinha 71 anos, morreu no dia 10 de Setembro, mas a notícia só foi divulgada hoje, informou a Comissão de Vítimas de Nova Iorque.
+O homem, que trabalhava como mecânico, foi um dos 10.000 pessoas que trabalharam no World Trade Center, que foi destruído no ataque terrorista.
+O homem, que trabalhava no 106º andar do World Trade Center, foi exposto a fumaça e poeiras durante os ataques, que ocorreram em 2001.
+O homem, que fumava, foi diagnosticado com câncer de pulmão em 2003 e morreu no dia 10 de Setembro deste ano.
+O homem foi o primeiro vítima do ataque terrorista a morrer de câncer de pulmão, informou a Comissão de Vítimas de Nova Iorque.
+O homem foi o 1.641 vítima do ataque terrorista, que matou 2.753 pessoas."
+
+Output:
+["Autoridades de Nova Iorque", "anunciaram", "o número", "mortos", "ataque terrorista", "subiu", "8", "homem", "sofria", "câncer de pulmão", "homem", "71 anos", "morreu", "dia 10 de Setembro", "divulgada", "Comissão de Vítimas", "Nova Iorque", "trabalhava", "World Trade Center", "destruído", "ataque terrorista", "trabalhava", "106º andar", "World Trade Center", "exposto", "fumaça", "poeiras", "ataques", "ocorreram", "2001", "fumava", "diagnosticado", "câncer de pulmão", "2003", "morreu", "dia 10 de Setembro", "ano", "vítima", "ataque terrorista", "morrer", "câncer de pulmão", "1.641 vítima", "ataque terrorista", "matou", "2.753 pessoas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque terrorista de 11 de Setembro de 2001 subiu para oito, após a morte de um homem que sofria de câncer de pulmão.
+O homem, que tinha 71 anos, morreu no dia 10 de Setembro, mas a notícia só foi divulgada hoje, informou a Comissão de Vítimas de Nova Iorque.
+O hom

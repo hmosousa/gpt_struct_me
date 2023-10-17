@@ -1,0 +1,7 @@
+[
+["the next several days", "Duration"],
+["Yesterday", "Date"],
+["today", "Date"],
+["today", "Date"],
+["a while", "Duration"]
+]

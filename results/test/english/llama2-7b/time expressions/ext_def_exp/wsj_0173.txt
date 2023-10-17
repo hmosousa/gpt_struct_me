@@ -1,0 +1,29 @@
+["Coleco Industries Inc.", "a once high-flying toy maker", "whose stock peaked at $65 a share in the early 1980s", "filed a Chapter 11 reorganization plan", "that provides just 1.125 cents a share for common stockholders", "Under the plan", "unsecured creditors", "who are owed about $430 million", "would receive about $92 million", "or 21 cents for each dollar they are owed", "In addition", "they will receive stock in the reorganized company", "which will be named Ranger Industries Inc.", "After these payments", "about $225,000 will be available for the 20 million common shares outstanding", "The Avon", "Conn.", "company's fortunes plunged", "But Coleco bounced back with the introduction of the Cabbage Patch dolls", "whose sales hit $600 million in 1985", "But as the craze died", "Coleco failed to come up with another winner", "and filed for bankruptcy-law protection in July 1988", "The plan was filed jointly with unsecured creditors in federal bankruptcy court in New York and must be approved by the court."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer, the Agriculture Department said Thursday.
+The decision by the department's Animal and Plant Health Inspection Service means that the corn, which is engineered to resist the herbicide Roundup, can be sold commercially.
+The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for commercial sale in the United States.
+The company has said it plans to sell the corn to farmers in the Midwest and Southwest.
+The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health."
+
+Output:
+["The U.S. government", "has decided to allow the sale of a new type of genetically engineered corn", "that is resistant to a common weed killer", "the Agriculture Department said Thursday", "The decision by the department's Animal and Plant Health Inspection Service", "means that the corn", "which is engineered to resist the herbicide Roundup", "can be sold commercially", "The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health", "The corn", "which is made by Monsanto Co.", "is the first genetically engineered crop to be approved for commercial sale in the United States", "The company has said it plans to sell the corn to farmers in the Midwest and Southwest", "The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer, the Agriculture Department said Thursday.
+The decision by the department's Animal and Plant Health Inspection Service means that the corn, which is engineered to resist the herbicide Roundup, can be sold commercially.
+The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for commercial sale in the United States.
+The company has said it plans to sell the corn to farmers in the Midwest and Southwest.
+The decision was made after the department's scientists concluded that the corn poses no threat to the environment or to human health."
+
+Output:
+["The U.S. government", "has decided to allow the sale of a new type of genetically engineered corn", "that is resistant to a common weed k

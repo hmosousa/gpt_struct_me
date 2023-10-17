@@ -1,0 +1,5 @@
+["said", "raised", "proceeds", "reduction", "expense", "notes", "interest", "periodic", "offered", "underwriter", "principal", "amount", "yesterday", "closed", "down", "shares", "Merrill", "Lynch", "Capital", "Markets", "inc.", "Blockbuster", "Entertainment", "common", "stock", "closed", "New", "York", "Exchange", "trading"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase from the input text. The list is sorted alphabetically.

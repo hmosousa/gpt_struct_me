@@ -1,0 +1,2 @@
+
+["proposed", "acquire", "price", "shares", "closed", "yesterday", "trading", "committee", "response", "occurrence", "sold", "accounted", "separately", "income", "fell", "net", "reported", "third", "sales", "rose"]

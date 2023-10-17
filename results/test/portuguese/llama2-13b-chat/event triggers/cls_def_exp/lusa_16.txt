@@ -1,0 +1,33 @@
+[["sofreu", "I_Action"], ["queimaduras", "Occurrence"], ["terceiro grau", "Aspectual"], ["nos membros", "Occurrence"], ["sobre", "Reporting"], ["incêndio", "Occurrence"], ["na sua casa", "Location"], ["em Arcozelo", "Location"], ["Vila Nova de Gaia", "Location"], ["disse", "Reporting"], ["fonte", "Reporting"], ["dos Sapadores locais", "Reporting"], ["no combate às chamas", "Occurrence"], ["começaram", "Occurrence"], ["na cozinha da casa", "Location"], ["estiveram", "Reporting"], ["os Sapadores de Vila Nova de Gaia", "Reporting"], ["os Bombeiros da Aguda", "Reporting"], ["assistido no local", "I_Action"], ["foi", "I_Action"], ["conduzido", "I_Action"], ["ao Centro Hospitalar de Vila Nova de Gaia/Espinho", "Location"], ["o incêndio", "Occurrence"], ["consumiu parcialmente a habitação", "Occurrence"], ["foi dado", "Aspectual"], ["extinto", "Aspectual"], ["às 8:51", "Aspectual"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "sofreu", "queimaduras") and the second string is the class (e.g. "I_Action", "Occurrence").
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action.
+
+For example, in the first input text, the event triggers are:
+
+* "pediu" (I_Action)
+* "desculpa" (State)
+* "erros" (Occurrence)
+* "levaram" (Occurrence)
+* "mortes" (Occurrence)
+* "quarentena" (State)
+* "divulgação" (Occurrence)
+* "explicou" (Reporting)
+
+In the second input text, the event triggers are:
+
+* "sofreu" (I_Action)
+* "queimaduras" (Occurrence)
+* "terceiro grau" (Aspectual)
+* "nos membros" (Occurrence)
+* "sobre" (Reporting)
+* "incêndio" (Occurrence)
+* "na sua casa" (Location)
+* "em Arcozelo" (Location)
+* "Vila Nova de Gaia" (Location)
+* "disse" (Reporting)
+* "fonte" (Reporting)
+
+Your task is to extract and classify all event triggers from the input text, using the classes you were given (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).

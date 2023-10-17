@@ -1,0 +1,16 @@
+[["Sílvia Lutucuta", "Per"], ["a ministra da Saúde de Angola", "Per"], ["do Hospital Geral da província do Cunene", "Fac"], ["uma nota do Ministério da Saúde", "Org"], ["o incêndio registado na noite de segunda-feira", "Other"], ["as áreas do bloco operatório", "Fac"], ["enfermarias cirúrgicas", "Fac"], ["o posto de armazenamento de oxigênio", "Fac"], ["os pacientes", "Per"], ["para outras unidades hospitalares da zona", "Other"], ["uma equipa da linha da frente", "Org"], ["para evitar o pior com os demais doentes", "Other"], ["Todos os pacientes", "Per"], ["foram transferidos", "Other"], ["em vários centros de saúde", "Other"], ["para melhor atendimento", "Other"], ["serão colocados", "Other"], ["no novo Hospital Municipal de Cuanhama", "Fac"], ["que se encontra em fase final das obras", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes.
+* The entities are people, organizations, and locations.
+* The classes are objects, facilities, and other.
+* Some entities can be classified into more than one class.
+* The output should be a JSON-parseable list of lists, where each list contains two strings: the entity and the class.

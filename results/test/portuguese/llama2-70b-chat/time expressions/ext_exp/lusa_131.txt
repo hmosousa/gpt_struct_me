@@ -1,0 +1,43 @@
+["quinta-feira", "30 nov 2020", "pela instalação deste tipo de culturas em águas interiores sem qualquer licenciamento", "pela apreensão dos respetivos viveiros", "setembro", "final do ano", "menos de uma semana"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract time expressions:
+
+import re
+
+time_expressions = re.findall(r'\b(hoje|ontem|anteontem|manhã|tarde|noite|minuto|hora|dia|semana|mês|ano|década|século)\b', text)
+
+This code uses regular expressions to find all words that match the time expressions.
+
+You can also use the following code to extract numbers:
+
+import re
+
+numbers = re.findall(r'\d+', text)
+
+This code uses regular expressions to find all numbers in the text.
+
+You can then use a list comprehension to extract the time expressions and numbers and create a list of JSON-parseable strings.
+
+For example:
+
+time_expressions = [time_expression for time_expression in time_expressions if time_expression.isdigit()]
+
+numbers = [number for number in numbers if number.isdigit()]
+
+output = ["{0:.0f}".format(number) for number in numbers]
+
+output = ["'{0:.0f}'".format(number) for number in numbers]
+
+You can then use the JSON.dumps() function to convert the list to a JSON-parseable string.
+
+For example:
+
+import json
+
+output = json.dumps(output)
+
+Note that this is just a hint and you may need to modify the code to fit your specific needs.

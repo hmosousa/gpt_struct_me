@@ -1,0 +1,17 @@
+[
+"DD Acquisition Corp.",
+"Unicorp Canada Corp.",
+"Kingsbridge Capital Group",
+"Cara Operations Ltd.",
+"Dunkin' Donuts Inc.",
+"Delaware",
+"poison pill rights",
+"employee stock ownership plans",
+"bidders",
+"shares outstanding",
+"tendered",
+"competing bids",
+"deadline",
+"process",
+"based"
+]

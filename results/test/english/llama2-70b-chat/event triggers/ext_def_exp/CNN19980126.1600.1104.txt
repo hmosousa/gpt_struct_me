@@ -1,0 +1,1 @@
+["slashing", "freezing", "shaking", "cutting", "revitalize", "dropped", "applauded", "shake", "downsizing", "waste", "good", "excellent", "approaching", "caution", "down"]

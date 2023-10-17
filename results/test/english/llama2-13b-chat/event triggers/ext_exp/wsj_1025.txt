@@ -1,0 +1,4 @@
+["net", "loss", "year", "earlier", "operating", "revenue", "surge", "latest", "period", "usually", "conducted", "quarter", "begun", "extremely"]
+
+Format:
+JSON-parseable list of strings.

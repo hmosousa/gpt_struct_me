@@ -1,0 +1,14 @@
+[["Avião", "Obj"], ["aterrou de emergência", "Per"], ["no aeroporto de Lisboa", "Loc"], ["devido a falha no motor", "Other"], ["Um avião", "Per"], ["aterrou hoje", "Per"], ["de emergência", "Per"], ["no Aeroporto Humberto Delgado", "Loc"], ["em Lisboa", "Loc"], ["devido a uma falha no motor", "Other"], ["o alerta", "Per"], ["para a aterragem de emergência", "Per"], ["por a aeronave ter um motor parado", "Other"], ["segundo a mesma fonte", "Other"], ["a 17:50", "Other"], ["a aeronave aterrou", "Per"], ["pelas 18:32", "Per"], ["sem incidentes dignos de registo", "Other"], ["o avião", "Per"], ["pertencia à companhia aérea Jota Aviation", "Other"], ["e fazia a ligação", "Per"], ["entre os aeroportos de Farnborough", "Loc"], ["na Inglaterra", "Loc"], ["e Lisboa", "Loc"], ["de acordo com o 'site'", "Other"], ["da ANA-Aeroportos de Portugal", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the information provided in the text to identify the entities and their classes.
+* Each entity should be classified only once, and the class should be a valid category.
+* The output should be a JSON-parseable list.

@@ -1,0 +1,10 @@
+[
+"called",
+"expelled",
+"challenge",
+"terms",
+"opinion",
+"mechanism",
+"decision",
+"agreed"
+]

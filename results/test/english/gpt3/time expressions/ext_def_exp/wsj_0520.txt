@@ -1,0 +1,1 @@
+["six months", "Friday", "June", "March", "nine months", "year", "Friday", "Sept. 29", "1987"]

@@ -1,0 +1,23 @@
+[
+"today",
+"Tuesday",
+"Aug. 2",
+"Aug. 6",
+"Thursday",
+"Monday",
+"Tuesday",
+"now",
+"the eighth day",
+"within weeks",
+"1,200-mile",
+"180 days",
+"200,000",
+"1 million",
+"50,000",
+"230",
+"9,000",
+"1,900,000",
+"20 percent",
+"17 million",
+"1.9 million"
+]

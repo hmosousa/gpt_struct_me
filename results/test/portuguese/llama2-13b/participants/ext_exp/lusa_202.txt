@@ -1,0 +1,23 @@
+["Um homem com 34 anos", "morreu hoje", "na Estrada Nacional 17", "em Celorico da Beira", "no distrito da Guarda", "na sequência do despiste", "do motociclo que conduzia", "disseram à agência Lusa", "fontes da proteção civil e da GNR", "Segundo fonte do Comando Distrital de Operações de Socorro (CDOS)", "da Guarda", "o alerta para o sinistro", "foi dado pelas 14:28", "Fonte do Comando Territorial", "da GNR da Guarda", "disse à Lusa", "que o motociclo seguia", "na Estrada Nacional 17", "no sentido Celorico da Beira - Cortiço da Serra", "o despiste ocorreu", "“alguns metros antes da localidade de Cortiço da Serra”,", "que pertence ao concelho de Celorico da Beira", "O óbito do condutor", "do motociclo foi confirmado", "pelo médico da Viatura Médica de Emergência e Reanimação (VMER)", "que se deslocou ao local", "“Aparentemente foi um despiste”,", "indicando que as causas do acidente", "estão a ser apuradas pelo Núcleo de Investigação de Crimes em Acidentes de Viação da GNR", "Estiveram no local do acidente", "cinco viaturas e dez elementos", "dos Bombeiros Voluntários de Celorico da Beira", "da VMER da Guarda", "e da GNR", "segundo fonte do CDOS"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morre após ser atropelado por um camião em Vila Nova de Famalicão
+Um homem de 50 anos morreu ontem à noite, após ser atropelado por um camião, na Rua de São João, em Vila Nova de Famalicão, no distrito de Braga.
+O acidente ocorreu às 22h30, quando o homem, que andava de bicicleta, foi atropelado por um camião que fazia a ligação entre a Rua de São João e a Rua de São Pedro, no centro da cidade.
+O homem foi levado ao Hospital de Vila Nova de Famalicão, onde foi declarado morto.
+O camião foi parado e o condutor foi levado para a delegação da PSP de Vila Nova de Famalicão, onde foi interrogado.
+O acidente foi apurado pela Polícia Judiciária de Braga."
+
+Output:
+["Um homem de 50 anos", "morreu ontem à noite", "após ser atropelado", "por um camião", "na Rua de São João", "em Vila Nova de Famalicão", "no distrito de Braga", "O acidente ocorreu", "às 22h30", "quando o homem", "que andava de bicicleta", "foi atropelado", "por um camião", "que fazia a ligação entre a Rua de São João e a Rua de São Pedro", "no centro da cidade", "O homem foi levado", "ao Hospital de Vila Nova de Famalicão", "onde foi declarado morto", "O camião foi parado", "e o condutor foi levado", "para a delegação da PSP de Vila Nova de Famalicão", "onde foi interrogado", "O acidente foi apurado", "pela Polícia Judiciária de Braga"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morre após ser atropelado por um camião em Vila Nova de Famalicão
+Um homem de 50 anos morreu ontem à noite, após ser atropelado por um camião, na Rua de São João, em Vila Nova de Famalicão, no distrito de Braga.
+O acidente ocorreu às 22h30, quando o homem,

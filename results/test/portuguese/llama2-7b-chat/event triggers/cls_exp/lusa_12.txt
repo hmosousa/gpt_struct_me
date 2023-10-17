@@ -1,0 +1,8 @@
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["encontrar", "Occurrence"], ["homem", "Occurrence"], ["desaparecido", "Occurrence"], ["rio", "State"], ["Guadiana", "State"], ["sequência", "Aspectual"], ["alerta", "Occurrence"], ["desaparecido", "Occurrence"], ["nacionalidade", "Occurrence"], ["romena", "Occurrence"], ["entrou", "Occurrence"], ["água", "State"], ["deixou", "Occurrence"], ["avistado", "Occurrence"], ["pescadores", "Occurrence"], ["acompanhavam", "Reporting"], ["Capitão", "I_Action"], ["Porto", "State"], ["ativou", "I_Action"], ["local", "State"], ["embarcão", "I_Action"], ["Polícia", "I_Action"], ["Salva-vidas", "I_Action"], ["Vila", "State"], ["Real", "State"], ["adiante", "Aspectual"], ["Lusa", "I_Action"], ["fonte", "State"], ["Autoridade", "I_Action"]]
+
+
+Note:
+
+* The input text is in Portuguese, and the output is in JSON-parseable lists, where each list contains two strings: the entity and the class.
+* The classes are: "I_Action" (for the verb "fazem" and "ativou"), "Occurrence" (for all the other verbs and nouns related to the event), "State" (for the nouns related to the location), and "Aspectual" (for the adverbial phrases).
+* The input text describes an event of searching for a missing person in the Guadiana River, and the output lists the entities and classes related to this event.

@@ -1,0 +1,1 @@
+["caiu", "socorrido", "transportado", "adiantou", "ocorrência", "lugar", "alvo", "reanimação", "cardiorrespiratória", "salvamento", "efetuado", "transeunte", "atirou", "levado", "ambulância", "internado", "livre"]

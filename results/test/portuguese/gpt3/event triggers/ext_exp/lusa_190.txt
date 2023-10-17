@@ -1,0 +1,1 @@
+["ferido", "eletrocutado", "alerta", "dado", "transportada", "indicação", "bombeiros", "eletrocussão", "aconteceu", "deslocaram"]

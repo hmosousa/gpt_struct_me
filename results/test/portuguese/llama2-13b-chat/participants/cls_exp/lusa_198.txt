@@ -1,0 +1,11 @@
+[["um homem de 52 anos", "Per"], ["um outro", "Per"], ["ferimentos ligeiros", "Other"], ["o poste de iluminação", "Fac"], ["a Rua da Constituição", "Loc"], ["no Porto", "Loc"], ["a PSP", "Org"], ["a fonte", "Per"], ["do Comando Metropolitano", "Org"], ["do Porto", "Loc"], ["a vítima", "Per"], ["morreu", "Per"], ["o hospital de Santo António", "Loc"], ["as bombas de gasolina", "Other"], ["o acidente", "Other"], ["as 07:50", "Other"], ["a Câmara do Porto", "Org"], ["o acidente", "Other"], ["a empresa", "Org"], ["a averiguação interna", "Other"], ["as causas", "Other"], ["as autoridades", "Org"], ["a família", "Per"]]
+
+Note:
+- "Per" stands for "Person"
+- "Fac" stands for "Facility"
+- "Loc" stands for "Location"
+- "Org" stands for "Organization"
+- "Other" stands for "Other"
+
+Hint:
+There are 19 participants in the text.

@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["disparos para o ar", "Other"], ["muníções reais", "Obj"], ["se recusou a parar", "Per"], ["feriu ligeiramente", "Other"], ["com bagos de borracha", "Other"], ["pernas", "Loc"], ["o homem", "Per"], ["52 anos", "Other"], ["desobedecer à ordem", "Per"], ["cessar os disparos", "Other"], ["não parou", "Per"], ["militares", "Org"], ["disparos de intimidação", "Other"], ["para o ar", "Other"], ["desconhecer as causas", "Other"], ["do comportamento do detido", "Other"], ["detido", "Per"], ["unidade hospitalar", "Loc"], ["juiz de instrução", "Org"], ["fixação das medidas de coação", "Other"], ["polícia judiciária", "Org"], ["detalhes", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Other" stands for "Other" (i.e. anything that doesn't fit into the other categories)

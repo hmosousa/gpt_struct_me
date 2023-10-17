@@ -1,0 +1,11 @@
+[
+"tender",
+"offer",
+"scheduled",
+"expire",
+"end",
+"November",
+"currently",
+"owns",
+"companies"
+]

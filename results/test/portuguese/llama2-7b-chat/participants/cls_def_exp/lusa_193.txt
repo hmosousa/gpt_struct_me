@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["Cais das Colunas", "Loc"], ["Lisboa", "Loc"], ["Polícia Marítima", "Org"], ["Hospital de São José", "Org"], ["Instituto Nacional de Emergência Médica", "Org"], ["INEM", "Org"]]

@@ -1,0 +1,1 @@
+[["em menos de uma semana", "Duration"], ["terça-feira", "Date"], ["30 nov 2020", "Date"], ["5 anos", "Time"], ["15%", "Duration"], ["20%", "Duration"], ["1,6 mil milhões de euros", "Duration"], ["363 milhões", "Duration"]]

@@ -1,0 +1,9 @@
+
+[["Tribunal de Viana do Castelo", "Org"], ["homem", "Per"], ["matou", "Per"], ["outro", "Per"], ["a tiro", "Per"], ["12 anos", "Other"], ["prisão", "Other"], ["acusado", "Per"], ["homicídio", "Per"], ["qualificado", "Other"], ["arma", "Other"], ["crime", "Per"], ["sete anos", "Other"], ["fuga", "Other"], ["juiz", "Org"], ["coletivo", "Org"], ["magistrada", "Org"], ["prova", "Other"], ["testemunhal", "Other"], ["indemnização", "Other"], ["mãe", "Per"], ["vítima", "Per"], ["141 mil euros", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are: Tribunal de Viana do Castelo, homem, matou, outro, a tiro, 12 anos, prisão, acusado, homicídio, qualificado, arma, crime, sete anos, fuga, juiz, coletivo, magistrada, prova, testemunhal, indemnização, mãe, vítima, 141 mil euros.
+* The classes are: Org (Organization), Per (Person), Other (Other).

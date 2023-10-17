@@ -1,0 +1,27 @@
+["sofreu", "queimaduras", "face", "membros", "superiores", "manuseava", "gasolina", "Vale", "São", "Martinho", "Vila", "Famalicão", "teve", "ser", "conduzido", "Hospital", "Porto", "indicou", "fonte", "bombeiros", "locales", "sofreu", "queimaduras", "segundo", "terceiro", "graus", "alerta", "dado", "13:41", "vítima", "levantada", "Hospital", "São", "João", "ainda", "se", "desconhece", "acidente", "apenas", "manuseamento", "gasolina", "transporte", "feito", "Viatura", "Médica", "Emergência", "Reanimação", "VMER", "Hospital", "Famalicão", "distrito", "Braga"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pelo novo coronavírus, anunciou hoje que 100 milhões de pessoas estão em quarentena.
+A medida foi tomada em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai.
+A China, que já conta com 2.000 mortes pelo novo coronavírus, está a encerrar as escolas e fechando os locais de lazer.
+A medida de quarentena é a mais extrema já tomada pela China, que já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com 77.118 casos confirmados de covid-19, o novo coronavírus, segundo dados do Ministério da Saúde.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total.
+A China já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com 77.118 casos confirmados de covid-19, o novo coronavírus, segundo dados do Ministério da Saúde.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total.
+A China já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com 77.118 casos confirmados de covid-19, o novo coronavírus, segundo dados do Ministério da Saúde.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total.
+A China já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com 77.118 casos confirmados de covid-19, o novo coronavírus, segundo dados do Ministério da Saúde.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total.
+A China já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com 77.118 casos confirmados de covid-19, o novo coronavírus, segundo dados do Ministério da Saúde.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total.
+A China já fechou a fronteira com a Índia e o Nepal, e suspendiu a entrada de turistas.
+A China já conta com

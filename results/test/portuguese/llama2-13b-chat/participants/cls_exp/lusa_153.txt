@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 60 anos", "Per"], ["ficou em prisão preventiva", "Other"], ["após ter sido detido", "Other"], ["na Trofa", "Loc"], ["distrito do Porto", "Loc"], ["por ser suspeito de violência doméstica reiterada", "Other"], ["sobre a esposa de 59 anos", "Other"], ["revelou hoje a GNR", "Org"], ["a detenção", "Other"], ["feita na terça-feira", "Other"], ["pelo Núcleo de Investigação e Apoio a Vítimas Específicas (NIAVE) do Porto", "Org"], ["ocorreu após", "Other"], ["os militares apurarem", "Other"], ["que o agressor", "Per"], ["de forma reiterada", "Other"], ["infligiu maus-tratos verbais", "Other"], ["psicológicos e ainda ameaças de morte à vítima", "Other"], ["sua esposa", "Per"], ["de 59 anos", "Per"], ["e refugiou num local desconhecido", "Other"], ["com medo das ameaças de morte sofridas", "Other"], ["e, a partir de então", "Other"], ["o suspeito", "Per"], ["consumidor habitual de bebidas alcoólicas e com problemas psiquiátricos", "Other"], ["passou a ir ao encontro da vítima no seu local de trabalho", "Other"], ["dando continuidade à prática do crime", "Other"], ["O detido", "Per"], ["com antecedentes criminais pela prática deste tipo de crime", "Other"], ["foi presente a primeiro interrogatório judicial na quarta-feira", "Other"], ["no Tribunal Judicial de Matosinhos", "Loc"], ["onde lhe foi aplicada a medida de coação de prisão preventiva", "Other"], ["refere o comunicado", "Org"], ["A ação contou com o reforço do Posto Territorial da Trofa", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify each one correctly.
+* Some entities and classes may have multiple mentions in the input text, so be sure to count them correctly.
+* Some entities and classes may have synonyms or variations in the input text, so be sure to handle them correctly.

@@ -1,0 +1,10 @@
+[
+["1989", "Date"],
+["last year", "Date"],
+["this year", "Date"],
+["next year", "Date"],
+["the past 20 years", "Duration"],
+["Tuesday", "Date"],
+["1987", "Date"],
+["July 1", "Date"]
+]

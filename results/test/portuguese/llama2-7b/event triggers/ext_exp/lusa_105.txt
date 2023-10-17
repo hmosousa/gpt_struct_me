@@ -1,0 +1,20 @@
+["detém", "condenado", "prisão", "durante", "fiscalização", "rodoviária", "Vila", "Conde", "homem", "38", "anos", "pena", "efetiva", "detido", "GNR", "posse", "estupefacientes", "revelou", "hoje", "aquela", "força", "policial", "comunicado", "detenção", "ocorreu", "sábado", "ação", "fiscalização", "rodoviária", "tendo", "apreendido", "após", "busca", "realizada", "veículo", "12", "doses", "heroína", "nove", "doses", "cocaína", "identificação", "suspeito", "apurou", "antecedentes", "criminais", "tráfico", "estupefacientes", "furto", "roubos", "Guarda", "verificou", "tinha", "pendente", "mandado", "condução", "estabelecimento", "prisional", "emitido", "Tribunal", "Judicial", "Vila", "Conde", "homem", "cumprimento", "pena", "efetiva", "conduzido", "Estabelecimento", "Prisional", "Porto", "remetidos", "Tribunal", "Judicial", "Vila", "Conde", "nota", "imprensa"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo está a afetar a vida de mais de 1,5 bilhões de pessoas, segundo a ONU.
+A Organização das Nações Unidas (ONU) informou hoje que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.
+A ONU também informou que mais de 1,5 bilhões de pessoas estão sob restrições de movimento, em resposta à pandemia de covid-19.

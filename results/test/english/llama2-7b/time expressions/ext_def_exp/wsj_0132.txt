@@ -1,0 +1,27 @@
+["N.V. DSM", "said", "net income", "in the third quarter", "jumped 63%", "as the company had substantially lower extraordinary charges to account for a restructuring program", "The Dutch chemical group", "said net income gained to 235 million guilders", "6.70 guilders a share", "from 144 million guilders", "4.10 guilders a share", "a year ago", "The 32% state-owned DSM", "had eight million guilders of extraordinary charges in the latest quarter", "mainly to reflect one-time losses in connection with the disposal of some operations", "The charges were offset in part by a gain from the sale of the company's construction division", "Last year", "DSM had 71 million guilders of extraordinary charges for the restructuring program and other transactions", "The earnings growth also was fueled by the company's ability to cut net financing spending by half to around 15 million guilders", "Also", "substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth", "the company added", "Sales", "however", "were little changed at 2.46 billion guilders", "compared with 2.42 billion guilders"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically modified corn to farmers, the Agriculture Department said on Thursday.
+The decision to allow the sale of the corn, which is engineered to resist the herbicide Roundup, was made after a 90-day review of the product, the department said in a statement.
+The decision was made after the Environmental Protection Agency and the Food and Drug Administration determined that the corn, made by Monsanto Co., is safe for human consumption and the environment, the statement said.
+The corn, called Roundup Ready corn, is engineered to resist the herbicide Roundup, which is made by Monsanto.
+The corn is the first genetically modified crop to be approved for sale in the United States.
+The decision to allow the sale of the corn was made after a 90-day review of the product, the department said in a statement.
+The decision was made after the Environmental Protection Agency and the Food and Drug Administration determined that the corn, made by Monsanto Co., is safe for human consumption and the environment, the statement said.
+The corn, called Roundup Ready corn, is engineered to resist the herbicide Roundup, which is made by Monsanto.
+The corn is the first genetically modified crop to be approved for sale in the United States."
+
+Output:
+["The U.S. government", "has decided to allow the sale of a new type of genetically modified corn to farmers", "the Agriculture Department said on Thursday", "The decision to allow the sale of the corn", "which is engineered to resist the herbicide Roundup", "was made after a 90-day review of the product", "the department said in a statement", "The decision was made after the Environmental Protection Agency and the Food and Drug Administration determined that the corn", "made by Monsanto Co.", "is safe for human consumption and the environment", "the statement said", "The corn", "called Roundup Ready corn", "is engineered to resist the herbicide Roundup", "which is made by Monsanto", "The corn is the first genetically modified crop to be approved for sale in the United States"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically modified corn to farmers, the Agriculture Department said on Thursday.
+The decision to allow the sale of the corn, which is engineered to resist the herbicide Roundup, was made after a 90-day review of the product, the department said in a statement.
+The decision was made after the Environmental Protection Agency and the Food and Drug Administration determined that the corn, made by Monsanto Co., is safe for human consumption and the environment, the statement said.
+The corn, called Roundup Ready corn, is engineered to resist the her

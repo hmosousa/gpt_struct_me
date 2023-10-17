@@ -1,0 +1,6 @@
+[
+["third-quarter", "Date"],
+["the year-earlier quarter", "Date"],
+["June 1989", "Date"],
+["the latest quarter", "Date"]
+]

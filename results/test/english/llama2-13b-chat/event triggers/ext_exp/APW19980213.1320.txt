@@ -1,0 +1,3 @@
+["crippling", "cut", "all", "flights", "South", "Korea", "boost", "tourism", "ties", "India", "announced", "joint", "statement", "Tourism", "leaders", "growing", "market", "working", "Australian", "Commission", "develop", "greater", "awareness", "Australia", "consultant"]
+
+Please note that the output should be in JSON-parseable list of strings.

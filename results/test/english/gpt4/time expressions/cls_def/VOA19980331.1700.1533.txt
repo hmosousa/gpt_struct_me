@@ -1,0 +1,10 @@
+[
+["recently", "Set"],
+["two to six days", "Duration"],
+["a year or two", "Duration"],
+["over the years", "Set"],
+["each year", "Set"],
+["five months ago", "Date"],
+["five months", "Duration"],
+["Today", "Date"]
+]

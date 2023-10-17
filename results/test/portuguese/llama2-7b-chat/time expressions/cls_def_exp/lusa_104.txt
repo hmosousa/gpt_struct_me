@@ -1,0 +1,1 @@
+[["Três mortos", "Date"], ["em", "Duration"], ["domingo", "Date"], ["Kwanza", "Time"], ["Muinha", "Place"], ["Baptista Sambango", "Person"], ["administrador municipal", "Person"]]

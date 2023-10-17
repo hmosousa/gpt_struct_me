@@ -1,0 +1,1 @@
+[["Friday", "Date"], ["the year ending tomorrow", "Date"], ["recent years", "Set"], ["since 1980", "Set"], ["In September", "Date"], ["Last month", "Date"]]

@@ -1,0 +1,1 @@
+[["em incêndio", "Location"], ["hoje", "Date"], ["sequência", "Time"], ["possível inalação de fumo", "Cause"], ["quartos", "Location"], ["Ribeira Brava", "Location"], ["Ponta do Sol", "Location"], ["10:00", "Time"], ["70 anos", "Age"]]

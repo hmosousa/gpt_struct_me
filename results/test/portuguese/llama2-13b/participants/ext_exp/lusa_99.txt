@@ -1,0 +1,19 @@
+["Futebolista Quincy Promes", "detido", "suspeita", "esfaqueamento", "um familiar", "O internacional", "holandês", "Quincy Promes", "futebolista", "do Ajax", "detido", "alegadamente", "ter", "esfaqueado", "um familiar", "em julho", "informaram", "hoje", "os meios", "comunicação", "holandeses", "citing", "fontes", "policiais", "De acordo", "diário", "Telegraaf", "uma forte discussão", "decúrso", "uma celebração familiar", "Promes", "esfaqueou", "a vítima", "no pescoço", "com esta", "ficar gravemente ferida", "Alguns", "presentes", "na festa", "interpuseram-se", "entre", "os dois", "o que", "teria", "impedido", "um desfecho", "mais grave", "O incidente", "teria acontecido", "um armazém", "propriedade", "Promes", "localizado", "Abcoude", "uma pequena povoação", "província", "Utrecht", "A denúncia", "presentada", "novembro", "deu origem", "a uma investigação", "conduziu", "a uma detenção", "esta manhã", "fonte policial", "citing", "aquela diário", "Nos Países Baixos", "pena máxima", "um delito", "lesões graves", "decorrentes", "uma agressão física", "quatro anos", "O avançado", "28 anos", "representou", "seleção holandesa", "40 jogos", "marcou", "sete golos", "Profissional", "2012", "Twente", "Spartak", "Moscovo", "Sevilha", "antes", "assinar", "Ajax", "2019/20"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos por COVID-19 ultrapassa 20.000, um número que se aproxima do número de mortos no 11 de Setembro de 2001.
+O número de mortos por COVID-19 ultrapassa 20.000, anunciou hoje o prefeito de Nova Iorque, Bill de Blasio, numa conferência de imprensa.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.
+"Estamos a lutar contra uma pandemia que não tem precedentes na história da cidade de Nova Iorque", disse o prefeito.

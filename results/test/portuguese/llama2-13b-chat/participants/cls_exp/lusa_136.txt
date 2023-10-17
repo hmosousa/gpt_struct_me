@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 59 anos", "Per"], ["por maus-tratos", "Other"], ["sobre o pai", "Per"], ["de 89 anos", "Per"], ["cometidos", "Loc"], ["no concelho da Maia", "Loc"], ["no distrito do Porto", "Loc"], ["a GNR", "Org"], ["em setembro de 2019", "Other"], ["terá agredido", "Other"], ["injuriado", "Other"], ["coagido", "Other"], ["a dar-lhe dinheiro", "Other"], ["para satisfazer", "Other"], ["o seu vício de consumo de estupefacientes", "Other"], ["Estes factos", "Other"], ["levaram", "Other"], ["à emissão", "Other"], ["de um mandado de detenção", "Other"], ["ao qual", "Other"], ["foi dado cumprimento", "Other"], ["na quarta-feira", "Other"], ["por militares da GNR", "Org"], ["do Posto Territorial da Maia", "Loc"], ["O detido", "Per"], ["está hoje", "Other"], ["a ser presente", "Other"], ["a primeiro interrogatório judicial", "Other"], ["no Tribunal de Instrução Criminal de Matosinhos", "Loc"], ["para aplicação", "Other"], ["das medidas de coação", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to identify them correctly.
+* Some entities may belong to more than one class.
+* Some classes may contain multiple entities.

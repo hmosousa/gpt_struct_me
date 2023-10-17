@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["de 61 anos", "Per"], ["morreu", "Per"], ["no despiste", "Other"], ["do automóvel", "Obj"], ["que conduzia", "Per"], ["na Estrada Municipal 524", "Loc"], ["no concelho de Marvão", "Loc"], ["distrito de Portalegre", "Loc"], ["fontes da Proteção Civil e da GNR", "Org"], ["as mesmas fontes", "Org"], ["indicaram à agência Lusa", "Org"], ["que o óbito", "Other"], ["foi declarado", "Other"], ["no local", "Loc"], ["pelo médico", "Per"], ["da viatura médica de emergência e reanimação", "Org"], ["do hospital de Portalegre", "Org"], ["e que o homem", "Per"], ["era o único ocupante", "Per"], ["do veículo ligeiro de passageiros", "Other"], ["Segundo fonte", "Other"], ["do Comando Distrital de Operações de Socorro", "Org"], ["de Portalegre", "Org"], ["o acidente", "Other"], ["ocorreu", "Other"], ["na zona da Bica", "Loc"], ["na freguesia de Beirã", "Loc"], ["tendo o corpo", "Other"], ["do homem", "Per"], ["been encaminhado", "Other"], ["para o serviço", "Other"], ["de Medicina Legal", "Org"], ["do hospital de Portalegre", "Org"], ["O alerta", "Other"], ["de acordo com CDOS", "Other"], ["foi dado", "Other"], ["às 19:23", "Other"], ["Foram mobilizados", "Org"], ["bombeiros", "Org"], ["e veículos", "Org"], ["da corporação", "Org"], ["de Marvão", "Loc"], ["e a VMER", "Org"], ["além da GNR", "Org"], ["num total", "Other"], ["de oito elementos", "Other"], ["apoiados por quatro viaturas", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

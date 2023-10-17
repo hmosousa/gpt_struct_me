@@ -1,0 +1,1 @@
+["$", "$", "Fla.", "Mass.", "Calif.", "Colo.", "Sept.", "Thursday", "Friday"]

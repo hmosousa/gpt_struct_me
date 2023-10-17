@@ -1,0 +1,4 @@
+["pricecutting", "adverse", "effects", "fell", "rose", "somewhat", "expected", "result", "weaker", "profit", "partly", "competition"]
+
+Format:
+JSON-parseable list of strings.

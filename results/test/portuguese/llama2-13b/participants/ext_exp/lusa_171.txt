@@ -1,0 +1,15 @@
+["Tribunal de Guimarães", "homem", "violação", "violar", "amiga", "pernoita", "casa", "Procuradoria Regional", "Guimarães", "arguido", "dia", "maio", "2020", "pretexto", "descansar", "se acolheu", "freguesia", "Procuradoria Regional", "Internet", "braços", "roupa", "envergava", "mantenha", "relações", "sexuais", "tribunal", "exclui", "hipótese", "suspender", "pena", "decisão", "cinco anos", "prisão", "antecedentes", "criminais", "arguido", "alheada", "dever-ser", "jurídico", "presentava", "Tribunal de Guimarães", "violação", "violar", "amiga", "pernoita", "casa", "Procuradoria Regional", "Guimarães", "arguido", "dia", "maio", "2020", "pretexto", "descansar", "se acolheu", "freguesia", "Procuradoria Regional", "Internet", "braços", "roupa", "envergava", "mantenha", "relações", "sexuais", "tribunal", "exclui", "hipótese", "suspender", "pena", "decisão", "cinco anos", "prisão", "antecedentes", "criminais", "arguido", "alheada", "dever-ser", "jurídico", "presentava"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pedro Passos Coelho: "Não há dúvida de que o PSD está em crise"
+O ex-primeiro-ministro Pedro Passos Coelho afirmou hoje que “não há dúvida de que o PSD está em crise”, mas que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirmou o ex-primeiro-ministro, que afirmou que “não há dúvida de que o PSD está em crise” e que “não há dúvida de que o PSD está em crise”.
+“Não há dúvida de que o PSD está em crise”, afirm

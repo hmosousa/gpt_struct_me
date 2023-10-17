@@ -1,0 +1,26 @@
+["Um jovem de 17 anos", "baleado no peito", "na Amadora", "o bairro Casal da Mira", "o distrito de Lisboa", "a agência Lusa", "fonte da PSP", "o Comando Metropolitano de Lisboa", "o Hospital Professor Doutor Fernando Fonseca [Amadora-Sintra]", "o Cometlis", "o caso", "a Polícia Judiciária", "o PJ", "o caso"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas que estão em casa devem permanecer lá, alerta o Governo
+O Governo alertou hoje que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus.
+"Ao longo do dia, o Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"O Governo alertou que as pessoas que estão em casa devem permanecer lá, para evitar contágios de coronavírus", lê o comunicado do Governo.
+"

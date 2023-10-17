@@ -1,0 +1,17 @@
+["Prisão preventiva", "para", "homem", "da", "Trofa", "suspeito", "violência", "doméstica", "Um", "homem", "de", "60", "anos", "ficou", "prisão", "preventiva", "após", "ter", "suspeito", "violência", "doméstica", "reiterada", "sobre", "esposa", "de", "59", "anos", "revelou", "hoje", "GNR", "A", "detenção", "feita", "terça-feira", "militares", "apurarem", "que", "agressor", "forma", "reiterada", "infligiu", "maus-tratos", "verbais", "psicológicos", "ameaças", "de", "morte", "sofridas", "esposa", "de", "59", "anos", "refugiou", "um", "local", "desconhecido", "medo", "de", "amaças", "de", "morte", "sofridas", "suspeito", "consumidor", "habitual", "bebidas", "alcoólicas", "problemas", "psiquiátricos", "passou", "ir", "encontro", "vítima", "local", "trabalho", "prática", "crime", "antecedentes", "criminais", "prática", "este", "tipo", "crime", "presente", "primeiro", "interrogatório", "judicial", "quarta-feira", "Tribunal", "Judicial", "Matosinhos", "aplicada", "medida", "coação", "preventiva", "reforço", "Posto", "Territorial", "Trofa"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de 100 milhões de pessoas em todo o mundo é um recorde mundial, segundo a Agência de Notícias de Fevereiro.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, um recorde mundial.
+A Agência de Notícias de Fevereiro (AFP) informou que, em 20 de março, 10

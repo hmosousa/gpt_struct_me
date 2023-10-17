@@ -1,0 +1,1 @@
+[["em Felgueiras", "Location"], ["segunda-feira", "Date"], ["33 anos", "Age"], ["25 anos", "Age"], ["calibre 12", "Arms"], ["calibre 6,35mm", "Arms"], ["64 munições", "Arms"], ["coldre", "Arms"]]

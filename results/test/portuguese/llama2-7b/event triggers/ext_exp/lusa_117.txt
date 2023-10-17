@@ -1,0 +1,17 @@
+["Acidente", "em", "Arcos", "de", "Valdevez", "deixa", "condutor", "em", "estado", "muito", "grave", "bombeiros", "despiste", "de", "viatura", "ocorrido", "hoje", "provoqueu", "ferimentos", "graves", "condutor", "transportado", "Hospital", "Braga", "informou", "comandante", "Bombeiros", "locales", "Estrada", "Nacional", "101", "encontra-se", "cortada", "trânsito", "devido", "destroços", "carro", "Filipe", "Guimarães", "acrescentando", "acidente", "envolveu", "viatura", "tunning", "condutor", "politraumatizado", "embate", "posto", "Filipe", "Guimarães", "ferimentos", "ligeiros", "transportado", "Hospital", "Viana", "Castelo", "Acidente", "em", "Arcos", "de", "Valdevez", "deixa", "condutor", "em", "estado", "muito", "grave", "bombeiros", "despiste", "de", "viatura", "ocorrido", "hoje", "provoqueu", "ferimentos", "graves", "condutor", "transportado", "Hospital", "Braga", "informou", "comandante", "Bombeiros", "locales", "Estrada", "Nacional", "101", "encontra-se", "cortada", "trânsito", "devido", "destroços", "carro", "Filipe", "Guimarães", "acrescentando", "acidente", "envolveu", "viatura", "tunning", "condutor", "politraumatizado", "embate", "posto", "Filipe", "Guimarães", "ferimentos", "ligeiros", "transportado", "Hospital", "Viana", "Castelo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo está a afetar a vida de mais de 1,5 bilhão de pessoas, segundo a Agência de Notícias de Notícias Xinhua.
+A China, onde o vírus foi descoberto, está a ser o país mais afetado, com mais de 60 milhões de pessoas em quarentena.
+A Itália, onde a epidemia se espalhou, está a ser o segundo país mais afetado, com mais de 25 milhões de pessoas em quarentena.
+A Espanha, onde a epidemia se espalhou, está a ser o terceiro país mais afetado, com mais de 20 milhões de pessoas em quarentena.
+A França, onde a epidemia se espalhou, está a ser o quarto país mais afetado, com mais de 10 milhões de pessoas em quarentena.
+A Alemanha, onde a epidemia se espalhou, está a ser o quinto país mais afetado, com mais de 9 milhões de pessoas em quarentena.
+A Austrália, onde a epidemia se espalhou, está a ser o sexto país mais afetado, com mais de 6 milhões de pessoas em quarentena.
+A Índia, onde a epidemia se espalhou, está a ser o sétimo país mais afetado, com mais de 5 milhões de pessoas em quarentena.
+A Rússia, onde a epidemia se espalhou, está a ser o oitavo país mais afetado, com mais de 4 milhões de pessoas em quarentena.
+A Turquia, onde a epidemia se espalhou, está a ser o nono país mais afetado

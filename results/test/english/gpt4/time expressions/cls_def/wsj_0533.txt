@@ -1,0 +1,10 @@
+[
+["Friday", "Date"],
+["last Thursday", "Date"],
+["Nov. 6", "Date"],
+["Nov. 16", "Date"],
+["Friday evening", "Time"],
+["last week", "Date"],
+["mid-November", "Date"],
+["at the close of business Thursday", "Time"]
+]

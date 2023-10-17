@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["morreu", "Per"], ["outro", "Per"], ["ferido", "Per"], ["no domingo à noite", "Other"], ["em Algueirão-Mem Martins", "Loc"], ["em Sintra", "Loc"], ["no distrito de Lisboa", "Loc"], ["na sequência de uma", "Other"], ["desordem com arma de fogo", "Other"], ["informou hoje à agência Lusa", "Org"], ["a PSP", "Org"], ["De acordo com o Comando Metropolitano de Lisboa", "Org"], ["duas pessoas", "Per"], ["foram encontradas feridas", "Per"], ["na Estrada de Mem Martins", "Loc"], ["tendo uma sido transportada", "Other"], ["para o Hospital Professor Doutor Fernando Fonseca", "Loc"], ["e a outra socorrida no local", "Other"], ["onde acabou por morrer", "Other"], ["Não houve maneira de reverter a situação dos ferimentos", "Other"], ["referiu fonte do Cometlis", "Per"], ["Desconhecendo mais pormenores", "Other"], ["a PSP adiantou", "Org"], ["que o alerta foi dado às 23:30", "Other"], ["e que, no local", "Other"], ["foram apenas levadas a cabo diligências", "Other"], ["no sentido de socorrer as vítimas", "Other"], ["Por se tratar de um crime de homicídio", "Other"], ["a investigação do caso encontra-se", "Org"], ["a cargo da Polícia Judiciária", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

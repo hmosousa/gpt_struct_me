@@ -1,0 +1,17 @@
+["segunda-feira", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions in the given text.
+
+Note:
+
+* You can use the following formats for time expressions:
+	+ Date: YYYY-MM-DD (e.g., 2020-11-30)
+	+ Day of the week: DOM (e.g., segunda-feira)
+	+ Time: HH:MM (e.g., 14:30)
+	+ Duration: X dias/horas/minutos (e.g., 5 dias)
+	+ Period: YYYY-MM-DD until YYYY-MM-DD (e.g., 2020-11-20 until 2020-11-30)
+
+Please provide the output in a JSON-parseable list of strings.

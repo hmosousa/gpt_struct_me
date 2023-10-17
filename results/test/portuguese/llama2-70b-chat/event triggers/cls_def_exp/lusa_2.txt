@@ -1,0 +1,35 @@
+[["morreu", "Occurrence"], ["desordem", "Occurrence"], ["com arma de fogo", "Occurrence"], ["uma", "State"], ["pessoa", "State"], ["ferida", "State"], ["Estrada de Mem Martins", "State"], ["hospital", "State"], ["Professor Doutor Fernando Fonseca", "State"], ["Amadora-Sintra", "State"], ["outra", "State"], ["socorrida", "State"], ["local", "State"], ["morrer", "Occurrence"], ["não houve maneira de reverter", "Reporting"], ["situação", "State"], ["ferimentos", "State"], ["PSP", "State"], ["adiantou", "Reporting"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["23:30", "State"], ["local", "State"], ["levadas", "Occurrence"], ["diligências", "Occurrence"], ["socorrer", "I_Action"], ["vítimas", "State"], ["crime de homicídio", "State"], ["investigação", "Occurrence"], ["caso", "State"], ["Polícia Judiciária", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* I_Action: refers to an action or an intention
+* I_State: refers to a state or a situation that is internal to the subject.
+
+In this task, you will be given a list of sentences and your goal is to extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event. For example, in the sentence "The man died", "died" is an event trigger.
+
+Your output should be a list of pairs, where each pair contains the event trigger and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* I_Action: refers to an action or an intention
+* I_State: refers to a state or a situation that is internal to the subject.
+
+You can use the following resources to help you with this task:
+
+* The Stanford Natural Language Processing Group's tutorial on Information Extraction: https://web.stanford.edu/dept/linguistics/corpora/iob/iob.html
+* The Stanford Natural Language Processing Group's tutorial on Named Entity Recognition: https://web.stanford.edu/dept/linguistics/corpora/ner/ner.html
+* The Natural Language Toolkit (NLTK) library: https://www.nltk.org/
+
+You can also use other resources that you find helpful.
+
+Please submit your solution as a JSON-parseable list, where each element is a list with two strings. The first string is the event trigger and the second is the class.
+
+Example:
+[["died", "Occurrence"], ["was", "State"], ["found", "Occurrence"], ["had", "State"], ["socorred", "I_Action"]]
+
+Note that the event triggers and classes are not always straightforward, and you may need to use your judgment to determine the correct classification.

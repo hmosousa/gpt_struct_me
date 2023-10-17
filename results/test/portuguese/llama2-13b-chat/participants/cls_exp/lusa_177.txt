@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["cerca de 50 anos", "Other"], ["morreu", "Per"], ["hoje em Milhazes", "Loc"], ["no concelho de Barcelos", "Loc"], ["atingido", "Per"], ["por uma árvore", "Obj"], ["de grande porte", "Other"], ["segundo", "Other"], ["as primeiras informações", "Other"], ["apontam", "Other"], ["para um acidente", "Other"], ["de trabalho", "Other"], ["O alerta", "Other"], ["foi dado", "Other"], ["pelas 11:50", "Other"], ["tendo", "Other"], ["mobilizados", "Other"], ["para o local", "Other"], ["os Bombeiros", "Org"], ["Voluntários", "Org"], ["de Barcelinhos", "Loc"], ["e uma viatura", "Other"], ["médica", "Other"], ["de emergência", "Other"], ["e reanimação", "Other"], ["O óbito", "Per"], ["foi declarado", "Other"], ["no local", "Loc"], ["A GNR", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Other" stands for "Other" (i.e. anything that doesn't fit into the other categories)

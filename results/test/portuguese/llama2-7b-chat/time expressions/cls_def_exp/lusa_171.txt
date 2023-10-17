@@ -1,0 +1,1 @@
+[["tribunal de Guimarães", "Autoridade"], ["quatro anos e meio", "Duration"], ["16 de maio de 2020", "Date"], ["Guimarães", "Location"], ["2020", "Date"], ["procuradoria regional", "Autoridade"], ["five years", "Duration"]]

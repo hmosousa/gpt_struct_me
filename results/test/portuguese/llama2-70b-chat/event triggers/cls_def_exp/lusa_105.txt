@@ -1,0 +1,20 @@
+[["detém", "I_Action"], ["condenado", "State"], ["prisão", "State"], ["fiscalização", "Occurrence"], ["rodoviária", "Occurrence"], ["em", "Aspectual"], ["Vila do Conde", "State"], ["homem", "State"], ["tráfico", "Occurrence"], ["estupefacientes", "State"], ["furto", "Occurrence"], ["roubo", "Occurrence"], ["mandado", "State"], ["condução", "I_Action"], ["estabelecimento", "State"], ["prisional", "State"], ["Porto", "State"], ["Tribunal", "State"], ["Judicial", "State"], ["Vila do Conde", "State"], ["factos", "Occurrence"], ["remetidos", "I_Action"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* State: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* Occurrence: refers to any concrete action, physical movement, behavior, change in emotional states or the passage of time.
+* Reporting: refers to any action related to the act of reporting, such as making a statement, providing information, or giving an account of something.
+* Perception: refers to any action related to the act of perceiving, such as seeing, hearing, smelling, tasting, or touching.
+* Aspectual: refers to any action or state that is related to a particular aspect or feature of something.
+* Intensional Action: refers to any action that is related to the intentions or goals of an agent.
+* Intensional State: refers to any state that is related to the intentions or goals of an agent.
+
+The input text is a news article in Portuguese, and the task is to extract and classify all event triggers in the text. The output should be a list of pairs, where each pair consists of an event trigger and its corresponding class.
+
+For example, in the input text, "GNR detém condenado a prisão durante fiscalização rodoviária em Vila do Conde" is an event trigger, and its corresponding class is "I_Action" (Intensional Action). "Condenado" is also an event trigger, and its corresponding class is "State" (State). "Fiscalização" is an event trigger, and its corresponding class is "Occurrence" (Occurrence).
+
+The goal of this task is to automatically classify event triggers in news articles to help identify the main events and actions described in the text. This can be useful for various applications, such as news summarization, event extraction, and text summarization.

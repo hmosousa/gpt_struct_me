@@ -1,0 +1,1 @@
+[["detido", "Person"], ["sábado", "Date"], ["19:55", "Time"], ["20:20", "Time"], ["Aveiro", "Location"], ["16", "Number"], ["feridos", "Number"], ["fumo", "Noun"], ["prédio", "Location"]]

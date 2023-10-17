@@ -1,0 +1,16 @@
+[["homem", "I_Action"], ["ferido", "Occurrence"], ["gravidade", "State"], ["caído", "Occurrence"], ["andaime", "Location"], ["três a quatro metros", "Quantity"], ["altura", "Quantity"], ["trabalhava", "State"], ["obra", "Location"], ["Ponte de Lima", "Location"], ["explicou", "Reporting"], ["foi transportado", "I_Action"], ["hospital de Braga", "Location"], ["acidente de trabalho", "Occurrence"], ["ocorreu", "Occurrence"], ["freguesia de Ribeira", "Location"], ["alerta", "Occurrence"], ["10:33", "Quantity"], ["compareceram", "I_Action"], ["viatura", "Object"], ["GNR", "Organization"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: an action or event that is taking place or has taken place
+* Occurrence: an event or occurrence that has happened or is happening
+* State: a state or condition that exists or existed
+* Reporting: a report or description of an event or state
+* Aspectual: an event or state that is taking place or has taken place in a specific aspect or context
+* Intensional Action: an action that is intended or planned to take place
+* Intensional State: a state that is intended or planned to exist
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null.
+
+Your output should be a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are the same as the ones described above.

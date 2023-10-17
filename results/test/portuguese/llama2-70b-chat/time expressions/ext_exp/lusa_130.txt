@@ -1,0 +1,9 @@
+["em flagrante delito", "quinta-feira", "no momento"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of JSON-parseable strings.
+* The time expressions can be in different formats, such as "em menos de uma semana", "sábado", "setembro", "final do ano", etc.
+* The input text may contain other information, such as names of people, places, and organizations, which should be ignored.
+* The output should only include time expressions that are relevant to the given task.

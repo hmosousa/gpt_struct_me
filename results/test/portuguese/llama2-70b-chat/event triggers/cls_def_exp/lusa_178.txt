@@ -1,0 +1,48 @@
+[["morreu", "Occurrence"], ["despiste", "Occurrence"], ["automóvel", "State"], ["conduzia", "I_Action"], ["Estrada Municipal 524", "State"], ["concelho de Marvão", "State"], ["distrito de Portalegre", "State"], ["Proteção Civil", "State"], ["GNR", "State"], ["óbito", "Occurrence"], ["declared", "Reporting"], ["local", "State"], ["medico", "State"], ["viatura médica de emergência e reanimação", "State"], ["hospital de Portalegre", "State"], ["homem", "State"], ["único ocupante", "State"], ["veículo ligeiro de passageiros", "State"], ["acidente", "Occurrence"], ["zona da Bica", "State"], ["freguesia de Beirã", "State"], ["corpo", "State"], ["encaminhado", "I_Action"], ["serviço de Medicina Legal", "State"], ["hospital de Portalegre", "State"], ["alerta", "Occurrence"], ["CDOS", "State"], ["mobilizados", "I_Action"], ["bombeiros", "State"], ["corporação de Marvão", "State"], ["VMER", "State"], ["GNR", "State"], ["viaturas", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a reporting or a description of an event
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+* Aspectual: refers to an aspectual or a gradual situation
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input is a text in Portuguese, and the task is to extract and classify all event triggers, which are the words or phrases that indicate the occurrence of an event. The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a reporting or a description of an event
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+* Aspectual: refers to an aspectual or a gradual situation
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input text is in Portuguese, and the task is to extract and classify all event triggers, which are the words or phrases that indicate the occurrence of an event. The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a reporting or a description of an event
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+* Aspectual: refers to an aspectual or a gradual situation
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input text is in Portuguese, and the task is to extract and classify all event triggers, which are the words or phrases that indicate the occurrence of an event. The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a reporting or a description of an event
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+* Aspectual: refers to an aspectual or a gradual situation
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input

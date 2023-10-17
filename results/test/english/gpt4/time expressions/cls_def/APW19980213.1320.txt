@@ -1,0 +1,10 @@
+[
+["August", "Date"],
+["a month", "Duration"],
+["Friday", "Date"],
+["Monday and Tuesday nights", "Set"],
+["March 30", "Date"],
+["each Thursday", "Set"],
+["August 6", "Date"],
+["a week", "Duration"]
+]

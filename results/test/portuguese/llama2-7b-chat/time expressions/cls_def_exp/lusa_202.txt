@@ -1,0 +1,1 @@
+[["em Celorico da Beira", "Location"], ["hoje", "Date"], ["Estrada Nacional 17", "Location"], ["Celorico da Beira", "Location"], ["Guarda", "Location"], ["14:28", "Time"], ["Cortiço da Serra", "Location"], ["5 viaturas", "Number"], ["10 elementos", "Number"]]

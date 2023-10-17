@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 32 anos", "Per"], ["foi encontrado morto", "Other"], ["no rio Tua", "Loc"], ["na zona de Valverde da Gestosa", "Loc"], ["em Mirandela", "Loc"], ["local para onde terá ido pescar", "Other"], ["informou a GNR", "Org"], ["de acordo com informação disponibilizada à Lusa por aquela força de segurança", "Other"], ["o homem terá saído de casa na manhã de domingo para ir à pesca", "Other"], ["por volta das 19:30", "Other"], ["as autoridades foram alertadas para o desaparecimento e iniciaram buscas no local", "Org"], ["o corpo foi encontrado depois da meia-noite", "Other"], ["e retirado do rio nas proximidades do local onde as autoridades encontraram os haveres do pescador", "Other"], ["de acordo com a fonte", "Other"], ["o caso foi entregue à Polícia Judiciária para serem apuradas as circunstâncias da morte", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the given text to identify the participants and classify them accordingly.
+* Each participant should be classified only once, even if they appear multiple times in the text.
+* The classes should be represented as strings, as shown in the example output.

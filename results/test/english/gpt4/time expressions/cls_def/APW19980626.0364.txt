@@ -1,0 +1,7 @@
+[
+["Friday", "Date"],
+["1995", "Date"],
+["more than 20,000 marks", "Duration"],
+["recently", "Time"],
+["this September", "Date"]
+]

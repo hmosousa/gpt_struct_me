@@ -1,0 +1,1 @@
+[["suspeito", "Person"], ["Borba", "Location"], ["sábado", "Date"], ["Tribunal de Vila Viçosa", "Location"], ["24,3 gramas", "Quantity"], ["heroína", "Drug"], ["balança digital", "Object"], ["tesoura", "Object"], ["sacos de plástico", "Object"], ["150 euros", "Quantity"]]

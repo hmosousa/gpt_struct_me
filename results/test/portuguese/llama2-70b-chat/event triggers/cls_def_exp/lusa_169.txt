@@ -1,0 +1,17 @@
+[["homem", "State"], ["morto", "Occurrence"], ["encontrado", "Occurrence"], ["automóvel", "State"], ["Carreiras", "State"], ["concelho", "State"], ["Portalegre", "State"], ["GNR", "State"], ["alerta", "Occurrence"], ["populares", "State"], ["veículo", "State"], ["interior", "State"], ["sem vida", "State"], ["ferimentos", "Occurrence"], ["Polícia Judiciária", "State"], ["investigar", "I_Action"], ["caso", "Occurrence"], ["natural", "State"], ["residente", "State"], ["Carreiras", "State"], ["localidade", "State"], ["domingo", "State"], ["20:00", "State"], ["21:30", "State"], ["CDOS", "State"], ["Portalegre", "State"], ["óbito", "Occurrence"], ["corpo", "State"], ["encaminhado", "I_Action"], ["Medicina Legal", "State"], ["hospital", "State"], ["Portalegre", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate the occurrence of an event. For example, in the sentence "The man was killed," "killed" is an event trigger.
+
+You can use the following classes to classify the event triggers:
+
+* State: Indicates a state of being or a condition.
+* Occurrence: Indicates an event or a happening.
+* Reporting: Indicates a report or a description of an event.
+* Perception: Indicates a perception or a sensory experience.
+* Aspectual: Indicates a change in aspect or a shift in focus.
+* Intensional Action: Indicates an action that is intended or planned.
+* Intensional State: Indicates a state that is intended or planned.
+
+Please provide your output in the format specified in the example.

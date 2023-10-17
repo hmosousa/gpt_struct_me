@@ -1,0 +1,30 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+
+In this task, we were given two inputs: the first one is a news article about an incident in Angola, and the second one is a list of time expressions found in the article. Our task is to extract and classify all time expressions found in the article.
+We extracted 8 time expressions from the article:
+
+* "em menos de uma semana" (Duration)
+* "sábado" (Date)
+* "sábado" (Date)
+* "setembro" (Time)
+* "final do ano" (Time)
+* "menos de uma semana" (Duration)
+* "30 nov 2020" (Date)
+* "época de veda" (Time)
+* "épocas de veda" (Time)
+
+We classified each time expression according to its type:
+
+* "em menos de uma semana" is a Duration expression.
+* "sábado" is a Date expression.
+* "sábado" is a Date expression.
+* "setembro" is a Time expression.
+* "final do ano" is a Time expression.
+* "menos de uma semana" is a Duration expression.
+* "30 nov 2020" is a Date expression.
+* "época de veda" is a Time expression.
+* "épocas de veda" is a Time expression.
+
+Note that some time expressions may have multiple classifications, depending on how they are used in the text. For example, "em menos de uma semana" can also be classified as a Time expression, since it refers to a specific time period.

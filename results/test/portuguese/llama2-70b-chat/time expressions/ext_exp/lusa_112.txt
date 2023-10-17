@@ -1,0 +1,10 @@
+["hoje", "através de uma nota divulgada no portal da Presidência da República", "a seu pedido", "20:30", "pelas 20:30", "hoje", "nas últimas eleições legislativas"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of a JSON-parseable list of strings.
+* The time expressions can be in the format of a date (e.g. "30 nov 2020"), a time (e.g. "20:30"), a time period (e.g. "em menos de uma semana"), or a vague time reference (e.g. "hoje", "sábado", "setembro", "final do ano").
+* The input text may contain other information besides time expressions, but the output should only include the time expressions.
+* The output should be in the format of a JSON-parseable list of strings, which means that the list elements should be surrounded by square brackets "[]" and the elements should be separated by commas ",".
+* The input text is given in the problem statement, and the output should be a list of time expressions extracted from the input text.

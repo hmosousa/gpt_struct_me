@@ -1,0 +1,18 @@
+
+[
+"today",
+"Tuesday",
+"this week",
+"last week",
+"next week",
+"in the future",
+"soon",
+"within weeks",
+"in the gulf region",
+"in Saudi Arabia",
+"in the desert",
+"for some time",
+"for weeks",
+"for months",
+"for years"
+]

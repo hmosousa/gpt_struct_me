@@ -1,0 +1,17 @@
+["Assassinos contratados (sicários) possivelmente com ligações ao narcotráfico mataram a tiro sete pessoas no estado mexicano de Michoacán, informaram na quarta-feira as autoridades locais, precisando que os corpos das vítimas foram abandonados numa estrada rural.", "Os corpos das vítimas foram encontrados por um grupo de trabalhadores agrícolas numa estrada do município de Tangamandapio, informou o Ministério Público local, num comunicado.", "Na mesma nota informativa, o Ministério Público precisou que as vítimas – seis homens e uma mulher – apresentavam, a par dos ferimentos de bala, sinais graves de tortura.", "Pelo menos três dos corpos estavam desmembrados.", "A identidade das vítimas é, até ao momento, desconhecida.", "As autoridades estão a considerar várias linhas de investigação, mas admitem a possibilidade deste incidente estar relacionado com o narcotráfico e com questões de vingança entre cartéis rivais.", "A violência com ligações ao crime organizado é um dos grandes flagelos do México, sendo responsável por várias centenas de homicídios por ano naquele país."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades mexicanas detêm 10 pessoas ligadas ao narcotráfico
+Autoridades mexicanas detiveram 10 pessoas ligadas ao narcotráfico, incluindo um traficante de drogas e um polícia, numa operação que se desenrolou na cidade de Culiacán, no estado de Sinaloa, informou a polícia local.
+O traficante de drogas, identificado como José Luis, foi detido numa casa de Culiacán, onde se encontrava com um polícia, identificado como José Luis, que trabalha na polícia de Culiacán, informou o Ministério Público local, num comunicado.
+O Ministério Público precisou que José Luis, o traficante, é um dos principais responsáveis pelo tráfico de drogas no estado de Sinaloa.
+O polícia José Luis, que trabalha na polícia de Culiacán, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas, informou o Ministério Público.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a localização de outros traficantes de drogas.
+O Ministério Público precisou que José Luis, o polícia, é acusado de ter colaborado com o traficante de drogas, José Luis, e de ter-lhe fornecido informações sobre a local

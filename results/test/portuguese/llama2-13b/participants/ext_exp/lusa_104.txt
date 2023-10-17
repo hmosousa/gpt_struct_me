@@ -1,0 +1,21 @@
+["Três mortos", "ataque de hipopótamo", "travessia de rio", "província angolana", "do Bié", "Três pessoas", "morreram", "município de Camacupa", "província angolana", "do Bié", "sequência", "um ataque", "um hipopótamo", "noticiou", "hoje", "a rádio pública", "o incidente", "registou-se", "momento", "travessia", "rio Kwanza", "embarcação artesanal", "oito pessoas", "a bordo", "sofreu", "o ataque", "aquele mamífero", "um dos sobreviventes", "o ataque", "deu-se", "a noite", "domingo", "lavras", "salientando", "entre", "os mortos", "uma criança", "seu corpo", "desaparecido", "o administrador comunal", "Muinha", "Baptista Sambango", "incidente", "dado", "conhecer", "administrador municipal", "frisando", "dimensão", "rio é necessário", "se construa", "uma ponte", "travessia", "população"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos aumentou devido a uma revisão do número de mortos no World Trade Center, que passou de 2.749 para 2.753.
+A revisão foi feita após a identificação de três restos mortais que não foram identificados anteriormente.
+A identificação foi possível graças a uma nova tecnologia de análise de DNA, que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 2001.
+A nova tecnologia de análise de DNA foi desenvolvida pela Universidade de Nova Iorque e pela Universidade de Michigan.
+A Universidade de Nova Iorque e a Universidade de Michigan desenvolveram uma nova tecnologia de análise de DNA que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 2001.
+A nova tecnologia de análise de DNA foi desenvolvida pela Universidade de Nova Iorque e pela Universidade de Michigan.
+A Universidade de Nova Iorque e a Universidade de Michigan desenvolveram uma nova tecnologia de análise de DNA que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 2001.
+A nova tecnologia de análise de DNA foi desenvolvida pela Universidade de Nova Iorque e pela Universidade de Michigan.
+A Universidade de Nova Iorque e a Universidade de Michigan desenvolveram uma nova tecnologia de análise de DNA que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 2001.
+A nova tecnologia de análise de DNA foi desenvolvida pela Universidade de Nova Iorque e pela Universidade de Michigan.
+A Universidade de Nova Iorque e a Universidade de Michigan desenvolveram uma nova tecnologia de análise de DNA que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 2001.
+A nova tecnologia de análise de DNA foi desenvolvida pela Universidade de Nova Iorque e pela Universidade de Michigan.
+A Universidade de Nova Iorque e a Universidade de Michigan desenvolveram uma nova tecnologia de análise de DNA que permitiu a identificação de restos mortais de pessoas que morreram no ataque de 11 de setembro de 20

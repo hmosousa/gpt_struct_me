@@ -1,0 +1,15 @@
+[["criança", "Per"], ["ferida", "Other"], ["gravidade", "Other"], ["acidente", "Other"], ["na autoestrada", "Loc"], ["no Norte", "Loc"], ["na zona de São João da Talha", "Loc"], ["Loures", "Loc"], ["no sábado à noite", "Other"], ["morreu", "Per"], ["no hospital", "Loc"], ["disse à Lusa", "Org"], ["fonte da GNR", "Org"], ["o acidente", "Other"], ["que ocorreu", "Other"], ["cerca das 21:40 de sábado", "Other"], ["no sentido Norte/Sul", "Other"], ["envolveu", "Other"], ["três ligeiros", "Other"], ["quatro feridos", "Other"], ["sem gravidade", "Other"], ["anteriormente", "Other"], ["fonte do Comando Geral da GNR", "Org"], ["indicou à Lusa", "Org"], ["que a criança de 12 anos", "Other"], ["ficou encarcerada", "Other"], ["numa das viaturas", "Other"], ["envolvidas no acidente", "Other"], ["e foi", "Other"], ["posteriormente", "Other"], ["transportada para o hospital", "Other"], ["o trânsito", "Other"], ["chegou a estar", "Other"], ["cortado", "Other"], ["mas pelas 23:30 de sábado", "Other"], ["ja circulava", "Other"], ["pela faixa lateral", "Other"], ["no local do acidente", "Loc"], ["estiveram", "Other"], ["22 operacionais", "Per"], ["dos bombeiros", "Per"], ["do Instituto Nacional de Emergência Médica (INEM)", "Per"], ["e da polícia", "Per"], ["apoiados por", "Other"], ["10 viaturas", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

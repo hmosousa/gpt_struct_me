@@ -1,0 +1,15 @@
+["headway", "resolving", "standoff", "appears", "still", "breakthrough", "wrapped", "three", "hour", "meeting", "president", "Saddam", "Hussein", "Baghdad", "expected", "deputy", "prime", "Tariq", "Aziz", "major", "sticking", "proposal", "open", "presidential", "sites", "unrestricted", "access", "suspected", "weapons"]
+
+"""
+
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for event_trigger in event_trigger_regex.findall(text):
+        event_triggers.append(event_trigger)
+    return event_triggers
+
+
+if __name__ == "__main__":
+    import sys
+    sys.exit(extract_event_triggers(sys.stdin.read()).encode("utf-8"))

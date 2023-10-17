@@ -1,0 +1,1 @@
+["Dec. 10", "yesterday", "mid-afternoon", "30%"]

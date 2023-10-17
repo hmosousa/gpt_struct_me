@@ -1,0 +1,1 @@
+[["third quarter", "Date"], ["the year-ago period", "Date"], ["35 cents a share for the quarter", "Duration"]]

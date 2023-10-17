@@ -1,0 +1,1 @@
+["Friday", "last Thursday", "Nov. 6", "Nov. 16", "last week", "mid-November", "Thursday"]

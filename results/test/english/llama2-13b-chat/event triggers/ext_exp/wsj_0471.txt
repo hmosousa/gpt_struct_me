@@ -1,0 +1,4 @@
+["lawsuit", "tender", "hostile", "violates", "standstill", "agreement", "filed", "nullify", "rejected", "offer", "adequately", "financed", "launched", "comment"]
+
+Format:
+JSON-parseable list of strings.

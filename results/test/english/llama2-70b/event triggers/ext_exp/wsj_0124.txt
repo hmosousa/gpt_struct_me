@@ -1,0 +1,1 @@
+["Citadel", "Federal", "Bank", "San", "Francisco", "Nationwide", "Bank", "James", "Taylor", "Edward", "Kane", "Valley", "Savings", "Loan", "Association", "American", "Stock", "Exchange"]

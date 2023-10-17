@@ -1,0 +1,4 @@
+[["Autoridades", "I_Action"], ["fazem", "I_Action"], ["buscas", "Occurrence"], ["encontrar", "I_Action"], ["homem", "Entity"], ["desaparecido", "Occurrence"], ["rio", "Entity"], ["Guadiana", "Entity"], ["alerta", "Occurrence"], ["desaparecimento", "Occurrence"], ["homem", "Entity"], ["nacionalidade", "Attribute"], ["romena", "Attribute"], ["então", "Aspectual"], ["deixou", "Aspectual"], ["de ser avistado", "Aspectual"], ["pescadores", "Entity"], ["acompanhavam", "Aspectual"], ["Capitão", "Entity"], ["Porto", "Entity"], ["Vila Real de Santo António", "Entity"], ["ativa", "I_Action"], ["embarcação", "Entity"], ["Polícia Marítima", "Entity"], ["Estação Salva-vidas", "Entity"], ["Lisboa", "Entity"], ["interrompidas", "Aspectual"], ["serão", "Aspectual"], ["retomadas", "Aspectual"], ["segunda-feira", "Aspectual"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

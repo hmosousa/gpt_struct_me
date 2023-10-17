@@ -1,0 +1,21 @@
+["hoje de manhã", "cerca das 07:00", "domingo", "20:00", "21:30"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract time expressions:
+
+import re
+
+time_expressions = re.findall(r'\b(hoje|ontem|amanhã|semana|mês|ano|hora|minuto|segundo|década|centúria|milênio)\b', text)
+
+This code uses regular expressions to find all words that match the specified pattern. The pattern includes words for days of the week, months, years, hours, minutes, seconds, decades, centuries, and millennia. The \b symbol matches word boundaries, ensuring that only whole words are matched.
+
+You can then convert the list of time expressions to a JSON-parseable list of strings by wrapping it in square brackets and separating the elements with commas.
+
+For example, if the input text is "Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo", the output would be:
+
+["hoje", "sábado", "semana", "setembro", "ano", "menos de uma semana"]
+
+This list contains all the time expressions found in the input text, in the format required by the task.

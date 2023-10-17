@@ -1,0 +1,25 @@
+["encontrado", "morto", "marcas", "ter estado", "amarrado", "pés", "mãos", "localidade", "Fervença", "freguesia", "Maiorga", "concelho", "Alcobaça", "informou", "GNR", "alertada", "familiar", "vive perto", "vítima", "homem", "anos", "sozinho", "sinais", "ter sido", "indícios", "suicídio", "Diogo Morgado", "Destacamento Territorial", "Caldas da Rainha", "GNR", "alertada", "Polícia Judiciária", "analisou", "recolheu", "indícios", "residência", "distrito", "Leiria", "transportado", "serviço", "Medicina Legal", "autopsiado", "investigando", "circunstâncias", "Lusa", "Polícia Judiciária", "Leiria", "obter", "esclarecimentos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem encontrado morto em Alcobaça com marcas de ter estado amarrado
+Um homem de 75 anos foi hoje encontrado morto, em casa, com marcas de ter sido amarrado nos pés e nas mãos, na localidade de Fervença, freguesia de Maiorga, no concelho de Alcobaça, informou a GNR.
+A GNR foi alertada “por uma familiar que vive perto da vítima”, um homem de 75 anos que vivia sozinho e que “foi encontrado morto, com sinais de ter sido amarrado nos pés e nas mães

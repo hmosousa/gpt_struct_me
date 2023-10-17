@@ -1,0 +1,1 @@
+[["em Natal", "Date"], ["26", "Age"], ["Foz Côa", "Location"], ["Natal", "Date"], ["GNR", "Organization"], ["Tribunal Judicial de Seia", "Location"], ["prisão preventiva", "Punishment"]]

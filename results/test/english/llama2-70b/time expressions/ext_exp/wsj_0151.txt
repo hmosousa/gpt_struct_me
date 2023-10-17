@@ -1,0 +1,1 @@
+["San Antonio", "Texas", "$3.625", "$9.9 million", "New York", "$2.75"]

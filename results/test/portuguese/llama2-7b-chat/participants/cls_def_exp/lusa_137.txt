@@ -1,0 +1,1 @@
+[["GNR", "Org"], ["idaosa", "Per"], ["Sabroso", "Loc"], ["concelho", "Org"], ["Vila Real", "Loc"], ["unidade", "Org"], ["Centro Hospitalar", "Fac"], ["Trás-os-Montes e Alto Douro", "Loc"], ["UEPS", "Org"], ["Autoridade Nacional de Emergência e Proteção Civil", "Org"], ["página na Internet", "Other"], ["29 operacionais", "Org"], ["9 viaturas", "Org"]]

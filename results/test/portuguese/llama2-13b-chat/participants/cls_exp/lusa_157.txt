@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["59 anos", "Other"], ["atingido por uma árvore", "Other"], ["procedia ao seu abate", "Other"], ["no lugar de Barreiro", "Loc"], ["freguesia de Tangil", "Loc"], ["em Monção", "Loc"], ["distrito de Viana do Castelo", "Loc"], ["segundo a fonte do Comando Distrital de Operações de Socorro", "Org"], ["do INEM", "Org"], ["acionado para o local", "Other"], ["o médico do helicóptero", "Per"], ["do INEM", "Org"], ["declarou o óbito", "Other"], ["no local", "Loc"], ["segundo a fonte do INEM", "Org"], ["aliado às 14:25", "Other"], ["do INEM", "Org"], ["acionou para o local", "Other"], ["uma equipa de psicólogos", "Org"], ["Ao local compareceram", "Other"], ["um total de 16 operacionais", "Per"], ["dos Bombeiros de Monção e de Valença", "Org"], ["cinco viaturas", "Other"], ["entre elas a ambulância", "Other"], ["de Suporte Imediato de Vida (SIV)", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"
+* "Obj" stands for "Object"

@@ -1,0 +1,5 @@
+[
+["5 p.m. EST Nov. 9", "Time"],
+["Nov. 9", "Date"],
+["Nov. 6", "Date"]
+]

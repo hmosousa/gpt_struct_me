@@ -1,0 +1,8 @@
+
+["adopted", "defense", "measure", "hostile", "takeover", "prohibitively", "expensive", "issued", "common-share", "purchase", "rights", "certain", "circumstances", "entitle", "buy", "shares", "company", "acquirer", "half", "price", "board", "aware", "attempts", "take", "over", "Philip", "Morris", "shares", "outstanding", "trading", "closed", "yesterday", "$43.50"]
+
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string represents a trigger event in the input text. The events are extracted based on the definition provided in the task, and include both concrete actions and more abstract events, such as changes in emotional states or the passage of time.

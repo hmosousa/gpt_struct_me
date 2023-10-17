@@ -1,0 +1,6 @@
+[["encontrou", "I_Action"], ["idaosa", "State"], ["desaparecida", "Occurrence"], ["segunda-feira", "Aspectual"], ["Sabroso", "State"], ["concelho", "State"], ["GNR", "State"], ["equipa", "State"], ["cinotécnica", "State"], ["residência", "State"], ["familiar", "State"], ["Unidade", "State"], ["Centro", "State"], ["Hospitalar", "State"], ["Trás-os-Montes", "State"], ["Alto", "State"], ["Douro", "State"], ["alerta", "Occurrence"], ["procurada", "Occurrence"], ["elementos", "State"], ["UEPS", "State"], ["manhã", "Aspectual"], ["mobilizados", "State"], ["operacionais", "State"], ["viaturas", "State"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

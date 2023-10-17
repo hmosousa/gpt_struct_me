@@ -1,0 +1,4 @@
+["PJ", "Guiné-Bissau", "detém", "homem", "quilos", "cocaína", "aeroporto", "Polícia", "Judiciária", "Guiné-Bissau", "deteve", "sábado", "homem", "posse", "cocaína", "tentava", "embarcar", "voo", "destino", "Lisboa", "anunciou", "força policial", "comunicado", "Segundo", "comunicado", "homem", "cidadão", "luso-guineense", "transportava", "droga", "dissimulada", "cintura", "detido", "aeroporto", "internacional", "Osvaldo Vieira", "Bissau", "acrescenta", "Ministério Público", "início", "outubro", "cidadão", "luso-guineense", "quilograma", "cocaína", "preparava", "viajar", "Lisboa", "âmbito", "detenção", "PJ", "deteve", "igualmente", "homens", "alegado", "envolvimento", "aquisição", "entrega", "facilitação", "introdução", "interior", "aeroporto"]
+
+Reference:
+https://www.priberam.pt/pt/solucoes/linguagem-natural/linguagem-natural-para-processamento-de-texto/

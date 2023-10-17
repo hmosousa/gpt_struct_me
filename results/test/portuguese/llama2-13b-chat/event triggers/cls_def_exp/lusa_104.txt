@@ -1,0 +1,15 @@
+[["Três mortos", "Occurrence"], ["ataque de hipopótamo", "Occurrence"], ["durante travessia de rio", "Occurrence"], ["na província angolana do Bié", "Location"], ["Três pessoas", "Occurrence"], ["morreram", "Occurrence"], ["no município de Camacupa", "Location"], ["segundo um dos sobreviventes", "Reporting"], ["o ataque deu-se", "Occurrence"], ["alho da noite de domingo", "Aspectual"], ["quando os camponeses saíram das lavras", "Temporal"], ["entre os mortos encontra-se uma criança", "Occurrence"], ["cujo corpo se encontra desaparecido", "Occurrence"], ["o administrador comunal da Muinha", "Agent"], ["Baptista Sambango", "Agent"], ["disse", "Reporting"], ["pela dimensão do rio", "Aspectual"], ["é necessário que se construa uma ponte", "State"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity, and the second string is the class. The classes are:
+
+* Occurrence: refers to an event or a happening that takes place at a specific time and place.
+* State: refers to a situation or a condition that exists at a specific time and place.
+* Reporting: refers to the act of communicating or making known something that has happened or exists.
+* Aspectual: refers to a feature or a characteristic of an event or a state.
+* Intensional Action: refers to an action that is performed with a specific goal or intention.
+* Intensional State: refers to a state that exists with a specific goal or intention.
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or a state. For example, in the first input text, the event triggers are "Covi-19", "erros", "mortes", "quarentena", "divulgação", "investigação", "transmissão comunitária". In the second input text, the event triggers are "atento de hipopótamo", "morreram", "travessia de rio", "pela dimensão do rio".
+
+Your output should be a list of lists, where each inner list contains two strings: the first string is the entity, and the second string is the class. The classes are the same as the ones mentioned above.

@@ -1,0 +1,12 @@
+[
+["fourth-quarter", "Date"],
+["a year earlier", "Date"],
+["the latest period", "Date"],
+["last year's", "Date"],
+["the year ended Sept. 30", "Date"],
+["This year's", "Date"],
+["the full year", "Duration"],
+["over the next year or so", "Duration"],
+["For the year", "Duration"],
+["yesterday", "Date"]
+]

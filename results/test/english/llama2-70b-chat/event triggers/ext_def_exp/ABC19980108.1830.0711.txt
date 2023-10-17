@@ -1,0 +1,1 @@
+["not", "not", "down", "down", "up", "down", "soared", "plunged", "discounts", "few", "gloomy", "not", "hold", "get", "recession"]

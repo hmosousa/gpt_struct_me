@@ -1,0 +1,25 @@
+["GNR", "A GNR", "homem", "31 anos", "suspeitas", "prática", "crime", "tráfico", "droga", "cidade", "Borba", "distrito", "Évora", "fonte", "aquela", "força", "segurança", "homem", "detido", "militares", "Destacamento Territorial", "Estremoz", "sábado", "segunda-feira", "Tribunal", "Vila Viçosa", "primeiro", "interrogatório", "eventual", "aplicação", "medidas", "coação", "GNR", "apreendeu", "suspeito", "24,3 gramas", "heroína", "balança", "digital", "tesoura", "sacos", "plástico", "acondicionamento", "doses", "individuais", "cerca", "euros", "dinheiro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém suspeito de tráfico de droga em Borba
+A GNR deteve um homem de 31 anos por suspeitas da prática do crime de tráfico de droga na cidade de Borba, distrito de Évora, disse hoje à agência Lusa fonte daquela força de segurança.
+Segundo a mesma fonte, o homem foi detido por militares do Destacamento Territorial de Estremoz no sábado e vai ser presente na segunda-feira ao Tribunal de Vila Viçosa para primeiro interrogatório e eventual aplicação de medidas de coação.
+A GNR apreendeu ao suspeito 24,3 gramas de heroína, uma balança digital, uma tesoura, sacos de plástico para acondicionamento de doses individuais e cerca de 150 euros em dinheiro."
+
+Output:
+["GNR", "A GNR", "homem", "31 anos", "suspeitas", "prática", "crime", "tráfico", "droga", "cidade", "Borba", "distrito", "Évora", "fonte", "aquela", "força", "segurança", "homem", "detido", "militares", "Destacamento Territorial", "Estremoz", "sábado", "segunda-feira", "Tribunal", "Vila Viçosa", "primeiro", "interrogatório", "eventual", "aplicação", "medidas", "coação", "GNR", "apreendeu", "suspeito", "24,3 gramas", "heroína", "balança", "digital", "tesoura", "sacos", "plástico", "acondicionamento", "doses", "individuais", "cerca", "euros", "dinheiro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém suspeito de tráfico de droga em Borba
+A GNR deteve um homem de 31 anos por suspeitas da prática do crime de tráfico de droga na cidade de Borba, distrito de Évora, disse hoje à agência Lusa fonte daquela força de segurança.
+Segundo a mesma fonte, o homem foi detido por militares do Destacamento Territorial de Estremoz no sábado e vai ser presente na segunda-feira ao Tribunal de Vila Viçosa para primeiro interrogatório e eventual aplicação de medidas de coação.
+A GNR apreendeu ao suspeito 24,3 gramas de heroína, uma balança digital, uma tesoura, sacos de plástico para acondicionamento de doses individuais e cerca de 150 euros em dinheiro."
+
+Output:
+["GNR", "A GNR", "homem", "31 anos", "suspeitas", "prática", "crime", "tráfico", "droga", "cidade", "Borba", "distrito", "Évora

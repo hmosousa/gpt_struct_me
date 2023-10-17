@@ -1,0 +1,11 @@
+[
+["today", "Date"],
+["December", "Date"],
+["two hundred miles", "Duration"],
+["twenty years", "Duration"],
+["now", "Date"],
+["first", "Set"],
+["now", "Date"],
+["two hundred and thirty four", "Set"],
+["twenty six", "Set"]
+]

@@ -1,0 +1,10 @@
+["novembro de 2011", "outubro de 2016", "30 nov 2020"]
+
+Note:
+
+* The input text may contain irrelevant information.
+* The input text may contain multiple time expressions.
+* The output format is a JSON-parseable list of strings.
+* The time expressions may be in different formats, such as "d MMM y", "d MMM", "MMM d", "d MMM y", "d MMM", "MMM d y", "MMM d", "y MMM d", "y MMM", "MMM y d", "MMM y".
+* The time expressions may be in Portuguese or English.
+* The task is to extract all time expressions from the input text and return them in the output format.

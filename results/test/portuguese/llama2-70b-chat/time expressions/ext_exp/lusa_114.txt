@@ -1,0 +1,8 @@
+["hoje", "Talatona", "Torres Eucaliptos", "Rua Amílcar Cabral", "distrito da Ingombota", "30 nov 2020", "Instituto Nacional de Segurança Social", "definitiva e irrevogável", "pátrio imobiliário do Estado", "ónus ou encargos", "utilidade pública", "normal funcionamento"]
+
+Note:
+
+* Dates should be in the format "day month year" (e.g. "30 nov 2020").
+* Times should be in the format "HH:MM" (e.g. "14:30").
+* Durations should be in the format "X time" (e.g. "3 dias").
+* Recurring events should be in the format "every X time" (e.g. "every 2 weeks").

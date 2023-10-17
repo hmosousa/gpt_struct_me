@@ -1,0 +1,15 @@
+[["criança", "I_Action"], ["ferida", "Occurrence"], ["morreu", "Occurrence"], ["hospital", "State"], ["GNR", "Reporting"], ["acidente", "Occurrence"], ["ocorrido", "Occurrence"], ["gravidade", "Aspectual"], ["feridos", "Occurrence"], ["sem gravidade", "Aspectual"], ["envolveu", "Occurrence"], ["trânsito", "State"], ["cortado", "Occurrence"], ["circulava", "Aspectual"], ["faixa lateral", "Aspectual"], ["local", "Location"], ["estiveram", "I_Action"], ["operacionais", "I_Action"], ["bombeiros", "I_Action"], ["INEM", "I_Action"], ["polícia", "I_Action"], ["viaturas", "I_Action"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "criança" or "hospital"), and the second string is the class (e.g. "I_Action" or "State"). The classes are:
+
+* I_Action: an action or event that is taking place or has taken place
+* State: a state or condition that exists or existed at a given time
+* Occurrence: an event or happening that has taken place
+* Aspectual: an event or state that is described in terms of its aspect or properties
+* Intensional Action: an action that is directed towards a goal or objective
+* Intensional State: a state that is directed towards a goal or objective
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null.
+
+Please note that some words or phrases may have multiple event triggers, and some event triggers may be part of a larger event or action. Your task is to identify and classify all the event triggers in the input text.

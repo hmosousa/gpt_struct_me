@@ -1,0 +1,1 @@
+["hoje", "segunda-feira", "ontem [segunda-feira]", "noite de segunda-feira", "20 anos", "dezembro passado", "22 meses"]

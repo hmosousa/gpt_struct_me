@@ -1,0 +1,26 @@
+["resgatou", "resgatados", "militares", "deram", "cumprimento", "mandado", "busca", "deram", "cenário", "condições", "higiene", "trato", "animais", "animais", "resgatados", "animais", "sem", "registo", "vacinação", "antirrábica", "animais", "proprietário", "acolhia", "interior", "habitação", "entregues", "Veterinário", "colaborou", "constituído", "remetidos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR resgata 25 cães vítimas de maus-tratos em Seia
+A GNR anunciou hoje que resgatou 25 cães e constituiu arguido um homem, de 58 anos, pelo crime de maus-tratos a animais de companhia, no concelho de Seia, no distrito da Guarda.
+O Comando Territorial da GNR da Guarda refere em comunicado que os animais foram resgatados durante uma ação realizada na terça-feira através do Núcleo de Investigação de Crimes e Contraordenações Ambientais (NICCOA) e do Núcleo de Proteção Ambiental (NPA) de Gouveia.
+“No âmbito de uma investigação por maus-tratos a animais de companhia, os militares deram cumprimento a um mandado de busca domiciliária onde se depararam com um cenário de sobrepopulação de cães, sem condições de higiene, onde era visível a falta de trato

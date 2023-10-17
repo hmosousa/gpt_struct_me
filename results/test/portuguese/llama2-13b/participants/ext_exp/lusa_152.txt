@@ -1,0 +1,26 @@
+["a ministra da Saúde de Angola", "Sílvia Lutucuta", "a governante", "a província do Cunene", "o Hospital Geral", "O incêndio", "a noite de segunda-feira", "as áreas", "o bloco operatório", "as enfermarias cirúrgicas", "o posto de armazenamento de oxigênio", "os pacientes", "outras unidades hospitalares", "a zona", "a linha da frente", "a melhor atendimento", "o novo Hospital Municipal de Cuanhama", "a fase final das obras"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Governo angolano lamenta morte de duas pessoas em incêndio hospitalar no Cunene
+A ministra da Saúde de Angola, Sílvia Lutucuta, lamentou a morte de duas pessoas, na sequência do incêndio registado no Hospital Geral da província do Cunene.
+Uma nota do Ministério da Saúde informa que a governante, que se deslocou terça-feira àquela província do sul de Angola, para constatar os danos causados pelo incêndio no Hospital Geral de Ondjiva, capital do Cunene, lamentou a morte de um doente grave e de um recém-nascido, que necessitava de cuidados especiais.
+O incêndio registado na noite de segunda-feira, afetou as áreas do bloco operatório, enfermarias cirúrgicas e o posto de armazenamento de oxigênio.
+Sílvia Lutucuta disse que houve necessidade de se transferir os pacientes para outras unidades hospitalares da zona, salientando que uma equipa da linha da frente mobilizou-se para evitar o pior com os demais doentes.
+Todos os pacientes foram transferidos em vários centros de saúde e para melhor atendimento serão colocados no novo Hospital Municipal de Cuanhama, que se encontra em fase final das obras."
+
+Output:
+["a ministra da Saúde de Angola", "Sílvia Lutucuta", "a governante", "a província do Cunene", "o Hospital Geral", "O incêndio", "a noite de segunda-feira", "as áreas", "o bloco operatório", "as enfermarias cirúrgicas", "o posto de armazenamento de oxigênio", "os pacientes", "outras unidades hospitalares", "a zona", "a linha da frente", "a melhor atendimento", "o novo Hospital Municipal de Cuanhama", "a fase final das obras"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Governo angolano lamenta morte de duas pessoas em incêndio hospitalar no Cunene
+A ministra da Saúde de Angola, Sílvia Lutucuta, lamentou a morte de duas pessoas, na sequência do incêndio registado no Hospital Geral da província do Cunene.
+Uma nota do Ministério da Saúde informa que a governante, que se deslocou terça-feira àquela província do sul de Angola, para constatar os danos causados pelo incêndio no Hospital Geral de Ondjiva, capital do Cunene, lamentou a morte de um doente grave e de um recém-nascido, que necessitava de cuidados especiais.
+O incêndio registado na noite de segunda-feira, afetou as áreas do bloco operatório, enfermarias cirúrgicas e o posto de armazenamento de oxigênio.
+Sílvia Lutucuta disse que houve necessidade de se transferir os pacientes para outras unidades hospitalares da zona, salientando que uma equipa da linha da frente mobilizou-se para evitar o pior com os demais doentes.
+Todos os pacientes foram transferidos em vários centros de

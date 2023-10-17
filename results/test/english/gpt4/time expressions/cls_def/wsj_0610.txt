@@ -1,0 +1,13 @@
+[
+["1993", "Date"],
+["this year", "Date"],
+["Friday", "Date"],
+["the next two years", "Duration"],
+["1989", "Date"],
+["next year", "Date"],
+["Last Friday", "Date"],
+["1992", "Date"],
+["last year", "Date"],
+["third-quarter", "Date"],
+["the latest quarter", "Date"]
+]

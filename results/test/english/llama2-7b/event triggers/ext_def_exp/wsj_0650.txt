@@ -1,0 +1,21 @@
+["Sun Microsystems Inc.", "computer", "announced", "effectiveness", "registration", "statement", "125", "million", "6", "3/8", "convertible", "subordinated", "debentures", "Oct", "15", "1999", "company", "issued", "principal", "amount", "convertible", "time", "maturity", "Goldman", "Sachs", "Co"]
+
+"""
+
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for event_trigger in re.finditer(r"(\w+)\s+(\w+)", text):
+        event_triggers.append(event_trigger.group(1))
+    return event_triggers
+
+
+def main():
+    with open("input.txt") as f:
+        text = f.read()
+    event_triggers = extract_event_triggers(text)
+    print(event_triggers)
+
+
+if __name__ == "__main__":
+    main()

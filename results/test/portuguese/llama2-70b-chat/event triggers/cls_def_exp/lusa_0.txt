@@ -1,0 +1,17 @@
+[["acabou", "I_Action"], ["festa", "Occurrence"], ["ilegal", "State"], ["reunia", "Occurrence"], ["50", "Quantity"], ["pessoas", "Quantity"], ["comand", "I_Action"], ["territorial", "State"], ["Faro", "State"], ["denúncia", "Occurrence"], ["informar", "Reporting"], ["existência", "Occurrence"], ["festa", "Occurrence"], ["com", "Occurrence"], ["música", "Occurrence"], ["ao", "Occurrence"], ["vivo", "Occurrence"], ["estabelecimento", "State"], ["bebidas", "State"], ["deslocaram-se", "I_Action"], ["local", "State"], ["fiscalizar", "I_Action"], ["ocorrência", "Occurrence"], ["desmobilizaram", "I_Action"], ["pessoas", "Quantity"], ["cumprimento", "I_Action"], ["normas", "State"], ["pandemia", "State"], ["covid-19", "State"], ["proprietário", "State"], ["identificado", "Occurrence"], ["auto", "State"], ["de", "Occurrence"], ["contraordenação", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate the occurrence of an event. They can be verbs, nouns, adjectives, adverbs, or prepositional phrases that describe the event or its consequences.
+
+You can use the following classes to classify the event triggers:
+
+* State: Indicates a state or a situation.
+* Occurrence: Indicates an event or a happening.
+* Reporting: Indicates a report or a description of an event.
+* Perception: Indicates a perception or an observation of an event.
+* Aspectual: Indicates a change in aspect or a progression of an event.
+* Intensional Action: Indicates an action that is intended or planned.
+* Intensional State: Indicates a state that is intended or planned.
+
+Please provide your output in the format specified in the example.

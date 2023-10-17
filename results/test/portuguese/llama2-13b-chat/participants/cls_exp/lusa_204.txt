@@ -1,0 +1,15 @@
+[["um homem", "Per"], ["de 26 anos", "Per"], ["violência doméstica", "Nat"], ["prisão preventiva", "Fac"], ["no dia de Natal", "Loc"], ["no concelho de Foz Côa", "Loc"], ["a mãe de 46 anos", "Per"], ["e a irmã de 12 anos", "Per"], ["injuriou e ameaçou de morte", "Per"], ["com recurso a uma machada e uma navalha", "Per"], ["as portas da habitação", "Obj"], ["de forma a intimidar as vítimas", "Per"], ["tentou encetar a fuga", "Per"], ["tendo sido intercetado e detido", "Per"], ["os objetos utilizados para as ameaças", "Obj"], ["foram apreendidos", "Per"], ["o detido", "Per"], ["com antecedentes criminais", "Per"], ["por ilícitos da mesma natureza", "Other"], ["ficasujeito à medida de coação de prisão preventiva", "Fac"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Nat" stands for "Nature"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify each one correctly.
+* Some entities may have multiple classes, so be sure to include all relevant classes in your output.

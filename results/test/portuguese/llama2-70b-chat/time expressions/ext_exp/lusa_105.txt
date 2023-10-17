@@ -1,0 +1,9 @@
+["domingo", "30 nov 2020", "6 anos", "6 meses", "12 doses", "9 doses", "6 anos", "6 meses"]
+
+Note:
+
+* The input text may contain irrelevant information.
+* The input text may contain multiple time expressions.
+* The output format is a JSON-parseable list of strings.
+* The time expressions may be in different formats, such as "domingo", "sábado", "30 nov 2020", "6 anos", "6 meses", etc.
+* The task is to extract all time expressions from the input text, regardless of their format.

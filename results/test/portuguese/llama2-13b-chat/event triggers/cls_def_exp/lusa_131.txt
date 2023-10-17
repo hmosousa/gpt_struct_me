@@ -1,0 +1,12 @@
+[["apreendeu", "I_Action"], ["na ria de Aveiro", "Location"], ["nove viveiros ilegais", "Occurrence"], ["cerca de 205 quilos de crustáceos", "Occurrence"], ["20 quilos de enguia-europeia", "Occurrence"], ["2.765 euros", "Quantity"], ["em comunicado", "Reporting"], ["GNR", "Entity"], ["esclarece", "Reporting"], ["os militares da Guarda", "Entity"], ["detetaram", "Occurrence"], ["diversos crustáceos", "Occurrence"], ["20 quilos de enguia-europeia", "Occurrence"], ["uma espécie em vias de extinção", "Aspectual"], ["necessita de um certificado da CITES", "Aspectual"], ["para sua deteção", "Aspectual"], ["Pela instalação deste tipo de culturas em águas interiores", "State"], ["sem qualquer licenciamento", "State"], ["e pela apreensão dos respetivos viveiros", "State"], ["foi aberto um processo contraordenacional", "Occurrence"], ["para apuramento de responsabilidades", "Occurrence"], ["pelas infrações que poderão ser puníveis com uma coima máxima de 60 mil euros", "Aspectual"], ["os crustáceos e as enguias-europeias", "Entity"], ["por se encontrarem vivos", "State"], ["foram devolvidos ao meio natural", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions and events
+* Occurrence: events and happenings
+* State: states and conditions
+* Reporting: reporting and description
+* Aspectual: aspects and qualities
+* Intensional Action: intentional actions and events
+* Intensional State: intentional states and conditions

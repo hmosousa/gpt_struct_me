@@ -1,0 +1,25 @@
+["job", "cuts", "slashing", "executive", "salaries", "shaking", "management", "cost", "cutting", "revitalize", "position", "telecommunications", "industry", "applauded", "intense", "imagine", "stock", "skyrocketed", "finally", "downsizing", "waste", "good", "excellent", "company", "approaching", "caution", "shares", "nearly", "four", "sixty-one", "and", "half"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of genetically engineered corn that is resistant to a common pesticide. The Environmental Protection Agency is expected to decide this week whether to approve the sale of the corn, which is engineered to be resistant to the pesticide known as BT. The corn is made by Monsanto, the world's largest seed company. The company says the corn will help farmers reduce their use of pesticides. But environmental groups say the corn could lead to the development of pesticide-resistant insects. The EPA has already approved the sale of another type of genetically engineered corn that is resistant to a different pesticide. The agency is also considering whether to approve the sale of a new type of genetically engineered soybean that is resistant to a different pesticide. The EPA has not yet made a decision on the soybean."
+
+Output:
+["considering", "sale", "type", "genetically", "engineered", "corn", "resistant", "pesticide", "Environmental", "Protection", "expected", "approve", "sale", "resistant", "pesticide", "known", "company", "world's", "largest", "seed", "company", "help", "reduce", "use", "groups", "lead", "development", "resistant", "insects", "already", "another", "type", "engineered", "resistant", "decision", "soybean", "yet", "made", "decision", "soybean"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of genetically engineered corn that is resistant to a common pesticide. The Environmental Protection Agency is expected to decide this week whether to approve the sale of the corn, which is engineered to be resistant to the pesticide known as BT. The corn is made by Monsanto, the world's largest seed company. The company says the corn will help farmers reduce their use of pesticides. But environmental groups say the corn could lead to the development of pesticide-resistant insects. The EPA has already approved the sale of another type of genetically engineered corn that is resistant to a different pesticide. The agency is also considering whether to approve the sale of a new type of genetically engineered soybean that is resistant to a different pesticide. The EPA has not yet made a decision on the soybean."
+
+Output:
+["considering", "sale", "type", "genetically", "engineered", "corn", "resistant", "pesticide", "Environmental", "Protection", "expected", "approve", "sale", "resistant", "pesticide", "known", "company", "world's", "largest", "seed", "company", "help", "reduce", "use", "groups", "lead", "development", "resistant", "insects", "already", "another", "type", "engineered", "resistant", "decision", "soybean", "yet", "made", "decision", "soybean"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of genetically engineered corn that is resistant to a common pesticide. The Environmental Protection Agency is expected to decide this week whether to approve the sale of the corn, which is engineered to be resistant to the pesticide known as

@@ -1,0 +1,9 @@
+[
+["Thursday", "Date"],
+["the last five years", "Duration"],
+["recent months", "Duration"],
+["last year", "Date"],
+["more than 60 percent", "Duration"],
+["since 1993", "Date"],
+["Tuesday", "Date"]
+]

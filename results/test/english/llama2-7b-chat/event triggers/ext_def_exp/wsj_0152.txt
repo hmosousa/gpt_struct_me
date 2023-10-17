@@ -1,0 +1,1 @@
+["said", "offer", "set", "expire", "tendered", "rejected", "closed", "provides", "publishes", "operates"]

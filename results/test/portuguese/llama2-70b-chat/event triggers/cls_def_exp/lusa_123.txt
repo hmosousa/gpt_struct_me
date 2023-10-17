@@ -1,0 +1,17 @@
+[["ferida", "Occurrence"], ["acidente", "Occurrence"], ["ocorreu", "Occurrence"], ["gravidade", "State"], ["ferido", "Occurrence"], ["morrer", "I_Action"], ["hospital", "State"], ["fonte", "Reporting"], ["GNR", "State"], ["acidente", "Occurrence"], ["envolveu", "Occurrence"], ["ligeiros", "State"], ["feridos", "State"], ["sem gravidade", "State"], ["indicado", "Reporting"], ["Lusa", "State"], ["trânsito", "State"], ["cortado", "State"], ["circulava", "Aspectual"], ["pela faixa lateral", "State"], ["estiveram", "Occurrence"], ["operacionais", "State"], ["bombeiros", "State"], ["INEM", "State"], ["polícia", "State"], ["apoiados", "State"], ["viaturas", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation that holds or has held in the past.
+* Occurrence: refers to an event or a situation that happens or has happened.
+* Reporting: refers to a report or a description of a situation or event.
+* Aspectual: refers to a situation or event that is ongoing or continuous.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers to a state or situation that is intended or planned.
+
+The input text is in Portuguese, and the output should be in English.
+
+Note that the input text may contain more than one event trigger, and the output should include all of them.
+
+Also, note that the output should be in JSON format, with each element of the list containing the entity and its corresponding class as a string.

@@ -1,0 +1,3 @@
+[["morreu", "Occurrence"], ["incêndio", "Occurrence"], ["habitação", "State"], ["Ribeira Brava", "State"], ["concelho", "State"], ["fumo", "Occurrence"], ["gases", "Occurrence"], ["quart", "State"], ["fogo", "Occurrence"], ["hall", "State"], ["entrada", "State"], ["dormir", "State"], ["vítima", "State"], ["quart", "State"], ["interior", "State"], ["sem vida", "State"], ["forças policiais", "State"], ["apurar", "I_Action"], ["causas", "Occurrence"], ["incêndio", "Occurrence"], ["homem", "State"], ["70 anos", "State"]]
+
+Please note that the input and output are in Portuguese.

@@ -1,0 +1,24 @@
+["Now", "for", "today's", "geography", "quiz", "We're", "off", "in", "search", "of", "an", "ancient", "and", "exotic", "city", "An", "officially", "sanctioned", "one", "too", "UNESCO", "declared", "it", "a", "protected", "site", "for", "its", "beauty", "and", "its", "historical", "significance", "The", "city", "could", "have", "used", "some", "special", "protection", "in", "nineteen", "seventy-nine", "when", "the", "Soviet", "Union", "invaded", "Afghanistan", "Most", "of", "the", "city's", "monuments", "were", "destroyed", "including", "a", "magnificent", "tiled", "mosque", "which", "dominated", "the", "skyline", "for", "centuries", "The", "people", "here", "are", "famous", "throughout", "central", "Asia", "for", "their", "skill", "in", "fashioning", "pottery", "and", "tile", "glass", "too", "Some", "families", "have", "kept", "their", "glass", "working", "secrets", "for", "more", "than", "two", "thousand", "years", "Even", "though", "this", "city", "is", "in", "Afghanistan", "most", "people", "here", "speak", "a", "dialect", "of", "the", "Persian", "language", "and", "have", "long", "standing", "cultural", "ties", "with", "neighboring", "Iran", "Think", "you", "got", "it", "Well", "frankly", "I", "don't", "but", "the", "answer", "is", "coming", "up", "in", "just", "a", "few", "minutes"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The 1999-2000 season was the 100th season of the National Hockey League.
+The season began on October 7, 1999, and ended on June 23, 2000.
+The Stanley Cup Finals began on June 2 and ended on June 14, with the New Jersey Devils defeating the Dallas Stars in six games to win their first Stanley Cup.
+The Devils were the first expansion team to win the Stanley Cup since the 1967-68 St. Louis Blues.
+The Devils were also the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year's Finals.
+The Devils were the first team to win the Stanley Cup after losing in the previous year

@@ -1,0 +1,1 @@
+[["PSP", "Autoridades Judiciárias"], ["detém", "Date"], ["suspeito", "Date"], ["tráfico de droga", "Time"], ["arma de fogo", "Time"], ["heroína", "Time"], ["cocaína", "Time"], ["busca domiciliária", "Time"], ["efetivo", "Time"], ["esquadra", "Time"], ["fiscalização", "Time"]]

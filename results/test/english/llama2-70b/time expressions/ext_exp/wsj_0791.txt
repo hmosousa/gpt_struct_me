@@ -1,0 +1,1 @@
+["October", "two quarters", "a year ago", "recently"]

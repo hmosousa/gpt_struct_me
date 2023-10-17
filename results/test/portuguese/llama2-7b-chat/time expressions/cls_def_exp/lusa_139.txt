@@ -1,0 +1,8 @@
+[["em 27 nov 2020", "Date"], ["desde 27 nov 2020", "Duration"], ["Leiria", "Location"], ["efluentes suinícolas", "Entity"], ["GNR", "Entity"], ["27 nov 2020", "Date"], ["27 nov 2020", "Date"], ["27 nov 2020", "Date"]]
+
+Note:
+* The input text is in Portuguese.
+* The output is in JSON format, with each element being a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Date, Duration, Location, Entity, and Organization.
+* The input text contains several time expressions, including "em menos de uma semana", "sábado", "setembro", "final do ano", "menos de uma semana", and "27 nov 2020".
+* The output includes these time expressions, along with their corresponding classes.

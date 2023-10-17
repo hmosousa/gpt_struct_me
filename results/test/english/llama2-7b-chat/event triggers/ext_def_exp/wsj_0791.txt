@@ -1,0 +1,7 @@
+
+["said", "make", "tender", "offer", "some", "all", "common", "shares", "Norwood", "Partners", "Limited", "Boston", "Phoenix", "Technologies", "stock", "trading", "closed", "up", "down", "Securities", "Commission", "filing", "group", "holds", "stake", "talks", "declined", "officers", "Boston", "Oasis", "Capital", "management", "firm", "involved", "consultant"]
+
+
+Note:
+
+This output is a JSON-parseable list of strings, where each string is a trigger event in the given text. The events are identified by the words or phrases that signal a change in the text, such as "said", "make", "tender", "offer", "some", "all", "common", "shares", "Norwood", "Partners", "Limited", "Boston", "Phoenix", "Technologies", "stock", "trading", "closed", "up", "down", "Securities", "Commission", "filing", "group", "holds", "stake", "talks", "declined", "officers", "Boston", "Oasis", "Capital", "management", "firm", "involved", "consultant".

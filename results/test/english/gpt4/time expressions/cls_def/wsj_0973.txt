@@ -1,0 +1,14 @@
+[
+["next year", "Date"],
+["the next three years", "Duration"],
+["In 1988", "Date"],
+["Since 1983", "Date"],
+["the past 20 months", "Duration"],
+["this year", "Date"],
+["about a decade", "Duration"],
+["the 1990s", "Date"],
+["last year", "Date"],
+["the fourth quarter", "Date"],
+["in 1990", "Date"],
+["this year", "Date"]
+]

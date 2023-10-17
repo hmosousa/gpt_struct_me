@@ -1,0 +1,56 @@
+["launched", "controlled", "seek", "consummated", "seek", "financing", "obtaining", "reasonable", "expects", "repay", "declined", "standstill", "rejected", "fully", "restructuring", "for", "sale"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI, had argued that the SEC should have warned them that the company's stock was overvalued.
+The SEC had argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands.
+The case was brought by a group of investors who bought stock in CMGI, a company that provides Internet services.
+The investors claimed that the SEC had failed to protect them from fraud.
+The SEC argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands."
+
+Output:
+["refused", "appeal", "failed", "protect", "warned", "harm", "lower", "ruling", "stands"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI, had argued that the SEC should have warned them that the company's stock was overvalued.
+The SEC had argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands.
+The case was brought by a group of investors who bought stock in CMGI, a company that provides Internet services.
+The investors claimed that the SEC had failed to protect them from fraud.
+The SEC argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands."
+
+Output:
+["refused", "appeal", "failed", "protect", "warned", "harm", "lower", "ruling", "stands"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI, had argued that the SEC should have warned them that the company's stock was overvalued.
+The SEC had argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands.
+The case was brought by a group of investors who bought stock in CMGI, a company that provides Internet services.
+The investors claimed that the SEC had failed to protect them from fraud.
+The SEC argued that the investors had not shown that they had been harmed by the SEC's failure to warn them.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands."
+
+Output:
+["refused", "appeal", "failed", "protect", "warned", "harm", "lower", "ruling", "stands"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors, who bought stock in a company called CMGI

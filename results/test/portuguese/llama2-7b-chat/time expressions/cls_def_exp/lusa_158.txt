@@ -1,0 +1,1 @@
+[["homem de 48 anos", "Person"], ["hoje", "Date"], ["13:00", "Time"], ["Chorente", "Location"], ["Barcelos", "Location"], ["Braga", "Location"]]

@@ -1,0 +1,1 @@
+[["arranged", "OCCURRENCE"], ["said", "REPORTING"], ["said", "REPORTING"], ["used", "OCCURRENCE"], ["consolidate", "OCCURRENCE"], ["repurchase", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["used", "OCCURRENCE"], ["said", "REPORTING"], ["carries", "STATE"], ["dedicated", "I_STATE"], ["put", "OCCURRENCE"], ["said", "REPORTING"]]

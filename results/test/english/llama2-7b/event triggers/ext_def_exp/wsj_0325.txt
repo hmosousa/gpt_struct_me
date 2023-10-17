@@ -1,0 +1,32 @@
+["Coast", "Savings", "Financial", "Inc.", "reported", "third-quarter", "loss", "citing", "previously", "announced", "capital", "restructuring", "program", "The", "Los", "Angeles", "thrift", "holding", "company", "had", "loss", "year-ago", "comply", "government", "regulations", "program", "increase", "tangible", "capital", "ratio", "issuing", "convertible", "bonds", "during", "third", "charged", "against", "earnings", "reducing", "reserves", "junk-bond", "portfolio", "after", "these", "reduced", "less", "1%", "assets"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of life insurance policy that would pay out if the buyer dies of a heart attack or stroke.
+The plan, which would be the first of its kind, is being considered by the Treasury Department and the Internal Revenue Service, according to a report in the Wall Street Journal.
+The new policy would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out if the buyer dies of a heart attack or stroke.
+The plan would be similar to a traditional life insurance policy, but would pay out

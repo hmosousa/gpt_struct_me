@@ -1,0 +1,1 @@
+["filed", "offering", "owned", "seeking", "available", "said", "holds", "comment", "had"]

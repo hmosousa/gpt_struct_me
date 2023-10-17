@@ -1,0 +1,21 @@
+[
+["Sunday", "Date"],
+["the eve of the return", "Date"],
+["8-month-old", "Duration"],
+["Monday", "Date"],
+["Feb. 20", "Date"],
+["Sunday", "Date"],
+["50 miles", "Duration"],
+["two weeks ago", "Date"],
+["10 days ago", "Date"],
+["last week", "Date"],
+["Sunday", "Date"],
+["since 1972", "Date"],
+["Sunday", "Date"],
+["more than 2,000", "Set"],
+["the past three summers", "Duration"],
+["30 miles", "Duration"],
+["each July", "Set"],
+["this summer", "Date"],
+["Earlier Sunday", "Date"]
+]

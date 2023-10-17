@@ -1,0 +1,20 @@
+["apreendeu", "caçadeira", "pistola", "armas", "comprimido", "coldre", "decurso", "domiciliária", "denúncia", "violência", "doméstica", "explicou", "militares", "vítima", "alvo", "coação", "psicológica", "companheiro", "homem", "33", "âmbito", "busca", "denúncia", "crime", "violência", "doméstica", "operada", "caçadeira", "calibre", "pistola", "635mm", "armas", "comprimido", "64", "munições", "descreve", "nota", "imprensa", "remetidos", "Tribunal", "Felgueiras"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às novas ondas de casos de covid-19.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 províncias e regiões, de acordo com o ministério da saúde.
+A China está afrontando uma nova onda de casos de covid-19, com 100 milhões de pessoas em quarentena em 28 provín

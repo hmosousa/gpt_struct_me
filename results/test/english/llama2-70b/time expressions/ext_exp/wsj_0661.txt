@@ -1,0 +1,1 @@
+["$10", "$215 million", "1998", "Friday", "Jan.", "July", "Monday", "Tuesday", "Wednesday"]

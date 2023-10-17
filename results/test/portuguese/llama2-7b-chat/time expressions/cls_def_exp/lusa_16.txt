@@ -1,0 +1,1 @@
+[["25 anos", "Age"], ["Arcozelo", "Location"], ["Vila Nova de Gaia", "Location"], ["08:37", "Time"], ["08:51", "Time"], ["cozinha", "Location"], ["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Location"]]

@@ -1,0 +1,15 @@
+[["um homem", "Per"], ["de Amarante", "Loc"], ["indiciado", "Org"], ["por maltratar", "Per"], ["a sua mulher", "Per"], ["foi colocado", "Org"], ["sob vigilância", "Org"], ["eletrónica", "Fac"], ["e proibido", "Org"], ["de se aproximar", "Org"], ["da vítima", "Per"], ["que se refugiou", "Per"], ["em casa", "Loc"], ["de outros familiares", "Loc"], ["levando", "Per"], ["a filha comum", "Per"], ["informou", "Org"], ["hoje", "Loc"], ["a GNR", "Org"], ["Em comunicado", "Org"], ["aquela força policial", "Org"], ["retrata", "Org"], ["o arguido", "Per"], ["como", "Org"], ["um 'habitual consumidor'", "Other"], ["de bebidas alcoólicas", "Other"], ["Segundo", "Other"], ["a GNR", "Org"], ["o homem", "Per"], ["de 47 anos", "Age"], ["com uma frequência", "Other"], ["quase diária", "Other"], ["insultava", "Per"], ["ameaçava", "Per"], ["e agredia", "Per"], ["física e psicologicamente", "Other"], ["a vítima", "Per"], ["sua mulher", "Per"], ["de 46 anos", "Age"], ["na presença", "Other"], ["da filha menor", "Other"], ["de ambos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, but not all of them are relevant to the task.
+* Some entities and classes may be mentioned multiple times in the input text.
+* Pay attention to the context and the relationships between the entities and classes to determine the correct classes for each entity.

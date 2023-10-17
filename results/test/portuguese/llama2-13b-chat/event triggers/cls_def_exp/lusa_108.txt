@@ -1,0 +1,6 @@
+[["disparou", "I_Action"], ["alvejando-o", "Occurrence"], ["mortalmente", "Occurrence"], ["matar", "I_Action"], ["colega", "Entity"], ["durante", "Prep"], ["discussão", "Occurrence"], ["na", "Prep"], ["provincia", "Entity"], ["do", "Prep"], ["Moçambique", "Entity"], ["polícia", "Entity"], ["agente", "Entity"], ["de", "Prep"], ["proteção", "Occurrence"], ["recursos", "Occurrence"], ["meio", "Occurrence"], ["ambiente", "Occurrence"], ["distrito", "Entity"], ["magude", "Entity"], ["naquela", "Prep"], ["província", "Entity"], ["ouvir", "I_Action"], ["tiro", "Occurrence"], ["correram", "I_Action"], ["de", "Prep"], ["imediato", "Adverb"], ["detido", "I_Action"], ["processos", "Noun"], ["criminal", "Adjective"], ["disciplinar", "Adjective"], ["acompanhará", "I_Action"], ["comando", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "colega", "agente", etc.) and the second string is the class (e.g. "I_Action", "Occurrence", etc.). The classes are based on the categories you provided in your task.
+
+Please let me know if this is what you were looking for, or if you need any further assistance.

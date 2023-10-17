@@ -1,0 +1,10 @@
+[["encontrado", "I_Action"], ["morto", "State"], ["marcas", "Occurrence"], ["amarrado", "Occurrence"], ["pés", "Occurrence"], ["mães", "Occurrence"], ["sinais", "Occurrence"], ["ter suicídio", "Occurrence"], ["foi", "I_Action"], ["alertada", "Reporting"], ["GNR", "State"], ["Polícia Judiciária", "State"], ["analise", "Reporting"], ["recolheu", "Occurrence"], ["indícios", "Occurrence"], ["distrito", "Aspectual"], ["Leiria", "State"], ["servico", "State"], ["medicina legal", "State"], ["autopsiado", "Aspectual"], ["investigar", "Reporting"], ["circunstâncias", "Occurrence"], ["Lusa", "I_Action"], ["Polícia Judiciária", "State"], ["contactou", "Reporting"]]
+
+
+Note:
+
+* The input text is in Portuguese, and the output is in JSON-parseable lists, where each list contains two strings: the entity and the class.
+* The classes are: State (for events related to the state of the entity), Occurrence (for events related to the occurrence of the entity), Reporting (for events related to the reporting of the entity), Aspectual (for events related to the aspect of the entity), Intensional Action (for events related to the intention of the entity), Intensional State (for events related to the intention of the entity's state).
+* The output includes all the event triggers found in the input text, with the corresponding class.
+* The classes are defined based on the input text, and they can be used to categorize and analyze the event triggers in the text.
+* The output can be used to create a machine learning model that can classify new text into the corresponding class, based on the patterns and features extracted from the training data.

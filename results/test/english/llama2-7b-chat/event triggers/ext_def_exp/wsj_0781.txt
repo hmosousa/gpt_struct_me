@@ -1,0 +1,5 @@
+
+	["said", "Intel", "found", "computer", "experts", "say", "bugs", "don't", "affect", "most", "computer", "makers", "delay", "products", "schedules", "unaffected", "third-quarter", "earnings", "report", "low", "end", "analysts'", "expectations", "blamed", "Compaq", "plunged", "decline", "volume", "shares", "yesterday", "87.5", "cents", "Intel's", "stock", "over-the-counter", "trading", "3,609,800", "shares", "Sun", "Microsystems", "inc.", "decline", "86.25", "cents", "Sun's", "stock", "New York", "Stock", "Exchange", "composite", "trading", "yesterday", "2,633,700", "shares"]
+
+
+

@@ -1,0 +1,21 @@
+[
+["Thursday", "Set"],
+["almost two years ago", "Duration"],
+["within the next two weeks", "Duration"],
+["March 1996", "Date"],
+["17 kilometers (10 miles)", "Duration"],
+["11th century", "Date"],
+["In January this year", "Date"],
+["37 years old", "Duration"],
+["weeks or months", "Duration"],
+["March 26, 1996", "Date"],
+["after 22 months", "Duration"],
+["the second anniversary", "Date"],
+["last year", "Date"],
+["within a week", "Duration"],
+["the late 1970s", "Date"],
+["mid-1996", "Date"],
+["more than 10,000 men", "Duration"],
+["in June last year", "Date"],
+["In July last year", "Date"]
+]

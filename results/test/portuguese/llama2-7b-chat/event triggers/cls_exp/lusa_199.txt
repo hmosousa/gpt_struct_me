@@ -1,0 +1,1 @@
+[["morre", "State"], ["cair", "Occurrence"], ["telhado", "Aspectual"], ["limpar", "I_Action"], ["homem", "State"], ["Matosinhos", "State"], ["distrito", "State"], ["Porto", "State"], ["acidente", "Occurrence"], ["sete", "Aspectual"], ["local", "Aspectual"], ["bombeiros", "I_Action"]]

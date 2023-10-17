@@ -1,0 +1,15 @@
+[["um homem", "Per"], ["de 52 anos", "Per"], ["por cultivo e tráfico de droga", "Cr"], ["em Idanha-a-Nova", "Loc"], ["no distrito de Castelo Branco", "Loc"], ["a GNR", "Org"], ["em flagrante delito", "Cr"], ["a detenção", "Cr"], ["do homem", "Per"], ["efetuada na quinta-feira", "Cr"], ["através do Núcleo de Investigação Criminal (NIC) de Idanha-a-Nova", "Cr"], ["no âmbito de uma ação de policiamento", "Cr"], ["os militares", "Org"], ["detetaram o suspeito num terreno agrícola a cultivar canábis", "Cr"], ["tendo sido detido no momento", "Cr"], ["apreenderam ainda", "Cr"], ["seis quilos de cabeças de canábis", "Obj"], ["2,25 quilos de liamba", "Obj"], ["26 pés de canábis", "Obj"], ["uma balança", "Obj"], ["e um moinho", "Obj"], ["Esta ação contou com o reforço de militares", "Cr"], ["do Posto Territorial de Idanha-a-Nova da GNR", "Org"], ["O detido", "Per"], ["vai ser presente ao Tribunal Judicial de Idanha-a-Nova", "Cr"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Cr" stands for "Crime"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to identify them correctly.
+* Some entities may belong to more than one class, so be careful when categorizing them.
+* The output should be a list of lists, where each inner list contains two strings: the entity and the class.

@@ -1,0 +1,1 @@
+[["sete pessoas", "Person"], ["mexicano", "Location"], ["Tangamandapio", "Location"], ["semanão", "Time"], ["30 nov 2020", "Date"], ["ligação ao narcotráfico", "Crime"], ["violência", "Crime"]]

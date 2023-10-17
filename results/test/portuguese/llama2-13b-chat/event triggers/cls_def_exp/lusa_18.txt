@@ -1,0 +1,11 @@
+[["fogo", "Occurrence"], ["posto", "Occurrence"], ["incêndio", "Occurrence"], ["consumiu", "Occurrence"], ["casa", "State"], ["desabitada", "State"], ["danificou", "Occurrence"], ["totalmente", "Adverb"], ["habitação", "State"], ["suspeitas", "State"], ["fonte", "Reporting"], ["autarquia", "State"], ["vereador", "Reporting"], ["Lusa", "Reporting"], ["agência", "Reporting"], ["danos", "Occurrence"], ["provocados", "Occurrence"], ["fogo", "Occurrence"], ["efetuaram", "I_Action"], ["combate", "I_Action"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity, and the second string is the class. The classes are:
+
+* Occurrence: represents an event or a happening that takes place at a specific time and location.
+* State: represents a situation or a condition that exists at a specific time and location.
+* Reporting: represents a statement or a piece of information that is provided by someone or something.
+* Aspectual: represents a situation or a condition that is described in terms of its aspect, such as temporary or permanent.
+* Intensional Action: represents an action that is performed with a specific goal or intention.
+* Intensional State: represents a state that is described in terms of its intention or purpose.

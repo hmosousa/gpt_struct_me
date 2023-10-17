@@ -1,0 +1,26 @@
+[["Homem", "State"], ["encontrado", "Occurrence"], ["morto", "State"], ["ribeira", "State"], ["aldeia", "State"], ["Fráguas", "State"], ["concelho", "State"], ["Tondela", "State"], ["hoje", "Aspectual"], ["à tarde", "Aspectual"], ["encontrado", "Occurrence"], ["morto", "State"], ["caído", "Occurrence"], ["berma", "State"], ["via", "State"], ["ribiera", "State"], ["poderá", "Intensional State"], ["havido", "Occurrence"], ["acidente", "Occurrence"], ["tentar", "Intensional Action"], ["perceber", "Intensional Action"], ["contexto", "State"], ["óbito", "State"], ["confirmado", "Occurrence"], ["corpo", "State"], ["transportado", "I_Action"], ["Instituto Nacional de Medicina Legal", "State"], ["Segundo", "Intensional State"], ["Comando Distrital de Operações de Socorro de Viseu", "State"], ["local", "State"], ["estiveram", "Occurrence"], ["nove operacionais", "State"], ["apoiados", "State"], ["quatro veículos", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state of being or a condition
+* Occurrence: refers to an event or a happening
+* Reporting: refers to the act of reporting or describing an event
+* Perception: refers to a perception or an observation
+* Aspectual: refers to a moment or a time period
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The goal is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event. For example, in the sentence "The man was killed in a car accident", "killed" is an event trigger that indicates the occurrence of a fatal event.
+
+The output should be a list of pairs, where each pair contains the event trigger and its corresponding class. The classes are:
+
+* State: refers to a state of being or a condition
+* Occurrence: refers to an event or a happening
+* Reporting: refers to the act of reporting or describing an event
+* Perception: refers to a perception or an observation
+* Aspectual: refers to a moment or a time period
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input text is in Portuguese, and the output should be in English.

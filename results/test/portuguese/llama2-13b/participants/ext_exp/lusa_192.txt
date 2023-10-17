@@ -1,0 +1,20 @@
+["Tribunal de Viana do Castelo", "homem que matou outro", "a tiro", "12 anos de prisão", "O Tribunal de Viana do Castelo", "homem de 36 anos", "matou outro a tiro", "na cidade", "em 2013", "homicídio qualificado", "homicídio simples", "a arma do crime", "o homem", "prisão preventiva", "sete anos", "fuga", "não esteve presente", "sala de audiências", "outro crime", "ofensa à integridade física", "qualificada", "outro crime", "detenção de arma proibida", "a magistrada", "sufficiente", "a condenação", "a prova documental", "testemunhal", "produzida", "o julgamento", "indemnização", "a mãe", "a vítima mortal", "o valor total", "141 mil euros", "a mãe", "a vítima mortal", "o valor total", "141 mil euros"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pedro Passos Coelho diz que "não há dúvida" que Portugal está a crescer
+O primeiro-ministro Pedro Passos Coelho diz que "não há dúvida" que Portugal está a crescer, mas que "não é um crescimento que seja tão rápido como gostaríamos".
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrevista à RTP.
+"Estamos a crescer, não há dúvida, mas não é um crescimento que seja tão rápido como gostaríamos", disse o primeiro-ministro, numa entrev

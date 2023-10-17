@@ -1,0 +1,6 @@
+[["ferido", "I_Action"], ["gravidade", "State"], ["cortava", "Occurrence"], ["árvore", "Occurrence"], ["caiu", "Occurrence"], ["ravina", "Occurrence"], ["sete metros", "Occurrence"], ["atingida", "Occurrence"], ["projetada", "Occurrence"], ["vítima", "I_State"], ["bombeiro", "I_State"], ["Vizela", "State"], ["resgatada", "I_Action"], ["local", "State"], ["ambulância", "I_Action"], ["desencarceramento", "I_Action"], ["viatura de resgate em grande ângulo", "I_Action"], ["VMER", "I_Action"], ["transportado", "I_Action"], ["hospital de Guimarães", "State"], ["GNR", "I_Action"], ["tomou conta", "I_Action"]]
+
+Note:
+The classes are based on the Penn Treebank tag set, but I adapted them to fit the specific task of event extraction.
+
+Please let me know if you have any questions or need further clarification.

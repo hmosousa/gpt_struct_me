@@ -1,0 +1,48 @@
+[["morreu", "I_Action"], ["homem", "Entity"], ["morreu", "I_Action"], ["atacado", "Occurrence"], ["tubarão", "Entity"], ["praia", "Entity"], ["coxa", "Aspectual"], ["mão", "Aspectual"], ["ferimentos", "Occurrence"], ["assistida", "Reporting"], ["polícia", "Entity"], ["paramédicos", "Entity"], ["salvá-la", "I_Action"], ["morreu", "I_Action"], ["local", "Entity"], ["fechou", "I_Action"], ["praia", "Entity"], ["zona", "Entity"], ["ataques", "Occurrence"], ["mortes", "Occurrence"], ["Austrália", "Entity"], ["1929", "Aspectual"], ["2019", "Aspectual"], ["estudos", "Occurrence"], ["CSIRO", "Entity"], ["exemplares", "Aspectual"], ["adultos", "Aspectual"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "tubarão", "praia") and the second string is the class (e.g. "I_Action", "Occurrence", "Entity").
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action.
+
+For example, in the first input text, the event triggers are:
+
+* "pediu" (I_Action)
+* "desculpa" (State)
+* "erros" (Occurrence)
+* "levaram" (Occurrence)
+* "mortes" (Occurrence)
+* "quarentena" (State)
+* "divulgação" (Occurrence)
+* "explicou" (Reporting)
+
+In the second input text, the event triggers are:
+
+* "morreu" (I_Action)
+* "homem" (Entity)
+* "atacado" (Occurrence)
+* "tubarão" (Entity)
+* "praia" (Entity)
+* "coxa" (Aspectual)
+* "mão" (Aspectual)
+* "ferimentos" (Occurrence)
+* "assistida" (Reporting)
+* "polícia" (Entity)
+* "paramédicos" (Entity)
+* "salvá-la" (I_Action)
+* "morreu" (I_Action)
+* "local" (Entity)
+* "fechou" (I_Action)
+* "praia" (Entity)
+* "zona" (Entity)
+* "ataques" (Occurrence)
+* "mortes" (Occurrence)
+* "Austrália" (Entity)
+* "1929" (Aspectual)
+* "2019" (Aspectual)
+* "estudos" (Occurrence)
+* "CSIRO" (Entity)
+* "exemplares" (Aspectual)
+* "adultos" (Aspectual)
+
+Your task is to extract and classify all event triggers from the input text, using the classes you were given (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).

@@ -1,0 +1,9 @@
+[["em menos de uma semana", "Duration"], ["hoje", "Date"], ["Rua da Constituição", "Location"], ["07:50", "Time"], ["Porto", "Location"], ["52 anos", "Age"], ["Grua de camião", "Entity"], ["PSP", "Entity"]]
+Note:
+* The input text is in Portuguese.
+* The output is a JSON-parseable list with two strings for each element. The first string is the entity and the second is the class.
+* The classes are: Date, Location, Time, and Entity.
+* The entities are: "Grua de camião", "homem de 52 anos", "PSP", and "empresa municipal de ambiente do Porto".
+* The locations are: "Porto" and "Rua da Constituição".
+* The time is represented by the string "07:50".
+* The duration is represented by the string "menos de uma semana".

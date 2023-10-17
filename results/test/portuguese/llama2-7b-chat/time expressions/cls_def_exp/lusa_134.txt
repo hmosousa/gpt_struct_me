@@ -1,0 +1,11 @@
+[["GNR", "Autoridade"], ["hoje", "Date"], ["Santa Maria da Feira", "Location"], ["12:00", "Time"], ["12:30", "Time"], ["Milheirós de Poiares", "Location"], ["dinheiro", "Money"], ["detido", "Person"], ["procurado", "Person"], ["14:30", "Time"], ["dispositivo territorial", "Agency"], ["Destacamento de Intervenção", "Agency"]]
+
+Note:
+
+* The input text is in Portuguese.
+* The output is a JSON-parseable list of time expressions, where each element is a list with two strings: the entity and the class.
+
+
+
+
+

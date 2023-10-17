@@ -1,0 +1,1 @@
+[["homem", "Person"], ["rio tejo", "Location"], ["lisboa", "Location"], ["cais das colunas", "Location"], ["meio-dia", "Time"], ["perto do meio-dia", "Time"], ["reanimação cardiorrespiratória", "Medical"], ["salvamento", "Medical"], ["outro transeunte", "Person"], ["outro indivíduo", "Person"]]

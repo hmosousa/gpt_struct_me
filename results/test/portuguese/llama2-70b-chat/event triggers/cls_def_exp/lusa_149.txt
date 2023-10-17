@@ -1,0 +1,21 @@
+[["expressou", "I_Action"], ["solidariedade", "State"], ["famílias", "State"], ["vítimas", "State"], ["atentado", "Occurrence"], ["Alemanha", "State"], ["apoiou", "I_Action"], ["povo", "State"], ["autoridades", "State"], ["desejamos", "I_State"], ["recuperação", "State"], ["feridos", "State"], ["reiteramos", "I_Action"], ["apoio", "State"], ["motorista", "State"], ["detido", "Occurrence"], ["veículo", "State"], ["apreendido", "Occurrence"], ["polícia", "State"], ["resgate", "State"], ["pediram", "I_Action"], ["evitarem", "I_Action"], ["centro", "State"], ["cidade", "State"], ["incidente", "Occurrence"], ["Trier", "State"], ["Frankfurt", "State"], ["Luxemburgo", "State"]]
+
+Please note that the input text is in Portuguese and the output should be in English.
+
+Also, please note that the task is to extract and classify all event triggers, not to extract all events.
+
+Event triggers are words or phrases that indicate the occurrence of an event, such as "pediu" (asked), "expressou" (expressed), "ocorreu" (happened), "foi detido" (was detained), etc.
+
+The classification of event triggers should be done according to the following classes:
+
+* State: refers to a situation or condition that exists or persists over a period of time.
+* Occurrence: refers to an event or happening that takes place at a specific point in time or over a limited period of time.
+* Reporting: refers to the act of reporting or describing an event or situation.
+* Perception: refers to the way an event or situation is perceived or experienced by someone.
+* Aspectual: refers to the way an event or situation is viewed or considered in terms of its aspects or features.
+* Intensional Action: refers to an action or activity that is intended or planned.
+* Intensional State: refers to a state or condition that is intended or planned.
+
+Please note that some event triggers may belong to more than one class, depending on the context and the specific meaning of the sentence.
+
+It's important to mention that this task is a simplified version of a larger task, which is to extract and classify all events and event triggers from a text, and it's being used to train a model for that larger task.

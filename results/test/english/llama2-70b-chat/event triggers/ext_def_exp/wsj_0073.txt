@@ -1,0 +1,1 @@
+["declared", "effective", "mailing", "receive", "entitles", "expire", "exercised", "agreed", "owns"]

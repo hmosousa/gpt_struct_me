@@ -1,0 +1,14 @@
+[
+"cleared",
+"acquire",
+"approved",
+"plan",
+"share",
+"total",
+"yesterday",
+"thrifts",
+"transaction",
+"August",
+"set",
+"closing"
+]

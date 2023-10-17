@@ -1,0 +1,6 @@
+[["feriu", "I_Action"], ["bagos de borracha", "Occurrence"], ["balas de borracha", "Occurrence"], ["disparos para o ar", "Occurrence"], ["muníções reais", "Occurrence"], ["se recusou", "Occurrence"], ["parar", "I_Action"], ["atingido", "Occurrence"], ["pernas", "Occurrence"], ["desobedecer", "I_Action"], ["ordem de cessar", "Occurrence"], ["disparos de intimidação", "Occurrence"], ["ar", "Aspectual"], ["desconhecer", "Reporting"], ["causas do comportamento", "Reporting"], ["detido", "State"], ["tratado", "I_Action"], ["ferimentos ligeiros", "Occurrence"], ["unidade hospitalar", "Location"], ["detido no posto", "State"], ["será presente a juiz", "I_Action"], ["fixação das medidas de coação", "State"], ["polícia judiciária", "Reporting"], ["indicou", "Reporting"]]
+
+Note:
+The classes are based on the Penn Treebank tag set and were chosen based on their relevance to the task of event extraction. The classes are not mutually exclusive, and an event can be classified under multiple classes.
+
+Please let me know if you need any further clarification or details.

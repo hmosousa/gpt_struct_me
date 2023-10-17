@@ -1,0 +1,27 @@
+["Heritage Media Corp.", "New York", "said", "it offered", "to buy", "the shares", "of POP Radio Corp.", "it doesn't already own", "in a stock swap", "Heritage", "which owns", "51%", "of POP's", "3.6 million", "shares", "outstanding", "said", "it will exchange", "one share", "of a new", "preferred stock", "for each", "POP common", "share", "it doesn't", "already own", "Depending", "upon", "how many", "warrants", "and options", "are exercised", "prior", "to completion", "of the transaction", "Heritage", "would issue", "between", "1.8 million", "and", "2.35 million", "preferred shares", "a Heritage", "spokesman", "estimated", "In", "national", "over-the-counter", "trading", "yesterday", "POP", "plunged", "$4", "to", "$14.75", "The", "preferred stock", "which", "would have", "a dividend", "rate", "of", "$1.76", "a year", "would be convertible", "into Heritage", "common", "at a rate", "of four", "common shares", "for each", "preferred"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn to farmers, the Agriculture Department said Thursday.
+The decision to allow the sale of the corn, which is engineered to resist the herbicide Roundup, was made after a 120-day review of the product by the department's Animal and Plant Health Inspection Service.
+The corn, called Roundup Ready corn, is engineered by Monsanto Co. to resist the herbicide Roundup, which is made by Monsanto.
+The corn is the first genetically engineered crop to be approved for sale in the United States.
+The decision to allow the sale of the corn was made after a 120-day review of the product by the department's Animal and Plant Health Inspection Service.
+The corn, called Roundup Ready corn, is engineered by Monsanto Co. to resist the herbicide Roundup, which is made by Monsanto.
+The corn is the first genetically engineered crop to be approved for sale in the United States."
+
+Output:
+["The U.S. government", "has decided", "to allow", "the sale", "of a new", "type of genetically engineered corn", "to farmers", "the Agriculture Department", "said Thursday", "The decision", "to allow", "the sale", "of the corn", "which", "is engineered", "to resist", "the herbicide Roundup", "was made", "after a 120-day", "review of the product", "by the department's Animal and Plant Health Inspection Service", "The corn", "called Roundup Ready corn", "is engineered", "by Monsanto Co.", "to resist", "the herbicide Roundup", "which", "is made", "by Monsanto", "The corn", "is the first", "genetically engineered crop", "to be approved", "for sale", "in the United States"
+]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn to farmers, the Agriculture Department said Thursday.
+The decision to allow the sale of the corn, which is engineered to resist the herbicide Roundup, was made after a 120-day review of the product by the department's Animal and Plant Health Inspection Service.
+The corn, called Roundup Ready corn, is engineered by Monsanto Co. to resist the herbicide Roundup, which is made by Monsanto.
+The corn is the first genetically engineered crop to be approved for sale in the United States.
+The decision to allow the sale of the corn was made after a 

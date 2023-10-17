@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["outro homem", "Per"], ["uma vítima", "Per"], ["o ferido grave", "Per"], ["a outra vítima", "Per"], ["o atropelamento", "Other"], ["o veículo ligeiro", "Obj"], ["a Estrada Nacional 2-3", "Loc"], ["a freguesia de Valada", "Loc"], ["o Hospital de São José", "Fac"], ["Lisboa", "Loc"], ["a GNR de Santarém", "Org"], ["a página na Internet", "Other"], ["a Autoridade Nacional de Emergência e Proteção Civil", "Org"], ["dois homens", "Per"], ["entre os 30 e os 40 anos", "Other"], ["circulavam a pé", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

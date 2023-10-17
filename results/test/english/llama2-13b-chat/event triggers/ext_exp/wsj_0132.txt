@@ -1,0 +1,4 @@
+["net income", "jumped", "substantially", "lower", "extraordinary", "charges", "account", "restructuring", "program", "gained", "guilders", "share", "year", "ago", "state-owned", "division", "sale", "construction", "charges", "other", "transactions", "earnings", "cut", "net", "financing", "spending", "half", "around", "Dutch", "corporate", "tax", "outlay", "flat", "relative", "sales", "little", "changed"]
+
+Format:
+JSON-parseable list of strings.

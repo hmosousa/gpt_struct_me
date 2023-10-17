@@ -1,0 +1,1 @@
+["proposed", "changed", "transaction", "terms", "pay", "share", "preferred", "liquidation", "outstanding", "offered", "accessories", "dividends", "redeemed", "comment"]

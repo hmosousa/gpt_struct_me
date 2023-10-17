@@ -1,0 +1,4 @@
+["panicked", "intended", "firing", "hit", "pronounced", "fled", "appeared", "did", "not", "injured", "took", "victim", "establishment", "spokesman", "years", "machines", "removed", "room", "management", "offices"]
+
+Note:
+The output is a list of strings, where each string is a word or phrase that is relevant to the event described in the input text. The words and phrases are extracted based on their relevance to the event, and are not necessarily the most common words or phrases in the input text. The output is in JSON-parseable format, with each word or phrase as a separate string element in the list.

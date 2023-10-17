@@ -1,0 +1,1 @@
+[["homem", "Person"], ["ferido", "Injury"], ["Regilde", "Location"], ["sete metros", "Distance"], ["17:55", "Time"], ["ravina", "Location"], ["Felgueiras", "Location"], ["Vizela", "Location"], ["VMER", "Organization"], ["Hospital de Guimarães", "Location"]]

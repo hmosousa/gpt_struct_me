@@ -1,0 +1,6 @@
+[
+["three hour", "Duration"],
+["today", "Date"],
+["this afternoon", "Time"],
+["no more than sixty days", "Duration"]
+]

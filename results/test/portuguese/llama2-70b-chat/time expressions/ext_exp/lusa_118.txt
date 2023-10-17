@@ -1,0 +1,24 @@
+["hoje", "quarta-feira", "ontem", "manhã", "18 a 20 de dezembro", "depois"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of strings, where each string represents a time expression.
+* The time expressions can be in different formats, such as "hoje" (today), "ontem" (yesterday), "manhã" (morning), "quarta-feira" (Wednesday), "18 a 20 de dezembro" (December 18-20), etc.
+* The output should be in a JSON-parseable format, meaning that it can be easily parsed and converted into a JSON object.
+
+This task is similar to the previous one, but with a different input text and a different output format. The input text is in Portuguese, and the output should be a list of strings representing time expressions. The time expressions can be in different formats, and the output should be in a JSON-parseable format.
+
+As before, you can use natural language processing techniques and tools to extract the time expressions from the input text. You can also use a similar approach to the previous task, by using a regular expression to match the time expressions and then converting the matches into a list of strings.
+
+Here's an example of a regular expression that can be used to match time expressions in Portuguese:
+
+\b(hoje|ontem|manhã|tarde|noite|semana|mês|ano)\b
+
+This regular expression matches words that are in the format of "hoje" (today), "ontem" (yesterday), "manhã" (morning), "tarde" (afternoon), "noite" (night), "semana" (week), "mês" (month), or "ano" (year). The "\b" characters match word boundaries, which ensures that the matches are whole words and not parts of other words.
+
+Once you have the list of time expressions, you can convert it into a JSON-parseable format by wrapping it in square brackets and separating the elements with commas. For example:
+
+[ "hoje", "ontem", "manhã", "quarta-feira", "18 a 20 de dezembro", "depois" ]
+
+This output can be easily parsed and converted into a JSON object using a JSON parser.

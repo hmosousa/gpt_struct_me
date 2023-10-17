@@ -1,0 +1,13 @@
+
+[["um homem", "Per"], ["75 anos", "Age"], ["em casa", "Loc"], ["Fervença", "Loc"], ["Maiorga", "Loc"], ["Alcobaça", "Loc"], ["GNR", "Org"], ["Polícia Judiciária", "Org"], ["Lusa", "Org"]]
+
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned, such as a person, a location, and an organization.
+* The output is a list of all the entities mentioned in the input, along with their corresponding classes.
+* The classes are: Person, Location, Organization.
+* The output list includes the following entities: "um homem", "75 anos", "em casa", "Fervença", "Maiorga", "Alcobaça", "GNR", "Polícia Judiciária", and "Lusa".
+* Each entity is assigned to a class based on its relevance to the situation. For example, "um homem" is classified as "Person" because it refers to an individual involved in the situation. "em casa" is classified as "Loc" because it refers to a location where the event occurred. "GNR" is classified as "Org" because it is an organization mentioned in the context.

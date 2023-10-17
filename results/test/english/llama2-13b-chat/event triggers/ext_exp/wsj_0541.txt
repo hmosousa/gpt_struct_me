@@ -1,0 +1,9 @@
+[
+"redeem",
+"pay",
+"conversion",
+"shares",
+"issuance",
+"cost",
+"yield"
+]

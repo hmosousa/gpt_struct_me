@@ -1,0 +1,1 @@
+["plans", "redeem", "pay", "face", "conversion", "trading", "closed", "down", "issue", "last", "had", "redeeming", "because", "after-tax", "dividend", "yield", "common", "spokesman"]

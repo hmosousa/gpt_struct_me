@@ -1,0 +1,6 @@
+[["GNR", "Org"], ["25 cães", "Per"], ["Seia", "Loc"], ["maus-tratos", "Other"], ["58 anos", "Per"], ["Comando Territorial", "Org"], ["Núcleo de Investigação", "Org"], ["Núcleo de Proteção", "Org"], ["mandado de busca domiciliária", "Other"], ["cenário de sobrepopulação", "Other"], ["falta de trato", "Other"], ["Veterinário Municipal", "Org"], ["Tribunal Judicial", "Org"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

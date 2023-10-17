@@ -1,0 +1,4 @@
+["raised", "stake", "common", "outstanding", "Hewlett-Packard", "said", "now", "holds", "1,384,119", "Octel", "shares", "including", "100,000", "bought", "Aug. 26", "to", "Oct. 20", "$23.31", "$24.25", "a", "share", "acquired", "the", "stock", "develop", "maintain", "strategic", "partnership", "independent", "working", "together", "market", "sell", "According", "agreement", "also", "called", "buy", "10%, "half", "sold", "directly", "by", "Octel"]
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,12 @@
+[["Filipe Guimarães", "Per"], ["o condutor", "Per"], ["a viatura", "Obj"], ["o acidente", "Other"], ["a Estrada Nacional 101", "Loc"], ["o Hospital de Braga", "Org"], ["o Hospital de Viana do Castelo", "Org"], ["as 13:55", "Other"], ["a freguesia de São Paio e Giela", "Loc"], ["duas faixas", "Other"], ["o óleo", "Obj"], ["os destroços", "Other"], ["a viatura", "Obj"], ["o trânsito", "Other"], ["manter-se", "Other"], ["cortada", "Other"], ["até às 16:30", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Obj" stands for "Object"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+
+Hint:
+You can use the "entities" and "classes" to train a machine learning model to classify the participants in the text.
+
+Please let me know if you need any further assistance.

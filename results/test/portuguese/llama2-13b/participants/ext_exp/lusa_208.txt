@@ -1,0 +1,27 @@
+["Avião aterra de emergência no aeroporto de Lisboa devido a falha no motor", "Um avião aterrou hoje de emergência no Aeroporto Humberto Delgado, em Lisboa, devido a uma falha no motor, disse à agência Lusa fonte da Polícia de Segurança Pública.", "O alerta para a aterragem de emergência por a aeronave ter um motor parado, segundo a mesma fonte, foi dado pelas 17:50.", "A aeronave aterrou, pelas 18:32, sem incidentes dignos de registo, acrescentou.", "O avião pertence à companhia aérea Jota Aviation e fazia a ligação entre os aeroportos de Farnborough, na Inglaterra, e Lisboa, de acordo com o ‘site’ da ANA-Aeroportos de Portugal."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Avião aterra de emergência no aeroporto de Lisboa devido a falha no motor
+Um avião aterrou hoje de emergência no Aeroporto Humberto Delgado, em Lisboa, devido a uma falha no motor, disse à agência Lusa fonte da Polícia de Segurança Pública.
+O alerta para a aterragem de emergência por a aeronave ter um motor parado, segundo a mesma fonte, foi dado pelas 17:50.
+A aeronave aterrou, pelas 18:32, sem incidentes dignos de registo, acrescentou.
+O avião pertence à companhia aérea Jota Aviation e fazia a ligação entre os aeroportos de Farnborough, na Inglaterra, e Lisboa, de acordo com o ‘site’ da ANA-Aeroportos de Portugal."
+
+Output:
+["Avião aterra de emergência no aeroporto de Lisboa devido a falha no motor", "Um avião aterrou hoje de emergência no Aeroporto Humberto Delgado, em Lisboa, devido a uma falha no motor, disse à agência Lusa fonte da Polícia de Segurança Pública.", "O alerta para a aterragem de emergência por a aeronave ter um motor parado, segundo a mesma fonte, foi dado pelas 17:50.", "A aeronave aterrou, pelas 18:32, sem incidentes dignos de registo, acrescentou.", "O avião pertence à companhia aérea Jota Aviation e fazia a ligação entre os aeroportos de Farnborough, na Inglaterra, e Lisboa, de acordo com o ‘site’ da ANA-Aeroportos de Portugal."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Avião aterra de emergência no aeroporto de Lisboa devido a falha no motor
+Um avião aterrou hoje de emergência no Aeroporto Humberto Delgado, em Lisboa, devido a uma falha no motor, disse à agência Lusa fonte da Polícia de Segurança Pública.
+O alerta para a aterragem de emergência por a aeronave ter um motor parado, segundo a mesma fonte, foi dado pelas 17:50.
+A aeronave aterrou, pelas 18:32, sem incidentes dignos de registo, acrescentou.
+O avião pertence à companhia aérea Jota Aviation e fazia a ligação entre os aeroportos de Farnborough, na Inglaterra, e Lisboa, de acordo com o ‘site’ da ANA-Aeroportos de Portugal."
+
+Output:
+["Avião aterra de emergência no aeroporto de Lisboa devido a falha no motor", "Um avião aterrou hoje de emergência no Aeroporto Humberto Delgado, em Lisboa, devido a uma falha no motor, disse à agência Lusa fonte da Polícia de Segurança Pública.", "O alerta

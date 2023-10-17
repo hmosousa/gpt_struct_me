@@ -1,0 +1,1 @@
+[["raised", "OCCURRENCE"], ["said", "REPORTING"], ["remains", "STATE"], ["were", "STATE"], ["offer", "OCCURRENCE"], ["has", "STATE"], ["scheduled", "ASPECTUAL"], ["acquisition", "OCCURRENCE"], ["raises", "OCCURRENCE"], ["derived", "OCCURRENCE"]]

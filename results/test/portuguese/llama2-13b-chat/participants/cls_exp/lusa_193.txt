@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 68 anos", "Per"], ["caiu", "Other"], ["no Rio Tejo", "Loc"], ["junto ao Cais das Colunas", "Loc"], ["em Lisboa", "Loc"], ["mas está fora de perigo", "Other"], ["depois de ter sido socorrido", "Other"], ["por outro indivíduo", "Per"], ["e transportado", "Other"], ["para o Hospital de São José", "Loc"], ["Fonte oficial", "Org"], ["da Polícia Marítima", "Org"], ["adiantou à Lusa", "Other"], ["que a ocorrência teve lugar", "Other"], ["perto do meio-dia", "Other"], ["e que o homem", "Per"], ["chegou a ser alvo", "Other"], ["de 'reanimação cardiorrespiratória'", "Other"], ["no local", "Loc"], ["O salvamento", "Other"], ["foi efetuado", "Other"], ["por outro transeunte", "Per"], ["que passava", "Other"], ["nas imediações", "Loc"], ["e se atirou", "Other"], ["à água", "Other"], ["quando viu", "Other"], ["o homem", "Per"], ["em dificuldades", "Other"], ["O cidadão", "Per"], ["de 68 anos", "Per"], ["foi então", "Other"], ["levado", "Other"], ["por uma ambulância", "Other"], ["do Instituto Nacional", "Org"], ["de Emergência Médica", "Org"], ["(INEM)", "Org"], ["para o Hospital", "Loc"], ["de São José", "Loc"], ["onde ainda se encontra", "Other"], ["internado", "Other"], ["mas livre", "Other"], ["de perigo", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

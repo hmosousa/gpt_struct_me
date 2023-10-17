@@ -1,0 +1,17 @@
+[["uma casa", "Fac"], ["desabou", "Other"], ["na cidade de Hyderabad", "Loc"], ["no sul da Índia", "Loc"], ["devido a chuvas sem precedentes", "Other"], ["e graves inundações", "Other"], ["que mataram", "Other"], ["pelo menos oito pessoas", "Per"], ["disse hoje a polícia local", "Org"], ["Além dos mortos", "Per"], ["outras quatro pessoas", "Per"], ["foram hospitalizadas", "Other"], ["depois de um muro ter caído", "Other"], ["sobre uma casa vizinha", "Other"], ["que desabou com o impacto", "Other"], ["A forte chuva em Hyderabad", "Other"], ["quebrou um recorde", "Other"], ["estabelecido há 20 anos", "Other"], ["registando-se inundações", "Other"], ["em áreas baixas da cidade", "Loc"], ["where the authorities", "Org"], ["used boats", "Other"], ["to retrieve people", "Other"], ["Mais de 9,6 milhões de pessoas", "Other"], ["em todo o sul da Ásia", "Loc"], ["foram afetadas", "Other"], ["por severas inundações", "Other"], ["este ano", "Other"], ["Cerca de 550 pessoas", "Per"], ["morreram", "Other"], ["na Índia", "Loc"], ["Bangladesh", "Loc"], ["e Nepal", "Loc"], ["enquanto milhões", "Other"], ["foram deslocadas", "Other"], ["das suas casas", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the given text to identify the entities and their classes.
+* Each entity should be classified according to its type (Person, Organization, Object, Location, Nature, Facility, or Other).
+* Each class should be represented by a list of strings, where the first string is the entity and the second string is the class.
+
+Please let me know if you need any further clarification or assistance.

@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["antecedentes criminais", "Org"], ["tráfico de droga", "Other"], ["Vila Nova de Gaia", "Loc"], ["GNR", "Org"], ["pulseira eletrónica", "Fac"], ["injuriar", "Per"], ["ameaçar", "Per"], ["perseguir", "Per"], ["a vítima", "Per"], ["30 anos", "Per"], ["frisou", "Org"], ["nós últimos meses", "Per"], ["variosos comportamentos", "Other"], ["controle", "Per"], ["perseguição", "Per"], ["danos", "Other"], ["veículo", "Loc"], ["A GNR", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and classes.
+* The entities are: "um homem", "antecedentes criminais", "tráfico de droga", "Vila Nova de Gaia", "GNR", "pulseira eletrónica", "vítima", "30 anos", "frisou".
+* The classes are: "Per", "Org", "Other", "Loc", "Fac", "Per".
+* The output list has 13 elements, each representing a pair of entity and class.

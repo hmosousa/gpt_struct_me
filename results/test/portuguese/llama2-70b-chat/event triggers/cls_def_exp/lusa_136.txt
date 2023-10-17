@@ -1,0 +1,3 @@
+[["detém", "I_Action"], ["homem", "State"], ["maus-tratos", "Occurrence"], ["pai", "State"], ["cometidos", "Occurrence"], ["concelho", "State"], ["distrito", "State"], ["Porto", "State"], ["denúncia", "Occurrence"], ["maus-tratos", "Occurrence"], ["agredido", "Occurrence"], ["injuriado", "Occurrence"], ["coagido", "Occurrence"], ["vítima", "State"], ["pai", "State"], ["dinar", "Occurrence"], ["estupefacientes", "State"], ["mandado", "State"], ["detenção", "State"], ["cumprimento", "Occurrence"], ["quarta-feira", "State"], ["militares", "State"], ["Posto Territorial", "State"], ["Tribunal de Instrução Criminal", "State"], ["Matosinhos", "State"], ["aplicação", "Occurrence"], ["medidas", "State"], ["coação", "State"]]
+
+Please note that the input text is in Portuguese.

@@ -1,0 +1,5 @@
+[
+["this month", "Date"],
+["early 1991", "Date"],
+["a night", "Set"]
+]

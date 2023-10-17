@@ -1,0 +1,4 @@
+["terms", "proposed", "rights", "expected", "net", "used", "proceeds", "offering", "will", "entitle", "held", "price", "record", "outstanding", "closed", "said", "subscribe", "any", "aren't", "held", "approved", "eliminate", "payments"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a trigger event in the given text. The events are identified by their position in the text, and are organized in a list for easy processing and analysis.

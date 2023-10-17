@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["de 60 anos", "Per"], ["ficou hoje", "Per"], ["em estado grave", "Per"], ["após ter caído", "Per"], ["de um andaime", "Other"], ["a cerca de", "Other"], ["três a quatro metros", "Other"], ["de altura", "Other"], ["quando trabalhava", "Per"], ["numa obra", "Other"], ["em Ponte de Lima", "Loc"], ["disse o comandante", "Per"], ["dos bombeiros locais", "Org"], ["Carlos Lima", "Per"], ["explicou que", "Per"], ["o homem", "Per"], ["foi transportado", "Per"], ["em estado grave", "Per"], ["pela ambulância", "Other"], ["de Suporte Imediato de Vida (SIV)", "Other"], ["para o hospital", "Other"], ["de Braga", "Loc"], ["De acordo", "Per"], ["com o comandante", "Per"], ["dos Bombeiros de Ponte de Lima", "Org"], ["no distrito de Viana do Castelo", "Loc"], ["o acidente de trabalho", "Other"], ["ocorreu numa obra", "Other"], ["de construção civil", "Other"], ["na freguesia de Ribeira", "Loc"], ["À Lusa", "Org"], ["fonte do Comando Distrital", "Org"], ["de Operações de Socorro (CDOS)", "Org"], ["adiantou que", "Per"], ["o alerta", "Other"], ["foi dado", "Per"], ["cerca das", "Other"], ["10:33", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"
+* "Obj" stands for "Object"

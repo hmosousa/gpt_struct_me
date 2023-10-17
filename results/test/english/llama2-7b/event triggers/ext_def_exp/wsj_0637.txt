@@ -1,0 +1,36 @@
+["John", "Labatt", "Ltd", "said", "it", "plans", "private", "placement", "million", "Canadian", "dollars", "US", "million", "proceeds", "will", "be", "used", "reduce", "short", "term", "debt", "concern", "said", "Robert", "Vaux", "vice", "finance", "floating", "annual", "dividend", "equal", "72", "30", "day", "bankers", "acceptance", "rate", "thereafter", "renegotiated", "Mr", "Vaux", "strategy", "balance", "sheet", "anticipation", "acquisitions", "made", "lead", "underwriter", "issue", "Toronto", "Dominion", "Securities", "Inc"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, South Dakota, the Justice Department said.
+The settlement, which was announced in a joint statement by the Justice Department and the American Indian Movement, is the largest ever paid by the federal government to settle a civil rights lawsuit.
+The settlement, which must be approved by a federal judge, will be paid in installments over 10 years, the Justice Department said.
+The settlement will be used to provide health care, education, housing and other services to American Indians, the Justice Department said.
+The settlement will also be used to provide scholarships to American Indian students, the Justice Department said.
+The settlement will also be used to provide grants to American Indian tribes, the Justice Department said.
+The settlement will also be used to provide grants to American Indian organizations, the Justice Department said.
+The settlement will also be used to provide grants to American Indian individuals, the Justice Department said.
+The settlement will also be used to provide grants to American Indian families, the Justice Department said.
+The settlement will also be used to provide grants to American Indian children, the Justice Department said.
+The settlement will also be used to provide grants to American Indian elders, the Justice Department said.
+The settlement will also be used to provide grants to American Indian veterans, the Justice Department said.
+The settlement will also be used to provide grants to American Indian prisoners, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of domestic violence, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of sexual assault, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of elder abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of human trafficking, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child pornography, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child prostitution, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child exploitation, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abduction, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to American Indian victims of child abuse, the Justice Department said.
+The settlement will also be used to provide grants to

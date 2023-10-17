@@ -1,0 +1,132 @@
+["Kyle Technology Corp.", "Donald A. Wright", "Seattle", "investor", "letter of intent", "buy", "company", "about", "$3.1 million", "$1.20 a share", "run", "transaction", "shareholders", "electronic components"]
+
+Explanation:
+The first task is to extract all time expressions.
+
+The second task is to extract all time expressions.
+
+The third task is to extract all time expressions.
+
+The fourth task is to extract all time expressions.
+
+The fifth task is to extract all time expressions.
+
+The sixth task is to extract all time expressions.
+
+The seventh task is to extract all time expressions.
+
+The eighth task is to extract all time expressions.
+
+The ninth task is to extract all time expressions.
+
+The tenth task is to extract all time expressions.
+
+The eleventh task is to extract all time expressions.
+
+The twelfth task is to extract all time expressions.
+
+The thirteenth task is to extract all time expressions.
+
+The fourteenth task is to extract all time expressions.
+
+The fifteenth task is to extract all time expressions.
+
+The sixteenth task is to extract all time expressions.
+
+The seventeenth task is to extract all time expressions.
+
+The eighteenth task is to extract all time expressions.
+
+The nineteenth task is to extract all time expressions.
+
+The twentieth task is to extract all time expressions.
+
+The twenty-first task is to extract all time expressions.
+
+The twenty-second task is to extract all time expressions.
+
+The twenty-third task is to extract all time expressions.
+
+The twenty-fourth task is to extract all time expressions.
+
+The twenty-fifth task is to extract all time expressions.
+
+The twenty-sixth task is to extract all time expressions.
+
+The twenty-seventh task is to extract all time expressions.
+
+The twenty-eighth task is to extract all time expressions.
+
+The twenty-ninth task is to extract all time expressions.
+
+The thirtieth task is to extract all time expressions.
+
+The thirty-first task is to extract all time expressions.
+
+The thirty-second task is to extract all time expressions.
+
+The thirty-third task is to extract all time expressions.
+
+The thirty-fourth task is to extract all time expressions.
+
+The thirty-fifth task is to extract all time expressions.
+
+The thirty-sixth task is to extract all time expressions.
+
+The thirty-seventh task is to extract all time expressions.
+
+The thirty-eighth task is to extract all time expressions.
+
+The thirty-ninth task is to extract all time expressions.
+
+The fortieth task is to extract all time expressions.
+
+The forty-first task is to extract all time expressions.
+
+The forty-second task is to extract all time expressions.
+
+The forty-third task is to extract all time expressions.
+
+The forty-fourth task is to extract all time expressions.
+
+The forty-fifth task is to extract all time expressions.
+
+The forty-sixth task is to extract all time expressions.
+
+The forty-seventh task is to extract all time expressions.
+
+The forty-eighth task is to extract all time expressions.
+
+The forty-ninth task is to extract all time expressions.
+
+The fiftieth task is to extract all time expressions.
+
+The fifty-first task is to extract all time expressions.
+
+The fifty-second task is to extract all time expressions.
+
+The fifty-third task is to extract all time expressions.
+
+The fifty-fourth task is to extract all time expressions.
+
+The fifty-fifth task is to extract all time expressions.
+
+The fifty-sixth task is to extract all time expressions.
+
+The fifty-seventh task is to extract all time expressions.
+
+The fifty-eighth task is to extract all time expressions.
+
+The fifty-ninth task is to extract all time expressions.
+
+The sixtieth task is to extract all time expressions.
+
+The sixty-first task is to extract all time expressions.
+
+The sixty-second task is to extract all time expressions.
+
+The sixty-third task is to extract all time expressions.
+
+The sixty-fourth task is to extract all time expressions.
+
+The sixty-fifth task is to extract all time expressions

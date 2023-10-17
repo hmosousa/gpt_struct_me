@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["de 50 anos", "Per"], ["a mãe de 73 anos", "Per"], ["em Gondomar", "Loc"], ["no distrito do Porto", "Loc"], ["referiu a GNR", "Org"], ["na sequência de uma denúncia", "Other"], ["de que estaria a ocorrer um crime de violência doméstica", "Other"], ["os militares deslocaram-se ao local", "Org"], ["e apuraram que o suspeito", "Other"], ["estava a infligir maus-tratos físicos e psicológicos", "Other"], ["bem como ameaças de morte", "Other"], ["com recurso a armas brancas", "Other"], ["à mãe", "Per"], ["Após a realização de uma busca domiciliária", "Other"], ["a GNR apreendeu duas armas brancas", "Obj"], ["o suspeito", "Per"], ["com antecedentes criminais", "Other"], ["pela prática dos mesmos crimes", "Other"], ["foi detido", "Per"], ["e vai ser presente", "Other"], ["ao primeiro interrogatório", "Other"], ["no Tribunal Judicial do Porto", "Loc"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+* "Other" stands for "Other" (i.e. anything that doesn't fit into the other categories)

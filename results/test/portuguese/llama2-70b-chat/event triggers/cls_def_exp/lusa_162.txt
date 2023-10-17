@@ -1,0 +1,26 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["atropelamento", "Occurrence"], ["Santa Marta de Penaguião", "State"], ["hoje", "Aspectual"], ["sequência", "Occurrence"], ["atropelamento", "Occurrence"], ["Vila Maior", "State"], ["concelho", "State"], ["distrito", "State"], ["Vila Real", "State"], ["GNR", "State"], ["fonte", "Reporting"], ["comandante", "State"], ["bombeiros", "State"], ["Santa Marta de Penaguião", "State"], ["Vasco Correia", "State"], ["óbito", "State"], ["local", "State"], ["equipa", "State"], ["Viatura Médica de Emergência e Reanimação", "State"], ["VMER", "State"], ["acidente", "Occurrence"], ["manobra", "Occurrence"], ["marcha-atrás", "Occurrence"], ["carinha", "State"], ["alerta", "Occurrence"], ["atropelamento", "Occurrence"], ["local", "State"], ["mobilizados", "Occurrence"], ["operacionais", "State"], ["bombeiros", "State"], ["GNR", "State"], ["INEM", "State"], ["viaturas", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action or a behavior
+* Intensional State: refers to a state or a situation that is intended or planned
+
+The task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event or a change in state. They can be verbs, nouns, adjectives, or adverbs that convey a sense of time, change, or causality.
+
+For example, in the sentence "The man died after being hit by a car," "died" is an event trigger that indicates the occurrence of the event "death." Similarly, "hit" is also an event trigger that indicates the occurrence of the event "being hit by a car."
+
+Your output should be a list of pairs, where each pair contains the event trigger and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action or a behavior
+* Intensional State: refers to a state or a situation that is intended or planned
+
+Note that some event triggers may belong to more than one class. For example, the word "hit" in the sentence "The man died after being hit by a car" could belong to both the "Occurrence" class (as it indicates the occurrence of the event "being hit by a car") and the "Intensional Action" class (as it implies the action of hitting someone). In such cases, you should choose the class that best fits the context and the intended meaning of the sentence.

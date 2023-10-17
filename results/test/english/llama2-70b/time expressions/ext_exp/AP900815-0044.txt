@@ -1,0 +1,1 @@
+["Today", "Friday", "Thursday", "today", "Tuesday", "Aug.", "August", "8/6/1990", "Monday", "Thursday"]

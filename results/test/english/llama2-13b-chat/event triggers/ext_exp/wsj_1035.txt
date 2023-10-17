@@ -1,0 +1,9 @@
+["drop", "losses", "shipping", "down", "year", "revenue", "increase", "acquisition", "profit", "discounting", "stock", "yesterday", "tighten"]
+
+Your task is to extract all the event triggers from the given text. Please note that event triggers are the words or phrases that indicate an event has occurred or is about to occur. For example, in the first text, "turning its back" is an event trigger, indicating that Australia is turning its back on the British royal family. In the second text, "reported" is an event trigger, indicating that Consolidated Freightways Inc. has reported something.
+
+Your output should be a JSON-parseable list of strings, where each string represents an event trigger. For example:
+
+[{"trigger": "turning its back", "description": "Australia turning its back on the British royal family"}, {"trigger": "reported", "description": "Consolidated Freightways Inc. reported something"}]
+
+Please note that the output should be a list of dictionaries, where each dictionary represents an event trigger and its description.

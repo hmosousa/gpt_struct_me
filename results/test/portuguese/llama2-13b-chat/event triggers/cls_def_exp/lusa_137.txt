@@ -1,0 +1,14 @@
+[["encontrou", "I_Action"], ["idosa", "Entity"], ["dada", "State"], ["desaparecida", "Occurrence"], ["segunda-feira", "Date"], ["Sabroso", "Location"], ["concelho", "Location"], ["Vila Real", "Location"], ["fonte", "Reporting"], ["equipa", "Entity"], ["cinotécnica", "Entity"], ["GNR", "Entity"], ["unidade", "Entity"], ["Trás-os-Montes", "Location"], ["Alto Douro", "Location"], ["alerta", "Occurrence"], ["desaparecimento", "Occurrence"], ["procurada", "Occurrence"], ["noite", "Time"], ["buscas", "Occurrence"], ["retomadas", "Occurrence"], ["hoje", "Date"], ["manhã", "Time"], ["elementos", "Entity"], ["bombeiros", "Entity"], ["mobilizados", "Occurrence"], ["operacionais", "Entity"], ["viaturas", "Entity"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "idosa") and the second string is the class (e.g. "Entity"). The classes are:
+
+* I_Action: for actions
+* State: for states or situations
+* Occurrence: for events or happenings
+* Reporting: for reporting or mentioning
+* Aspectual: for aspects or features
+* Intensional Action: for intentional actions
+* Intensional State: for intentional states
+
+Your task is to extract and classify all event triggers from the input text.

@@ -1,0 +1,15 @@
+["said", "recommend", "modest", "later", "year", "reinstated", "stock", "dividend", "troubles", "plant", "third", "quarter", "million", "cents", "share", "year", "million", "cents", "share", "said", "reported", "quarter", "net", "million", "cents", "share", "year", "million", "cents", "share", "said", "company", "energy", "dearborn", "michigan", "energy", "company", "said", "management", "recommend", "board", "today", "common", "stock", "dividend", "reinstated", "modest", "level", "year", "troubles", "plant", "third", "quarter", "million", "cents", "share", "year", "million", "cents", "share", "said", "reported", "quarter", "net", "million", "cents", "share", "year", "million", "cents", "share", "said", "company", "energy", "dearborn", "michigan", "energy", "company"]
+
+"""
+
+import json
+import re
+
+
+def extract_event_triggers(text):
+    """
+    :param text:
+    :return:
+    """
+    event_triggers = []
+    for event_trigger in re.findall(r'(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\

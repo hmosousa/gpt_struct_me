@@ -1,0 +1,49 @@
+["acquire", "approved", "receive", "total", "clear", "wait", "closed", "transaction", "agreed", "thrifts"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 today that the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings.
+The court said the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings."
+
+Output:
+["ruling", "convicted", "grand", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings", "refused", "testify", "grand", "convicted", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 today that the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings.
+The court said the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings."
+
+Output:
+["ruling", "convicted", "grand", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings", "refused", "testify", "grand", "convicted", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 today that the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings.
+The court said the government can't force a person to testify against himself in a criminal case.
+The court said the Fifth Amendment's guarantee against self-incrimination applies to civil cases as well as criminal ones.
+The ruling came in a case involving a man who was convicted of tax evasion after he refused to testify before a grand jury about his business dealings."
+
+Output:
+["ruling", "convicted", "grand", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings", "refused", "testify", "grand", "convicted", "refused", "testify", "criminal", "civil", "guarantee", "incrimination", "applies", "cases", "dealings"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 today that

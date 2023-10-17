@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["slipped", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["paying", "I_ACTION"], ["fell", "OCCURRENCE"], ["hurt", "OCCURRENCE"], ["disposal", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["said", "REPORTING"]]

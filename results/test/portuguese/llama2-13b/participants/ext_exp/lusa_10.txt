@@ -1,0 +1,34 @@
+["GNR", "fere", "balas de borracha", "homem", "usava", "arma de fogo", "Cabeceiras de Basto", "A GNR", "feriu", "ligeiramente", "bagos de borracha", "balas de borracha", "munições reais", "se recusou", "parar", "fonte policial", "Refojos de Basto", "concelho de Cabeceiras de Basto", "distrito de Braga", "homem", "52 anos", "pernas", "Fonte", "Comando Territorial", "GNR", "Braga", "agência Lusa", "operacionais", "desobedecer", "ordem", "intimidação", "unidade hospitalar", "detido", "juiz de instrução", "medidas de coação", "Polícia Judiciária", "detalhes", "fonte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém homem que tentou roubar um carro em Vila Nova de Famalicão
+A GNR deteve hoje um homem que tentou roubar um carro em Vila Nova de Famalicão, no distrito de Braga, informou a polícia.
+O homem, de 25 anos, foi detido por militares da GNR, que o encontraram numa estrada da freguesia de Vila Nova de Famalicão, no concelho de Vila Nova de Famalicão, às 19:30.
+O homem, que não tinha documentos, foi levado para o posto da GNR de Vila Nova de Famalicão, onde foi detido.
+A polícia não revelou o motivo do roubo, nem se o carro foi roubado ou se o homem tentou roubá-lo.
+O homem será apresentado hoje a juiz de instrução para fixação das medidas de coação tidas por convenientes."
+
+Output:
+["GNR", "detém", "homem", "roubar", "carro", "Vila Nova de Famalicão", "A GNR", "deteve", "homem", "25 anos", "militares", "GNR", "freguesia", "Vila Nova de Famalicão", "concelho", "Vila Nova de Famalicão", "19:30", "documentos", "posto", "juiz de instrução", "medidas de coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém homem que tentou roubar um carro em Vila Nova de Famalicão
+A GNR deteve hoje um homem que tentou roubar um carro em Vila Nova de Famalicão, no distrito de Braga, informou a polícia.
+O homem, de 25 anos, foi detido por militares da GNR, que o encontraram numa estrada da freguesia de Vila Nova de Famalicão, no concelho de Vila Nova de Famalicão, às 19:30.
+O homem, que não tinha documentos, foi levado para o posto da GNR de Vila Nova de Famalicão, onde foi detido.
+A polícia não revelou o motivo do roubo, nem se o carro foi roubado ou se o homem tentou roubá-lo.
+O homem será apresentado hoje a juiz de instrução para fixação das medidas de coação tidas por convenientes."
+
+Output:
+["GNR", "detém", "homem", "roubar", "carro", "Vila Nova de Famalicão", "A GNR", "deteve", "homem", "25 anos", "militares", "GNR", "freguesia", "Vila Nova de Famalicão", "concelho", "Vila Nova de Famalicão", "19:30", "documentos", "posto", "juiz de instrução", "medidas de coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:

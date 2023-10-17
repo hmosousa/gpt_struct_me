@@ -1,0 +1,34 @@
+["Philip Morris Cos.", "New York", "adopted a defense measure", "hostile takeover", "prohibitively expensive", "common-share purchase rights", "shareholders of record", "Nov. 8", "certain circumstances", "acquirer", "half price", "board", "take over", "company", "acquirer", "composite trading", "New York Stock Exchange", "Philip Morris shares", "closed yesterday", "$43.50 each", "down $1"]
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The EPA said the corn is safe for people and the environment.
+The decision comes after a lengthy review of the corn, which is made by Monsanto Co.
+The company said it plans to sell the corn in the spring.
+The EPA said it will continue to monitor the corn to make sure it is safe."
+
+Output:
+["The U.S. government", "has decided to allow", "the sale of a new type of genetically engineered corn", "that is resistant to a common weed killer", "The Environmental Protection Agency", "said Thursday", "that it has approved the sale of the corn", "which is engineered to resist the herbicide Roundup", "The EPA", "said the corn is safe for people and the environment", "The decision comes after a lengthy review of the corn", "which is made by Monsanto Co", "The company", "said it plans to sell the corn in the spring", "The EPA", "said it will continue to monitor the corn to make sure it is safe"]
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The EPA said the corn is safe for people and the environment.
+The decision comes after a lengthy review of the corn, which is made by Monsanto Co.
+The company said it plans to sell the corn in the spring.
+The EPA said it will continue to monitor the corn to make sure it is safe."
+
+Output:
+["The U.S. government", "has decided to allow", "the sale of a new type of genetically engineered corn", "that is resistant to a common weed killer", "The Environmental Protection Agency", "said Thursday", "that it has approved the sale of the corn", "which is engineered to resist the herbicide Roundup", "The EPA", "said the corn is safe for people and the environment", "The decision comes after a lengthy review of the corn", "which is made by Monsanto Co", "The company", "said it plans to sell the corn in the spring", "The EPA", "said it will continue to monitor the corn to make sure it is safe"]
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common weed killer.
+The Environmental Protection Agency said Thursday that it has approved the sale of the corn, which is engineered to resist the herbicide Roundup.
+The EPA said the corn is safe for people and the environment.
+The decision comes after a lengthy review of the corn, which is made by Monsanto Co.
+The company said it plans to sell the corn in the spring.
+The EPA said it will continue to monitor the corn to make sure it is safe."
+
+Output:
+["The U.S. government", "has decided to allow", "the sale of a new type of genetically engineered corn", "that is resistant to a common weed killer", "The Environmental Protection Agency", "said Thursday", "that it has approved the sale of the corn", "which is engineered to resist the herbicide Roundup", "The EPA", "said the corn is safe for people and the environment", "The

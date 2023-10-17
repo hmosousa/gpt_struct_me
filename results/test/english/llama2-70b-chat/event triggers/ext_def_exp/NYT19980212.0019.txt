@@ -1,0 +1,1 @@
+["finished", "waiting", "appeared", "panicked", "intended", "started", "firing", "hit", "pronounced", "fled", "took", "removed"]

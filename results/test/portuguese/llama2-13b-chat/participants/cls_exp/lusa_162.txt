@@ -1,0 +1,12 @@
+[["um homem", "Per"], ["de 84 anos", "Per"], ["morreu", "Per"], ["após", "Other"], ["atropelamento", "Other"], ["em", "Loc"], ["Vila Maior", "Loc"], ["concelho de Santa Marta de Penaguião", "Loc"], ["distrito de Vila Real", "Loc"], ["segundo", "Other"], ["o comandante", "Per"], ["dos bombeiros", "Org"], ["de Santa Marta de Penaguião", "Loc"], ["Vasco Correia", "Per"], ["o óbito", "Per"], ["foi", "Other"], ["declarado", "Other"], ["no local", "Loc"], ["pela equipa", "Org"], ["da Viatura Médica de Emergência e Reanimação (VMER)", "Org"], ["O acidente", "Other"], ["terá", "Other"], ["acontecido", "Other"], ["durante", "Other"], ["uma manobra", "Other"], ["de marcha-atrás", "Other"], ["de uma carinha", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+
+Hint:
+You can use the "entities" and "classes" to help you identify the entities and classes in the text.
+
+Please let me know if you need any further clarification or assistance.

@@ -1,0 +1,34 @@
+["Um homem de Amarante", "indiciado por maltratar", "a sua mulher", "se refugiou em casa", "outros familiares", "levando a filha comum", "informou hoje", "a GNR", "Em comunicado", "aquela força policial", "um “habitual consumidor", "de bebidas alcoólicas”, "Segundo a GNR", "o homem", "de 47 anos", "com uma frequência quase diária", "insultava, ameaçava e agredia", "física e psicologicamente", "a vítima, sua mulher de 46 anos", "na presença da filha menor", "de ambos”, "Nos últimos meses", "assinala o comunicado", "houve uma escalada", "de maus-tratos, ameaças e agressões", "físicas, pelo que", "a vítima e a filha tiveram de abandonar", "a residência, refugiando-se", "em casa de familiares”, "O Tribunal de Instrução Criminal", "determinou as medidas", "de coação de afastamento", "da residência e proibição", "de contactar a vítima", "por qualquer forma ou meio", "Proibiu-o ainda se aproximar", "da vítima num raio", "de 500 metros", "impõe o controlo", "do seus movimentos", "por controlado por pulseira eletrónica"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfa

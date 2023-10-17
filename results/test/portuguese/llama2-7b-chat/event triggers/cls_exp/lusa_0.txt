@@ -1,0 +1,1 @@
+[["acabou", "I_Action"], ["GNR", "State"], ["festa", "Occurrence"], ["50", "Occurrence"], ["bar", "State"], ["Corotelo", "State"], ["Comando Territorial", "State"], ["denúncia", "Reporting"], ["informar", "Reporting"], ["existência", "Occurrence"], ["música", "Occurrence"], ["algo", null]]

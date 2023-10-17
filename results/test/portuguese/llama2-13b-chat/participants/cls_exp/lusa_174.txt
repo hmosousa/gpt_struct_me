@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["de 25 anos", "Per"], ["com antecedentes criminais", "Per"], ["foi detido", "Org"], ["em Paredes", "Loc"], ["pela GNR", "Org"], ["e constituído arguido", "Org"], ["por ter", "Other"], ["na sua posse", "Per"], ["uma réplica de arma de fogo", "Obj"], ["e de um bastão extensível", "Obj"], ["revelou hoje", "Org"], ["em comunicado", "Org"], ["a Guarda", "Org"], ["A detenção", "Org"], ["feita pelo Núcleo de Investigação Criminal", "Org"], ["de Penafiel", "Loc"], ["foi feita na sexta-feira", "Other"], ["no âmbito de uma investigação", "Org"], ["por suspeitas de posse de arma proibida", "Other"], ["que teve a duração de cerca de um mês", "Other"], ["lê-se ainda", "Org"], ["no documento", "Other"], ["Ainda segundo a GNR", "Org"], ["os militares fizeram", "Org"], ["duas buscas domiciliárias e uma não domiciliária", "Other"], ["de que resultou", "Other"], ["a apreensão de uma réplica de arma de fogo", "Obj"], ["e de um bastão extensível", "Obj"], ["O detido", "Per"], ["acrescenta a Guarda", "Org"], ["tem", "Per"], ["antecedentes criminais", "Per"], ["por condução sem habilitação legal", "Per"], ["e por ameaças", "Per"], ["tendo sido", "Org"], ["constituído arguido", "Org"], ["e os factos", "Org"], ["remetidos para o Tribunal Judicial", "Org"], ["de Paredes", "Loc"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+* "Other" stands for "Other" (this class can be used for any other entity that does not fit in the other classes)

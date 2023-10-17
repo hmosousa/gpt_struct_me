@@ -1,0 +1,15 @@
+[["encontrado", "I_Action"], ["mortos", "Occurrence"], ["hoje de manhã", "Aspectual"], ["interior", "Location"], ["sem vida", "State"], ["ferimentos", "Occurrence"], ["carreiras", "Location"], ["natural", "State"], ["residente", "State"], ["vivo", "State"], ["domingo", "Day"], ["entre", "Aspectual"], ["20:00", "Time"], ["21:30", "Time"], ["declare", "I_Action"], ["obito", "Occurrence"], ["corpo", "Object"], ["encaminhado", "I_Action"], ["servico", "Object"], ["medicina legal", "Object"], ["hospital", "Location"]]
+
+Note:
+The classes are based on the Penn Treebank tag set, and the entities are based on the spaCy entity recognition model. The classes are:
+
+* I_Action: Action
+* I_State: State
+* Occurrence: Event
+* Aspectual: Aspect
+* Reporting: Report
+* Perception: Perception
+* Intensional Action: Action
+* Intensional State: State
+
+Note that the classes are not exhaustive, and there may be other classes that could be applied to the input text.

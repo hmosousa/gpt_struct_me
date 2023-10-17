@@ -1,0 +1,6 @@
+[
+["today", "Date"],
+["the second world war", "Date"],
+["this September", "Date"],
+["the year two thousand", "Date"]
+]

@@ -1,0 +1,1 @@
+["third quarter", "year ago", "latest quarter", "last year"]

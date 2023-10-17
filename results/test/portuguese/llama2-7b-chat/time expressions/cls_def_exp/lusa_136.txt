@@ -1,0 +1,1 @@
+[["GNR", "Autoridade"], ["maio", "Date"], ["setembro", "Time"], ["2019", "Time"], ["89", "Age"], ["59", "Age"], ["detém", "Verb"], ["detido", "Noun"], ["mandado de detenção", "Noun"]]

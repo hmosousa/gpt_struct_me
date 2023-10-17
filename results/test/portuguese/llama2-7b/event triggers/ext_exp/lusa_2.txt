@@ -1,0 +1,24 @@
+["morreu", "outro", "ficou", "desordem", "arma", "de", "fogo", "Mem", "Martins", "Sintra", "Um", "morreu", "outro", "ficou", "ferido", "domingo", "noite", "sequência", "desordem", "arma", "fogo", "Estrada", "Mem", "Martins", "transportada", "Hospital", "Professor", "Doutor", "Fernando", "Fonseca", "Amadora", "Sintra", "não", "houve", "maneira", "reverter", "situação", "ferimentos", "referiu", "fonte", "Cometlis", "desconhecendo", "pormenores", "adiantou", "alerta", "dado", "levadas", "cabo", "diligências", "socorrer", "vítimas", "crime", "homicídio", "investigação", "PJ"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo em resposta à pandemia de covid-19 está a afetar a economia mundial, com a China e a Índia sendo os principais mercados afetados.
+A China, onde a pandemia começou, está a reabrir o seu mercado, mas a Índia, que tem a maior população do mundo, está a colocar em quarentena mais de 1,3 bilhão de pessoas.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 15% da população mundial.
+A Índia está a colocar em quarentena mais de 1,3 bilhão de pessoas, o que representa mais de 

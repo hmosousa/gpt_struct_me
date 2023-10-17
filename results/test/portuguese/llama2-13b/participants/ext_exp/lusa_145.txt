@@ -1,0 +1,34 @@
+["GNR detém quatro suspeitos de assaltos e tráfico de drogas no Alto Minho", "A GNR deteve hoje quatro homens", "assaltos a residências e estabelecimentos", "furtos no interior de veículos", "tráfico de drogas no Alto Minho", "anunciou o comando de Viana do Castelo", "aquela força policial", "os suspeitos", "com idades entre os 35 e 41 anos", "todos com antecedentes criminais", "foram detidos", "âmbito de uma investigação", "desenvolvida ao longo de meio ano", "diversos furtos", "concelhos de Arcos de Valdevez", "Paredes de Coura", "Ponte da Barca", "Ponte de Lima", "todos no distrito de Viana do Castelo", "Terão praticado também alguns crimes", "Vila Verde", "districto de Braga", "A operação agora anunciada", "incluiu a realização buscas domiciliárias", "resultou na apreensão heroína para 56 doses", "cocaína para 17 e haxixe para oito", "seis telemóveis", "dois computadores", "uma máquina fotográfica", "um aparelho GPS"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de celulares
+A

@@ -1,0 +1,53 @@
+["Dataproducts Inc.", "DPC Acquisition Partners", "Delaware Chancery Court", "standstill agreement", "New York-based Crescott Investment Associates", "Woodland Hills", "computer printer maker", "DPC", "state court in Los Angeles", "adequately financed", "new, $10-a-share offer", "DPC said it couldn't comment on the suit"]
+
+Explanation:
+The time expressions are:
+	"next week"
+	"Friday"
+	"nearly two months"
+	"1990"
+	"Thursday"
+	"Jan. 13"
+	"Previously"
+	"03/06/1998 13:19:00"
+	"Thursday"
+	"Feb. 23"
+	"over a week"
+	"Thursday"
+	"daily"
+	"Friday"
+	"Friday"
+	"10-hour"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage:", os.Args[0], "<input_file>")
+		os.Exit(1)
+	}
+
+	inputFile := os.Args[1]
+
+	lines := strings.Split(inputFile, "\n")
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if line == "" {
+			continue
+		}
+
+		timeExpressions := strings.Split(line, " ")
+		for _, timeExpression := range timeExpressions {
+			fmt.Println(timeExpression)
+		}
+	}
+}

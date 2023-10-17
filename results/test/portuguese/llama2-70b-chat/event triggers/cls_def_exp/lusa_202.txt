@@ -1,0 +1,6 @@
+[["morreu", "Occurrence"], ["despiste", "Occurrence"], ["motociclo", "State"], ["Estrada Nacional 17", "State"], ["Celorico da Beira", "State"], ["distrito da Guarda", "State"], ["fontes", "State"], ["proteção civil", "State"], ["GNR", "State"], ["Comando Distrital de Operações de Socorro", "State"], ["Guarda", "State"], ["sinistro", "Occurrence"], ["alerta", "Occurrence"], ["14:28", "State"], ["Comando Territorial da GNR", "State"], ["Guarda", "State"], ["Cortiço da Serra", "State"], ["concelho de Celorico da Beira", "State"], ["óbito", "Occurrence"], ["condutor", "State"], ["motociclo", "State"], ["Viatura Médica de Emergência e Reanimação", "State"], ["VMER", "State"], ["local", "State"], ["Núcleo de Investigação de Crimes em Acidentes de Viação", "State"], ["GNR", "State"], ["acidente", "Occurrence"], ["cinco viaturas", "State"], ["dez elementos", "State"], ["Bombeiros Voluntários de Celorico da Beira", "State"], ["VMER da Guarda", "State"], ["GNR", "State"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

@@ -1,0 +1,20 @@
+["fica", "pulseira eletrónica", "ameaçar", "perseguir", "ex-companheira", "Gaia", "homem", "antecedentes criminais", "tráfico de droga", "injuriar", "ameaçar", "perseguir", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frequentar", "mesmos locais", "proibido", "contactar", "vítima", "frisou"]
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Input:
+"Homem fica com pulseira eletrónica por ameaçar e perseguir ex-companheira em Gaia
+Um homem de 28 anos, com antecedentes criminais por tráfico de droga, ficou hoje com pulseira eletrónica por injuriar, ameaçar e perseguir a sua ex-companheira, em Vila Nova de Gaia, disse a GNR.
+Além de estar controlado por pulseira eletrónica, o detido está proibido de contactar a vítima por qualquer meio, de frequentar os mesmos locais e de se aproximar dela num raio de 800 metros, referiu esta força policial, em comunicado.
+No âmbito de uma investigação por violência doméstica, os militares da GNR ap

@@ -1,0 +1,23 @@
+[["Belmonte", "State"], ["GNR", "State"], ["apreendeu", "I_Action"], ["armas", "State"], ["fogo", "State"], ["arguido", "State"], ["homem", "State"], ["suspeito", "State"], ["ex-companheira", "State"], ["vítima", "State"], ["violência", "Occurrence"], ["doméstica", "Occurrence"], ["investigação", "Occurrence"], ["militares", "State"], ["apuraram", "I_Action"], ["suspeito", "State"], ["exercia", "I_Action"], ["violência", "Occurrence"], ["física", "Occurrence"], ["psicológica", "Occurrence"], ["agressões", "Occurrence"], ["ameaças", "Occurrence"], ["ofensas", "Occurrence"], ["verificando-se", "Aspectual"], ["escalada", "Occurrence"], ["comportamento", "State"], ["violento", "State"], ["consumo", "State"], ["abusivo", "State"], ["álcool", "State"], ["buscas", "Occurrence"], ["domiciliárias", "State"], ["apreendidas", "I_Action"], ["carabinas", "State"], ["caçadeira", "State"], ["reprodução", "State"], ["pistola", "State"], ["facca", "State"], ["mola", "State"], ["diversas", "State"], ["munições", "State"], ["tribunal", "State"], ["judicial", "State"], ["Covilhã", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event. For example, in the sentence "The man walked into the room", "walked" is an event trigger that indicates the occurrence of the event "man walking into the room".
+
+You can use the following classes to classify the event triggers:
+
+* State: Indicates a state of being or a condition.
+* Occurrence: Indicates an event or a happening.
+* Reporting: Indicates a report or a description of an event.
+* Perception: Indicates a perception or a sensory experience.
+* Aspectual: Indicates a change in aspect or a shift in focus.
+* Intensional Action: Indicates an action that is intended or planned.
+* Intensional State: Indicates a state that is intended or planned.
+
+Please provide your answer in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+
+For example, if you identify the event trigger "walked" in the sentence "The man walked into the room", your answer would be:
+
+[["walked", "Occurrence"]]
+
+Please note that the input text may contain multiple event triggers, and you should provide all of them in your answer.

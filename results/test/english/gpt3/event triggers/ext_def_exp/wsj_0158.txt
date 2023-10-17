@@ -1,0 +1,1 @@
+["resigned", "pursue", "appointed", "tenure", "named", "split", "interview", "departure", "disagreement", "stemmed", "directorship", "executive", "committee", "board", "choosing", "departure", "signals", "rose", "closed", "assume", "becomes", "becomes"]

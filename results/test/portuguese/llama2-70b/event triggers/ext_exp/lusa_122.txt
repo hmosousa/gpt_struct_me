@@ -1,0 +1,1 @@
+["grave", "parada", "cardio respiratória", "coma", "induced", "estabilized"]

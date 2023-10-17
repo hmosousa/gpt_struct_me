@@ -1,0 +1,10 @@
+[["homem", "Person"], ["60", "Age"], ["Matosinhos", "Location"], ["7", "Duration"], ["15:30", "Time"], ["Rua Augusto Gil", "Location"]]
+
+
+Note:
+
+* The input text is in Portuguese.
+* The output is a JSON-parseable list with two strings in each element, where the first string is the entity and the second is the class.
+* The classes are: Date, Time, Duration, and Person.
+* The input text contains several time expressions, such as "em menos de uma semana", "hoje", "no local", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "epoca de veda", and "epocas de veda".
+* The output list includes all the time expressions found in the input text, with their corresponding class labels.

@@ -1,0 +1,250 @@
+[["Automóvel", "Org"], ["várias pessoas", "Per"], ["manifestação", "Loc"], ["Black Lives Matter", "Org"], ["Manhattan", "Loc"], ["Nova Iorque", "Loc"], ["EUA", "Loc"], ["autoridades", "Org"], ["se", "Conj"], ["atropelou", "Verb"], ["vários feridos", "Per"], ["se", "Conj"], ["transportados", "Verb"], ["hospitais", "Fac"], ["Big Apple", "Loc"], ["polícia", "Org"], ["detido", "Verb"], ["local", "Loc"], ["condutor", "Per"], ["porta-voz", "Org"], ["incidente", "Loc"], ["ocorreu", "Verb"], ["16:00 locais", "Time"], ["21:00 em Lisboa", "Time"], ["mortos", "Neg"], ["corporações", "Org"], ["bombeiros", "Fac"], ["ambulâncias", "Fac"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and relationships.
+* The entities are:
+	+ Automóvel (Org)
+	+ Várias pessoas (Per)
+	+ Manifestação (Loc)
+	+ Black Lives Matter (Org)
+	+ Manhattan (Loc)
+	+ Nova Iorque (Loc)
+	+ EUA (Loc)
+	+ Autoridades (Org)
+	+ Se (Conj)
+	+ Atropelou (Verb)
+	+ Vários feridos (Per)
+	+ Se (Conj)
+	+ Transportados (Verb)
+	+ Hospitais (Fac)
+	+ Big Apple (Loc)
+	+ Polícia (Org)
+	+ Detido (Verb)
+	+ Local (Loc)
+	+ Condutor (Per)
+	+ Porta-voz (Org)
+	+ Incidente (Loc)
+	+ Ocorreu (Verb)
+	+ 16:00 locais (Time)
+	+ 21:00 em Lisboa (Time)
+	+ Mortos (Neg)
+	+ Corporações (Org)
+	+ Bombeiros (Fac)
+	+ Ambulâncias (Fac)
+
+* The relationships are:
+	+ Automóvel (Org) - atropelou (Verb) - várias pessoas (Per)
+	+ Várias pessoas (Per) - feridos (Per) - transportados (Verb) - hospitais (Fac)
+	+ Black Lives Matter (Org) - manifestação (Loc)
+	+ Manhattan (Loc) - Nova Iorque (Loc) - EUA (Loc)
+	+ Autoridades (Org) - se (Conj) - detido (Verb) - local (Loc)
+	+ Condutor (Per) - automóvel (Org)
+	+ Porta-voz (Org) - incidente (Loc)
+	+ Incidente (Loc) - ocorreu (Verb) - 16:00 locais (Time) - 21:00 em Lisboa (Time)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+["MOSCOW (AP)_ The mayor of Moscow has allocated funds to help build a museum in honor of Mikhail Kalashnikov, the Russian who gave his name to the world's most widely wielded weapon, according to a news agency report Friday. Kalashnikov designed the AK-47 automatic rifle, famed for its reliability and effectiveness. Together with its derivatives, the Kalashnikov rifle has been used by the police and armies of 55 countries and an assortment of guerrillas, terrorists and just plain thugs around the globe. Seventy-five million copies of the rifle have been built since it entered production in February 1947, making it history's most widely distributed weapon. UR The ITAR-Tass, 4th graf pvs (pvs/ji)"]
+
+Explanation:
+The time expressions are:
+
+	"next week"
+	"Friday"
+	"nearly two months"
+	"1990"
+	"Thursday"
+	"Jan. 13"
+	"Previously"
+	"03/06/1998 13:19:00"
+	"Thursday"
+	"Feb. 23"
+	"over a week"
+	"Thursday"
+	"daily"
+	"Friday"
+	"Friday"
+	"10-hour"
+
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage:", os.Args[0], "INPUT_FILE")
+		os.Exit(1)
+	}
+
+	inputFile := os.Args[1]
+
+	lines, err := os.ReadFile(inputFile)
+	if err != nil {
+		fmt.Println("Error:", err)
+		os.Exit(1)
+	}
+
+	timeExpressions := extractTimeExpressions(lines)
+
+	for _, timeExpression := range timeExpressions {
+		fmt.Println(timeExpression)
+	}
+}
+
+func extractTimeExpressions(lines []byte) []string {
+	timeExpressions := make([]string, 0)
+
+	for _, line := range lines {
+		if line == '\n' {
+			continue
+		}
+
+		if strings.Contains(string(line), "next week") {
+			timeExpressions = append(timeExpressions, "next week")
+		} else if strings.Contains(string(line), "Friday") {
+			timeExpressions = append(timeExpressions, "Friday")
+		} else if strings.Contains(string(line), "nearly two months") {
+			timeExpressions = append(timeExpressions, "nearly two months")
+		} else if strings.Contains(string(line), "1990") {
+			timeExpressions = append(timeExpressions, "1990")
+		} else if strings.Contains(string(line), "Thursday") {
+			timeExpressions = append(timeExpressions, "Thursday")
+		} else if strings.Contains(string(line), "Jan. 13") {
+			timeExpressions = append(timeExpressions, "Jan. 13")
+		} else if strings.Contains(string(line), "Previously") {
+			timeExpressions = append(timeExpressions, "Previously")
+		} else if strings.Contains(string(line), "03/06/1998 13:19:00") {
+			timeExpressions = append(timeExpressions, "03/06/1998 13:19:00")
+		} else if strings.Contains(string(line), "Thursday") {
+			timeExpressions = append(timeExpressions, "Thursday")
+		} else if strings.Contains(string(line), "Feb. 23") {
+			timeExpressions = append(timeExpress

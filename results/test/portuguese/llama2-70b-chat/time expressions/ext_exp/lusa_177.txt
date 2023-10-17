@@ -1,0 +1,13 @@
+["hoje", "11:50", "30 nov 2020"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format "YYYY-MM-DD" (date) or "HH:MM" (time).
+* The input text may contain other information, such as names, locations, and descriptions of events, but the task is to extract only the time expressions.
+* The time expressions may be in different formats, such as "hoje" (today), "sábado" (Saturday), "setembro" (September), "final do ano" (end of the year), etc.
+* The output should be a JSON-parseable list of strings, which means that the list should be surrounded by square brackets "[]" and each element should be a string enclosed in double quotes "".
+
+Please help me with this task. I'm not able to extract the time expressions from the input text.
+
+Thank you.

@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["três filhos", "Per"], ["a pancada", "Obj"], ["se vingar", "Per"], ["da mãe", "Per"], ["das crianças", "Per"], ["o suspeito", "Per"], ["o avô", "Per"], ["a polícia", "Org"], ["o gabinete", "Org"], ["os procuradores", "Org"], ["no estado de Sonora (norte)", "Loc"], ["Hidalgo", "Loc"], ["para ser acusado", "Other"], ["discutiu", "Per"], ["a mãe das crianças", "Per"], ["matou os filhos", "Per"], ["de modo a causar-lhe uma grande dor", "Other"], ["Aparentemente", "Per"], ["numa vingança contra a mulher", "Per"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+* "Other" stands for "Other" (this class can be used for any other entity that does not fit in the other classes)

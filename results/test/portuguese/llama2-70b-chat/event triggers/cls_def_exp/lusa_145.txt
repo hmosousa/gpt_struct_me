@@ -1,0 +1,6 @@
+[["detém", "I_Action"], ["quatro", "State"], ["suspeitos", "State"], ["assaltos", "Occurrence"], ["tráfico", "Occurrence"], ["drogas", "Occurrence"], ["Alto Minho", "State"], ["GNR", "State"], ["deteve", "I_Action"], ["hoje", "State"], ["homens", "State"], ["alegadamente", "Occurrence"], ["envolvidos", "Occurrence"], ["assaltos", "Occurrence"], ["residências", "State"], ["estabelecimentos", "State"], ["furtos", "Occurrence"], ["veículos", "State"], ["tráfico", "Occurrence"], ["drogas", "Occurrence"], ["investigação", "Occurrence"], ["meio ano", "State"], ["furto", "Occurrence"], ["concelhos", "State"], ["distrito", "State"], ["Viana do Castelo", "State"], ["Braga", "State"], ["Vila Verde", "State"], ["realização", "I_Action"], ["buscas", "I_Action"], ["domiciliárias", "State"], ["apreensão", "I_Action"], ["heroína", "State"], ["cocaína", "State"], ["haxixe", "State"], ["telemóveis", "State"], ["computadores", "State"], ["máquina fotográfica", "State"], ["aparelho GPS", "State"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

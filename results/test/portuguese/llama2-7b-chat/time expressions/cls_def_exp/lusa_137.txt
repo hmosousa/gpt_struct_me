@@ -1,0 +1,1 @@
+[["em Vila Real", "Location"], ["segunda-feira", "Date"], ["2020-11-30", "Date"], ["Sabroso", "Location"], ["2 quilómetros", "Distance"], ["GNR", "Organization"], ["Unidade de Emergência de Proteção e Socorro", "Organization"], ["Autoridade Nacional de Emergência e Proteção Civil", "Organization"]]

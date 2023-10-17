@@ -1,0 +1,4 @@
+[["detém", "I_Action"], ["suspeito", "Entity"], ["pornografia", "Occurrence"], ["menores", "Entity"], ["delito", "Occurrence"], ["flagrante", "Adverb"], ["crime", "Occurrence"], ["telemóveis", "Entity"], ["apreendidos", "Occurrence"], ["ficheiros", "Entity"], ["imagens", "Entity"], ["situações", "Entity"], ["cariz", "Adverb"], ["utilizava", "Reporting"], ["equipamentos", "Entity"], ["conteúdos", "Entity"], ["partilhar", "I_Action"], ["primeiro", "Adverb"], ["interrogatório", "Occurrence"], ["judicial", "Adjective"], ["aplicação", "I_Action"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

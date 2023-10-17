@@ -1,0 +1,24 @@
+["detém", "suspeito", "pornografia", "menores", "Évora", "Polícia Judiciária", "anunciou", "detenção", "flagrante delito", "homem", "residente", "distrito", "Évora", "suspeitas", "prática", "crime", "pornografia", "menores", "telemóveis", "informação", "recolhida", "PJ", "indicou", "elementos", "Unidade Local", "Investigação Criminal", "Évora", "investigação", "surgiu", "sequência", "busca domiciliária", "apreendidos", "homem", "vários telemóveis", "continham", "centenas", "ficheiros informáticos", "utilizava", "equipamentos", "conteúdos", "imagens", "menores", "situações", "cariz sexual", "detido", "referenciado", "mesmo tipo", "crime", "vai", "presente", "interrogatório judicial", "eventual", "aplicação", "medidas", "coação"]
+
+Explanation:
+The task is to extract all event triggers.
+
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Example:
+	Input:
+	"Covi-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+	Output:
+	["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input

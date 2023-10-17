@@ -1,0 +1,7 @@
+[
+["Saturday, April 25", "Date"],
+["this week", "Duration"],
+["two years ago", "Date"],
+["18", "Time"],
+["today's world", "Set"]
+]

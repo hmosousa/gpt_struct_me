@@ -1,0 +1,27 @@
+["constituído", "arguido", "detido", "antecedentes", "criminais", "detenção", "feita", "investigação", "suspeitas", "posse", "arma", "proibida", "duração", "mês", "militares", "buscas", "domiciliárias", "apreensão", "replica", "arma", "fogo", "bastão", "extensível", "constituído", "arguido", "remetidos", "Tribunal", "Judicial", "Paredes"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem constituído arguido em Paredes por posse de armas proibidas
+Um homem de 25 anos, com antecedentes criminais, foi detido em Paredes pela GNR e constituído arguido por ter na sua posse uma réplica de arma de fogo e de um bastão extensível, revelou hoje em comunicado a Guarda.
+A detenção, feita pelo Núcleo de Investigação Criminal (NIC) de Penafiel, foi feita na sexta-feira, no âmbito de uma investigação por suspeitas de posse de arma proibida que teve a duração de cerca de um mês, lê-se ainda no documento.
+Ainda segundo a GNR, os militares fizeram "duas buscas domiciliárias e uma não domiciliária", de que resultou a "apreensão de uma réplica de arma de fogo e de um bastão extensível".
+O detido, acrescenta a Guarda, tem "antecedentes criminais por condução sem habilitação legal e por amea

@@ -1,0 +1,1 @@
+["today", "any time", "more rains", "this week", "over the weekend", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]

@@ -1,0 +1,6 @@
+[["GNR", "I_Action"], ["apreende", "I_Action"], ["785 quilos", "Occurrence"], ["haxixe", "Occurrence"], ["detém", "I_Action"], ["dois homens", "Occurrence"], ["em barco", "Location"], ["algo", null], ["Olhão", "Location"], ["Algarve", "Location"], ["transbordo", "Occurrence"], ["produto estupefaciente", "Occurrence"], ["embarcacoes", "PluralNoun"], ["detetadas", "Occurrence"], ["fardos", "PluralNoun"], ["de haxixe", "Occurrence"], ["intercetada", "Occurrence"], ["embarcacao", "Noun"], ["de fibra", "Adjective"], ["com cerca de cinco metros de comprimento", "Adjective"], ["indicou", "Reporting"], ["GNR", "I_Action"], ["bordo", "Location"], ["da embarcação", "Noun"], ["encontravam-se", "Occurrence"], ["22 fardos", "PluralNoun"], ["de haxixe", "Occurrence"], ["com um peso total de 785 quilos", "Occurrence"], ["e um valor estimado superior a dois milhões de euros", "Occurrence"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "GNR") and the second string is the class (e.g. "I_Action"). The classes are based on the event triggers you provided.
+
+Please let me know if this is what you were looking for.

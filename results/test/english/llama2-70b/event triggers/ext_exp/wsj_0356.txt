@@ -1,0 +1,1 @@
+["shareholder", "takeover", "plan", "right", "dividend", "common", "entitle", "director", "stake", "seek", "majority", "control", "company"]

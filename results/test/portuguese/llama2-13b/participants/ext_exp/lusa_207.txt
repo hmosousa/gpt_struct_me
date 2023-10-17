@@ -1,0 +1,38 @@
+["Dois feridos", "Dois homens", "22 e 33 anos", "feridos", "gravidade", "noite", "sequência", "desordem", "Bairro", "Casal dos Machados", "Lisboa", "fonte", "PSP", "Avenida Infante D. Henrique", "Largo Maria Judite de Carvalho", "Casal dos Machados", "freguesia", "Parque das Nações", "sequência", "desordem", "homem", "gravidade", "transportado", "ambulância", "Hospital de Santa Maria", "ferido", "língua", "viaturas", "danificadas", "disparos", "arma de fogo", "alerta", "desordem", "Polícia Judiciária"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de um homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte

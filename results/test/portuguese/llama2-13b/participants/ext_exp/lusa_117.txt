@@ -1,0 +1,31 @@
+["Acidente", "Arcos de Valdevez", "condutor", "estado", "bombeiros", "viatura", "ocorrido", "ferimentos", "graves", "condutor", "transportado", "Hospital", "Braga", "Estrada", "101", "cortada", "trânsito", "destroços", "carro", "Filipe Guimarães", "acidente", "viatura", "transformada", "perdido", "controlo", "politraumatizado", "despiste", "embate", "poste", "ocupante", "viatura", "ferimentos", "ligeiros", "hospital", "Viana", "Castelo", "13:55", "freguesia", "São", "Paio", "Giela", "estrada", "faixas", "sentido", "permanecem", "óleo", "viatura", "derramado", "destroços", "espalhados", "Deverá", "manter-se", "16:30", "Filipe Guimarães"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de ontem subiu para 8
+Autoridades de Nova Iorque anunciam que o número de mort

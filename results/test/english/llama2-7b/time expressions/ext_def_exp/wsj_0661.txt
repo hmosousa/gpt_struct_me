@@ -1,0 +1,60 @@
+["Dataproducts Corp.", "computer-printer maker", "Crescott Investment Associates", "Wilson Investment Group", "Kernel Corp.", "Catalyst Partners", "Chase Manhattan Bank N.A.", "financing", "standstill agreement", "restructuring", "not for sale"]
+
+Explanation:
+The first step is to extract all time expressions.
+
+Time expressions are defined as follows:
+
+* A time expression is a string that contains a time unit.
+* A time unit is a string that contains a time unit symbol.
+* A time unit symbol is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+
+Time units are defined as follows:
+
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a string that contains a time unit symbol character.
+* A time unit symbol character is a

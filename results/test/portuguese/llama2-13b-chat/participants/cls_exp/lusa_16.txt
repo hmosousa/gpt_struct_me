@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 25 anos", "Per"], ["sofre", "Per"], ["queimaduras", "Other"], ["do terceiro grau", "Other"], ["nos membros", "Other"], ["superiores e inferiores", "Other"], ["na sequência de", "Other"], ["um incêndio", "Other"], ["na sua casa", "Loc"], ["em Arcozelo", "Loc"], ["Vila Nova de Gaia", "Loc"], ["disse à Lusa", "Org"], ["fonte dos Sapadores", "Org"], ["local"], ["O alerta", "Other"], ["foi dado", "Other"], ["pelas 08:37", "Other"], ["no combate às chamas", "Other"], ["que começaram na cozinha da casa", "Other"], ["estiveram", "Org"], ["os Sapadores de Vila Nova de Gaia", "Org"], ["e os Bombeiros da Aguda", "Org"], ["Assistido no local", "Org"], ["o homem", "Per"], ["foi", "Other"], ["conduzido", "Other"], ["ao Centro Hospitalar", "Org"], ["de Vila Nova de Gaia/Espinho", "Loc"], ["dito"], ["O incêndio", "Other"], ["que consumiu parcialmente", "Other"], ["a habitação", "Other"], ["foi dado", "Other"], ["com extinto", "Other"], ["às 8:51", "Other"], ["informou", "Org"], ["a Proteção Civil", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* The entities and classes can be identified based on the context and the information provided in the text.
+* Some entities and classes may have multiple instances in the text.

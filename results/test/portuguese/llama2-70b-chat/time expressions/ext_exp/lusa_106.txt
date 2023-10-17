@@ -1,0 +1,1 @@
+["hoje", "21:00 em Lisboa", "16:00 locais"]

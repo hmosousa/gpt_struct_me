@@ -1,0 +1,15 @@
+[
+["next year", "Date"],
+["last week", "Date"],
+["On Friday", "Date"],
+["early next year", "Date"],
+["yesterday", "Date"],
+["next week", "Date"],
+["late September", "Date"],
+["Monday", "Date"],
+["Nov. 6", "Date"],
+["last April", "Date"],
+["several years", "Duration"],
+["15 million instructions per second", "Duration"],
+["the next few years", "Duration"]
+]

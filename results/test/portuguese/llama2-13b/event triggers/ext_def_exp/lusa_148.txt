@@ -1,0 +1,4 @@
+["aprova", "ajuda", "KLM", "aceitarem", "reduzir", "salários", "governo", "holandês", "terça-feira", "plano", "salvação", "transportadora", "aérea", "ordem", "milhões", "euros", "sindicato", "pilotos", "aceitar", "redução", "salarial", "ministro", "Finanças", "Wopke", "Hoekstra", "congelado", "ajuda", "ramo", "Air", "Franc", "KLM", "anunciou", "sindicato", "cedido", "governo", "diz", "pronto", "emprestar", "3,4", "mil", "milhões", "euros", "AFP", "KLM", "reduzir", "despesas", "15%", "suprimir", "postos", "trabalho", "Cerca", "pilotos", "particularmente", "afetados", "baixas", "salariais", "ir", "20%", "meios", "país", "Air", "Franc", "KLM", "perdeu", "1,6", "mil", "milhões", "euros", "trimestre", "lucro", "363", "milhões", "ano", "passado"]
+
+Reference:
+https://www.kaggle.com/c/event-extraction-in-news-articles/data

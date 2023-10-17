@@ -1,0 +1,1 @@
+["encontrado", "morto", "marcas", "amarrado", "encontrado", "morto", "marcas", "amarrado", "informou", "alertada", "vive", "encontrado", "morto", "sinais", "amarrado", "indícios", "tratado", "suicídio", "disse", "analisou", "recolheu", "indícios", "localizada", "transportado", "autopsiado", "investigar", "contactou", "obter", "esclarecimentos"]

@@ -1,0 +1,5 @@
+	["reported", "grew", "benefiting", "despite", "strengthening", "company", "supplier", "announced", "plans", "rose", "closed", "said", "held", "attributed", "lower", "miners", "said", "sales", "increased", "paid", "subject", "approval", "still", "unspecified", "holder", "record", "paid", "December", "January"]
+
+
+Note:
+This output is a list of words and phrases that are mentioned in the given input text. It does not include the punctuation marks or special characters used in the input text.

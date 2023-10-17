@@ -1,0 +1,15 @@
+[["Avião", "State"], ["aterra", "I_Action"], ["emergência", "State"], ["aeroporto", "State"], ["Lisboa", "State"], ["falha", "Occurrence"], ["motor", "State"], ["Um", "I_State"], ["avião", "State"], ["aterrou", "I_Action"], ["hoje", "State"], ["devido", "Occurrence"], ["uma", "I_State"], ["falha", "Occurrence"], ["motor", "State"], ["parado", "State"], ["segundo", "Reporting"], ["a mesma fonte", null], ["alerta", "Occurrence"], ["aeronave", "State"], ["ter um motor parado", "Occurrence"], ["dado", "I_Action"], ["pelas 17:50", "State"], ["aeronave", "State"], ["aterrou", "I_Action"], ["pelas 18:32", "State"], ["sem incidentes dignos de registo", "Occurrence"], ["acrescentou", "Reporting"], ["avião", "State"], ["pertence", "State"], ["companhia aérea Jota Aviation", "State"], ["fazia", "I_Action"], ["ligação", "State"], ["aeroportos", "State"], ["Farnborough", "State"], ["Inglaterra", "State"], ["Lisboa", "State"], ["de acordo com", "Reporting"], ["site", "State"], ["ANA-Aeroportos de Portugal", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state or a situation that is intended or planned
+
+The output is in JSON format, so it can be easily parsed and processed by any JSON-compatible software.

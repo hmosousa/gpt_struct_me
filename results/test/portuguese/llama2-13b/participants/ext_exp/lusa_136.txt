@@ -1,0 +1,48 @@
+["a GNR", "a detenção", "um homem", "59 anos", "maus-tratos", "o seu pai", "89 anos", "cometidos", "o concelho", "a Maia", "o distrito", "o Porto", "em comunicado", "a GNR explica", "a idoso", "a vítima", "o seu pai", "89 anos", "a dar-lhe", "dinheiro", "o seu vício", "consumo de estupefacientes", "Estes factos", "a emissão", "um mandado", "a detenção", "a quarta-feira", "militares", "a GNR", "o Posto Territorial", "a Maia", "o Tribunal de Instrução Criminal", "Matosinhos", "as medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Porque a China não é uma democracia
+A China não é uma democracia.
+Eu não estou a dizer que a China não seja uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que a China não é uma democracia.
+Eu estou a dizer que

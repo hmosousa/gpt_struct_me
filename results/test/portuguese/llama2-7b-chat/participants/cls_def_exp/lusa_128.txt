@@ -1,0 +1,1 @@
+[["GNR", "Org"], ["violência doméstica", "Per"], ["caçadeira", "Obj"], ["pistola", "Obj"], ["armas de ar comprimido", "Obj"], ["coldre", "Obj"], ["munições", "Other"], ["Tribunal Judicial", "Org"]]

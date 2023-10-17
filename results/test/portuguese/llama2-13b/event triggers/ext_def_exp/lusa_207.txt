@@ -1,0 +1,4 @@
+["Dois feridos", "Dois homens", "22 e 33 anos", "feridos", "gravidade", "sequência", "desordem", "Bairro", "Casal dos Machados", "Lisboa", "fonte", "PSP", "acordo", "fonte", "desordem", "envolveu", "pessoas", "armas de fogo", "começou", "bombas de gasolina", "Avenida Infante D. Henrique", "terminou", "Largo Maria Judite de Carvalho", "Casal dos Machados", "freguesia", "Parque das Nações", "sequência", "ferido", "gravidade", "transportado", "ambulância", "Hospital de Santa Maria", "ferido ligeiro", "22 anos", "deslocou-se", "mesmos meios", "local", "cartucho", "arma de fogo", "viaturas", "danificadas", "disparos", "arma de fogo", "alerta", "desordem", "dado", "investigação", "ficou", "cargo", "Polícia Judiciária"]
+
+Reference:
+https://www.aclweb.org/anthology/2019.acl-main.100.pdf

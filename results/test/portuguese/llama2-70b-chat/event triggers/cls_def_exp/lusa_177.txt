@@ -1,0 +1,17 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["atingido", "Occurrence"], ["árvore", "State"], ["grande", "State"], ["portes", "State"], ["Comando", "State"], ["Distrital", "State"], ["Operações", "State"], ["Socorro", "State"], ["Braga", "State"], ["fonte", "Reporting"], ["circunstâncias", "Occurrence"], ["acidente", "Occurrence"], ["trabalho", "State"], ["segundo", "Intensional State"], ["informações", "Reporting"], ["homem", "State"], ["cortar", "I_Action"], ["árvore", "State"], ["atingido", "Occurrence"], ["mesma", "State"], ["alerta", "Occurrence"], ["Bombeiros", "State"], ["Voluntários", "State"], ["Barcelinhos", "State"], ["viatura", "State"], ["médica", "State"], ["emergência", "State"], ["reanimação", "State"], ["óbito", "State"], ["local", "State"], ["GNR", "State"], ["tomou", "I_Action"], ["conta", "State"], ["ocorrência", "Occurrence"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+* Aspectual: refers to an aspect or a feature
+
+The input text is in Portuguese, and the output should be in English.
+
+Please note that the input text may contain grammatical errors or typos, and the output should reflect the corrections made to the input text.
+
+Also, please note that the output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.

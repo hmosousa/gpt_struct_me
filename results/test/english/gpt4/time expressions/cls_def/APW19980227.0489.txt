@@ -1,0 +1,7 @@
+[
+["Friday", "Set"],
+["nearly four years ago", "Duration"],
+["April 6, 1994", "Date"],
+["for 2 1/2 years", "Duration"],
+["within a year", "Duration"]
+]

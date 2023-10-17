@@ -1,0 +1,1 @@
+["two-year", "fourth-quarter", "six months", "55 years old or older", "yesterday", "earlier this year"]

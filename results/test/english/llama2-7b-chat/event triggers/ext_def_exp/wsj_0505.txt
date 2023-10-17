@@ -1,0 +1,6 @@
+
+["agreed", "soared", "reached", "subject", "completed", "operates", "reported", "increase", "control", "hopes", "1992", "currently"]
+
+
+Format:
+JSON-parseable list of strings.

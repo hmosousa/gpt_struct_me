@@ -1,0 +1,7 @@
+[["um homem", "Per"], ["60 anos", "Age"], ["Matosinhos", "Loc"], ["Rua Augusto Gil", "Loc"], ["sete metros", "Other"], ["os bombeiros", "Org"]]
+
+
+Note:
+
+* The list of classes is not exhaustive and can be extended based on the requirements of the project.
+* The output format can also be modified based on the requirements of the project.

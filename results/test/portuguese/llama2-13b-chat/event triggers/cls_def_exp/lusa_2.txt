@@ -1,0 +1,12 @@
+[["morre", "I_Action"], ["ferido", "I_Action"], ["desordem", "Occurrence"], ["arma de fogo", "Occurrence"], ["informou", "Reporting"], ["PSP", "Entity"], ["Comando Metropolitano de Lisboa", "Entity"], ["houve", "Occurrence"], ["maneira", "Occurrence"], ["reverter", "I_Action"], ["situação", "State"], ["ferimentos", "Occurrence"], ["desconhecendo", "Reporting"], ["adiantou", "I_Action"], ["alerta", "Occurrence"], ["levadas", "I_Action"], ["diligências", "State"], ["socorrer", "I_Action"], ["vítimas", "Entity"], ["crime", "Occurrence"], ["homicídio", "Occurrence"], ["investigação", "Occurrence"], ["PJ", "Entity"]]
+
+Note:
+The classes are based on the definitions provided in the task and the examples given. The classes are:
+
+* State: refers to a situation or condition that exists or holds at a particular time.
+* Occurrence: refers to an event or incident that happens or takes place at a particular time.
+* Reporting: refers to the act of communicating or making known information or news.
+* Perception: refers to the way something is perceived or interpreted.
+* Aspectual: refers to a quality or characteristic of something.
+* Intensional Action: refers to an action that is performed with a specific goal or intention.
+* Intensional State: refers to a state or condition that exists or holds with a specific goal or intention.

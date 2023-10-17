@@ -1,0 +1,1 @@
+["Monday", "3.2 million", "$28 million", "$22.5 million", "91.2%", "93.2%"]

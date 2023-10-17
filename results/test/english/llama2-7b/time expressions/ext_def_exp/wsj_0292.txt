@@ -1,0 +1,24 @@
+["Despite continuing problems in its newsprint business", "Kimberly-Clark Corp.", "third-quarter", "20%", "net income", "consumer-products", "newsprint", "20%", "flat", "second quarter", "lower newsprint earnings", "depressed", "industrywide price discounting", "quarter-to-quarter comparison", "enhanced", "charges", "modernization", "pulp", "newsprint mill", "Alabama", "first nine months", "10%", "profit", "sales", "6.7%", "4.27 billion", "4 billion", "New York Stock Exchange composite trading", "Kimberly-Clark closed at $66.50 a share", "up $1.50"]
+
+Explanation:
+
+Time expressions are extracted by using the following rules:
+
+1. If the string contains a time expression, then return it.
+2. If the string contains a date expression, then return it.
+3. If the string contains a time expression and a date expression, then return the time expression.
+4. If the string contains a time expression and a date expression and a time expression, then return the time expression.
+5. If the string contains a time expression and a date expression and a time expression and a date expression, then return the time expression.
+6. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+7. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+8. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+9. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+10. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+11. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+12. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+13. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+14. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+15. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+16. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression, then return the time expression.
+17. If the string contains a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression and a time expression and a date expression, then return the time expression.
+18. If the string contains a time expression and a date expression and a time expression and

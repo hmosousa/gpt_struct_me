@@ -1,0 +1,36 @@
+[["Governo", "State"], ["Jacarta", "State"], ["ilegaliza", "I_Action"], ["grupo", "State"], ["radical", "State"], ["islâmico", "State"], ["FPI", "State"], ["Mohammad", "State"], ["Mahfud", "State"], ["dissse", "Reporting"], ["jornalistas", "State"], ["Frente", "State"], ["Defesa", "State"], ["Islâmica", "State"], ["FPI", "State"], ["proibiu", "I_Action"], ["uso", "State"], ["símbolos", "State"], ["grupo", "State"], ["radical", "State"], ["tem", "Aspectual"], ["alargar", "Occurrence"], ["influência", "State"], ["população", "State"], ["missões", "State"], ["humanitárias", "State"], ["caridade", "State"], ["organizou", "Occurrence"], ["protestos", "Occurrence"], ["governador", "State"], ["cristão", "State"], ["Jacarta", "State"], ["líder", "State"], ["Rizieg", "State"], ["Shihab", "State"], ["entregou-se", "I_Action"], ["autoridades", "State"], ["acusado", "State"], ["incitar", "Occurrence"], ["população", "State"], ["violar", "Occurrence"], ["medidas", "State"], ["restrição", "State"], ["impôs", "Occurrence"], ["Governo", "State"], ["país", "State"], ["pandemia", "State"], ["covid-19", "State"], ["organizando", "Occurrence"], ["manifestações", "Occurrence"]]
+
+Please note that the input and output are in Portuguese.
+
+Task:
+Extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event.
+
+Example:
+In the sentence "The leader of the government of Victoria apologized for the errors in the quarantine program", the event triggers are "apologized" (an action) and "errors" (an occurrence).
+
+In the sentence "The government of Victoria banned the Islamic Defenders Front (FPI) group", the event triggers are "banned" (an action) and "group" (a state).
+
+In the sentence "The FPI organized large protests in 2016 and 2017 against the Christian governor of Jakarta", the event triggers are "organized" (an action) and "protests" (an occurrence).
+
+In the sentence "The leader of the organization, Rizieq Shihab, turned himself in to the authorities in early December after being accused of inciting the population to violate the government's restrictions to contain the COVID-19 pandemic in the country", the event triggers are "turned himself in" (an action) and "accused" (a state).
+
+Your output should be a list of event triggers, with each trigger classified into one of the following categories:
+
+* I_Action: Indicates an action or activity.
+* I_State: Indicates a state or condition.
+* Occurrence: Indicates an event or occurrence.
+* Reporting: Indicates a report or statement about an event or situation.
+* Aspectual: Indicates a situation or condition that exists or persists over a period of time.
+* Perception: Indicates a perception, opinion, or belief about an event or situation.
+* Intensional Action: Indicates an action or activity that is intended or planned.
+* Intensional State: Indicates a state or condition that is intended or planned.
+
+Note that some event triggers may belong to more than one category. For example, the word "organized" in the sentence "The FPI organized large protests in 2016 and 2017 against the Christian governor of Jakarta" could be classified as both an action (I_Action) and an occurrence (Occurrence).
+
+Your output should be a JSON-parseable list, with each element in the list containing two strings: the first string is the event trigger, and the second string is the category or classification of the event trigger.
+
+For example:
+[
+["apologized", "I_Action"],
+["errors", "Occurrence"],
+["

@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["Mirandela", "Location"], ["rio Tua", "Location"], ["Valverde da Gestosa", "Location"], ["sábado", "Date"], ["domingo", "Date"], ["19:30", "Time"], ["meia-noite", "Time"]]

@@ -1,0 +1,1 @@
+[["Automóvel", "Object"], ["atropelou", "Action"], ["várias pessoas", "Quantity"], ["Manhattan", "Location"], ["Nova Iorque", "Location"], ["EUA", "Location"], ["hoje", "Time"], ["se foi um acidente ou ação intencional", "Question"], ["vários feridos", "Quantity"], ["se transportaram", "Action"], ["vários hospitais", "Location"], ["Big Apple", "Location"]]

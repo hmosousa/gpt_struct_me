@@ -1,0 +1,16 @@
+[
+["this week", "Set"],
+["the last twenty four hours", "Duration"],
+["a five year low", "Date"],
+["a four year low", "Date"],
+["Not that long ago", "Date"],
+["seventy million dollars", "Time"],
+["the past three months", "Duration"],
+["thirty percent", "Time"],
+["seventy percent", "Time"],
+["three thousand dollar", "Time"],
+["two hundred dollar", "Time"],
+["fifty dollars", "Time"],
+["after ten years", "Duration"],
+["a couple of years", "Duration"]
+]

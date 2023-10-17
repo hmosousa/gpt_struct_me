@@ -1,0 +1,10 @@
+[["Governo português", "Org"], ["expressou", "Verb"], ["a sua solidariedade", "Other"], ["para com as famílias", "Other"], ["das vítimas", "Other"], ["do atentado", "Other"], ["que aconteceu", "Other"], ["na cidade de Trier", "Loc"], ["na Alemanha", "Loc"], ["duas pessoas", "Per"], ["morreram", "Verb"], ["atropeladas", "Other"], ["e várias", "Other"], ["ficaram", "Verb"], ["feridas", "Other"], ["depois de", "Other"], ["um veículo", "Obj"], ["ter avançado", "Verb"], ["sobre", "Pre"], ["uma zona", "Loc"], ["pedonal", "Other"], ["da cidade", "Loc"], ["de Trier", "Loc"], ["no sudoeste", "Other"], ["da Alemanha", "Loc"], ["a polícia", "Org"], ["local", "Other"], ["Através", "Pre"], ["da página", "Other"], ["oficial", "Other"], ["do Twitter", "Other"], ["do Ministério", "Org"], ["dos Negócios", "Other"], ["Estrangeiros", "Other"], ["manifesto", "Verb"], ["a solidariedade", "Other"], ["para", "Pre"], ["com", "Other"], ["as famílias", "Other"], ["das vítimas", "Other"], ["do atentado", "Other"], ["que aconteceu", "Other"], ["naquela", "Other"], ["cidade", "Loc"], ["alemaã", "Loc"], ["desconhecendo-se", "Other"], [" ainda", "Other"], ["mais", "Other"], ["pormenores", "Other"], ["sobre", "Pre"], ["o incidente", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Other" stands for "Other"
+- "Loc" stands for "Location"
+- "Fac" stands for "Facility"
+- "Obj" stands for "Object"
+- "Verb" stands for "Verb"

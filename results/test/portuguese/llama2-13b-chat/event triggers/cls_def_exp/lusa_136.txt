@@ -1,0 +1,16 @@
+[["GNR", "I_Action"], ["detém", "I_Action"], ["homem", "Entity"], ["de 59 anos", "Aspectual"], ["por maus-tratos", "Occurrence"], ["sobre o pai", "Aspectual"], ["de 89 anos", "Aspectual"], ["cometidos", "Occurrence"], ["no concelho da Maia", "Location"], ["no distrito do Porto", "Location"], ["em setembro de 2019", "Aspectual"], ["terá agredido", "Occurrence"], ["injuriado", "Occurrence"], ["coagido", "Occurrence"], ["a dar-lhe dinheiro", "Occurrence"], ["para satisfazer o seu vício de consumo de estupefacientes", "Occurrence"], ["Estes factos", "Occurrence"], ["levaram", "Occurrence"], ["à emissão de um mandado de detenção", "Occurrence"], ["cumprimento", "Occurrence"], ["na quarta-feira", "Aspectual"], ["por militares da GNR do Posto Territorial da Maia", "Aspectual"], ["O detido", "Entity"], ["está hoje a ser presente", "Aspectual"], ["a primeiro interrogatório judicial", "Aspectual"], ["no Tribunal de Instrução Criminal de Matosinhos", "Location"], ["para aplicação das medidas de coação", "Aspectual"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "GNR", "homem") and the second string is the class (e.g. "I_Action", "Aspectual"). The classes are:
+
+* I_Action: an action or event that is taking place or has taken place
+* Aspectual: a property or characteristic of an entity that is relevant to the event or action
+* Occurrence: an event or happening that is taking place or has taken place
+* State: a state or condition of an entity that is relevant to the event or action
+* Reporting: a statement or piece of information that is being reported or communicated
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate an event or action is taking place or has taken place. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo".
+
+Your output should be a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. For example:
+
+[["pediu", "I_Action"], ["desculpa", "State"], ["erros", "Occurrence"], ["levaram", "Occurrence"], ["mortes", "Occurrence"], ["quarentena", "State"], ["divulgação", "Occurrence"], ["explicou", "Reporting"], ["implementado", "Occurrence"], ["investigação", "Occurrence"], ["quarentena", "State"], ["Quero", "I_State"], ["pedir", "I_Action"], ["desculpa", "State"], ["erros", "Occurrence"], ["cometidos", "Occurrence"], ["disse", "Reporting"], ["fraco controlo", "Occurrence"], ["quarentena", "State"], ["desencadearam", "Occurrence"], ["infeções", "Occurrence"], ["estado em grande parte livre", "State"], ["morreram", "Occurrence"],

@@ -1,0 +1,17 @@
+[["um homem", "Per"], ["de 60 anos", "Per"], ["morre", "Per"], ["em Matosinhos", "Loc"], ["após cair", "Other"], ["do telhado", "Other"], ["que estava a limpar", "Other"], ["a Lusa", "Org"], ["fonte da PSP", "Org"], ["O acidente", "Other"], ["deu-se", "Other"], ["perto das 15:30", "Other"], ["na Rua Augusto Gil", "Loc"], ["tendo o homem", "Other"], ["caído de uma altura de sete metros", "Other"], ["acrescentou", "Other"], ["a fonte", "Org"], ["os bombeiros", "Org"], ["de Leixões", "Org"]]
+
+Note:
+- "Per" stands for "Person"
+- "Loc" stands for "Location"
+- "Fac" stands for "Facility"
+- "Org" stands for "Organization"
+- "Other" stands for "Other"
+
+Hint:
+You can use the "entities" and "classes" to train a machine learning model to classify the participants in the text.
+
+Hint 2:
+You can use the "entities" and "classes" to create a dependency graph of the text, where each entity is a node and the edges represent the relationships between the entities.
+
+Hint 3:
+You can use the "entities" and "classes" to create a named entity recognition (NER) model, where each entity is labeled with its corresponding class.

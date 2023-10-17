@@ -1,0 +1,1 @@
+[["domingo", "Date"], ["6 anos e 6 meses", "Time"], ["12 doses", "Quantity"], ["9 doses", "Quantity"], ["Tribunal Judicial de Vila do Conde", "Location"], ["Estabelecimento Prisional do Porto", "Location"]]

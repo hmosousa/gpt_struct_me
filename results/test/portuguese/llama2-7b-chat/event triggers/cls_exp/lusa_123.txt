@@ -1,0 +1,10 @@
+[["ferida", "Occurrence"], ["morreu", "State"], ["acidente", "Occurrence"], ["autoestrada", "State"], ["São João da Talha", "Aspectual"], ["Loures", "Aspectual"], ["sábado", "Aspectual"], ["21:40", "Aspectual"], ["quilómetro", "Aspectual"], ["quatro", "Aspectual"], ["feridos", "Occurrence"], ["trânsito", "State"], ["cortado", "Aspectual"], ["23:30", "Aspectual"], ["local", "Aspectual"], ["operacionais", "I_Action"], ["bombeiros", "I_Action"], ["INEM", "I_Action"], ["polícia", "I_Action"], ["10", "Aspectual"], ["viaturas", "I_Action"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several events (acident, death, etc.) and actors (GNR, bombeiros, etc.)
+* The output is organized in a list of events and actors, with each event and actor represented by a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Occurrence (for events), State (for actors), and Aspectual (for aspects).
+* The output shows the different events and actors involved in the story, such as the accident, the death of the child, the involvement of the GNR and the bombeiros, etc.

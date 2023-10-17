@@ -1,0 +1,16 @@
+[
+"First Security Corp.",
+"Deseret Bancorp.",
+"stock",
+"about $18 million",
+"shares",
+"million",
+"assets",
+"liabilities",
+"Salt Lake City",
+"agreement",
+"subject",
+"hope",
+"transaction",
+"early next year"
+]

@@ -1,0 +1,36 @@
+["MP acusa agente da GNR de Braga de peculato e abuso de poder", "O Ministério Público (MP)", "peculato", "abuso de poder", "falsificou", "mapas mensais", "suplementos remuneratórios", "5.400 euros", "a GNR de Braga", "chefe", "Núcleo de Investigação Criminal", "processamento", "novembro de 2011", "outubro de 2016", "suplemento de escala", "direito", "receber", "suplemento", "militares", "efetivo", "Núcleo de Investigação Criminal", "subordinados", "execução", "serviço", "escalado"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado 19 vezes
+Autoridades de Nova I

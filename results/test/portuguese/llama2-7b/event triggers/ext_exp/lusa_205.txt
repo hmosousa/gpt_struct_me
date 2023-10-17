@@ -1,0 +1,20 @@
+["Polícia", "Judiciária", "detém", "suspeito", "pornografia", "menores", "Évora", "anunciou", "hoje", "detenção", "flagrante", "delito", "homem", "56", "anos", "residente", "distrito", "Évora", "localizado", "detido", "elementos", "Unidade", "Local", "Investigação", "Criminal", "Évora", "informação", "recolhida", "referiu", "PJ", "adiantando", "após", "busca", "domiciliária", "apreendidos", "homem", "vários", "telemóveis", "continham", "mais", "centenas", "ficheiros", "informáticos", "utilizava", "partilhar", "conteúdos", "imagens", "menores", "situações", "cariz", "sexual", "detido", "presente", "interrogatório", "judicial", "aplicação", "medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, em resposta às crescentes preocupações com a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, tem sido a principal fonte de informações sobre a doença, mas a informação sobre a propagação do vírus no país é escassa.
+A China anunciou hoje que 100 milhões de pessoas estão em quarent

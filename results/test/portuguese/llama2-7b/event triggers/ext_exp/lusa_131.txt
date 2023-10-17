@@ -1,0 +1,20 @@
+["apreendeu", "nove", "viveiros", "ilegais", "ria", "Aveiro", "UCC", "GNR", "apreendeu", "ria", "Aveiro", "nove", "viveiros", "ilegais", "contendo", "crustáceos", "20", "quilos", "enguia-europeia", "espécie", "extinção", "necessita", "certificado", "CITES", "deteção", "instalação", "culturas", "sem", "licenciamento", "apuramento", "responsabilidades", "puníveis", "coima", "60", "mil", "euros", "crustáceos", "enguias-europeias", "vivos", "devolvidos", "meio", "natural"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados do serviço de notícias Reuters.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas, também registraram mais de 100 mortes por dia.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas, também registraram mais de 100 mortes por dia.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas, também registraram mais de 100 mortes por dia.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas, também registraram mais de 100 mortes por dia.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas, também registraram mais de 100 mortes por dia.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 15 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 1.000 pessoas.
+Ao mesmo tempo, a China, onde a do

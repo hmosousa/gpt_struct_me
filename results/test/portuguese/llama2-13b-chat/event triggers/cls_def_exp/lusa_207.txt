@@ -1,0 +1,12 @@
+[["Dois feridos", "Occurrence"], ["Lisboa", "Location"], ["Casal dos Machados", "Location"], ["terça-feira à noite", "Aspectual"], ["desordem", "Occurrence"], ["vários pessoas", "Occurrence"], ["armas de fogo", "Occurrence"], ["começou", "Aspectual"], ["Avenida Infante D. Henrique", "Location"], ["Largo Maria Judite de Carvalho", "Location"], ["Parque das Nações", "Location"], ["ferido com gravidade", "Occurrence"], ["transportado de ambulância", "Occurrence"], ["hospital de Santa Maria", "Location"], ["ferido ligeiro", "Occurrence"], ["deslocou-se", "Aspectual"], ["viaturas", "Occurrence"], ["ficaram danificadas", "Occurrence"], ["disparos de arma de fogo", "Occurrence"], ["alerta", "Occurrence"], ["investigação", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity, and the second string is the class. The classes are:
+
+* Occurrence: represents an event or a happening that takes place at a specific time and location.
+* Location: represents a physical or geographical location where an event takes place.
+* Aspectual: represents a temporal or spatial aspect of an event or a state.
+* State: represents a state or a condition that holds over a period of time.
+* Action: represents an action or an event that is performed by an agent.
+
+Your task is to extract and classify all event triggers from the input text using the above classes.

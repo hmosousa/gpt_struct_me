@@ -1,0 +1,14 @@
+[["prisão preventiva", "I_Action"], ["homem", "Entity"], ["de 26 anos", "Aspectual"], ["crime violência doméstica", "Occurrence"], ["ameaças de morte", "Occurrence"], ["mãe", "Entity"], ["irmã", "Entity"], ["local", "Location"], ["denúncia", "Occurrence"], ["militares", "Entity"], ["Guarda", "Entity"], ["destruiu", "Occurrence"], ["portas", "Entity"], ["habitação", "Location"], ["tentou", "Occurrence"], ["fuga", "Occurrence"], ["intercetado", "Occurrence"], ["detido", "I_Action"], ["anteriores", "Aspectual"], ["criminais", "Aspectual"], ["ilícitos", "Aspectual"], ["da mesma natureza", "Aspectual"], ["Tribunal", "Location"], ["Judicial", "Aspectual"], ["Seia", "Location"], ["ficando", "I_Action"], ["sujeito", "I_Action"], ["medida", "I_Action"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "mãe", "irmã") and the second string is the class (e.g. "I_Action", "Entity", "Aspectual"). The classes are:
+
+* I_Action: actions and events
+* Entity: entities and objects
+* Aspectual: aspects and qualities
+* Occurrence: occurrences and events
+* Reporting: reporting and descriptions
+
+Your task is to extract and classify all event triggers in the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null.
+
+Your output should be a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are the same as the ones described above.

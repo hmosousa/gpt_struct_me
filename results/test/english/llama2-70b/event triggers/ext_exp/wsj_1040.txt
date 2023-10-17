@@ -1,0 +1,1 @@
+["declare", "payable", "stock", "dividend", "share", "company", "record", "common", "cash", "liquidity", "Oneida", "N.Y.", "makers", "consumer", "food-service", "industrial", "products", "quarterly", "declaration", "reward", "improve", "move", "outstanding", "trading", "yesterday", "close", "unchanged"]

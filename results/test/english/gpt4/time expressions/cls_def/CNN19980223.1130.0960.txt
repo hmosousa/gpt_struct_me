@@ -1,0 +1,7 @@
+[
+["the recent", "Set"],
+["the middle of October", "Date"],
+["today", "Date"],
+["the winter of nineteen ninety-four", "Date"],
+["the last two weeks", "Duration"]
+]

@@ -1,0 +1,9 @@
+[["morre", "I_Action"], ["atropelamento", "Occurrence"], ["rodoviário", "Occurrence"], ["provoquou", "Occurrence"], ["morto", "Occurrence"], ["ferido grave", "Occurrence"], ["transportado", "I_Action"], ["hospital", "Location"], ["declarada", "Reporting"], ["cadáver", "State"], ["local", "Location"], ["Estrada Nacional 2-3", "Location"], ["freguesia", "Location"], ["Valada", "Location"], ["GNR", "Organization"], ["santarém", "Location"], ["vítimas", "PluralNoun"], ["homens", "PluralNoun"], ["circulavam", "I_Action"], ["atropelados", "Occurrence"], ["veículo", "Noun"], ["ligeiro", "Adjective"], ["alerta", "Occurrence"], ["18:14", "Time"], ["página", "Noun"], ["Internet", "Noun"], ["Autoridade", "Noun"], ["Emergência", "Noun"], ["Proteção", "Noun"], ["Civil", "Noun"]]
+
+Please help me understand how to classify these events.
+
+Note: I'm using the Stanford CoreNLP tool to perform the NER task.
+
+Please let me know if you need any additional information.
+
+Thank you!

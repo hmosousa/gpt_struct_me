@@ -1,0 +1,11 @@
+[["quatro suspeitos", "Person"], ["hoje", "Date"], ["Alto Minho", "Location"], ["residências", "Location"], ["estabelecimentos", "Location"], ["interior de veículos", "Location"], ["tráfico de drogas", "Crime"], ["GNR", "Organization"], ["Viana do Castelo", "Location"]]
+
+Note:
+
+* The input text is in Portuguese.
+* The output is a JSON-parseable list of lists, where each inner list contains two strings: the entity and the class.
+
+
+
+
+

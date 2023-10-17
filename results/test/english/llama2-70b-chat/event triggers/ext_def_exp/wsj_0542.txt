@@ -1,0 +1,1 @@
+["extended", "offer", "rejected", "expire", "mailed", "contains", "changed", "discloses", "criticized", "forecast", "views", "fell", "trading", "believes", "fair", "negotiations", "result", "talks", "changed", "publishes", "operates", "database"]

@@ -1,0 +1,1 @@
+[["em Monção", "Location"], ["hoje", "Date"], ["lugar de Barreiro", "Location"], ["Tangil", "Location"], ["Viana do Castelo", "Location"], ["14:25", "Time"], ["Instituto Nacional de Emergência Médica", "Organization"], ["Monção", "Location"], ["Valença", "Location"], ["Melgaço", "Location"]]

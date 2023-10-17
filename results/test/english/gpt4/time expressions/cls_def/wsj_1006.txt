@@ -1,0 +1,9 @@
+[
+["1985", "Date"],
+["the latest fiscal year", "Date"],
+["a matter of months", "Duration"],
+["the past two years", "Duration"],
+["the six months ended Aug. 12", "Date"],
+["a year earlier", "Date"],
+["Last month", "Date"]
+]

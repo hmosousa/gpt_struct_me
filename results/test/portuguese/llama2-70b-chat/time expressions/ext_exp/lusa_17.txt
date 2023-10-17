@@ -1,0 +1,9 @@
+["domingo", "2012", "2017", "2012"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be in English.
+* The time expressions should be in the format "YYYY-MM-DD" or "DD MMM YYYY" for dates, and "HH:MM" or "HH MM" for times, as appropriate.
+* The input text may contain other time expressions that are not relevant to the task, such as "hoje" (today), "ontem" (yesterday), "amanhã" (tomorrow), etc. These should be ignored.
+* The input text may also contain ambiguous or unclear time expressions. In such cases, it is acceptable to output "NULL" or "N/A".

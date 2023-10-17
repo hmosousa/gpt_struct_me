@@ -1,0 +1,1 @@
+[["told", "REPORTING"], ["bought", "OCCURRENCE"], ["launched", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["opened", "OCCURRENCE"], ["valued", "STATE"], ["created", "OCCURRENCE"], ["fight", "OCCURRENCE"], ["suggested", "REPORTING"], ["covering", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["help", "I_ACTION"], ["bid", "OCCURRENCE"], ["allies", "STATE"], ["likely", "I_STATE"]]

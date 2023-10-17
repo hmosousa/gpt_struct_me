@@ -1,0 +1,6 @@
+[
+["third-quarter", "Date"],
+["the quarter ended Sept. 30", "Date"],
+["the year-ago quarter", "Date"],
+["During the third quarter", "Date"]
+]

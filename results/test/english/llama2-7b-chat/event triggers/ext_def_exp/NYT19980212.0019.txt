@@ -1,0 +1,1 @@
+["killed", "emptied", "appeared", "waiting", "panicked", "intended", "firing", "hit", "pronounced", "fled", "took", "no", "removed", "room", "offices"]

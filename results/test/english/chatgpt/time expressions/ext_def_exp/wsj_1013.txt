@@ -1,0 +1,1 @@
+["the third quarter", "a year ago", "the latest quarter", "a year earlier", "the nine months", "Sept. 30", "June 30", "1994", "August", "Oct. 9", "year's end", "Sept. 30"]

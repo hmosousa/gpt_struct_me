@@ -1,0 +1,9 @@
+[["um automóvel", "Obj"], ["atropelou", "Per"], ["várias pessoas", "Per"], ["durante uma manifestação", "Loc"], ["do movimento", "Other"], ["As Vidas Negras Importam", "Other"], ["em Manhattan", "Loc"], ["nos Estados Unidos", "Loc"], ["mas as autoridades", "Org"], ["não especificaram", "Other"], ["se foi um acidente", "Other"], ["ou ação intencional", "Other"], ["o incidente", "Other"], ["provocou", "Other"], ["vários feridos", "Per"], ["alguns dos quais", "Per"], ["tiveram se ser transportados", "Other"], ["para vários hospitais", "Other"], ["da 'Big Apple'", "Other"], ["explicou à agência", "Other"], ["France-Presse (AFP)", "Org"], ["a polícia de Nova Iorque", "Org"], ["(NYPD)", "Org"], ["o condutor", "Per"], ["do automóvel", "Per"], ["foi detido", "Other"], ["no local", "Loc"], ["segundo", "Other"], ["a mesma fonte", "Other"], ["o incidente", "Other"], ["ocorreu", "Loc"], ["pelas 16:00 locais", "Other"], ["(21:00 em Lisboa)", "Other"], ["não provocou", "Other"], ["mortos", "Other"], ["até agora", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Obj" stands for "Object"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+- "Fac" stands for "Facility"
+- "Org" stands for "Organization"

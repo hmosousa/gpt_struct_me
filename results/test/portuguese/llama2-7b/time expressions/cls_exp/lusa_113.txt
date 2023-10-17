@@ -1,0 +1,33 @@
+[["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Pelo menos sete mortos e sete em estado crítico num incêndio em Hong Kong
+Pelo menos sete pessoas morreram e sete estão em estado crítico, na sequência de um incêndio num edifício residencial em Hong Kong, noticiou hoje a imprensa local.
+As vítimas mortais foram três homens, três mulheres e uma criança de 09 anos, noticiou o jornal South China Morning Post (SCMP).
+Três homens e quatro mulheres foram hospitalizados, no domingo à noite, em estado crítico. Duas outras pessoas encontram-se em estado grave, indicou.
+O incêndio foi o mais mortal em Hong Kong em quase uma década.
+O apartamento terá acolhido uma reunião familiar, mas as autoridades estão a investigar se funcionava no local um restaurante sem licença.
+A maioria das vítimas é nepalesa.
+Os bombeiros informaram hoje numa conferência de imprensa que não havia medidas de segurança contra incêndios no edifício e que um dos presentes durante o evento conseguiu salvar-se ao subir pela janela da casa de banho do apartamento."
+
+Output:
+[["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"], ["apartamento", "Set"],

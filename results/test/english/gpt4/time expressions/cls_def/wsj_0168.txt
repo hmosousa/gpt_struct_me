@@ -1,0 +1,1 @@
+[["one-year", "Duration"], ["an additional year", "Duration"]]

@@ -1,0 +1,1 @@
+["homem", "60 anos", "Celorico de Basto", "Polícia Judiciária", "Gandarela", "Braga", "lesão", "cranioencefálica", "Instituto Nacional de Emergência Médica", "INEM", "Gandarela", "trauma", "razão", "domingo", "socorro", "Cruz Vermelha", "paragem cardiorespiratória", "via pública", "Guimarães"]

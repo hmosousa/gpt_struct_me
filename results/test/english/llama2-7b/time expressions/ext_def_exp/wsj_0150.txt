@@ -1,0 +1,53 @@
+["A.L. Williams Corp.", "Primerica Corp.", "New York", "Williams", "Duluth", "Georgia", "Primerica", "New York Stock Exchange", "A.L. Williams amp Associates", "Primerica", "certain assets", "certain liabilities"]
+
+Explanation:
+The time expressions are:
+- "next week"
+- "Friday"
+- "nearly two months"
+- "1990"
+- "Thursday"
+- "Jan. 13"
+- "Previously"
+- "03/06/1998 13:19:00"
+- "Thursday"
+- "Feb. 23"
+- "over a week"
+- "Thursday"
+- "daily"
+- "Friday"
+- "Friday"
+- "10-hour"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage:", os.Args[0], "INPUT_FILE")
+		os.Exit(1)
+	}
+
+	inputFile := os.Args[1]
+
+	lines := strings.Split(inputFile, "\n")
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if line == "" {
+			continue
+		}
+
+		timeExpressions := strings.Split(line, " ")
+		for _, timeExpression := range timeExpressions {
+			fmt.Println(timeExpression)
+		}
+	}
+}

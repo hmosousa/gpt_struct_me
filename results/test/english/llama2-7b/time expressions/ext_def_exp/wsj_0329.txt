@@ -1,0 +1,111 @@
+["Coda Energy Inc.", "NCNB Texas National Bank", "NCNB Corp.", "Charlotte, N.C.", "Dallas", "oil and gas", "National Canada Corp.", "prime", "one percentage point", "85%", "each month", "virtually all", "oil and gas properties"]
+
+Explanation:
+The first string is the time expression.
+
+Examples:
+["next week", "Friday", "nearly two months", "1990", "Thursday", "Jan. 13", "Previously", "03/06/1998 13:19:00", "Thursday", "Feb. 23", "over a week", "Thursday", "daily", "Friday", "Friday", "10-hour"]
+
+Constraints:
+1 <= time expressions.length <= 100
+time expressions[i] is a string.
+time expressions[i] is a valid time expression.
+
+*/
+
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	reader := bufio.NewReader(os.Stdin)
+
+	tc := readNum(reader)
+
+	for tc > 0 {
+		tc--
+		tc = readNum(reader)
+		if tc == 0 {
+			break
+		}
+		fmt.Println(solve(tc))
+	}
+}
+
+func readNum(reader *bufio.Reader) (a int) {
+	bs, _ := reader.ReadBytes('\n')
+	readString(bs)
+	return
+}
+
+func readString(bs []byte) {
+	str := strings.Trim(string(bs), " \n\t\r")
+	for i := 0; i < len(str); i++ {
+		if str[i] == ' ' {
+			str = str[:i]
+			break
+		}
+	}
+	a = 0
+	for i := 0; i < len(str); i++ {
+		if str[i] < '0' || str[i] > '9' {
+			a = -1
+			break
+		}
+		a = a*10 + str[i]-'0'
+	}
+	if a == -1 {
+		panic("invalid input")
+	}
+}
+
+func solve(t int) string {
+	var ans []string
+	for i := 0; i < t; i++ {
+		line, _ := reader.ReadString('\n')
+		line = strings.Trim(line, " \n\t\r")
+		line = strings.Split(line, " ")
+		for _, v := range line {
+			if v == "next week" {
+				continue
+			}
+			if v == "Friday" {
+				continue
+			}
+			if v == "nearly two months" {
+				continue
+			}
+			if v == "1990" {
+				continue
+			}
+			if v == "Thursday" {
+				continue
+			}
+			if v == "Jan. 13" {
+				continue
+			}
+			if v == "Previously" {
+				continue
+			}
+			if v == "03/06/1998 13:19:00" {
+				continue
+			}
+			if v == "Thursday" {
+				continue
+			}
+			if v == "Feb. 23" {
+				continue
+			}
+			if v == "over a week" {
+				continue
+			}
+			if v == "Thursday" {
+				continue
+			}
+			

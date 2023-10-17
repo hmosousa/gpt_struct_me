@@ -1,0 +1,3 @@
+["securities fraud", "facing", "more legal troubles", "reinstated", "state convictions", "investors", "junk bonds", "employees", "Lincoln savings and loan", "bonds", "worthless", "government regulators", "convictions", "thrown out", "technicality", "released", "parole", "circuit court of appeals", "original appeal", "flawed", "issues", "not been raised before", "convictions stand", "lawyers", "start over", "new appeal", "Elaine Corey", "NPR news", "San Francisco"]
+
+Please note that the output should be a JSON-parseable list of strings.

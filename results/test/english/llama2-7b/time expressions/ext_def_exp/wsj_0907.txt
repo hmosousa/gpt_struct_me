@@ -1,0 +1,85 @@
+["Chandler Insurance Co.", "third-quarter", "net income", "97%", "51 cents a share", "year-earlier", "revenue", "28 million", "earnings-per-share", "1989"]
+
+Explanation:
+The time expressions are:
+	"next week"
+	"Friday"
+	"nearly two months"
+	"1990"
+	"Thursday"
+	"Jan. 13"
+	"Previously"
+	"03/06/1998 13:19:00"
+	"Thursday"
+	"Feb. 23"
+	"over a week"
+	"Thursday"
+	"daily"
+	"Friday"
+	"Friday"
+	"10-hour"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage:", os.Args[0], "<input_file>")
+		os.Exit(1)
+	}
+
+	inputFile := os.Args[1]
+
+	lines, err := os.ReadFile(inputFile)
+	if err != nil {
+		fmt.Println("Error:", err)
+		os.Exit(1)
+	}
+
+	var timeExpressions []string
+
+	for _, line := range lines {
+		line = strings.TrimSpace(string(line))
+		if line == "" {
+			continue
+		}
+
+		if strings.Contains(line, "next week") {
+			timeExpressions = append(timeExpressions, "next week")
+		} else if strings.Contains(line, "Friday") {
+			timeExpressions = append(timeExpressions, "Friday")
+		} else if strings.Contains(line, "nearly two months") {
+			timeExpressions = append(timeExpressions, "nearly two months")
+		} else if strings.Contains(line, "1990") {
+			timeExpressions = append(timeExpressions, "1990")
+		} else if strings.Contains(line, "Thursday") {
+			timeExpressions = append(timeExpressions, "Thursday")
+		} else if strings.Contains(line, "Jan. 13") {
+			timeExpressions = append(timeExpressions, "Jan. 13")
+		} else if strings.Contains(line, "Previously") {
+			timeExpressions = append(timeExpressions, "Previously")
+		} else if strings.Contains(line, "03/06/1998 13:19:00") {
+			timeExpressions = append(timeExpressions, "03/06/1998 13:19:00")
+		} else if strings.Contains(line, "Thursday") {
+			timeExpressions = append(timeExpressions, "Thursday")
+		} else if strings.Contains(line, "Feb. 23") {
+			timeExpressions = append(timeExpressions, "Feb. 23")
+		} else if strings.Contains(line, "over a week") {
+			timeExpressions = append(timeExpressions, "over a week")
+		} else if strings.Contains(line, "Thursday") {
+			timeExpressions = append(timeExpressions, "Thursday")
+		} else if strings.Contains(line, "daily") {
+			timeExpressions = append(timeExpressions, "daily")
+		} else if strings.Contains(line, "Friday") {
+			timeExpressions = append(timeExpressions, "Friday")
+		} else if strings.Contains(line, "Friday") {
+			timeExpressions = append(timeExpressions, "Friday")
+	

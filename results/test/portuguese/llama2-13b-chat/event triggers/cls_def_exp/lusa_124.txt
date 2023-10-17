@@ -1,0 +1,11 @@
+[["GNR", "I_Action"], ["acabou", "I_Action"], ["com festa ilegal", "Occurrence"], ["50 pessoas", "Occurrence"], ["em São Brás de Alportel", "Location"], ["na sequência de", "Aspectual"], ["denúncia a informar", "Occurrence"], ["sobre a existência de", "Occurrence"], ["uma festa com música ao vivo", "Occurrence"], ["num estabelecimento de bebidas", "Location"], ["desmobilizaram", "I_Action"], ["as pessoas", "Occurrence"], ["para", "Aspectual"], ["cumprimento das normas referentes à pandemia de covid-19", "State"], ["na nota", "Aspectual"], ["é ainda referido", "Reporting"], ["que", "Occurrence"], ["o proprietário", "Entity"], ["foi identificado", "State"], ["foi elaborado", "I_Action"], ["um auto de contraordenação", "Occurrence"]]
+
+Your task is to extract and classify all event triggers in the two input texts.
+
+Note:
+
+* Event triggers are the words or phrases that signal the occurrence of an event.
+* In the output, each event trigger should be listed with its corresponding class (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, or Intensional State).
+* If an event trigger has multiple possible classes, you should choose the one that best fits the context.
+
+Please provide the output in JSON-parseable list.

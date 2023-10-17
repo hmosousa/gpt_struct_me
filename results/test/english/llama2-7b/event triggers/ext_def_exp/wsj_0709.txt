@@ -1,0 +1,94 @@
+["Service", "Corp", "International", "expects", "report", "quarter", "company", "releases", "third-quarter", "results", "mid-November", "funeral", "home", "cemetery", "operator", "changed", "fiscal", "year", "calendar", "comparable", "year-ago", "second", "quarter", "ended", "October", "loss", "revenue", "associated", "consolidation", "facility"]
+
+"""
+
+import re
+import json
+import sys
+
+def main():
+    with open(sys.argv[1]) as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            line = line.split()
+            for word in line:
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("'"):
+                    word = word[1:-1]
+                if word.endswith("'"):
+                    word = word[:-1]
+                if word.startswith("\""):
+                    word = word[1:-1]
+                if word.endswith("\""):
+                    word = word[:-1]
+                if word.startswith("["):
+                    word = word[1:-1]
+                if word.endswith("]"):
+                    word = word[:-1]
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("'"):
+                    word = word[1:-1]
+                if word.endswith("'"):
+                    word = word[:-1]
+                if word.startswith("\""):
+                    word = word[1:-1]
+                if word.endswith("\""):
+                    word = word[:-1]
+                if word.startswith("["):
+                    word = word[1:-1]
+                if word.endswith("]"):
+                    word = word[:-1]
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("'"):
+                    word = word[1:-1]
+                if word.endswith("'"):
+                    word = word[:-1]
+                if word.startswith("\""):
+                    word = word[1:-1]
+                if word.endswith("\""):
+                    word = word[:-1]
+                if word.startswith("["):
+                    word = word[1:-1]
+                if word.endswith("]"):
+                    word = word[:-1]
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("'"):
+                    word = word[1:-1]
+                if word.endswith("'"):
+                    word = word[:-1]
+                if word.startswith("\""):
+                    word = word[1:-1]
+                if word.endswith("\""):
+                    word = word[:-1]
+                if word.startswith("["):
+                    word = word[1:-1]
+                if word.endswith("]"):
+                    word = word[:-1]
+                if word.startswith("("):
+                    word = word[1:-1]
+                if word.endswith(")"):
+                    word = word[:-1]
+                if word.startswith("'"):
+                    word = word[1:-1]
+                if word.endswith("'"):
+                    word = word[:-1]
+                if word.startswith("\""):
+                    word = word[1:-1]

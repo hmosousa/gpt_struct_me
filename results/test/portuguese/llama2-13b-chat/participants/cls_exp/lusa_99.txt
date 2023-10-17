@@ -1,0 +1,8 @@
+[["Quincy Promes", "Per"], ["futebolista", "Per"], ["do Ajax", "Org"], ["detido", "Per"], ["suspeita", "Other"], ["de esfaqueamento", "Other"], ["um familiar", "Per"], ["em julho", "Other"], ["informaram", "Org"], ["os meios de comunicação holandeses", "Org"], ["citing fontes policiais", "Other"], ["De acordo com", "Other"], ["o diário De Telegraaf", "Org"], ["após uma forte discussão", "Other"], ["no decurso de uma celebração familiar", "Other"], ["Promes esfaqueou", "Per"], ["a vítima", "Per"], ["no pescoço", "Other"], ["com esta a ficar gravemente ferida", "Other"], ["Alguns nos presentes", "Per"], ["na festa interpuseram-se", "Other"], ["o que teria impedido", "Other"], ["um desfecho mais grave", "Other"], ["O incidente", "Other"], ["teria acontecido", "Other"], ["num armazém", "Loc"], ["propriedade de Promes", "Org"], ["localizado em Abcoude", "Loc"], ["uma pequena povoação", "Loc"], ["na província de Utrecht", "Loc"], ["A denúncia", "Other"], ["foi apresentada", "Other"], ["em novembro", "Other"], ["e deu origem", "Other"], ["a uma investigação", "Other"], ["que conduziu", "Other"], ["a uma detenção", "Per"], ["esta manhã", "Other"], ["informou", "Org"], ["fonte policial", "Other"], ["citing", "Other"], ["o diário De Telegraaf", "Org"], ["Nos Países Baixos", "Loc"], ["a pena máxima", "Other"], ["para um delito", "Other"], ["de lesões graves", "Other"], ["decorrentes", "Other"], ["de uma agressão física", "Other"], ["é de quatro anos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other" (i.e. anything that doesn't fit into the other categories)

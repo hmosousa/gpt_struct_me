@@ -1,0 +1,1 @@
+[["em Amarante", "Location"], ["30 nov 2020", "Date"], ["Vila Meã", "Location"], ["GNR", "Agency"], ["têm de 30 e 60 anos", "Age"], ["fiscalização", "Event"], ["estabelecimentos de restauração e bebidas", "Location"], ["telemóvel", "Object"], ["tablet", "Object"], ["computador com impressora", "Object"], ["nove litros de bebidas espirituosas", "Object"]]

@@ -1,0 +1,4 @@
+["disputa", "agente", "polícia", "detido", "acusado", "matar", "colega", "discussão", "província", "sul", "Moçambique", "fonte", "corporação", "discutir", "motivos", "desconhecidos", "meio", "alvejando", "mortalmente", "agentes", "Departamento", "Recursos Naturais", "Meio Ambiente", "distrito", "Magude", "província", "incidente", "acampamento", "madrugada", "quinta-feira", "patrulha", "zona protegida", "ouvir", "correram", "detido", "processos", "disciplinar", "criminal", "comando", "interesse", "desfecho", "processos", "concluiu"]
+
+Reference:
+https://www.aclweb.org/anthology/2019.acl-main.100.pdf

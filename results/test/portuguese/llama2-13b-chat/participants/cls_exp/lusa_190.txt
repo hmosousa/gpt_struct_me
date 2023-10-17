@@ -1,0 +1,17 @@
+[["um homem", "Per"], ["gravemente ferido", "Per"], ["depois de ter sido eletrocutado", "Other"], ["em Oleiros", "Loc"], ["no distrito de Castelo Branco", "Loc"], ["segundo a mesma fonte", "Other"], ["o alerta", "Other"], ["às 16:18", "Other"], ["tendo a vítima", "Per"], ["seu transportado", "Other"], ["diretamente para o Centro Hospitalar e Universitário de Coimbra", "Other"], ["Segundo a indicação dos bombeiros", "Other"], ["a eletrocussão", "Other"], ["aconteceu", "Other"], ["dentro de uma habitação", "Loc"]]
+
+Note:
+- "Per" stands for "Person"
+- "Loc" stands for "Location"
+- "Fac" stands for "Facility"
+- "Org" stands for "Organization"
+- "Other" stands for "Other"
+
+Hint:
+You can use the Stanford CoreNLP library to perform the extraction.
+
+I have tried using the Stanford CoreNLP library, but I am having trouble understanding how to use it to extract the information I need. Can you please provide some guidance on how to use the library to extract the participants and their classes?
+
+I have also tried using the spaCy library, but I am having trouble understanding how to use it to extract the information I need. Can you please provide some guidance on how to use the library to extract the participants and their classes?
+
+I would greatly appreciate any help you can provide. Thank you!

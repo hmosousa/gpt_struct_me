@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 31 anos", "Per"], ["foi baleado", "Per"], ["ao final da manhã de hoje", "Other"], ["em Gulpilhares", "Loc"], ["Vila Nova de Gaia", "Loc"], ["e o autor do disparo", "Per"], ["pôs-se em fuga", "Other"], ["diz fonte policial", "Org"], ["a vítima", "Per"], ["foi atingida", "Per"], ["no braço esquerdo", "Other"], ["sering conduzida", "Other"], ["ao hospital Santos Silva", "Loc"], ["em Vila de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["pelos bombeiros de Valadares", "Org"], ["Trata-se de um ferido ligeiro", "Other"], ["O alerta", "Other"], ["chegou às autoridades", "Other"], ["pelas 11:45", "Other"], ["a Polícia Judiciária", "Org"], ["foi já chamada", "Other"], ["a investigar", "Other"], ["ja que se trata", "Other"], ["de um caso da competência reservada", "Other"], ["daquele órgão de polícia criminal", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the information provided in the text to identify the entities and their classes.
+* Each entity should be classified only once, and the class should be a valid one.
+* The output should be a JSON-parseable list.

@@ -1,0 +1,15 @@
+[["Suspeita", "Occurrence"], ["fogo", "State"], ["posto", "I_Action"], ["incêndio", "Occurrence"], ["consumiu", "Occurrence"], ["casa", "State"], ["desabitada", "State"], ["freguesia", "State"], ["concelho", "State"], ["Jardim da Serra", "State"], ["Câmara de Lobos", "State"], ["danificou", "Occurrence"], ["totalmente", "State"], ["habitação", "State"], ["suspeitas", "Occurrence"], ["fogo", "State"], ["posto", "I_Action"], ["Leonel Correia da Silva", "Person"], ["vereador", "Person"], ["autarquia", "State"], ["Câmara de Lobos", "State"], ["agência", "State"], ["Lusa", "State"], ["Bombeiros", "State"], ["Câmara de Lobos", "State"], ["combate", "I_Action"], ["incêndio", "Occurrence"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The class can be one of the following:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* I_Action: refers to an action or an intention
+* Reporting: refers to a reporting or a description of a situation
+* Perception: refers to a perception or a point of view
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The output is in JSON format, so it can be easily parsed and processed by any JSON-compatible tool or language.

@@ -1,0 +1,10 @@
+[["Ricardo Pinheiro", "I_Action"], ["substitui", "State"], ["José Mendes", "State"], ["cargo", "State"], ["mudança", "Occurrence"], ["anunciada", "Reporting"], ["nota", "Occurrence"], ["divulgada", "Reporting"], ["Presidência da República", "State"], ["aceitou", "I_Action"], ["proposta", "State"], ["exoneração", "State"], ["nomeação", "State"], ["Ricardo Miguel Furtado Pinheiro", "I_Action"], ["posse", "State"], ["ministro", "State"], ["Nelson de Sousa", "State"], ["hoje", "Aspectual"], ["Palácio de Belém", "State"], ["Câmara de Campo Maior", "State"], ["distrito de Portalegre", "State"], ["círculo", "State"], ["eleições legislativas", "State"]]
+
+Note:
+The classes are the same as in the previous task.
+
+Task:
+Classify all event triggers in the input text using the classes provided.
+
+Note:
+Please provide the output in JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

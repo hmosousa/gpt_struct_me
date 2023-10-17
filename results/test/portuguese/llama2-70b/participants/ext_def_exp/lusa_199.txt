@@ -1,0 +1,1 @@
+["homem", "60 anos", "Matosinhos", "telhado", "limpar", "homem", "60", "morreu", "hoje", "Matosinhos", "Porto", "telhado", "habitação", "limpar", "acidente", "Rua Augusto Gil", "7 metros", "bombeiros", "Leixões"]

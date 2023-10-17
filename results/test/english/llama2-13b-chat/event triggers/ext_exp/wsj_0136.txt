@@ -1,0 +1,4 @@
+["fell", "below", "year-earlier", "50%", "75%", "significant", "drop", "net", "income", "lower", "earnings", "fiscal", "1988", "company", "revenue", "start-up", "new", "division", "softer", "motor-home", "market", "higher", "administrative", "costs", "compliance", "government", "contractor", "regulations", "phase", "out", "current", "source", "production", "midsized", "motor", "home", "chassis", "anticipation", "start-up", "factory", "larger-than-normal", "supply", "carry", "transition", "period"]
+
+Format:
+JSON-parseable list of strings.

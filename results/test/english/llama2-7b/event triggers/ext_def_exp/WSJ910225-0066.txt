@@ -1,0 +1,27 @@
+["imply", "restore", "bogus", "Frog7", "All", "Fight", "All", "Fight", "with", "everything"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+""The United States and its allies have begun a ground offensive against Iraq, U.S. officials said early today. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 11:01 p.m. Saturday in the Persian Gulf. The attack was launched at 12:01 a.m. EST, 111:011:011:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:01:0:01:0:01:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:
+0:
+0:
+0:
+0:
+0:
+0.
+0.
+0.
+
+
+
+
+
+
+.
+.
+.
+.
+.
+.

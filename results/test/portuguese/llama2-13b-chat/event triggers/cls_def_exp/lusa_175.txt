@@ -1,0 +1,10 @@
+[["cadáver", "I_State"], ["encontrado", "Occurrence"], ["boiar", "Occurrence"], ["rio Douro", "Location"], ["Vila Nova de Gaia", "Location"], ["Polícia Marítima", "Organization"], ["Rui Santos Amaral", "Person"], ["populares", "Group"], ["Santa Marinha", "Location"], ["cais flutuante", "Location"], ["Polícia Judiciária", "Organization"], ["Sapadores de Vila Nova de Gaia", "Organization"], ["Bombeiros de Coimbrões", "Organization"]]
+
+Note:
+- "I_Action" refers to an intensional action, which is an action that is performed by an agent, such as "pedir" or "remover".
+- "I_State" refers to an intensional state, which is a state that is held by an agent, such as "cadáver" or "erros".
+- "Occurrence" refers to an event that happens or is experienced, such as "encontrado" or "boiar".
+- "Location" refers to a physical or geographical location, such as "rio Douro" or "Vila Nova de Gaia".
+- "Reporting" refers to the act of reporting or providing information, such as "divulgação" or "explicou".
+- "Aspectual" refers to an event that has a specific aspect or feature, such as "começou" or "transmissão comunitária".
+- "State" refers to a general state or condition, such as "mortes" or "quarentena".

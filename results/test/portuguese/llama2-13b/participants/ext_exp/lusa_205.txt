@@ -1,0 +1,34 @@
+["Polícia Judiciária", "detém", "suspeito", "pornografia", "menores", "Évora", "A Polícia Judiciária", "PJ", "anunciou", "detenção", "flagrante delito", "homem", "56 anos", "residente", "distrito", "Évora", "suspeitas", "prática", "crime", "pornografia", "menores", "telemóveis", "informação", "recolhida", "PJ", "adiantando", "elementos", "Unidade Local", "Investigação Criminal", "Évora", "investigação", "sequência", "busca domiciliária", "apreendidos", "homem", "vários telemóveis", "ficheiros informáticos", "utilizava", "equipamentos", "conteúdos", "imagens", "menores", "situações", "cariz sexual", "detido", "referenciado", "mesmo tipo", "crime", "eventual", "aplicação", "medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Porque a Europa não pode ignorar a crise na Venezuela
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e de paz.
+A crise na Venezuela é uma crise de direitos humanos, de democracia e

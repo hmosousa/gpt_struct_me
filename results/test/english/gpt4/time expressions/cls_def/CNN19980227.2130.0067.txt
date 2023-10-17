@@ -1,0 +1,7 @@
+[
+["last month", "Date"],
+["nineteen ninety-six", "Date"],
+["January nineteen ninety-seven", "Date"],
+["last month", "Date"],
+["this week", "Date"]
+]

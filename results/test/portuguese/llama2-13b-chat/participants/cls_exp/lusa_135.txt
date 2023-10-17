@@ -1,0 +1,8 @@
+[["A Unidade de Controlo Costeiro", "Org"], ["A GNR", "Org"], ["hoje de madrugada", "Loc"], ["no rio Guadiana", "Loc"], ["no Algarve", "Loc"], ["quase quatro toneladas de haxixe", "Obj"], ["e uma embarcação de alta velocidade", "Obj"], ["informou a GNR", "Other"], ["Em comunicado", "Other"], ["a GNR adianta", "Other"], ["que foram apreendidos", "Per"], ["115 fardos de haxixe", "Obj"], ["com 3.785 quilos", "Other"], ["e uma embarcação de alta velocidade", "Obj"], ["detetada perto da foz do rio Guadiana", "Loc"], ["com um 'comportamento suspeito'", "Other"], ["intercetada depois junto à Foz de Odeleite", "Other"], ["Os militares da GNR", "Org"], ["não conseguiram intercetar os suspeitos", "Other"], ["que 'encetaram fuga para território espanhol', "Other"], ["tendo sido informadas as autoridades policiais espanholas", "Other"], ["Segundo a GNR", "Other"], ["a embarcação foi detetada", "Other"], ["com a ajuda do Sistema Integrado de Vigilância", "Other"], ["Comando e Controlo (SIVICC)", "Other"], ["no âmbito de uma ação de vigilância e patrulhamento da costa", "Other"], ["Os factos foram remetidos à Polícia Judiciária (PJ)", "Other"]]
+
+Note:
+
+* "Aprrendidas" is the third person plural form of the verb "aprender" in Portuguese, and it is used as a noun to refer to the quantity of something that was learned or discovered.
+* "Haxixe" is a noun in Portuguese that refers to a type of drug.
+* "GNR" is an acronym for "Guardinha Nacional Republicana", which is the Portuguese national guard.
+* "PJ" is an acronym for "Polícia Judiciária", which is the Portuguese judicial police.

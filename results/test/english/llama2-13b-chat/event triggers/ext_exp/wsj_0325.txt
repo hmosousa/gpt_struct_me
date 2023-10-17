@@ -1,0 +1,17 @@
+[
+"loss",
+"restructuring",
+"program",
+"tangible",
+"capital",
+"ratio",
+"goodwill",
+"preferred",
+"stock",
+"exchange",
+"bonds",
+"charge",
+"earnings",
+"reserves",
+"portfolio"
+]

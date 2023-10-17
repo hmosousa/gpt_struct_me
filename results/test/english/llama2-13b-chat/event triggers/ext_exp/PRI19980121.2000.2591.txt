@@ -1,0 +1,7 @@
+
+JSON-parseable list of strings.
+
+Hint:
+The city is in Afghanistan.
+
+Please note that the input text is a paragraph of text and not a list of events. Therefore, the output should be a list of strings that represent the events or triggers in the text.

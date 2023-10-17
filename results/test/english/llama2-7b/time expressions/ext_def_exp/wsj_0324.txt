@@ -1,0 +1,70 @@
+["QVC Network Inc.", "CVN Cos.", "Home Shopping Network Inc.", "video shopping industry", "1998-03-06 13:19:00", "20 million", "1.4 billion"]
+
+Explanation:
+The time expressions are:
+	"next week"
+	"Friday"
+	"nearly two months"
+	"1990"
+	"Thursday"
+	"Jan. 13"
+	"Previously"
+	"03/06/1998 13:19:00"
+	"Thursday"
+	"Feb. 23"
+	"over a week"
+	"Thursday"
+	"daily"
+	"Friday"
+	"Friday"
+	"10-hour"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	filePath := os.Args[1]
+
+	file, err := os.Open(filePath)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer file.Close()
+
+	lines := strings.Split(file.ReadAll(), "\n")
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if line == "" {
+			continue
+		}
+
+		timeExpressions := strings.Split(line, " ")
+		for _, timeExpression := range timeExpressions {
+			timeExpression = strings.TrimSpace(timeExpression)
+			if timeExpression == "" {
+				continue
+			}
+
+			time, err := strconv.ParseInt(timeExpression, 10, 64)
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			fmt.Println(time)
+		}
+	}
+}

@@ -1,0 +1,22 @@
+["Automóvel", "atropela", "várias", "pessoas", "durante", "manifestação", "Black", "Lives", "Matter", "Manhattan", "Um", "automobilista", "atropelou", "hoje", "várias", "pessoas", "durante", "manifestação", "do", "movimento", "importam", "Nova", "Iorque", "Estados", "Uni", "feridos", "alguns", "de", "ser", "transportados", "para", "varios", "hospitais", "de", "Big", "Apple", "explicou", "a", "agência", "France-Presse", "AFP", "polícia", "de", "Nova", "Iorque", "detido", "local", "porta-voz", "avançou", "incidente", "ocorreu", "pelas", "16:00", "locales", "21:00", "Lisboa", "provocou", "mortos", "até", "agora", "corporações", "bombeiros", "ambulâncias", "local"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem quarentena em 100 milhões de pessoas, segundo a agência de notícias Xinhua.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos, tem 1.400 mortes pelo novo coronavírus, segundo a agência de notícias.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, e a segunda maior cidade, Xangai, onde a maioria dos casos foi registrada.
+A China, que já registrou mais de 80 mil casos

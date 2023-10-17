@@ -1,0 +1,23 @@
+["detetou", "descarga", "efluentes", "suinícolas", "freguesia", "Bidoeira", "Cima", "concelho", "Leiria", "detetou", "descarga", "efluente", "pecuário", "solo", "exploração", "agropecuária", "militares", "GNR", "patrulhamento", "escorrer", "solo", "lagoa", "armazenagem", "efluentes", "depuração", "identificado", "punto", "origem", "descarga", "elaboração", "contraordenação", "descarga", "efluente", "solo", "punível", "coima", "valor máximo", "euros", "nota"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR deteta descarga ilegal de efluentes suinícolas
+A GNR de Leiria anunciou hoje que detetou uma descarga ilegal de efluentes suinícolas para o solo, na freguesia da Bidoeira de Cima, no concelho de Leiria, após uma ação de patrulhamento.
+O Comando Territorial da GNR, através do Núcleo de Proteção Ambiental de Leiria, informa que, no dia 27 de novembro, detetou uma descarga ilegal de um efluente pecuário para o solo, proveniente de uma exploração agropecuária.
+Os militares da GNR estavam numa ação de patrulhamento, quando foram confrontados com "efluentes pecuários a escorrer livremente para o solo diretamente de uma lagoa de armazenagem de efluentes pecuários, sem qualquer tipo de mecanismo que assegurasse a sua depuração", refere uma nota de imprensa.
+Após algumas diligências, foi identificado o ponto de origem da descarga, resultando na elaboração de um auto de contraordenação por descarga de efluente pecuário diretamente para o solo, punível com uma coima no valor máximo de 144 mil euros, acrescenta a nota."
+
+Output:
+["detetou", "descarga", "efluentes", "suinícolas", "freguesia", "Bidoeira", "Cima", "concelho", "Leiria", "detetou", "descarga", "efluente", "pecuário", "solo", "exploração", "agropecuária", "militares", "GNR", "patrulhamento", "escorrer", "solo", "lagoa", "armazenagem", "efluentes", "depuração", "identificado", "punto", "origem", "descarga", "elaboração", "contraordenação", "descarga", "efluente", "solo", "punível", "coima", "valor máximo", "euros", "nota"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR deteta descarga ilegal de efluentes suinícolas
+A GNR de Leiria anunciou hoje que detetou uma descarga ilegal de efluentes suinícolas para o solo, na freguesia da Bidoeira de Cima, no concelho de Leiria, após uma ação de patrulhamento.
+O Comando Territorial da GNR, através do Núcleo de Proteção Ambiental de Leiria, informa que, no dia 27 de novembro, detetou uma descarga ilegal de um efluente pecuário para o solo, proveniente de uma exploração agropecuária.
+Os militares da GNR estavam numa ação de patrulhamento, quando foram confrontados com "efluentes pecuários a escorrer livremente para o solo diretamente de uma lagoa de armazenagem de efluentes pecuários, sem qualquer tipo de mecanismo que assegurasse a sua depuração", refere uma

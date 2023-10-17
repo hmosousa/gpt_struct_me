@@ -1,0 +1,10 @@
+[["detém", "I_Action"], ["homem", "Entity"], ["indiciado", "State"], ["falsificação", "Occurrence"], ["testes", "Entity"], ["com resultados negativos", "Occurrence"], ["prender", "I_Action"], ["apreender", "I_Action"], ["testes falsos", "Entity"], ["enviados", "Occurrence"], ["pessoas", "Entity"], ["fins de viagem", "Occurrence"], ["localização", "I_Action"], ["comparsa", "Entity"], ["confessou", "Reporting"], ["trabalhava", "Reporting"], ["outro indivíduo", "Entity"], ["se encontra foragido", "Occurrence"], ["obrigatório", "State"], ["sair ou entrar", "Occurrence"], ["fronteiras", "State"], ["reforçado", "I_Action"], ["fiscalização", "State"], ["anunciou", "Reporting"], ["retoma", "Occurrence"], ["emissão de vistos", "Occurrence"], ["fim da necessidade", "Occurrence"], ["quarentena", "State"], ["Moçambique", "Entity"], ["contabiliza", "Occurrence"], ["cumulativo", "State"], ["14.877 casos", "Occurrence"], ["121 óbitos", "Occurrence"], ["13.053", "Occurrence"], ["pessoas dadas", "Occurrence"], ["recuperadas", "State"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "testes", "Moçambique") and the second string is the class (e.g. "I_Action", "Entity", "Occurrence"). The classes are:
+
+* I_Action: actions performed by entities
+* Entity: entities mentioned in the text
+* Occurrence: events, states, or situations that occur in the text
+
+Your task is to extract and classify all event triggers in the input text using the above classes.

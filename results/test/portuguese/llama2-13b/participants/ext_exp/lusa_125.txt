@@ -1,0 +1,30 @@
+["GNR", "a Unidade de Controlo Costeiro", "a GNR", "785 quilos", "de haxixe", "detém", "dois homens", "em barco", "algo", "Olhão", "Algarve", "a UCC", "a embarcação", "fibra", "com cerca de cinco metros de comprimento", "a bordo", "a embarcação", "22 fardos", "de haxixe", "um peso total", "de 785 quilos", "um valor estimado", "superior a dois milhões de euros"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milhão de dólares em joias
+Autoridades de Nova Iorque prendem 10 pessoas por roubar mais de 1 milh

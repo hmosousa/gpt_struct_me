@@ -1,0 +1,21 @@
+["Despite", "conflict", "possible", "military", "Iraq", "oil", "prices", "falling", "glut", "seemingly", "hand", "prices", "from", "Brent", "north", "swede", "crude", "fall", "further", "come", "down", "middle", "October", "twenty-two", "barrel", "level", "today", "built", "momentum", "increase", "thirteen", "dollar", "barrel", "level", "winter", "nineteen", "ninety-four", "prices", "gas", "pump", "according", "Lundberg", "survey", "ten", "thousand", "gas", "stations", "nationwide"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The United States and its allies have been trying to get the Iraqi regime to disarm for more than a decade. But the Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the demands of the United States.
+The Iraqi regime has been defiant. It has not complied with the United Nations resolutions. It has not complied with the demands of the international community. It has not complied with the dem

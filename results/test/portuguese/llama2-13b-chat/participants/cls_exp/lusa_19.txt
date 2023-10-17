@@ -1,0 +1,11 @@
+[["um casal", "Per"], ["suspeito", "Per"], ["de matar", "Per"], ["uma mulher", "Per"], ["de 69 anos", "Other"], ["em Braga", "Loc"], ["para", "Other"], ["obtenção", "Other"], ["e apropriação", "Other"], ["de bens", "Other"], ["patrimoniais", "Other"], ["da vítima", "Other"], ["segundo", "Other"], ["a fonte", "Org"], ["do crime", "Per"], ["terá sido", "Other"], ["a apropriação", "Other"], ["dos bens", "Other"], ["que", "Other"], ["a vítima", "Other"], ["tinha consigo", "Other"], ["e ainda", "Other"], ["da casa", "Other"], ["que", "Other"], ["lhe pertencia", "Other"], ["a vítima", "Other"], ["de 69 anos", "Other"], ["terá sido", "Other"], ["assassinada", "Per"], ["numa freguesia", "Loc"], ["urbana de Braga", "Loc"], ["através", "Other"], ["do uso", "Other"], ["de força física", "Other"], ["e o corpo", "Other"], ["transportado", "Other"], ["pelos suspeitos", "Other"], [" até Dume", "Loc"], ["no mesmo concelho", "Loc"], ["onde", "Loc"], ["foi abandonado", "Other"], ["num caminho", "Other"], ["Os detidos", "Per"], ["ele de 61 anos", "Per"], ["e ela de 48 anos", "Per"], ["moram", "Other"], ["na cidade", "Loc"], ["de Braga", "Loc"], ["Estão", "Other"], ["indiciados", "Other"], ["da prática", "Other"], ["de crimes", "Other"], ["de homicídio", "Per"], ["qualificado", "Other"], ["profanação", "Other"], ["de cadáver", "Other"], ["burla", "Other"], ["informática", "Other"], ["e furto", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+
+Please let me know if you need any further clarification or details.

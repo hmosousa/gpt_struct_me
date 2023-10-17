@@ -1,0 +1,22 @@
+["Covid-19", "GNR", "de", "Freamunde", "Paços", "de", "Ferreira", "encerrou", "restaurante", "que", "reunia", "50", "pessoas", "a", "GNR", "de", "Freamunde", "anunciou", "hoje", "ter", "encerrado", "um", "estabelecimento", "de", "restauração", "e", "bebidas", "que", "reunia", "cerca", "de", "50", "pessoas", "naquela", "localidade", "do", "concelho", "de", "Paços", "de", "Ferreira", "os", "militares", "detetaram", "que", "o", "estabelecimento", "estava", "a", "funcionar", "com", "música", "ao", "vivo", "o", "correu", "na", "sequência", "de", "uma", "ação", "de", "fiscalização", "com", "vista", "ao", "cumprimento", "das", "normas", "referentes", "à", "pandemia", "covid-19", "segundo", "um", "comunicado", "da", "autoridade", "a", "proprietária", "de", "48", "anos", "foi", "identificada", "tendo", "sido", "dada", "ordem", "para", "terminar", "o", "evento", "resultando", "na", "elaboração", "de", "auto", "de", "contraordenação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:

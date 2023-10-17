@@ -1,0 +1,37 @@
+[["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"], ["desaparecido", "Set"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades encontram 100 quilos de caranguejo no rio Guadiana
+A Autoridade Marítima Nacional encontrou, na sequência de uma busca, 100 quilos de caranguejo no rio Guadiana, no concelho de Castro Marim, informou hoje à Lusa a autoridade.
+A busca decorreu na zona da Foz de Odeleite, no concelho de Castro Marim, e teve início às 10:00, depois de ter sido alertada às 09:30 pela Polícia Marítima.
+A autoridade informou que a busca decorreu com a participação de uma embarcação da Polícia Marítima e de uma embarcação da Estação Salva-vidas de Vila Real de Santo António.
+A autoridade também informou que a busca decorreu com a participação de um helicóptero da Força Aérea Portuguesa.
+A autoridade também informou que a busca decorreu com a participação de um helicóptero da Força Aérea Portuguesa."
+
+Output:
+[["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades encontram 100 quilos de caranguejo no rio Guadiana
+A Autoridade Marítima Nacional encontrou, na sequência de uma busca, 100 quilos de caranguejo no rio Guadiana, no concelho de Castro Marim, informou hoje à Lusa a autoridade.
+A busca decorreu na zona da Foz de Odeleite, no concelho de Castro Marim, e teve início às 10:00, depois de ter sido alertada às 09:30 pela Polícia Marítima.
+A autoridade informou que a busca decorreu com a participação de uma embarcação da Polícia Marítima e de uma embarcação da Estação Salva-vidas de Vila Real de Santo António.
+A autoridade também informou que a busca decorreu com a participação de um helicóptero da Força Aérea Portuguesa.
+A autoridade também informou que a busca decorreu com a participação de um helicóptero da Força Aérea Portuguesa."
+
+Output:
+[["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"], ["100 quilos", "Duration"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades encontram 100 quilos de caranguejo no rio Guadiana
+A Autoridade Marítima Nacional encontrou, na sequência de uma busca, 100 quilos de caranguejo no rio Guadiana, no concelho de Castro Marim, informou hoje à Lusa a autoridade.
+A busca decorreu na zona da Foz de Odeleite, no concelho de Castro Marim, e teve início às 10:0

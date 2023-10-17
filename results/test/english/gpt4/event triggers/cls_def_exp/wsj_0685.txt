@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["step", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["completed", "ASPECTUAL"], ["merger", "OCCURRENCE"], ["reported", "REPORTING"], ["agreed", "I_STATE"], ["acquired", "OCCURRENCE"], ["led", "OCCURRENCE"]]

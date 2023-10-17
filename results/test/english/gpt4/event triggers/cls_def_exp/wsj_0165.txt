@@ -1,0 +1,1 @@
+[["offered", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["owns", "STATE"], ["swap", "OCCURRENCE"], ["exchange", "OCCURRENCE"], ["said", "REPORTING"], ["issue", "OCCURRENCE"], ["estimated", "REPORTING"], ["plunged", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["have", "STATE"], ["convertible", "STATE"], ["provides", "OCCURRENCE"], ["owns", "STATE"], ["operates", "OCCURRENCE"]]

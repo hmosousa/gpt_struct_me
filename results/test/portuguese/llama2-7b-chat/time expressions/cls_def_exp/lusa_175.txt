@@ -1,0 +1,8 @@
+[["cadáver", "Date"], ["homem", "Person"], ["rio Douro", "Location"], ["Vila Nova de Gaia", "Location"], ["Santa Marinha", "Location"], ["17:20", "Time"], ["populares", "Person"], ["Polícia Judiciária", "Organization"]]
+
+Note:
+* The input text is in Portuguese.
+* The output is in JSON format, with each element being a list with two strings. The first string is the entity, and the second string is the class.
+* The classes are: Date, Person, Location, Organization.
+* The input text contains several time expressions, including "em menos de uma semana", "hoje", "segunda-feira", "30 nov 2020", "setembro", "final do ano".
+* The output includes these time expressions, along with their corresponding classes.

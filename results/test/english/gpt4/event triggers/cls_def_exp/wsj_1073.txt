@@ -1,0 +1,1 @@
+[["purchased", "OCCURRENCE"], ["paid", "OCCURRENCE"], ["makes", "OCCURRENCE"], ["used", "OCCURRENCE"], ["had", "STATE"], ["said", "REPORTING"]]

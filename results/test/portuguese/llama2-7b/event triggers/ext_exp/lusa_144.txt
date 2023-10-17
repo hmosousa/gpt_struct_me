@@ -1,0 +1,26 @@
+["GNR", "detém", "suspeito", "tráfico", "droga", "Borba", "deteve", "homem", "31", "suspeitas", "prática", "crime", "tráfico", "droga", "cidade", "Borba", "distrito", "Évora", "segundo", "mesma", "fonte", "militares", "Destacamento", "Territorial", "Estremoz", "sábado", "presente", "Tribunal", "Vila", "Viçosa", "primeiro", "interrogatório", "eventual", "aplicação", "medidas", "coação", "apreendeu", "suspeito", "gramas", "heroína", "balança", "digital", "tesoura", "sacos", "plástico", "doses", "individuais", "cerca", "euros", "dinheiro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, registrou hoje 100 milhões de pessoas em quarentena, segundo a agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que já registrou 80.000 casos de covid-19, tem 1.660 mortes pelo vírus.
+A China, que já registrou 80.000 casos de covid-19, tem 1.660 mortes pelo vírus."
+
+Output:
+["Covid-19", "100", "milhões", "pessoas", "quarentena", "China", "registrou", "hoje", "100", "milhões", "pessoas", "em", "29", "províncias", "regiões", "chinesas", "incluindo", "província", "Hubei", "onde", "se", "encontra", "epicentro", "pandemia", "China", "que", "already", "80.000", "casos", "covid-19", "tem", "1.660", "mortes", "por", "vírus"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, registrou hoje 100 milhões de pessoas em quarentena, segundo a agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que já registrou 80.000 casos de covid-19, tem 1.660 mortes pelo vírus."
+
+Output:
+["Covid-19", "100", "milhões", "pessoas", "quarentena", "China", "registrou", "hoje", "100", "milhões", "pessoas", "em", "29", "províncias", "regiões", "chinesas", "incluindo", "província", "Hubei", "onde", "se", "encontra", "epicentro", "pandemia", "China", "que", "already", "80.000", "casos", "covid-19", "tem", "1.660", "mortes", "

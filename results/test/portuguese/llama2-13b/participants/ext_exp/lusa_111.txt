@@ -1,0 +1,29 @@
+["Estado Islâmico", "o grupo ‘jihadista’", "o ataque armado", "o segundo-feira", "quatro vítimas mortais", "22 feridos", "o comunicado", "o EI", "o assaltante armado", "a agência de propaganda Amaq", "um ataque com armas de fogo", "efetuado ontem [segunda-feira]", "um combatente do Estado Islâmico", "a cidade de Viena", "o autor do atentado", "20 anos", "a polícia", "o centro de Viena", "austríaca", "a Macedónia do Norte", "liberdade condicional", "dezembro passado", "uma pena de 22 meses", "prisão", "tentado viajar", "a Síria", "as fileiras do EI"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autor do atentado de Viena era um jovem de 20 anos
+O autor do atentado de Viena era um jovem de 20 anos que tinha dupla nacionalidade austríaca e macedónia, segundo o ministério do interior da Áustria.
+O jovem, que foi abatido pela polícia na noite de segunda-feira, tinha sido condenado a 22 meses de prisão por tentar viajar para a Síria e juntar-se às fileiras do Estado Islâmico.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado.
+O ministério do interior da Áustria informou que o jovem tinha sido posto em liberdade condicional em dezembro passado

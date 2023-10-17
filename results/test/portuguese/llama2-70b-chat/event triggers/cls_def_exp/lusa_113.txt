@@ -1,0 +1,5 @@
+[["Pelo menos", "I_State"], ["sete mortos", "Occurrence"], ["sete em estado crítico", "Occurrence"], ["incêndio", "Occurrence"], ["edifício residencial", "State"], ["Hong Kong", "State"], ["vítimas mortais", "Occurrence"], ["três homens", "Occurrence"], ["três mulheres", "Occurrence"], ["criança de 09 anos", "Occurrence"], ["jornal South China Morning Post", "State"], ["SCMP", "State"], ["domingo à noite", "State"], ["duas outras pessoas", "Occurrence"], ["estado grave", "State"], ["reunião familiar", "Occurrence"], ["restaurante sem licença", "Occurrence"], ["maioria das vítimas", "State"], ["nepalesa", "State"], ["bombeiros", "State"], ["conferência de imprensa", "Occurrence"], ["edifício", "State"], ["medidas de segurança", "State"], ["incêndio", "Occurrence"], ["apartamento", "State"], ["casa de banho", "State"], ["janela", "State"], ["subir", "I_Action"], ["salvar-se", "I_Action"]]
+
+Please note that the input and output are in Portuguese, but the task is to classify the events in English.
+
+Please also note that the output is a JSON-parseable list, so it can be easily converted to a JSON object.

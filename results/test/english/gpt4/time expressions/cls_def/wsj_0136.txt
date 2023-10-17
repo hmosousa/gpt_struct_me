@@ -1,0 +1,7 @@
+[
+["Sept. 30", "Date"],
+["the year-earlier", "Date"],
+["fiscal year", "Date"],
+["fiscal 1988", "Date"],
+["the transition period", "Duration"]
+]

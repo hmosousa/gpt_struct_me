@@ -1,0 +1,83 @@
+["The US is bolstering its military presence in the gulf", "President Clinton rolled out the red carpet for prime minister Blair", "Blair pledged to stand united with the president against Iraq", "the threat of force is real", "Washington and London are virtually alone in warning Iraq of military strikes if it doesn't back down on the weapons inspection issue", "President Clinton says he and Blair will stand together not just on Iraq but also on arresting the terrorists suspected of blowing up Pan Am flight one oh three over Scotland", "For The World I'm Nancy Marshall in Washington"]
+
+Explanation:
+The task is to extract all time expressions.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The following are examples of time expressions:
+
+* "next week"
+* "Friday"
+* "nearly two months"
+* "1990"
+* "Thursday"
+* "Jan. 13"
+* "Previously"
+* "03/06/1998 13:19:00"
+* "Thursday"
+* "Feb. 23"
+* "over a week"
+* "Thursday"
+* "daily"
+* "Friday"
+* "Friday"
+* "10-hour"
+
+The following are examples of time expressions that are not included in the output:
+
+* "The US is bolstering its military presence in the gulf"
+* "President Clinton rolled out the red carpet for prime minister Blair"
+* "Blair pledged to stand united with the president against Iraq"
+* "the threat of force is real"
+* "Washington and London are virtually alone in warning Iraq of military strikes if it doesn't back down on the weapons inspection issue"
+* "President Clinton says he and Blair will stand together not just on Iraq but also on arresting the terrorists suspected of blowing up Pan Am flight one oh three over Scotland"
+* "For The World I'm Nancy Marshall in Washington"
+
+The following are examples of time expressions that are included in the output:
+
+* "next week"
+* "Friday"
+* "nearly two months"
+* "1990"
+* "Thursday"
+* "Jan. 13"
+* "Previously"
+* "03/06/1998 13:19:00"
+* "Thursday"
+* "Feb. 23"
+* "over a week"
+* "Thursday"
+* "daily"
+* "Friday"
+* "Friday"
+* "10-hour"
+
+The following are examples of time expressions that are not included in the output:
+
+* "The US is bolstering its military presence in the gulf"
+* "President Clinton rolled out the red carpet for prime minister Blair"
+* "Blair pledged to stand united with the president against Iraq"
+* "the threat of force is real"
+* "Washington and London are virtually alone in warning Iraq of military strikes if it doesn't back down on the weapons inspection issue"
+* "President Clinton says he and Blair will stand together not just on Iraq but also on arresting the terrorists suspected of blowing up Pan Am flight one oh three over Scotland"
+* "For The World I'm Nancy Marshall in Washington"
+
+The following are examples of time expressions that are included in the output:
+
+* "next week"
+* "Friday"
+* "nearly two months"
+* "1990"
+* "Thursday"
+* "Jan. 13"
+* "Previously"
+* "03/06/1998 13:19:00"
+* "Thursday"
+* "Feb. 23"
+* "over a week"
+* "Thursday"
+* "daily"
+* "Friday"
+* "Friday"
+*

@@ -1,0 +1,5 @@
+[
+["Nov. 1, 2004", "Date"],
+["$2 million a year", "Duration"],
+["yesterday", "Date"]
+]

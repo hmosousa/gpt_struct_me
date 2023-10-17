@@ -1,0 +1,31 @@
+[["homem", "Person"], ["morto", "Date"], ["morto", "Date"], ["amarrado", "Time"], ["amarrado", "Time"], ["sinais", "Time"], ["sinais", "Time"], ["indícios", "Time"], ["indícios", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["Autoridades", "Person"], ["moçambicanas", "Time"], ["moçambicanas", "Time"], ["apreender", "Time"], ["apreender", "Time"], ["apenas", "Time"], ["apenas", "Time"], ["apenas", "Time"], ["apenas", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem encontrado morto em Alcobaça com marcas de ter estado amarrado
+Um homem de 75 anos foi hoje encontrado morto, em casa, com marcas de ter sido amarrado nos pés e nas mãos, na localidade de Fervença, freguesia de Maiorga, no concelho de Alcobaça, informou a GNR.
+A GNR foi alertada “por uma familiar que vive perto da vítima”, um homem de 75 anos que vivia sozinho e que “foi encontrado morto, com sinais de ter sido amarrado nos pés e nas mães e indícios de que não se terá tratado de um suicídio”, disse à agência Lusa Diogo Morgado, comandante do Destacamento Territorial das Caldas da Rainha da GNR.
+De acordo com o mesmo responsável, “foi alertada a Polícia Judiciária, que analisou o corpo e recolheu indícios no local”, a residência da vítima, localizada no distrito de Leiria.
+O corpo do homem foi transportado para o serviço de Medicina Legal de Leiria, onde será autopsiado e a Polícia Judiciária está a investigar as circunstâncias da morte.
+A Lusa contactou a Polícia Judiciária de Leiria, mas ainda não foi possível obter mais esclarecimentos."
+
+Output:
+[["homem", "Person"], ["

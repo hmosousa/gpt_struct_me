@@ -1,0 +1,10 @@
+[["homem", "I_Action"], ["ficou", "I_Action"], ["pulseira eletrónica", "State"], ["injuriar", "Occurrence"], ["ameaçar", "Occurrence"], ["persegui", "Occurrence"], ["vítima", "I_Action"], ["ex-companheira", "I_Action"], ["frisou", "Reporting"], ["danos", "Occurrence"], ["veículo", "I_Action"], ["proibido", "I_Action"], ["contactar", "I_Action"], ["frequentar", "I_Action"], ["aproximar", "I_Action"], ["800 metros", "Aspectual"], ["investigação", "Occurrence"], ["violência doméstica", "Occurrence"]]
+
+Note:
+- "I_Action" refers to an intensional action, which is an action that is performed with a specific goal or intention.
+- "State" refers to a state or condition, which is a property or characteristic of something that exists or happens.
+- "Occurrence" refers to an event or incident that happens or takes place.
+- "Aspectual" refers to a property or characteristic of something that exists or happens, but is not a specific event or incident.
+
+Hint:
+There are several events and actions described in the text, and they can be classified into different categories. Try to identify the events and actions and classify them accordingly.

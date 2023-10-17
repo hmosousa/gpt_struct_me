@@ -1,0 +1,11 @@
+["um pouco antes das 00:00", "30 nov 2020", "antes das 00:00"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of JSON-parseable strings.
+* The time expressions can be in different formats, such as "sábado", "30 nov 2020", "menos de uma semana", "época de veda", etc.
+* The task is to extract all time expressions from the input text, regardless of their format.
+* The output should be a list of strings, with each string representing a time expression.
+* The list should be in JSON-parseable format, meaning that it can be easily parsed and used in a JSON object.
+* The input text may contain other information besides time expressions, such as names, locations, and events. The task is to extract only the time expressions and ignore the rest of the information.

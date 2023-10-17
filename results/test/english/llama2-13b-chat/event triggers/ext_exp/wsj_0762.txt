@@ -1,0 +1,16 @@
+["quarterly", "five", "cents", "payable", "December", "initial", "recognizes", "strong", "financial", "position", "squeezed", "profits", "mainly", "raw-material", "costs", "confident", "future", "earnings", "cash", "flow", "1990", "beyond", "yesterday", "rose", "close", "share"]
+
+Your task is to extract all the event triggers from the given input text. Please note that event triggers are the specific words or phrases that indicate an event has occurred or is about to occur. For example, in the first input text, "voted" is an event trigger because it indicates that a vote has taken place. In the second input text, "declared" is an event trigger because it indicates that a declaration has been made.
+
+Your output should be a JSON-parseable list of strings, where each string represents an event trigger. For example:
+
+[
+"voted",
+"declared",
+"payable",
+"recognizes",
+"squeezed",
+"confident"
+]
+
+Please note that some event triggers may be implied rather than explicitly stated. For example, in the first input text, "promised" implies that a promise has been made, but it is not explicitly stated as an event trigger. Your output should include all implied event triggers as well as explicitly stated ones.

@@ -1,0 +1,16 @@
+["Covid-19", "Costa", "isolamento", "profilático", "após", "ter", "estado", "Macron", "Paris", "primeiro-ministro", "partir", "hoje", "quarta-feira", "Palácio", "Eliseu", "Emmanuel", "Macron", "testou", "positivo", "novo", "coronavírus", "Em", "virtude", "confirmação", "teste", "positivo", "Presidente", "Francês", "Emmanuel", "Macron", "com", "quem", "esteve", "ontem", "Palácio", "Eliseu", "encontra-se", "isolamento", "profilático", "preventivo", "avaliação", "grau", "risco", "partir", "agência", "Lusa", "referido", "adianta-se", "preparação", "deslocação", "São", "Tomé", "Príncipe", "Guiné", "Bissau", "prevista", "18", "20", "dezembro", "primeiro-ministro", "realizou", "manhã", "teste", "deteção", "Covid-19", "primeiro-ministro", "cancelar", "deslocação", "atividade", "executiva", "agenda", "realizará", "distância", "presente", "sintomas", "acrescenta-se", "comunicado"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em 31 províncias e regiões.
+A China, onde se registaram hoje 120 novos casos de covid-19, tem 100 milhões de pessoas em quarentena, depois de terem sido identificados 1.090 casos em

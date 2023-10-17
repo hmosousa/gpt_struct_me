@@ -1,0 +1,15 @@
+[
+["first quarterly", "Duration"],
+["the fiscal first quarter", "Date"],
+["the quarter ended Sept. 29", "Date"],
+["a year earlier", "Date"],
+["the 1988 period", "Date"],
+["Earlier this month", "Date"],
+["the quarter", "Date"],
+["in April", "Date"],
+["the summer", "Date"],
+["its fourth quarter ended June 30", "Date"],
+["earlier this year", "Date"],
+["the fiscal year", "Duration"],
+["early next year", "Date"]
+]

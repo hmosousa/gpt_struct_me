@@ -1,0 +1,22 @@
+["Covid-19", "Polícia", "Moçambicana", "detém", "homem", "indiciado", "falsificação", "testes", "A Polícia", "República", "Moçambique", "PRM", "deteve", "homem", "suspeito", "falsificar", "testes", "covid-19", "resultados", "negativos", "anunciou", "hoje", "porta-voz", "corporação", "Neste", "processo", "conseguimos", "prender", "indivíduo", "apreender", "testes", "falsos", "seriam", "enviados", "pessoas", "viagem", "confessou", "crime", "trabalhava", "outro", "indivíduo", "foragido", "segundo", "autoridades", "Estamos", "trabalhar", "localização", "comparsa", "teste", "negativo", "covid-19", "obrigatório", "quem", "quer", "sair", "entrar", "pais", "autoridades", "reforçado", "fiscalização", "fronteiras", "chefe", "Estado", "Filipe", "Nyusi", "anunciou", "29", "outubro", "retoma", "emissão", "vistos", "turismo", "fim", "necessidade", "quarentena", "contabiliza", "cumulativo", "14.877", "casos", "covid-19", "121", "óbitos", "13.053", "pessoas", "dadas", "recuperadas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Moçambique registra 1.022 casos de covid-19
+O Ministério da Saúde de Moçambique registou, nesta sexta-feira, 1.022 casos de covid-19, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério informou que 1.022 novos casos foram confirmados, elevando o total de casos para 14.877.
+O ministério

@@ -1,0 +1,24 @@
+
+JSON-parseable list of strings.
+
+Hint: Look for words or phrases that indicate events or triggers.
+
+Example:
+
+* "recommended" (management recommended a suspension of dividend payments)
+* "plummeted" (Crossland's stock price declined)
+* "down" (Crossland closed at $5.25, down $1.875)
+* "decline" (26% decline in stock price)
+* "may not qualify" (Crossland may not meet the new government capital criteria)
+* "final guidelines" (final guidelines to be published in early November will determine compliance)
+* "retained" (Crossland retained three investment bankers)
+* "loss" (Crossland reported a third-quarter loss of $175.5 million)
+* "write-down" (Crossland wrote down $143.6 million of goodwill)
+* "consequentially" (Crossland wrote down the asset value of some previous acquisitions)
+* "declined" (net interest income declined to $35.6 million from $70.1 million)
+* "rose" (non-interest income rose to $23.5 million from $22 million)
+* "sharply" (third-quarter loan originations dropped sharply to $663 million from $1 billion)
+* "lowered" (Standard amp Poor's Corp. lowered the rating on Crossland's preferred stock)
+* "placed" (Standard amp Poor's Corp. placed on CreditWatch for possible further downgrade)
+
+Note: Some of the words or phrases may be repeated in the list, but they are still considered as different triggers or events.

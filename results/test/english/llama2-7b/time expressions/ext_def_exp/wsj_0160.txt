@@ -1,0 +1,40 @@
+["third-quarter", "net loss", "35.2 million", "31 cents", "3.8 million", "one cent", "operations", "loss", "5.5 million", "nonrecurring charges", "23.5 million", "8.2 million", "asset-valuation adjustments", "unusual", "gain", "sale", "investments", "two joint ventures", "8%", "85.7 million", "93.3 million", "softening", "demand", "competes"]
+
+Explanation:
+The first step is to extract all time expressions.
+
+We can use the following regex to extract all time expressions:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|Thursday|Jan. 13|Previously|03/06/1998 13:19:00|Thursday|Feb. 23|over a week|Thursday|daily|Friday|Friday|10-hour)\b
+
+The regex matches the following:
+
+	\b(next|next week|Friday|nearly two months|1990|

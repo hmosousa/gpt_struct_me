@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["com cerca de 60 anos", "Per"], ["caiu num poço", "Other"], ["com cerca de 25 metros de profundidade", "Other"], ["em Romariz", "Loc"], ["Santa Maria da Feira", "Loc"], ["tendo sido resgatado", "Per"], ["sem ferimentos graves", "Other"], ["disse à Lusa", "Org"], ["fonte dos Bombeiros de Arrifana", "Org"], ["a tampa do poço", "Obj"], ["situado na propriedade de um vizinho", "Other"], ["ter-se partido", "Other"], ["quando o homem estava em cima", "Other"], ["acabando por cair até à profundidade coberta pela água", "Other"], ["Recorrendo a uma equipa de grande ângulo e com o auxílio de cordas", "Per"], ["os bombeiros resgataram o homem", "Per"], ["cerca das 17:15", "Other"], ["depois do qual foi estabilizado", "Other"], ["dado que estava em hipotermia", "Other"], ["tendo recusado o transporte para o hospital de Santa Maria da Feira", "Other"], ["A GNR de Santa Maria da Feira", "Org"], ["esteve também no local", "Other"], ["tomou conta da ocorrência", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Obj" stands for "Object"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

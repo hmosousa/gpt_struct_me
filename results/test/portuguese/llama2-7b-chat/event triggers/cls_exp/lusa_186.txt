@@ -1,0 +1,9 @@
+[["resgatado", "I_Action"], ["caiu", "Occurrence"], ["poço", "State"], ["profundidade", "Aspectual"], ["ferimentos", "Occurrence"], ["tampa", "State"], ["parte", "Occurrence"], ["homem", "State"], ["propriedade", "State"], ["vizinho", "State"], ["resgataram", "I_Action"], ["17:15", "Aspectual"], ["estabelecido", "Reporting"], ["hipotermia", "Occurrence"], ["recusou", "I_Action"], ["hospital", "State"], ["GNR", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: State, Occurrence, Reporting, Aspectual, and Intensional Action.
+* The input text is a news article about a man who fell into a well in Santa Maria da Feira, Portugal, and was rescued by the fire department.
+* The output list includes the entities and their corresponding classes, such as "resgatado" (I_Action), "caiu" (Occurrence), "poço" (State), "profundidade" (Aspectual), etc.

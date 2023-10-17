@@ -1,0 +1,32 @@
+[["um homem", "Per"], ["de 61 anos", "Per"], ["encontrado morto", "Other"], ["dentro de automóvel", "Loc"], ["em Portalegre", "Loc"], ["Um homem", "Per"], ["de 61 anos", "Per"], ["foi encontrado morto", "Other"], ["hoje de manhã", "Loc"], ["dentro do seu automóvel", "Loc"], ["em Carreiras", "Loc"], ["no concelho de Portalegre", "Loc"], ["segundo a mesma fonte", "Other"], ["da GNR", "Org"], ["foi dado", "Other"], ["cerca das 07:00", "Loc"], ["após o homem", "Other"], ["ter sido visto", "Other"], ["por populares", "Other"], ["no interior do seu veículo", "Loc"], ["alegalmente sem vida", "Other"], ["Os militares", "Org"], ["da GNR", "Org"], ["que foram ao local", "Other"], ["constataram", "Other"], ["que o homem", "Per"], ["tinha ferimentos", "Other"], ["na cara", "Other"], ["e foi solicitada", "Other"], ["a intervenção", "Other"], ["da Polícia Judiciária", "Org"], ["que está a investigar", "Other"], ["o caso", "Other"], ["de acordo com", "Other"], ["a fonte da força de segurança", "Other"], ["o homem", "Per"], ["natural e residente", "Other"], ["em Carreiras", "Loc"], ["vive sozinho", "Other"], ["e foi visto", "Other"], ["com vida", "Other"], ["naquela localidade", "Loc"], ["no domingo", "Loc"], ["entre as 20:00 e as 21:30", "Other"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Obj: Object
+* Loc: Location
+* Fac: Facility
+* Org: Organization
+* Other: Other
+
+The task is to extract and classify all participants in the input text. The participants are:
+
+* The man who was found dead
+* The age of the man (61 years)
+* The location where the man was found dead (Carreiras, Portalegre)
+* The time when the man was found dead (morning)
+* The fact that the man was found dead (Other)
+* The GNR (Guarda Nacional Republicana)
+* The Polícia Judiciária (Judicial Police)
+* The Comando Distrital de Operações de Socorro (Distrital Command of Operations of Socorro)
+* The hospital of Portalegre
+
+The output should be a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Obj: Object
+* Loc: Location
+* Fac: Facility
+* Org: Organization
+* Other: Other

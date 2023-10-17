@@ -1,0 +1,6 @@
+[["Homem", "State"], ["baleado", "Occurrence"], ["Vila Nova de Gaia", "State"], ["autor", "State"], ["disparo", "Occurrence"], ["fugiu", "Aspectual"], ["vítima", "State"], ["atingida", "Occurrence"], ["braço esquerdo", "State"], ["conduzida", "I_Action"], ["hospital", "State"], ["Santos Silva", "State"], ["Vila de Gaia", "State"], ["distrito do Porto", "State"], ["bombeiros", "State"], ["Valadares", "State"], ["ferido", "State"], ["ligeiro", "State"], ["alerta", "Occurrence"], ["chegou", "Aspectual"], ["autoridades", "State"], ["Polícia Judiciária", "State"], ["investigar", "I_Action"], ["caso", "State"], ["competência", "State"], ["reservada", "State"], ["órgão", "State"], ["polícia criminal", "State"], ["razões", "State"], ["crime", "State"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

@@ -1,0 +1,11 @@
+[["um dos envolvidos", "Per"], ["em fuga às autoridades", "Other"], ["dois homens", "Per"], ["uma confeitaria", "Loc"], ["no concelho de Santa Maria da Feira", "Loc"], ["o assalto", "Act"], ["consumado entre", "Loc"], ["as 12:00 e as 12:30", "Time"], ["uma confeitaria de Milheirós de Poiares", "Loc"], ["Santa Maria da Feria", "Loc"], ["distrito de Aveiro", "Loc"], ["os envolvidos atuaram de cara tapada", "Other"], ["levaram a caixa registadora", "Obj"], ["com um montante em dinheiro ainda não determinado", "Other"], ["segundo à fonte", "Other"], ["um dos assaltantes", "Per"], ["foi detido ainda em Milheirós de Poiares", "Other"], ["o outro continuava a ser procurado", "Other"], ["perto da 14:30", "Time"], ["na procura do homem", "Other"], ["ainda a monte", "Other"], ["estão envolvidos meios do dispositivo territorial", "Org"], ["da GNR", "Org"], ["e do Destacamento de Intervenção", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Act" stands for "Action"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

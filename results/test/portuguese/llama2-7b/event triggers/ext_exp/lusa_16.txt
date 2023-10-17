@@ -1,0 +1,24 @@
+["sofre", "queimaduras", "terceiro", "grau", "membros", "incêndio", "casa", "Arcozelo", "Vila", "Gaia", "dito", "Lusa", "fonte", "Sapadores", "local", "alerta", "dado", "chamas", "combat", "Sapadores", "Vila", "Gaia", "Aguda", "acrescentou", "assistido", "conduzido", "Centro", "Hospitalar", "Vila", "Gaia", "Espinho", "extinto", "Proteção", "Civil"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo em resposta à pandemia de covid-19 está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália, onde a mortalidade é a mais alta do mundo, está a ser isolada.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada, com a maioria dos países a proibir os seus cidadãos de viajar para o país.
+A Itália, que já teve mais de 10 mil mortes, está a ser isolada

@@ -1,0 +1,12 @@
+[["pessoas", "Per"], ["edifício residencial", "Loc"], ["incêndio", "Event"], ["Hong Kong", "Loc"], ["vítimas", "Per"], ["mortais", "Per"], ["homens", "Per"], ["mulheres", "Per"], ["criança", "Per"], ["hospitalizados", "Per"], ["estado crítico", "Per"], ["estado grave", "Per"], ["reunião familiar", "Event"], ["restaurante", "Org"], ["medidas de segurança", "Org"], ["apartamento", "Fac"], ["janela", "Loc"], ["banho", "Loc"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and classes.
+* The entities are: "pessoas", "edifício residencial", "incêndio", "Hong Kong", "vítimas", "mortais", "homens", "mulheres", "criança", "apartamento".
+* The classes are: "Per" for people, "Loc" for location, "Event" for event, "Org" for organization, "Fac" for facility, and "Other" for other.
+* The output list has 11 elements, each representing a class and an entity.
+* The entities are listed in the first column, and the classes are listed in the second column.
+* The output list can be used to classify the entities in the input sentence according to their classes.

@@ -1,0 +1,8 @@
+	[["Edifício da Luanda Medical Center", "Loc"], ["hotel", "Loc"], ["projeto imobiliário", "Loc"], ["Serviço Nacional de Recuperação de Ativos", "Org"], ["clínica Luanda Medical Center", "Org"], ["hotel", "Org"], ["Instituto Sapiens", "Org"], ["edifício", "Org"], ["Torres Eucaliptos", "Org"], ["Méssene – Investimentos Limitada", "Org"], ["Heavy Group – Investimentos Limitada", "Org"], ["Universal Sabedoria", "Org"], ["LMC", "Org"]]
+
+
+Note:
+
+* The output is a list of entities (buildings, hotels, projects, organizations, etc.) and their corresponding classes (location, organization, etc.).
+* The entities are listed in the input, and the classes are assigned based on their relevance to the situation.
+* The output can be used to analyze the participants involved in the situation, their roles, and their relationships with other entities.

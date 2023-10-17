@@ -1,0 +1,1 @@
+[["em Lisboa", "Location"], ["30 nov 2020", "Date"], ["terça-feira", "Date"], ["Avenida Infante D. Henrique", "Location"], ["Largo Maria Judite de Carvalho", "Location"], ["Hospital de Santa Maria", "Location"], ["3", "Duration"], ["três", "Number"], ["disparos de arma de fogo", "Event"]]

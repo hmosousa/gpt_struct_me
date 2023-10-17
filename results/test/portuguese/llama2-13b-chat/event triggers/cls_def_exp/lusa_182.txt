@@ -1,0 +1,4 @@
+[["homem", "I_Action"], ["de", "Preposition"], ["Amarante", "Location"], ["indiciado", "I_Action"], ["maltratar", "I_Action"], ["sua", "Possessive"], ["mulher", "I_Action"], ["colocado", "I_Action"], ["sob", "Preposition"], ["vigilância", "State"], ["eletrónica", "State"], ["proibido", "I_Action"], ["se", "Preposition"], ["aproximar", "I_Action"], ["da", "Preposition"], ["vítima", "I_Action"], ["que", "Preposition"], ["se", "Preposition"], ["refugiou", "I_Action"], ["em", "Preposition"], ["casa", "Location"], ["de", "Preposition"], ["outros", "Possessive"], ["familiares", "Noun"], ["levando", "I_Action"], ["a", "Preposition"], ["filha", "Noun"], ["comum", "Adjective"], ["informou", "Reporting"], ["hoje", "Adverb"], ["GNR", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

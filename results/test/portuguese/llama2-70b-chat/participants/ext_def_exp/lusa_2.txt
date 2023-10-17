@@ -1,0 +1,3 @@
+["Um homem morreu", "outro ficou ferido", "uma desordem com arma de fogo", "Algirão-Mem Martins", "Sintra", "Lisboa", "PSP", "Comando Metropolitano de Lisboa", "Estrada de Mem Martins", "Hospital Professor Doutor Fernando Fonseca", "Amadora-Sintra", "a outra", "socorrida", "no local", "morrer", "PJ", "Polícia Judiciária", "investigação", "caso", "crime de homicídio", "Polícia Judiciária", "PJ", "Lisboa", "Sintra", "Lisboa", "Portugal", "que"]
+
+Please note that the input text is in Portuguese.

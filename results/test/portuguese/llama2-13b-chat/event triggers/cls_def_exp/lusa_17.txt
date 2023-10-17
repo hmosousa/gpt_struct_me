@@ -1,0 +1,13 @@
+[["desloca-se", "I_Action"], ["tentar", "I_Action"], ["libertar", "I_Action"], ["cidadãos", "State"], ["dados", "Occurrence"], ["desaparecidos", "Occurrence"], ["divulgada", "Reporting"], ["informação", "Occurrence"], ["Wall Street Journal", "Reporting"], ["agência Associated Press", "Reporting"], ["assessor", "I_Action"], ["Kash Patel", "I_Person"], ["procurar", "I_Action"], ["obter", "I_Action"], ["libertação", "State"], ["Tice", "I_Person"], ["jornalista", "Occurrence"], ["desaparecido", "Occurrence"], ["2012", "Occurrence"], ["outro", "Occurrence"], ["desaparecido", "Occurrence"], ["Majd Kamalmaz", "I_Person"], ["psicólogo clínico", "Occurrence"], ["62 anos", "Occurrence"], ["do Estado da Virgínia", "Occurrence"], ["desaparecido", "Occurrence"], ["Damasco", "Location"], ["não houve", "Occurrence"], ["visitas confirmadas", "Occurrence"], ["dirigentes", "PluralNoun"], ["alto nível", "Adjective"], ["desde", "Preposition"], ["encerramento", "Occurrence"], ["embaixada norte-americana", "Occurrence"], ["regresso", "Occurrence"], ["embaixador", "I_Person"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "desloca-se"), and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions and events
+* I_Person: people and individuals
+* State: states and conditions
+* Occurrence: events and happenings
+* Reporting: reporting and news
+* Aspectual: aspectual and temporal information
+* Intensional Action: intentional and goal-directed actions
+* Intensional State: intentional and goal-directed states

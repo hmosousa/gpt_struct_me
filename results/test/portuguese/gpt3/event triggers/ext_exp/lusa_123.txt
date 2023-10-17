@@ -1,0 +1,1 @@
+["ferida", "gravidade", "acidente", "ocorrido", "autoestrada", "Norte", "morreu", "hospital", "disse", "envolveu", "ligeiros", "provocou", "feridos", "indicado", "encarcerada", "viaturas", "transportada", "cortado", "circulava", "operacionais", "bombeiros", "INEM", "polícia", "apoiados", "viaturas"]

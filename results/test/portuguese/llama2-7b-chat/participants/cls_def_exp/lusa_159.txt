@@ -1,0 +1,111 @@
+[["PJ da Guiné-Bissau", "Org"], ["homem", "Per"], ["três quilogramas", "Other"], ["cocaína", "Obj"], ["aeroporto", "Loc"], ["Lisboa", "Loc"], ["comunicado", "Org"], ["47 anos", "Per"], ["Ministério Público", "Org"], ["início de outubro", "Other"], ["aeroporto Osvaldo Vieira", "Loc"], ["outro cidadão luso-guineense", "Per"], ["22 anos", "Per"], ["quilograma", "Other"], ["droga", "Obj"], ["aquisição", "Other"], ["entrega", "Other"], ["facilitação", "Other"], ["introdução", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and relationships.
+* The entities are:
+	+ PJ da Guiné-Bissau (Org)
+	+ homem (Per)
+	+ três quilogramas (Other)
+	+ cocaína (Obj)
+	+ aeroporto (Loc)
+	+ Lisboa (Loc)
+	+ comunicado (Org)
+	+ 47 anos (Per)
+	+ Ministério Público (Org)
+	+ início de outubro (Other)
+	+ aeroporto Osvaldo Vieira (Loc)
+	+ outro cidadão luso-guineense (Per)
+	+ 22 anos (Per)
+	+ quilograma (Other)
+	+ droga (Obj)
+	+ aquisição (Other)
+	+ entrega (Other)
+	+ facilitação (Other)
+	+ introdução (Other)
+
+* The relationships are:
+	+ PJ da Guiné-Bissau (Org) detém (detained) homem (Per)
+	+ homem (Per) transportava (carried) três quilogramas (Other) cocaína (Obj)
+	+ três quilogramas (Other) were found in the possession of homem (Per)
+	+ homem (Per) was detained at the airport (Loc)
+	+ aeroporto (Loc) is the location where homem (Per) was detained
+	+ Lisboa (Loc) is the destination of the flight where homem (Per) was trying to board
+	+ comunicado (Org) is the entity that announced the detention of homem (Per)
+	+ 47 anos (Per) is the age of the detained man
+	+ Ministério Público (Org) is the entity that will prosecute the detained man
+	+ início de outubro (Other) is the date when another citizen of Lusophone Guinea was detained with a kilogram of cocaine
+	+ aeroporto Osvaldo Vieira (Loc) is the location where another citizen of Lusophone Guinea was detained with a kilogram of cocaine
+	+ outro cidadão luso-guineense (Per) is the citizen of Lusophone Guinea who was detained with a kilogram of cocaine
+	+ 22 anos (Per) is the age of the other citizen of Lusophone Guinea who was detained with a kilogram of cocaine
+	+ quilograma (Other) is the weight of the cocaine found in the possession of the other citizen of Lusophone Guinea
+	+ droga (Obj) is the drug found in the possession of the detained man
+	+ aquisição (Other) refers to the acquisition of the drug
+	+ entrega (Other) refers to the delivery of the drug
+	+ facilitação (Other) refers to the facilitation of the introduction of the drug
+	+ introdução (Other) refers to the introduction of the drug
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+["Um homem de 50 anos", "a Guarda Nacional Republicana", "a quarta-feira", "a caçar", "perto de habitações", "anunciou hoje", "aquela força", "a autoridade", "a denúncia", "e após diligências", "a investigação", "os militares", "a caçar", "em terrenos", "próximos de habitações", "uma faixa de proteção", "inferior a 250 metros", "o Posto Territorial", "de Óbidos", "o Núcleo", "de Proteção Ambiental", "das Caldas da Rainha", "o crime", "do exercício", "da caça", "em terrenos", "não permitidos", "o relato", "a situação", "para o Tribunal", "das Caldas da Rainha", "a detenção", "a apreensão", "uma espingarda de caça", "dois cartuchos", "de calibre 12", "e diversos materiais", "e acessórios", "relativos a caça"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é detido por roubar um carro em Lisboa
+Um homem de 20 anos foi detido, na quarta-feira, por roubar um carro em Lisboa, anunciou a Polícia Judiciária.
+O homem foi detido por um grupo de polícia da PSP, que oseguiu no local do crime, na zona de Campo Pequeno, em Lisboa.
+O homem foi detido por roubar um carro, que foi recuperado.
+O homem foi levado para a delegação de Lisboa, onde foi interrogado e encaminhado para o Tribunal de Lisboa."
+
+Output:
+["Um homem de 20 anos", "a Polícia Judiciária", "a quarta-feira", "roubar um carro", "em Lisboa", "anunciou", "o grupo", "da PSP", "o local", "do crime", "na zona", "de Campo Pequeno", "o homem", "o seguiu", "o local", "o carro", "o recuperou", "o homem", "a delegação", "de Lisboa", "o interrogou", "o encaminhou", "o Tribunal", "de Lisboa"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é detido por roubar um carro em Lisboa
+Um homem de 20 anos foi detido, na quarta-feira, por roubar um carro em Lisboa, anunciou a Polícia Judiciária.
+O homem foi detido por um grupo de polícia da PSP, que oseguiu no local do crime, na zona de Campo Pequeno, em Lisboa.
+O homem foi detido por roubar um carro, que foi recuperado.
+O homem foi levado para a delegação de Lisboa, onde foi interrogado e encaminhado para o Tribunal de Lisboa."
+
+Output:
+["Um homem de 20 anos", "a Polícia Judiciária", "a quarta-feira", "roubar um carro", "em Lisboa", "anunciou", "o grupo", "da PSP", "o local", "do crime", "na zona", "de Campo Pequeno", "o homem", "o seguiu", "o local", "o carro", "o recuperou", "o homem", "a delegação", "de Lisboa", "o interrogou", "o encaminhou", "o Tribunal", "de Lisboa"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é detido por roubar um carro em Lisboa
+Um homem de 20 anos foi detido, na quarta-feira, por roubar um carro em Lisboa, anunciou a Polícia Judiciária.
+O homem foi detido por um grupo de polícia da PSP, que oseg

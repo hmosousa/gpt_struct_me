@@ -1,0 +1,1 @@
+[["the third quarter", "Date"], ["a year ago", "Date"], ["the near future", "Date"]]

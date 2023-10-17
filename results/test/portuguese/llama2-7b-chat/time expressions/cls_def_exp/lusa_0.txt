@@ -1,0 +1,12 @@
+[["em São Brás de Alportel", "Location"], ["sábado", "Date"], ["50 pessoas", "Number"], ["Corotelo", "Location"], ["pandemia de covid-19", "Set"], ["festa ilegal", "Event"], ["Comando Territorial de Faro", "Organization"], ["proprietário", "Person"], ["auto de contraordenação", "Document"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with time expressions.
+* The task is to extract and classify all time expressions in the input text.
+* The classes are: Date, Time, Duration, and Set.
+* The definition of temporal expressions is provided in the task description.
+* Examples of time expressions are provided in the input text.
+* The output is a list of time expressions extracted from the input text, with each element being a list with two strings, where the first string is the entity and the second is the class.

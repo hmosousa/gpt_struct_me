@@ -1,0 +1,8 @@
+[
+["Nov. 20", "Date"],
+["yesterday", "Date"],
+["2.2 million shares", "Duration"],
+["38.5% of the shares", "Duration"],
+["15% of all shares", "Duration"],
+["Nov. 10", "Date"]
+]

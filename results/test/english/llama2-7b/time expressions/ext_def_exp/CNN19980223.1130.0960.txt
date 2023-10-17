@@ -1,0 +1,18 @@
+["despite", "the", "recent", "possibility", "of", "military", "conflict", "with", "iraq", "oil", "prices", "have", "been", "falling", "that's", "because", "of", "a", "worldwide", "glut", "of", "oil", "now", "with", "a", "diplomatic", "solution", "to", "the", "crisis", "seemingly", "at", "hand", "get", "set", "for", "oil", "prices", "from", "the", "brent", "north", "sea", "variety", "to", "light", "swede", "crude", "to", "fall", "further", "oil", "prices", "have", "come", "down", "from", "the", "middle", "of", "october", "from", "a", "twenty", "two", "dollar", "barrel", "level", "down", "to", "the", "fourteen", "dollars", "we're", "seeing", "today", "that's", "built", "up", "a", "heck", "of", "a", "momentum", "and", "that", "momentum", "will", "look", "to", "increase", "ah", "next", "up", "is", "that", "thirteen", "dollar", "a", "barrel", "level", "we", "saw", "in", "the", "winter", "of", "nineteen", "ninety", "four", "weakened", "oil", "prices", "have", "already", "made", "life", "easier", "for", "motorists", "at", "the", "gas", "pump", "gas", "prices", "fell", "nearly", "two", "cents", "a", "gallon", "over", "the", "last", "two", "weeks", "that", "according", "to", "the", "lundberg", "survey", "of", "ten", "thousand", "gas", "stations", "nationwide"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has been trying to get the public to use less gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to get people to use less gasoline by raising the price of gasoline. But the government's own actions may be making it harder for people to do so.
+The government has been trying to

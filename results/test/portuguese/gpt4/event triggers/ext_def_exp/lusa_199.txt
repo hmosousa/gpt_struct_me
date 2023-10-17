@@ -1,0 +1,1 @@
+["morre", "cair", "telhado", "limpar", "acidente", "deu-se", "caído", "altura", "compareceram"]

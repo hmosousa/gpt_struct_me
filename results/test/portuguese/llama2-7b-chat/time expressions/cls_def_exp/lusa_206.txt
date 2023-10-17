@@ -1,0 +1,29 @@
+[["Quatro homens", "Person"], ["Lisboa", "Location"], ["12:00", "Time"], ["fevereiro", "Time"], ["vários invólucros de balas", "Duration"], ["PSP", "Organization"], ["Polícia Judiciária", "Organization"]]
+
+Explanation:
+
+In this task, we were given a text and asked to extract and classify all time expressions. We defined time expressions as linguistic elements that allow us to communicate information about time. We identified three classes of time expressions: Date, Time, Duration, and Set.
+We extracted the following time expressions from the input text:
+* "em menos de uma semana" (Duration)
+* "sábado" (Date)
+* "sábado" (Date)
+* "setembro" (Time)
+* "final do ano" (Time)
+* "menos de uma semana" (Duration)
+* "30 nov 2020" (Date)
+* "época de veda" (Time)
+* "épocas de veda" (Time)
+
+We classified each time expression according to its class:
+
+* "em menos de uma semana" was classified as Duration.
+* "sábado" was classified as Date.
+* "sábado" was classified as Date.
+* "setembro" was classified as Time.
+* "final do ano" was classified as Time.
+* "menos de uma semana" was classified as Duration.
+* "30 nov 2020" was classified as Date.
+* "época de veda" was classified as Time.
+* "épocas de veda" was classified as Time.
+
+We hope this helps! Let us know if you have any questions or need further clarification.

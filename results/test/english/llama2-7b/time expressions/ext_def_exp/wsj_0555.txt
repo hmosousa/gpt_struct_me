@@ -1,0 +1,58 @@
+["Waxman Industries Inc.", "March 15, 2007", "6 1/4% convertible subordinated debentures", "683,000 common shares", "9.58 a share", "52% of the face amount of the debentures"]
+
+Explanation:
+The first line of the input is the header.
+The second line of the input is the first time expression.
+The third line of the input is the second time expression.
+The fourth line of the input is the third time expression.
+The fifth line of the input is the fourth time expression.
+The sixth line of the input is the fifth time expression.
+The seventh line of the input is the sixth time expression.
+The eighth line of the input is the seventh time expression.
+The ninth line of the input is the eighth time expression.
+The tenth line of the input is the ninth time expression.
+The eleventh line of the input is the tenth time expression.
+The twelfth line of the input is the eleventh time expression.
+The thirteenth line of the input is the twelfth time expression.
+The fourteenth line of the input is the thirteenth time expression.
+The fifteenth line of the input is the fourteenth time expression.
+The sixteenth line of the input is the fifteenth time expression.
+The seventeenth line of the input is the sixteenth time expression.
+The eighteenth line of the input is the seventeenth time expression.
+The nineteenth line of the input is the eighteenth time expression.
+The twentieth line of the input is the nineteenth time expression.
+The twenty-first line of the input is the twentieth time expression.
+The twenty-second line of the input is the twenty-first time expression.
+The twenty-third line of the input is the twenty-second time expression.
+The twenty-fourth line of the input is the twenty-third time expression.
+The twenty-fifth line of the input is the twenty-fourth time expression.
+The twenty-sixth line of the input is the twenty-fifth time expression.
+The twenty-seventh line of the input is the twenty-sixth time expression.
+The twenty-eighth line of the input is the twenty-seventh time expression.
+The twenty-ninth line of the input is the twenty-eighth time expression.
+The thirtieth line of the input is the twenty-ninth time expression.
+The thirty-first line of the input is the thirtieth time expression.
+The thirty-second line of the input is the thirty-first time expression.
+The thirty-third line of the input is the thirty-second time expression.
+The thirty-fourth line of the input is the thirty-third time expression.
+The thirty-fifth line of the input is the thirty-fourth time expression.
+The thirty-sixth line of the input is the thirty-fifth time expression.
+The thirty-seventh line of the input is the thirty-sixth time expression.
+The thirty-eighth line of the input is the thirty-seventh time expression.
+The thirty-ninth line of the input is the thirty-eighth time expression.
+The fortieth line of the input is the thirty-ninth time expression.
+The forty-first line of the input is the fortieth time expression.
+The forty-second line of the input is the forty-first time expression.
+The forty-third line of the input is the forty-second time expression.
+The forty-fourth line of the input is the forty-third time expression.
+The forty-fifth line of the input is the forty-fourth time expression.
+The forty-sixth line of the input is the forty-fifth time expression.
+The forty-seventh line of the input is the forty-sixth time expression.
+The forty-eighth line of the input is the forty-seventh time expression.
+The forty-ninth line of the input is the forty-eighth time expression.
+The fiftieth line of the input is the forty-ninth time expression.
+The fifty-first line of the input is the fiftieth time expression.
+The fifty-second line of the input is the fifty-first time expression.
+The fifty-third line of the input is the fifty-second time expression.
+The fifty-fourth line of the input is the fifty-third time expression.
+The fifty

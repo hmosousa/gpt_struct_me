@@ -1,0 +1,29 @@
+[["sábado", "Date"], ["sábado", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"], ["28 nov 2020", "Date"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: GNR detém 10 pessoas em festa em Albufeira
+A GNR detém 10 pessoas, entre elas um polícia, em festa em Albufeira, no concelho de Albufeira, no sábado, foi hoje anunciado.
+Em comunicado, o Comando Territorial de Faro da GNR adianta que, na sequência de uma denúncia a informar sobre a existência de “uma festa com música ao vivo num estabelecimento de bebidas”, militares do Posto Territorial de Albufeira deslocaram-se ao local para fiscalizar a ocorrência.
+Os militares desmobilizaram as pessoas para “cumprimento das normas referentes à pandemia de covid-19”.
+Na nota é ainda referido que o proprietário foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.
+A GNR também detém um polícia, que estava na festa, que foi identificado e foi elaborado “um auto de contraordenação”.

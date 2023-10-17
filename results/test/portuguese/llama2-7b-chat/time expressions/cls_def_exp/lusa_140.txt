@@ -1,0 +1,1 @@
+[["em novembro de 2011", "Date"], ["outubro de 2016", "Date"], ["5.400 euros", "Money"], ["5.400,17 euros", "Money"], ["2011", "Time"], ["2016", "Time"]]

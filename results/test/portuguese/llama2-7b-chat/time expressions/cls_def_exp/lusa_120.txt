@@ -1,0 +1,1 @@
+[["em estado muito grave", "State"], ["hoje de madrugada", "Time"], ["Amadora", "Location"], ["Lisboa", "Location"], ["Cometlis", "Organization"], ["Hospital Professor Doutor Fernando Fonseca", "Location"]]

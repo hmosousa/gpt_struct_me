@@ -1,0 +1,25 @@
+["GNR", "a GNR", "a idosa", "81 anos", "desaparecida", "segunda-feira", "Sabroso", "concelho de Vila Real", "fonte", "aquela força policial", "a octogenária", "a sua residência", "a unidade de Vila Real", "o Centro Hospitalar de Trás-os-Montes e Alto Douro", "o alerta", "o desaparecimento", "a idosa", "um familiar", "a UEPS", "a GNR", "os bombeiros", "a mulher", "a página", "Internet", "a Autoridade Nacional de Emergência e Proteção Civil", "29 operacionais", "nove viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas de 10 países participam no 1º Congresso Internacional de Psiquiatria
+Pessoas de 10 países participam no 1º Congresso Internacional de Psiquiatria, que se realiza nesta semana no Centro de Congressos da Cidade do Porto.
+O evento, que se estende até ao dia 27 de junho, é organizado pela Associação Portuguesa de Psiquiatria e tem como tema "Psicopatologia e Psicoterapia".
+O congresso é um dos mais importantes eventos da área da saúde mental em Portugal e conta com a participação de cerca de 1.000 profissionais de 10 países, entre os quais Portugal, Espanha, Brasil, Argentina, Chile, México, Canadá, Estados Unidos da América, França e Itália.
+O evento é patrocinado pela Associação Portuguesa de Psiquiatria, pela Associação Portuguesa de Psiquiatria Infanto-Juvenil, pela Associação Portuguesa de Psiquiatria do Trabalho, pela Associação Portuguesa de Psiquiatria da Família e pela Associação Portuguesa de Psiquiatria da Dependência.
+O congresso é um dos mais importantes eventos da área da saúde mental em Portugal e conta com a participação de cerca de 1.000 profissionais de 10 países, entre os quais Portugal, Espanha, Brasil, Argentina, Chile, México, Canadá, Estados Unidos da América, França e Itália."
+
+Output:
+["Pessoas", "10 países", "1º Congresso Internacional de Psiquiatria", "Cidade do Porto", "Associação Portuguesa de Psiquiatria", "Psicopatologia e Psicoterapia", "evento", "profissionais", "10 países", "Portugal", "Espanha", "Brasil", "Argentina", "Chile", "México", "Canadá", "Estados Unidos da América", "França", "Itália", "Associação Portuguesa de Psiquiatria", "Associação Portuguesa de Psiquiatria Infanto-Juvenil", "Associação Portuguesa de Psiquiatria do Trabalho", "Associação Portuguesa de Psiquiatria da Família", "Associação Portuguesa de Psiquiatria da Dependência"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas de 10 países participam no 1º Congresso Internacional de Psiquiatria
+Pessoas de 10 países participam no 1º Congresso Internacional de Psiquiatria, que se realiza nesta semana no Centro de Congressos da Cidade do Porto.
+O evento, que se estende até ao dia 27 de junho, é organizado pela Associação Portuguesa de Psiquiatria e tem como tema "Psicopatologia e Psicoterapia".
+O congresso é um dos mais importantes eventos da área da saúde mental em Portugal e conta com a participação de cerca de 1.000 profissionais de 10 países, entre os quais Portugal, Espanha, Brasil, Argentina, Chile, México, Canadá, Estados Unidos da América, França e Itália.
+O event

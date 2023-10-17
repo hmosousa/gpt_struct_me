@@ -1,0 +1,5 @@
+[
+["Dec. 10", "Date"],
+["mid-afternoon yesterday", "Time"],
+["30%", "Set"]
+]

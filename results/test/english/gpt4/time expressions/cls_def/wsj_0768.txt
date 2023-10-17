@@ -1,0 +1,19 @@
+[
+["Last week", "Date"],
+["the past two months", "Duration"],
+["the weeks ahead", "Set"],
+["recent years", "Duration"],
+["the past two months", "Duration"],
+["last week", "Date"],
+["the week following last month", "Date"],
+["two days", "Duration"],
+["the last three years", "Duration"],
+["this month", "Date"],
+["since early September", "Date"],
+["Friday Oct. 13", "Date"],
+["the past two months", "Duration"],
+["this year", "Date"],
+["Through Oct. 19", "Date"],
+["this year through Oct. 19", "Date"],
+["recent weeks and months", "Duration"]
+]

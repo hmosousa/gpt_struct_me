@@ -1,0 +1,9 @@
+[["encontrado", "I_Action"], ["morto", "State"], ["rio", "Occurrence"], ["Tua", "Occurrence"], ["zona", "Aspectual"], ["Mirandela", "State"], ["pescar", "Occurrence"], ["informou", "Reporting"], ["GNR", "State"], ["saiu", "I_Action"], ["domingo", "Aspectual"], ["buscas", "I_Action"], ["local", "Aspectual"], ["corpo", "State"], ["encontrado", "State"], ["após", "Aspectual"], ["meia-noite", "Aspectual"], ["proximidades", "Aspectual"], ["haveres", "Occurrence"], ["apuradas", "Aspectual"], ["circunstâncias", "Aspectual"], ["Polícia", "State"], ["Judiciária", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article and the output is the classification of the entities in the article according to the predefined classes.
+* The classes are: State (for events related to the state of the entity), Occurrence (for events related to the occurrence of the entity), Reporting (for events related to the reporting of the entity), Aspectual (for events related to the aspect of the entity), Intensional Action (for events related to the intention of the entity), and Intensional State (for events related to the intention of the entity).
+* The output list includes the entity and the class of each event trigger in the input article.

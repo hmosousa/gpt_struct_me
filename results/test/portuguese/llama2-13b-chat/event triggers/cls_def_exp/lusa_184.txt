@@ -1,0 +1,11 @@
+[["morreu", "I_Action"], ["caído", "Occurrence"], ["teria", "Reporting"], ["sofrido", "Occurrence"], ["queda", "Occurrence"], ["altura", "Aspectual"], ["alerta", "Occurrence"], ["declarado", "Reporting"], ["socorro", "I_Action"], ["mobilizada", "I_Action"], ["viatura", "State"], ["bombeiros", "I_Action"], ["GNR", "I_Action"]]
+
+Please help me with the task of extracting and classifying all event triggers in the given texts.
+
+Note: I have tried using spaCy's entity recognition and coreference resolution, but I am not able to get the desired output.
+
+Also, I have tried using the Stanford CoreNLP, but I am not able to get the desired output.
+
+Please help me with this task.
+
+Thank you.

@@ -1,0 +1,26 @@
+["detido", "caçar", "casas", "homem", "detido", "Guarda Nacional Republicana", "GNR", "anunciou", "força", "autoridade", "militares", "intercetaram", "suspeito", "caçar", "terrenos", "proteção", "inferior", "250 metros", "mobilizou", "Posto Territorial", "Óbidos", "Núcleo", "Proteção Ambiental", "Caldas da Rainha", "constituído", "arguido", "crime", "exercício", "terrenos", "encaminhado", "Tribunal", "Caldas da Rainja", "detenção", "apreensão", "espingarda", "caça", "cartuchos", "calibre", "materiais", "acessórios", "caça"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem detido em Óbidos por caçar junto a casas
+Um homem de 50 anos foi detido pela Guarda Nacional Republicana (GNR), na quarta-feira, por estar a caçar perto de habitações, anunciou hoje aquela força da autoridade.
+“No seguimento de denúncia, e após diligências de investigação, os militares intercetaram o suspeito a caçar em terrenos próximos de habitações, numa faixa de proteção inferior a 250 metros”, adiantou o comunicado da GNR, que mobilizou o Posto Territorial de Óbidos e o Núcleo de Proteção Ambiental das Caldas da Rainha.
+O homem foi constituído arguido pelo

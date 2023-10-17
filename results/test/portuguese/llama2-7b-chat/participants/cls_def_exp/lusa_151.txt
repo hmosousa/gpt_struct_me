@@ -1,0 +1,9 @@
+	[["Governo de Jacarta", "Org"], ["FPI", "Per"], ["Indonésia", "Loc"], ["ministro da Segurança", "Org"], ["Mohammad Mahfud", "Per"], ["Frente de Defesa Islâmica", "Per"], ["FPI", "Per"], ["lei islâmica", "Other"], ["sharia", "Other"], ["população", "Per"], ["missões humanitárias", "Other"], ["caridade", "Other"], ["protestos", "Per"], ["governador cristão", "Org"], ["Rizieg Shihab", "Per"], ["autoridades", "Org"], ["início do mês de dezembro", "Other"], ["acusado", "Other"], ["incitar", "Other"], ["população", "Per"], ["medidas de restrição", "Other"], ["pandemia de covid-19", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article in Portuguese, and the output is the classification of the entities mentioned in the article into different categories (Organization, Person, Location, Nature, Facility, and Other).
+* The classification is based on the context of the article, and the entities are labeled accordingly. For example, "Governo de Jacarta" is classified as "Organization" because it is mentioned as the entity that illegalized the FPI, while "FPI" is classified as "Person" because it is mentioned as a group of people who are responsible for vandalism.
+* The output list includes all the entities mentioned in the article, along with their corresponding class labels.

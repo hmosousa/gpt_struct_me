@@ -1,0 +1,28 @@
+["said", "resigned", "chief", "financial", "officer", "resigned", "chairman", "Frank", "Stronach", "turn", "automotive", "parts", "manufacturer", "company", "direct", "effort", "reduce", "overhead", "curb", "capital", "spending", "satisfactory", "level", "profit", "maintained", "Stephen", "Akerfeldt", "vice", "president", "finance", "succeed", "McAlpine", "ambitious", "expansion", "excess", "capacity", "debt", "load", "industry", "enters", "downturn", "recently", "quarterly", "dividend", "half", "shares", "wallowing", "52", "week", "high", "Canadian", "dollars", "US", "Toronto", "Stock", "Exchange", "yesterday", "Magna", "shares", "closed", "37.5", "Canadian", "cents", "9.625", "controlling", "shareholder", "resigned", "chief", "executive", "seat", "Parliament", "Analysts", "influential", "costs", "organization", "company", "Gingl", "president", "chief", "consulting", "career", "clients"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of some of the nation's oil reserves to help pay for a tax cut, a senior administration official said.
+The official, who spoke on condition of anonymity, said the plan is being considered as a way to help pay for a tax cut that President Bush is expected to propose in his State of the Union address next week.
+The official said the plan is still being discussed and no final decision has been made.
+The plan would allow the sale of some of the nation's oil reserves, which are held in underground storage facilities in Texas and Louisiana.
+The official said the plan would be similar to a proposal that was considered by the administration of President Ronald Reagan in the 1980s.
+The official said the plan would be designed to help pay for a tax cut that would be phased in over several years.
+The official said the plan is being considered as a way to help pay for a tax cut that President Bush is expected to propose in his State of the Union address next week.
+The official said the plan is still being discussed and no final decision has been made.
+The plan would allow the sale of some of the nation's oil reserves, which are held in underground storage facilities in Texas and Louisiana.
+The official said the plan would be similar to a proposal that was considered by the administration of President Ronald Reagan in the 1980s.
+The official said the plan would be designed to help pay for a tax cut that would be phased in over several years.
+The official said the plan is being considered as a way to help pay for a tax cut that President Bush is expected to propose in his State of the Union address next week.
+The official said the plan is still being discussed and no final decision has been made.
+The plan would allow the sale of some of the nation's oil reserves, which are held in underground storage facilities in Texas and Louisiana.
+The official said the plan would be similar to a proposal that was considered by the administration of President Ronald Reagan in the 1980s.
+The official said the plan would be designed to help pay for a tax cut that would be phased in over several years.
+The official said the plan is being considered as a way to help pay for a tax cut that President Bush is expected to propose in his State of the Union address next week.
+The official said the plan is still being discussed and no final decision has been made.
+The plan would allow the sale of some of the nation's oil reserves, which are held in underground storage facilities in Texas and Louisiana.
+The official said the plan would be similar to a proposal that was considered by the administration of President Ronald Reagan in the 1980s.
+The official said the plan would be designed to help pay for a tax cut that would be phased in over several years.
+The official said the plan is being considered as a

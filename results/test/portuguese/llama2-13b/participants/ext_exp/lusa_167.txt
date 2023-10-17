@@ -1,0 +1,24 @@
+["Um homem de 60 anos", "faz hoje", "um andaime", "a cerca de", "três a quatro metros", "altura", "trabalhava", "uma obra", "Ponte de Lima", "o comandante", "bombeiros locais", "Carlos Lima", "explicou", "homem", "transportado", "estado grave", "SIV", "hospital de Braga", "de acordo", "o comandante", "Bombeiros de Ponte de Lima", "distrito de Viana do Castelo", "acidente de trabalho", "trabalho", "freguesia de Ribeira", "Lusa", "fonte", "Comando Distrital", "Operações de Socorro", "CDOS", "alerta", "viatura", "bombeiros", "VMER", "Viana do Castelo", "GNR"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pedro Passos Coelho: "Não há dúvida que Portugal está a melhorar"
+O primeiro-ministro Pedro Passos Coelho afirmou hoje que "não há dúvida que Portugal está a melhorar" e que "a economia está a recuperar".
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal Público.
+"A economia está a recuperar, não há dúvida que Portugal está a melhorar", afirmou o primeiro-ministro, numa entrevista ao jornal

@@ -1,0 +1,1 @@
+[["em três dias", "Duration"], ["terça-feira", "Date"], ["Belmonte", "Location"], ["33", "Age"], ["47", "Age"], ["arme de fogo", "Object"], ["caçadeira", "Object"], ["reprodução de arma de fogo", "Object"], ["pistola de ar comprimido", "Object"], ["facas de ponta e mola", "Object"], ["municições de diferentes calibres", "Object"]]

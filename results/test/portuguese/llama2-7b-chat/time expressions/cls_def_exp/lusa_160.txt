@@ -1,0 +1,4 @@
+[["em 2017", "Date"], ["em 2016", "Date"], ["em 2019", "Date"], ["05 out 2020", "Date"]]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,10 @@
+[
+["yesterday", "Date"],
+["Wednesday", "Date"],
+["third quarter", "Date"],
+["the third quarter", "Date"],
+["the fourth quarter", "Date"],
+["in coming weeks", "Duration"],
+["30-year", "Duration"],
+["annual", "Set"]
+]

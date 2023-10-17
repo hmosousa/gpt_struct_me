@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["Romariz", "Loc"], ["Santa Maria da Feira", "Loc"], ["os Bombeiros", "Org"], ["a tampa", "Obj"], ["a propriedade", "Loc"], ["um vizinho", "Per"], ["a água", "Loc"], ["uma equipa", "Org"], ["grandes ângulos", "Other"], ["cordas", "Other"], ["os bombeiros", "Org"], ["o hospital", "Loc"], ["a GNR", "Org"]]

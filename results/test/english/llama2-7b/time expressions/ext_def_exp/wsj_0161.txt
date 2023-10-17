@@ -1,0 +1,45 @@
+["$17 million to $19 million", "Hadson Corp.", "Oklahoma City", "energy and defense", "defense group", "fixed-price development contract", "international exploration leases", "amortization of goodwill", "year earlier", "net income", "six cents a share", "revenue of $169.9 million"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the Pentagon said on Friday.
+The Defense Security Cooperation Agency notified Congress of the possible sale of the aircraft, which would be worth about $100 million, the agency said in a statement.
+The agency said the sale would help Pakistan's efforts to modernize its military.
+The sale would be the first of F-16s to Pakistan since the United States suspended military aid to Islamabad in 1990 after Pakistan tested a nuclear device.
+The United States resumed military aid to Pakistan in 2004."
+
+Output:
+["$100 million", "Defense Security Cooperation Agency", "Pentagon", "Islamabad", "nuclear device", "United States", "resumed military aid", "Pakistan", "F-16 fighter jets"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the Pentagon said on Friday.
+The Defense Security Cooperation Agency notified Congress of the possible sale of the aircraft, which would be worth about $100 million, the agency said in a statement.
+The agency said the sale would help Pakistan's efforts to modernize its military.
+The sale would be the first of F-16s to Pakistan since the United States suspended military aid to Islamabad in 1990 after Pakistan tested a nuclear device.
+The United States resumed military aid to Pakistan in 2004."
+
+Output:
+["$100 million", "Defense Security Cooperation Agency", "Pentagon", "Islamabad", "nuclear device", "United States", "resumed military aid", "Pakistan", "F-16 fighter jets"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the Pentagon said on Friday.
+The Defense Security Cooperation Agency notified Congress of the possible sale of the aircraft, which would be worth about $100 million, the agency said in a statement.
+The agency said the sale would help Pakistan's efforts to modernize its military.
+The sale would be the first of F-16s to Pakistan since the United States suspended military aid to Islamabad in 1990 after Pakistan tested a nuclear device.
+The United States resumed military aid to Pakistan in 2004."
+
+Output:
+["$100 million", "Defense Security Cooperation Agency", "Pentagon", "Islamabad", "nuclear device", "United States", "resumed military aid", "Pakistan", "F-16 fighter jets"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the Pentagon said on Friday.
+The Defense Security Cooperation Agency notified Congress of the possible sale of the aircraft, which would be worth about $100 million, the agency said in a statement.
+The agency said the sale would help Pakistan's efforts to modernize its military.
+The sale would be the first of F-16s to Pakistan since the United States suspended military aid to Islamabad in 1990 after Pakistan tested a nuclear device.
+The United States resumed military aid to Pakistan in 2004."
+
+Output:
+["$100 million", "Defense Security Cooperation Agency", "Pentagon", "Islamabad", "nuclear device", "United States", "resumed military aid", "Pakistan", "F-16 fighter jets"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the Pentagon said on Friday.
+The Defense Security Cooperation Agency notified Congress of the possible sale of the aircraft, which would be worth

@@ -1,0 +1,12 @@
+[["GNR", "State"], ["procura", "I_Action"], ["um dos envolvidos", "Occurrence"], ["assalto", "Occurrence"], ["confeitaria", "State"], ["Dois homens", "Occurrence"], ["roubaram", "Occurrence"], ["caixa registadora", "State"], ["concelho", "State"], ["Santa Maria da Feira", "State"], ["fonte oficial", "Reporting"], ["assalto", "Occurrence"], ["consumado", "Occurrence"], ["12:00", "State"], ["12:30", "State"], ["Milheirós de Poiares", "State"], ["Santa Maria da Feria", "State"], ["distrito de Aveiro", "State"], ["car a tapada", "Occurrence"], ["levaram", "Occurrence"], ["caixa registadora", "State"], ["montante em dinheiro", "State"], ["detido", "Occurrence"], ["procurado", "Occurrence"], ["homem", "State"], ["ainda a monte", "Occurrence"], ["meios do dispositivo territorial", "State"], ["Destacamento de Intervenção", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* I_Action: refers to an action or an intention
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action or a plan
+* Intensional State: refers to a state or a situation that is intended or planned.

@@ -1,0 +1,1 @@
+[["homem", "Person"], ["hoje", "Date"], ["poço", "Location"], ["Romariz", "Location"], ["Santa Maria da Feira", "Location"], ["25 metros", "Duration"], ["25 metros", "Duration"], ["água", "Location"], ["GNR", "Organization"]]

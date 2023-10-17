@@ -1,0 +1,20 @@
+["rebounding", "earlier loss", "expects", "report earnings", "about $200,000", "third quarter", "J.C. Matlock", "chairman", "said", "Net income", "includes", "extraordinary gain", "about $100,000", "reversal", "bad debt", "interest income", "Revenue", "about $4.5 million", "1988 third quarter", "posted", "net loss", "about $876,706", "22 cents a share", "on revenue", "about $5.1 million", "Total Assets", "plans", "designs", "computer centers", "computer security systems", "computer backup systems"]
+
+Your task is to extract all the event triggers from the given text. Please note that event triggers are the words or phrases that indicate an event has occurred or is about to occur. For example, in the first text, "voted", "turning point", "referendum", "defeat", "rising", "campaign", etc. are all event triggers. In the second text, "rebounding", "earlier loss", "expects", "report earnings", etc. are all event triggers.
+
+Your output should be a JSON-parseable list of strings, where each string represents an event trigger. For example:
+
+[
+"voted",
+"turning point",
+"referendum",
+"defeat",
+"rising",
+"campaign",
+"rebounding",
+"earlier loss",
+"expects",
+"report earnings"
+]
+
+Please note that the output should be a list of strings, not a list of lists.

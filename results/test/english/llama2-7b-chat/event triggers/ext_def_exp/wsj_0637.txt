@@ -1,0 +1,5 @@
+[
+"said", "plans", "around", "completed", "used", "reduce", "short-term", "concern", "vice", "finance", "carry", "floating", "annual", "dividend", "equal", "renegotiated", "other", "sought", "bid", "auction", "redeemable", "part", "strategy", "anticipation", "outstanding", "lead", "underwriter"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a trigger event in the input text.

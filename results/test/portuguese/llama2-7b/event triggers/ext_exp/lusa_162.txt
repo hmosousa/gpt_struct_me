@@ -1,0 +1,23 @@
+["Homem", "84", "anos", "morre", "atropelamento", "Santa", "Marta", "Penaguião", "Um", "homem", "84", "anos", "morreu", "hoje", "sequência", "atropelamento", "Vila", "Maior", "concelho", "Santa", "Marta", "Penaguião", "distrito", "Vila", "Real", "segundo", "comandante", "bombeiros", "Santa", "Marta", "Penaguião", "óbito", "declarado", "local", "equipa", "VMER", "acidente", "terá", "conhecido", "manobra", "marcha-atrás", "carinha", "alerta", "atropelamento", "dado", "11:29", "local", "mobilizados", "operacionais", "bombeiros", "GNR", "INEM", "apoio", "viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo está a aumentar a pressão sobre a economia mundial, que já está a sofrer com a pandemia de covid-19.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a colocar em prática medidas de quarentena mais severas.
+A China, onde a pandemia começ

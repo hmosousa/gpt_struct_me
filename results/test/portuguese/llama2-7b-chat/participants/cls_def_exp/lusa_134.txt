@@ -1,0 +1,11 @@
+[["GNR", "Org"], ["Dois homens", "Per"], ["assalto", "Per"], ["caixa registadora", "Fac"], ["confeitaria", "Loc"], ["Santa Maria da Feira", "Loc"], ["distrito de Aveiro", "Loc"], ["dinheiro", "Obj"], ["detido", "Per"], ["outro", "Per"], ["procurado", "Per"], ["meios", "Org"], ["dispositivo territorial", "Org"], ["Destacamento de Intervenção", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+
+
+
+

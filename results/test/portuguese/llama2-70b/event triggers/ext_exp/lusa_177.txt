@@ -1,0 +1,1 @@
+["homem", "morre", "atingido", "árvore", "grande", "porto", "milhazes", "conselho", "barcelos", "atigido", "árvore", "grande", "porte", "dizia", "fonte", "comando", "distrito", "operações", "socorro", "braga", "circunstancia", "acidentes", "trabalhar", "apontava", "primeira", "informação", "cortar", "mesmo", "alerta", "declarada"]

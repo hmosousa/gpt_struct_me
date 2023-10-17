@@ -1,0 +1,7 @@
+["Philip Morris Cos.", "New York", "adopted", "defense", "measure", "hostile", "takeover", "prohibitively", "expensive", "giant", "foods", "tobacco", "brewing", "company", "said", "issue", "common-share", "purchase", "rights", "shareholders", "record", "November", "8", "under", "certain", "circumstances", "entitle", "Philip", "Morris", "holders", "buy", "shares", "company", "or", "its", "acquirer", "half", "price", "board", "aware", "attempts", "take", "over", "company", "said", "as", "September", "30", "Philip", "Morris", "shares", "outstanding", "yesterday", "trading", "New", "York", "Stock", "Exchange", "closed", "down", "dollar"]
+
+Hint:
+Look for words that indicate an action or event.
+
+Note:
+This task is a bit more challenging than the previous ones. The input text contains many sentences and phrases that are not event triggers. You will need to carefully read the text and identify the action words and phrases that indicate events.

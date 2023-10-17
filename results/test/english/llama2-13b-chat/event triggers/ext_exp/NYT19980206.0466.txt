@@ -1,0 +1,22 @@
+[
+"without commenting",
+"entirely inaccurate",
+"false leaks",
+"absolutely clear",
+"slightest suggestion",
+"absolutely false",
+"mischaracterization",
+"shocked and dismayed",
+"numerous leaks",
+"grand jury testimony",
+"never asked",
+"tell the truth",
+"stories today",
+"pleased"
+]
+
+Your task is to extract all the event triggers from the given input text. Please note that event triggers are the words or phrases that indicate a specific event or action is taking place. For example, in the first input text, "turning its back" is an event trigger that indicates the subject is turning its back on something.
+
+In the second input text, "meeting with the president" is an event trigger that indicates a meeting between the president and someone else.
+
+Please provide the list of event triggers in JSON-parseable list of strings.

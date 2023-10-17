@@ -1,0 +1,18 @@
+["Agente", "da", "polícia", "baleado", "mortalmente", "colega", "durante", "discussão", "Maputo", "Um", "agente", "moçambicana", "detido", "acusado", "matar", "colega", "durante", "discussão", "província", "sul", "Moçambique", "dizia", "Lusa", "fonte", "corporação", "Eles", "discutiam", "motivos", "até", "agora", "desconhecidos", "no", "meio", "disparou", "alvejando", "mortalmente", "Tratam-se", "agentes", "PRM", "afetos", "Departamento", "Proteção", "Recursos", "Naturais", "Meio", "Ambiente", "quinta-feira", "regressavam", "atividade", "patrulha", "zona", "protegida", "provincia", "ouvir", "tirou", "correram", "ver", "imediato", "autor", "crime", "detido", "comando", "accompanhará", "interesse", "desfecho", "processos", "concluiu"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais pessoas do que nunca, com mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados hoje pela Agência Mundial de Controle de Doenças (OMS).
+A OMS informou que 100.2 milhões de pessoas estão em quarentena em 180 países, um aumento de 10 milhões em relação à semana anterior.
+A maioria dessas pessoas está em quarentena em 10 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a OMS informou que 25.7 milhões de pessoas estão em quarentena.
+A OMS também informou que 1.4 milhões de pessoas estão em quarentena em 15 países da África, incluindo a África do Sul, onde a OMS informou que 1.2 milhões de pessoas estão em quarentena.
+A OMS informou que 1.2 milhões de pessoas estão em quarentena em 10 países da Ásia, incluindo a Índia, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milhões de pessoas estão em quarentena em 10 países da Europa, incluindo a Itália, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milhões de pessoas estão em quarentena em 10 países da América do Norte, incluindo o Canadá, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milhões de pessoas estão em quarentena em 10 países da América do Sul, incluindo o Brasil, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milhões de pessoas estão em quarentena em 10 países da Ásia Central, incluindo o Afeganistão, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milhões de pessoas estão em quarentena em 10 países da Ásia Oriental, incluindo a Coreia do Sul, onde a OMS informou que 1.1 milhões de pessoas estão em quarentena.
+A OMS informou que 1.1 milh

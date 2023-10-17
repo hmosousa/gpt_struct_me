@@ -1,0 +1,23 @@
+[
+["a year ago", "Date"],
+["quarterly", "Set"],
+["annualized", "Set"],
+["the year-earlier period", "Date"],
+["the latest quarter", "Date"],
+["this year", "Date"],
+["several months before", "Duration"],
+["April", "Date"],
+["a year", "Duration"],
+["yesterday", "Date"],
+["$99 million a year earlier", "Date"],
+["a year ago", "Date"],
+["earlier in the year", "Date"],
+["the third quarter", "Date"],
+["the quarter", "Date"],
+["the nine months", "Duration"],
+["a year earlier", "Date"],
+["Dec. 14", "Date"],
+["Nov. 15", "Date"],
+["January", "Date"],
+["Dec. 21", "Date"]
+]

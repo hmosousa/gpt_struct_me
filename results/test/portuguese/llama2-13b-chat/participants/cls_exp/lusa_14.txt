@@ -1,0 +1,13 @@
+[["Autoridades policiais angolanas", "Org"], ["tentativa de tráfico de menores congoleses", "Other"], ["do Dundo", "Loc"], ["provincia angolana da Lunda Norte", "Loc"], ["informaram", "Verb"], ["as autoridades angolanas", "Org"], ["três crianças", "Per"], ["da República Democrática do Congo (RDCongo)", "Loc"], ["estavam", "Verb"], ["a ser levadas", "Verb"], ["por dois supostos traficantes", "Per"], ["que", "Per"], ["pretendiam", "Verb"], ["viajar", "Verb"], ["com os menores", "Per"], ["para Luanda", "Loc"], ["capital de Angola", "Loc"], ["para", "Preposition"], ["sua", "Pronoun"], ["alegada", "Adjective"], ["comércio", "Noun"], ["e", "Conjunction"], ["a terceira", "Adjective"], ["registada", "Verb"], ["este ano", "Adverb"], ["depois", "Preposition"], ["da primeira", "Noun"], ["no início do ano", "Adverb"], ["e", "Conjunction"], ["a segunda", "Noun"], ["em julho", "Adverb"]]
+
+Note:
+
+* "Org" stands for "organization"
+* "Per" stands for "person"
+* "Loc" stands for "location"
+* "Other" stands for "other" (e.g. object, facility, etc.)
+
+Hint:
+
+* Use a dictionary to look up the parts of speech for each word.
+* Use the context of the sentence to determine the correct class for each entity.

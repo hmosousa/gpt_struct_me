@@ -1,0 +1,25 @@
+["Um homem de 61 anos", "hoje de manhã", "Carreiras", "o concelho de Portalegre", "a agência Lusa", "fonte da GNR", "o alerta para a GNR", "cerca das 07:00", "o homem", "sem vida", "a Polícia Judiciária", "a investigação", "a fonte da força de segurança", "o homem", "natural e residente", "Carreiras", "entre as 20:00 e as 21:30", "o óbito", "o corpo", "o serviço de Medicina Legal", "o hospital de Portalegre"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 25 anos é assassinado com faca na rua em Lisboa
+Um homem de 25 anos foi assassinado com faca na rua, na zona de Campo Pequeno, em Lisboa, no domingo à tarde, informou a Polícia Judiciária (PJ).
+O homem, que não era conhecido pelas forças de segurança, foi encontrado às 16:30, com ferimentos na cabeça e no pescoço, no interior de um veículo, na rua de São José, no bairro de Campo Pequeno, informou a PJ.
+O corpo foi levado para o Instituto Médico Legal (IML), onde foi constatado o óbito.
+A PJ está a investigar o caso, mas não se conhece a identidade do homem nem se conhece o motivo do crime.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A PJ não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o homem tenha sido vítima de um crime de ódio, mas não se conhece se o homem era homossexual ou não.
+A Polícia Judiciária não descarta que o hom

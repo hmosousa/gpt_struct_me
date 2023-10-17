@@ -1,0 +1,33 @@
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre atingido por árvore em Monção
+Um homem de 59 anos morreu hoje depois de ser atingido por uma árvore quando procedia ao seu abate, no lugar de Barreiro, freguesia de Tangil, em Monção, distrito de Viana do Castelo, disse fonte da proteção civil.
+Segundo a fonte do Comando Distrital de Operações de Socorro (CDOS) de Viana do Castelo, o óbito foi declarado no local pelo médico do helicóptero do Instituto Nacional de Emergência Médica (INEM), acionado para o local.
+A fonte adiantou que o homem "estaria a fazer trabalhos florestais, quando a árvore que cortava lhe caiu em cima".
+O alerta foi dado às 14:25.
+Fonte do INEM contactada pela Lusa explicou que, além do meio aéreo, foram acionadas duas ambulâncias, de Monção e Valença, uma vez que as informações iniciais apontavam para a existência de dois feridos, o que não se veio a comprovar.
+O INEM acionou para o local uma equipa de psicólogos.
+Ao local compareceram um total 16 operacionais dos Bombeiros de Monção e de Valença e cinco viaturas, entre elas a ambulância de Suporte Imediato de Vida (SIV) de Melgaço."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado

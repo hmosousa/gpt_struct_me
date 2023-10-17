@@ -1,0 +1,1 @@
+[["GNR", "Org"], ["Freamunde", "Loc"], ["Paços de Ferreira", "Loc"], ["50 pessoas", "Per"], ["musica ao vivo", "Other"], ["estabelecimento", "Fac"], ["proprietária", "Per"], ["48 anos", "Age"], ["ordem", "Org"], ["evento", "Per"], ["auto de contraordenação", "Other"]]

@@ -1,0 +1,28 @@
+[["Prisão preventiva", "Prisão preventiva"], ["Foz Côa", "Location"], ["Foz Côa", "Location"], ["26 anos", "Age"], ["26 anos", "Age"], ["26 anos", "Age"], ["26 anos", "Age"], ["26 anos", "Age"], ["26 anos", "Age"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"], ["Apreender caranguejo", "Apreender caranguejo"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Violência doméstica: Prisão preventiva para homem de 26 anos em Foz Côa
+Um homem de 26 anos ficou em prisão preventiva por alegado crime violência doméstica no dia de Natal, devido a ameaças de morte à mãe e uma irmã, no concelho de Foz Côa, foi hoje anunciado pela GNR.
+"Na sequência de uma denúncia, os militares da Guarda deslocaram-se ao local no dia de Natal onde verificaram que o suspeito tinha injuriado e ameaçado de morte, com recurso a uma machada e uma navalha, a mãe de 46 anos e a irmã de 12 anos", descreveu aquela força de segurança.
+Segundo a GNR, o agressor destruiu ainda as portas da habitação, de forma a intimidar as vítimas.
+"Perante a presença dos militares, tentou encetar a fuga, tendo sido intercetado e detido. Os objetos utilizados para as ameaças foram apreendidos", indica a Guarda, em comunicado.
+O detido, com ante

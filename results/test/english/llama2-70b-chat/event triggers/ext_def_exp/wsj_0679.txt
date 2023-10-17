@@ -1,0 +1,1 @@
+["raised", "holds", "bought", "acquired", "develop", "maintain", "working", "plan", "obtain", "acquired", "called", "bought", "option", "may", "sold"]

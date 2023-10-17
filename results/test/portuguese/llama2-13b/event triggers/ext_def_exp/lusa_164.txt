@@ -1,0 +1,24 @@
+["detém", "homem", "matou", "mulher", "facada", "motivos", "fúteis”, "PJ", "deteve", "homem", "indiciado", "matar", "mulher", "facada", "madrugada", "segunda-feira", "Diretoria", "Norte", "corporação", "homicídio", "motivos", "fúteis", "elementos", "recolhidos", "diligências", "investigação", "arguido", "agrediu", "vítima", "arma", "branca", "discussão", "motivos", "fúteis", "GNR", "primeira força policial", "local", "crime", "Duas Igrejas", "concelho", "Penafiel", "distrito", "Porto", "socorro", "paragem", "cardiorrespiratória", "manobras", "reverter", "situação", "óbito", "detido", "trabalhador", "construção civil", "antecedentes", "criminais", "presente", "autoridade", "interrogatório", "judicial", "aplicação", "medidas", "coação", "adequadas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem de Penafiel que matou a mulher à facada por "motivos fúteis”
+A Polícia Judiciária (PJ) deteve o homem de Penafiel indiciado por matar a mulher à facada na madrugada de segunda-feira, anunciou hoje a Diretoria do Norte daquela corporação, que atribuiu o homicíd

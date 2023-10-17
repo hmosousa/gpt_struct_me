@@ -1,0 +1,1 @@
+[["ferida", "Injury"], ["sábado", "Date"], ["21:40", "Time"], ["Norte", "Location"], ["Loures", "Location"], ["hospital", "Location"], ["Comando Geral da GNR", "Organization"], ["INEM", "Organization"]]

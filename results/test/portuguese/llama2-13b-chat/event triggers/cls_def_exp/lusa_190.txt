@@ -1,0 +1,14 @@
+[["homem", "I_Agent"], ["ferido", "State"], ["eletrocutado", "Occurrence"], ["Oleiros", "Location"], ["distrito de Castelo Branco", "Location"], ["Comando Distrital de Operações de Socorro", "Organization"], ["alerta", "Occurrence"], ["16:18", "Time"], ["vítima", "I_Agent"], ["transportada", "I_Action"], ["Centro Hospitalar e Universitário de Coimbra", "Location"], ["segundo", "Aspectual"], ["indicação", "Reporting"], ["bombeiros", "Organization"], ["habitação", "Location"], ["deslocaram-se", "I_Action"], ["quatro operacionais", "I_Agent"], ["duas viaturas", "I_Agent"]]
+
+Note:
+- "I_Action" refers to an action or activity that is taking place or has taken place.
+- "I_Agent" refers to an agent or entity that is performing or has performed an action or activity.
+- "State" refers to a state or condition that exists or existed at a particular time.
+- "Occurrence" refers to an event or happening that has taken place or is taking place.
+- "Aspectual" refers to a situation or condition that is true or exists at a particular time, but is not necessarily an event or happening.
+- "Reporting" refers to the act of communicating or making known information or a situation.
+
+Hint:
+- Look for verbs and verb phrases that indicate actions, events, or states.
+- Pay attention to prepositional phrases that indicate location or time.
+- Use the given definitions to help you identify the correct class for each entity.

@@ -1,0 +1,37 @@
+["MP acusa homem de abusar da filha da companheira em Braga e Amares", "O Ministério Público (MP)", "Braga", "abuso sexual de crianças agravado", "a vítima", "a filha", "a companheira", "anunciou", "a Procuradoria-Geral Distrital do Porto", "Em nota publicada", "a sua página", "aquela procuradoria", "refere", "que os abusos", "terão começado", "2017", "uma altura", "10 anos", "o arguido", "passou a viver", "a sua companheira", "Braga", "Amares", "considerou indiciado", "que o arguido", "entre 2017 e 2019", "manteve trato sexual", "a filha", "a companheira", "aproveitando-se", "dos momentos", "que passava", "a sós com ela", "o despacho de acusação", "datado de 05 de outubro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Porque o Brasil é um país de futebol?
+O Brasil é um país de futebol porque o futebol é o esporte mais popular no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais praticado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais visto no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais gostado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais jogado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de futebol porque o futebol é o esporte mais comentado no Brasil.
+O Brasil é um país de

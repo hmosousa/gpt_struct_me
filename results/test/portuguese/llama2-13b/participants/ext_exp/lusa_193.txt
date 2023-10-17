@@ -1,0 +1,32 @@
+["Um homem de 68 anos", "caiu hoje no Rio Tejo", "perto do meio-dia", "o homem", "o Hospital de São José", "o Instituto Nacional de Emergência Médica (INEM)", "o Hospital de São José", "perigo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque dizem que o ataque terrorista foi planejado
+O ataque terrorista que matou oito pessoas e feriu outras 11 na cidade de Nova Iorque, nos Estados Unidos, foi planejado pelo autor do atentado, que se suicidou, e não por uma célula terrorista, dizem as autoridades.
+O ataque, que ocorreu na tarde de 31 de Outubro, foi perpetrado por Sayfullo Saipov, um cidadão do Uzbequistão que veio viver nos Estados Unidos em 2010.
+O homem, de 29 anos, veio a ser identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontrado no seu carro.
+O ataque foi perpetrado com um camião que foi alugado por Saipov.
+O homem, que veio a ser morto pelas forças de segurança, foi identificado através de um cartão de registo de viagem que foi encontr

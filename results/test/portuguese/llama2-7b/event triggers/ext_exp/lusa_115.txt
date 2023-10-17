@@ -1,0 +1,21 @@
+["encontrado", "morto", "Alcobaça", "marcas", "ter", "estado", "amarrado", "Homem", "75", "anos", "foi", "hoje", "encontrado", "morto", "casa", "marcas", "ter", "amarrado", "pés", "mãos", "localidade", "Fervença", "Maiorga", "concelho", "Alcobaça", "GNR", "alertada", "familiar", "vivia", "sozinho", "foi", "encontrado", "morto", "sinais", "ter", "amarrado", "pés", "mães", "indícios", "tratado", "suicídio", "Diogo", "Morgado", "comandante", "Destacamento", "Territorial", "Caldas", "Rainha", "GNR", "alertada", "Polícia", "Judiciária", "analisou", "corpo", "recolheu", "indícios", "local", "residência", "vítima", "distrito", "Leiria", "transportado", "Medicina", "Legal", "Leiria", "autopsiado", "Polícia", "Judiciária", "circunstâncias", "morte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais pessoas do que nunca.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo, de acordo com dados do Johns Hopkins University.
+Ao longo de 24 horas, mais de 100 milhões de pessoas

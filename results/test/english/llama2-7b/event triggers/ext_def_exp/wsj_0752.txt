@@ -1,0 +1,21 @@
+["authorized", "split", "record", "said", "boosting", "liquidity", "Barba", "Moonachie", "maker", "plastic", "film", "products", "outstanding", "national", "trading", "closed", "shares", "down", "cents"]
+
+"""
+
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for event_trigger in re.finditer(r"(\w+)\s+(\w+)", text):
+        event_triggers.append(event_trigger.group(1))
+    return event_triggers
+
+
+def main():
+    with open("input.txt") as f:
+        text = f.read()
+    event_triggers = extract_event_triggers(text)
+    print(event_triggers)
+
+
+if __name__ == "__main__":
+    main()

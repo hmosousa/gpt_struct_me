@@ -1,0 +1,1 @@
+[["agreed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["owns", "STATE"], ["approved", "OCCURRENCE"], ["make", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["followed", "ASPECTUAL"], ["sale", "OCCURRENCE"], ["liquidated", "OCCURRENCE"], ["receiving", "OCCURRENCE"], ["structured", "ASPECTUAL"], ["provide", "OCCURRENCE"]]

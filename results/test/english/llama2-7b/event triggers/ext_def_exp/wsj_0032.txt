@@ -1,0 +1,46 @@
+["began", "Montedison", "offer", "all", "common", "outstanding", "Erbamont", "N.V.", "maker", "pharmaceuticals", "incorporated", "Netherlands", "expire", "end", "November", "currently", "owns", "pursuant", "previously", "agreement", "between", "companies"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by the state of Texas in a case involving the state's refusal to recognize a same-sex marriage.
+The court's action means that the 5th U.S. Circuit Court of Appeals ruling in the case will stand.
+The appeals court ruled in June that Texas must recognize the marriage of two women who were married in California.
+The couple, who live in Austin, Texas, had sued the state after Texas refused to recognize their marriage.
+The couple, who are both lawyers, were married in San Francisco in 2004.
+Their marriage was recognized by California, but not by Texas.
+The couple's lawsuit was filed in 2005.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that the 5th Circuit's ruling will stand.
+The Supreme Court's action means that

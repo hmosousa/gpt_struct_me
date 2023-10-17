@@ -1,0 +1,15 @@
+["several", "days", "people", "northeastern", "US", "Canada", "powerful", "ice", "storm", "continue", "maintain", "grip", "Yesterday", "New", "York", "governor", "George", "Pataki", "toured", "counties", "state", "emergency", "added", "today", "Helicopters", "flying", "northern", "Maine", "half", "million", "people", "without", "Output:", "["next", "week", "Friday", "nearly", "two", "months", "1990", "Thursday", "Jan", "13", "Previously", "03/06/1998", "13:19:00", "Thursday", "Feb", "23", "over", "week", "Thursday", "daily", "Friday", "Friday", "10-hour"]
+
+"""
+
+import json
+import re
+
+
+def extract_time_expressions(text):
+    """
+    :param text:
+    :return:
+    """
+    time_expressions = []
+    for time_expression in re.findall(r'(\d+[wW]?\d+[dD]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[pP]?\d+[yY]?\d+[zZ]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d+[aA]?\d+[nN]?\d+[tT]?\d+[hH]?\d+[mM]?\d+[sS]?\d

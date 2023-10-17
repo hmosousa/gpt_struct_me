@@ -1,0 +1,12 @@
+	[["Covid-19", "State"], ["estar", "I_Action"], ["ter", "State"], ["testou", "Occurrence"], ["positivo", "State"], ["Emmanuel Macron", "Person"], ["teste", "Occurrence"], ["positivo", "State"], ["com", "Occurrence"], ["esteve", "I_Action"], ["ontem", "Aspectual"], ["Palácio do Eliseu", "Location"], ["gabinete", "Organization"], ["António Costa", "Person"], ["isolamento", "State"], ["preventivo", "State"], [" até", "Aspectual"], ["avaliação", "Aspectual"], ["autoridades de saúde", "Organization"], ["deslocação", "State"], ["São Tomé e Príncipe", "Location"], ["Guiné Bissau", "Location"], ["18", "Aspectual"], ["20", "Aspectual"], ["cancelar", "I_Action"], ["toda", "Aspectual"], ["agenda pública", "State"], ["realizar", "I_Action"], ["à distância", "Aspectual"], ["atividade executiva", "State"], ["agenda de trabalho", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence or a paragraph of text, and the output is the classification of the entities and actions in the input text.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* The task is to extract and classify all event triggers from the input text.
+* The event triggers are the actions, events, or states that trigger the occurrence of other events or actions.
+* The classes are used to identify the type of event trigger, such as a state, an occurrence, a reporting, etc.
+* The output is a list of event triggers, where each trigger is a list with two strings, the first string is the entity and the second is the class.

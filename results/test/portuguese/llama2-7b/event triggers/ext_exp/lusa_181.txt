@@ -1,0 +1,27 @@
+["morreu", "ataque", "tubarão", "praia", "noroeste", "Austrália", "oitava", "mortes", "genero", "norte", "oceano", "Índico", "homem", "sozinho", "água", "turística", "praia", "Cable", "noroeste", "Austrália", "oceano", "Índico", "ferimentos", "graves", "assistida", "polícia", "paramédicos", "possível", "salvá-la", "morreu", "local", "polícia", "fechou", "famosa", "areia", "quilómetros", "ataques", "tubarões", "elevado", "1929", "nove", "contabilizaram", "27", "perigosos", "CSIRO", "datada", "2018", "Austrália", "exemplares", "adultos", "considerados", "perigosos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena na China
+A China, o país mais afetado pelo novo coronavírus, anunciou hoje que 100 milhões de pessoas estão em quarentena.
+A medida foi tomada em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequim, onde se encontra o maior número de casos.
+A China, que já conta com 44.633 casos confirmados, tem 1.310 mortes.
+A quarentena foi imposta em 11 províncias e 10 cidades, incluindo a capital, Pequ

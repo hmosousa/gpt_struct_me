@@ -1,0 +1,12 @@
+[["cadáver", "Per"], ["de homem", "Per"], ["encontrado", "Per"], ["a boiar", "Other"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["O cadáver", "Per"], ["de um homem", "Per"], ["com cerca de 60 anos", "Other"], ["foi", "Per"], ["hoje encontrado", "Per"], ["a boiar", "Other"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["segundo", "Per"], ["Rui Santos Amaral", "Per"], ["a autoridade marítima", "Org"], ["foi", "Per"], ["alertada", "Per"], ["por populares", "Other"], ["que", "Per"], ["viram", "Per"], ["o corpo", "Per"], ["de um homem", "Per"], ["a boiar", "Other"], ["junto", "Other"], ["ao cais flutuante", "Other"], ["de Santa Marinha", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["ás 17:20", "Other"], ["a Polícia Marítima", "Org"], ["removeu", "Per"], ["então", "Per"], ["o cadáver", "Per"], ["da água", "Other"], ["ficando", "Per"], ["depois", "Per"], ["a aguardar", "Per"], ["pela chegada", "Per"], ["da Polícia Judiciária", "Org"], ["para", "Per"], ["serem", "Per"], ["iniciadas", "Per"], ["as averiguações", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+
+Hint:
+You can use the Stanford CoreNLP tool to extract the entities and classes.
+
+Please let me know if you need any further clarification or details.

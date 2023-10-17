@@ -1,0 +1,4 @@
+["Covid-19", "Costa", "isolamento", "profilático", "estado", "Paris", "Macron", "testou", "positivo", "nov", "coronavírus", "virtude", "teste", "positivo", "Presidente", "Eliseu", "isolamento", "preventivo", "grau", "risco", "autoridades", "saúde", "quadro", "preparação", "deslocação", "São Tomé", "Príncipe", "Guiné Bissau", "realizou", "teste", "deteção", "Covid-19", "cancelou", "agenda", "presença", "executiva", "agenda", "trabalho", "realizar", "distância", "sintomas"]
+
+Reference:
+https://www.aclweb.org/anthology/2019.acl-main.100.pdf

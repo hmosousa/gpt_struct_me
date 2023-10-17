@@ -1,0 +1,1 @@
+[["12 anos", "Time"], ["2013", "Date"], ["setembro", "Time"], ["outubro", "Date"], ["2020", "Date"]]

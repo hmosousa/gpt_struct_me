@@ -1,0 +1,4 @@
+[["acusou", "I_Action"], ["peculato", "Occurrence"], ["abuso de poder", "Occurrence"], ["falsificou", "Occurrence"], ["recebeu", "Occurrence"], ["indevidamente", "Adverb"], ["5.400 euros", "Quantity"], ["suplementos remuneratórios", "State"], ["mapas mensais", "State"], ["preenchimento", "Action"], ["envio para processamento", "Action"], ["novembro de 2011 a outubro de 2016", "Time_Period"], ["incluiu", "Action"], ["seu nome", "Entity"], ["beneficiário", "Entity"], ["direito", "State"], ["recebeu", "Occurrence"], ["montante líquido", "Quantity"], ["5.400,17 euros", "Quantity"], ["substituíssem", "Action"], ["execução do serviço", "State"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

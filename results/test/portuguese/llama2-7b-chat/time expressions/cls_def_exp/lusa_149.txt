@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["hora", "Time"], ["Trier", "Location"], ["Alemanha", "Location"], ["200 quilómetros", "Distance"], ["perto da fronteira", "Location"]]

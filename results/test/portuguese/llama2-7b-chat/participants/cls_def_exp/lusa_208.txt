@@ -1,0 +1,1 @@
+[["aeroporto", "Loc"], ["aeronave", "Org"], ["motor", "Obj"], ["Lisboa", "Loc"], ["aeroporto Humberto Delgado", "Loc"], ["a Polícia de Segurança Pública", "Org"], ["a falta", "Other"], ["a aterragem", "Per"], ["sem incidentes", "Other"], ["a companhia aérea Jota Aviation", "Org"], ["a ligação", "Org"], ["os aeroportos", "Loc"], ["de Farnborough", "Loc"], ["e Lisboa", "Loc"]]

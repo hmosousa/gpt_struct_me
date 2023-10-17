@@ -1,0 +1,14 @@
+[["GNR", "I_Action"], ["resgatou", "I_Action"], ["25 cães", "Occurrence"], ["constituiu", "I_Action"], ["homem", "I_Action"], ["crime", "Occurrence"], ["maus-tratos", "Occurrence"], ["animais de companhia", "Occurrence"], ["concelho de Seia", "Location"], ["distrito da Guarda", "Location"], ["comando territorial", "Organization"], ["NICCOA", "Organization"], ["NPA", "Organization"], ["investigação", "Occurrence"], ["busca domiciliária", "Occurrence"], ["cenário", "Occurrence"], ["sobrepopulação", "Occurrence"], ["condições de higiene", "Occurrence"], ["falta de trato", "Occurrence"], ["diligências policiais", "Occurrence"], ["entregues", "I_Action"], ["Veterinário Municipal de Seia", "Organization"], ["remetidos", "I_Action"], ["Tribunal Judicial de Seia", "Organization"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: actions and events
+* Occurrence: events and happenings
+* Reporting: reporting and mentioning
+* Perception: perception and interpretation
+* Aspectual: aspectual and temporal information
+* Intensional Action: intentional and goal-directed actions
+* Intensional State: intentional and goal-directed states
+
+Please let me know if you have any questions or need further clarification.

@@ -1,0 +1,11 @@
+	[["feriu", "I_Action"], ["com", "State"], ["bagos", "Occurrence"], ["de", "State"], ["fazer", "I_Action"], ["disparos", "Occurrence"], ["para", "Occurrence"], ["o", "State"], ["ar", "State"], ["com", "State"], ["munições", "Occurrence"], ["reais", "Occurrence"], ["se", "State"], ["recusou", "I_Action"], ["parar", "I_Action"], ["fiche", "I_State"], ["detido", "I_Action"], ["posto", "State"], ["juiz", "I_Action"], ["fixação", "I_Action"], ["medidas", "State"], ["coação", "State"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+
+
+
+

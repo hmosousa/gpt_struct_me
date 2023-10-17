@@ -1,0 +1,24 @@
+["detém", "detenção", "detido", "GNR", "homem", "maus-tratos", "pai", "concelho", "Maia", "distrito", "Porto", "comunicado", "explica", "apurou", "agredido", "injuriado", "coagido", "vítima", "satisfazer", "vício", "consumo", "estupefacientes", "factos", "mandado", "detenção", "presente", "interrogatório", "judicial", "Tribunal", "Instrução", "Criminal", "Matosinhos", "aplicação", "medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Europa e os Estados Unidos estão a restringir as atividades.
+A quarentena de mais de 100 milhões de pessoas em todo o

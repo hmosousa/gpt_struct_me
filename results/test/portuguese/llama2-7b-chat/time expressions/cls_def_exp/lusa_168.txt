@@ -1,0 +1,1 @@
+[["em Valongo", "Location"], ["33", "Age"], ["57", "Age"], ["GNR", "Organization"], ["violência doméstica", "Crime"], ["amenaça agravada", "Crime"], ["injúrias", "Crime"], ["ofensas à integridade física", "Crime"]]

@@ -1,0 +1,97 @@
+["First Security Corp.", "tentatively agreed", "acquire Deseret Bancorp.", "stock valued", "about $18 million", "Terms call", "0.55 share", "each Deseret share", "about 550,000 First Security shares", "12.3 million shares", "Salt Lake City-based First Security", "subject to shareholder and regulatory approval", "early next year"]
+
+Explanation:
+The first task is to extract all time expressions.
+
+The second task is to extract all time expressions that are not in the form of "next week".
+
+The third task is to extract all time expressions that are not in the form of "Friday".
+
+The fourth task is to extract all time expressions that are not in the form of "nearly two months".
+
+The fifth task is to extract all time expressions that are not in the form of "1990".
+
+The sixth task is to extract all time expressions that are not in the form of "Thursday".
+
+The seventh task is to extract all time expressions that are not in the form of "Jan. 13".
+
+The eighth task is to extract all time expressions that are not in the form of "Previously".
+
+The ninth task is to extract all time expressions that are not in the form of "03/06/1998 13:19:00".
+
+The tenth task is to extract all time expressions that are not in the form of "Thursday".
+
+The eleventh task is to extract all time expressions that are not in the form of "Feb. 23".
+
+The twelfth task is to extract all time expressions that are not in the form of "over a week".
+
+The thirteenth task is to extract all time expressions that are not in the form of "Thursday".
+
+The fourteenth task is to extract all time expressions that are not in the form of "daily".
+
+The fifteenth task is to extract all time expressions that are not in the form of "Friday".
+
+The sixteenth task is to extract all time expressions that are not in the form of "Friday".
+
+The seventeenth task is to extract all time expressions that are not in the form of "10-hour".
+
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	// Read input
+	input := strings.TrimSpace(os.Getenv("INPUT"))
+	lines := strings.Split(input, "\n")
+
+	// Extract all time expressions
+	timeExpressions := make([]string, 0)
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if strings.Contains(line, "next week") {
+			continue
+		}
+		if strings.Contains(line, "Friday") {
+			continue
+		}
+		if strings.Contains(line, "nearly two months") {
+			continue
+		}
+		if strings.Contains(line, "1990") {
+			continue
+		}
+		if strings.Contains(line, "Thursday") {
+			continue
+		}
+		if strings.Contains(line, "Jan. 13") {
+			continue
+		}
+		if strings.Contains(line, "Previously") {
+			continue
+		}
+		if strings.Contains(line, "03/06/1998 13:19:00") {
+			continue
+		}
+		if strings.Contains(line, "Thursday") {
+			continue
+		}
+		if strings.Contains(line, "Feb. 23") {
+			continue
+		}
+		if strings.Contains(line, "over a week") {
+			continue
+		}
+		if strings.Contains(line, "Thursday") {
+			continue
+		}
+		if strings.Contains(line, "daily") {
+			continue
+		}
+		if strings.Contains(line, "Friday") {

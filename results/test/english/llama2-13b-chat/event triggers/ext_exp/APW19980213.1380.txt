@@ -1,0 +1,4 @@
+["kidnappers", "promise", "police", "body", "store", "owner", "hostage", "found", "dismembered", "decapitated", "garbage", "bags", "confirmed", "Hernandez", "town", "Trujillo", "Alto", "demanded", "ransom", "negotiations", "break", "off", "Puerto", "Rico", "Superintendent", "Toledo", "urged", "people", "targeted", "increase", "foreigners", "Mexico", "Colombia", "commonwealth"]
+
+Format:
+JSON-parseable list of strings.

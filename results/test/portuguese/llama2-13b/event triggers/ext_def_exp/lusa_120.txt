@@ -1,0 +1,27 @@
+["fala", "baleado", "peito", "Amadora", "jovem", "estado", "grave", "baleado", "peito", "hoje", "madrugada", "bairro", "Casal", "Mira", "Amadora", "distrito", "Lisboa", "fonte", "PSP", "Comando Metropolitano", "Lisboa", "Cometlis", "alerta", "ocorrência", "fonte", "Cometlis", "ferido", "estado", "grave", "transportado", "Hospital", "Professor", "Doutor", "Fernando", "Fonseca", "Amadora-Sintra", "Lusa", "Cometlis", "identificados", "detidos", "suspeitos", "crime", "entregue", "Polícia Judiciária", "investigação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privadas.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Jovem fica em estado muito grave depois de ser baleado no peito na Amadora
+Um jovem de 17 anos ficou em estado muito grave depois de ter sido baleado no peito hoje de madrugada no bairro Casal da Mira, na Amadora, no distrito de Lisboa, disse à agência Lusa fonte da PSP.
+De acordo com fonte do Comando Metropolitano de Lisboa (Cometlis), o alerta para a ocorrência foi dado às 00:53.
+“Um jovem de 17 anos foi baleado com uma arma de fogo. Ficou ferido em estado muito grave e foi transportado para o Hospital Professor Doutor Fernando Fonseca [Amadora-Sintra]”, referiu.
+À Lusa, o

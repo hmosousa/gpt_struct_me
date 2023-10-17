@@ -1,0 +1,4 @@
+["BLOCKBUSTER", "said", "raised", "gross", "proceeds", "sale", "notes", "will", "used", "reduce", "existing", "debt", "general", "corporate", "purposes", "company", "expected", "save", "Fort", "Lauderdale", "home", "video", "concern", "periodic", "interest", "payments", "each", "offered", "maturity", "representing", "8%", "yield", "maturity", "addition", "converted", "Blockbuster", "stock", "rate", "shares", "closed", "yesterday", "down", "New", "York", "Stock", "Exchange", "trading"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a single event trigger in the input text. The list is ordered in the same order as the input text, with each event trigger separated by a comma.

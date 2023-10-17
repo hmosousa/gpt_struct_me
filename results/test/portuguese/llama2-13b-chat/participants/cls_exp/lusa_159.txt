@@ -1,0 +1,11 @@
+[["um homem", "Per"], ["três quilos de cocaína", "Obj"], ["o aeroporto", "Loc"], ["A Polícia Judiciária", "Org"], ["da Guiné-Bissau", "Loc"], ["detiveram", "Verb"], ["no sábado", "Other"], ["em Bissau", "Loc"], ["segundo", "Other"], ["o comunicado", "Obj"], ["o homem", "Per"], ["um cidadão luso-guineense", "Other"], ["com 47 anos de idade", "Other"], ["será", "Verb"], ["hoje", "Other"], ["presente", "Verb"], ["ao Ministério Público", "Other"], ["no início de outubro", "Other"], ["também", "Other"], ["detiveram", "Verb"], ["no aeroporto", "Loc"], ["três homens", "Per"], ["por alegado envolvimento", "Other"], ["na", "Other"], ["aquisição", "Other"], ["entrega", "Other"], ["e facilitação", "Other"], ["na introdução", "Other"], ["da droga", "Other"], ["no interior", "Other"], ["do aeroporto", "Loc"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+
+Please let me know if you need any further clarification or details.

@@ -1,0 +1,17 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+
+In this task, we were given a text and asked to extract and classify all time expressions. We defined time expressions as linguistic elements that allow us to communicate information about time. We identified three classes of time expressions: Date, Time, Duration, and Set.
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class. For example, in the output, "em menos de uma semana" is the entity and "Duration" is the class.
+We applied the following rules to classify the time expressions in the text:
+* "em menos de uma semana" is a Date expression because it refers to a specific point in time (less than a week).
+* "sábado" is a Date expression because it refers to a specific day of the week.
+* "setembro" is a Time expression because it refers to a specific month.
+* "final do ano" is a Time expression because it refers to a specific month (December).
+* "menos de uma semana" is a Duration expression because it refers to a specific period of time (less than a week).
+* "30 nov 2020" is a Date expression because it refers to a specific date (November 30, 2020).
+* "época de veda" is a Time expression because it refers to a specific period of time (season).
+* "épocas de veda" is a Time expression because it refers to multiple specific periods of time (seasons).
+
+We hope this helps! Let us know if you have any questions or need further clarification.

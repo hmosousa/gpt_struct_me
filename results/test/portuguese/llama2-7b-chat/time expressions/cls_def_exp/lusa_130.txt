@@ -1,0 +1,1 @@
+[["em flagrante delito", "Date"], ["quinta-feira", "Date"], ["terreno agrícola", "Location"], ["cultivo", "Activity"], ["canábis", "Noun"], ["liamba", "Noun"], ["pés de canábis", "Noun"], ["balança", "Noun"], ["moinho", "Noun"]]

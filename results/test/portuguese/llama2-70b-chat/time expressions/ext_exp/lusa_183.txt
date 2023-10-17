@@ -1,0 +1,8 @@
+["hoje", "30 anos", "nós últimos meses"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions in the given text.
+
+Also, please note that the input text is in Portuguese, so the time expressions may be in that language.

@@ -1,0 +1,18 @@
+["resgatou", "25", "cães", "maus-tratos", "Seia", "GNR", "anunciou", "hoje", "resgatou", "25", "cães", "constituiu", "arguido", "homem", "58", "anos", "crime", "maus-tratos", "animais", "companhia", "concelho", "Seia", "distrito", "Guarda", "Comando", "Territorial", "GNR", "Guarda", "refere", "comunicado", "animais", "resgatados", "durante", "ação", "realizada", "terça-feira", "através", "Núcleo", "Investigação", "Crimes", "Contraordenações", "Ambientais", "NICCOA", "NPA", "Gouveia", "âmbito", "investigação", "maus-tratos", "animais", "companhia", "cenário", "sobrepopulação", "cães", "sem", "condições", "higiene", "falta", "trato", "militares", "deram", "cumprimento", "mandado", "busca", "domiciliária", "depararam", "cenário", "sobrepopulação", "cães", "sem", "identificação", "eletrónica", "registo", "vacinação", "antirrábica", "proprietário", "acolhia", "interior", "habitação", "entregaram", "Veterinário", "Municipal", "Seia", "colaborou", "ação", "remetidos", "Tribunal", "Judicial", "Seia"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de 100 milhões de pessoas em todo o mundo é um recorde mundial, segundo a Agência de Notícias de Fevereiro.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo.
+A Agência de Notícias de Fevereiro (ANF) informou que, em 2020, 100 milhões de pessoas estão em quarentena em todo o mundo

@@ -1,0 +1,30 @@
+	["whacked", "fell", "slightly", "rose", "tumbled", "ended", "soared", "complained", "reporting", "added", "concern", "volatility", "sentiment", "predicting", "downward", "upward", "cheered", "outstripped", "gainers", "barely", "yield", "compared", "soared"]
+
+
+Note:
+
+This output includes all the event triggers found in the given text, which are:
+
+* "whacked" (verb)
+* "fell" (verb)
+* "slightly" (adverb)
+* "rose" (verb)
+* "tumbled" (verb)
+* "ended" (verb)
+* "soared" (verb)
+* "complained" (verb)
+* "reporting" (verb)
+* "added" (verb)
+* "concern" (noun)
+* "volatility" (noun)
+* "sentiment" (noun)
+* "predicting" (verb)
+* "downward" (adjective)
+* "upward" (adjective)
+* "cheered" (verb)
+* "outstripped" (verb)
+* "gainers" (noun)
+* "barely" (adverb)
+* "yield" (noun)
+* "compared" (verb)
+* "soared" (verb)

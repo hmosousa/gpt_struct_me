@@ -1,0 +1,14 @@
+[["Autoridade Marítima Nacional", "Org"], ["homem desaparecido", "Per"], ["rio Guadiana", "Loc"], ["Foz de Odeleite", "Loc"], ["concelho de Castro Marim", "Loc"], ["nacionalidade romena", "Other"], ["a água", "Loc"], ["dois pescadores", "Per"], ["o local", "Loc"], ["uma embarcação", "Fac"], ["a Polícia Marítima", "Org"], ["uma embarcação", "Fac"], ["a Estação Salva-vidas", "Org"], ["Lisboa", "Loc"], ["o centro", "Org"], ["buscas", "Other"], ["serão retomadas", "Other"], ["na segunda-feira", "Other"]]
+
+Note:
+
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Loc" stands for "location"
+* "Other" stands for "other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

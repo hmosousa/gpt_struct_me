@@ -1,0 +1,23 @@
+["mata", "pessoas", "Índia", "casa", "desabou", "Hyderabad", "sul", "Índia", "devido", "chuvas", "sem", "precedentes", "graves", "inundações", "mataram", "pelo", "morte", "quatro", "hospitalizadas", "muro", "caiu", "casa", "desabou", "impacto", "forte", "chuva", "Hyderabad", "quebrou", "recorde", "estabelecido", "há", "20", "anos", "registando", "inundações", "áreas", "baixas", "cidade", "onde", "autoridades", "usaram", "barcos", "remover", "pessoas", "mais", "9", "6", "milhões", "pessoas", "em", "todo", "sul", "Ásia", "afetadas", "por", "severas", "inundações", "este", "ano", "Cerca", "550", "morreram", "Índia", "Bangladesh", "Nepal", "milhões", "deslocadas", "casas", "começaram", "junho"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em todo o mundo já foram infectadas
+A pandemia de covid-19 já infectou mais de 100 milhões de pessoas em todo o mundo, segundo dados do Instituto de Saúde Mundial (WHO).
+A agência mundial de saúde divulgou os números hoje, depois de ter anunciado que a pandemia já havia infectado mais de 10 milhões de pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A agência mundial de saúde também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre a mortalidade causada pela doença, que já havia matado mais de 500 mil pessoas em todo o mundo.
+A WHO também divulgou dados sobre

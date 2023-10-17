@@ -1,0 +1,55 @@
+["governo holandês", "ajuda", "KLM", "pilotos", "reduzir", "salários", "O governo holandês", "terça-feira", "um plano", "salvação", "transportadora aérea", "KLM", "vários milhões", "euros", "sindicato", "pilotos", "VNV", "aceitar", "redução", "salarial", "perante", "recusa", "sindicato", "anunciou", "entretanto", "cedido", "governo", "emprestimos", "ramo", "Air France-KLM", "perdeu", "1,6 mil milhões", "euros", "trimestre", "ano passado"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Air France-KLM perdeu 1,6 mil milhões de euros no terceiro trimestre, o que compara com um lucro de 363 milhões no mesmo trimestre do ano passado."
+
+Output:
+["Air France-KLM", "perdeu", "1,6 mil milhões", "euros", "terceiro trimestre", "o que", "compara", "um lucro", "363 milhões", "mesmo trimestre", "ano passado"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"O ministro das Finanças, Wopke Hoekstra, tinha congelado a ajuda, sob a forma de empréstimos, ao ramo holandês da Air France-KLM, perante a recusa do sindicato dos pilotos VNV em aceitar a redução salarial."
+
+Output:
+["O ministro das Finanças", "Wopke Hoekstra", "congelado", "ajuda", "sob", "forma", "empréstimos", "ramo", "Air France-KLM", "perante", "recusa", "sindicato", "pilotos", "VNV", "aceitar", "redução", "salarial"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"O governo holandês aprovou na terça-feira um plano de salvação da transportadora aérea KLM, na ordem de vários milhões de milhões de euros, depois de os pilotos terem aceitado uma redução de salários durante cinco anos."
+
+Output:
+["O governo holandês", "terça-feira", "um plano", "salvação", "transportadora aérea", "KLM", "vários milhões", "milhões", "euros", "os pilotos", "aceitado", "redução", "salários", "cinco anos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Cerca de três mil pilotos devem ser particularmente afetados por este plano, com baixas salariais que podem ir até 20%, segundo os meios do país."
+
+Output:
+["Cerca de três mil pilotos", "afetados", "este plano", "baixas", "salariais", "podem", "ir", "20%", "segundo", "meios", "pais"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"A KLM prevê reduzir despesas em 15% e suprimir cinco mil postos de trabalho."
+
+Output:
+["A KLM", "reduzir", "despesas", "15%", "suprimir", "cinco mil", "postos", "trabalho"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"A Air France-KLM perdeu 1,6 mil milhões de euros no terceiro trimestre, o que compara com um lucro de 363 milhões no mesmo trimestre do ano passado."
+
+Output:
+["A Air France-KLM", "perdeu", "1,6 mil milhões", "euros", "terceiro trimestre", "o que", "compara", "um

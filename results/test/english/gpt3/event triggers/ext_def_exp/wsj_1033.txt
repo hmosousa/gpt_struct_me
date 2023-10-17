@@ -1,0 +1,1 @@
+["expected", "proposed", "own", "closed", "evaluating", "respond", "assurance", "sold", "accounted", "holding", "reported", "fell", "rose"]

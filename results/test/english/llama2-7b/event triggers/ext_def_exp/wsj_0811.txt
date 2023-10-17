@@ -1,0 +1,14 @@
+["raised", "said", "will", "due", "expected", "interest", "periodic", "principal", "maturity", "conversion", "underwriter", "principal", "maturity", "Blockbuster", "shares", "closed", "yesterday", "New", "York", "trading"]
+
+"""
+
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for event_trigger in re.finditer(r"(\w+)\s+(\w+)", text):
+        event_triggers.append(event_trigger.group(1))
+    return event_triggers
+
+
+if __name__ == "__main__":
+    print extract_event_triggers("".join(open("input.txt").readlines()))

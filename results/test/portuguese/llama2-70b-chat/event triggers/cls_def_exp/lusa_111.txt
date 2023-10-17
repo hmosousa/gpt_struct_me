@@ -1,0 +1,20 @@
+[["reivindica", "I_Action"], ["atentado", "Occurrence"], ["Viena", "State"], ["jovem", "State"], ["dupla nacionalidade", "State"], ["Macedónia do Norte", "State"], ["Síria", "State"], ["EI", "State"], ["combatente", "State"], ["Amaq", "State"], ["propaganda", "State"], ["ataque", "Occurrence"], ["armado", "State"], ["fogo", "State"], ["efetuado", "Occurrence"], ["polícia", "State"], ["centro", "State"], ["Viena", "State"], ["liberdade condicional", "State"], ["decembro", "State"], ["pena", "State"], ["prisão", "State"], ["tentou", "Occurrence"], ["viajar", "Occurrence"], ["juntar-se", "Occurrence"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* State: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* Occurrence: refers to any concrete action, incident, or event that takes place or holds within a specified period of time.
+* Reporting: refers to the act of reporting or describing an event or state.
+* Perception: refers to the act of perceiving or observing an event or state.
+* Aspectual: refers to the aspect or phase of an event or state.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers to a state that is intended or planned.
+
+The input text is in Portuguese, and the output should be in English.
+
+Please note that the input text may contain grammatical errors or typos, and the output should reflect the corrections made to the input text.
+
+Also, please note that the output should be in the format of a JSON-parseable list, and the classes should be in English.

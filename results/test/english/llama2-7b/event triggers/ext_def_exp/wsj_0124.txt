@@ -1,0 +1,26 @@
+["William", "C", "Walbrecher", "Jr.", "executive", "San", "Francisco-based", "1st", "Nationwide", "Bank", "named", "president", "chief", "executive", "officer", "Citadel", "Holding", "Corp.", "principal", "operating", "unit", "Fidelity", "Federal", "appointment", "effect", "Nov", "13", "succeeds", "James", "Taylor", "chairman", "president", "chief", "health", "reasons", "Edward", "Kane", "chairman", "Separately", "third-quarter", "net", "loss", "2", "million", "68", "cents", "share", "year", "results", "include", "unusual", "write-downs", "potential", "Valley", "Federal", "Savings", "Loan", "Association", "terminated", "Sept", "27", "1989", "operating", "results", "hit", "increase", "loan", "real", "estate", "loss", "reserves"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former executive of the now-defunct Drexel Burnham Lambert Inc. who was convicted of insider trading.
+The court's action leaves in place a ruling by the 2nd U.S. Circuit Court of Appeals in New York that upheld the conviction of Michael Milken, who was sentenced to 10 years in prison.
+Milken, who was once the highest-paid executive in the United States, was convicted in 1990 of 96 counts of securities fraud and conspiracy.
+The charges stemmed from Milken's role in a $2 billion junk bond deal involving the sale of bonds to the Penn Central Corp. in 1986.
+Milken was convicted of insider trading because he had advance knowledge of the sale of Penn Central to the Pennsylvania RR Co.
+The 2nd Circuit upheld Milken's conviction in 1992.
+Milken's lawyers had argued that the 2nd Circuit's ruling was inconsistent with a 1988 Supreme Court decision that said a person cannot be convicted of insider trading unless he or she has a duty to disclose the information.
+The Supreme Court's action Monday was without comment.
+Milken, 43, is serving his sentence at a federal prison in Otisville, N.Y.
+He is expected to be released in 1996."
+
+Output:
+["U.S.", "Supreme", "Court", "Monday", "refused", "appeal", "former", "executive", "now-defunct", "Drexel", "Burnham", "Lambert", "convicted", "insider", "trading", "action", "leaves", "place", "ruling", "2nd", "Circuit", "Appeals", "New", "York", "upheld", "conviction", "sentenced", "years", "prison", "once", "highest", "paid", "executives", "United", "States", "1990", "charges", "stemmed", "sale", "Penn", "Central", "Corp", "1986", "convicted", "insider", "advance", "knowledge", "sale", "Pennsylvania", "RR", "Co", "1988", "decision", "person", "duty", "disclose", "action", "expected", "released", "1996"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former executive of the now-defunct Drexel Burnham Lambert Inc. who was convicted of insider trading.
+The court's action leaves in place a ruling by the 2nd U.S.

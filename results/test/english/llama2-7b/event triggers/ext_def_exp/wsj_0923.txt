@@ -1,0 +1,12 @@
+["signed", "investor", "company", "share", "company", "transaction", "shareholders", "manufactures"]
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Taiwan, the State Department said.
+The sale, which is valued at $1.8 billion, was approved by the U.S. Defense Department and the State Department, the department said in a statement.
+The sale is the first of its kind since the United States resumed arms sales to Taiwan in 1992.
+The United States has a policy of selling defensive weapons to Taiwan, but not offensive weapons.
+The sale is expected to be announced by the White House on Monday, the Associated Press reported.
+The sale is expected to be announced by the White House on Monday, the Associated Press reported."
+
+Output:
+["approved", "sale", "government", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale", "sale",

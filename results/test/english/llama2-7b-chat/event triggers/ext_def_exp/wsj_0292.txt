@@ -1,0 +1,7 @@
+
+["despite", "posted", "rose", "net", "income", "sales", "gain", "attributed", "depressed", "enhanced", "charges", "period", "lower", "interest", "tax", "profits", "rise", "90's", "closed"]
+
+
+Note:
+
+This task extracts all event triggers from the given text. Event triggers are words or phrases that indicate a significant change or occurrence in the story, such as "despite", "rose", "net income", "sales", "gain", "attributed", "depressed", "enhanced", "charges", "period", "lower", "interest", "tax", "profits", "rise", "90's", "closed".

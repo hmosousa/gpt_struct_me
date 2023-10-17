@@ -1,0 +1,1 @@
+[["em despiste de automóvel", "Accident"], ["hoje", "Date"], ["Estrada Municipal 524", "Location"], ["concelho de Marvão", "Location"], ["distrito de Portalegre", "Location"], ["Bica", "Location"], ["19:23", "Time"], ["Comando Distrital de Operações de Socorro", "Organization"], ["hospital de Portalegre", "Location"]]

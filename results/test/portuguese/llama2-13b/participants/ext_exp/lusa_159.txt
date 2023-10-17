@@ -1,0 +1,24 @@
+["PJ da Guiné-Bissau", "homem", "cocaína", "aeroporto", "Polícia Judiciária", "Guiné-Bissau", "detetou", "sábado", "homem", "posse", "cocaína", "embarcar", "voo", "destino", "Lisboa", "anunciou", "força policial", "comunicado", "cidadão", "luso-guineense", "transportava", "droga", "disfarçada", "cintura", "detido", "aeroporto", "internacional", "Osvaldo Vieira", "Bissau", "acrescenta", "Ministério Público", "início", "outubro", "cidadão", "luso-guineense", "quilograma", "cocaína", "preparava-se", "viajar", "Lisboa", "âmbito", "detenção", "PJ", "detetou", "homens", "aquisição", "entrega", "facilitação", "introdução", "aeroporto"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem com 1,5 quilos de cocaína no aeroporto
+A Polícia Judiciária deteve no aeroporto de Lisboa um homem com 1,5 quilos de cocaína, anunciou a PJ, em comunicado.
+O homem, de 22 anos, foi detido no aeroporto de Lisboa, no dia 1 de outubro, quando se preparava para embarcar num voo com destino a Bissau, capital da Guiné-Bissau.
+A PJ informa que o homem, que é cidadão luso-guineense, transportava a droga disfarçada na sua cintura.
+O homem foi apresentado ao Ministério Público, que o acusou de "aquisição, entrega e facilitação na introdução" da droga no interior do aeroporto.
+A PJ informa que o homem foi detido no âmbito da detenção de três homens, também cidadãos luso-guineenses, que se preparavam para embarcar num voo com destino a Bissau, no dia 1 de outubro, e que foram detidos por alegado envolvimento na "aquisição, entrega e facilitação na introdução" da droga no interior do aeroporto."
+
+Output:
+["PJ", "homem", "cocaína", "aeroporto", "Polícia Judiciária", "Lisboa", "detetou", "homem", "quilos", "cocaína", "embarcar", "voo", "destino", "Bissau", "capital", "Guiné-Bissau", "anunciou", "PJ", "comunicado", "cidadão", "luso-guineense", "transportava", "droga", "disfarçada", "cintura", "detetou", "Ministério Público", "acusou", "aquisição", "entrega", "facilitação", "introdução", "aeroporto", "âmbito", "detenção", "PJ", "detetou", "homens", "aquisição", "entrega", "facilitação", "introdução", "aeroporto"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem com 1,5 quilos de cocaína no aeroporto
+A Polícia Judiciária deteve no aeroporto de Lisboa um homem com 1,5 quilos de cocaína, anunciou a PJ, em comunicado.
+O homem, de 22 anos, foi detido no aeroporto de Lisboa, no dia 1 de outubro, quando se preparava para embarcar num voo com destino a Bissau, capital da Guiné-Bissau.
+A PJ informa que o homem, que é cidadão luso-gu

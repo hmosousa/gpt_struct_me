@@ -1,0 +1,16 @@
+[["matou", "I_Action"], ["mulher", "Object"], ["à facada", "Occurrence"], ["no decurso", "Aspectual"], ["de uma discussão", "Occurrence"], ["por motivos fúteis", "Occurrence"], ["arguido", "Object"], ["terá agredido", "I_Action"], ["com uma arma branca", "Occurrence"], ["na freguesia de Duas Igrejas", "Location"], ["concelho de Penafiel", "Location"], ["distrito do Porto", "Location"], ["os meios de socorro", "Object"], ["encontraram", "I_Action"], ["a vítima", "Object"], ["em paragem cardiorrespiratória", "Occurrence"], ["não resultando", "Aspectual"], ["as manobras para reverter", "Occurrence"], ["a situação", "Aspectual"], ["o óbito", "Occurrence"], ["foi confirmado", "Reporting"], ["no local", "Location"], ["o detido", "Object"], ["um trabalhador da construção civil", "Object"], ["sem antecedentes criminais", "Aspectual"], ["vai ser", "I_Action"], ["presente", "I_Action"], ["à autoridade judiciária", "Location"], ["para primeiro interrogatório judicial", "Occurrence"], ["e aplicação", "I_Action"], ["das medidas de coação", "I_Action"], ["tidas", "Aspectual"], ["por adequadas", "Aspectual"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "matou") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: an action or event
+* I_State: a state or condition
+* Occurrence: an event or occurrence
+* Aspectual: an aspect or feature of an event or state
+* Reporting: a report or description of an event or state
+* State: a state or condition
+* Object: an object or entity
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "Covi-19", "erros", "quarentena", "mortes", "desculpa", "levaram", "divulgação", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo".
+
+Please note that some words or phrases may have multiple event triggers, and some event triggers may be part of a larger event or action. Your task is to identify and classify all the event triggers in the input text.

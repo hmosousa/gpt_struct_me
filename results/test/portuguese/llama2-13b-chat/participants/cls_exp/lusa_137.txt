@@ -1,0 +1,11 @@
+[["GNR", "Org"], ["encontrou", "Verb"], ["idosa", "Per"], ["dada", "Verb"], ["como", "Per"], ["desaparecida", "Verb"], ["em", "Pre"], ["aldeia", "Loc"], ["de", "Pre"], ["Vila Real", "Loc"], ["A", "Art"], ["octogenária", "Per"], ["foi", "Verb"], ["detetada", "Verb"], ["por", "Pre"], ["um", "Per"], ["cão", "Other"], ["da", "Pre"], ["equipa", "Other"], ["cinotécnica", "Other"], ["da", "Pre"], ["GNR", "Org"], ["a", "Pre"], ["cerca", "Pre"], ["de", "Pre"], ["sua", "Other"], ["residência", "Loc"], ["e", "Pre"], ["foi", "Verb"], ["transportada", "Verb"], ["para", "Pre"], ["a", "Other"], ["unidade", "Other"], ["de", "Pre"], ["Vila Real", "Loc"], ["do", "Other"], ["Centro", "Other"], ["Hospitalar", "Other"], ["de", "Pre"], ["Trás-os-Montes", "Other"], ["e", "Other"], ["Alto", "Other"], ["Douro", "Other"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+- "Obj" stands for "Object"
+- "Fac" stands for "Facility"
+- "Pre" stands for "Preposition"
+- "Verb" stands for "Verb"

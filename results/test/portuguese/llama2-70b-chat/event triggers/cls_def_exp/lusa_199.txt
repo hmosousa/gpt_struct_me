@@ -1,0 +1,1 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["cair", "Occurrence"], ["telhado", "State"], ["estava", "State"], ["limpar", "Occurrence"], ["acidente", "Occurrence"], ["deu-se", "Occurrence"], ["Rua Augusto Gil", "State"], ["sete metros", "State"], ["caído", "Occurrence"], ["bombeiros", "State"], ["Leixões", "State"]]

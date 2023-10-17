@@ -1,0 +1,15 @@
+[
+"diplomacy",
+"headway",
+"UN",
+"Kofi Annan",
+"breakthrough",
+"not done yet",
+"Iraq",
+"Saddam Hussein",
+"Baghdad",
+"Tariq Aziz",
+"sticking point",
+"proposal",
+"suspected weapons sites"
+]

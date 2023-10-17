@@ -1,0 +1,16 @@
+["detido", "suspeita", "fogo", "posto", "prédio", "Espinho", "distrito", "Aveiro", "feridos", "inalação", "fumo", "informou", "comunicado", "PSP", "ateado", "prédio", "habitacional", "causou", "16", "feridos", "informou", "incêndio", "prédio", "habitável", "necessidade", "realojamentos", "extinto", "Bombeiros", "Voluntários", "Espinho", "prosseguirá", "investigação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus.
+A China, onde o novo coronavírus surgiu, anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às novas restrições de viagem impostas pelo governo para conter a propagação do novo coronavírus

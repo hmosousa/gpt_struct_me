@@ -1,0 +1,16 @@
+[["um comunicado", "Obj"], ["assassinos contratados (sicários)", "Per"], ["mataram", "Per"], ["sete pessoas", "Per"], ["no estado mexicano de Michoacán", "Loc"], ["informaram", "Org"], ["as autoridades locais", "Org"], ["os corpos das vítimas", "Other"], ["were found", "Other"], ["by a group of agricultural workers", "Other"], ["on a rural road", "Loc"], ["in the municipality of Tangamandapio", "Loc"], ["informed the Public Ministry", "Org"], ["the victims – six men and a woman", "Other"], ["presented", "Other"], ["in addition to bullet wounds", "Other"], ["severe signs of torture", "Other"], ["At least three of the bodies", "Other"], ["were dismembered", "Other"], ["The identity of the victims", "Other"], ["is unknown", "Other"], ["The authorities are considering", "Org"], ["several lines of investigation", "Other"], ["but admit", "Other"], ["the possibility of this incident", "Other"], ["being related to drug trafficking", "Other"], ["and issues of revenge", "Other"], ["between rival cartels", "Other"], ["Violence with links to organized crime", "Other"], ["is one of the great scourges", "Other"], ["of Mexico", "Loc"], ["responsible", "Other"], ["for hundreds of homicides", "Other"], ["each year", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other"
+
+Hint:
+
+* The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities and classes can be found in the input text.
+* Some entities and classes may appear more than once in the input text.
+* The output should include all the entities and classes found in the input text, even if they appear multiple times.

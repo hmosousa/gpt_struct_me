@@ -1,0 +1,6 @@
+[["amigo", "I_Action"], ["agredir", "Occurrence"], ["ficou", "State"], ["em", "State"], ["prisão", "State"], ["proibido", "State"], ["contactar", "State"], ["perto", "State"], ["dela", "State"], ["dito", "Reporting"], ["GNR", "I_Action"], ["Porto", "State"], ["referiu", "Reporting"], ["detido", "I_Action"], ["violência", "Occurrence"], ["criminais", "Occurrence"], ["antecedentes", "Occurrence"], ["mais", "Occurrence"], ["apuraram", "Occurrence"], ["forneceu", "I_Action"], ["limpar", "State"], ["sublinhou", "Reporting"], ["mandado", "I_Action"], ["detenção", "Occurrence"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,50 @@
+["Um homem de 32 anos", "o homem", "a zona de Valverde da Gestosa", "Mirandela", "local para onde terá ido pescar", "a GNR", "a Lusa", "a força de segurança", "o homem terá saído de casa", "a manhã de domingo", "para ir à pesca", "as autoridades", "o desaparecimento", "as buscas", "o corpo", "o rio", "as proximidades", "os haveres", "o pescador", "a Polícia Judiciária", "as circunstâncias", "a morte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam morte de um homem no Central Park
+Autoridades de Nova Iorque investigam

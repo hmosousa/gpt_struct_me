@@ -1,0 +1,11 @@
+[
+["Dec. 7", "Date"],
+["Friday", "Date"],
+["early November", "Date"],
+["a year ago", "Date"],
+["third-quarter", "Date"],
+["the third quarter", "Date"],
+["a year ago", "Date"],
+["Third-quarter", "Date"],
+["a year ago", "Date"]
+]

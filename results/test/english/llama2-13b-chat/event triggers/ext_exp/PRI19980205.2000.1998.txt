@@ -1,0 +1,4 @@
+["Thousands", "people", "Germany", "demonstrating", "today", "against", "high", "level", "unemployment", "country", "latest", "figures", "show", "sharp", "rise", "nearly", "five", "million", "Germans", "work", "Chanting", "Helmut", "Kohl", "must", "go", "unemployed", "took", "streets", "German", "capital", "Berlin", "mirroring", "protests", "around", "country", "Joblessness", "now", "highest", "level", "Germany", "since", "second", "world", "war", "General", "election", "due", "September", "record", "figures", "couldn't", "come", "worst", "time", "Chancellor", "Kohl", "promise", "half", "unemployment", "year", "two", "thousand", "now", "abandoned", "German", "electorate", "increasingly", "eager", "dispense", "services", "Europe's", "longest", "serving", "leader", "Caroline", "Wyatt", "BBC", "news", "Bonn"]
+
+Format:
+JSON-parseable list of strings.

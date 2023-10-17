@@ -1,0 +1,13 @@
+[["morreu", "Occurrence"], ["opositor", "State"], ["Governo", "State"], ["Mali", "State"], ["Soumaila Cissé", "State"], ["mantido", "State"], ["cativeiro", "State"], ["seis meses", "Occurrence"], ["jihadistas", "State"], ["França", "State"], ["anos", "Occurrence"], ["novembro", "Occurrence"], ["coronavírus", "State"], ["anunciaram", "Reporting"], ["família", "State"], ["partido", "State"], ["Soumaila Cissé", "State"], ["líder", "State"], ["oposição", "State"], ["Mali", "State"], ["terrível", "Aspectual"], ["notícia", "Occurrence"], ["confirmou", "Reporting"], ["URD", "State"], ["figura", "State"], ["oposição", "State"], ["Mali", "State"], ["sequestrado", "Occurrence"], ["março", "Occurrence"], ["Tumbuktu", "State"], ["Noroeste", "State"], ["libertado", "Occurrence"], ["outubro", "Occurrence"], ["seis meses", "Occurrence"], ["cativeiro", "State"], ["jihadistas", "State"], ["França", "State"], ["Sophie Pétronin", "State"], ["italianos", "State"], ["detidos", "State"], ["libertados", "Occurrence"], ["não sofri", "I_State"], ["nenhuma violência", "I_State"], ["física", "State"], ["verbal", "State"], ["afirmou", "Reporting"], ["libertação", "Occurrence"], ["eleições presidenciais", "State"], ["terceiro lugar", "Occurrence"]]
+
+Please note that the input and output are in Portuguese.
+
+Please extract and classify all event triggers in the given text.
+
+Note:
+
+* Event triggers are words or phrases that indicate the occurrence of an event.
+* The classification of event triggers should be based on their semantic meaning.
+* The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+This task is similar to the task "Event Argument Extraction" in the Stanford Natural Language Processing Group's tutorial on Information Extraction.

@@ -1,0 +1,1 @@
+["Thursday", "less than one hour", "Thursday", "later in the day", "Friday", "next week"]

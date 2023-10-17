@@ -1,0 +1,11 @@
+[["cadáver", "Ob"], ["homem", "Per"], ["rio Douro", "Loc"], ["Vila Nova de Gaia", "Loc"], ["Polícia Marítima", "Org"], ["Lusa", "Org"], ["Rui Santos Amaral", "Per"], ["capitania do Porto", "Org"], ["populares", "Other"], ["aguardar", "Verb"], ["Polícia Judiciária", "Org"], ["Sapadores de Vila Nova de Gaia", "Org"], ["Bombeiros de Coimbrões", "Org"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned. The output is a list of entities and their corresponding classes.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.
+* The entities are: cadáver, homem, rio Douro, Vila Nova de Gaia, Polícia Marítima, Lusa, Rui Santos Amaral, capitania do Porto, populares, Polícia Judiciária, Sapadores de Vila Nova de Gaia, Bombeiros de Coimbrões.
+* The output list is organized in a JSON-like format, with each element being a list with two strings. The first string is the entity, and the second string is the class.
+* The input and output are in Portuguese, but the format and the classes are independent of the language.

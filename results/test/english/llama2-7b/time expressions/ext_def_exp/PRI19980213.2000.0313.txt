@@ -1,0 +1,68 @@
+["oncoming", "dangerous", "unpredictable", "landslides", "saturated", "absorb", "path", "cascade", "ripping", "evacuation", "shifting", "slipping", "forecasters", "picture", "rains", "mansion", "sea", "Golden Gate Bridge", "Pacific Ocean", "NPR", "Auncil Martinez"]
+
+Explanation:
+The time expressions are:
+- "oncoming"
+- "dangerous"
+- "unpredictable"
+- "landslides"
+- "saturated"
+- "absorb"
+- "path"
+- "cascade"
+- "ripping"
+- "evacuation"
+- "shifting"
+- "slipping"
+- "forecasters"
+- "picture"
+- "rains"
+- "mansion"
+- "sea"
+- "Golden Gate Bridge"
+- "Pacific Ocean"
+- "NPR"
+- "Auncil Martinez"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		fmt.Println("Usage:", os.Args[0], "INPUT")
+		os.Exit(1)
+	}
+
+	input := os.Args[1]
+
+	timeExpressions := extractTimeExpressions(input)
+
+	for _, timeExpression := range timeExpressions {
+		fmt.Println(timeExpression)
+	}
+}
+
+func extractTimeExpressions(input string) []string {
+	timeExpressions := []string{}
+
+	for _, sentence := range strings.Split(input, "\n") {
+		if sentence == "" {
+			continue
+		}
+
+		for _, word := range strings.Split(sentence, " ") {
+			if strings.HasPrefix(word, "next") {
+				timeExpressions = append(timeExpressions, word)
+			}
+		}
+	}
+
+	return timeExpressions
+}

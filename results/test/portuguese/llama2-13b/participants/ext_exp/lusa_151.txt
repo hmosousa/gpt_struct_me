@@ -1,0 +1,18 @@
+["Governo de Jacarta", "illegaliza", "grupo radical", "islâmico indonésio", "FPI", "A Indonésia", "illegalizou", "hoje", "um grupo", "muçulmano", "responsável", "atos de vandalismo", "contra", "embaixadas ocidentais", "locais de culto", "não islâmicos", "O ministro", "da Segurança", "Mohammad", "Mahfud", "dos jornalistas", "que", "a Frente", "de Defesa", "Islâmica", "FPI", "em indonésio", "proibiu", "igualmente", "o uso", "símbolos", "do grupo", "radical", "que", "quer", "ver implementada", "lei islâmica", "sharia", "na Indonésia", "país", "com 230 milhões", "de muçulmanos", "tem vindo", "a alargar", "influência", "junto", "da população", "nos últimos anos", "através", "de missões", "humanitárias", "e de caridade", "A FPI", "organizou", "grandes protestos", "em 2016 e 2017", "contra", "o governador", "cristão", "de Jacarta", "O líder", "da organização", "Rizieg", "Shihab", "entregou-se", "às autoridades", "no início", "do mês", "de dezembro", "depois", "de ter", "acusado", "de incitar", "a população", "a violar", "as medidas", "de restrição", "impostas", "pelo Governo", "para travar", "a pandemia", "de covid-19", "no país", "organizando", "grandes manifestações"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por covid-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos por covid-19 ultrapassa 20.000.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 20.097 mortes, segundo o Departamento de Saúde de Nova Iorque.
+O número de mortos ultrapassou a marca de 20.000, com 

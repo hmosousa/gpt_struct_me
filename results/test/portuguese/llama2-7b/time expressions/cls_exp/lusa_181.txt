@@ -1,0 +1,30 @@
+[["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["1929", "Time"], ["2019", "Time"], ["2020", "Time"], ["2020", "Time"], ["2020", "Time"], ["2020", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["1929", "Time"], ["2019", "Time"], ["2020", "Time"], ["2020", "Time"], ["2020", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre em ataque de tubarão numa praia no noroeste da Austrália
+Um homem morreu hoje após ser atacado por um tubarão quando nadava numa praia na costa ocidental da Austrália, naquela que é a oitava morte do género no país este ano, noticiam as agências internacionais.
+O homem, de 55 anos, estava sozinho na água na turística praia de Cable, no noroeste da Austrália, no oceano Índico, quando o tubarão o atacou na coxa e lhe mordeu a mão.
+A vítima foi retirada da água com ferimentos graves e assistida pela polícia e depois pelos paramédicos, mas não foi possível salvá-la e morreu no local.
+A polícia matou depois o tubarão, que se manteve na zona por quase meia hora após o ataque, e fechou a praia, famosa pelos seus 22 quilómetros de areia branca.
+O número de mortes em ataques de tubarão este ano na Austrália - oito - é o mais elevado desde 1929, quando morreram nove pessoas.
+Em 2019, contabilizam-se 27 ataques de tubarões, mas ninguém morreu.
+Segundo estudos da agência científica governamental CSIRO, dat

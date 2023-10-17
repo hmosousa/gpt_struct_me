@@ -1,0 +1,9 @@
+[["indiciado", "I_Action"], ["maltratar", "Occurrence"], ["se aproximar", "Occurrence"], ["refugiou", "Occurrence"], ["filha", "Person"], ["proibido", "State"], ["Tribunal", "I_Action"], ["informou", "Reporting"], ["GNR", "I_Action"], ["retrata", "Reporting"], ["arguido", "I_Action"], ["proibiu", "State"], ["controlado", "Aspectual"], ["pulseira", "State"], ["afastamento", "State"], ["detve", "I_Action"], ["Tribunal", "I_Action"]]
+
+
+Note:
+
+* The input text is in Portuguese, and the output is in JSON-parseable lists, where each list contains two strings: the entity and the class.
+* The classes are: I_Action (indicates an action), Occurrence (indicates an event), State (indicates a state), Reporting (indicates reporting), and Aspectual (indicates an aspect).
+* The input text mentions the following events: indiciado (indicted), maltratar (to mistreat), se aproximar (to approach), refugiou (to refuge), filha (daughter), proibido (prohibited), Tribunal (court), informou (informed), GNR (GNR), retrata (reports), arguido (accused), proibiu (prohibited), and controlado (controlled).
+* The output list includes the following entities: indiciado (indicted), maltratar (to mistreat), se aproximar (to approach), refugiou (to refuge), filha (daughter), proibido (prohibited), Tribunal (court), informou (informed), GNR (GNR), retrata (reports), arguido (accused), proibiu (prohibited), and controlado (controlled).

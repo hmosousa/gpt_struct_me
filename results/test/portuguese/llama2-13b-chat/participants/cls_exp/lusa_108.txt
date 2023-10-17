@@ -1,0 +1,14 @@
+[["um colega", "Per"], ["disputa", "Other"], ["na província de Maputo", "Loc"], ["no sul de Moçambique", "Loc"], ["um dos membros", "Per"], ["disparou contra o outro", "Other"], ["alvejando-o mortalmente", "Other"], ["a Polícia da República de Moçambique", "Org"], ["na província de Maputo", "Loc"], ["Juarce Martins", "Per"], ["Tratam-se de agentes", "Per"], ["da PRM", "Org"], ["afetos ao Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "Org"], ["no distrito de Magude", "Loc"], ["na província de Maputo", "Loc"], ["segundo a polícia", "Other"], ["o incidente ocorreu", "Other"], ["próximo ao acampamento", "Loc"], ["na madrugada de quinta-feira", "Other"], ["quando os dois agentes regressavam", "Other"], ["de uma atividade de patrulha", "Other"], ["numa zona protegida", "Other"], ["naquela província", "Loc"], ["aos outros colegas", "Per"], ["correram para ver", "Other"], ["o que se havia passado", "Other"], ["de imediato", "Other"], ["o autor do crime", "Per"], ["foi detido", "Other"], ["de acordo com Juarce Martins", "Per"], ["foram abertos", "Other"], ["dois processos", "Other"], ["um disciplinar", "Other"], ["e outro criminal", "Other"], ["o comando", "Org"], ["acompanhará", "Other"], ["com todo o interesse", "Other"], ["o desfecho dos processos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

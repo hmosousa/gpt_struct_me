@@ -1,0 +1,20 @@
+["Aprendidas", "quase", "quatro", "toneladas", "haxixe", "río", "Guadiana", "GNR", "Unidade", "Controlo", "Costeiro", "apreende", "hoje", "madrugada", "río", "Guadiana", "Algarve", "quase", "quatro", "toneladas", "haxixe", "embarcación", "velocidad", "apreendidas", "115", "fardos", "haxixe", "3785", "kilos", "embarcación", "velocidad", "detetada", "perto", "foz", "Guadiana", "comportamiento", "suspeito", "intercetada", "lugar", "Foz", "Odeleite", "militares", "GNR", "conseguir", "intercetar", "suspeitos", "encetaron", "fuga", "territorio", "espanhol", "informadas", "autoridades", "policiais", "espanholas", "SIVICC", "âmbito", "vigilância", "patrulhamento", "costeira", "factos", "remetidos", "PJ"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 mortes em 2020, segundo ONU
+A Organização Mundial da Saúde (OMS) estimou hoje que a covid-19 matará 100.000 pessoas em 2020, um número que pode aumentar para 1.5 milhões se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pandemia.
+A OMS também estimou que a covid-19 matará 1.5 milhões de pessoas em 2020, se não se tomar medidas para controlar a pan

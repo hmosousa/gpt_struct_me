@@ -1,0 +1,162 @@
+["Coast Savings Financial Inc.", "third-quarter", "capital restructuring program", "September 30", "year-ago", "good will", "preferred stock", "convertible bonds", "high-yield bond portfolio", "junk-bond portfolio"]
+
+Explanation:
+The task is to extract all time expressions from the input.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time expressions.
+
+The input is a sentence with time expressions.
+
+The output is a list of time

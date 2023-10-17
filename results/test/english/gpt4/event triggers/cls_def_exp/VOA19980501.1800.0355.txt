@@ -1,0 +1,1 @@
+[["says", "REPORTING"], ["remain", "STATE"], ["meet", "OCCURRENCE"], ["suggested", "REPORTING"], ["move", "OCCURRENCE"], ["said", "REPORTING"], ["asked", "OCCURRENCE"], ["stretch", "OCCURRENCE"], ["see", "PERCEPTION"], ["called", "REPORTING"], ["continue", "ASPECTUAL"], ["taking", "OCCURRENCE"]]

@@ -1,0 +1,1 @@
+[["desloca-se", "Location"], ["visita secreta", "Location"], ["libertação", "Action"], ["Síria", "Location"], ["EUA", "Location"], ["Kash Patel", "Person"], ["Austin Tice", "Person"], ["Majd Kamalmaz", "Person"]]

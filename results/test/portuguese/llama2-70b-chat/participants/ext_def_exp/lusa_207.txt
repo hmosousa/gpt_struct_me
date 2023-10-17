@@ -1,0 +1,3 @@
+["Dois homens", "22 e 33 anos", "ficaram feridos", "um deles com gravidade", "na terça-feira à noite", "Bairro do Casal dos Machados", "Lisboa", "PSP", "desordem", "várias pessoas", "armas de fogo", "Avenida Infante D. Henrique", "Largo Maria Judite de Carvalho", "Parque das Nações", "Hospital de Santa Maria", "um cartucho", "três viaturas", "danificadas", "disparos", "Polícia Judiciária", "investigação", "Polícia Judiciária", "Dois", "que", "a Geórgia", "que"]
+
+Please note that the input text is in Portuguese.

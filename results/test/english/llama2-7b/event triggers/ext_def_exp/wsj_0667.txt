@@ -1,0 +1,36 @@
+["will", "report", "write-off", "fourth", "ended", "transaction", "1988", "recapitalization", "result", "1989", "operating", "expected", "save", "company", "incurred", "finance", "payments", "scheduled", "funded", "operating", "zero-coupon", "subordinated", "sales"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1993 bombing of the World Trade Center, the Justice Department said on Monday.
+The settlement, which is subject to court approval, is the largest ever paid by the federal government in a civil lawsuit, the department said.
+The settlement resolves a lawsuit brought by New York in 1993 against the federal government, the Port Authority of New York and New Jersey, and the city of New York.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit also alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defendants were negligent in the design, construction, operation and maintenance of the World Trade Center.
+The lawsuit alleged that the defend

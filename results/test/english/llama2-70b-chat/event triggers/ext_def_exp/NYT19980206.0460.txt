@@ -1,0 +1,1 @@
+["said", "reported", "created", "added", "growing", "raised", "led", "rose", "left", "gained", "made", "pushing", "edged", "declined", "helped", "shown", "expected", "hit", "plunge", "surged", "hurting", "decreased", "ranking", "exhaust", "start", "getting", "declined", "broke", "showed", "dropped", "was"]

@@ -1,0 +1,7 @@
+[
+["Jan. 2", "Date"],
+["Dec. 15", "Date"],
+["quarterly", "Set"],
+["third-quarter", "Date"],
+["the year-ago quarter", "Date"]
+]

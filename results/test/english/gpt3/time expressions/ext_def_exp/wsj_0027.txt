@@ -1,0 +1,1 @@
+["last year", "52-week", "yesterday", "quarterly", "three years", "US$13.73"]

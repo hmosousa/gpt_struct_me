@@ -1,0 +1,21 @@
+["resgatado", "caminho", "25", "metros", "Santa", "Maria", "Feira", "queda", "ocorreu", "tampa", "propriedade", "situado", "homem", "cima", "acabando", "cada", "profundidade", "coberta", "água", "equipa", "grande", "ângulo", "auxílio", "cordas", "resgataram", "homem", "17", "15", "estabelecido", "ferimentos", "graves", "dado", "recusou", "transporte", "hospital", "GNR", "Santa", "Maria", "Feira", "ocorrência"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que se espalhou de Wuhan, na província de Hubei, para outras partes do país.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por

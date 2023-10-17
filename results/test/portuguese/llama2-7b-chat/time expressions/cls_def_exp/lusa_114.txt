@@ -1,0 +1,4 @@
+[["Edifício da Luanda Medical Center", "hotel"], ["Torres Eucaliptos", "edifício"], ["Instituto Sapiens", "edifício"], ["Monalisa Residence", "hotel"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings, the entity and the class.

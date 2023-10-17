@@ -1,0 +1,7 @@
+[
+["Aug. 26", "Date"],
+["Oct. 20", "Date"],
+["Aug. 10, 1988", "Date"],
+["18 months", "Duration"],
+["two-year", "Duration"]
+]

@@ -1,0 +1,9 @@
+[["sofre", "I_State"], ["queimaduras", "Occurrence"], ["face", "Aspectual"], ["membros", "Aspectual"], ["sofreu", "I_Action"], ["indicou", "Reporting"], ["fonte", "I_State"], ["bombeiros", "I_State"], ["Lusa", "I_State"], ["vítima", "I_State"], ["levantada", "Occurrence"], ["Hospital", "State"], ["São", "Aspectual"], ["João", "Aspectual"], ["apenas", "Aspectual"], ["se", "Aspectual"], ["relacionado", "Occurrence"], ["manuseamento", "Occurrence"], ["gasolina", "Occurrence"], ["transporte", "I_Action"], ["feito", "State"], ["district", "Aspectual"], ["Braga", "Aspectual"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several events. The events are extracted and classified according to their semantic meaning.
+* The classes are: State (indicates a noun or a noun phrase that refers to a person, place, or thing), Occurrence (indicates an event or a happening), Reporting (indicates a verb or a phrase that refers to the act of reporting or informing), Aspectual (indicates an adverb or an adjective that modifies a verb or a noun), Intensional Action (indicates a verb or a phrase that refers to an intention or a goal), and Intensional State (indicates a noun or a noun phrase that refers to a mental or physical state).
+* The output list includes all the events extracted from the input sentence, along with their corresponding class labels.

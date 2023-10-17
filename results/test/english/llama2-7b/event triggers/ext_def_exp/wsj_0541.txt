@@ -1,0 +1,30 @@
+["Automatic", "Data", "Processing", "Inc.", "redeem", "Nov", "16", "its", "150", "million", "6", "5", "convertible", "subordinated", "debtentures", "due", "March", "1", "2011", "pay", "$1,059", ".04", "each", "$1,000", "face", "amount", "conversion", "price", "debentures", "41", ".725", "share", "New", "York", "Stock", "Exchange", "composite", "trading", "Friday", "Automatic", "closed", "down", "$2", ".25", "redeeming", "bonds", "because", "after-tax", "cost", "interest", "higher", "dividend", "spokesman", "said"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of a new type of life insurance policy that would pay out if the buyer dies of a heart attack or stroke.
+The proposal, which would be the first of its kind, is aimed at helping people who are at high risk of heart disease or stroke.
+The plan would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered by the Treasury Department and the Internal Revenue Service, which would have to approve the plan.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out if the buyer dies of a heart attack or stroke within a year of buying the policy.
+The proposal is being considered because of the high cost of heart disease and stroke, which are the leading causes of death in the U.S.
+The proposal would allow insurers to sell policies that would pay out

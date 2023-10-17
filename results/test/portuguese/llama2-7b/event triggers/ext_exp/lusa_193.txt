@@ -1,0 +1,25 @@
+["socorrido", "rio", "tejo", "libre", "perigo", "cai", "hoje", "rio", "tejo", "cais", "colunas", "lisboa", "fora", "perigo", "socorrido", "outro", "indivíduo", "transportado", "hospital", "são", "jose", "ocorrência", "teve", "local", "alvo", "reanimação", "cardiorrespiratória", "efetuado", "transeunte", "passava", "imediações", "atirou", "agua", "levantado", "ambulância", "instituto", "nacional", "emergência", "medica", "hospital", "são", "jose", "libre", "perigo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de 100 milhões de pessoas em todo o mundo em resposta à pandemia de covid-19 é um recorde mundial, segundo a Agência Mundial de Saúde (OMS).
+A OMS informou que 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que 1,5 milhão de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-

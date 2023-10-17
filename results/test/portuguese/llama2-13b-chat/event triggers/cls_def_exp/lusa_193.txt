@@ -1,0 +1,11 @@
+[["homem", "I_Action"], ["socorrido", "I_Action"], ["caiu", "Occurrence"], ["rio tejo", "Location"], ["cais das colunas", "Location"], ["lisboa", "Location"], ["morto", "State"], ["outro indivíduo", "I_Person"], ["transportado", "I_Action"], ["hospital de são josé", "Location"], ["fonte oficial", "I_Source"], ["polícia marítima", "I_Organization"], ["ocorrência", "Occurrence"], ["reanimação cardiorrespiratória", "I_Action"], ["salvamento", "I_Action"], ["transeunte", "I_Person"], ["viu", "Perception"], ["dificuldades", "State"]]
+
+Note:
+- "I_Action" refers to an action that is performed by an entity.
+- "Occurrence" refers to an event or a happening that takes place.
+- "State" refers to a state or a condition that an entity is in.
+- "Location" refers to a physical location where an event takes place.
+- "Perception" refers to what an entity perceives or observes.
+- "Aspectual" refers to a situation or a condition that is described in terms of its aspect or its duration.
+- "Intensional Action" refers to an action that is performed with a specific goal or intention.
+- "Intensional State" refers to a state that an entity is in, with a specific goal or intention.

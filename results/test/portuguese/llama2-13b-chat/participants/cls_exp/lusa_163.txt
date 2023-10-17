@@ -1,0 +1,17 @@
+[["um homem", "Per"], ["sofreu queimaduras", "Other"], ["na face e nos membros superiores", "Other"], ["enquanto manuseava gasolina", "Other"], ["em Vale de S. Martinho", "Loc"], ["e teve se ser conduzido", "Other"], ["ao Hospital de São João", "Loc"], ["Porto", "Loc"], ["indicou fonte dos bombeiros locais", "Org"], ["o homem de 58 anos", "Per"], ["sofreu queimaduras de segundo e terceiro graus", "Other"], ["o alerta foi dado às 13:41", "Other"], ["Fonte dos Bombeiros Voluntários Famalicenses", "Org"], ["disse à Lusa", "Other"], ["que", "Per"], ["a vítima foi levada para o Hospital de São João", "Other"], ["e que", "Other"], ["ainda se desconhece a causa do acidente", "Other"], ["sabendo-se", "Other"], ["apenas que está relacionado com o manuseamento de gasolina", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"
+
+Hint:
+
+* The input text contains several entities and classes, including people, locations, objects, and events.
+* The entities and classes can be identified based on the context and the information provided in the text.
+* Some entities and classes may be mentioned multiple times in the text.
+
+Please let me know if you have any questions or need further clarification.

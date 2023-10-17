@@ -1,0 +1,17 @@
+["sexta-feira", "cerca de um mês", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions in the given text.
+
+Note:
+
+* You can use any language to solve this task.
+* You can use any library or tool to extract time expressions.
+* You can assume that the input text is in Portuguese.
+* You can output the time expressions in any format, but it should be JSON-parseable.
+* You can use any date and time format for the output.
+* You can assume that the input text does not contain any ambiguous time expressions.
+* You can assume that the input text does not contain any irrelevant information.
+* You can assume that the input text does not contain any redundant information.

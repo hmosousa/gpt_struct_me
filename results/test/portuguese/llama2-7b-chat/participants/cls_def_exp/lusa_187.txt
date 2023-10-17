@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["um ferido grave", "Per"], ["outra vítima", "Per"], ["declarada cadáver", "Other"], ["Estrada Nacional 2-3", "Loc"], ["Valada", "Loc"], ["GNR de Santarém", "Org"], ["Autoridade Nacional de Emergência e Proteção Civil", "Org"]]

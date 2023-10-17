@@ -1,0 +1,39 @@
+[["acusou", "I_Action"], ["militar", "State"], ["GNR", "State"], ["Braga", "State"], ["falsificou", "Occurrence"], ["mapas", "State"], ["mensais", "State"], ["suplementos", "State"], ["remuneratórios", "State"], ["indevidamente", "Occurrence"], ["receber", "I_Action"], ["5.400", "Quantity"], ["euros", "State"], ["arguido", "State"], ["chefe", "State"], ["Núcleo", "State"], ["Investigação", "State"], ["Criminal", "State"], ["GNR", "State"], ["Porto", "State"], ["responsável", "State"], ["preenchimento", "State"], ["envio", "State"], ["processamento", "State"], ["mapas", "State"], ["novembro", "State"], ["outubro", "State"], ["2016", "State"], ["nome", "State"], ["beneficiário", "State"], ["suplemento", "State"], ["escala", "State"], ["direito", "State"], ["receber", "I_Action"], ["montante", "Quantity"], ["líquido", "State"], ["5.400,17", "Quantity"], ["euros", "State"], ["acusado", "State"], ["ter", "I_Action"], ["ordenado", "I_Action"], ["militares", "State"], ["efetivo", "State"], ["Núcleo", "State"], ["Investigação", "State"], ["Criminal", "State"], ["substituíssem", "I_Action"], ["execução", "State"], ["serviço", "State"], ["estava", "State"], ["escalado", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Task:
+Extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate the occurrence of an event.
+
+Example of event triggers:
+
+* "acusou" (accused)
+* "falsificou" (falsified)
+* "recebeu" (received)
+* "indevidamente" (unduly)
+* "ordenou" (ordered)
+* "substituíssem" (replaced)
+
+Please note that the event triggers may vary depending on the language and context.
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the event trigger and the second is the class.
+
+Example output:
+[["acusou", "I_Action"], ["falsificou", "Occurrence"], ["recebeu", "I_Action"], ["indevidamente", "Occurrence"], ["ordenou", "I_Action"], ["substituíssem", "I_Action"]]
+
+Please note that the output is in Portuguese.
+
+Constraints:
+
+* The input text is in Portuguese.
+* The event triggers should be extracted from the text and classified into the following classes:
+	+ I_Action (indicates an action or activity)
+	+ Occurrence (indicates an event or a situation)
+	+ State (indicates a state or a condition)
+	+ Quantity (indicates a quantity or a measure)
+* The classes should be represented as strings.
+* The output should be a JSON-parseable list.
+
+Note:
+This task is a simplified version of a natural language processing task. The goal is to extract and classify event triggers in a text, which can be useful in various applications such as text summarization, information retrieval, and machine translation.

@@ -1,0 +1,13 @@
+[
+["Saturday", "Set"],
+["48", "Duration"],
+["1980", "Date"],
+["May 26, 1980", "Date"],
+["six days", "Duration"],
+["54", "Duration"],
+["October 1984", "Date"],
+["77", "Duration"],
+["May 22, 1995", "Date"],
+["the following year", "Date"],
+["December", "Date"]
+]

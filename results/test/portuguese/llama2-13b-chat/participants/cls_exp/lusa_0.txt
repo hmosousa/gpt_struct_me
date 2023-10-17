@@ -1,0 +1,15 @@
+[["GNR", "Org"], ["festa ilegal", "Other"], ["50 pessoas", "Per"], ["em São Brás de Alportel", "Loc"], ["no sábado", "Other"], ["num bar em Corotelo", "Loc"], ["reunia", "Other"], ["cerca de 50 pessoas", "Per"], ["na sequência de uma denúncia", "Other"], ["a informar sobre", "Other"], ["uma festa com música ao vivo num estabelecimento de bebidas", "Other"], ["militares do Posto Territorial de São de Alportel", "Org"], ["deslocaram-se ao local", "Other"], ["para fiscalizar a ocorrência", "Other"], ["os militares desmobilizaram", "Other"], ["as pessoas para", "Other"], ["cumprimento das normas referentes à pandemia de covid-19", "Other"], ["na nota é ainda referido", "Other"], ["que", "Other"], ["o proprietário foi identificado", "Other"], ["e foi elaborado", "Other"], ["um auto de contraordenação", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

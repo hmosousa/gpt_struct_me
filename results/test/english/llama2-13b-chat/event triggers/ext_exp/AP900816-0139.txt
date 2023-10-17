@@ -1,0 +1,2 @@
+
+[ "travel", "war", "said", "called", "told", "threats", "restricted", "protect", "assure", "vowed", "urged", "denied", "cutbacks", "arrests", "patrolling" ]

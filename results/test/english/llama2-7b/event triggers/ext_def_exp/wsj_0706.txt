@@ -1,0 +1,42 @@
+["set", "sights", "buying", "second", "bank", "holding", "company", "signed", "letter", "intent", "purchase", "La", "Jolla", "agreeing", "pay", "stock", "current", "number", "La", "Jolla", "shares", "transaction", "value", "La", "Jolla", "Bank", "Trust", "Co", "Based", "Sept", "30", "assets", "million", "deposits", "Security", "Pacific", "among", "10", "largest", "completed", "San", "Diego", "based", "Southwest", "Bancorp"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has approved the sale of 100,000 tons of wheat to Iraq, the first such sale since the 1991 Persian Gulf War.
+The sale, which was announced by the U.S. Agriculture Department, is the first of several that the United States is expected to make to Iraq.
+The wheat will be shipped to Iraq in 2000, the department said.
+The United States has been trying to rebuild Iraq's economy since the war.
+The United States has also been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq's economy by selling it oil and gas.
+The United States has been trying to help Iraq

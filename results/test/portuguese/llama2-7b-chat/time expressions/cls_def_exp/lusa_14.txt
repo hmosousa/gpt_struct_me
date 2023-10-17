@@ -1,0 +1,6 @@
+[["em Dundo", "Location"], ["9 e 12 anos", "Age"], ["2 supostos traficantes", "Person"], ["Luanda", "Location"], ["terceira registada este ano", "Time"], ["julho", "Time"]]
+
+Note:
+* The input text is in Portuguese.
+* The output is a JSON-parseable list with two strings for each element. The first string is the entity and the second is the class.
+* The classes are: Location, Age, Person, and Time.

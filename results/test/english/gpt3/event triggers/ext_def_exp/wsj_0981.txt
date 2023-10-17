@@ -1,0 +1,1 @@
+["said", "disclosed", "announced", "would", "owned", "issued", "owned", "paid", "remaining", "acquired", "used", "cost", "added", "begin", "include", "marketed", "released", "show", "agreed", "buy", "pay", "have", "would", "need", "take", "cover", "set", "will", "rates", "didn't", "may", "found"]

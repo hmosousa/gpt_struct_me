@@ -1,0 +1,12 @@
+[["um homem", "Per"], ["morreu", "Per"], ["hoje", "Other"], ["em", "Loc"], ["Jesufrei", "Loc"], ["Vila Nova de Famalicão", "Loc"], ["trabalhava", "Per"], ["no telhado", "Fac"], ["segundo", "Other"], ["a fonte", "Org"], ["a vítima", "Per"], ["teria", "Other"], ["entre", "Other"], ["60 e 65 anos", "Other"], ["sofreu", "Other"], ["uma queda", "Other"], ["de", "Other"], ["cerca", "Other"], ["oito metros", "Other"], ["de altura", "Other"], ["o alerta", "Other"], ["foi", "Other"], ["dado", "Other"], ["pelas", "Other"], ["15:30", "Other"], ["tendo", "Other"], ["o óbito", "Other"], ["declarado", "Other"], ["no local", "Other"], ["Para", "Other"], ["o socorro", "Other"], ["foi", "Other"], ["mobilizada", "Other"], ["uma viatura médica", "Other"], ["de emergência", "Other"], ["e reanimação", "Other"], ["VMER", "Org"], ["além", "Other"], ["dos bombeiros", "Org"], ["num", "Other"], ["total", "Other"], ["seis homens", "Per"], ["e", "Other"], ["três viaturas", "Other"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Other: Other
+* Loc: Location
+* Fac: Facility
+* Org: Organization
+
+The task is to extract and classify all participants in the input text. The participants can be people, organizations, locations, facilities, or other entities. The output should be a list of lists, where each inner list contains two strings: the entity and the class.

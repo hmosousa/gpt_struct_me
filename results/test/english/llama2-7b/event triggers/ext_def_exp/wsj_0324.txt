@@ -1,0 +1,14 @@
+["completed", "acquisition", "agreed", "completed", "acquisition", "brings", "together", "competitors", "now", "reaches", "young", "fast", "growing", "control", "them", "among", "video", "shopping", "market", "sales", "14", "billion"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 Monday that the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The decision was a victory for the state of Pennsylvania, which had argued that the procedure was necessary to protect the woman's health.
+The court said the state could require the procedure only if the woman's life was in danger.
+The court's decision was a victory for the state of Pennsylvania, which had argued that the procedure was necessary to protect the woman's health.
+The court said the state could require the procedure only if the woman's life was in danger."
+
+Output:
+["ruling", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "victory", "decision", "

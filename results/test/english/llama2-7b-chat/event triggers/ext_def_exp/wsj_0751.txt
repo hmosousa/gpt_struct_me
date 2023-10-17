@@ -1,0 +1,26 @@
+[
+"cleared",
+"acquire",
+"Starpointe",
+"Somerset",
+"approved",
+"plan",
+"holders",
+"receive",
+"cash",
+"share",
+"total",
+"63 million",
+"yesterday",
+"must",
+"at least",
+"30 days",
+"purchase",
+"closing date",
+"agreed",
+"transaction",
+"August",
+"1988"]
+
+Format:
+JSON-parseable list of strings.

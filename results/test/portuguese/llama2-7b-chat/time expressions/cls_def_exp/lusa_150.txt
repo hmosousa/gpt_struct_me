@@ -1,0 +1,1 @@
+[["em seis meses", "Duration"], ["hoje", "Date"], ["hoje", "Date"], ["25 de março", "Date"], ["outubro", "Date"], ["200 detidos libertados", "Set"], ["não sofri nenhuma violência", "Set"]]

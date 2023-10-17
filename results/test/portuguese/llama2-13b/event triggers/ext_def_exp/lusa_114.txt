@@ -1,0 +1,4 @@
+["entregues", "clínica", "hotéis", "Torres", "edifício", "Luanda Medical Center", "LMC", "situado", "Rua Amílcar Cabral", "Ingombota", "entrega", "financiados", "fundos públicos", "Instituto Nacional de Segurança Social", "gestão", "empresas privadas", "contrapartida", "Estado", "entrega", "imediata", "definitiva", "irrevogável", "património imobiliário", "clínica Luanda Medical Center", "medidas", "normal funcionamento"]
+
+Reference:
+https://www.acloud.guru/pt-br/nltk.html

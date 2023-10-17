@@ -1,0 +1,27 @@
+["deteve", "casal", "suspeito", "matar", "mulher", "Braga", "lhe", "ficar", "casa", "Polícia", "Judiciária", "deteve", "elemento", "casal", "amorosa", "vítima", "objetivo", "crime", "apropriação", "bens", "terá", "assassinada", "freguesia", "concelho", "caminho", "indiciados", "prática", "homicídio", "qualificado", "profanação", "cadáver", "burla", "informática", "furto", "presentes", "tribunal", "primeiro", "interrogatório", "judicial", "aplicação", "medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ deteve casal suspeito de matar uma mulher em Braga para lhe ficar com a casa
+A Polícia Judiciária (PJ) deteve um casal suspeito de matar uma mulher de 69 anos em Braga, para obtenção e apropriação de bens patrimoniais da vítima, disse hoje fonte daquela força à Lusa.
+Segundo a fonte, o elemento masculino do casal teria uma relação amorosa com a vítima.
+“O objetivo do crime terá sido a apropriação dos bens que a vítima tinha consigo e ainda da casa que lhe pertencia”, acrescentou.
+A vítima, de 69 anos, terá sido assassinada, numa freguesia urbana de Braga, “através do uso de força física” e o corpo transportados pelos suspeitos até Dume, no mesmo concelho, onde foi abandonado num caminho.
+Os detidos, ele de 61 anos e ela de 48 anos, moram na cidade de Braga.
+Estão indiciados da prática de crimes de homicídio qualificado, profanação de cadáver, burla informática e furto.
+Vão ser presentes a tribunal para primeiro interrogatório judicial e aplicação das respetivas medidas de coação."
+
+Output:
+["deteve", "casal", "suspeito", "matar", "mulher", "Braga", "lhe", "ficar", "casa", "Polícia", "Judiciária", "deteve", "elemento", "casal", "amorosa", "vítima", "objetivo", "crime", "apropriação", "bens", "terá", "assassinada", "freguesia", "concelho", "caminho", "indiciados", "prática", "homicídio", "qualificado", "profanação", "cadáver", "burla", "informática", "furto", "presentes", "tribunal", "primeiro", "interrogatório", "judicial", "aplicação", "medidas", "coação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ deteve casal suspeito de matar uma mulher em Braga para lhe ficar com a casa
+A Polícia Judiciária (PJ) deteve um casal suspeito de matar uma mulher de 69 anos em Braga, para obtenção e apropriação de bens patrimoniais da vítima, disse hoje fonte daquela força à Lusa.
+Segundo a fonte, o elemento masculino do casal teria uma relação amorosa com a vítima.
+“O objetivo do crime terá sido a apropriação dos bens que a vítima tinha consigo e ainda da casa que lhe pertencia”, acrescentou.
+A vítima, de 69 anos, terá sido assassinada, numa freguesia urbana de Braga, “através do uso de força física” e o corpo transportados pelos suspeitos até Dume, no mesmo concel

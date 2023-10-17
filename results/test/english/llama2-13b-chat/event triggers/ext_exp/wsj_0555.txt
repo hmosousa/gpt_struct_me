@@ -1,0 +1,15 @@
+[
+"holders",
+"face amount",
+"convertible subordinated debentures",
+"March 15, 2007",
+"conversion price",
+"share",
+"represent",
+"face amount",
+"hardware products",
+"home repair market"
+]
+
+Note:
+The output is a list of strings, where each string is a word or phrase from the input text. The order of the strings is the same as the order in which the words and phrases appear in the input text. The output is JSON-parseable, meaning that it can be easily converted into a JSON object.

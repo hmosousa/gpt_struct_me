@@ -1,0 +1,21 @@
+["Covid-19: Morreu o opositor do Governo do Mali Soumaila Cissé", "O principal opositor do Governo do Mali", "Soumaila Cissé", "que foi mantido em cativeiro durante seis meses por ‘jihadistas’", "morreu hoje em França", "aos 71 anos", "devido ao novo coronavírus", "anunciaram a família", "e o seu partido", "Soumaila Cissé, líder da oposição do Mali", "morreu hoje em França", "para onde foi transferido para tratamento contra a covid-19", "diz uma", "uma", "a AFP", "a AFP", "uma", "a URD", "Figura da oposição do Mali", "Soumaila Cissé", "sequestrado no dia 25 de março", "fazia campanha para as eleições legislativas", "na região de Tumbuktu (Noroeste)", "liberto em outubro", "depois de seis meses de cativeiro", "às mãos de ‘jihadistas’", "ao mesmo tempo que a francesa Sophie Pétronin", "e dois italianos", "em troca de 200 detidos libertados", "Não sofri nenhuma violência", "nem física nem verbal", "Soumaila Cissé, engenheiro de computação", "ficou em segundo lugar em três eleições presidenciais"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam 1.794 casos de coronavírus
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de acordo com o Departamento de Saúde de Nova Iorque.
+A cidade de Nova Iorque é o epicentro do coronavírus nos Estados Unidos, com 1.794 casos confirmados e 11 mortes.
+A cidade de Nova Iorque é o epicentro do coronavírus nos Estados Unidos, com 1.794 casos confirmados e 11 mortes.
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de acordo com o Departamento de Saúde de Nova Iorque.
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de acordo com o Departamento de Saúde de Nova Iorque.
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de acordo com o Departamento de Saúde de Nova Iorque.
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de acordo com o Departamento de Saúde de Nova Iorque.
+Autoridades de Nova Iorque anunciaram hoje 1.794 casos de coronavírus, um aumento de 1.000 casos em relação às 794 casos confirmados no dia anterior.
+O número de mortes por coronavírus subiu para 11, de ac

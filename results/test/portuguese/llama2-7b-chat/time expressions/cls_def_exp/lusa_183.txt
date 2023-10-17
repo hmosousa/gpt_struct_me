@@ -1,0 +1,28 @@
+[["homem", "Person"], ["fica", "Duration"], ["pulseira eletrónica", "Time"], ["amenaçar", "Time"], ["perseguir", "Time"], ["Vila Nova de Gaia", "Location"], ["GNR", "Organization"]]
+
+Explanation:
+
+In this task, we are given a text and we need to extract and classify all time expressions found in it. Time expressions are linguistic elements that allow us to communicate information about time, such as dates, times, durations, and sets.
+The input text is a news article about a man who was caught for threatening and persecuting his ex-girlfriend in Gaia. The text includes information about the man's age, criminal record, and the restrictions imposed on him by the electronic anklet.
+We extracted the following time expressions from the text:
+* "em menos de uma semana" (Duration) - "less than a week"
+* "sábado" (Date) - "Saturday"
+* "sábado" (Date) - "Saturday"
+* "setembro" (Time) - "September"
+* "final do ano" (Time) - "end of the year"
+* "menos de uma semana" (Duration) - "less than a week"
+* "30 nov 2020" (Date) - "November 30, 2020"
+* "época de veda" (Time) - "fishing season"
+* "épocas de veda" (Time) - "fishing seasons"
+
+We classified each time expression according to its type:
+* "em menos de uma semana" is a duration expression.
+* "sábado" is a date expression.
+* "setembro" is a time expression.
+* "final do ano" is a time expression.
+* "menos de uma semana" is a duration expression.
+* "30 nov 2020" is a date expression.
+* "época de veda" is a time expression.
+* "épocas de veda" is a time expression.
+
+Note that some time expressions can have multiple classifications, depending on the context in which they are used. For example, "setembro" can be classified as both a time expression and a date expression, depending on the context in which it is used.

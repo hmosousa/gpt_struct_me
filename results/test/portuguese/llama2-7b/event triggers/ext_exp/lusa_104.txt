@@ -1,0 +1,27 @@
+["mortos", "ataque", "hipopótamo", "durante", "travessia", "rio", "província", "angolana", "Bié", "Três", "pessoas", "município", "Camacupa", "provincia", "angolana", "Bié", "morte", "sofreu", "artesanal", "embarcação", "oito", "sofreu", "ataque", "mamífero", "sobreviventes", "sofreu", "ataque", "dado", "conhecido", "administrador", "comunal", "Muinha", "Baptista", "Sambango", "incidente", "registou", "travessia", "rio", "população"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 56 milhões de pessoas estão em quarentena em 28 províncias e regiões, enquanto 44 milhões estão em quarentena em 13 cidades.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a doença foi descoberta, e em outras cidades da província de Hubei.
+A China, que tem 1,4 bilhões de habitantes, tem 1.118 casos confirmados de covid-19, com 42 mortes.
+A maioria dos casos está em Wuhan, a cidade onde a do

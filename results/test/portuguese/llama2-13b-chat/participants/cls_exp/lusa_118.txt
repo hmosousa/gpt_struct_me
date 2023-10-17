@@ -1,0 +1,16 @@
+[["António Costa", "Per"], ["Emmanuel Macron", "Per"], ["Covid-19", "Nat"], ["o Palácio do Eliseu", "Loc"], ["as autoridades de saúde", "Org"], ["a deslocação a São Tomé e Príncipe e Guiné Bissau", "Loc"], ["a agenda pública", "Org"], ["a sua presença física", "Other"], ["a atividade executiva", "Org"], ["a agenda de trabalho", "Org"], ["o primeiro-ministro", "Per"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Nat" stands for "Nature"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other"
+
+Hint:
+
+* The first element of each list is the name of the entity.
+* The second element of each list is the class of the entity.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.

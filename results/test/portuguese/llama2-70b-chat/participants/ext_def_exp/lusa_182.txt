@@ -1,0 +1,15 @@
+["um homem de Amarante", "a sua mulher", "a vítima", "a filha comum", "outros familiares", "a GNR", "o arguido", "o Tribunal de Instrução Criminal", "a vítima", "a filha", "a residência", "a vítima", "a filha", "o agressor", "a Geórgia", "que"]
+
+Please note that the input text is in Portuguese, and the output should be in English.
+
+This task is similar to the previous one, but with a different focus. Instead of extracting entities, we are now interested in extracting participants. Participants are individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They can take on various roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
+
+The input text is a news article about a man who was arrested for domestic violence. The article mentions the victim, the perpetrator, and the authorities involved in the case.
+
+The output should be a list of strings, where each string represents a participant in the situation. The list should include the victim, the perpetrator, the authorities, and any other individuals or groups that are relevant to the case.
+
+Here is an example output for the given input text:
+
+["the victim", "the perpetrator", "the authorities", "the GNR", "the Tribunal de Instrução Criminal", "the vítima", "a filha comum", "outros familiares"]
+
+Note that some participants may be mentioned multiple times in the input text, but they should only appear once in the output list. Additionally, the output list should be in English, even if the input text is in another language.

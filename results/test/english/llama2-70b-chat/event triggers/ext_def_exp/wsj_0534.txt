@@ -1,0 +1,1 @@
+["calling", "redemption", "remaining", "outstanding", "convertible", "terminate", "stock", "rate", "conversion", "price", "trading", "closed", "down"]

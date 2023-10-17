@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["hoje", "Date"], ["hora 13:55", "Time"], ["Hospital de Braga", "Location"], ["Hospital de Viana do Castelo", "Location"], ["São Paio e Giela", "Location"], ["fechadas ao trânsito", "Duration"], ["30 nov 2020", "Date"]]

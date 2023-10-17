@@ -1,0 +1,27 @@
+["Total Assets Protection Inc.", "rebounding from its earlier loss", "expects to report earnings from operations of about $200,000 for the third quarter", "J.C. Matlock", "chairman", "Net income includes an extraordinary gain of about $100,000 from the reversal of bad debt and interest income", "revenue was about $4.5 million", "In the 1988 third quarter", "the company posted a net loss of $876,706, or 22 cents a share", "Total Assets plans and designs computer centers", "computer security systems", "computer backup systems"]
+
+Input:
+"The 1998-99 budget for the U.S. Department of Agriculture is $58.5 billion, an increase of $1.5 billion over the 1997-98 budget.
+The budget includes $1.5 billion for the Commodity Credit Corporation, which is used to support farm income and prices.
+The budget also includes $1.5 billion for the Food for Peace program, which provides food aid to developing countries.
+The budget includes $1.5 billion for the Special Supplemental Nutrition Program for Women, Infants and Children, which provides nutrition assistance to low-income pregnant women and children.
+The budget includes $1.5 billion for the National School Lunch Program, which provides free or reduced-price lunches to low-income children.
+The budget includes $1.5 billion for the Special Supplemental Nutrition Program for the Elderly, which provides nutrition assistance to low-income elderly people.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers' Market Nutrition Program, which provides nutrition education and food vouchers to low-income pregnant women and children.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers' Market Nutrition Program, which provides nutrition education and food vouchers to low-income pregnant women and children.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers' Market Nutrition Program, which provides nutrition education and food vouchers to low-income pregnant women and children.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers' Market Nutrition Program, which provides nutrition education and food vouchers to low-income pregnant women and children.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers' Market Nutrition Program, which provides nutrition education and food vouchers to low-income pregnant women and children.
+The budget includes $1.5 billion for the Emergency Food Assistance Program, which provides emergency food assistance to low-income people in the United States.
+The budget includes $1.5 billion for the Food Stamp Program, which provides food assistance to low-income people.
+The budget includes $1.5 billion for the WIC Farmers'

@@ -1,0 +1,18 @@
+[
+"began",
+"$37-a-share",
+"tender offer",
+"all",
+"common shares outstanding",
+"incorporated",
+"The Wall Street Journal",
+"scheduled",
+"end of November",
+"owns",
+"pursuant to",
+"agreement",
+"between",
+"companies"]
+
+Format:
+JSON-parseable list of strings.

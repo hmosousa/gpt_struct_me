@@ -1,0 +1,9 @@
+[
+["Friday", "Date"],
+["Oct. 15, 1999", "Date"],
+["Thursday", "Date"],
+["Nov. 1, 2009", "Date"],
+["1999", "Date"],
+["10-year", "Duration"],
+["Nov. 17, 1992", "Date"]
+]

@@ -1,0 +1,14 @@
+[["Alex Apolinário", "I_Person"], ["em estado grave", "State"], ["paragem cardiorrespiratória", "Occurrence"], ["sofrer", "Occurrence"], ["domingo", "Time"], ["jogo", "Occurrence"], ["Alverca - União de Almeirim", "Occurrence"], ["chegou", "Aspectual"], ["mensagens", "Reporting"], ["profissionais de saúde", "Reporting"], ["atletas", "Reporting"], ["instituições", "Reporting"], ["adeptos", "Reporting"], ["gigantesca demonstração", "Aspectual"], ["apreço pela vida humana", "Aspectual"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Alex Apolinário") and the second string is the class label (e.g. "I_Person"). The classes are:
+
+* I_Action: for actions and events that involve an action or a change in state
+* I_State: for states and conditions that hold over time
+* Occurrence: for events and occurrences that happen at a specific time or during a specific period
+* Reporting: for information that is reported or described in the text
+* Aspectual: for aspects or properties of entities or events that are described in the text
+* Intensional Action: for actions and events that have a specific goal or intention
+* Intensional State: for states and conditions that have a specific goal or intention
+
+Your task is to extract and classify all event triggers in the input text using the above classes.

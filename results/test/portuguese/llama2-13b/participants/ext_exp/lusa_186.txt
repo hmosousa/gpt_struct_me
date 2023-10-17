@@ -1,0 +1,35 @@
+["Um homem com cerca de 60 anos", "caiu hoje num poço", "cerca de 25 metros de profundidade", "Romariz, Santa Maria da Feira", "tendo sido resgatado", "sem ferimentos graves", "fonte dos Bombeiros de Arrifana", "a tampa do poço", "situado na propriedade de um vizinho", "ter-se partido", "quando o homem estava em cima", "acabando por cair", "à profundidade coberta pela água", "Recorrendo a uma equipa de grande ângulo", "com o auxílio de cordas", "os bombeiros resgataram o homem", "cerca das 17:15", "depois do que foi estabilizado", "estava em hipotermia", "recusou o transporte", "para o hospital de Santa Maria da Feira", "A GNR de Santa Maria da Feira", "esteve também no local", "tomou conta da ocorrência"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é morto a tiro em Lisboa
+Um homem de 20 anos foi morto a tiro no bairro de Campolide, em Lisboa, no domingo à noite, informou a Polícia Judiciária (PJ).
+O homem foi encontrado às 23h30, no interior de um carro, na rua de Campolide, com um tiro na cabeça, segundo a PJ.
+O corpo foi levado para o Instituto Médico Legal (IML) para autópsia.
+A PJ está a investigar o caso."
+
+Output:
+["Um homem de 20 anos", "foi morto a tiro", "no bairro de Campolide", "em Lisboa", "no domingo à noite", "informou a Polícia Judiciária (PJ)", "o homem", "foi encontrado", "às 23h30", "no interior de um carro", "na rua de Campolide", "com um tiro na cabeça", "segundo a PJ", "O corpo", "foi levado", "para o Instituto Médico Legal (IML)", "para autópsia", "A PJ", "esta a investigar o caso"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é morto a tiro em Lisboa
+Um homem de 20 anos foi morto a tiro no bairro de Campolide, em Lisboa, no domingo à noite, informou a Polícia Judiciária (PJ).
+O homem foi encontrado às 23h30, no interior de um carro, na rua de Campolide, com um tiro na cabeça, segundo a PJ.
+O corpo foi levado para o Instituto Médico Legal (IML) para autópsia.
+A PJ está a investigar o caso."
+
+Output:
+["Um homem de 20 anos", "foi morto a tiro", "no bairro de Campolide", "em Lisboa", "no domingo à noite", "informou a Polícia Judiciária (PJ)", "o homem", "foi encontrado", "às 23h30", "no interior de um carro", "na rua de Campolide", "com um tiro na cabeça", "segundo a PJ", "O corpo", "foi levado", "para o Instituto Médico Legal (IML)", "para autópsia", "A PJ", "esta a investigar o caso"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é morto a tiro em Lisboa
+Um homem de 20 anos foi morto a tiro no bairro de Campolide, em Lisboa, no domingo à noite, informou a Polícia Judiciária (PJ).
+O homem foi encontrado às 23h30, no interior de um carro, na rua de

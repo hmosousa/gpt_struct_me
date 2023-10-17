@@ -1,0 +1,8 @@
+[["morre", "I_Action"], ["vítima", "State"], ["colisão", "Occurrence"], ["registada", "Occurrence"], ["hoje", "Aspectual"], ["indicou", "Reporting"], ["fonte", "Reporting"], ["do", "Pronoun"], ["Comando", "Organization"], ["Distrital", "Adjective"], ["de", "Preposition"], ["Operações", "Noun"], ["de", "Preposition"], ["Socorros", "Noun"], ["do", "Pronoun"], ["Braga", "Location"], ["do", "Pronoun"], ["Bombeiros", "Organization"], ["Voluntários", "Noun"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "morre", "vítima", "colisão") and the second string is the class label (e.g. "I_Action", "State", "Occurrence").
+
+I have tried using the Stanford CoreNLP tool to extract the events and their corresponding classes, but I am not getting the desired output. I have also tried using the spaCy library, but I am not able to get the correct classes for the events.
+
+Can you please help me with this task? I would greatly appreciate any guidance or resources you can provide. Thank you!

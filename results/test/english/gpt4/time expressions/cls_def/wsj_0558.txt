@@ -1,0 +1,14 @@
+[
+["third-quarter", "Date"],
+["Last year", "Date"],
+["The year-earlier", "Date"],
+["nearly two weeks ago", "Date"],
+["Friday", "Date"],
+["the latest quarter", "Date"],
+["last year", "Date"],
+["nearly three years", "Duration"],
+["Third-quarter", "Date"],
+["August", "Date"],
+["the nine months", "Duration"],
+["last year", "Date"]
+]

@@ -1,0 +1,1 @@
+[["Friday", "Date"], ["February 1947", "Date"]]

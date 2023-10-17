@@ -1,0 +1,22 @@
+[
+["January", "Date"],
+["Friday", "Date"],
+["last month", "Date"],
+["the third consecutive month", "Duration"],
+["4.7 percent last month", "Date"],
+["a year earlier", "Date"],
+["the last decade", "Duration"],
+["in coming months", "Duration"],
+["Aug. 6", "Date"],
+["30-year", "Duration"],
+["the last four months", "Duration"],
+["the last three months", "Duration"],
+["the first nine months of 1997", "Date"],
+["the last few months", "Duration"],
+["Friday", "Date"],
+["January", "Date"],
+["last month", "Date"],
+["4.1 percent in December", "Date"],
+["the first time", "Set"],
+["in January", "Date"]
+]

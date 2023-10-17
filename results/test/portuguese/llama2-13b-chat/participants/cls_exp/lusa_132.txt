@@ -1,0 +1,15 @@
+[["um homem", "Per"], ["de 47 anos", "Per"], ["ex-companheira", "Per"], ["no concelho de Belmonte", "Loc"], ["violência doméstica", "Nat"], ["os militares", "Org"], ["a vítima", "Per"], ["de 33 anos", "Per"], ["escalada do comportamento violento", "Other"], ["devido ao consumo abusivo de álcool", "Other"], ["dois", "Other"], ["buscas domiciliárias", "Loc"], ["apreendidas", "Other"], ["três", "Other"], ["carabinas de ar comprimido", "Obj"], ["uma caçadeira", "Obj"], ["uma reprodução de arma de fogo", "Obj"], ["uma pistola de ar comprimido", "Obj"], ["uma faca de ponta e mola", "Obj"], ["diversas munições de diferentes calibres", "Obj"], ["o suspeito", "Per"], ["constituído arguido", "Other"], ["os factos", "Other"], ["remetidos para o Tribunal Judicial da Covilhã", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Nat" stands for "Nature"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

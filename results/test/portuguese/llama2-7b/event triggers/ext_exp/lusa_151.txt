@@ -1,0 +1,17 @@
+["illegaliza", "radical", "islâmico", "indonésio", "FPI", "Indonésia", "illegalizou", "grupo", "muçulmano", "responsável", "atos", "vandalismo", "embaixadas", "ocidentais", "locais", "culto", "islâmicos", "governo", "Jacarta", "proibiu", "símbolos", "Governo", "implementada", "lei", "sharia", "população", "nos", "ultimos", "anos", "alargado", "influência", "população", "grandes", "protestos", "2016", "2017", "governador", "cristão", "entregou-se", "autoridades", "início", "mês", "dezembro", "acusado", "incitar", "população", "violar", "restrição", "impostas", "Governo", "travar", "pandemia", "covid-19", "país", "líder", "organização", "manifestações"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, incluindo a capital, Pequim.
+A medida é uma das maiores empreitadas de quarentena já feitas, e a maioria dos casos de covid-19 no país foram confirmados em Pequim.
+A China também anunciou que 1.000 pessoas foram infectadas com o novo coronavírus, o que significa que a taxa de mortalidade é de 1%.
+A China já havia fechado a maioria dos estabelecimentos comerciais e de lazer, e hoje anunciou que os trabalhadores não poderão deixar a casa, exceto para comprar alimentos e medicamentos.
+A medida é uma das maiores empreitadas de quarentena já feitas, e a maioria dos casos de covid-19 no país foram confirmados em Pequim.
+A China também anunciou que 1.000 pessoas foram infectadas com o novo coronavírus, o que significa que a taxa de mortalidade é de 1%.
+A China já havia fechado a maioria dos estabelecimentos comerciais e de lazer, e hoje anunciou que os trabalhadores não poderão deixar a casa, exceto para comprar alimentos e medicamentos."
+
+Output:
+["anunciou", "100", "milhões", "quarentena", "China", "anunciou", "100", "milhões", "quarentena", "28", "províncias", "regiões", "incluindo", "capital", "Pequim", "medida", "maiores", "empreitadas", "quarentena", "feitas", "maioria", "confirmados", "covid-19", "país", "infectadas", "novo", "coronavírus", "taxas", "mortalidade", "1%", "fechou", "maioria", "estabelecimentos", "comerciais", "lazer", "anunciou", "quarentena", "quarentena", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "foi", "

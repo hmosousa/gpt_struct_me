@@ -1,0 +1,1 @@
+["Friday", "May", "last May", "Thursday", "next week", "Friday", "1998"]

@@ -1,0 +1,1 @@
+["$1", "$2", "$2.50", "$500,000", "$1 million", "Haden", "MacLellan", "McAlpine", "Meridian", "National", "Ohio-based", "Surrey", "Toledo", "William"]

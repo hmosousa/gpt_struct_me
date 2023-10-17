@@ -1,0 +1,39 @@
+["definitively", "agreed", "buy", "all", "publicly", "held", "shares", "Erbamont", "Montedison", "now", "owns", "about", "72", "outstanding", "companies", "accord", "unanimously", "special", "committee", "directors", "unaffiliated", "Montedison", "pact", "tender", "offer", "followed", "sale", "assets", "liabilities", "liquidated", "distribution", "transaction", "structured", "provide", "merger", "laws", "Netherlands", "Antilles"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court ruled 5-4 that the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo a medical procedure to end her pregnancy.
+The court said the government can't force a woman to undergo

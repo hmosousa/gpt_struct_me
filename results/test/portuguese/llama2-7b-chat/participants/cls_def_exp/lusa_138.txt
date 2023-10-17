@@ -1,0 +1,1 @@
+[["GNR", "Org"], ["um homem", "Per"], ["50 anos", "Age"], ["73 anos", "Age"], ["Gondomar", "Loc"], ["distrito do Porto", "Loc"], ["uma denúncia", "Event"], ["um crime de violência doméstica", "Event"], ["armas brancas", "Obj"], ["frisou", "Other"], ["Tribunal Judicial do Porto", "Org"], ["sábado", "Date"]]

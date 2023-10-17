@@ -1,0 +1,13 @@
+["hoje", "14:28", "30 nov 2020"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of a JSON-parseable list of strings.
+* The time expressions can be in different formats, such as "hoje", "sábado", "setembro", "final do ano", etc.
+* The task is to extract all time expressions from the input text, regardless of their format.
+* The output should be a list of strings, with each string representing a time expression.
+* The list should be in JSON format, which means that it should be surrounded by square brackets and each element should be separated by a comma.
+* The output should be parseable by JSON, which means that it should follow the syntax rules of JSON.
+* The input text may contain other information besides time expressions, such as names, locations, and descriptions.
+* The task is to extract only the time expressions from the input text, and not any other information.

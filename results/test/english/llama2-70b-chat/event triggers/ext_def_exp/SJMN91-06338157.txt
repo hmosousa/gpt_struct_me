@@ -1,0 +1,1 @@
+["informed", "lost", "told", "alienated", "doubt", "suggestion", "offer", "prove", "remain", "survives", "waiting", "see", "calling", "met", "sketched", "problems", "encountering", "told", "started", "calling", "asking", "fired", "met", "outcome", "unclear"]

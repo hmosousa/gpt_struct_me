@@ -1,0 +1,20 @@
+[["sofre", "I_Action"], ["queimaduras", "State"], ["terceiro grau", "State"], ["membros", "State"], ["superiores", "State"], ["inferiores", "State"], ["incêndio", "Occurrence"], ["sua casa", "State"], ["Arcozelo", "State"], ["Vila Nova de Gaia", "State"], ["Lusa", "State"], ["fonte", "State"], ["Sapadores", "State"], ["local", "State"], ["combate", "Occurrence"], ["chamas", "Occurrence"], ["cozinha", "State"], ["casa", "State"], ["Bombeiros", "State"], ["Aguda", "State"], ["Centro Hospitalar", "State"], ["Vila Nova de Gaia/Espinho", "State"], ["conduzido", "I_Action"], ["incêndio", "Occurrence"], ["extinto", "Occurrence"], ["Proteção Civil", "State"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* State: refers to any state, situation or condition.
+* Occurrence: refers to any occurrence, incident, action or event.
+* Reporting: refers to any reporting, description or explanation.
+* Perception: refers to any perception, understanding or interpretation.
+* Aspectual: refers to any aspectual information, such as the time when an event occurred.
+* Intensional Action: refers to any action that is intended or planned.
+* Intensional State: refers to any state that is intended or planned.
+
+The input text is in Portuguese.
+
+Note that the output format is a JSON-parseable list, so you can directly use it in your JSON-based project.
+
+Please extract and classify all event triggers in the given text.

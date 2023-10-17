@@ -1,0 +1,1 @@
+["now", "Monday", "Friday", "Wednesday", "Thursday", "Tuesday", "Saturday", "Sunday", "current visit", "close friend", "virtually alone", "last week", "Pan Am flight one oh three"]

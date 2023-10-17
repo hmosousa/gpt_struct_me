@@ -1,0 +1,1 @@
+["segunda-feira", "terça-feira", "manhã", "15:40", "17:00", "29 operacionais", "nove viaturas"]

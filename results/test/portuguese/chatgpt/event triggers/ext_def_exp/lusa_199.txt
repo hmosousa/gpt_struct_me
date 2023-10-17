@@ -1,0 +1,1 @@
+["morre", "cair", "limpar", "caído", "compareceram"]

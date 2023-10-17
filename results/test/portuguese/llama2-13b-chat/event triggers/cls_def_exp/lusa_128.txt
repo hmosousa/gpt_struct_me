@@ -1,0 +1,12 @@
+[["GNR", "I_Action"], ["apreendeu", "I_Action"], ["caçadeira", "Occurrence"], ["pistola", "Occurrence"], ["armas de ar comprimido", "Occurrence"], ["coldre", "Occurrence"], ["denúncia", "Occurrence"], ["violência doméstica", "Occurrence"], ["crime", "Occurrence"], ["coação psicológica", "Occurrence"], ["companheiro", "I_Person"], ["homem", "I_Person"], ["local", "Location"], ["vítima", "I_Person"], ["Tribunal Judicial", "Location"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR", "caçadeira", etc.) and the second string is the class (e.g. "I_Action", "Occurrence", etc.).
+
+I need to extract and classify all event triggers in the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. The classes are the categories that the event triggers belong to, such as "State", "Occurrence", "Reporting", etc.
+
+For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null].
+
+The classes are "State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", and "Intensional State".
+
+Can you help me with this task?

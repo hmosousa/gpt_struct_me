@@ -1,0 +1,27 @@
+["homem", "morto", "hoje", "manhã", "automóvel", "Carreiras", "concelho", "Portalegre", "fonte", "GNR", "alerta", "militares", "constataram", "Polícia Judiciária", "investigar", "caso", "fonte", "força", "segurança", "vivia", "visto", "lugar", "fonte", "Comando Distrital", "Operações", "Socorro", "Portalegre", "declarou", "encaminhado", "servico", "Medicina Legal", "hospital"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 61 anos encontrado morto dentro de automóvel em Portalegre
+Um homem de 61 anos foi encontrado morto hoje de manhã dentro do seu automóvel em Carreiras, no concelho de Portalegre, disse à agência Lusa fonte da GNR.
+Segundo a mesma fonte, o alerta para a GNR foi dado cerca das 07:00, após o homem ter sido visto por populares, no interior do seu veículo, alegadamente sem vida.
+Os militares da GNR que foram ao local constataram que o homem tinha ferimentos na cara, tendo sido solicitada a intervenção da Polícia Judiciária, que está a investigar o caso, adiantou a fonte da força de segurança.
+De acordo com a fonte da guarda, o homem, natural e residente em Carreiras, vivia sozinho e tinha sido visto com vida, naquela localidade, no domingo, entre as 20:00 e as 21

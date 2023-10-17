@@ -1,0 +1,7 @@
+[
+["Friday", "Date"],
+["15 miles", "Duration"],
+["10 p.m. Wednesday", "Time"],
+["noon Thursday", "Time"],
+["recent years", "Duration"]
+]

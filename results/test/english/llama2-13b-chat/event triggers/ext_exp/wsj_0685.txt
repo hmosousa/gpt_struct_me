@@ -1,0 +1,9 @@
+["CNW", "acquisition", "company", "completed", "merger", "subsidiary", "Chicago", "North", "Western", "Holdings", "Corp", "investors", "Blackstone", "Capital", "Partners", "Limited", "Partnership", "share", "about", "million"]
+
+Note:
+The output should be a JSON-parseable list of strings.
+
+Hint:
+You can use the built-in functions of JavaScript to achieve this task.
+
+Please let me know if you have any questions or need further clarification.

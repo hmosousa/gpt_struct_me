@@ -1,0 +1,13 @@
+[
+["Friday", "Date"],
+["centuries", "Duration"],
+["since the breakup of the Soviet Union", "Date"],
+["last May", "Date"],
+["at least 20 more years", "Duration"],
+["Last year", "Date"],
+["for the foreseeable future", "Duration"],
+["Kuchma's four-day state visit", "Duration"],
+["a 10-year economic program", "Duration"],
+["last year", "Date"],
+["dlrs 2.5 billion from 1996", "Date"]
+]

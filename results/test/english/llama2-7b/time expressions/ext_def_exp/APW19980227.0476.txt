@@ -1,0 +1,79 @@
+["THE HAGUE, Netherlands (AP)_ The World Court Friday rejected U.S. and British objections to a Libyan World Court case that has blocked the trial of two Libyans suspected of blowing up a Pan Am jumbo jet over Scotland in 1988. Libya, which brought the case to the United Nations' highest judicial body in its dispute with the United States and Britain, hailed the ruling and said it would press anew for a trial in a third neutral country. Both U.S. and British officials filed objections to the court's jurisdiction in 1995, claiming Security Council resolutions imposed on Lybia to force the suspects' extradition overruled a 1971 Convention which gives Libya the right to try the men. The decision, 3rd graf pvs."]
+
+Explanation:
+
+Time expressions are extracted by using the following rules:
+
+1. If the sentence contains a time expression, then the sentence is returned.
+
+2. If the sentence contains a time expression and a date, then the sentence is returned.
+
+3. If the sentence contains a time expression and a date, then the sentence is returned.
+
+4. If the sentence contains a time expression and a date, then the sentence is returned.
+
+5. If the sentence contains a time expression and a date, then the sentence is returned.
+
+6. If the sentence contains a time expression and a date, then the sentence is returned.
+
+7. If the sentence contains a time expression and a date, then the sentence is returned.
+
+8. If the sentence contains a time expression and a date, then the sentence is returned.
+
+9. If the sentence contains a time expression and a date, then the sentence is returned.
+
+10. If the sentence contains a time expression and a date, then the sentence is returned.
+
+11. If the sentence contains a time expression and a date, then the sentence is returned.
+
+12. If the sentence contains a time expression and a date, then the sentence is returned.
+
+13. If the sentence contains a time expression and a date, then the sentence is returned.
+
+14. If the sentence contains a time expression and a date, then the sentence is returned.
+
+15. If the sentence contains a time expression and a date, then the sentence is returned.
+
+16. If the sentence contains a time expression and a date, then the sentence is returned.
+
+17. If the sentence contains a time expression and a date, then the sentence is returned.
+
+18. If the sentence contains a time expression and a date, then the sentence is returned.
+
+19. If the sentence contains a time expression and a date, then the sentence is returned.
+
+20. If the sentence contains a time expression and a date, then the sentence is returned.
+
+21. If the sentence contains a time expression and a date, then the sentence is returned.
+
+22. If the sentence contains a time expression and a date, then the sentence is returned.
+
+23. If the sentence contains a time expression and a date, then the sentence is returned.
+
+24. If the sentence contains a time expression and a date, then the sentence is returned.
+
+25. If the sentence contains a time expression and a date, then the sentence is returned.
+
+26. If the sentence contains a time expression and a date, then the sentence is returned.
+
+27. If the sentence contains a time expression and a date, then the sentence is returned.
+
+28. If the sentence contains a time expression and a date, then the sentence is returned.
+
+29. If the sentence contains a time expression and a date, then the sentence is returned.
+
+30. If the sentence contains a time expression and a date, then the sentence is returned.
+
+31. If the sentence contains a time expression and a date, then the sentence is returned.
+
+32. If the sentence contains a time expression and a date, then the sentence is returned.
+
+33. If the sentence contains a time expression and a date, then the sentence is returned.
+
+34. If the sentence contains a time expression and a date, then the sentence is returned.
+
+35. If the sentence contains a time expression and a date, then the sentence is returned.
+
+36. If the sentence contains a time expression and a date, then the sentence is returned.
+
+37. If the sentence contains a time expression and a date

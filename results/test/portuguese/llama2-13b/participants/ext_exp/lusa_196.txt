@@ -1,0 +1,35 @@
+["um homem de 31 anos", "baleado", "a manhã de hoje", "Gulpilhares", "Vila Nova de Gaia", "o autor", "disparo", "fugida", "fonte policial", "a vítima", "o braço esquerdo", "entretanto", "conduzida", "hospital Santos Silva", "Vila de Gaia", "distrito do Porto", "bombeiros de Valadares", "indicou fonte", "esta corporação", "ferido ligeiro", "alerta", "as autoridades", "as Polícia Judiciária", "investigar", "caso", "competência", "órgão de polícia criminal", "razões", "crime", "determinar"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é baleado em Vila Nova de Gaia
+Um homem de 20 anos foi baleado às 19h30 de hoje, na Rua de São João, em Vila Nova de Gaia, e foi conduzido ao hospital de Vila de Gaia, onde se encontra em estado de alerta, informou a Polícia Judiciária.
+O homem foi atingido no braço esquerdo e no ombro direito, e foi conduzido ao hospital por bombeiros de Valadares.
+A Polícia Judiciária foi chamada a investigar o caso, já que se trata de uma competência reservada daquele órgão de polícia criminal.
+As razões do crime estão ainda por determinar."
+
+Output:
+["um homem de 20 anos", "baleado", "as 19h30", "Rua de São João", "Vila Nova de Gaia", "hospital de Vila de Gaia", "estado de alerta", "Polícia Judiciária", "homem", "braço esquerdo", "ombro direito", "bombeiros de Valadares", "conduzido", "investigar", "caso", "competência", "órgão de polícia criminal", "razões", "crime", "determinar"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é baleado em Vila Nova de Gaia
+Um homem de 20 anos foi baleado às 19h30 de hoje, na Rua de São João, em Vila Nova de Gaia, e foi conduzido ao hospital de Vila de Gaia, onde se encontra em estado de alerta, informou a Polícia Judiciária.
+O homem foi atingido no braço esquerdo e no ombro direito, e foi conduzido ao hospital por bombeiros de Valadares.
+A Polícia Judiciária foi chamada a investigar o caso, já que se trata de uma competência reservada daquele órgão de polícia criminal.
+As razões do crime estão ainda por determinar."
+
+Output:
+["um homem de 20 anos", "baleado", "as 19h30", "Rua de São João", "Vila Nova de Gaia", "hospital de Vila de Gaia", "estado de alerta", "Polícia Judiciária", "homem", "braço esquerdo", "ombro direito", "bombeiros de Valadares", "conduzido", "investigar", "caso", "competência", "órgão de polícia criminal", "razões", "crime", "determinar"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é baleado em Vila Nova de Gaia
+Um homem de 20 anos foi baleado às 19h30 de hoje, na Rua de São João, em Vila Nova de Gaia, e foi conduzido ao hospital de Vila de Gaia, onde se encontra em estado de alerta, informou a Polícia Judiciária.
+O homem foi atingido no braço esquerdo e no om

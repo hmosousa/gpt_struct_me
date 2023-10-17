@@ -1,0 +1,14 @@
+["Alex", "Apolinário", "em", "estado", "grave", "após", "paragem", "cardiorrespiratória", "o", "futebolista", "brasileiro", "do", "Alverca", "encontra-se", "em", "estado", "grave", "e", "coma", "induzido", "depois", "de", "ter", "sofrido", "paragem", "cardiorrespiratória", "no", "domingo", "informou", "hoje", "o", "clube", "do", "Campeonato", "de", "Portugal", "segundo", "informações", "do", "corpo", "clínico", "do", "Hospital", "de", "Vila", "Franca", "de", "Xira", "o", "atleta", "encontra-se", "em", "estado", "grave", "estabilizado", "e", "coma", "induzido", "no", "mismo", "comunicado", "os", "ribatejanos", "agradecem", "a", "onda", "de", "solidariedade", "com", "o", "atleta", "que", "chegou", "dos", "quatro", "cantos", "do", "mundo", "em", "nome", "do", "Alverca", "Futebol", "SAD", "em", "nome", "do", "atleta", "e", "sus", "familiares", "agradecemos", "aos", "profissionais", "de", "saúde", "e", "a", "todos", "que", "endereçaram", "mensagens", "clubes", "atletas", "instituições", "adeptos", "do", "mundo", "que", "se", "juntaram", "a", "nós", "numa", "gigantesca", "demonstração", "de", "apreço", "pela", "vida", "humana", "finalizou", "o", "comunicado", "da", "SAD", "alverquense", "no", "domingo", "Alex", "Apolinário", "sofreu", "paragem", "cardiorrespiratória", "durante", "jogo", "Alverca", "União", "de", "Almeirim", "a", "contar", "para", "o", "Campeonato", "de", "Portugal"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A China, país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quar

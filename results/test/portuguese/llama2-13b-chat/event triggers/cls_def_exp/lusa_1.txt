@@ -1,0 +1,4 @@
+[["detém", "I_Action"], ["suspeito", "State"], ["tráfico", "Occurrence"], ["de", "Prepositional"], ["droga", "Occurrence"], ["apreende", "I_Action"], ["arma", "Occurrence"], ["de", "Prepositional"], ["fogo", "Occurrence"], ["heroína", "Occurrence"], ["cocaína", "Occurrence"], ["sufficiente", "Adverb"], ["para", "Prepositional"], ["cerca", "Adverb"], ["de", "Prepositional"], ["599", "Quantifier"], ["doses", "Noun"], ["individuais", "Adverb"], ["e", "Conjunction"], ["235", "Quantifier"], ["doses", "Noun"], ["individuais", "Adverb"], ["e", "Conjunction"], ["muníções", "Noun"], ["um", "Determiner"], ["tablet", "Noun"], ["uma", "Determiner"], ["coluna", "Noun"], ["de", "Prepositional"], ["som", "Noun"], ["e", "Conjunction"], ["222", "Quantifier"], ["euros", "Noun"], ["em", "Prepositional"], ["dinheiro", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

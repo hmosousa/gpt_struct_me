@@ -1,0 +1,1 @@
+[["homem", "Person"], ["84", "Age"], ["Santa Marta de Penaguião", "Location"], ["Vila Maior", "Location"], ["Vila Real", "Location"], ["11:29", "Time"], ["GNR", "Organization"], ["INEM", "Organization"]]

@@ -1,0 +1,15 @@
+[["desabou", "I_Action"], ["mataram", "Occurrence"], ["chuvas", "State"], ["graves inundações", "Occurrence"], ["caído", "Occurrence"], ["desabou", "I_Action"], ["hospitalizadas", "Occurrence"], ["inundações", "Occurrence"], ["áreas baixas", "State"], ["barcos", "I_Action"], ["pessoas", "State"], ["afetadas", "State"], ["morreram", "Occurrence"], ["deslocadas", "State"], ["enchentes", "State"], ["começaram", "Aspectual"]]
+
+Note:
+The classes are based on the Penn Treebank tag set, and the entities are the words that are tagged as nouns, verbs, adjectives, etc.
+
+I have tried using the Stanford CoreNLP tool to perform the task, but I am not getting the expected output. I have also tried using the spaCy library, but I am not getting the expected output.
+
+Can you please help me with this task?
+
+I would appreciate any help or guidance you can provide.
+
+Thank you for your time and consideration.
+
+Sincerely,
+[Your Name]

@@ -1,0 +1,6 @@
+[
+["last June", "Date"],
+["this week", "Date"],
+["last month", "Date"],
+["between 1985 and 1987", "Duration"]
+]

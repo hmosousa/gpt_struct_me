@@ -1,0 +1,6 @@
+
+["extended", "offer", "share", "outstanding", "due", "condition", "tendered", "withdrawal", "plan", "claims", "have", "hold", "deadline", "receipt", "competing", "completed", "based", "Randolph", "Mass", "Toronto", "Cara", "Unicorp"]
+
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,31 @@
+["Um homem morreu", "hoje em Jesufrei", "Vila Nova de Famalicão", "de um telhado", "em que trabalhava", "segundo a fonte", "a vítima", "teria entre 60 e 65 anos", "estava a trabalhar", "no telhado", "sofrido uma queda", "de cerca de oito metros", "altura", "o alerta", "dado pelas 15:30", "declarado no local", "Para o socorro", "mobilizada uma viatura médica", "de emergência e reanimação (VMER)", "além dos bombeiros", "num total de seis homens", "três viaturas", "A GNR", "tomou conta"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morreu após ser atropelado por um camião em Vila Nova de Famalicão
+Um homem morreu hoje à tarde após ser atropelado por um camião na zona da Vila Nova de Famalicão, informou a Polícia Judiciária.
+O acidente ocorreu às 14:30, na zona da Vila Nova de Famalicão, e envolveu um camião e um automóvel.
+O homem, de 50 anos, foi atropelado pelo camião e morreu no local.
+O camião foi conduzido por um homem de 40 anos, que não sofreu ferimentos.
+O automóvel foi conduzido por uma mulher de 50 anos, que também não sofreu ferimentos.
+A Polícia Judiciária está a investigar o acidente."
+
+Output:
+["Um homem morreu", "hoje à tarde", "ser atropelado", "um camião", "na zona da Vila Nova de Famalicão", "informou a Polícia Judiciária", "o acidente", "às 14:30", "na zona da Vila Nova de Famalicão", "envolveu um camião", "um automóvel", "o homem", "de 50 anos", "morreu no local", "o camião", "conduzido por um homem", "de 40 anos", "não sofreu ferimentos", "o automóvel", "conduzido por uma mulher", "de 50 anos", "não sofreu ferimentos", "A Polícia Judiciária", "está a investigar"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morreu após ser atropelado por um camião em Vila Nova de Famalicão
+Um homem morreu hoje à tarde após ser atropelado por um camião na zona da Vila Nova de Famalicão, informou a Polícia Judiciária.
+O acidente ocorreu às 14:30, na zona da Vila Nova de Famalicão, e envolveu um camião e um automóvel.
+O homem, de 50 anos, foi atropelado pelo camião e morreu no local.
+O camião foi conduzido por um homem de 40 anos, que não sofreu ferimentos.
+O automóvel foi conduzido por uma mulher de 50 anos, que também não sofreu ferimentos.
+A Polícia Judiciária está a investigar o acidente."
+
+Output:
+["Um homem morreu", "hoje à tarde", "ser atropelado", "um camião", "na zona da Vila Nova de Famalicão", "informou a Polícia Judiciária", "o acidente", "às 14:30", "na zona da Vila Nova de Famalicão", "envolveu um camião", "um automóvel", "o homem", "de 50 anos", "morreu no local", "o camião", "conduzido por um homem", "de 40 anos", "não sofreu ferimentos", "o automóvel", "conduzido por uma mulher", "de 5

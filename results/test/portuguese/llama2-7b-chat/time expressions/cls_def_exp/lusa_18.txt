@@ -1,0 +1,1 @@
+[["suspeitas de fogo posto", "Set"], ["incêndio", "Date"], ["Câmara de Lobos", "Location"], ["Jardim da Serra", "Location"], ["Leonel Correia da Silva", "Person"], ["danos provocados pelo fogo", "Duration"], ["2020-11-30", "Date"]]

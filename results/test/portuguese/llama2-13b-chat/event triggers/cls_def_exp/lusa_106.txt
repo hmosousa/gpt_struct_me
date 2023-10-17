@@ -1,0 +1,5 @@
+[["atropelou", "I_Action"], ["pessoas", "Occurrence"], ["manifestação", "Occurrence"], ["Nova Iorque", "Location"], ["EUA", "Location"], ["acidente", "Occurrence"], ["feridos", "Occurrence"], ["se ser transportados", "Occurrence"], ["hospitais", "Location"], ["Big Apple", "Location"], ["detido", "I_Action"], ["condutor", "Agent"], ["o incidente", "Occurrence"], ["ocorreu", "Aspectual"], ["pelas 16:00 locais", "Time"], ["21:00 em Lisboa", "Time"], ["não provocou mortos", "State"], ["várias corporações", "Occurrence"], ["bombeiros", "Agent"], ["ambulâncias", "Agent"]]
+
+Please help me with the task of extracting and classifying all event triggers in the given texts.
+
+Note: I have already tried using spaCy's entity recognition and it works well for recognizing entities, but I need help with identifying the event triggers and classifying them into the correct categories.

@@ -1,0 +1,17 @@
+["said", "agreed", "pay", "MGM", "Grand", "Inc", "has", "agreed", "pay", "93", "million", "nearly", "1.8", "common", "shares", "buy", "117", "acres", "land", "Las", "Vegas", "Nev", "Strip", "site", "planned", "movie", "studio", "theme", "park", "resort", "Of", "total", "purchase", "price", "cash", "stock", "nearly", "1.8", "million", "shares", "paid", "buy", "existing", "700", "room", "Marina", "Hotel", "Casino", "Southwest", "Securities", "Nevada", "limited", "partnership", "remaining", "properties", "acquired", "Tropicana", "Country", "Club", "Golf", "Course", "facility", "jointly", "owned", "Ramada", "Inc", "Phoenix", "Ariz", "Jaffe", "family", "small", "parcel", "owned", "MGM", "Grand", "director", "James", "Aljian", "purchase", "price", "disclosed", "preliminary", "prospectus", "issued", "connection", "land", "purchase", "bring", "total", "shares", "outstanding", "Kirk", "Kerkorian", "Tracinda", "Corp", "month", "announced", "agreements", "properties", "disclose", "purchase", "price", "proceeds", "offering", "estimated", "Desert", "Inn", "resort", "Las", "Vegas", "refurbishing", "certain", "aircraft", "MGM", "Grand", "Air", "unit", "company", "said", "cost", "million", "additional", "financing", "bank", "borrowings", "debt", "equity", "offerings", "date", "construction", "set", "early", "1991", "resort", "include", "MGM", "Grand", "Hotel", "multi", "spired", "castle", "like", "facility", "marketed", "families", "room", "rates", "between", "35", "55", "night", "prospectus", "details", "studio", "theme", "park", "conceptual", "drawings", "month", "show", "themed", "areas", "similar", "those", "found", "parks", "built", "Walt", "Disney", "Co"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is expected to announce today that it will not seek to block the proposed merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines, according to a source familiar with the matter.
+The Justice Department's antitrust division is expected to announce that it will not seek to block the merger, the source said.
+The announcement is expected to come after the close of the stock market, the source said.
+The Justice Department has been reviewing the proposed merger for several months.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $12.5 billion.
+The merger would create the world's largest airline, with 1994 revenues of $

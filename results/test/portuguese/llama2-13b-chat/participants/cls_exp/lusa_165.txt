@@ -1,0 +1,17 @@
+[["um homem", "Per"], ["com um automóvel", "Obj"], ["as instalações", "Fac"], ["do Estádio da Luz", "Loc"], ["em Lisboa", "Loc"], ["durante a tarde de hoje", "Other"], ["disse à agência Lusa", "Org"], ["fonte do Comando Metropolitano de Lisboa (Cometlis)", "Org"], ["da PSP", "Org"], ["de acordo com a polícia", "Other"], ["um homem entrou com uma viatura dentro", "Other"], ["do Estádio da Luz", "Loc"], ["na freguesia de São Domingos de Benfica", "Loc"], ["e o incidente ocorreu pelas 15:00", "Other"], ["o condutor acabou por ser detido", "Other"], ["mas a PSP explicou que a detenção poderá não estar relacionada com esta infração", "Other"], ["sem adiantar mais informações", "Other"], ["A notícia foi avançada pela Rádio Renascença", "Org"], ["que dá conta de que o homem entrou com o automóvel dentro do relvado", "Other"], ["A polícia disse que não dispunha de informações que confirmassem até onde chegou o condutor dentro das instalações do estádio do Benfica", "Other"], ["O Cometlis remeteu esclarecimentos adicionais sobre a detenção deste homem para mais tarde", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes.
+* Each entity is represented by a string.
+* Each class is represented by a string.
+* The entities and classes are separated by a comma.
+* The output should be a list of lists, where each list contains two strings: the entity and the class.

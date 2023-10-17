@@ -1,0 +1,8 @@
+	[["Governo português", "Org"], ["famílias das vítimas", "Per"], ["atentado", "Per"], ["Trier", "Loc"], ["Alemanha", "Loc"], ["povo e autoridades alemãs", "Org"], ["polícia local", "Org"], ["Twitter", "Org"], ["motorista", "Per"], ["veículo", "Obj"], ["feridos", "Per"], ["resgate", "Org"], ["centro da cidade", "Loc"], ["pessoas", "Per"], ["Frankfurt", "Loc"], ["Luxemburgo", "Loc"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are: Governo português, famílias das vítimas, atentado, Trier, Alemanha, povo e autoridades alemãs, polícia local, Twitter, motorista, veículo, feridos, resgate, centro da cidade, pessoas, Frankfurt, Luxemburgo.
+* The classes are: Org (Organization), Per (Person), Loc (Location), Other (Other).

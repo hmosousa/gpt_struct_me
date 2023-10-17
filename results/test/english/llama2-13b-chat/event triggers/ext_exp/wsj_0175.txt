@@ -1,0 +1,14 @@
+[
+"tender",
+"deadline",
+"spokesman",
+"ownership",
+"studio",
+"payment",
+"debt",
+"producers",
+"acquisition",
+"scheduled",
+"litigation",
+"dispute"
+]

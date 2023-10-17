@@ -1,0 +1,18 @@
+[
+["the third quarter", "Date"],
+["the quarter a year ago", "Date"],
+["the latest quarter", "Date"],
+["a year earlier", "Date"],
+["the nine months", "Duration"],
+["a year earlier", "Date"],
+["Sept. 30", "Date"],
+["June 30", "Date"],
+["quarterly", "Set"],
+["by 1994", "Date"],
+["within five years", "Duration"],
+["August", "Date"],
+["the past two weeks", "Duration"],
+["Oct. 9", "Date"],
+["by year's end", "Date"],
+["as of Sept. 30", "Date"]
+]

@@ -1,0 +1,5 @@
+["took", "reported", "loss", "income", "charge", "write-off", "reserves", "good will", "assuming", "fluctuation", "examined", "slow", "loans", "assets"]
+
+
+
+

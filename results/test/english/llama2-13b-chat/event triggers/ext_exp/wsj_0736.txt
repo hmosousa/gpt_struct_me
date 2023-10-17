@@ -1,0 +1,4 @@
+["fell", "through", "post", "one-time", "charge", "resulting", "net", "loss", "third", "quarter", "write-down", "associated", "investment", "banks", "North", "Carolina", "branches", "high", "fees", "regulators", "imposed", "certain", "transfers", "thrift", "deposits", "commercial", "banks", "substantially", "altered", "economics", "transaction", "both", "parties", "additionally", "loan-loss", "reserves", "third", "quarter", "taxes", "year-earlier", "third", "quarter", "net", "income", "2.8", "million", "77", "cents", "share", "continuing", "try", "sell", "under", "June", "agreement", "dissident-shareholder", "group", "effort", "past", "November", "deadline", "set", "agreement", "litigation", "suspended", "part"]
+
+Format:
+JSON-parseable list of strings.

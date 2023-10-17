@@ -1,0 +1,99 @@
+["Tony Lama Co.", "Equus Investment II Limited Partnership", "Equus Capital Corp.", "El Paso", "Western boots", "leather accessories", "12%", "five years", "subject to terms of the surviving company's debt", "Neither Equus nor Tony Lama gave a reason for the changed offer and Tony Lama couldn't be reached for comment", "promptly submit the offer to a special committee of the company's board"]
+
+Explanation:
+The time expressions are:
+
+- "next week"
+- "Friday"
+- "nearly two months"
+- "1990"
+- "Thursday"
+- "Jan. 13"
+- "Previously"
+- "03/06/1998 13:19:00"
+- "Thursday"
+- "Feb. 23"
+- "over a week"
+- "Thursday"
+- "daily"
+- "Friday"
+- "Friday"
+- "10-hour"
+
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	filePath := os.Args[1]
+
+	file, err := os.Open(filePath)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer file.Close()
+
+	scanner := bufio.NewScanner(file)
+	scanner.Split(bufio.ScanLines)
+
+	var timeExpressions []string
+
+	for scanner.Scan() {
+		line := scanner.Text()
+		line = strings.TrimSpace(line)
+
+		if strings.Contains(line, "BAGHDAD, Iraq (AP)_") {
+			timeExpressions = append(timeExpressions, line[strings.Index(line, "("):strings.Index(line, ")")])
+		}
+	}
+
+	if len(timeExpressions) == 0 {
+		log.Fatal("No time expressions found")
+	}
+
+	for _, timeExpression := range timeExpressions {
+		timeExpression = strings.TrimSpace(timeExpression)
+
+		if strings.Contains(timeExpression, "(") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "("):strings.Index(timeExpression, ")")))
+		}
+
+		if strings.Contains(timeExpression, ")"))") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, ")"))
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "\""):strings.Index(timeExpression, "\"")])
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "\""):strings.Index(timeExpression, "\"")])
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "\""):strings.Index(timeExpression, "\"")])
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "\""):strings.Index(timeExpression, "\"")])
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression = strings.TrimSpace(timeExpression[strings.Index(timeExpression, "\""):strings.Index(timeExpression, "\"")])
+		}
+
+		if strings.Contains(timeExpression, "\"") {
+			timeExpression

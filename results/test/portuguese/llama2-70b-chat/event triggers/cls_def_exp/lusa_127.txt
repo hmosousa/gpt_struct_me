@@ -1,0 +1,26 @@
+[["GNR", "State"], ["Freamunde", "State"], ["Paços de Ferreira", "State"], ["encerrou", "I_Action"], ["restaurante", "State"], ["reunia", "Occurrence"], ["50 pessoas", "Occurrence"], ["GNR", "State"], ["anunciou", "Reporting"], ["hoje", "Aspectual"], ["estabelecimento", "State"], ["restauração e bebidas", "State"], ["concelho", "State"], ["detetaram", "Reporting"], ["estabelecimento", "State"], ["a funcionar", "Occurrence"], ["com música ao vivo", "Occurrence"], ["ocorreu", "Occurrence"], ["na sequência", "Aspectual"], ["ação de fiscalização", "Occurrence"], ["cumprimento", "Occurrence"], ["normas", "State"], ["pandemia covid-19", "State"], ["proprietária", "State"], ["identificada", "Reporting"], ["ordem", "I_Action"], ["terminar", "I_Action"], ["evento", "Occurrence"], ["elaboração", "I_Action"], ["auto de contraordenação", "Occurrence"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Aspectual: refers to an aspect or a feature
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+
+The task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event or a change in state. They can be verbs, nouns, adjectives, or adverbs that convey a sense of time, change, or causality.
+
+For example, in the sentence "The dog ran across the field," "ran" is an event trigger that indicates the occurrence of an event (the dog running). Similarly, in the sentence "The man was tired," "was" is an event trigger that indicates a change in state (the man becoming tired).
+
+Your output should be a list of pairs, where each pair contains the event trigger and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Aspectual: refers to an aspect or a feature
+* I_Action: refers to an action or an activity
+* I_State: refers to a state or a situation that is internal to the agent
+
+Note that some event triggers may belong to more than one class. For example, the word "was" in the sentence "The man was tired" could belong to both the State class (indicating a change in state) and the Reporting class (indicating a report or statement). In such cases, you should choose the class that best fits the context.

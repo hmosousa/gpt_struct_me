@@ -1,0 +1,1 @@
+["Friday", "next week", "last week", "early next year", "third quarter", "late September"]

@@ -1,0 +1,15 @@
+[["Soumaila Cissé", "Per"], ["do Governo do Mali", "Org"], ["morreu", "Per"], ["hoje em França", "Loc"], ["devido ao novo coronavírus", "Other"], ["a sua esposa", "Per"], ["a Agência France-Presse", "Org"], ["a União para a República e a Democracia", "Org"], ["da oposição do Mali", "Org"], ["no dia 25 de março", "Loc"], ["na região de Tumbuktu (Noroeste)", "Loc"], ["libertado em outubro", "Loc"], ["às mãos de ‘jihadistas’", "Other"], ["em troca de 200 detidos libertados", "Other"], ["Não sofri nenhuma violência", "Per"], ["nem física nem verbal", "Other"], ["Soumaila Cissé", "Per"], ["engenheiro de computação", "Other"], ["ficou em segundo lugar", "Per"], ["em três eleições presidenciais", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the given text to identify the entities and their classes.
+* Each entity should be classified into one class only.
+* The classes should be represented by a string.
+* The output should be a JSON-parseable list.

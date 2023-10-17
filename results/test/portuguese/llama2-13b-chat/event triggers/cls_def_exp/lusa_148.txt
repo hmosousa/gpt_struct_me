@@ -1,0 +1,4 @@
+[["KLM", "I_Action"], ["aprovou", "State"], ["plano de salvação", "Occurrence"], ["na ordem de vários milhões de euros", "Occurrence"], ["pelo", "Aspectual"], ["governo holandês", "I_Action"], ["congelou", "State"], ["ajuda", "State"], ["perante", "Aspectual"], ["recusa", "Occurrence"], ["sindicato", "I_Action"], ["cedido", "State"], ["levou", "Aspectual"], ["governo", "I_Action"], ["pronto", "State"], ["emprestir", "I_Action"], ["3,4 mil milhões de euros", "Occurrence"], ["prevê", "I_Action"], ["reduzir", "I_Action"], ["despesas", "State"], ["15%", "Aspectual"], ["suprimir", "I_Action"], ["postos de trabalho", "State"], ["cerca de", "Aspectual"], ["três mil", "Occurrence"], ["pilotos", "I_Action"], ["particularmente", "Aspectual"], ["afetados", "State"], ["baixas salariais", "Aspectual"], ["20%", "Aspectual"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

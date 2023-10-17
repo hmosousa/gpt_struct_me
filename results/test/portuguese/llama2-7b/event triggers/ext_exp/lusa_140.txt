@@ -1,0 +1,22 @@
+["acusa", "agente", "GNR", "Braga", "Ministério", "Público", "acusou", "militar", "GNR", "Braga", "peculato", "abuso", "poder", "alegadamente", "falsificado", "mapas", "mensais", "suplementos", "remuneratórios", "logrando", "receber", "indevidamente", "5", "400", "euros", "segundo", "nota", "publicada", "página", "Procuradoria", "Regional", "Porto", "arguido", "chefe", "Núcleo", "Investigação", "Criminal", "GNR", "Braga", "enquanto", "responsável", "preenchimento", "envio", "processamento", "mapas", "mensais", "suplementos", "remuneratórios", "de", "novembro", "2011", "outubro", "2016", "incluí", "nome", "beneficiário", "suplemento", "escala", "tivesse", "direito", "receber", "tal", "montante", "liquido", "5", "400", "17", "euros", "arguido", "recebeu", "indevidamente", "montante", "liquido", "5", "400", "17", "euros", "acusado", "ordenou", "efectivo", "subordinados", "execução", "servico", "estava", "escalado"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados hoje pela Organização Mundial de Saúde (OMS).
+A OMS informou que, em 15 de abril, 100.2 milhões de pessoas estavam em quarentena em 188 países.
+A OMS também informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de abril, 1.4 milhões de pessoas estavam em quarentena em 115 países.
+A OMS informou que, em 15 de

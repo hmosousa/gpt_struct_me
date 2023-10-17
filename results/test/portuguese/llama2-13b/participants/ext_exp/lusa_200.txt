@@ -1,0 +1,20 @@
+["Um homem de 31 anos", "ferido com gravidade", "cortava uma árvore", "Regilde", "o concelho de Felgueiras", "cortava uma árvore", "uma ravina", "cerca de sete metros", "acabou projetada", "a ravina", "a vítima", "a queda da árvore", "acabou projetada", "a vítima é bombeiro", "Vizela", "teve de ser resgatada", "a equipa de grande ângulo", "Os Bombeiros de Felgueiras", "uma ambulância", "a viatura de desencarceramento", "a viatura de resgate em grande ângulo", "a VMER", "o Hospital de Guimarães", "a GNR", "a ocorrência"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é morto a tiro em casa de sua mãe em Lisboa
+Um homem de 20 anos foi morto a tiro, no dia de hoje, numa casa de sua mãe, em Lisboa, onde se encontrava com a sua namorada, informou a Lusa a Polícia Judiciária.
+O homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A Polícia Judiciária (PJ) foi alertada às 18:30, e os bombeiros, que também foram chamados, encontraram o homem morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão de um quarto da casa, onde se encontrava com a namorada, de 19 anos, que também foi ferida, mas não gravemente, pelo mesmo tiroteio.
+A PJ informou que o homem foi encontrado morto no chão

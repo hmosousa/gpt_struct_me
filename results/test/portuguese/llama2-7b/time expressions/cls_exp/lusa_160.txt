@@ -1,0 +1,31 @@
+[["2017", "Date"], ["2016", "Date"], ["2019", "Date"], ["2017", "Date"], ["2019", "Date"], ["2017", "Date"], ["2019", "Date"], ["2017", "Date"], ["2019", "Date"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"MP acusa homem de abusar da filha da companheira em Braga e Amares
+O Ministério Público (MP) de Braga acusou um homem de abuso sexual de crianças agravado, sendo a vítima a filha da companheira, anunciou hoje a Procuradoria-Geral Distrital do Porto.
+Em nota publicada na sua página, aquela procuradoria refere que os abusos terão começado em 2017, numa altura em que a vítima tinha 10 anos.
+O MP considerou indiciado que o arguido passou a viver com a sua companheira em 2016, primeiro em Braga e depois em Amares.
+Ainda segundo o MP, o arguido, entre 2017 e 2019, “manteve trato sexual” com a filha da companheira, “aproveitando-se dos momentos que passava a sós com ela”.
+O despacho de acusação está datado de 05 de outubro."
+
+Output:
+[["2017", "Date"], ["2016", "Date"], ["2019", "Date"], ["2017", "Date"], ["2019", "Date"], ["2017", "Date"], ["2019", "Date

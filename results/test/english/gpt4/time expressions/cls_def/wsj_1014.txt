@@ -1,0 +1,15 @@
+[
+["Over the summer", "Date"],
+["the past 18 months", "Duration"],
+["third-quarter", "Date"],
+["last month", "Date"],
+["soon", "Date"],
+["the last half of 1989", "Date"],
+["for 1990", "Date"],
+["yesterday", "Date"],
+["1989", "Date"],
+["the last half of the '80s", "Duration"],
+["the mid-1990s", "Date"],
+["last year", "Date"],
+["the current year", "Date"]
+]

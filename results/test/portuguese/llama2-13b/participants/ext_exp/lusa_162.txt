@@ -1,0 +1,26 @@
+["homem de 84 anos", "morre", "atropelamento", "Santa Marta de Penaguião", "Um homem", "84 anos", "morreu", "hoje", "sequência", "atropelamento", "Vila Maior", "concelho", "Santa Marta de Penaguião", "distrito", "Vila Real", "fonte", "GNR", "Segundo", "comandante", "bombeiros", "Santa Marta de Penaguião", "Vasco Correia", "óbito", "local", "equipa", "Viatura Médica", "Emergência", "Reanimação", "VMER", "acidente", "GNR", "manobra", "marcha-atrás", "carinha", "alerta", "atropelamento", "mobilizados", "operacionais", "bombeiros", "Santa Marta de Penaguião", "GNR", "INEM", "viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um corpo de um homem que trabalhava no World Trade Center.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram as autoridades de Nova Iorque.
+A lista de mortos foi atualizada após a identificação de um

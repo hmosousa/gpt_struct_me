@@ -1,0 +1,4 @@
+
+["plans", "redeem", "Nov", "16", "$,", "150", "million", "6.5", "convertible", "subordinated", "debt", "due", "March", "1,", "2011", ".", "will", "pay", "$,", "face", "amount", "of", "debt", ".", "conversion", "price", "for", "debentures", "is", "$,", "41.725", "share", ".", "In", "New", "York", "Stock", "Exchange", "composite", "trading", "Friday", ",", "Automatic", "Data", "closed", "at", "$,", "down", "$.", "If", "all", "the", "debt", "is", "converted", "to", "common", ",", "Automatic", "Data", "will", "issue", "about", "3.6", "million", "shares", ";", "last", "Monday", ",", "the", "company", "had", "nearly", "73", "million", "shares", "outstanding", ".", "redeeming", "the", "bonds", "because", "the", "after-tax", "cost", "of", "the", "interest", "on", "the", "bonds", "is", "higher", "than", "the", "dividend", "yield", "on", "the", "common", ",", "a", "spokesman", "said", "."]
+
+

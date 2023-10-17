@@ -1,0 +1,1 @@
+["ferido", "gravidade", "cortava", "árvore", "caiu", "ravina", "atingida", "queda", "projetada", "acrescenta", "corporação", "deslocaram", "ambulância", "viatura", "desencarceramento", "resgate", "grande ângulo", "assistido", "Viatura Médica", "Emergência", "Reanimação", "transportado", "Hospital", "tomou", "conta", "ocorrência"]

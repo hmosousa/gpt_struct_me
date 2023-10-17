@@ -1,0 +1,50 @@
+["GNR", "25 cães", "vítimas", "maus-tratos", "Seia", "homem", "58 anos", "crime", "animais", "companhia", "concelho", "Guarda", "comando", "terça-feira", "NICCOA", "NPA", "Gouveia", "investigação", "mandado", "busca", "cenário", "sobrepopulação", "condições", "higiene", "falta", "trato", "animais", "seguimento", "diligências", "resgatados", "identificação", "registo", "vacinação", "antirrábica", "proprietário", "interior", "habitação", "Veterinário", "Municipal", "Seia", "Tribunal", "Judicial", "Seia"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+
+Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19

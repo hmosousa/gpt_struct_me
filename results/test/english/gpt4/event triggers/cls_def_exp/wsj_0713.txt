@@ -1,0 +1,1 @@
+[["cleared", "OCCURRENCE"], ["takeover", "OCCURRENCE"], ["said", "REPORTING"], ["approval", "OCCURRENCE"], ["permits", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["said", "REPORTING"], ["buy", "OCCURRENCE"], ["tendered", "OCCURRENCE"], ["has", "STATE"], ["buy", "OCCURRENCE"], ["option", "OCCURRENCE"]]

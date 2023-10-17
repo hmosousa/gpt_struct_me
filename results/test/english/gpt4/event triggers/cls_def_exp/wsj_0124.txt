@@ -1,0 +1,1 @@
+[["named", "OCCURRENCE"], ["takes", "OCCURRENCE"], ["stepped", "OCCURRENCE"], ["succeeded", "OCCURRENCE"], ["posted", "OCCURRENCE"], ["include", "OCCURRENCE"], ["had", "OCCURRENCE"], ["associated", "OCCURRENCE"], ["terminated", "OCCURRENCE"], ["hit", "OCCURRENCE"], ["increase", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"]]

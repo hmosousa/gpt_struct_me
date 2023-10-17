@@ -1,0 +1,30 @@
+["GNR de Leiria", "deteta", "descarga ilegal", "efluentes suinícolas", "A GNR de Leiria", "anunciou hoje", "detetou", "efluentes suinícolas", "para o solo", "na freguesia", "da Bidoeira de Cima", "no concelho de Leiria", "uma ação de patrulhamento", "O Comando Territorial", "da GNR", "através", "do Núcleo de Proteção Ambiental", "de Leiria", "informa", "que", "no dia 27 de novembro", "detetou", "um efluente pecuário", "para o solo", "proveniente", "de uma exploração agropecuária", "Os militares", "da GNR", "estavam numa ação de patrulhamento", "quando", "foram confrontados", "com", "efluentes pecuários", "a escorrer livremente", "para o solo", "diretamente", "de uma lagoa", "de armazenagem", "de efluentes pecuários", "sem qualquer tipo", "de mecanismo", "que", "assegurasse", "a sua depuração", "refere", "uma nota de imprensa", "Após algumas diligências", "foi identificado", "o ponto", "de origem", "da descarga", "resultando", "na elaboração", "de um auto", "de contraordenação", "por descarga", "de efluente pecuário", "diretamente", "para o solo", "punível", "com uma coima", "no valor máximo", "de 144 mil euros", "acrescenta", "a nota"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de carros
+Autoridades de Nova Iorque prendem 10 pessoas por roubo de

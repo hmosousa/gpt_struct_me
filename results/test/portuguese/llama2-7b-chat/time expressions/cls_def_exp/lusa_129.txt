@@ -1,0 +1,1 @@
+[["em Valença", "Location"], ["sete toneladas", "Quantity"], ["37.400 euros", "Money"], ["50 anos", "Age"], ["Unidade de Controlo Costeiro", "Organization"], ["Matosinhos", "Location"], ["berbigão", "Entity"], ["espécies bivalves", "Entity"], ["água salgada", "Location"]]

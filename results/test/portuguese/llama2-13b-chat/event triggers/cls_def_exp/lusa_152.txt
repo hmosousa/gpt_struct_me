@@ -1,0 +1,11 @@
+[["Sílvia Lutucuta", "I_Action"], ["lamentou", "State"], ["morte", "Occurrence"], ["doentes", "Occurrence"], ["grave", "Aspectual"], ["recém-nascido", "Aspectual"], ["cuidados especiais", "State"], ["incêndio", "Occurrence"], ["registado", "Occurrence"], ["noite", "Aspectual"], ["segunda-feira", "Aspectual"], ["afetou", "Occurrence"], ["áreas", "Occurrence"], ["bloco operatório", "Occurrence"], ["enfermarias cirúrgicas", "Occurrence"], ["posto de armazenamento de oxigênio", "Occurrence"], ["transferir", "I_Action"], ["pacientes", "Occurrence"], ["centros de saúde", "Occurrence"], ["melhor atendimento", "State"], ["nov Hospital Municipal de Cuanhama", "State"], ["fase final das obras", "State"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Sílvia Lutucuta") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions performed by entities
+* State: states or conditions of entities
+* Occurrence: events or occurrences that happen to entities
+* Aspectual: aspects or characteristics of entities or events
+* Intensional Action: actions that have a specific goal or intention
+* Intensional State: states that have a specific goal or intention.

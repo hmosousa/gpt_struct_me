@@ -1,0 +1,28 @@
+["reivindica", "atentado", "Viena", "jihadista", "Estado Islâmico", "EI", "comunicado", "publicado", "redes", "Telegram", "comunicado", "soldado", "califado", "disparos", "registados", "perto", "sinagoga", "ópera", "texto", "separado", "foto", "assaltante", "armado", "agência", "propaganda", "Amaq", "ataque", "armas", "de fogo", "efetuado", "ontem", "segunda-feira", "combatente", "Estado Islâmico", "cidade", "Viena", "autor", "atentado", "anos", "liberdade condicional", "dezembro", "passado", "cumprir", "parte", "pena", "prisão", "tentar", "viajar", "Síria", "fileiras", "EI"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Brasil ultrapassa 150 mil mortes
+O Brasil ultrapassou 150 mil mortes por covid-19, segundo dados do Ministério da Saúde.
+O número de mortes confirmadas chegou a 150.000, com 1.000 novas mortes em 24 horas.
+O país é o segundo mais afetado no mundo, atrás apenas dos Estados Unidos, com 230 mil mortes.
+O Brasil é o país com mais mortes por covid-19 no mundo, mas o número de mortes por milhão de habitantes é inferior ao de outros países, como os Estados Unidos, Reino Unido, Itália, França, Espanha e Alemanha.
+O Brasil tem 1.000 mortes por milhão de habitantes, enquanto os Estados Unidos têm 1.100, o Reino Unido 1.300, Itália 1.400, França 1.500, Espanha 1.600 e Alemanha 1.700.
+O Brasil tem 5,5 milhões de casos confirmados de covid-19, segundo o Ministério da Saúde.
+O país tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Ministério da Saúde.
+O Brasil tem 1.000 novas mortes por dia, segundo dados do Min

@@ -1,0 +1,5 @@
+	["filed", "led", "said", "buy", "operates", "franchises", "company", "offering", "includes", "holds", "owned", "weren't", "available", "ended", "income", "revenue"]
+
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,16 @@
+[["um jovem", "Per"], ["de 17 anos", "Per"], ["ficou em estado muito grave", "Per"], ["depois de ter sido baleado", "Per"], ["no peito", "Loc"], ["hoje de madrugada", "Loc"], ["no bairro Casal da Mira", "Loc"], ["na Amadora", "Loc"], ["no distrito de Lisboa", "Loc"], ["disse à agência Lusa", "Org"], ["fonte da PSP", "Org"], ["de acordo com fonte do Comando Metropolitano de Lisboa (Cometlis)", "Org"], ["o alerta para a ocorrência foi dado às 00:53", "Other"], ["um jovem de 17 anos foi baleado com uma arma de fogo", "Other"], ["ficou ferido em estado muito grave", "Per"], ["e foi transportado para o Hospital Professor Doutor Fernando Fonseca [Amadora-Sintra]", "Other"], ["à Lusa", "Org"], ["o Cometlis adiantou que as causas para o incidente são desconhecidas", "Other"], ["e ainda não foram identificados ou detidos quaisquer suspeitos", "Other"], ["Por se tratar de um crime", "Other"], ["o caso foi entregue à Polícia Judiciária (PJ) para investigação", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes.
+* Each entity is represented by a string.
+* Each class is represented by a string.
+* The entities and classes are separated by a comma.
+* The output should be a list of lists, where each list contains two strings: the entity and the class.

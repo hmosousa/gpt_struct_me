@@ -1,0 +1,11 @@
+[["um homem de 20 anos", "Per"], ["suspeito de tráfico de droga", "Per"], ["heroína", "Obj"], ["cocaína", "Obj"], ["uma arma de fogo", "Obj"], ["quatro munições", "Obj"], ["um ‘tablet',", "Obj"], ["uma coluna de som", "Obj"], ["222 euros em dinheiro", "Obj"], ["a PSP", "Org"], ["a Esquadra de Intervenção e Fiscalização Policial", "Org"], ["as Equipas de Prevenção e Reação Imediata", "Org"], ["as Autoridades Judiciárias", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Nat" stands for "Nature"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other" (this class can be used for any other entity that does not fit into one of the above categories)

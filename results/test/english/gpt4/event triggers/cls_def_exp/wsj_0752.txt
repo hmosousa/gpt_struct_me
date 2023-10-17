@@ -1,0 +1,1 @@
+[["authorized", "OCCURRENCE"], ["split", "OCCURRENCE"], ["payable", "OCCURRENCE"], ["aimed", "ASPECTUAL"], ["boosting", "OCCURRENCE"], ["said", "REPORTING"], ["have", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"]]

@@ -1,0 +1,1 @@
+["announced", "said", "being", "issued", "available", "effective", "convertible"]

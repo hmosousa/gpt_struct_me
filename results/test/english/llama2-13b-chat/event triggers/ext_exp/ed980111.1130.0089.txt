@@ -1,0 +1,4 @@
+["ice storm", "grip", "emergency", "helicopters", "stranded", "power", "going", "live"]
+
+Format:
+JSON-parseable list of strings.

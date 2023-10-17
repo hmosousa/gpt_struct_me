@@ -1,0 +1,21 @@
+[["um homem", "Per"], ["Guarda Nacional Republicana", "Org"], ["terrenos", "Loc"], ["habitações", "Loc"], ["denúncia", "Other"], ["diligências", "Other"], ["militares", "Per"], ["Posto Territorial", "Org"], ["Núcleo de Proteção Ambiental", "Org"], ["Caldas da Rainha", "Loc"], ["Tribunal", "Org"], ["espingarda", "Obj"], ["cartuchos", "Other"], ["calibre 12", "Other"], ["materiais", "Other"], ["acessórios", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and classes.
+* The entities are: "Homem", "Guarda Nacional Republicana", "terrenos", "habitações", "denúncia", "diligências", "militares", "Posto Territorial", "Núcleo de Proteção Ambiental", "Caldas da Rainha", "Tribunal".
+* The classes are: "Person", "Organization", "Location", "Nature", "Facility", and "Other".
+* The output list has 11 elements, each representing a match between an entity in the input and a class in the definition.
+* The first element in the output list is "um homem" which is classified as "Person".
+* The second element in the output list is "Guarda Nacional Republicana" which is classified as "Organization".
+* The third element in the output list is "terrenos" which is classified as "Location".
+* The fourth element in the output list is "habitações" which is classified as "Location".
+* The fifth element in the output list is "denúncia" which is classified as "Other".
+* The sixth element in the output list is "diligências" which is classified as "Other".
+* The seventh element in the output list is "militares" which is classified as "Person".
+* The eighth element in the output list is "Posto Territorial" which is classified as "Facility".
+* The ninth element in the output list is "Núcleo de Proteção Ambiental" which is classified as "Facility".
+* The tenth element in the output list is "Caldas da Rainha" which is classified as "Location".
+* The eleventh element in the output list is "Tribunal" which is classified as "Org".

@@ -1,0 +1,4 @@
+["AEP", "INDUSTRIES", "directors", "authorized", "split", "payable", "December", "stock", "record", "November", "liquidity", "Brendan", "Barba", "Moonachie", "maker", "plastic", "film", "products", "shares", "outstanding", "yesterday", "trading", "closed", "dollars"]
+
+Hint:
+Look for words that indicate events or actions.

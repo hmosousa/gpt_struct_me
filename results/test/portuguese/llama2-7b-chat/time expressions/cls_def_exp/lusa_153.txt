@@ -1,0 +1,9 @@
+[["em menos de uma semana", "Duration"], ["terça-feira", "Date"], ["quarta-feira", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+The input text is a news article about a man who was arrested on suspicion of domestic violence. The text includes several time expressions, which are classified into the following categories:
+* Date: "terça-feira", "quarta-feira", "30 nov 2020"
+* Time: "setembro", "final do ano"
+* Duration: "menos de uma semana", "Duration"
+* Set: "época de veda", "épocas de veda"
+The time expressions in the input text are highlighted in bold.

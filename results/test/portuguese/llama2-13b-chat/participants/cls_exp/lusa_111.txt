@@ -1,0 +1,14 @@
+[["Estado Islâmico", "Org"], ["EI", "Other"], ["o ataque armado", "Other"], ["na segunda-feira", "Loc"], ["em Viena", "Loc"], ["quatro vítimas mortais", "Per"], ["22 feridos", "Per"], ["num comunicado publicado", "Other"], ["nas suas redes Telegram", "Other"], ["o assaltante armado", "Per"], ["uma foto", "Obj"], ["Amaq", "Org"], ["un ataque com armas de fogo efetuado ontem", "Other"], ["por um combatente do Estado Islâmico", "Per"], ["na cidade de Viena", "Loc"], ["o autor do atentado", "Per"], ["de 20 anos", "Per"], ["foi abatido", "Other"], ["na noite de segunda-feira", "Loc"], ["pela polícia", "Org"], ["no centro de Viena", "Loc"], ["dupla nacionalidade", "Other"], ["austríaca e da Macedónia do Norte", "Other"], ["e foi posto em liberdade condicional", "Other"], ["em dezembro passado", "Other"], ["após cumprir parte de uma pena de 22 meses de prisão", "Other"]]
+
+Note:
+
+* "Org" stands for "organization"
+* "Per" stands for "person"
+* "Other" stands for "other entity"
+* "Loc" stands for "location"
+* "Obj" stands for "object"
+
+Hint:
+
+* The input text contains several entities that are not explicitly mentioned in the output. Can you identify them and include them in the output?
+* Some entities may have multiple classes. Can you handle this case in your output?

@@ -1,0 +1,14 @@
+[["MP", "I_Action"], ["acusa", "I_Action"], ["homem", "Entity"], ["de", "Preposition"], ["abusar", "I_Action"], ["da", "Preposition"], ["filha", "Entity"], ["da", "Preposition"], ["companheira", "Entity"], ["em", "Preposition"], ["Braga", "Location"], ["e", "Conjunction"], ["Amares", "Location"], ["O", "Determiner"], ["Ministério", "Noun"], ["Público", "Noun"], ["de", "Preposition"], ["Braga", "Location"], ["acusou", "I_Action"], ["um", "Determiner"], ["homem", "Entity"], ["de", "Preposition"], ["abuso", "Noun"], ["sexual", "Adjective"], ["de", "Preposition"], ["crianças", "Noun"], ["agravado", "Adjective"], ["seria", "Verb"], ["a", "Determiner"], ["vítima", "Noun"], ["teria", "Verb"], ["comecido", "Verb"], ["em", "Preposition"], ["2017", "Year"], ["numa", "Preposition"], ["altura", "Noun"], ["em", "Preposition"], ["que", "Determiner"], ["a", "Determiner"], ["vítima", "Noun"], ["tivesse", "Verb"], ["10", "Number"], ["anos", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+In this task, you will be given a list of events and you need to classify each event into one of the following classes: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+
+Please provide the output in JSON format, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+For example, if the input is "The cat sat on the mat", the output should be:
+[["cat", "Entity"], ["sat", "Action"]]
+
+Please note that the events in the input will be in Portuguese, and you should provide the output in English.

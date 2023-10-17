@@ -1,0 +1,14 @@
+["bucking", "proceedings", "benefited", "jumped", "issued", "increase", "declining", "grew", "posted", "rose", "continued", "reported", "revenue", "share", "year", "million", "first", "results", "from", "quarter", "passenger", "fiscal", "net", "company", "airline", "record", "traffic", "profits", "international", "routes", "reduced", "service", "rival", "Eastern", "Airlines", "wake", "strike", "began", "spring", "Delta", "Atlanta-based", "third", "largest", "U.S.", "attributed", "higher", "new", "reduced", "rival", "Eastern", "Airlines", "bankruptcy", "proceedings", "wake", "strike", "began", "spring", "For", "ended", "Sept.", "Dollar", "billion", "Revenue", "rose", "Swissair", "repurchased", "shares", "stock", "plan", "key", "excellent", "passenger", "revenue", "growth", "Thomas", "Roeck", "chief", "financial", "officer", "Passenger", "jumped", "profit", "per", "passenger", "grew", "2%", "benefited", "weakness", "Eastern", "Airlines", "hub", "Although", "back", "pre-strike", "Texas", "Corp.", "subsidiary", "only", "beginning", "feet", "quarter", "separately", "America", "West", "Phoenix, Ariz., reported third-quarter profit jumped 45% to $5.8 million, or 28 cents a share, from $4 million, or 24 cents a share, a year earlier. The latest results include a $2.6 million one-time payment from a \"foreign entity.\" America West wouldn't identify the entity, but said the payment was for the foreign company's use of certain tax benefits in connection with America West plane purchases. Year-earlier results included an extraordinary gain of $1.6 million from a buy-back of convertible subordinated debentures.
+Revenue rose 21% to $243.4 million from $201.2 million. For the nine months, America West posted earnings of $18.9 million, or 97 cents a share, compared with a loss of $9.7 million, or 74 cents a share, a year earlier. Revenue rose 27% to $715.1 million from $563.8 million."]
+"""
+import json
+from collections import Counter
+
+def extract_event_triggers(text):
+   """
+   :type text: str
+   :rtype: List[str]
+   """
+   
+   # Your code here
+   return []

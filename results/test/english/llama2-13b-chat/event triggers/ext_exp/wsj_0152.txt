@@ -1,0 +1,13 @@
+[
+"extended",
+"offer",
+"valued",
+"set",
+"expire",
+"owns",
+"tendered",
+"rejected",
+"inadequate",
+"closed",
+"up"
+]

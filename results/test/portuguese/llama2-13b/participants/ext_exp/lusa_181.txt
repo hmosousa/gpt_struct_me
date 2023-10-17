@@ -1,0 +1,21 @@
+["Um homem morreu", "hoje", "nadava", "uma praia", "na costa ocidental", "Austrália", "agências internacionais", "o homem", "55 anos", "naquela", "oitava morte", "género", "praia de Cable", "noroeste", "Austrália", "oceano Índico", "tubarão", "coxa", "mão", "vítima", "polícia", "paramédicos", "salvá-la", "morreu", "local", "polícia", "tubarão", "zona", "meia hora", "ataque", "fechou", "praia", "famosa", "22 quilómetros", "areia branca", "número", "mortes", "ataques", "tubarões", "ano", "Austrália", "estudos", "agência", "CSIRO", "2018", "Austrália", "exemplares", "adultos", "tubarões brancos", "perigosos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque proibem a entrada de pessoas não vacinadas contra a Covid-19
+As autoridades de Nova Iorque proibiram a entrada de pessoas não vacinadas contra a Covid-19 em espaços públicos, como restaurantes, bares, teatros e ginásios, a partir de 27 de dezembro, anunciou o prefeito da cidade, Bill de Blasio.
+A medida, que entrará em vigor no dia 27 de dezembro, é uma resposta à subida de casos de Covid-19, que se traduzem em um aumento de internações nos hospitais da cidade.
+"Nós estamos a ver um aumento significativo de casos de Covid-19, e isso está a afetar a nossa capacidade de tratar os casos mais graves", disse o prefeito.
+"Esta é uma medida de emergência, e é uma medida que vamos tomar para proteger a nossa comunidade", acrescentou.
+A medida, que entrará em vigor no dia 27 de dezembro, é uma resposta à subida de casos de Covid-19, que se traduzem em um aumento de internações nos hospitais da cidade.
+"Nós estamos a ver um aumento significativo de casos de Covid-19, e isso está a afetar a nossa capacidade de tratar os casos mais graves", disse o prefeito.
+"Esta é uma medida de emergência, e é uma medida que vamos tomar para proteger a nossa comunidade", acrescentou.
+A medida, que entrará em vigor no dia 27 de dezembro, é uma resposta à subida de casos de Covid-19, que se traduzem em um aumento de internações nos hospitais da cidade.
+"Nós estamos a ver um aumento significativo de casos de Covid-19, e isso está a afetar a nossa capacidade de tratar os casos mais graves", disse o prefeito.
+"Esta é uma medida de emergência, e é uma medida que vamos tomar para proteger a nossa comunidade", acrescentou.
+A medida, que entrará em vigor no dia 27 de dezembro, é uma resposta à subida de casos de Covid-19, que se traduzem em um aumento de internações nos hospitais da cidade.
+"Nós estamos a ver um aumento significativo de casos de Covid-19, e isso está a afetar a nossa capacidade de tratar os casos mais graves", disse o prefeito.
+"Esta é uma medida de emergência, e é uma medida que vamos tomar para proteger a nossa comunidade", acrescentou.
+A medida, que entrará em vigor no dia 27 de dezembro, é uma resposta à subida de casos de Covid-19, que se traduzem em um aumento

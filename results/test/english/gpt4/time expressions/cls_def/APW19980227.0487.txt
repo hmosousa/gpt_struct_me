@@ -1,0 +1,7 @@
+[
+["Friday", "Date"],
+["22", "Date"],
+["more than four hours Friday", "Duration"],
+["27", "Date"],
+["November 1995", "Date"]
+]

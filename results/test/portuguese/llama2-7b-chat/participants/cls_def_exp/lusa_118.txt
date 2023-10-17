@@ -1,0 +1,2 @@
+
+[["Covid-19", "Other"], ["Emmanuel Macron", "Per"], ["Paris", "Loc"], ["o presidente", "Per"], ["o Palácio do Eliseu", "Fac"], ["a quarta-feira", "Loc"], ["o primeiro-ministro", "Per"], ["a agência Lusa", "Org"], ["a deslocação", "Org"], ["São Tomé e Príncipe e Guiné Bissau", "Loc"], ["18 a 20 de dezembro", "Loc"], ["a sua presença física", "Org"], ["toda a atividade executiva", "Org"], ["a agenda de trabalho", "Org"], ["a distância", "Org"], ["não apresenta quaisquer sintomas", "Per"]]

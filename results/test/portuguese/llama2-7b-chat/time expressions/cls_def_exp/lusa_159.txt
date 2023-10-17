@@ -1,0 +1,16 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["outubro", "Time"], ["30 nov 2020", "Date"]]
+
+Explanation:
+
+* "em menos de uma semana" is classified as "Duration" because it represents a time period of less than a week.
+* "sábado" is classified as "Date" because it represents a specific day of the week.
+* "outubro" is classified as "Time" because it represents a month.
+* "30 nov 2020" is classified as "Date" because it represents a specific date in the future.
+
+Note:
+
+* The input text may contain multiple time expressions, which are separated by commas.
+* Each time expression is represented as a list with two elements: the entity and the class.
+* The entity is the text that represents the time expression, and the class is the category that the entity belongs to.
+* The classes are defined in the task description: "Date", "Time", "Duration", and "Set".
+* The output is a JSON-parseable list of time expressions, where each element is a list with two strings.

@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["de 50 anos", "Per"], ["e", "Other"], ["elaborado", "Other"], ["o respetivo auto de contraordenação", "Other"], ["por transporte de espécies bivalves em estado imaturo", "Other"], ["esta infração", "Other"], ["punível", "Other"], ["com coima máxima de 37.500 euros", "Obj"], ["a", "Other"], ["apreensão", "Other"], ["efetuada", "Other"], ["pelo", "Other"], ["Unidade de Controlo Costeiro (UCC) de Matosinhos", "Org"], ["no", "Other"], ["total", "Other"], ["7.400 quilogramas", "Other"], ["de cerastoderma edule", "Other"], ["um molusco bivalve de água salgada", "Other"], ["a mercadoria apreendida", "Other"], ["foi devolvida", "Other"], ["ao seu habitat natural", "Other"], ["em virtude", "Other"], ["dos espécimes", "Other"], ["se encontrarem", "Other"], ["vivos", "Other"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Org: Organization
+* Obj: Object
+* Other: Other
+* Fac: Facility
+* Loc: Location
+* Nature: Nature
+
+The input text is a news article about the seizure of over seven tons of berbigão (a type of clam) by the Portuguese National Republican Guard (GNR) in the city of Valença, in the district of Viana do Castelo. The article mentions the age of the person who was identified and the estimated value of the seized goods.

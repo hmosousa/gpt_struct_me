@@ -1,0 +1,4 @@
+[["encontrado", "I_Action"], ["morto", "Occurrence"], ["marcas", "Occurrence"], ["ter estado", "Aspectual"], ["amarrado", "Occurrence"], ["pés", "Occurrence"], ["mãos", "Occurrence"], ["sinais", "Occurrence"], ["indícios", "Occurrence"], ["não se terá tratado", "Aspectual"], ["suicídio", "Occurrence"], ["alertada", "I_Action"], ["Polícia Judiciária", "I_Action"], ["analysed", "I_Action"], ["recolheu", "I_Action"], ["local", "Occurrence"], ["residência", "Occurrence"], ["transporte", "I_Action"], ["serviço", "I_Action"], ["medicina", "I_Action"], ["leg", "I_Action"], ["polícia", "I_Action"], ["investigar", "I_Action"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "GNR", "Polícia Judiciária"), and the second string is the class (e.g. "I_Action", "Occurrence", "Aspectual"). The classes are defined in the task description.

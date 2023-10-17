@@ -1,0 +1,12 @@
+[["agredir", "I_Action"], ["fisica", "Occurrence"], ["psicologicamente", "Occurrence"], ["mãe", "Entity"], ["em", "PrepositionalPhrase"], ["Valongo", "Location"], ["proibido", "State"], ["contactar", "State"], ["estar", "State"], ["perto", "PrepositionalPhrase"], ["de", "PrepositionalPhrase"], ["antecedentes", "Occurrence"], ["criminais", "State"], ["prática", "State"], ["do", "PrepositionalPhrase"], ["mesmo", "Conjunction"], ["crime", "State"], ["amenaçou", "I_Action"], ["coagiu", "I_Action"], ["entregar-lhe", "I_Action"], ["satisfazer", "I_Action"], ["vício", "State"], ["de", "PrepositionalPhrase"], ["consumo", "State"], ["de", "PrepositionalPhrase"], ["bens", "Entity"], ["da", "PrepositionalPhrase"], ["residência", "Entity"], ["originou", "I_Action"], ["mandado", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "mãe") and the second string is the class (e.g. "Entity"). The classes are:
+
+* Entity: refers to any entity mentioned in the text, including people, places, and things.
+* I_Action: refers to an action performed by an entity, such as "agredir" in the example.
+* Occurrence: refers to an event or situation that happens or exists, such as "violência doméstica" in the example.
+* State: refers to a state or condition of being, such as "proibido" in the example.
+* PrepositionalPhrase: refers to a phrase that functions as a preposition, such as "em Valongo" in the example.
+
+Your task is to extract and classify all event triggers in the input text using the classes provided.

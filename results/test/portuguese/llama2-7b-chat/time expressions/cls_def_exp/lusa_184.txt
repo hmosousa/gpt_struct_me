@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["em Famalicão", "Location"], ["hoje", "Date"], ["60-65 anos", "Age"], ["8 metros", "Distance"], ["15:30", "Time"], ["GNR", "Organization"], ["socorro", "Event"]]

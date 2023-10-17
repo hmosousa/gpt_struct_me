@@ -1,0 +1,1 @@
+[["agreed", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["call", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["held", "STATE"], ["has", "STATE"], ["is", "STATE"], ["has", "STATE"], ["is", "STATE"], ["less", "OCCURRENCE"], ["based", "STATE"], ["said", "REPORTING"], ["is", "STATE"], ["hopes", "I_STATE"], ["complete", "OCCURRENCE"]]

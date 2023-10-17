@@ -1,0 +1,1 @@
+["last year", "each of the past three years", "recently", "yesterday"]

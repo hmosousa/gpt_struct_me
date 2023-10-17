@@ -1,0 +1,23 @@
+[
+["Friday", "Date"],
+["the third quarter", "Date"],
+["next year", "Date"],
+["the quarter", "Date"],
+["the year-earlier quarter", "Date"],
+["a month ago", "Date"],
+["$500 million a year", "Duration"],
+["the end of the year", "Date"],
+["the quarter", "Date"],
+["future quarters", "Set"],
+["the past several quarters", "Set"],
+["every quarter", "Set"],
+["next year", "Date"],
+["this year", "Date"],
+["last year", "Date"],
+["the first nine months", "Date"],
+["a year earlier", "Date"],
+["the fourth quarter", "Date"],
+["next year", "Date"],
+["next year", "Date"],
+["Friday", "Date"]
+]

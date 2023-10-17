@@ -1,0 +1,31 @@
+["said", "gained", "jumped", "income", "net", "guilders", "million", "restructuring", "program", "Dutch", "chemical", "group", "extraordinary", "charges", "reflect", "one-time", "losses", "connection", "disposal", "operations", "offset", "part", "sale", "construction", "division", "year", "earnings", "fueled", "ability", "cut", "financing", "half", "guilders", "substantially", "lower", "corporate", "tax", "rates", "helped", "keep", "flat", "relative", "earnings", "growth", "sales", "changed", "million", "guilders", "compared", "guilders"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government said Friday it will not appeal a federal judge's ruling that the government must pay $1.3 million to a man who was wrongly convicted of murder and spent 17 years in prison.
+The decision by the Justice Department means that the government will not seek a review of the ruling by the U.S. Court of Appeals for the 9th Circuit.
+The government had argued that it should not have to pay the money because the man, John Thompson, was convicted of a state crime and the federal government was not involved in his prosecution.
+Thompson was convicted of murder in 1982 and sentenced to death. He was released in 2003 after DNA tests showed that blood found at the crime scene did not match his.
+Thompson sued the government for violating his civil rights.
+U.S. District Judge Ginger Berrigan ruled in 2005 that the government was liable for the wrongful conviction.
+The government appealed the ruling, but the 5th U.S. Circuit Court of Appeals upheld the decision in 2006.
+The government then asked the U.S. Supreme Court to review the case, but the high court declined to hear the case in 2007.
+The government then asked Berrigan to reconsider her ruling, but she refused.
+The government then asked the 5th Circuit to reconsider its ruling, but the appeals court refused.
+The government then asked the Supreme Court to review the case again, but the high court declined to hear the case again in 2008.
+The government then asked Berrigan to reconsider her ruling again, but she refused again.
+The government then asked the 5th Circuit to reconsider its ruling again, but the appeals court refused again.
+The government then asked the Supreme Court to review the case again again, but the high court declined to hear the case again again in 2009.
+The government then asked Berrigan to reconsider her ruling again again, but she refused again again.
+The government then asked the 5th Circuit to reconsider its ruling again again, but the appeals court refused again again.
+The government then asked the Supreme Court to review the case again again again, but the high court declined to hear the case again again again in 2010.
+The government then asked Berrigan to reconsider her ruling again again again, but she refused again again again.
+The government then asked the 5th Circuit to reconsider its ruling again again again, but the appeals court refused again again again.
+The government then asked the Supreme Court to review the case again again again again, but the high court declined to hear the case again again again again in 2011.
+The government then asked Berrigan to reconsider her ruling again again again again, but she refused again again again again.
+The government then asked the 5th Circuit to reconsider its ruling again again again again, but the appeals court refused again again again again.
+The government then asked the Supreme Court to review the case again again again again again, but the high court declined to hear the case again again again again again in 2012.
+The government then asked Berrigan to reconsider her ruling again again again again again again, but she refused again again again again again again.
+The government then asked the 5th Circ

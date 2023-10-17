@@ -1,0 +1,1 @@
+[["785 quilos", "Quantity"], ["domingo", "Date"], ["Olhão", "Location"], ["22 fardos", "Quantity"], ["2 milhões", "Money"], ["GNR", "Agency"], ["Algarve", "Location"]]

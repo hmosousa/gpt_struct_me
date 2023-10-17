@@ -1,0 +1,23 @@
+["um automobilista", "hoje", "várias pessoas", "uma manifestação", "o movimento", "As Vidas Negras Importam", "Manhattan", "Nova Iorque", "os Estados Unidos", "as autoridades", "um acidente", "uma ação intencional", "o incidente", "provocou", "feridos", "se ser transportados", "vários hospitais", "a 'Big Apple'", "a polícia de Nova Iorque", "o automóvel", "o local", "a mesma fonte", "o incidente", "as 16:00 locais", "21:00 em Lisboa", "não provocou mortos", "o local", "as ambulâncias", "as corporações de bombeiros"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por COVID-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos por COVID-19 ultrapassa 20.000, um número que se soma aos 300.000 casos confirmados de coronavírus no estado.
+O número de mortos por COVID-19 ultrapassa 20.000, anunciou hoje a prefeita de Nova Iorque, Bill de Blasio, numa conferência de imprensa.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescentou que o número de mortos por COVID-19 ultrapassa 20.000.
+"Estamos muito tristes por ter perdido tantas vidas", disse a prefeita, que acrescent

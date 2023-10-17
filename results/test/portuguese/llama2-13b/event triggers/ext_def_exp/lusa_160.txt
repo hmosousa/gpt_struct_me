@@ -1,0 +1,4 @@
+["acusou", "abuso sexual", "crianças", "agravado", "vítima", "filha", "companheira", "anunciou", "Procuradoria-Geral", "Porto", "refere", "abusos", "terão", "começado", "tempo", "vítima", "tempo", "manteve", "trato sexual", "aproveitando-se", "momentos", "sós", "despacho", "acusação", "datado", "05", "outubro"]
+
+Reference:
+https://www.acloud.guru/pt/courses/nlp-with-spacy/lessons/extracting-events

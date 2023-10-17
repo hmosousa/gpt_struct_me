@@ -1,0 +1,12 @@
+[
+["the third quarter", "Date"],
+["mid-November", "Date"],
+["a fiscal year", "Duration"],
+["a calendar year", "Duration"],
+["December", "Date"],
+["the comparable year-ago quarter", "Date"],
+["the second quarter", "Date"],
+["Oct. 31", "Date"],
+["that quarter", "Date"],
+["$30 million", "Duration"]
+]

@@ -1,0 +1,12 @@
+[["encontrado", "I_Action"], ["morto", "State"], ["rio Tua", "Occurrence"], ["na zona de Mirandela", "Occurrence"], ["Um homem de 32 anos", "I_Action"], ["foi encontrado", "I_Action"], ["saído", "I_Action"], ["de casa", "Occurrence"], ["na manhã de domingo", "Occurrence"], ["para ir à pesca", "I_Action"], ["Por volta das 19:30", "Occurrence"], ["as autoridades", "I_Action"], ["foram alertadas", "I_Action"], ["para o desaparecimento", "Occurrence"], ["iniciaram buscas", "I_Action"], ["no local", "Occurrence"], ["o corpo", "I_Action"], ["foi encontrado", "I_Action"], ["depois da meia-noite", "Occurrence"], ["e retirado", "I_Action"], ["do rio", "Occurrence"], ["nas proximidades", "Occurrence"], ["do local", "Occurrence"], ["onde", "Occurrence"], ["as autoridades", "I_Action"], ["encontraram", "I_Action"], ["os haveres", "I_Action"], ["do pescador", "Occurrence"], ["o caso", "I_Action"], ["foi entregue", "I_Action"], ["à Polícia Judiciária", "I_Action"], ["para serem apuradas", "I_Action"], ["as circunstâncias", "I_Action"], ["da morte", "Occurrence"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: an action or event that occurs in the text
+* I_State: a state or condition that holds at a certain point in time
+* Occurrence: an event or happening that is described in the text
+* Reporting: a statement or piece of information that is provided about an event or state
+* Aspectual: a description of a state or condition that holds over a period of time
+* Intensional Action: an action or event that is described as being performed with a specific goal or intention
+* Intensional State: a state or condition that is described as being present or held with a specific goal or intention.

@@ -1,0 +1,1 @@
+[["merged", "OCCURRENCE"], ["cleared", "OCCURRENCE"], ["said", "REPORTING"], ["owned", "STATE"], ["pay", "OCCURRENCE"], ["valued", "PERCEPTION"], ["pay", "OCCURRENCE"], ["be", "STATE"], ["delisted", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["is", "STATE"], ["marketed", "OCCURRENCE"], ["acquired", "OCCURRENCE"], ["assumed", "OCCURRENCE"]]

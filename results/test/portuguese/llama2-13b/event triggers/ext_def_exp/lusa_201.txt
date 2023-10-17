@@ -1,0 +1,27 @@
+["morreu", "incêndio", "sequência", "inalação", "fumo", "fonte", "Bombeiros", "Ribeira Brava", "Madeira", "vítima", "quarto", "sinais", "fogo", "chefe", "servico", "alerta", "chamas", "vivia", "sozinha", "apurar", "forças policiais", "incêndio", "vítima", "casas", "homem", "70 anos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morre em incêndio numa habitação na Ribeira Brava
+Um homem morreu hoje na sequência de um incêndio que deflagrou na sua habitação, no concelho da Ribeira Brava, por “possível inalação de fumo”, disse à Lusa fonte dos bombeiros da localidade.
+Segundo a mesma fonte da corporação dos Bombeiros Voluntários da Ribeira Brava e Ponta do Sol, na zona oeste da Madeira, “o homem já se encontrava morto por possível inalação de fumo e gases”, visto “o quarto onde se encontrava a vítima não apresentar sinais de fogo”.
+“Quando lá chegámos, o fogo já se encontrava no hall de entrada da habitação e já tinha consumido um quarto de dormir, mas não o quarto onde a vítima se encontrava”, declarou Roberto Gonçalves, chefe de serviço da corporação.
+O alerta para o incêndio foi dado cerca das 10:00, referiu, e quando os elementos da corpor

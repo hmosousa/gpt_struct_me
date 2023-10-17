@@ -1,0 +1,21 @@
+["completed", "tender", "deadline", "Sony", "Columbia", "Corp", "formally", "take", "ownership", "later", "month", "spokesman", "paying", "share", "assuming", "long-term", "debt", "Still", "effort", "hiring", "producers", "Jon", "Peters", "Peter", "Guber", "running", "Sony's", "acquisition", "Guber/Peters", "scheduled", "close", "locked", "litigation", "attempt", "settle", "dispute"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the government's 1995 decision to allow the sale of the U.S. Savings and Loan Association to the Resolution Trust Corp. was unconstitutional.
+The court's action leaves in place a ruling by the U.S. Court of Appeals for the District of Columbia Circuit that the government's decision to sell the thrift to the RTC was constitutional.
+The investors, who claimed that the government's decision to sell the thrift to the RTC was unconstitutional, had asked the Supreme Court to review the appeals court's decision.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated the Fifth Amendment's Takings Clause, which prohibits the government from taking private property for public use without just compensation.
+The investors claimed that the government's decision to sell the thrift to the RTC was unconstitutional because it violated

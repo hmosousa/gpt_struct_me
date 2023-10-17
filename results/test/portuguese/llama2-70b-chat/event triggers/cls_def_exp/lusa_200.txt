@@ -1,0 +1,12 @@
+[["Homem", "State"], ["ferido", "Occurrence"], ["gravidade", "State"], ["cortava", "I_Action"], ["árvore", "State"], ["Regilde", "State"], ["concelho", "State"], ["Felgueiras", "State"], ["caiu", "Occurrence"], ["ravina", "State"], ["sete metros", "State"], ["queda", "Occurrence"], ["árvore", "State"], ["projetada", "Occurrence"], ["ravina", "State"], ["resgatada", "Occurrence"], ["equipa", "State"], ["grande ângulo", "State"], ["corporação", "State"], ["Vizela", "State"], ["bombeiro", "State"], ["deslocaram", "I_Action"], ["ambulância", "State"], ["viatura", "State"], ["resgate", "State"], ["VMER", "State"], ["Vale do Sousa", "State"], ["Hospital", "State"], ["Guimarães", "State"], ["GNR", "State"], ["local", "State"], ["tomou", "I_Action"], ["cont", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Perception: refers to a perception or an observation
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action or a decision made with intention
+* Intensional State: refers to a state or a situation that is intended or desired.

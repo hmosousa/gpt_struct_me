@@ -1,0 +1,16 @@
+[["GNR", "State"], ["detém", "I_Action"], ["suspeito", "State"], ["tráfico", "Occurrence"], ["droga", "State"], ["Borba", "State"], ["homem", "State"], ["31", "State"], ["anos", "State"], ["district", "State"], ["Évora", "State"], ["fonte", "State"], ["segundo", "State"], ["homem", "State"], ["detido", "I_Action"], ["militares", "State"], ["Destacamento Territorial", "State"], ["Estremoz", "State"], ["sábado", "State"], ["Tribunal", "State"], ["Vila Viçosa", "State"], ["primeiro", "State"], ["interrogatório", "Occurrence"], ["eventual", "State"], ["aplicação", "I_Action"], ["medidas", "State"], ["coação", "State"], ["GNR", "State"], ["apreendeu", "I_Action"], ["suspeito", "State"], ["24,3", "State"], ["gramas", "State"], ["heroína", "State"], ["balança", "State"], ["digital", "State"], ["tesoura", "State"], ["sacos", "State"], ["plástico", "State"], ["acondicionamento", "Occurrence"], ["doses", "State"], ["individuais", "State"], ["cerca", "State"], ["150", "State"], ["euros", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* Occurrence: refers to any concrete action, physical movement, behavior, change in emotional states or the passage of time.
+* Reporting: refers to any event that is reported or described in the text.
+* Perception: refers to any event that is perceived or observed.
+* Aspectual: refers to any event that is described in terms of its aspectual properties, such as its duration or completion.
+* Intensional Action: refers to any event that is described in terms of the intention or purpose behind it.
+* Intensional State: refers to any event that is described in terms of the state or condition that it brings about.
+
+The goal is to extract and classify all event triggers in the given text, where an event trigger is a word or phrase that signals the occurrence of an event. For example, in the sentence "The dog ran across the field", "ran" is an event trigger that signals the occurrence of the event "the dog running across the field".
+
+The output should be a list of pairs, where each pair contains the event trigger and its corresponding class. The classes are the same as the ones used in the output format of the previous task.

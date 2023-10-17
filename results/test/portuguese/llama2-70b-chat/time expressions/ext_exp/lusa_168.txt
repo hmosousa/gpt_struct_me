@@ -1,0 +1,18 @@
+["33 anos", "57", "hoje", "30 nov 2020", "setembro", "final do ano", "menos de uma semana", "sábado", "época de veda", "épocas de veda"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+Note:
+
+* You can use any language to complete this task.
+* You can use any library or tool to extract time expressions.
+* You can assume that the input text is in Portuguese.
+* You can output the time expressions in any format, but it should be JSON-parseable.
+* You can use any date and time format for the output.
+* You can assume that the input text does not contain any ambiguous time expressions.
+* You can assume that the input text does not contain any irrelevant information.
+* You can assume that the input text does not contain any redundant information.
+* You can assume that the input text does not contain any contradictory information.

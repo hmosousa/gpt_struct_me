@@ -1,0 +1,19 @@
+[
+["late yesterday", "Time"],
+["within a week", "Duration"],
+["yesterday", "Date"],
+["over the weekend", "Set"],
+["Feb. 11", "Date"],
+["a week or so ago", "Set"],
+["Saturday night", "Time"],
+["within a week", "Duration"],
+["starting at noon Saturday", "Time"],
+["last August", "Date"],
+["a week", "Duration"],
+["four days", "Duration"],
+["nearly an hour", "Duration"],
+["Saturday night", "Time"],
+["the first hours", "Time"],
+["over the next few days", "Duration"],
+["eight-year war", "Duration"]
+]

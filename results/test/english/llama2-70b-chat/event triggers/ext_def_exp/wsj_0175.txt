@@ -1,0 +1,1 @@
+["completed", "tendered", "deadline", "take", "paying", "assuming", "unresolved", "effort", "hired", "planned", "acquisition", "scheduled", "locked", "attempt", "settle", "dispute"]

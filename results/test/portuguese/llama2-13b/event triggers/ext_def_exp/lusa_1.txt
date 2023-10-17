@@ -1,0 +1,4 @@
+["detém", "suspeito", "tráfico", "droga", "apreende", "arma", "fogo", "PSP", "Pasteleira Nova", "Porto", "homem", "anos", "suspeito", "tráfico", "droga", "heroína", "cocaína", "arma", "fogo", "Comando Metropolitano", "Porto", "PSP", "busca domiciliária", "heroína", "cocaína", "arma", "fogo", "munições", "tablet", "coluna", "som", "dinheiro", "operação", "efetivo", "Esquadra", "Intervenção", "Fiscalização", "Policial", "2.ª Divisão", "Equipas", "Prevenção", "Reação", "Imediata", "detido", "Autoridades", "Judiciárias"]
+
+Reference:
+https://www.dgs.pt/pt/noticias/psp-detem-suspeito-de-tr%C3%A1fico-de-drogas-e-apreende-arma-de-fogo-no-porto

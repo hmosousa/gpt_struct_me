@@ -1,0 +1,5 @@
+
+["called", "redemption", "outstanding", "remaining", "said", "terminate", "conversion", "rights", "stock", "convertible", "rate", "equivalent", "closed", "down"]
+
+
+

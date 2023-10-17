@@ -1,0 +1,1 @@
+[["Governo", "Organization"], ["Ricardo Pinheiro", "Person"], ["José Mendes", "Person"], ["José Fernandes Gomes Mendes", "Person"], ["Nelson de Sousa", "Person"], ["Palácio de Belém", "Location"], ["Câmara de Campo Maior", "Location"]]

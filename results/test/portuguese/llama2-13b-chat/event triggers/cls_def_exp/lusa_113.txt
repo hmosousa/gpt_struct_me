@@ -1,0 +1,12 @@
+[["pelo menos sete", "I_Quantity"], ["mortos", "Occurrence"], ["em estado crítico", "State"], ["num incêndio", "Occurrence"], ["em Hong Kong", "Location"], ["pessoas", "I_Quantity"], ["morreram", "Occurrence"], ["e", "Conjunction"], ["três homens", "I_Quantity"], ["três mulheres", "I_Quantity"], ["uma criança de 09 anos", "I_Quantity"], ["hospitalizados", "State"], ["duas outras pessoas", "I_Quantity"], ["em estado grave", "State"], ["o incêndio", "Occurrence"], ["foi o mais mortal em Hong Kong em quase uma década", "Aspectual"], ["o apartamento", "Location"], ["teria acolhido uma reunião familiar", "State"], ["mas as autoridades estão a investigar se funcionava no local um restaurante sem licença", "Reporting"], ["a maioria das vítimas é nepalesa", "Aspectual"], ["os bombeiros informaram hoje numa conferência de imprensa", "Reporting"], ["que não havia medidas de segurança contra incêndios no edifício", "Reporting"], ["e que um dos presentes durante o evento conseguiu salvar-se ao subir pela janela da casa de banho do apartamento", "Reporting"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: actions and events that occur in the story
+* I_Quantity: quantities and amounts that are mentioned in the story
+* Occurrence: events and happenings that take place in the story
+* State: states and conditions that exist or hold at a particular point in time
+* Aspectual: aspects and features of the story that are mentioned, but do not constitute a complete event or state
+* Intensional Action: actions and events that are intended or planned to occur in the story
+* Intensional State: states and conditions that are intended or planned to exist in the story.

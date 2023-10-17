@@ -1,0 +1,6 @@
+["hoje", "cerca das 17:20"]
+
+Note:
+The input text is in Portuguese.
+
+Please provide a JSON-parseable list of strings, representing all time expressions in the input text.

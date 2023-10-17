@@ -1,0 +1,1 @@
+["Iraqi", "Arab", "Kuwaiti", "Israel", "Saudi", "American", "Western", "U.N.", "Bush", "White House", "U.S.", "Iranian", "Persian Gulf", "German", "Canadian", "French", "Australian", "Russian", "Egyptian", "Jordanian", "Palestinian", "Syrian", "Moroccan"]

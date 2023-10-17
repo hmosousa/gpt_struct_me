@@ -1,0 +1,18 @@
+[
+"Ratners",
+"Weisfield's",
+"Gerald Ratner",
+"London",
+"yesterday",
+"mid-afternoon",
+"2 pence",
+"1.26 cents",
+"260 pence",
+"$1.64",
+"scheduled",
+"completion",
+"Dec. 10",
+"450 stores",
+"30%",
+"profit"
+]

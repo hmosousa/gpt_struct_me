@@ -1,0 +1,11 @@
+["will", "sell", "contract", "drilling", "business", "planned", "sale", "further", "adverse", "financial", "restructuring", "third", "period", "company", "owned", "Murphy", "Arkansas", "net", "loss", "91", "cents", "share", "restated", "9", "million", "18", "cents", "a", "year", "gained", "revenue", "million", "68", "million", "offer", "initial", "public", "near", "future", "concentrate", "core", "business", "long", "rumored", "hold", "shares", "new", "company", "after", "restructuring"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has approved the sale of 12 F-16 fighter jets to Pakistan, the State Department said.
+The $400 million deal, which includes spare parts and training, was approved by the Defense Security Cooperation Agency, the State Department said in a statement.
+The sale is subject to congressional approval.
+The F-16s are part of a $1.2 billion package of military equipment that the United States agreed to sell to Pakistan in 1990.
+The package also includes 12 AH-1 Cobra attack helicopters, 12 AH-64 Apache attack helicopters, 12 Harpoon anti-ship missiles, 12 Sidewinder air-to-air missiles, 12 AGM-84 Harpoon missiles, 12 AGM-84E SLAM missiles, 12 AGM-84L SLAM missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles, 12 AGM-84L SLAM-ER missiles

@@ -1,0 +1,13 @@
+[["homem", "I_Person"], ["baleado", "Occurrence"], ["fugiu", "I_Action"], ["disparo", "Occurrence"], ["pôs-se", "I_Action"], ["em", "Aspectual"], ["fuga", "State"], ["vítima", "I_Person"], ["atingida", "Occurrence"], ["no", "Aspectual"], ["braço", "Aspectual"], ["esquerdo", "Aspectual"], ["conduzida", "I_Action"], ["ao", "Aspectual"], ["hospital", "Location"], ["bombeiros", "I_Organization"], ["de", "Aspectual"], ["Valadares", "Location"], ["trata-se", "I_State"], ["de", "Aspectual"], ["ferido", "State"], ["ligeiro", "State"], ["alerta", "Occurrence"], ["chegou", "Aspectual"], ["às", "Aspectual"], ["autoridades", "I_Organization"], ["pelas", "Aspectual"], ["11:45", "Time"], ["polícia", "I_Organization"], ["judiciária", "I_Organization"], ["chamada", "I_Action"], ["investigar", "I_Action"], ["caso", "State"], ["da", "Aspectual"], ["competência", "State"], ["reservada", "State"]]
+
+Note:
+- "I_Action" refers to Intensional Action
+- "I_State" refers to Intensional State
+- "Occurrence" refers to Event
+- "Aspectual" refers to Aspect
+- "Location" refers to Location
+- "Reporting" refers to Reporting
+
+Your task is to extract and classify all event triggers in the given texts.
+
+Please note that the output should be in the format specified above, with each event trigger being a list of two strings, where the first string is the entity and the second string is the class.

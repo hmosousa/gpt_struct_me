@@ -1,0 +1,21 @@
+["hoje", "cerca das 17:55", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract dates in the format "day month year" (e.g. "30 nov 2020"):
+
+import re
+
+dates = re.findall(r"\b(\d{1,2}/\w{3}/\d{4})\b", text)
+
+This code uses regular expressions to find all sequences of one to two digits, followed by a forward slash, three letters (representing the month), another forward slash, and four digits (representing the year). The \b characters match word boundaries, ensuring that we only match complete dates.
+
+You can then convert these dates to a JSON-parseable list of strings using the list comprehension:
+
+dates_json = [date.strip() for date in dates]
+
+This will produce a list of strings in the format "30 nov 2020".
+
+You can use a similar approach to extract other time expressions, such as "hoje" (today) and "cerca das 17:55" (around 5:55 PM).

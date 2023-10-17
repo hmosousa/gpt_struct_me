@@ -1,0 +1,1 @@
+[["em Braga", "Location"], ["69 anos", "Age"], ["61 anos", "Age"], ["48 anos", "Age"], ["Dume", "Location"], ["prática de crimes de homicídio qualificado", "Crime"], ["profanação de cadáver", "Crime"], ["burla informática", "Crime"], ["furto", "Crime"]]

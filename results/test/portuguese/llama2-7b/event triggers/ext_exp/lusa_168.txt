@@ -1,0 +1,24 @@
+["Homem", "prisão", "preventiva", "agredir", "física", "psicologicamente", "mãe", "Valongo", "proibido", "contactar", "perto", "mãe", "desta", "violência", "integridade", "afastamento", "proibição", "contacto", "mãe", "maus", "tratos", "agredi", "psicologicamente", "reiterada", "forçando", "fornecer", "limpar", "sublinhou", "violência", "episódio", "coagiu", "entregar", "satisfazer", "vício", "consumo", "drogas", "originou", "mandado", "detenção"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, segundo a Organização Mundial de Saúde (OMS).
+A OMS informou hoje que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que mais de 100 milhões de pessoas estão em quarentena em todo o mundo, em resposta à

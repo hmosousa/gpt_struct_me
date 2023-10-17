@@ -1,0 +1,4 @@
+["traitor", "regretted", "pleaded", "innocent", "fail", "report", "plan", "kill", "assassin", "life", "impress", "prayed", "black", "stain", "believe", "nonsense", "prohibited", "original", "delusional", "liar", "accusations", "joined", "underground", "false", "location", "asked"]
+
+Format:
+JSON-parseable list of strings.

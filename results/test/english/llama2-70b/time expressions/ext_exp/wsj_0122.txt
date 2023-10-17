@@ -1,0 +1,16 @@
+[December, December]
+"""
+import re
+from datetime import date
+
+def extract_time(text):
+   """Extract all time expressions from text.
+   
+   Args:
+       text (str): Text to be processed.
+       
+   Returns:
+       List of str: Time expressions extracted from text.
+   """
+   # TODO: Implement this function!
+   return []

@@ -1,0 +1,10 @@
+[["pediu", "I_Action"], ["suspeita", "Occurrence"]]
+
+
+Note:
+
+* The input text is in Portuguese, and the output is in English.
+* The list of classes is provided in the task description.
+* The input text contains event triggers, which are highlighted in the output list.
+* Each event trigger is a list with two strings, where the first string is the entity and the second is the class.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

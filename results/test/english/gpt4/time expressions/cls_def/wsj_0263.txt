@@ -1,0 +1,6 @@
+[
+["Jan. 3", "Date"],
+["Nov. 16", "Date"],
+["the fourth quarter ended Aug. 26", "Date"],
+["A year earlier", "Date"]
+]

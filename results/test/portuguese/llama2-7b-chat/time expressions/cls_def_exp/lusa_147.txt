@@ -1,0 +1,1 @@
+[["OE2021", "Date"], ["debat", "Set"], ["hoje", "Date"], ["10:06", "Time"], ["10:11", "Time"], ["António Costa", "Person"], ["Ana Gomes Godinho", "Person"], ["João Pedro Matos Fernandes", "Person"]]

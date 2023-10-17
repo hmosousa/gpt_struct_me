@@ -1,0 +1,1 @@
+[["fourth-quarter", "Date"], ["55 years old", "Date"], ["two-year", "Duration"], ["six months", "Duration"], ["two-year", "Duration"], ["earlier this year", "Date"]]

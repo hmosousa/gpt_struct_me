@@ -1,0 +1,1 @@
+[["em menos de uma semana", "Duration"], ["hoje", "Date"], ["Costa ocidental da Austrália", "Location"], ["2019", "Time"], ["2020", "Time"], ["8", "Time"], ["27", "Time"], ["1929", "Time"]]

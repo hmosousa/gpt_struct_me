@@ -1,0 +1,16 @@
+[“Seattle”, “$3.1 million”, “$1.20”, “Donald A. Wright”]
+"""
+import re
+from datetime import date
+
+def extract_time(text):
+   """Extract all time expressions from text.
+   
+   Args:
+       text (str): The input string.
+       
+   Returns:
+       List of str: All extracted time expressions.
+   """
+   # TODO: Implement this function!
+   return []

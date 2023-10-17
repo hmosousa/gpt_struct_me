@@ -1,0 +1,1 @@
+[["Homem", "Per"], ["Famalicão", "Loc"], ["Jesufrei", "Loc"], ["Vila Nova de Famalicão", "Loc"], ["Comando Distrital de Operações de Socorro", "Org"], ["Braga", "Loc"], ["o telhado", "Fac"], ["cerca de oito metros", "Other"], ["15:30", "Time"], ["o óbito", "Per"], ["o Socorro", "Org"], ["a GNR", "Org"]]

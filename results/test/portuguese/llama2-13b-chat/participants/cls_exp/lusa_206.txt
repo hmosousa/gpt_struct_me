@@ -1,0 +1,12 @@
+[["Quatro homens", "Per"], ["detidos", "Org"], ["pela PSP", "Org"], ["depois de disparos", "Other"], ["em Lisboa", "Loc"], ["em dois veículos distintos", "Other"], ["foram", "Per"], ["hoje", "Other"], ["detidos", "Org"], ["após", "Other"], ["os disparos", "Other"], ["mas", "Other"], ["acabaram", "Per"], ["intercetados", "Org"], ["e", "Other"], ["detidos", "Org"], ["Não", "Other"], ["havendo", "Other"], ["feridos", "Per"], ["apenas", "Other"], ["danós", "Other"], ["em", "Other"], ["viaturas", "Org"], ["estacionadas", "Other"], ["no", "Other"], ["local", "Loc"], ["adiantou", "Other"], ["a mesma", "Other"], ["fonte", "Org"], ["que", "Other"], ["ficaram", "Other"], ["no", "Other"], ["local", "Loc"], ["vários", "Other"], ["invólucros", "Other"], ["de", "Other"], ["balas", "Other"], ["O caso", "Org"], ["foi", "Other"], ["entregue", "Org"], ["à", "Other"], ["Polícia", "Org"], ["Judiciária", "Org"]]
+
+Note:
+- "Per" stands for "Person"
+- "Org" stands for "Organization"
+- "Loc" stands for "Location"
+- "Other" stands for "Other"
+
+Hint:
+You can use the Stanford CoreNLP tool to extract the entities and classes.
+
+Please let me know if you need any further clarification or details.

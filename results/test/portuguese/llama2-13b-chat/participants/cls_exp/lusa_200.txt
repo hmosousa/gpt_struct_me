@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["ferido com gravidade", "Per"], ["quando cortava árvore", "Other"], ["em Regilde", "Loc"], ["no concelho de Felgueiras", "Loc"], ["e caiu numa ravina", "Other"], ["com cerca de sete metros", "Other"], ["disse à Lusa", "Org"], ["fonte dos bombeiros", "Org"], ["a vítima", "Per"], ["terá sido atingida", "Other"], ["pela queda da árvore", "Other"], ["cerca das 17:55", "Other"], ["acabando projetada para a ravina", "Other"], ["de acordo com o comandante Júlio Pereira", "Org"], ["a vítima é bombeiro em Vizela", "Other"], ["teve de ser resgatada", "Other"], ["pela equipa de grande ângulo", "Other"], ["da corporação de Felgueiras", "Org"], ["Os Bombeiros de Felgueiras", "Org"], ["deslocaram para o local", "Other"], ["uma ambulância", "Other"], ["a viatura de desencarceramento", "Other"], ["e a viatura de resgate em grande ângulo", "Other"], ["O homem", "Per"], ["foi ainda assistido", "Other"], ["pela equipa da Viatura Médica de Emergência e Reanimação", "Other"], ["do Vale do Sousa", "Other"], ["e transportado para o Hospital de Guimarães", "Other"], ["A GNR", "Org"], ["esteve no local", "Other"], ["e tomou conta da ocorrência", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

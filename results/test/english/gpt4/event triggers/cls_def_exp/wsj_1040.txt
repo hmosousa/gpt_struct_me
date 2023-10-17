@@ -1,0 +1,1 @@
+[["declared", "OCCURRENCE"], ["payable", "STATE"], ["said", "REPORTING"], ["apply", "OCCURRENCE"], ["rewards", "OCCURRENCE"], ["improve", "OCCURRENCE"], ["has", "STATE"], ["closed", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["paid", "OCCURRENCE"], ["outstanding", "STATE"], ["trading", "OCCURRENCE"], ["unchanged", "STATE"]]

@@ -1,0 +1,45 @@
+["ISTANBUL", "Turkey", "Sunday", "downtown Istanbul", "Yugoslavian", "Serb", "Kosovo", "Serb Kosovo", "protest", "killings", "ethnic Albanians", "Serb police", "southern Serb Kosovo", "burning", "Serbian", "flags", "downtown Istanbul", "Yugoslavian", "consulate", "downtown Istanbul", "protesters", "chanted", "Stop", "bloodshed", "Kosovo", "Ankara", "black", "wreath", "gate", "Yugoslavian", "embassy", "Ethnic", "Albanians", "Kosovo", "comprise", "population", "Serbs", "control", "large", "military", "police", "presence", "recent", "days", "reported", "killed", "clashes", "Serb", "police", "ethnic", "Albanians", "troubled", "region", "worried", "civil", "war", "spilling", "Balkans", "peacefully", "change", "borders", "Turks", "hundreds", "years", "Ottoman", "Empire"]
+
+Explanation:
+
+The task is to extract all time expressions from a given text.
+
+A time expression is a linguistic element that allows us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The input text is a news article about the conflict in Kosovo.
+
+The output is a list of strings, each representing a time expression.
+
+The first string in the output is "next week", which is a time expression that indicates that the events described in the article will occur in the future.
+
+The second string in the output is "Friday", which is a time expression that indicates that the events described in the article occurred on a specific day.
+
+The third string in the output is "nearly two months", which is a time expression that indicates that the events described in the article occurred over a period of time that was close to two months.
+
+The fourth string in the output is "1990", which is a time expression that indicates that the events described in the article occurred in the year 1990.
+
+The fifth string in the output is "Thursday", which is a time expression that indicates that the events described in the article occurred on a specific day.
+
+The sixth string in the output is "Jan. 13", which is a time expression that indicates that the events described in the article occurred on a specific date.
+
+The seventh string in the output is "Previously", which is a time expression that indicates that the events described in the article occurred before a specific event.
+
+The eighth string in the output is "03/06/1998 13:19:00", which is a time expression that indicates that the events described in the article occurred at a specific time.
+
+The ninth string in the output is "Thursday", which is a time expression that indicates that the events described in the article occurred on a specific day.
+
+The tenth string in the output is "Feb. 23", which is a time expression that indicates that the events described in the article occurred on a specific date.
+
+The eleventh string in the output is "over a week", which is a time expression that indicates that the events described in the article occurred over a period of time that was longer than a week.
+
+The twelfth string in the output is "Thursday", which is a time expression that indicates that the events described in the article occurred on a specific day.
+
+The thirteenth string in the output is "Friday", which is a time expression that indicates that the events described in the article occurred on a specific day.
+
+The fourteenth string in the output is "10-hour", which is a time expression that indicates that the events described in the article occurred over a period of time that was ten hours.
+
+In summary, the output is a list of strings that represent time expressions that are used to describe the events described in the article.
+
+Sample Input:
+
+"BAGHDAD, Iraq (AP)_ An American

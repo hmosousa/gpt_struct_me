@@ -1,0 +1,4 @@
+[["sofreu", "I_Action"], ["queimaduras", "Occurrence"], ["na face e nos membros superiores", "Occurrence"], ["hoje", "Aspectual"], ["manuseava", "I_Action"], ["gasolina", "State"], ["em", "Preposition"], ["Vale de S. Martinho", "Location"], ["e teve se ser conduzido", "Reporting"], ["ao", "Preposition"], ["Hospital de São João", "Location"], ["indicou", "Reporting"], ["fonte", "Source"], ["dos", "Preposition"], ["bombeiros", "Entity"], ["locais", "Location"], ["sofreu", "I_Action"], ["queimaduras", "Occurrence"], ["de", "Preposition"], ["segundo e terceiro graus", "Occurrence"], ["ainda", "Aspectual"], ["se", "Pronoun"], ["desconhece", "Verb"], ["a", "Article"], ["causa", "Noun"], ["do", "Preposition"], ["acidente", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

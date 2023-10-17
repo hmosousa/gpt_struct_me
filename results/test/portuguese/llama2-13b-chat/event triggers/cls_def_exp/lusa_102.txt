@@ -1,0 +1,28 @@
+[["detido", "I_Action"], ["suspeitas", "Occurrence"], ["ateado", "Occurrence"], ["fogo", "Occurrence"], ["prédio", "State"], ["habitacional", "State"], ["causou", "Occurrence"], ["feridos", "Occurrence"], ["inalação", "Occurrence"], ["fumo", "Occurrence"], ["PSP", "Reporting"], ["confirmaram", "Reporting"], ["colocado", "Occurrence"], ["peças", "Occurrence"], ["roupa", "Occurrence"], ["hall", "Occurrence"], ["interceção", "Occurrence"], ["assistência", "Occurrence"], ["médica", "Occurrence"], ["transporte", "Occurrence"], ["relevo", "Occurrence"], ["habitável", "State"], ["realojamentos", "State"], ["deflagrou", "Occurrence"], ["extinto", "Occurrence"], ["bombeiros", "Reporting"], ["prosseguirá", "I_Action"], ["investigação", "Occurrence"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: Intensional Action
+* Occurrence: Event
+* Reporting: Reporting
+* State: State
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event. For example, in the first input text, the event triggers are "Covi-19", "erros", "quarentena", "mortes", "desculpa", "programa", "investigação".
+
+In the second input text, the event triggers are "fogo", "detido", "suspeitas", "ateado", "prédio", "habitacional", "causou", "feridos", "inalação", "fumo", "PSP", "confirmaram", "colocado", "peças", "roupa", "hall", "interceção", "assistência", "médica", "transporte", "relevo", "habitável", "realojamentos", "deflagrou", "extinto", "bombeiros", "prosseguirá", "investigação".
+
+Your output should be a list of lists, where each inner list contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: Intensional Action
+* Occurrence: Event
+* Reporting: Reporting
+* State: State
+
+For example, the output for the first input text should be:
+
+[["Covi-19", "Occurrence"], ["erros", "Occurrence"], ["quarentena", "State"], ["mortes", "Occurrence"], ["desculpa", "State"], ["programa", "State"], ["investigação", "Occurrence"]]
+
+And the output for the second input text should be:
+
+[["fogo", "Occurrence"], ["detido", "I_Action"], ["suspeitas", "Occurrence"], ["ateado", "Occurrence"], ["prédio", "State"], ["habitacional", "State"], ["causou", "Occurrence"], ["feridos", "Occurrence"], ["inalação", "Occurrence"], ["fumo", "Occurrence"], ["PSP", "Reporting"], ["confirmaram", "Reporting"], ["colocado", "Occurrence"], ["peças", "Occurrence"], ["roupa", "Occurrence"], ["hall", "Occurrence"], ["interceção", "Occurrence"], ["assistência", "Occurrence"], ["médica", "Occurrence"], ["transporte", "Occurrence"], ["relevo", "Occurrence"], ["habitável", "State"], ["realojamentos", "State"], ["deflagrou", "Occurrence"], ["extinto", "Occurrence"], ["bombeiros", "Reporting"], ["prosseguirá", "I_Action"], ["investigação", "Occurrence"]]

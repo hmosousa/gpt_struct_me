@@ -1,0 +1,1 @@
+["yesterday", "7.25%", "earlier", "one share", "$7 a share", "$3 a share"]

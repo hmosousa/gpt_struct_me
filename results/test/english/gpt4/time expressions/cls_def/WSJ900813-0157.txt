@@ -1,0 +1,10 @@
+[
+["yesterday", "Date"],
+["23-year", "Duration"],
+["Friday", "Date"],
+["yesterday", "Date"],
+["over the weekend", "Date"],
+["the end of the month", "Date"],
+["a few days", "Duration"],
+["since March", "Duration"]
+]

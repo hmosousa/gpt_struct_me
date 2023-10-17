@@ -1,0 +1,12 @@
+
+JSON-parseable list of strings.
+
+Examples:
+
+* ["earned", "seven", "cents", "share", "quarter", "Sun", "makers", "computer", "workstations", "reported", "sales", "39", "percent", "year", "earlier", "company", "results", "better", "expectations", "month", "chief", "executive", "officer", "problems", "introduction", "April", "system", "demand", "summer", "indicated", "profitability", "backlog", "orders", "strong", "demand", "faces", "competition", "Digital", "Equipment", "Hewlett", "Packard", "IBM", "Next"]
+
+Note:
+
+* The list of strings is not in any particular order.
+* The strings are not pre-processed or formatted in any way.
+* The output should be a JSON-parseable list of strings.

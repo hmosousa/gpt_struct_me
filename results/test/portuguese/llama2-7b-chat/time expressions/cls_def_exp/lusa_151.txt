@@ -1,0 +1,1 @@
+[["em menos de uma semana", "Duration"], ["hoje", "Date"], ["ativos de vandalismo", "Set"], ["indonésio", "Country"], ["Mohammad Mahfud", "Person"], ["Frente de Defesa Islâmica", "Organization"], ["sharia", "Idea"], ["2016", "Date"], ["2017", "Date"], ["decembro", "Date"]]

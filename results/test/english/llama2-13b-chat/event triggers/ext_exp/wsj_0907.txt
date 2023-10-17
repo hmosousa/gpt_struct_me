@@ -1,0 +1,4 @@
+["jumped", "97%", "2.8 million", "51 cents a share", "earnings", "1.4 million", "48 cents a share", "restated basis", "revenue", "16.5 million", "latest quarter", "total", "28 million", "stock dividend", "June 1989", "attributed", "growth", "longhaul trucking insurance lines", "premium rates firm"]
+
+Note:
+The output is a list of all the event triggers in the input text. An event trigger is a word or phrase that indicates an event or action is happening or has happened. The output is in JSON-parseable list of strings.

@@ -1,0 +1,12 @@
+[
+"declared",
+"payable",
+"record",
+"dividend",
+"quarterly",
+"cash",
+"shares",
+"liquidity",
+"outstanding",
+"yesterday"
+]

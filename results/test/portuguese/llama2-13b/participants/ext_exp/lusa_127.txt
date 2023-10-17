@@ -1,0 +1,13 @@
+["Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas", "A GNR de Freamunde", "anunciou", "hoje", "ter", "encerrado", "um", "estabelecimento", "de", "restauração", "e", "bebidas", "que", "reunia", "cerca", "de", "50", "pessoas", "naquela", "localidade", "do", "concelho", "de", "Paços", "de", "Ferreira", "Os", "militares", "detetaram", "que", "o", "estabelecimento", "estava", "a", "funcionar", "com", "música", "ao", "vivo", "o", "que", "ocorreu", "na", "sequência", "de", "uma", "ação", "de", "fiscalização", "com", "vista", "ao", "cumprimento", "das", "normas", "referentes", "à", "pandemia", "covid-19", "segundo", "um", "comunicado", "da", "autoridade", "A", "proprietária", "de", "48", "anos", "foi", "identificada", "tendo", "sido", "dada", "ordem", "para", "terminar", "o", "evento", "resultando", "na", "elaboração", "de", "um", "auto", "de", "contraordenação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas
+A GNR de Freamunde anunciou hoje ter encerrado um estabelecimento de restauração e bebidas que reunia cerca de 50 pessoas, naquela localidade do concelho de Paços de Ferreira.
+Os militares detetaram que o estabelecimento estava a funcionar com música ao vivo, o que ocorreu "na sequência de uma ação de fiscalização com vista ao cumprimento das normas referentes à pandemia covid-19", segundo um comunicado da autoridade.
+A proprietária, de 48 anos, foi identificada, tendo sido dada ordem para terminar o evento, resultando na elaboração de um auto de contraordenação."
+
+Output:
+["Covid-19: GNR de Freamunde, Paços de Ferreira, encerrou restaurante que reunia 50 pessoas", "A GNR de Freamunde", "anunciou", "hoje", "ter", "encerrado", "um", "estabelecimento", "de", "restauração", "e", "bebidas", "que", "reunia", "cerca", "de", "50", "pessoas", "naquela", "localidade", "do", "concelho", "de", "Paços", "de", "Ferreira", "Os", "militares", "detetaram", "que", "o", "estabelecimento", "estava", "a", "funcionar", "com", "música", "ao", "vivo", "o", "que", "ocorreu", "na", "sequência", "de", "uma", "ação", "de", "fiscalização", "com", "vista", "ao", "cumprimento", "das", "normas", "referentes", "à", "pandemia", "covid-19", "segundo", "um", "comunicado", "da", "autoridade", "A", "proprietária", "de", "48", "anos", "foi", "identificada", "tendo", "sido", "dada", "ordem", "para", "terminar", "o", "evento", "resultando", "na", "elaboração", "de", "um", "auto", "de", "contraordenação

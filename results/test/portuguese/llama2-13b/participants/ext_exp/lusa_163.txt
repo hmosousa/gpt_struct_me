@@ -1,0 +1,24 @@
+["Um homem", "sofreu hoje", "queimaduras", "na face e nos membros superiores", "manuseava gasolina", "Vale de S. Martinho", "Vila Nova de Famalicão", "teve se ser conduzido", "Hospital de São João", "Porto", "indicou fonte", "bombeiros locais", "homem de 58 anos", "queimaduras de segundo e terceiro graus", "alerta", "13:41", "Fonte dos Bombeiros Voluntários Famalicenses", "Lusa", "vítima", "Hospital de Famalicão", "district of Braga", "transporte", "Viatura Médica de Emergência e Reanimação (VMER)", "Hospital de Famalicão"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.
+O número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753, anunciaram autoridades de Nova Iorque.
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro de 2001 aumentou para 2.753.

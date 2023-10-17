@@ -1,0 +1,2 @@
+
+[["GNR", "Org"], ["785 quilos", "Other"], ["haxixe", "Other"], ["dois homens", "Per"], ["transbordo", "Other"], ["Embarcações", "Fac"], ["alto", "Loc"], ["Olhão", "Loc"], ["Sistema Integrado de Vigilância e Comando e Controlo", "Other"], ["SIVICC", "Other"], ["encostadas", "Other"], ["fardos", "Per"], ["valor estimado", "Other"], ["dois milhões de euros", "Other"]]

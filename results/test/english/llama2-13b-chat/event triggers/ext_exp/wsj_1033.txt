@@ -1,0 +1,1 @@
+["propose", "price", "share", "million", "transaction", "year", "sold", "accounted", "fell", "rose", "period"]

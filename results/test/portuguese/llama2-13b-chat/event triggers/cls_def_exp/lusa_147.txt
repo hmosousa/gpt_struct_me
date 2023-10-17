@@ -1,0 +1,4 @@
+[["esperaram", "I_Action"], ["começou", "Aspectual"], ["debat", "State"], ["ausência", "Occurrence"], ["membros", "State"], ["executivo", "State"], ["presentes", "State"], ["chegaram", "Occurrence"], ["começaremos", "I_Action"], ["depois", "Temporal"], ["minutos", "Quantity"], ["habitual", "State"], ["conversa", "State"], ["eram", "Temporal"], ["10:11", "Time"], ["chegou", "Occurrence"], ["ministro", "State"], ["rearrumarem", "I_Action"], ["bancada", "State"], ["Governo", "State"], ["discursar", "I_Action"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

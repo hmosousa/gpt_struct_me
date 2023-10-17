@@ -1,0 +1,1 @@
+[["announced", "REPORTING"], ["said", "REPORTING"], ["issued", "OCCURRENCE"], ["convertible", "STATE"], ["available", "STATE"]]

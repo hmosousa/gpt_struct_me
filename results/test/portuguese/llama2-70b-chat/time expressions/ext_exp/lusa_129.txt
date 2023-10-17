@@ -1,0 +1,15 @@
+["em Valença", "quinta-feira", "37.400 euros", "37.500 euros", "2,5 centímetros", "7.400 quilogramas", "cerastoderma edule", "molusco bivalve de água salgada", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions in the given text.
+
+Note:
+
+* You can use any language to answer this question.
+* You can use any library or tool to extract time expressions.
+* You can assume that the input text is in Portuguese.
+* You can assume that the output format is JSON-parseable list of strings.
+* You can assume that the input text is given as a string.
+* You can assume that the output will be a list of strings.

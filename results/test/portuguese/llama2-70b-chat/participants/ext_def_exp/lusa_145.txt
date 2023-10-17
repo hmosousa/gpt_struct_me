@@ -1,0 +1,3 @@
+["A GNR", "quatro homens", "alegadamente", "assaltos", "residências", "estabelecimentos", "furtos", "veículos", "tráfico", "drogas", "Alto Minho", "comando", "Viana do Castelo", "força policial", "os suspeitos", "idos", "antecedentes", "criminais", "investigação", "furto", "concelhos", "distrito", "Vila Verde", "Braga", "operação", "buscas", "domiciliárias", "apreensão", "heroína", "cocaína", "haxixe", "telemóveis", "computadores", "máquina fotográfica", "aparelho GPS", "A GNR", "detetive", "homens", "suspeitos", "Alto Minho", "Viana do Castelo", "Braga", "distrito", "concelhos", "furto", "assaltos", "tráfico", "drogas", "telemóveis", "computadores", "máquina fotográfica", "aparelho GPS"]
+
+Please note that the input text is in Portuguese.

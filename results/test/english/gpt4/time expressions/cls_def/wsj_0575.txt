@@ -1,0 +1,18 @@
+[
+["months ago", "Duration"],
+["soon", "Time"],
+["five-year", "Duration"],
+["this year", "Date"],
+["next year", "Date"],
+["1990", "Date"],
+["a good part of 1990", "Duration"],
+["Sometime next year", "Time"],
+["recent months", "Duration"],
+["through January", "Duration"],
+["Last week", "Date"],
+["third-quarter", "Date"],
+["the first nine months", "Duration"],
+["the coming", "Time"],
+["the end of 1990", "Date"],
+["this past spring", "Date"]
+]

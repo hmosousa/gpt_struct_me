@@ -1,0 +1,1 @@
+["ferido", "gravidade", "cortava", "árvore", "caiu", "ravina", "atingida", "queda", "árvore", "projetada", "ravina", "resgatada", "deslocaram", "ambulância", "desencarceramento", "resgate", "assistido", "transportado", "Hospital", "tomou", "ocorrência"]

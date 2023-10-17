@@ -1,0 +1,12 @@
+[["acidente", "Occurrence"], ["ferimentos", "Occurrence"], ["graves", "State"], ["condutor", "Entity"], ["transportado", "I_Action"], ["hospital", "Location"], ["viatura", "Entity"], ["despiste", "Occurrence"], ["destroços", "Occurrence"], ["cortada", "State"], ["estrada", "Location"], ["fechadas", "State"], ["óleo", "Occurrence"], ["derramado", "Occurrence"], ["destroços", "Occurrence"], ["manter", "I_Action"], ["atirou-se", "I_Action"], ["ferimentos", "Occurrence"], ["ligeiros", "State"], ["testemunhas", "Entity"], ["oculares", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first is the entity (e.g. "acidente") and the second is the class (e.g. "Occurrence").
+
+I have tried using the Stanford CoreNLP tool to perform the task, but I am not getting the expected output. I have also tried using the spaCy library, but I am not getting the expected output.
+
+Can you please help me with this task? I would greatly appreciate it if you could provide me with the correct output for the given input.
+
+Thank you for your time and assistance.
+
+Please let me know if you need any additional information or clarification.

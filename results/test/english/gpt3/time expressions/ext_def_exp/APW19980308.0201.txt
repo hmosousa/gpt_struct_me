@@ -1,0 +1,1 @@
+["Sunday", "Saturday", "recent days", "hundreds of years", "Sunday"]

@@ -1,0 +1,1 @@
+["April", "yesterday", "30 days", "August 1988", "$21 in cash a share"]

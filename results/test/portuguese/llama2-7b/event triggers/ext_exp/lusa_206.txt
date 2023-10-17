@@ -1,0 +1,20 @@
+["Quatro", "homens", "detidos", "PSP", "desp", "disparos", "Lisboa", "Quatro", "homens", "veículos", "distintos", "detidos", "desp", "disparos", "zona", "Rego", "Lisboa", "havendo", "feridos", "danos", "viaturas", "estacionadas", "local", "avançou", "fonte", "policial", "incidente", "ocorreu", "12:00", "quatro", "homens", "idade", "não", "especificada", "puseram", "fuga", "intercetados", "autoridades", "detidos", "não", "feridos", "danos", "viaturas", "encontravam", "local", "vários", "invólucros", "balas", "carregador", "munições", "detido", "caso", "entregue", "Polícia", "Judiciária"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que tem 1,4 bilhões de habitantes, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que tem 1,4 bilhões de habitantes, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que tem 1,4 bilhões de habitantes, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que tem 1,4 bilhões de habitantes, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que tem 1,4 bilhões de habitantes, tem 100 milhões de pessoas em quarentena, segundo dados divulgados hoje pela Agência Xinhua.
+A agência informou que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões chinesas, incluindo a província de Hubei, onde se encontra a cidade de Wuhan, epicentro da pandemia.
+A China, que

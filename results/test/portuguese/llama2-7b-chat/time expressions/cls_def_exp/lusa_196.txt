@@ -1,0 +1,1 @@
+[["Homem", "Person"], ["baleado", "Time"], ["Vila Nova de Gaia", "Location"], ["Gulpilhares", "Location"], ["Santos Silva", "Location"], ["Valadares", "Location"], ["11:45", "Time"]]

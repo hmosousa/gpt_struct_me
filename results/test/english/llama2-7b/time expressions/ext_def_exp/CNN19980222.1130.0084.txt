@@ -1,0 +1,79 @@
+["CNN headline news", "I'm Sachi Koto", "Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough", "but added it's not done yet", "Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "he's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days", "The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites"]
+
+Explanation:
+The time expressions are:
+- "next week"
+- "Friday"
+- "nearly two months"
+- "1990"
+- "Thursday"
+- "Jan. 13"
+- "Previously"
+- "03/06/1998 13:19:00"
+- "Thursday"
+- "Feb. 23"
+- "over a week"
+- "Thursday"
+- "daily"
+- "Friday"
+- "Friday"
+- "10-hour"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strconv"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	filePath := os.Args[1]
+
+	file, err := os.Open(filePath)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer file.Close()
+
+	lines := strings.Split(file.ReadAll(), "\n")
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if len(line) == 0 {
+			continue
+		}
+
+		timeExpressions := []string{}
+
+		for _, word := range strings.Split(line, " ") {
+			if strings.Contains(word, "next") {
+				timeExpressions = append(timeExpressions, "next week")
+			} else if strings.Contains(word, "Friday") {
+				timeExpressions = append(timeExpressions, "Friday")
+			} else if strings.Contains(word, "nearly") {
+				timeExpressions = append(timeExpressions, "nearly two months")
+			} else if strings.Contains(word, "1990") {
+				timeExpressions = append(timeExpressions, "1990")
+			} else if strings.Contains(word, "Thursday") {
+				timeExpressions = append(timeExpressions, "Thursday")
+			} else if strings.Contains(word, "Jan") {
+				timeExpressions = append(timeExpressions, "Jan. 13")
+			} else if strings.Contains(word, "Previously") {
+				timeExpressions = append(timeExpressions, "Previously")
+			} else if strings.Contains(word, "03/06/1998 13:19:00") {
+				timeExpressions = append(timeExpressions, "03/06/1998 13:19:00")
+			} else if strings.Contains(word, "Thursday") {
+				timeExpressions = append(timeExpressions, "Thursday")
+			} else if strings.Contains(word, "Feb") {
+				timeExpressions = append(timeExpressions, "Feb. 23")
+			} else if strings.Contains(word, "over") {
+				timeExpressions = append(timeExpressions, "over

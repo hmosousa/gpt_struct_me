@@ -1,0 +1,1 @@
+["morreu", "ferido", "desordem", "arma", "fogo", "informou", "encontradas", "transportada", "socorrida", "morrer", "reverter", "situação", "ferimentos", "alerta", "dado", "levadas", "cabo", "diligências", "socorrer", "vítimas", "tratar", "crime", "homicídio", "investigação", "cargo"]

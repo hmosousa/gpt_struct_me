@@ -1,0 +1,9 @@
+[["Governo holandês", "Org"], ["KLM", "Org"], ["transportadora aérea", "Fac"], ["milhares de milhões", "Other"], ["os pilotos", "Per"], ["reduzir salários", "Per"], ["cinco anos", "Other"], ["Wopke Hoekstra", "Org"], ["sindicato", "Org"], ["VNV", "Org"], ["aceitar", "Per"], ["redução salarial", "Per"], ["congelou", "Org"], ["ajuda", "Org"], ["empréstimos", "Other"], ["ramo holandês", "Org"], ["Air France-KLM", "Org"], ["anunciou", "Org"], ["sindicato", "Org"], ["cedeu", "Per"], ["governo", "Org"], ["pronto", "Org"], ["emprestar", "Org"], ["3,4 mil milhões", "Other"], ["reduzir despesas", "Per"], ["suprimir", "Per"], ["cinco mil", "Other"], ["pilotos", "Per"], ["baixas salariais", "Other"], ["20%", "Other"], ["terceiro trimestre", "Other"], ["lucro", "Other"], ["363 milhões", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article in English, and the output is the classification of the entities in the article according to their type (Person, Organization, Location, Nature, Facility, or Other).
+* The classes are defined based on the context of the article, and they are used to organize the entities in the output list.
+* The output list can be used for further analysis or processing of the article, such as summarization, sentiment analysis, or topic modeling.

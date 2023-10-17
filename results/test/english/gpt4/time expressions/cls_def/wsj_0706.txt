@@ -1,0 +1,5 @@
+[
+["this year", "Date"],
+["Sept. 30", "Date"],
+["Earlier this month", "Date"]
+]

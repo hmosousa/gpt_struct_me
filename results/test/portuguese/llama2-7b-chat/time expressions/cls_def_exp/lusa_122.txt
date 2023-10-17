@@ -1,0 +1,1 @@
+[["em estado grave", "State"], ["domingo", "Date"], ["Alverca", "Team"], ["União de Almeirim", "Team"], ["Alex Apolinário", "Person"], ["Hospital de Vila Franca de Xira", "Location"], ["coma induzido", "State"]]

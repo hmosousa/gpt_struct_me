@@ -1,0 +1,1 @@
+["morre", "colisão", "morreu", "vítima", "colisão", "registada", "acidente", "registado", "vítima mortal", "condutor", "registado", "ferido ligeiro", "transportado", "Hospital"]

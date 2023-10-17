@@ -1,0 +1,1 @@
+["um homem", "25", "anos", "sofre", "queimaduras", "terceiro grau", "membros", "superiores", "inferiores", "incêndio", "casa", "Arcozelo", "Vila Nova de Gaia", "Lusa", "fonte", "Sapadores", "local", "combate", "chamas", "cozinha", "casa", "Sapadores", "Bombeiros", "Aguda", "Centro Hospitalar", "Vila Nova de Gaia/Espinho", "incêndio", "extinto", "Proteção Civil"]

@@ -1,0 +1,21 @@
+["lamentou", "morte", "dois", "pessoas", "incêndio", "hospitalar", "Cunene", "ministra", "Saúde", "Angola", "Sílvia", "Lutucuta", "lamentou", "morte", "dois", "pessoas", "incêndio", "hospitalar", "Cunene", "nota", "Ministério", "Saúde", "informa", "governante", "deslocou", "terça-feira", "aquela", "província", "sul", "Angola", "constatar", "danos", "causados", "incêndio", "Hospital", "Geral", "Ondjiva", "capital", "Cunene", "incêndio", "registado", "noite", "segunda-feira", "afetou", "áreas", "bloco", "operatório", "enfermarias", "cirúrgicas", "posto", "armazenamento", "oxigênio", "transferiram", "pacientes", "centros", "para", "melhor", "atendimento", "colocados", "novo", "Hospital", "Municipal", "Cuanhama", "encontra", "fase", "final", "encontram"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 mortes em 2020, segundo ONU
+A Organização Mundial da Saúde (OMS) estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000 pessoas em 2020, segundo um relatório divulgado hoje.
+A OMS estimou que a covid-19 matou mais de 100.000

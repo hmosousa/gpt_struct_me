@@ -1,0 +1,21 @@
+["reivindica", "atentado", "Viena", "grupo", "jihadista", "Estado", "Islâmico", "reivindicou", "hoje", "ocorrido", "quarta", "vítimas", "mortais", "feridos", "comunicado", "publicado", "redes", "Telegram", "comunicado", "do", "EI", "atribuir", "soldado", "califado", "disparos", "registados", "perto", "sinagoga", "opera", "texto", "separado", "accompanhado", "foto", "assaltante", "armado", "agência", "propaganda", "Amaq", "efetuado", "ontem", "segunda-feira", "atentado", "combatente", "Estado", "Islâmico", "cidade", "Viena", "autor", "abatido", "noite", "segunda-feira", "polícia", "centro", "cumprir", "parte", "pena", "prisão", "viajar", "Síria", "juntar", "fileiras", "EI"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de eventos públicos.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 28 províncias e regiões, numa tentativa de conter a propagação do novo coronavírus.
+A China está a encerrar as escolas e universidades, fechando também os restaurantes e bares, e a proibir a realização de

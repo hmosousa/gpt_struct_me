@@ -1,0 +1,18 @@
+["plummeted", "recommended", "suspension", "dividend", "payments", "common", "preferred", "stock", "may", "meet", "capital", "criteria", "effective", "Dec", "7", "composite", "trading", "New", "York", "Stock", "Exchange", "Friday", "closed", "down", "1", "875", "26", "decline", "spokesman", "said", "savings", "bank", "may", "qualify", "capital", "requirements", "core", "outlined", "Financial", "Institutions", "Reform", "Recovery", "Enforcement", "Act", "1989", "final", "guidelines", "published", "early", "November", "determine", "compliance", "retained", "investment", "bankers", "identify", "bankers", "Additionally", "third", "quarter", "loss", "175", "million", "13", "44", "share", "year", "ago", "major", "factor", "third", "quarter", "loss", "143", "million", "goodwill", "spokesman", "proposed", "guidelines", "caused", "revised", "business", "objectives", "consequently", "write", "down", "asset", "value", "previous", "acquisitions", "recorded", "additional", "loan", "loss", "reserves", "quarter", "declined", "interest", "income", "35", "6", "million", "70", "million", "year", "ago", "sharply", "originations", "663", "million", "1", "billion", "year", "Standard", "Poor", "Corp", "double", "C", "CreditWatch", "possible", "downgrade", "securities", "including", "double", "B", "-", "B", "rating", "certificates", "deposit", "single", "B", "senior", "subordinated", "capital", "notes", "affected"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by the state of Texas in a case involving the state's refusal to issue a marriage license to a lesbian couple.
+The court's action means that the 5th U.S. Circuit Court of Appeals ruling in favor of the lesbian couple, Deborah and Sandra Lawrence, will stand.
+The appeals court ruled in June that Texas' refusal to issue a marriage license to the couple violated the U.S. Constitution's equal protection clause.
+The couple had been denied a marriage license in 1998 by a Texas county clerk.
+The couple's attorney, Chuck Smith, said the Supreme Court's action means that the 5th Circuit's ruling will stand.
+The couple's case was one of several that were consolidated in the 5th Circuit.
+The 5th Circuit's ruling was the first by a federal appeals court to strike down a state's refusal to issue a marriage license to a same-sex couple.
+The 5th Circuit's ruling was also the first by a federal appeals court to strike down a state's refusal to issue a marriage license to a same-sex couple.
+The 5th Circuit's ruling was also the first by a federal appeals court to strike down a state's refusal to issue a marriage license to a same-sex couple.
+The 5th Circuit's ruling was also the first by a federal appeals court to strike down a state's refusal to issue a marriage license to a same-sex couple.
+The 5th Circuit's ruling was also the first by a federal appeals court to strike down a state's refusal to issue a marriage license to a same-sex couple.
+The 5th Circuit's ruling was also the first by a federal appeals court to strike down a state's refusal to issue a marriage license to

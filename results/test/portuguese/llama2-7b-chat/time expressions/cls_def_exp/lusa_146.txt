@@ -1,0 +1,1 @@
+[["em Seia", "Location"], ["30 nov 2020", "Date"], ["terça-feira", "Date"], ["58 anos", "Age"], ["GNR", "Entity"], ["Seia", "Location"], ["Guarda", "Location"], ["Veterinário Municipal", "Entity"], ["Tribunal Judicial", "Location"]]

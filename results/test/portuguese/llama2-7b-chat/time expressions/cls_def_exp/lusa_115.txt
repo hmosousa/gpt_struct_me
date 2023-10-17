@@ -1,0 +1,1 @@
+[["em Alcobaça", "Location"], ["homem", "Person"], ["75 anos", "Age"], ["Fervença", "Location"], ["Maiorga", "Location"], ["GNR", "Organization"], ["Polícia Judiciária", "Organization"], ["Leiria", "Location"]]

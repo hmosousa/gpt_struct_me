@@ -1,0 +1,28 @@
+["completed", "acquisition", "American", "Medical", "International", "Corp", "purchasing", "shares", "including", "assumption", "debt", "Harry", "Gray", "Melvyn", "Klein", "partners", "Gray", "Klein", "named", "American", "brought", "chief", "executive", "Richard", "Gilleland", "45", "remain", "chairman", "president", "chief", "executive", "January", "sharply", "lower", "earnings", "charges", "reserves", "real", "estate", "March", "received", "private", "investor", "group", "including", "large", "holder", "M", "Lee", "Pearce", "considering", "restructuring", "boost", "stock", "price", "month", "company", "put", "sale", "received", "offers", "surprisingly", "won", "bid", "$28", "equity", "participant", "indicated", "materialized", "completed", "yesterday", "members", "John", "Harrison", "Mark", "Adley", "First", "Boston", "James", "Lyons", "William", "Goldberg", "Harold", "Handelsman"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the government's 1995 decision to allow the sale of the U.S. Savings and Loan Corp. to the Resolution Trust Corp. was unconstitutional.
+The investors, who had bought the S&L's assets, had argued that the sale was unconstitutional because it violated the Fifth Amendment's prohibition against the government taking private property for public use without just compensation.
+The investors had sought to block the sale, which was approved by the U.S. District Court for the District of Columbia.
+The U.S. Court of Appeals for the District of Columbia Circuit upheld the lower court's decision.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands.
+The case is In re: U.S. Savings and Loan Corp., 99-1011."
+
+Output:
+["refused", "hear", "appeal", "group", "investors", "claimed", "government", "1995", "decision", "allow", "sale", "Resolution", "Corp", "violated", "prohibition", "property", "public", "compensation", "block", "approved", "District", "Court", "District", "Circuit", "upheld", "lower", "stands", "case", "ruling", "stands", "Savings", "Loan", "Corp", "District", "Court", "Court", "Circuit", "upheld", "lower", "stands", "case", "ruling", "stands"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the government's 1995 decision to allow the sale of the U.S. Savings and Loan Corp. to the Resolution Trust Corp. was unconstitutional.
+The investors, who had bought the S&L's assets, had argued that the sale was unconstitutional because it violated the Fifth Amendment's prohibition against the government taking private property for public use without just compensation.
+The investors had sought to block the sale, which was approved by the U.S. District Court for the District of Columbia.
+The U.S. Court of Appeals for the District of Columbia Circuit upheld the lower court's decision.
+The Supreme Court's decision not to hear the case means that the lower court's ruling stands.
+The case is In re: U.S. Savings and Loan Corp., 99-1011."
+
+Output:

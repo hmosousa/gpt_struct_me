@@ -1,0 +1,15 @@
+["um homem", "25 anos", "com antecedentes criminais", "Paredes", "GNR", "uma réplica de arma de fogo", "um bastão extensível", "Núcleo de Investigação Criminal (NIC)", "Penafiel", "uma investigação", "suspeitas", "posse de arma proibida", "cerca de um mês", "duas buscas domiciliárias", "uma não domiciliária", "a GNR", "os militares", "a Guarda", "antecedentes criminais", "condução sem habilitação legal", "ameaças", "constituído arguido", "os factos", "Tribunal Judicial de Paredes", "que"]
+
+Please note that the input text is in Portuguese, and the output should be in English.
+
+This task is similar to the previous one, but with a different focus. Instead of extracting entities, we are now interested in extracting participants. Participants are individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They can take on various roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
+
+The input text is a news article about a man who was detained and accused of possessing a prohibited weapon. The article mentions various participants, including the man himself, the GNR (National Republican Guard), the NIC (Criminal Investigation Nucleus), and the Tribunal Judicial de Paredes.
+
+The output should be a list of strings, each representing a participant mentioned in the input text. The list should be in JSON-parseable format, meaning that each string should be surrounded by double quotes and separated by a comma.
+
+Here's an example output for the given input text:
+
+["um homem", "25 anos", "com antecedentes criminais", "Paredes", "GNR", "uma réplica de arma de fogo", "um bastão extensível", "Núcleo de Investigação Criminal (NIC)", "Penafiel", "uma investigação", "suspeitas", "posse de arma proibida", "cerca de um mês", "duas buscas domiciliárias", "uma não domiciliária", "a GNR", "os militares", "a Guarda", "antecedentes criminais", "condução sem habilitação legal", "ameaças", "constituído arguido", "os factos", "Tribunal Judicial de Paredes", "que"]
+
+Note that some of the participants mentioned in the input text are not explicitly named, such as the man himself, who is referred to as "um homem" (a man). Other participants, such as the GNR and the NIC, are named explicitly.

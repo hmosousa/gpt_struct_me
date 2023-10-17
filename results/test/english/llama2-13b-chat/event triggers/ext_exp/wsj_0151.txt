@@ -1,0 +1,4 @@
+["Intelogic Trace Inc.", "San Antonio", "Texas", "said", "buy", "shares", "common stock", "unaffiliated shareholder", "dollars", "million", "boosts", "chairman", "stake", "prevent", "run", "computer-services concern", "already", "seeking", "oust", "Datapoint Corp.", "affiliate", "followed", "announcement", "retain", "investment banker", "explore", "alternatives", "maximize", "shareholder value", "possible sale", "company", "yesterday", "rose", "cents", "close", "dollars", "Mr.", "Edelman", "specify", "recent moves", "benefit", "shareholders", "roll", "nothing", "Marty Ackerman", "designed", "take", "company", "private", "But", "Ackerman", "buy-back", "price", "prove", "running", "scared"]
+
+Format:
+JSON-parseable list of strings.

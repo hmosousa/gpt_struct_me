@@ -1,0 +1,28 @@
+["Um homem de 66 anos", "ficou hoje à tarde", "gravemente ferido", "ter", "eletrocutado", "Oleiros", "no distrito de Castelo Branco", "segundo", "a mesma fonte", "o alerta", "as 16:18", "a vítima", "transportada", "diretamente", "para o Centro Hospitalar e Universitário de Coimbra", "Segundo", "a indicação dos bombeiros", "a eletrocussão", "aconteceu", "dentro de uma habitação", "acrescentou", "Deslocaram-se", "ao local", "quatro operacionais", "e duas viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje à tarde que o número de mortos no ataque terrorista de ontem subiu para oito, após a morte de uma mulher que estava em coma.
+A mulher, de 38 anos, morreu no dia 1 de novembro, no hospital Bellevue, onde estava internada desde o dia 30 de outubro, quando foi atingida por um carro que fazia parte do ataque terrorista.
+A mulher, que não foi identificada, era a primeira vítima mortal do ataque, que ocorreu na tarde de 31 de outubro, quando um homem conduziu um caminhão pelas ruas de Manhattan, matando oito pessoas e ferindo outras 12.
+O homem, de 29 anos, foi abatido pelas forças de segurança.
+O ataque terrorista foi o mais mortal na cidade desde os ataques de 11 de setembro de 2001, quando 2.977 pessoas morreram."
+
+Output:
+["Autoridades de Nova Iorque", "anunciaram hoje à tarde", "o número de mortos", "no ataque terrorista", "subiu para oito", "após", "a morte", "uma mulher", "que estava", "em coma", "A mulher", "de 38 anos", "morreu", "no dia 1 de novembro", "no hospital Bellevue", "onde estava internada", "desde o dia 30 de outubro", "quando", "foi atingida", "por um carro", "que fazia parte", "do ataque terrorista", "O homem", "de 29 anos", "foi abatido", "pelas forças de segurança", "O ataque terrorista", "foi o mais mortal", "na cidade", "desde os ataques de 11 de setembro de 2001", "quando", "2.977 pessoas", "morreram"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje à tarde que o número de mortos no ataque terrorista de ontem subiu para oito, após a morte de uma mulher que estava em coma.
+A mulher, de 38 anos, morreu no dia 1 de novembro, no hospital Bellevue, onde estava internada desde o dia 30 de outubro, quando foi atingida por um carro que fazia parte do ataque terrorista.
+A mulher, que não foi identificada, era a primeira vítima mortal do ataque, que ocorreu na tarde de 31 de outubro, quando um homem conduziu um caminhão pelas ruas de Manhattan, matando oito pessoas e ferindo outras 12.
+O homem, de 29 anos, foi abatido pelas forças de segurança.
+O ataque terrorista foi o mais mortal na cidade desde os ataques de 11 de setembro de 2001, quando 2.977 pessoas morreram."
+
+Output

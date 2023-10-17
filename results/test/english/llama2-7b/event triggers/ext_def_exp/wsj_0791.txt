@@ -1,0 +1,31 @@
+["Norwood", "Boston", "said", "tender", "offer", "Phoenix", "Limited", "Partnership", "Boston", "said", "make", "some", "all", "common", "shares", "Norwood", "Mass", "-based", "Phoenix", "software", "personal", "trading", "closed", "over-the-counter", "group", "hold", "stake", "controlled", "Daniel", "Barnett", "Reese", "officers", "Boston", "Oasis", "Capital", "management", "involved", "Robert", "Angelo", "formerly", "senior", "vice", "field", "operations", "described", "consultant"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former executive of the now-defunct Enron Corp. who was convicted of insider trading.
+The justices let stand a ruling by the 5th U.S. Circuit Court of Appeals in New Orleans that upheld the conviction of former Enron executive Michael Kopper.
+Kopper was convicted in 2002 of insider trading for selling $1.2 million in Enron stock in 2001, just before the energy company filed for bankruptcy protection.
+Kopper was sentenced to 18 months in prison and ordered to pay a $100,000 fine.
+The 5th Circuit upheld the conviction in 2003, saying Kopper had a duty to disclose his knowledge of Enron's financial problems.
+Kopper's attorneys had argued that the 5th Circuit's ruling was inconsistent with a 2002 Supreme Court decision that said a person who has inside information about a company's financial condition has no duty to disclose that information.
+The Supreme Court's action Monday means the 5th Circuit's ruling stands."
+
+Output:
+["U.S.", "Supreme", "Court", "Monday", "refused", "hear", "appeal", "former", "executive", "now-defunct", "Enron", "convicted", "insider", "trading", "let", "stand", "ruling", "5th", "Circuit", "Court", "New", "Orleans", "upheld", "conviction", "sentenced", "month", "fine", "attorneys", "argued", "ruling", "inconsistent", "2002", "Supreme", "action", "means", "stands"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former executive of the now-defunct Enron Corp. who was convicted of insider trading.
+The justices let stand a ruling by the 5th U.S. Circuit Court of Appeals in New Orleans that upheld the conviction of former Enron executive Michael Kopper.
+Kopper was convicted in 2002 of insider trading for selling $1.2 million in Enron stock in 2001, just before the energy company filed for bankruptcy protection.
+Kopper was sentenced to 18 months in prison and ordered to pay a $100,000 fine.
+The 5th Circuit upheld the conviction in 2003, saying Kopper had a duty to disclose his knowledge of Enron's financial problems.
+Kopper's attorneys had argued that the 5th Circuit's ruling was inconsistent with a 2002 Supreme Court decision that said a person who has inside information about a company's financial condition has no duty to disclose that information.
+The Supreme Court's action Monday means the 5th Circuit's ruling stands."
+
+Output:
+["U.S.", "Supreme", "Court", "Monday", "refused", "hear", "appeal", "former", "executive", "now-defunct", "Enron", "convicted", "insider

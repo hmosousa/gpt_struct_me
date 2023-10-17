@@ -1,0 +1,4 @@
+
+JSON-parseable list of strings:
+
+["agreed", "principle", "form", "new", "company", "limit", "losses", "said", "bankruptcy", "court", "get", "shipbuilding", "everything", "owned", "open", "talks", "buy", "lease", "facilities", "offered", "settlement", "swift", "transition", "avert", "exodus", "skilled", "shipyards", "government", "officials", "accord", "signed", "yesterday", "shareholders", "each", "injecting", "markkaa", "subordinated", "debt", "take", "minority", "stake", "customers", "contracts", "undelivered", "share", "capital", "officials", "biggest", "claims", "damages", "bankruptcy", "begin", "Helsinki", "court"]

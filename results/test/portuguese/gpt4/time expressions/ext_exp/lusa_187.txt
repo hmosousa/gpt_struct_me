@@ -1,0 +1,1 @@
+["hoje", "às 18:14", "duas horas depois"]

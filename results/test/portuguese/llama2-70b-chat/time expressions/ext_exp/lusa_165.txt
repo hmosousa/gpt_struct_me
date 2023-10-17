@@ -1,0 +1,7 @@
+["hoje", "15:00", "30 nov 2020"]
+
+Note:
+The format of the input text is not fixed, it can vary.
+The output should be a list of strings, in JSON format.
+The time expressions can be in different formats, such as "hoje", "sábado", "setembro", "final do ano", "15:00", "30 nov 2020".
+The task is to extract all time expressions from the given text.

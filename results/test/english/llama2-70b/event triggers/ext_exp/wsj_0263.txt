@@ -1,0 +1,1 @@
+["stock", "split", "dividend", "share", "company", "quarterly", "payable", "record", "number", "outstanding", "Separately", "net", "income", "rose", "year", "earned", "sales", "million"]

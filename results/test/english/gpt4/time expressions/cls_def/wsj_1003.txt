@@ -1,0 +1,18 @@
+[
+["third-quarter", "Date"],
+["two-year", "Duration"],
+["the fourth quarter", "Date"],
+["the first two quarters of 1990", "Date"],
+["the third quarter of 1990", "Date"],
+["the year-ago period", "Date"],
+["a year ago", "Date"],
+["June 1", "Date"],
+["the fourth quarter", "Date"],
+["the early summer", "Date"],
+["third-quarter", "Date"],
+["the year-ago quarter", "Date"],
+["the fiscal second-quarter", "Date"],
+["Sept. 30", "Date"],
+["a year ago", "Date"],
+["Last year", "Date"]
+]

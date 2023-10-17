@@ -1,0 +1,1 @@
+[["em Maputo", "Location"], ["quinta-feira", "Date"], ["magude", "Location"], ["sul de Moçambique", "Location"], ["Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "Organization"], ["PRM", "Organization"], ["Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "Organization"], ["magude", "Location"], ["sul de Moçambique", "Location"]]

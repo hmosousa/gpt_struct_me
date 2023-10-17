@@ -1,0 +1,20 @@
+[
+["Friday", "Date"],
+["the previous Friday", "Date"],
+["Oct. 13", "Date"],
+["Thursday", "Date"],
+["the close of a two-week trading account", "Duration"],
+["the start of a new account", "Set"],
+["one day", "Duration"],
+["this week", "Date"],
+["Monday", "Date"],
+["the first trading day for November transactions", "Date"],
+["this week", "Date"],
+["Friday", "Date"],
+["the past five days", "Duration"],
+["a week", "Duration"],
+["Friday", "Date"],
+["the weekend", "Set"],
+["last week", "Date"],
+["year-end", "Date"]
+]

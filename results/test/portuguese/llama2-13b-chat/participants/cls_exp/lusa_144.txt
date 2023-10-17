@@ -1,0 +1,15 @@
+[["GNR", "Org"], ["suspeito", "Per"], ["de tráfico de droga", "Other"], ["na cidade de Borba", "Loc"], ["distrito de Évora", "Loc"], ["segundo", "Other"], ["a mesma fonte", "Other"], ["o homem", "Per"], ["foi detido", "Other"], ["por militares", "Org"], ["do Destacamento Territorial", "Org"], ["de Estremoz", "Loc"], ["no sábado", "Loc"], ["vai ser", "Other"], ["presente", "Other"], ["na segunda-feira", "Loc"], ["ao Tribunal", "Org"], ["de Vila Viçosa", "Loc"], ["para primeiro interrogatório", "Other"], ["e eventual aplicação", "Other"], ["de medidas de coação", "Other"], ["A GNR", "Org"], ["apreendeu", "Other"], ["ao suspeito", "Per"], ["24,3 gramas", "Obj"], ["de heroína", "Other"], ["uma balança", "Obj"], ["digital", "Other"], ["uma tesoura", "Obj"], ["sacos", "Other"], ["de plástico", "Other"], ["para acondicionamento", "Other"], ["de doses individuais", "Other"], ["e cerca", "Other"], ["de 150 euros", "Obj"], ["em dinheiro", "Other"]]
+
+Note:
+
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Other" stands for "other" (e.g. objects, locations, etc.)
+* "Loc" stands for "location"
+* "Obj" stands for "object"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify each one correctly.
+* Some entities and classes may appear multiple times in the input text, so be sure to count them correctly.
+* Pay attention to the format of the output, as it should be a JSON-parseable list with each element being a list of two strings (entity and class).

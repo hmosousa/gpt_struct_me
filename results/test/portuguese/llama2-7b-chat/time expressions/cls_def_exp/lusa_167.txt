@@ -1,0 +1,1 @@
+[["homem", "Person"], ["Ponte de Lima", "Location"], ["três a quatro metros", "Duration"], ["Braga", "Location"], ["Ribeira", "Location"], ["10:33", "Time"], ["SIV", "Organization"], ["CDOS", "Organization"], ["Viana do Castelo", "Location"]]

@@ -1,0 +1,25 @@
+["Um homem morreu", "hoje", "sequência", "um incêndio", "deflagrou", "sua habitação", "concelho", "Ribeira Brava", "fonte", "bombeiros", "localidade", "inalação", "fumo", "mesma fonte", "corporação", "Bombeiros Voluntários", "Madeira", "quarto", "vítima", "sinais", "fogo", "entrada", "dormir", "quartos", "alerta", "incêndio", "elementos", "extinguiu", "chamas", "vítima", "vivia", "sozinha", "vida", "interior", "presidente", "Câmara Municipal", "Ribeira Brava", "Ricardo Nascimento", "forças policiais", "apuram", "causas", "incêndio", "homem", "70 anos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morre após ser atropelado por um camião na Ribeira Brava
+Um homem morreu hoje após ser atropelado por um camião na Ribeira Brava, no concelho da Ribeira Brava, na zona oeste da Madeira, informou à Lusa a corporação dos Bombeiros Voluntários da Ribeira Brava e Ponta do Sol.
+“A vítima, um homem de 50 anos, foi atropelado por um camião na Ribeira Brava, no concelho da Ribeira Brava, na zona oeste da Madeira”, informou a mesma fonte.
+“A vítima foi levada para o Hospital da Ribeira Brava, onde foi declarada morta”, acrescentou.
+O presidente da Câmara Municipal da Ribeira Brava, Ricardo Nascimento, declarou à Lusa que “as forças policiais ainda estão a apurar as causas do acidente”.
+“A vítima, que vivia na Ribeira Brava, era um homem de 50 anos”, referiu.
+O acidente ocorreu às 14:00, na Rua da Igreja, na Ribeira Brava, no concelho da Ribeira Brava, na zona oeste da Madeira, informou a mesma fonte.
+“A vítima, que vivia na Ribeira Brava, era um homem de 50 anos”, referiu.
+O acidente ocorreu às 14:00, na Rua da Igreja, na Ribeira Brava, no concelho da Ribeira Brava, na zona oeste da Madeira, informou a mesma fonte."
+
+Output:
+["Um homem morreu", "hoje", "atropelado", "camião", "Ribeira Brava", "concelho", "Ribeira Brava", "Madeira", "informou", "corporação", "Bombeiros Voluntários", "Ponta do Sol", "vítima", "homem", "50 anos", "atropelado", "camião", "Ribeira Brava", "concelho", "Ribeira Brava", "Madeira", "informou", "mesma fonte", "hospital", "Ribeira Brava", "declarou", "Câmara Municipal", "Ribeira Brava", "Ricardo Nascimento", "forças policiais", "apuram", "causas", "acidente", "vítima", "vivia", "Ribeira Brava", "homem", "50 anos", "acidente", "Rua da Igreja", "Ribeira Brava", "concelho", "Ribeira Brava", "Madeira", "informou", "mesma fonte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem morre após ser atropelado por um camião na Ribeira Brava
+Um homem morreu hoje após ser atropelado por um camião na Ribeira Brava, no concelho da Ribeira Brava

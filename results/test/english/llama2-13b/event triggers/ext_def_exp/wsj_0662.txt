@@ -1,0 +1,32 @@
+["agreed", "cash", "pay", "2", "million", "12", "convertible", "debtentures", "1.6", "million", "common", "shares", "acquire", "closely", "held", "Kofcoh", "Imports", "Inc.", "over-the-counter", "trading", "Friday", "Jayark", "quoted", "bid", "15.625", "cents", "transaction", "total", "indicated", "value", "million", "Kofcoh", "New", "York", "holding", "company", "Rosalco", "imports", "furniture", "items", "David", "Koffman", "president", "chief", "executive", "officer", "Jayark", "distributes", "rents", "audio-visual", "equipment", "prints", "promotional", "ads", "retailers", "quarter", "ended", "July", "31", "average", "5.6", "million", "shares", "outstanding", "transaction", "subject", "approval", "panel", "disinterested", "directors", "shareholder", "approval", "isn't", "needed"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its remaining 1.5 billion shares of Citicorp, the nation's largest bank, in a public offering that could raise as much as $10 billion, according to a published report.
+The New York Times, citing unnamed sources, said the government is considering selling the shares in a public offering, rather than in a private sale to a single buyer.
+The government has been trying to sell its stake in Citicorp for more than a year. The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's stake in Citicorp is the largest single holding of any U.S. bank.
+The government's

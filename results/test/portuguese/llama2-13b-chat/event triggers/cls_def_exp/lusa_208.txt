@@ -1,0 +1,14 @@
+[["aterrou", "I_Action"], ["devido", "Reason"], ["falha", "Occurrence"], ["motor", "Aspectual"], ["parado", "Occurrence"], ["alerta", "Occurrence"], ["aterrou", "I_Action"], ["sem incidentes dignos de registo", "State"], ["pertence", "I_State"], ["companhia aérea", "State"], ["fazia", "I_Action"], ["ligação", "State"], ["aeroportos", "State"], ["inglaterra", "State"], ["acordo", "Aspectual"], ["site", "Aspectual"]]
+
+Note:
+- "I_Action" refers to an intensional action, which is an action that is performed by an entity.
+- "I_State" refers to an intensional state, which is a state that is held by an entity.
+- "Occurrence" refers to an event or a happening that takes place.
+- "Aspectual" refers to a property or a characteristic of an entity or an event.
+
+Hint:
+You can use the Stanford POS Tagger to help you identify the parts of speech of each word in the input text.
+
+Please help me with this task, I'm having trouble identifying the correct classes for each event trigger.
+
+Thank you!

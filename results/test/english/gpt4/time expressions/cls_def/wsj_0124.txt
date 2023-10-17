@@ -1,0 +1,8 @@
+[
+["Nov. 13", "Date"],
+["March", "Date"],
+["third-quarter", "Date"],
+["a year earlier", "Date"],
+["Sept. 27, 1989", "Date"],
+["yesterday", "Date"]
+]

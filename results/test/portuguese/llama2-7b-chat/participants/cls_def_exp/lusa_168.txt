@@ -1,0 +1,9 @@
+[["um homem", "Per"], ["33 anos", "Age"], ["Valongo", "Loc"], ["GNR", "Org"], ["prisão preventiva", "Pun"], ["agredir física e psicologicamente", "Act"], ["mãe", "Per"], ["57 anos", "Age"], ["proibido de contactar", "Pun"], ["perto dela", "Loc"], ["violência doméstica", "Act"], ["anteriores criminais", "Pun"], ["ameaça agravada", "Act"], ["injúrias", "Act"], ["ofensas à integridade física", "Act"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several participants, including the perpetrator, the victim, and the authorities.
+* The participants are classified based on their role in the situation, such as "Per" for the perpetrator, "Age" for the perpetrator's age, "Loc" for the location, "Org" for the organization, and "Pun" for the punishment.
+* The classes are defined based on the context of the situation, and can be used to analyze and understand the events described in the article.

@@ -1,0 +1,20 @@
+["apreende", "Valença", "sete", "toneladas", "berbigão", "valor", "37.400", "euros", "Unidade", "Controlo", "Costeiro", "GNR", "apreendeu", "Valença", "distrito", "Viana", "Castelo", "identificado", "homem", "50", "elaborado", "respetivo", "auto", "contraordenação", "transporte", "espécies", "bivalves", "estado", "imaturo", "infração", "punível", "coima", "37.500", "euros", "apreensão", "efetuada", "Unidade", "Controlo", "Matosinhos", "ocorreu", "quinta-feira", "diregida", "transporte", "pescado", "fresco", "moluscos", "bivalves", "detetado", "veículo", "mercadorias", "transportava", "berbigão", "imaturo", "medida", "legal", "comercializado", "caso", "2.5", "centímetros", "total", "apreendeu", "toneladas", "cerastoderma", "edule", "espécie", "molusco", "bivalve", "água", "salgada", "devolvida", "habitat", "natural", "virtude", "se", "encontrarem", "vivos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 pessoas já foram contatadas em Portugal
+Ao longo dos últimos dias, a Direção-Geral de Saúde (DGS) já contatou mais de 100.000 pessoas em Portugal, em relação às doenças respiratórias agudas (DRA), informou hoje a entidade.
+A DGS informou que, até às 18h30 de hoje, foram contatadas 100.000 pessoas, sendo 99.999 em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A DGS informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de hoje, foram contatadas 1.000 pessoas em Portugal continental e 1 em Madeira.
+A entidade também informou que, até às 18h30 de ho

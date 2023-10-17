@@ -1,0 +1,1 @@
+[["em Gandarela", "Location"], ["domingo", "Date"], ["01:00", "Time"], ["Cruz Vermelha", "Organization"], ["Guimarães", "Location"]]

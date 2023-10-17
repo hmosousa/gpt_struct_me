@@ -1,0 +1,1 @@
+["Friday", "Thursday", "October", "Friday", "Thursday", "next week", "Friday", "Oct.", "Friday"]

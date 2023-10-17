@@ -1,0 +1,1 @@
+["morre", "despiste", "automóvel", "conduzia", "disseram", "indicaram", "declarado", "local", "médico", "viatura médica de emergência", "hospital", "ocupante", "veículo ligeiro de passageiros", "acidente", "ocorreu", "encaminhado", "serviço de Medicina Legal", "alerta", "mobilizados", "bombeiros", "veículos", "corporação", "apoiados", "viaturas"]

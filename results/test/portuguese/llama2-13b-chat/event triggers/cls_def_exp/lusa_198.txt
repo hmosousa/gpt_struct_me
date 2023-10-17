@@ -1,0 +1,24 @@
+[["derrubou", "I_Action"], ["poste de iluminação", "Occurrence"], ["matou", "Occurrence"], ["homem de 52 anos", "Occurrence"], ["ferimentos ligeiros", "Occurrence"], ["acidente", "Occurrence"], ["camião", "I_Action"], ["atingiu", "I_Action"], ["circulava", "State"], ["vítima", "Occurrence"], ["morreu", "Occurrence"], ["hospital", "State"], ["bombas de gasolina", "Occurrence"], ["sofreu", "Occurrence"], ["ferimentos", "State"], ["acidente", "Occurrence"], ["provocou", "I_Action"], ["queda de um poste de eletricidade", "Occurrence"], ["veículo", "I_Action"], ["empresa", "I_Action"], ["processo de averiguação", "Occurrence"], ["causas", "Occurrence"], ["colaborar", "I_Action"], ["município", "I_Action"], ["lamentando", "State"], ["condolências", "State"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "derrubou", "poste de iluminação") and the second string is the class (e.g. "I_Action", "Occurrence").
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event. For example, in the input text, the event triggers are "derrubou", "matou", "atingiu", "sofreu", "provocou", "queda de um poste de eletricidade".
+
+You need to classify each event trigger into one of the following classes:
+
+* State: indicates a state or condition that holds over time
+* Occurrence: indicates an event or incident that happens at a specific time
+* Reporting: indicates a report or description of an event or state
+* Perception: indicates a perception or interpretation of an event or state
+* Aspectual: indicates an event or state that has a specific aspect or feature
+* Intensional Action: indicates an action that is intended to achieve a specific goal
+* Intensional State: indicates a state that is intended to be achieved or maintained
+
+For example, the event trigger "derrubou" would be classified as an "I_Action" because it indicates an action that is performed by the subject of the sentence. The event trigger "poste de iluminação" would be classified as an "Occurrence" because it indicates an event that happens at a specific time. The event trigger "matou" would be classified as an "Occurrence" because it indicates an event that happens at a specific time. The event trigger "atingiu" would be classified as an "I_Action" because it indicates an action that is performed by the subject of the sentence. The event trigger "sofreu" would be classified as a "State" because it indicates a condition that holds over time. The event trigger "provocou" would be classified as an "I_Action" because it indicates an action that is intended to achieve a specific goal. The event trigger "queda de um poste de eletricidade" would be classified as an "Occurrence" because it indicates an event that happens at a specific time.
+
+Your output should be a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. For example:
+
+[["derrubou", "I_Action"], ["poste de iluminação", "Occurrence"], ["matou", "Occurrence"], ["atingiu", "I_Action"], ["sofreu", "State"], ["provocou", "I_Action"], ["queda de um poste de eletricidade", "Occurrence"]]
+
+Note that some event triggers may belong to multiple classes, but you should choose the class that best fits the context and the meaning of the sentence.

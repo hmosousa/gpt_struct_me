@@ -1,0 +1,17 @@
+[["Homem", "State"], ["morreu", "Occurrence"], ["cair", "Occurrence"], ["telhado", "State"], ["trabalhava", "State"], ["hoje", "Occurrence"], ["Jesufrei", "State"], ["Vila Nova de Famalicão", "State"], ["Comando Distrital de Operações de Socorro de Braga", "State"], ["fonte", "Reporting"], ["vítima", "State"], ["teria", "Aspectual"], ["60 e 65 anos", "State"], ["estava", "State"], ["trabalhar", "State"], ["telhado", "State"], ["queda", "Occurrence"], ["oito metros de altura", "State"], ["alerta", "Occurrence"], ["dado", "Reporting"], ["15:30", "State"], ["óbito", "Occurrence"], ["declarado", "Reporting"], ["local", "State"], ["socorro", "State"], ["mobilizada", "Occurrence"], ["viatura médica de emergência e reanimação (VMER)", "State"], ["bombeiros", "State"], ["três viaturas", "State"], ["GNR", "State"], ["tomou", "I_Action"], ["conta", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state of being or a condition
+* Occurrence: refers to an event or a happening
+* Reporting: refers to the act of reporting or describing an event
+* Aspectual: refers to a verb form that expresses an ongoing or incomplete action
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input text is in Portuguese, and the output should be in English.
+
+Please note that the input text may contain grammatical errors or typos, and the output should reflect the corrections made to the text.
+
+Also, please note that the output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.

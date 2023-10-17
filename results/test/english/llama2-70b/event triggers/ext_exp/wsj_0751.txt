@@ -1,0 +1,1 @@
+["holders", "FDIC", "banks", "transaction", "plan", "thrifts", "share", "cash", "date", "wait", "set", "total", "agreed", "close", "clear", "approved", "receive", "last", "must", "bank", "acquire", "April", "yesterday", "Somerset", "N.J.", "New", "York", "Starpointe", "Savings", "Corp.", "Federal", "Deposit", "Insurance", "Dime", "Cleared"]

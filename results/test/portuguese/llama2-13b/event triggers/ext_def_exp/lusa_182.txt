@@ -1,0 +1,4 @@
+["indiciado", "maltratar", "mulher", "refugiou", "filha", "homem", "arguido", "levou", "Tribunal", "Instrução", "Penafiel", "consumidor", "bebidas", "frequência", "insultava", "ameaçava", "agredia", "física", "psicologicamente", "filha menor", "últimos meses", "escalada", "maus-tratos", "ameaças", "físicas", "refugiando-se", "residência", "refugiando-se", "familiares", "determinou", "coação", "afastamento", "residência", "proibição", "contactar", "vítima", "qualquer forma", "medidas", "proibição", "proibiu-se", "aproximar", "vítima", "raio", "controlado", "pulseira eletrónica"]
+
+Reference:
+https://www.academia.edu/3744404/Extracting_Events_from_Text_A_Comparison_of_Event_Extraction_Approaches

@@ -1,0 +1,1 @@
+[["the seasonally slow third quarter", "Date"], ["a year earlier", "Date"], ["The New York-based company reported a third-quarter", "Date"], ["a year-earlier", "Date"], ["the latest period", "Date"], ["the second and fourth quarters", "Set"], ["the current quarter", "Date"]]

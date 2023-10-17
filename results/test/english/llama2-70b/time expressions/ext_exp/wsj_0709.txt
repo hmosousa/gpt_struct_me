@@ -1,0 +1,1 @@
+["December", "October", "third quarter", "second quarter", "mid-November", "fiscal year", "calendar year", "year-ago quarter", "fourth quarter", "first quarter", "January", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]

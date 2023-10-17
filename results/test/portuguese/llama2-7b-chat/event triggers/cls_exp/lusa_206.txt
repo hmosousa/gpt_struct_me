@@ -1,0 +1,14 @@
+[["detidos", "I_Action"], ["disparos", "Occurrence"], ["homens", "Aspectual"], ["veículos", "Aspectual"], ["zona", "Aspectual"], ["Rego", "Aspectual"], ["feridos", "Occurrence"], ["danos", "Aspectual"], ["viaturas", "Aspectual"], ["local", "Aspectual"], ["fonte", "I_State"], ["Comando", "I_State"], ["Lisboa", "State"], ["PSP", "I_State"], ["incident", "Occurrence"], ["acabaram", "Aspectual"], ["intercetados", "I_Action"], ["detidos", "I_Action"], ["feridos", "Occurrence"], ["danos", "Aspectual"], ["viaturas", "Aspectual"], ["local", "Aspectual"], ["ficheiro", "Aspectual"], ["registaram", "Occurrence"], ["munições", "Aspectual"], ["carregador", "Aspectual"], ["Polícia", "I_State"], ["Judiciária", "I_State"]]
+
+
+Note:
+
+* The input text is in Portuguese, and the output is in JSON-parseable lists, where each element is a list with two strings. The first string is the entity, and the second is the class.
+* The classes are:
+	+ State: The entity is a noun or a proper noun, and the class is the category of the entity.
+	+ Occurrence: The entity is a verb or a noun related to an event, and the class is the category of the event.
+	+ Reporting: The entity is a verb or a noun related to reporting or mentioning something, and the class is the category of the report.
+	+ Aspectual: The entity is a verb or a noun related to an aspect or a feature, and the class is the category of the aspect.
+	+ Intensional Action: The entity is a verb or a noun related to an intention or a goal, and the class is the category of the intention.
+	+ Intensional State: The entity is a verb or a noun related to an intention or a goal, and the class is the category of the state.
+* The input text is about a news article about a shooting incident in Lisbon, and the output is a list of events and their corresponding classes.

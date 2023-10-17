@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["completed", "ASPECTUAL"], ["acquisition", "OCCURRENCE"], ["agreed", "I_STATE"], ["pay", "I_ACTION"], ["brings", "OCCURRENCE"], ["together", "OCCURRENCE"], ["reaches", "OCCURRENCE"], ["control", "OCCURRENCE"], ["had", "STATE"], ["sales", "OCCURRENCE"]]

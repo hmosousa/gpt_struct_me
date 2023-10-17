@@ -1,0 +1,28 @@
+[["sábado", "Date"], ["16 feridos por inalação de fumo", "Duration"], ["Espinho", "Location"], ["Aveiro", "Location"], ["19:55", "Time"], ["20:20", "Time"], ["sábado", "Date"], ["16 feridos por inalação de fumo", "Duration"], ["Espinho", "Location"], ["Aveiro", "Location"], ["19:55", "Time"], ["20:20", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem detido por suspeita de fogo posto em prédio em Espinho
+Um homem de 54 anos foi detido pela PSP devido às suspeitas de ter ateado fogo a um prédio habitacional em Espinho, no distrito de Aveiro, que causou 16 feridos por inalação de fumo, informou hoje aquela força policial.
+Em comunicado, a PSP esclarece que o alegado autor do incêndio, ali residente, se encontrava no interior do prédio, tendo no momento da sua interceção confirmado ter colocado algumas das suas peças de roupa no hall de entrada do referido prédio, ateando-lhes fogo.
+Segundo a PSP, 16 pessoas receberam assistência médica no local, devido à inalação de fumo, não carecendo, contudo, de transporte a qualquer unidade hospitalar.
+"Do incêndio, não se registaram danos materiais de relevo, pelo que o prédio ficou habitável, não havendo necessidade de realojamentos", refere a mesma nota.
+O fogo, que deflagrou

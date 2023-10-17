@@ -1,0 +1,14 @@
+[
+"So far",
+"yesterday",
+"last night",
+"last-minute",
+"several days",
+"a week",
+"four days",
+"an hour",
+"the next few days",
+"the coming days",
+"the near future",
+"the long run"
+]

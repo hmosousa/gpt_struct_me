@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["de 48 anos", "Per"], ["morreu", "Per"], ["vítima", "Per"], ["de uma colisão", "Other"], ["registada", "Other"], ["entre", "Other"], ["dois veículos ligeiros", "Other"], ["na freguesia de Chorente", "Loc"], ["concelho de Barcelos (Braga)", "Loc"], ["indicou", "Org"], ["fonte", "Org"], ["do Comando Distrital", "Org"], ["de Operações de Socorros", "Org"], ["de Braga", "Loc"], ["O acidente", "Other"], ["entre", "Other"], ["os dois automóveis", "Other"], ["foi registado", "Other"], ["por volta das 13:00", "Other"], ["A vítima mortal", "Per"], ["era o condutor", "Per"], ["de um dos veículos", "Other"], ["tendo sido", "Other"], ["registado", "Other"], ["um ferido ligeiro", "Per"], ["com cerca de 20 anos de idade", "Per"], ["que foi transportado", "Other"], ["para o Hospital de Barcelos", "Loc"], ["adiantou", "Org"], ["fonte", "Org"], ["do CDOS de Braga", "Org"], ["e dos Bombeiros Voluntários", "Org"], ["de Viatodos", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* The entities and classes can be identified based on the context and the information provided in the text.
+* Some entities and classes may be mentioned multiple times in the text.
+
+Please let me know if you have any questions or need further clarification.

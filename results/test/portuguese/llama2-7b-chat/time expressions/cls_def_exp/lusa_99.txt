@@ -1,0 +1,1 @@
+[["em julho", "Date"], ["em novembro", "Date"], ["4 anos", "Time"], ["28 anos", "Age"], ["40 jogos", "Duration"], ["7 golos", "Quantity"]]

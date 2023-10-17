@@ -1,0 +1,1 @@
+[["Covid-19", "Set"], ["em Paris", "Date"], ["ontem", "Date"], ["quarta-feira", "Time"], ["18 a 20 de dezembro", "Date"], ["São Tomé e Príncipe", "Set"], ["Guiné Bissau", "Set"]]

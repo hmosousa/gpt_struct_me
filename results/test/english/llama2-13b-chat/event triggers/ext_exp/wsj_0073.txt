@@ -1,0 +1,14 @@
+[
+"effective",
+"begin",
+"mailing",
+"rights",
+"shareholders",
+"entitles",
+"face",
+"warrants",
+"exercise",
+"expire",
+"operates",
+"agreed"
+]

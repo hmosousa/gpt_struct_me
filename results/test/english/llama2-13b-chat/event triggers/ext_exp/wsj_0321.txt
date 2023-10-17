@@ -1,0 +1,4 @@
+["offer", "withdrew", "deadline", "response", "pursuit", "stake", "may", "stock", "tender", "proposed", "rejected", "cities", "serves", "flies"]
+
+Format:
+JSON-parseable list of strings.

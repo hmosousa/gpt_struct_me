@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["Fráguas", "Loc"], ["Tondela", "Loc"], ["GNR", "Org"], ["Comando Territorial", "Org"], ["Instituto Nacional de Medicina Legal", "Org"], ["Comando Distrital de Operações de Socorro", "Org"]]

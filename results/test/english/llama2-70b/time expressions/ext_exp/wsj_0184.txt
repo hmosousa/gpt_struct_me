@@ -1,0 +1,1 @@
+["Upjohn", "Friday", "fourth-quarter", "two-year", "New York", "$38.875"]

@@ -1,0 +1,31 @@
+[["3,7 anos", "Duration"], ["8 anos", "Duration"], ["3,7 anos", "Duration"], ["8 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+
+Output:
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Detido pai que matou filhos para se vingar da mulher no México
+Um homem foi detido no norte do México pelo alegado homicídio dos três filhos à pancada para se vingar da mãe das crianças, disseram os procuradores no domingo.
+O gabinete dos procuradores no estado de Sonora (norte) disseram que os rapazes tinham 3,7 e 8 anos. O suspeito telefonou ao pai a contar o que tinha feito e o avô das crianças chamou a polícia.
+O suspeito fugiu para Sonora, mas foi imediatamente detido e enviado para Hidalgo, onde ocorreram as mortes, para ser acusado.
+Os procuradores acrescentaram que o homem discutiu com a mãe das crianças e matou os filhos "de modo a causar-lhe uma grande dor".
+"Aparentemente, numa vingança contra a mulher, matou os filhos", de acordo com uma declaração publicada pelo gabinete."
+
+Output:
+[["3,7 anos", "Duration"], ["8 anos", "Duration"], ["3,7 anos", "Duration"], ["8 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration"], ["3,7 anos", "Duration

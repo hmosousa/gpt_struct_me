@@ -1,0 +1,9 @@
+[["Ricardo Pinheiro", "Per"], ["José Mendes", "Per"], ["José Fernandes Gomes Mendes", "Per"], ["Nelson de Sousa", "Per"], ["Portalegre", "Loc"], ["Palácio de Belém", "Loc"], ["Câmara de Campo Maior", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Obj" stands for "Object"
+* "Other" stands for "Other" (e.g. a category for things that don't fit into any of the other categories)

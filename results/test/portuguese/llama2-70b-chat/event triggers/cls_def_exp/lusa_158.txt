@@ -1,0 +1,16 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["colisão automóvel", "Occurrence"], ["hoje", "Aspectual"], ["vítima", "State"], ["registada", "Occurrence"], ["dois veículos ligeiros", "State"], ["freguesia", "State"], ["Chorente", "State"], ["concelho", "State"], ["Barcelos", "State"], ["Braga", "State"], ["Comando Distrital de Operações de Socorros", "State"], ["CDOS", "State"], ["Braga", "State"], ["acidente", "Occurrence"], ["registado", "Occurrence"], ["por volta das 13:00", "Aspectual"], ["vítima mortal", "State"], ["condutor", "State"], ["dos veículos", "State"], ["ferido ligeiro", "State"], ["cerca de 20 anos de idade", "State"], ["transportado", "I_Action"], ["Hospital de Barcelos", "State"], ["Bombeiros Voluntários de Viatodos", "State"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* State: refers to any state, situation or condition.
+* Occurrence: refers to any occurrence, incident, action or event.
+* Reporting: refers to any reporting, description or explanation.
+* Perception: refers to any perception, understanding or interpretation.
+* Aspectual: refers to any aspectual information, such as time, location or manner.
+* Intensional Action: refers to any action or activity that is intended or planned.
+* Intensional State: refers to any state or situation that is intended or planned.
+
+The task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate the occurrence of an event, such as "morre", "colisão automóvel", "registada", "hoje", "vítima", "ferido", "transportado", "ocorrido", "começou", "terminou", "desencadeou", "iniciou", "concluiu", "foi", "será", "está", "faleceu", "nasceu", "criou", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "se transformou", "se converteu", "se tornou", "

@@ -1,0 +1,6 @@
+[
+["the six months ended Oct. 1", "Duration"],
+["yesterday", "Date"],
+["a year earlier", "Date"],
+["1988", "Date"]
+]

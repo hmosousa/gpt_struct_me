@@ -1,0 +1,1 @@
+["Thursday", "Friday", "Thursday", "Friday", "03/06/1998 13:19:00", "few weeks", "Friday"]

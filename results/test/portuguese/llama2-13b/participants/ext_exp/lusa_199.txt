@@ -1,0 +1,42 @@
+["Um homem de 60", "morre", "em Matosinhos", "após cair", "de telhado", "que estava", "a limpar", "Um homem de 60", "morreu", "hoje", "em Matosinhos", "no distrito", "do Porto", "depois de cair", "do telhado", "da sua habitação", "que estava", "a limpar", "acrescentou", "a fonte", "a PSP", "O acidente", "deu-se", "cerca das 15:30", "na Rua Augusto Gil", "tendo o homem caído", "de uma altura", "de sete metros", "acrescentou", "a fonte", "No local", "compareceram", "os bombeiros", "de Leixões"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque

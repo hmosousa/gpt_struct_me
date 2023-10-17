@@ -1,0 +1,1 @@
+[["last year", "Date"], ["last December", "Date"], ["by February", "Date"], ["Friday", "Date"]]

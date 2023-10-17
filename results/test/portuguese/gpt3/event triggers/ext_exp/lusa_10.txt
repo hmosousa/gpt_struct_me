@@ -1,0 +1,1 @@
+["feriu", "balas", "borracha", "arma", "fogo", "disparos", "munições", "recusou", "parar", "atingido", "balas", "pernas", "disparos", "intimidação", "ar", "tratado", "ferimentos", "detido", "posto", "presente", "juiz", "fixação", "medidas", "coação", "envolveu", "armas", "informada"]

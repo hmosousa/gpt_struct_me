@@ -1,0 +1,24 @@
+[["Homem", "Person"], ["sofre", "Event"], ["queimaduras", "Medical"], ["face", "Location"], ["membros", "Body Part"], ["Vale", "Location"], ["São", "Location"], ["João", "Location"], ["Porto", "Location"]]
+
+Explanation:
+
+In this task, we are given a text and we need to extract and classify all time expressions found in it. Time expressions are linguistic elements that allow us to communicate information about time, such as dates, times, durations, and sets.
+The input text is about a man who suffered burns in Famalicão, Portugal, and how he was taken to the Hospital de São João in Porto. We need to extract and classify all time expressions found in the text.
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class. For example, in the output, the entity "Homem" is classified as "Person".
+The time expressions found in the input text are:
+* "hoje" (Date)
+* "13:41" (Time)
+* "segundo e terceiro grau" (Duration)
+* "em Famalicão" (Location)
+* "Vila Nova de Famalicão" (Location)
+* "Hospital de São João" (Location)
+* "Porto" (Location)
+
+We can see that there are four time expressions in the input text: "hoje", "13:41", "segundo e terceiro grau", and "em Famalicão". We classified them according to their type: "hoje" is a date, "13:41" is a time, "segundo e terceiro grau" is a duration, and "em Famalicão" is a location.
+In the output, we listed each time expression found in the input text, along with its class. For example, the time expression "13:41" is classified as "Time".
+
+
+
+
+
+

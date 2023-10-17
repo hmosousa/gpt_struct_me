@@ -1,0 +1,21 @@
+["Former", "savings", "chief", "Charles", "Keating", "facing", "legal", "troubles", "California", "federal", "appeals", "reinstated", "convictions", "securities", "fraud", "NPR's", "Elaine", "Corey", "San", "Francisco", "nineteen", "ninety-one", "Keating", "convictions", "thrown", "nineteen", "ninety-six", "released", "prison", "stand", "ruling", "likely", "lawyers", "court", "brought", "issues", "raised", "appeal", "convictions", "stand", "sent", "Francisco", "NPR", "news"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court has ruled that the government can't force a woman to take her husband's last name. The court says the federal law that requires Social Security cards to have the husband's name is unconstitutional. NPR's Nina Totenberg reports.
+The case involved a woman named Karen Phillips who was born Karen Walker. She married a man named Phillips and took his name. But when she applied for a Social Security card, she was told she had to use her maiden name. She sued, saying the law violated her constitutional right to privacy. The Supreme Court agreed. Writing for the majority, Justice Sandra Day O'Connor said the government can't force a woman to use her husband's name. She said the law is a form of sex discrimination. The court said the government can require a woman to use her husband's name if she's applying for a passport or a driver's license. Nina Totenberg, NPR news, Washington."
+
+Output:
+["U.S.", "Supreme", "Court", "has", "woman", "take", "husband's", "last", "name", "government", "can't", "force", "Social", "Security", "cards", "unconstitutional", "NPR's", "Nina", "Totenberg", "Washington", "case", "involved", "woman", "named", "Phillips", "married", "husband", "applied", "card", "told", "use", "maiden", "sued", "violated", "constitutional", "privacy", "majority", "Sandra", "Day", "O'Connor", "law", "violates", "government", "require", "passport", "driver's", "license", "Totenberg", "NPR", "news", "Washington"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court has ruled that the government can't force a woman to take her husband's last name. The court says the federal law that requires Social Security cards to have the husband's name is unconstitutional. NPR's Nina Totenberg reports.
+The case involved a woman named Karen Phillips who was born Karen Walker. She married a man named Phillips and took his name. But when she applied for a Social Security card, she was told she had to use her maiden name. She sued, saying the law violated her constitutional right to privacy. The Supreme Court agreed. Writing for the majority, Justice Sandra Day O'Connor said the government can't force a woman to use her husband's name. She said the law is a form of sex discrimination. The court said the government can require a woman to use her husband's name if she's applying for a passport or a driver's license. Nina Totenberg, NPR news, Washington."
+
+Output:
+["U.S.", "Supreme", "Court", "has", "woman", "take", "husband's", "last", "name", "government", "can't", "force", "Social", "Security", "cards", "unconstitutional", "NPR's", "Nina", "Totenberg", "Washington", "case", "involved", "woman", "named", "Phillips",

@@ -1,0 +1,19 @@
+[["GNR", "I_Action"], ["procura", "I_Action"], ["envolvidos", "State"], ["assalto", "Occurrence"], ["confeitaria", "Location"], ["dois homens", "Occurrence"], ["roubaram", "Occurrence"], ["caixa registadora", "Object"], ["montante", "Quantity"], ["dinheiro", "Object"], ["detido", "State"], ["outro", "State"], ["continuava", "State"], ["procurado", "State"], ["ainda", "Adverb"], ["monte", "Noun"], ["estão", "Verb"], ["envolvidos", "State"], ["meios", "Noun"], ["dispositivo", "Noun"], ["territorial", "Adjective"], ["Destacamento", "Noun"], ["Intervenção", "Noun"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR") and the second string is the class (e.g. "I_Action"). The classes are based on the Penn Treebank tag set and are:
+
+* I_Action: An action or event
+* I_State: A state or condition
+* Occurrence: An occurrence or event
+* Aspectual: An aspect or feature of an event
+* Intensional Action: An action with a specific goal or intention
+* Intensional State: A state with a specific goal or intention
+* Reporting: A report or description of an event
+* Perception: A perception or sensory experience
+* State: A state or condition
+* Location: A location or place
+* Quantity: A quantity or amount
+* Object: An object or item
+
+Note that the classes are not mutually exclusive, and an event or action can have multiple classes. For example, "GNR procura um dos envolvidos em assalto a confeitaria da Feira" can be classified as both an I_Action (the act of searching) and an Occurrence (the event of the assault).

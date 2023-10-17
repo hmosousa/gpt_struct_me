@@ -1,0 +1,1 @@
+[["completed", "OCCURRENCE"], ["tendering", "OCCURRENCE"], ["take", "OCCURRENCE"], ["said", "REPORTING"], ["paying", "OCCURRENCE"], ["assuming", "OCCURRENCE"], ["hire", "I_ACTION"], ["planned", "ASPECTUAL"], ["scheduled", "ASPECTUAL"], ["locked", "STATE"], ["attempt", "I_ACTION"], ["get", "OCCURRENCE"], ["are", "STATE"], ["settle", "I_ACTION"]]

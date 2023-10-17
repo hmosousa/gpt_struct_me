@@ -1,0 +1,1 @@
+["announced", "effectiveness", "registration", "statement", "issued", "convertible", "maturity", "conversion", "available"]

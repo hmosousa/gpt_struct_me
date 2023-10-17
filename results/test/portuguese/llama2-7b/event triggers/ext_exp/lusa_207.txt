@@ -1,0 +1,25 @@
+["Dois", "feridos", "rixa", "Casal", "Machados", "Lisboa", "Dois", "homens", "22", "33", "anos", "ficaram", "feridos", "um", "deles", "com", "gravidade", "terça-feira", "noite", "sequência", "desordem", "envolveu", "vários", "pessoas", "armas", "fogo", "terá", "comecado", "junto", "bombas", "gasolina", "Avenida", "Infante", "D", "Henrique", "terminou", "Largo", "Maria", "Judite", "Carvalho", "Casal", "Machados", "freguesia", "Parque", "Nações", "sequência", "desordem", "um", "homem", "33", "anos", "ficou", "ferido", "gravidade", "transportado", "ambulância", "Hospital", "Santa", "Maria", "ferido", "ligeiro", "deslocou", "propios", "meios", "local", "PSP", "encontrado", "cartucho", "arma", "fogo", "viaturas", "danificadas", "disparos", "arma", "fogo", "investigação", "fiqueu", "alerta", "desordem", "dado", "PJ"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais pessoas do que nunca.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 24 horas, mais de 100 milhões de pessoas foram colocadas em quarentena em todo o mundo.
+Ao longo de 

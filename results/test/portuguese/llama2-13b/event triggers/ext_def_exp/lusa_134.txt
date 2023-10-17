@@ -1,0 +1,26 @@
+["GNR", "procura", "envolvidos", "assalto", "confeitaria", "Feira", "Dois", "roubaram", "hoje", "caixa registadora", "confeitaria", "Milheirós", "Poiares", "Santa Maria", "Feria", "distrito", "Aveiro", "envolvidos", "caras", "tapadas", "Levaram", "caixa registadora", "montante", "dinheiro", "determinado", "fonte", "detido", "Milheirós", "Poiares", "aindo", "monte", "envolvidos", "dispositivo", "territorial", "GNR", "Destacamento", "Intervenção", "força", "policial"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["Covid-19", "Governo", "estado", "australiano", "pediu", "desculpa", "erros", "quarentenas", "hotéis", "líder", "governo", "estado", "australiano", "Victoria", "pediu", "desculpa", "erros", "programa", "quarentena", "divulgação", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR procura um dos envolvidos em assalto a confeitaria da Feira
+Dois homens roubaram hoje a caixa registadora de uma confeitaria no concelho de Santa Maria da Feira e um dos dois envolvidos está em fuga às autoridades, disse fonte oficial da GNR.
+O assalto foi consumado entre as 12:00 e as 12:30 numa confeitaria de Milheirós de Poiares, Santa Maria da Feria, distrito de Aveiro, e os envolvidos atuaram de cara tapada.
+Levaram a caixa registadora com um

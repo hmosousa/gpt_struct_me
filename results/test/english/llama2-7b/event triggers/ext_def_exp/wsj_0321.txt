@@ -1,0 +1,39 @@
+["StatesWest", "said", "withdrew", "Mesa", "Farmington", "carrier", "didn't", "offer", "close", "business", "deadline", "set", "response", "however", "pursuit", "much-larger", "StatesWest", "proposed", "acquiring", "Mesa", "convertible", "preferred", "earlier", "combine", "cities", "California", "Arizona", "Nevada"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former Enron Corp. executive who was convicted of insider trading.
+The court's action leaves in place a ruling by the 5th U.S. Circuit Court of Appeals in New Orleans that upheld the conviction of former Enron treasurer Ben Glisan Jr.
+Glisan was convicted in 2002 of trading on inside information about the energy company's financial condition.
+The 5th Circuit upheld Glisan's conviction in 2003, saying he had a duty to disclose the information to the public.
+Glisan's attorneys had argued that the 5th Circuit's ruling was inconsistent with a 2002 Supreme Court decision that said a person who trades on inside information must have a duty to disclose the information to the public.
+The Supreme Court's action Monday leaves in place a ruling by the 5th Circuit that upheld Glisan's conviction.
+Glisan was sentenced to 18 months in prison and ordered to pay a $100,000 fine.
+He is free on bail pending appeal."
+
+Output:
+["U.S.", "Supreme", "Court", "Monday", "refused", "appeal", "former", "Enron", "Corp", "convicted", "insider", "trading", "action", "leaves", "ruling", "5th", "Circuit", "New", "Orleans", "upheld", "conviction", "treasurer", "trading", "information", "condition", "attorneys", "argued", "decision", "sentenced", "bail", "appeal"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former Enron Corp. executive who was convicted of insider trading.
+The court's action leaves in place a ruling by the 5th U.S. Circuit Court of Appeals in New Orleans that upheld the conviction of former Enron treasurer Ben Glisan Jr.
+Glisan was convicted in 2002 of trading on inside information about the energy company's financial condition.
+The 5th Circuit upheld Glisan's conviction in 2003, saying he had a duty to disclose the information to the public.
+Glisan's attorneys had argued that the 5th Circuit's ruling was inconsistent with a 2002 Supreme Court decision that said a person who trades on inside information must have a duty to disclose the information to the public.
+The Supreme Court's action Monday leaves in place a ruling by the 5th Circuit that upheld Glisan's conviction.
+Glisan was sentenced to 18 months in prison and ordered to pay a $100,000 fine.
+He is free on bail pending appeal."
+
+Output:
+["U.S.", "Supreme", "Court", "Monday", "refused", "appeal", "former", "Enron", "Corp", "convicted", "insider", "trading", "action", "leaves", "ruling", "5th", "Circuit", "New", "Orleans", "upheld", "conviction", "treasurer", "trading", "information", "condition", "attorneys", "argued", "decision", "sentenced", "bail", "appeal"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U

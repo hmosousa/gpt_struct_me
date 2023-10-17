@@ -1,0 +1,69 @@
+["Valley", "Federal", "Savings", "Loan", "Association", "took", "an", "89", "million", "charge", "as", "it", "reported", "third-quarter", "loss", "70", "million", "12", "09", "share", "the", "Van", "Nuys", "Calif", "thrift", "net", "income", "132", "000", "three", "cents", "share", "a", "year", "ago", "the", "bulk", "pretax", "charge", "62", "million", "write-off", "capitalized", "servicing", "mobile", "financing", "subsidiary", "which", "company", "said", "drain", "earnings", "added", "18", "million", "reserves", "eliminated", "9", "9", "million", "good", "will", "thrift", "said", "charges", "assuming", "dramatic", "fluctuation", "interest", "rates", "association", "expects", "near", "record", "earnings", "1990", "loans", "slow", "6", "6", "million", "compared", "361", "8", "million", "assets", "3", "2", "billion"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The 1990 World Series was the championship series of Major League Baseball's (MLB) 1990 season. The 86th edition of the World Series, it was a best-of-seven playoff between the American League (AL) champion Oakland Athletics and the National League (NL) champion Cincinnati Reds. The Reds defeated the Athletics in a four-game sweep to win their first World Series championship since 1975.
+
+The Reds were managed by Pete Rose, who was banned from baseball in 1989 for gambling on baseball games. The Athletics were managed by Tony La Russa, who was in his first season as the team's manager.
+
+The Reds won the series, 4–0.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.
+
+The Reds' sweep was the first in World Series history.

@@ -1,0 +1,7 @@
+[["detido", "I_Action"], ["suspeita", "Occurrence"], ["esfaqueamento", "Occurrence"], ["familiar", "State"], ["internacional", "State"], ["futebolista", "State"], ["Ajax", "State"], ["detido", "I_Action"], ["alegadamente", "Occurrence"], ["teria", "Aspectual"], ["desfecho", "Occurrence"], ["grave", "State"], ["interpuseram-se", "Occurrence"], ["impediu", "Occurrence"], ["armazém", "State"], ["propriedade", "State"], ["Abcoude", "State"], ["pequena povoação", "State"], ["província", "State"], ["Utrecht", "State"], ["denúncia", "Occurrence"], ["presentes", "State"], ["novembro", "State"], ["investigação", "Occurrence"], ["detenção", "I_Action"], ["manhã", "State"], ["fonte policial", "Reporting"], ["diário", "Reporting"], ["Países Baixos", "State"], ["pena máxima", "State"], ["quatro anos", "State"], ["avançado", "State"], ["seleção holandesa", "State"], ["40 jogos", "State"], ["sete golos", "State"], ["profissional", "State"], ["Twente", "State"], ["Spartak de Moscovo", "State"], ["Sevilha", "State"], ["Ajax", "State"], ["2019/20", "State"]]
+
+Please note that the input and output are in Portuguese, but the task is to classify the triggers in English.
+
+Please also note that the output is a JSON-parseable list, and the elements in the list are separated by commas.
+
+Also, please note that there are some typos in the input and output, but the task is to classify the triggers correctly, regardless of the typos.

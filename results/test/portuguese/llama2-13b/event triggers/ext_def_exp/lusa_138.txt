@@ -1,0 +1,4 @@
+["detém", "homem", "maltratar", "ameaçar", "morte", "mãe", "73 anos", "Gondomar", "detido", "maltratar", "física", "psicologicamente", "mãe", "73 anos", "sequência", "denúncia", "ocorrer", "crime", "violência doméstica", "militares", "deslocaram-se", "local", "apuraram", "estava", "infligir", "maus-tratos", "psicológicos", "ameaças", "morte", "recurso", "armas brancas", "mãe", "sublinhou", "força policial", "comunicado", "apreendeu", "armas brancas", "frisou", "suspeito", "antecedentes", "criminais", "prática", "mesmos crimes", "detido", "presente", "primeiro interrogatório", "Tribunal Judicial", "Porto", "sábado"]
+
+Reference:
+https://www.aclweb.org/anthology/2019.emnlp-main.107

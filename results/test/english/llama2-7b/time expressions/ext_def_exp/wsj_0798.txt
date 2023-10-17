@@ -1,0 +1,22 @@
+["Hudson's Bay Co.", "announced terms of a previously proposed rights issue", "that is expected to raise about 396 million Canadian dollars (US$337 million) net of expenses", "Proceeds of the offering will be used to redeem C$264 million of preferred shares and to reduce short-term debt", "Canada's largest department store operator", "the company said the rights offering will entitle holders of its ordinary shares, except residents in the U.S. and Britain", "to subscribe for two additional shares for every five shares held at a price of C$31.25 a share", "The record date is Nov. 9", "The company has about 31 million ordinary shares outstanding", "On the Toronto Stock Exchange, Hudson's Bay shares closed at C$35, up 12.5 cents", "Hudson's Bay said that Woodbridge Co.", "which currently holds about 77% of the ordinary shares", "will subscribe for all the shares to which it is entitled and for any shares that aren't otherwise taken up", "Woodbridge is a holding company owned by Toronto's Thomson family", "Hudson's Bay said it will redeem 9.5 million Series H preferred shares on Oct. 31 at a price of C$27.75 each", "The move was approved at a special shareholders' meeting yesterday", "Gary Lukassen", "chief financial officer", "said redemption of the preferred shares", "originally issued at C$25 each", "will eliminate dividend payments of C$17.9 million annually"]
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the collapse of the WorldCom Inc. telecommunications company, a person familiar with the matter said on Friday.
+The settlement, which was reached on Thursday, is the largest ever in a securities class-action lawsuit, said the person, who asked not to be identified because the settlement has not been made public.
+The settlement, which is subject to court approval, is expected to be announced as early as Monday, the person said.
+The settlement is the latest in a series of legal actions against WorldCom, which filed for bankruptcy protection in July 2002 after disclosing a $3.8 billion accounting scandal.
+The company, which is now known as MCI Inc., has agreed to pay $600 million to settle a lawsuit brought by the U.S. Securities and Exchange Commission.
+The SEC also has sued former WorldCom Chief Executive Bernard Ebbers and former Chief Financial Officer Scott Sullivan.
+The SEC has accused Ebbers and Sullivan of fraud and conspiracy.
+Ebbers and Sullivan have denied the charges.
+The SEC has said that WorldCom's collapse was the largest corporate bankruptcy in U.S. history.
+The collapse of WorldCom, which was once the world's No. 2 telecommunications company, has been blamed on a series of accounting errors and misrepresentations by Ebbers and Sullivan.
+The company's collapse has also been blamed on the collapse of the telecommunications industry, which has been hit hard by the economic downturn.
+The collapse of WorldCom has also been blamed on the collapse of the Internet bubble, which has been blamed on the collapse of the dot-com bubble.
+The collapse of the Internet bubble has also been blamed on the collapse of the telecommunications industry, which has been hit hard by the economic downturn.
+The collapse of the Internet bubble has also been blamed on the collapse of the dot-com bubble.
+The collapse of the Internet bubble has also been blamed on the collapse of the telecommunications industry, which has been hit hard by the economic downturn.
+The collapse of the Internet bubble has also been blamed on the collapse of the dot-com bubble.
+The collapse of the Internet bubble has also been blamed on the collapse of the telecommunications industry, which has been hit hard by the economic downturn.
+The collapse of the Internet bubble has also been blamed on the collapse of the dot-com bubble.
+The collapse of the Internet bubble has also been blamed on the collapse of the telecommunications industry, which

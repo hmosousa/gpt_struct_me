@@ -1,0 +1,7 @@
+["em 2016", "em 2017", "em 2019", "05 de outubro"]
+
+Note:
+
+* The input text may contain other irrelevant information.
+* The output should only include time expressions that are relevant to the given task.
+* The output format is a JSON-parseable list of strings.

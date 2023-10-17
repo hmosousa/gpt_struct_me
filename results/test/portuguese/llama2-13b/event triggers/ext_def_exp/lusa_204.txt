@@ -1,0 +1,27 @@
+["violência", "homem", "26 anos", "prisão preventiva", "Foz Côa", "violência doméstica", "mãe", "irmã", "GNR", "militares", "Guarda", "denúncia", "local", "dia de Natal", "injuriado", "machada", "navalha", "destruiu", "presença", "fuga", "intercetado", "detido", "antecedentes", "ilícitos", "medida", "coação", "prisão preventiva"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Violência doméstica: Prisão preventiva para homem de 26 anos em Foz Côa
+Um homem de 26 anos ficou em prisão preventiva por alegado crime violência doméstica no dia de Natal, devido a ameaças de morte à mãe e uma irmã, no concelho de Foz Côa, foi hoje anunciado pela GNR.
+"Na sequência de uma denúncia, os militares da Guarda deslocaram-se ao local no dia de Natal onde verificaram que o suspeito tinha injuriado e ameaçado de morte, com recurso a uma machada e uma navalha, a mãe de 46 anos e a irmã de 12 anos", descreveu aquela força de segurança.
+Segundo a GNR, o agressor destruiu ainda as portas da habitação, de forma a intimidar as vítimas.
+"Perante a presença dos militares, tentou encetar a fuga, tendo sido intercetado e detido. Os objetos utilizados para as ameaças

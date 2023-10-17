@@ -1,0 +1,1 @@
+["fourth quarter", "yesterday", "1988", "$160 million", "10.66%", "next year", "$585 million", "$728 million", "$175 million", "$54 million", "zero-coupon"]

@@ -1,0 +1,43 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the order they appear in the input text.
+* Each string should be a complete sentence or phrase, with no incomplete or partial sentences.
+* Each string should be a unique and distinct phrase, with no duplicates or near duplicates.
+* The list should be in a human-readable format, with appropriate punctuation and capitalization.
+
+Please provide the output in the following format:
+
+[
+"Turning",
+"regulations",
+"sickest",
+"transplant",
+"organs",
+"UNOS",
+"Shalala",
+"patients",
+"centers",
+"closing",
+"fair",
+"effective",
+"disparities",
+"waiting",
+"years",
+"lives",
+"system",
+"balanced",
+"middle",
+"nationwide",
+"thousand",
+"organs",
+"develop",
+"plan",
+"distribute",
+"shortest",
+"supply",
+"VOA",
+"Today"
+]

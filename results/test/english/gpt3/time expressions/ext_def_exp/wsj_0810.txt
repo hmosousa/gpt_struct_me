@@ -1,0 +1,1 @@
+["Monday", "Tuesday", "1987", "1989", "20 years", "July 1", "Thursday", "Friday", "Saturday", "Sunday", "next year", "this year"]

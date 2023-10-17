@@ -1,0 +1,1 @@
+[["raised", "OCCURRENCE"], ["offering", "OCCURRENCE"], ["said", "REPORTING"], ["used", "OCCURRENCE"], ["save", "OCCURRENCE"], ["expected", "ASPECTUAL"], ["have", "STATE"], ["offered", "OCCURRENCE"], ["representing", "OCCURRENCE"], ["converted", "OCCURRENCE"], ["is", "STATE"], ["have", "STATE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["trading", "OCCURRENCE"]]

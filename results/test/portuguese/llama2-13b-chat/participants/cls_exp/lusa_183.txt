@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["com antecedentes criminais", "Other"], ["por tráfico de droga", "Other"], ["fica hoje", "Per"], ["com pulseira eletrónica", "Obj"], ["por injuriar", "Per"], ["ameaçar", "Per"], ["e perseguir", "Per"], ["a sua ex-companheira", "Per"], ["em Vila Nova de Gaia", "Loc"], ["disse a GNR", "Org"], ["Além de estar controlado", "Per"], ["por pulseira eletrónica", "Obj"], ["o detido", "Per"], ["está proibido", "Per"], ["de contactar", "Per"], ["a vítima", "Per"], ["por qualquer meio", "Other"], ["de frequentar", "Per"], ["os mesmos locais", "Other"], ["e de se aproximar", "Per"], ["del a num raio de 800 metros", "Other"], ["referiu esta força policial", "Org"], ["em comunicado", "Other"], ["No âmbito de uma investigação", "Other"], ["por violência doméstica", "Other"], ["os militares da GNR", "Org"], ["apuraram que", "Other"], ["o suspeito", "Per"], ["injuriava", "Per"], ["ameaçava", "Per"], ["e perseguia", "Per"], ["a vítima", "Per"], ["de 30 anos", "Other"], ["frisou", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Other" stands for "Other"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, objects, locations, and facilities.
+* The entities and classes can be identified based on the context and the information provided in the text.
+* Some entities and classes may have multiple instances or mentions in the text.

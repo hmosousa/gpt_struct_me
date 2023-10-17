@@ -1,0 +1,1 @@
+["Friday", "tomorrow", "year ending tomorrow", "next week", "September", "last month", "1980", "15.6 billion yen", "6.4 billion yen", "13.8 billion yen", "Feb. 23"]

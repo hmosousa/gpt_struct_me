@@ -1,0 +1,13 @@
+["um homem de 28 anos", "antecedentes criminais", "tráfico de droga", "ex-companheira", "Vila Nova de Gaia", "GNR", "injuriar", "ameaçar", "perseguir", "a sua ex-companheira", "estar controlado", "pulseira eletrónica", "proibido", "contactar", "frequentar", "mesmos locais", "se aproximar", "800 metros", "violência doméstica", "militares", "GNR", "investigação", "injuriava", "ameaçava", "perseguia", "vítima", "30 anos", "frisou", "últimos meses", "comportamentos", "controlo", "perseguição", "episódios", "ameaças", "danos", "veículo", "vítima", "acrescentou"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é condenado a 12 anos de prisão por tentativa de homicídio
+Um homem de 20 anos foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por ter tentado matar um homem de 22 anos, em Lisboa, no dia 10 de Junho de 2019, no âmbito de uma briga entre dois grupos de jovens, no Parque Eduardo VII, informou a PSP.
+O homem foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por ter tentado matar um homem de 22 anos, em Lisboa, no dia 10 de Junho de 2019, no âmbito de uma briga entre dois grupos de jovens, no Parque Eduardo VII, informou a PSP.
+O homem foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por ter tentado matar um homem de 22 anos, em Lisboa, no dia 10 de Junho de 2019, no âmbito de uma briga entre dois grupos de jovens, no Parque Eduardo VII, informou a PSP.
+O homem foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por ter tentado matar um homem de 22 anos, em Lisboa, no dia 10 de Junho de 2019, no âmbito de uma briga entre dois grupos de jovens, no Parque Eduardo VII, informou a PSP.
+O homem foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por ter tentado matar um homem de 22 anos, em Lisboa, no dia 10 de Junho de 2019, no âmbito de uma briga entre dois grupos de jovens, no Parque Eduardo VII, informou a PSP.
+O homem foi condenado a 12 anos de prisão pelo crime de tentativa de homicídio, com pena de 12 a 15 anos, e a 10 anos de prisão pelo crime de lesão corporal, com pena de 1 a 3 anos, por

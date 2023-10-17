@@ -1,0 +1,1 @@
+["one-year", "recent", "one-year", "additional year", "recent"]

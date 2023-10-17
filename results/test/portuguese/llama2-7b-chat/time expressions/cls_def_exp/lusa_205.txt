@@ -1,0 +1,4 @@
+[["em Évora", "Location"], ["56 anos", "Age"], ["Polícia Judiciária", "Organization"], ["telemóveis", "Object"], ["ficheiros informáticos", "Object"], ["imagens de menores", "Object"], ["cariz sexual", "Adjective"]]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

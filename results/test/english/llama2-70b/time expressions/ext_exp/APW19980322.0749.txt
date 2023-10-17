@@ -1,0 +1,1 @@
+["Sunday", "Feb. 20", "May", "1972", "July", "Thursday", "next week", "Monday", "8-month-old", "two weeks ago", "10 days ago", "last week"]

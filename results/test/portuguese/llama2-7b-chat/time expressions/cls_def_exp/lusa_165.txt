@@ -1,0 +1,1 @@
+[["homem", "Person"], ["instalações", "Location"], ["Estádio da Luz", "Location"], ["Lisboa", "Location"], ["terça-feira", "Date"], ["15:00", "Time"], ["Comando Metropolitano de Lisboa", "Organization"], ["PSP", "Organization"]]

@@ -1,0 +1,1 @@
+["third", "last month", "next week", "Friday", "Thursday", "nearly two months", "over a week", "Jan. 13", "03/06/1998 13:19:00"]

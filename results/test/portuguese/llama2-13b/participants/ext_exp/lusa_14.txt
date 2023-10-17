@@ -1,0 +1,19 @@
+["Autoridades policiais angolanas", "impedem", "tentativa", "tráfico", "menores", "congoleses", "O Serviço de investigação Criminal", "SIC", "frustrou", "tráfico", "tres crianças", "República Democrática", "RDCongo", "cidade", "Dundo", "província", "Lunda Norte", "informaram", "as autoridades angolanas", "De acordo", "o porta-voz", "SIC", "Lunda Norte", "Veríssimo Pandamari", "as crianças", "9 e 12 anos", "estavam", "a ser levadas", "por dois supostos traficantes", "que", "viajar", "com os menores", "para Luanda", "capital de Angola", "sua", "alegada", "comercialização", "Veríssimo Pandamari", "citado", "a agência", "Angop", "diz", "que", "os homens", "foram detidos", "durante", "uma operação", "denominada", "Kudissanga", "colaboração", "populares", "A tentativa", "tráfico", "estes menores", "é", "a terceira", "registada", "este ano", "a primeira", "no início", "do ano", "a segunda", "em julho"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades policiais angolanas impedem tentativa de tráfico de menores congoleses
+O Serviço de investigação Criminal (SIC) frustrou a tentativa de tráfico de três crianças da República Democrática do Congo (RDCongo), na cidade do Dundo, província angolana da Lunda Norte, informaram hoje as autoridades angolanas.
+De acordo com o porta-voz do SIC na Lunda Norte, Veríssimo Pandamari, as crianças com 9 e 12 anos, estavam a ser levadas por dois supostos traficantes, que pretendiam viajar com os menores para Luanda, capital de Angola, para a sua alegada comercialização.
+Veríssimo Pandamari, citado pela agência noticiosa angolana, Angop, disse que os homens foram detidos durante uma operação denominada "Kudissanga", que contou com a colaboração de populares.
+A tentativa de tráfico destes menores é a terceira registada este ano, depois da primeira no início do ano e a segunda em julho."
+
+Output:
+["Autoridades policiais angolanas", "impedem", "tentativa", "tráfico", "menores", "congoleses", "O Serviço de investigação Criminal", "SIC", "frustrou", "tráfico", "tres crianças", "República Democrática", "RDCongo", "cidade", "Dundo", "província", "Lunda Norte", "informaram", "as autoridades angolanas", "De acordo", "o porta-voz", "SIC", "Lunda Norte", "Veríssimo Pandamari", "as crianças", "9 e 12 anos", "estavam", "a ser levadas", "por dois supostos traficantes", "que", "viajar", "com os menores", "para Luanda", "capital de Angola", "sua", "alegada", "comercialização", "Veríssimo Pandamari", "citado", "a agência", "Angop", "diz", "que", "os homens", "foram detidos", "durante", "uma operação", "denominada", "Kudissanga", "colaboração", "populares", "A tentativa", "tráfico", "estes menores", "é", "a terceira", "registada", "este ano", "a primeira", "no início", "do ano", "a segunda", "em julho"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:

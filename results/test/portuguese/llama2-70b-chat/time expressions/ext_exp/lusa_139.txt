@@ -1,0 +1,8 @@
+["27 de novembro", "27 de novembro", "30 nov 2020"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format "YYYY-MM-DD" or "DD/MM/YYYY" (ISO 8601).
+* The input text may contain other types of expressions, such as quantities, locations, and organizations.
+* The task is to extract only the time expressions.

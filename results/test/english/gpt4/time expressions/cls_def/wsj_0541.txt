@@ -1,0 +1,6 @@
+[
+["Nov. 16", "Date"],
+["March 1, 2011", "Date"],
+["Friday", "Date"],
+["last Monday", "Date"]
+]

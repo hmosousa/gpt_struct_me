@@ -1,0 +1,20 @@
+["Um homem de 25 anos", "sofreu hoje queimaduras", "do terceiro grau", "nos membros superiores", "e inferiores", "na sequência de um incêndio", "na sua casa", "em Arcozelo", "Vila Nova de Gaia", "diz", "à Lusa", "fonte dos Sapadores", "locais", "O alerta", "foi dado", "pelas 08:37", "e no combate", "às chamas", "que começaram", "na cozinha", "da casa", "estiveram os Sapadores", "de Vila Nova de Gaia", "e os Bombeiros", "da Aguda", "acrescentou", "a fonte", "Assistido no local", "o homem", "foi depois conduzido", "ao Centro Hospitalar", "de Vila Nova de Gaia/Espinho", "diz ainda", "O incêndio", "que consumiu parcialmente", "a habitação", "foi dado", "com extinto", "às 8:51", "informou", "a Proteção Civil"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque terrorista subiu para 8
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos no ataque terrorista de 11 de Setembro de 2001 subiu para oito, após a morte de um homem que sofria de câncer de pulmão.
+O homem, que tinha 71 anos, morreu no dia 10 de Setembro, mas a sua morte só foi anunciada hoje, diz a Agência de Notícias Associada (AP).
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião.
+O homem, que trabalhava no World Trade Center, foi um dos 10.000 pessoas que trabalhavam no edifício quando este foi atingido por um avião."
+
+Output:
+["Autoridades de Nova Iorque", "anunciaram que o número", "de mortos", "no ataque terrorista", "subiu para oito", "após a morte", "de um homem", "que sofria", "de câncer de pulmão", "O homem", "que tinha 71 anos", "morreu no dia 10 de Setembro", "mas a sua morte", "só foi anunciada hoje", "diz a Agência", "de Notícias Associada", "O homem", "que trabalhava", "no World Trade Center", "foi um dos 10.000 pessoas", "que trabalhavam", "no edifício", "quando este foi atingido", "por um avião", "O homem", "que trabalhava", "no World Trade Center", "

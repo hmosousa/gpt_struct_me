@@ -1,0 +1,23 @@
+["em setembro de 2019", "quarta-feira", "hoje", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions in the given text.
+
+Note:
+
+* You can use the following grammar to match time expressions:
+	+ year: \d{4}
+	+ month: \b(janeiro|fevereiro|março|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)\b
+	+ day: \b(domingo|segunda-feira|terça-feira|quarta-feira|quinta-feira|sexta-feira|sábado)\b
+	+ time: \b(das|do|da|das)\b
+	+ hour: \d{1,2}:\d{1,2}
+	+ minute: \d{1,2}:\d{1,2}
+	+ second: \d{1,2}:\d{1,2}:\d{1,2}
+	+ week: \b(semana|semanas)\b
+	+ epoch: \b(época|épocas)\b
+
+You can use any programming language you prefer.
+
+Please provide the output in the format specified above.

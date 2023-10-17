@@ -1,0 +1,24 @@
+["Criança ferida em acidente na autoestrada do Norte morreu no hospital - GNR", "A criança de 12 anos", "que tinha ficado ferida", "gravidade", "num acidente", "ocorrido", "na autoestrada", "no Norte", "na zona de São João da Talha, Loures", "no sábado à noite", "acabou por morrer", "no hospital", "fonte da GNR", "O acidente", "que ocorreu", "cerca das 21:40 de sábado", "quilómetro quatro", "da autoestrada do Norte", "sentido Norte/Sul", "envolveu", "três ligeiros", "provocou", "outros quatro feridos", "sem gravidade", "Anteriormente", "fonte do Comando Geral", "GNR tinha indicado", "Lusa que", "de 12 anos", "ficou encarcerada", "uma das viaturas", "envolvidas", "acidente", "foi, posteriormente", "transportada para o hospital", "O trânsito", "circulava", "faixa lateral", "No local", "do acidente", "estiveram", "22 operacionais", "bombeiros", "Instituto Nacional", "Emergência Médica", "INEM", "polícia", "apoiados", "10 viaturas"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam que o número de mortos no ataque de 11 de setembro aumentou para 2.753
+Autoridades de Nova Iorque anunciam

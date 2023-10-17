@@ -1,0 +1,53 @@
+["President Clinton", "Saddam Hussein", "Baghdad", "Kremlin", "Philadelphia", "Russia", "Moscow", "US", "UN", "Kofi Annan", "Berger", "William Cohen", "Steve Hurst", "CNN", "state department"]
+
+Explanation:
+The first step is to extract all time expressions.
+
+Time expressions are defined as follows:
+
+- A time expression is a string that contains a time unit.
+- A time expression is a string that contains a time unit and a number.
+- A time expression is a string that contains a time unit and a number and a unit.
+- A time expression is a string that contains a time unit and a number and a unit and a number.
+- A time expression is a string that contains a time unit and a number and a unit and a number and a unit.
+
+The time unit is defined as follows:
+
+- A time unit is a string that contains a time unit.
+- A time unit is a string that contains a time unit and a number.
+- A time unit is a string that contains a time unit and a number and a unit.
+- A time unit is a string that contains a time unit and a number and a unit and a number.
+- A time unit is a string that contains a time unit and a number and a unit and a number and a unit.
+
+The time unit and the number are defined as follows:
+
+- A time unit and a number is a string that contains a time unit and a number.
+- A time unit and a number is a string that contains a time unit and a number and a unit.
+- A time unit and a number is a string that contains a time unit and a number and a unit and a number.
+- A time unit and a number is a string that contains a time unit and a number and a unit and a number and a unit.
+
+The time unit and the number and the unit are defined as follows:
+
+- A time unit and a number and a unit is a string that contains a time unit and a number and a unit.
+- A time unit and a number and a unit is a string that contains a time unit and a number and a unit and a number.
+- A time unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit.
+- A time unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit and a unit.
+
+The time unit and the number and the unit and the number are defined as follows:
+
+- A time unit and a number and a unit and a number is a string that contains a time unit and a number and a unit and a number.
+- A time unit and a number and a unit and a number is a string that contains a time unit and a number and a unit and a number and a unit.
+- A time unit and a number and a unit and a number is a string that contains a time unit and a number and a unit and a number and a unit and a unit.
+- A time unit and a number and a unit and a number is a string that contains a time unit and a number and a unit and a number and a unit and a unit and a unit.
+
+The time unit and the number and the unit and the number and the unit are defined as follows:
+
+- A time unit and a number and a unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit.
+- A time unit and a number and a unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit and a unit.
+- A time unit and a number and a unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit and a unit and a unit.
+- A time unit and a number and a unit and a number and a unit is a string that contains a time unit and a number and a unit and a number and a unit and a unit and a unit and a unit.
+
+The time unit and the number and the unit and the number and the unit and the unit are defined as follows:
+
+- A time unit and a number and a unit and a number and a unit and a unit is a string that contains a time unit and a number and a unit and a number and a unit and a unit.
+- A time unit and

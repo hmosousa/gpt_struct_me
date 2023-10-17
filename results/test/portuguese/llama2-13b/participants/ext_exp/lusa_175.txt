@@ -1,0 +1,42 @@
+["Cadáver de homem", "encontrado a boiar", "o rio Douro", "em Vila Nova de Gaia", "o cadáver", "um homem", "cerca de 60 anos", "a boiar", "o rio Douro", "em Vila Nova de Gaia", "a Polícia Marítima", "a Lusa", "o comandante", "a capitania", "o Porto", "a autoridade marítima", "populares", "viram", "o corpo", "um homem", "o cais flutuante", "Santa Marinha", "Vila Nova de Gaia", "a Polícia Judiciária", "as averiguações", "os Sapadores", "Vila Nova de Gaia", "os Bombeiros", "Coimbrões"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque

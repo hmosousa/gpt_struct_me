@@ -1,0 +1,16 @@
+[["GNR", "I_Action"], ["apreendeu", "Occurrence"], ["armas de fogo", "Object"], ["constituiu", "I_Action"], ["arguido", "State"], ["homem de 47 anos", "Entity"], ["ex-companheira", "Entity"], ["violência doméstica", "State"], ["investigação", "Occurrence"], ["apuraram", "Reporting"], ["escalada", "Occurrence"], ["comportamento violento", "State"], ["devido ao consumo abusivo de álcool", "Aspectual"], ["buscas domiciliárias", "Occurrence"], ["apreendidas", "Occurrence"], ["carabinas de ar comprimido", "Object"], ["caçadeira", "Object"], ["reprodução de arma de fogo", "Object"], ["pistola de ar comprimido", "Object"], ["facão de ponta e mola", "Object"], ["munções de diferentes calibres", "Object"], ["remetidos", "I_Action"], ["Tribunal Judicial da Covilhã", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions and events
+* Occurrence: events and happenings
+* Reporting: reporting and mentioning
+* State: states and conditions
+* Aspectual: aspects and features
+* Intensional Action: intentional actions
+* Intensional State: intentional states
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo".
+
+Please note that some words or phrases may have multiple event triggers, and some event triggers may be part of a larger event or action. Your task is to identify and classify all the event triggers in the input text.

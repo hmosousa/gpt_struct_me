@@ -1,0 +1,1 @@
+[["demonstrating", "OCCURRENCE"], ["show", "REPORTING"], ["rise", "OCCURRENCE"], ["reports", "REPORTING"], ["Chanting", "OCCURRENCE"], ["took", "OCCURRENCE"], ["mirroring", "OCCURRENCE"], ["is", "STATE"], ["come", "OCCURRENCE"], ["promise", "I_ACTION"], ["abandoned", "OCCURRENCE"], ["appears", "PERCEPTION"], ["dispense", "OCCURRENCE"]]

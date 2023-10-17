@@ -1,0 +1,1 @@
+[["rebounding", "OCCURRENCE"], ["expects", "I_STATE"], ["report", "I_ACTION"], ["said", "REPORTING"], ["includes", "OCCURRENCE"], ["was", "STATE"], ["posted", "OCCURRENCE"], ["plans", "I_STATE"], ["designs", "OCCURRENCE"]]

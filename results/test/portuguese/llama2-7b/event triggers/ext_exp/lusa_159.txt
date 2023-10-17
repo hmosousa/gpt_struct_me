@@ -1,0 +1,15 @@
+["PJ", "da", "Guiné-Bissau", "detém", "homem", "com", "tres", "quilos", "de", "cocaína", "no", "aeroporto", "A", "Polícia", "Judiciária", "da", "Guiné-Bissau", "deteve", "no", "sábado", "um", "homem", "na", "posse", "de", "tres", "quilogramas", "de", "cocaína", "quando", "tentava", "embarcar", "num", "voo", "com", "destino", "a", "Lisboa", "anunciou", "aquela", "força", "policial", ",", "em", "comunicado", ".", "Segundo", "o", "comunicado", ",", "o", "homem", ",", "um", "cidadão", "luso-guineense", ",", "transportava", "a", "droga", "dissimulada", "na", "sua", "cintura", "e", "foi", "detido", "no", "aeroporto", "internacional", "Osvaldo", "Vieira", ",", "Bissau", ".", "A", "PJ", "acrescenta", "que", "o", "homem", ",", "com", "47", "anos", "de", "idade", ",", "será", "hoje", "presente", "ao", "Ministério", "Público", ".", "No", "início", "de", "outubro", ",", "a", "PJ", "deteve", "igualmente", "no", "aeroporto", "Osvaldo", "Vieira", "um", "outro", "cidadão", "luso-guineense", ",", "com", "22", "anos", "de", "idade", ",", "na", "posse", "de", "um", "quilograma", "de", "cocaína", ",", "quando", "se", "preparava", "para", "viajar", "para", "Lisboa", ".", "No", "âmbito", "daquela", "detenção", "a", "PJ", "deteve", "igualmente", "tres", "homens", "por", "alegado", "envolvimento", "na", "aquisição", ",", "entrega", "e", "facilitação", "na", "introdução", "da", "droga", "no", "interior", "do", "aeroporto", "."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem com três quilos de cocaína no aeroporto
+A Polícia Judiciária da Guiné-Bissau deteve no sábado um homem na posse de três quilogramas de cocaína, quando tentava embarcar num voo com destino a Lisboa, anunciou aquela força policial, em comunicado.
+Segundo o comunicado, o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura e foi detido no aeroporto internacional Osvaldo Vieira, em Bissau.
+A PJ acrescenta que o homem, com 47 anos de idade, será hoje presente ao Ministério Público.
+No início de outubro, a PJ já tinha detido também no aeroporto Osvaldo Vieira um outro cidadão luso-guineense, com 22 anos de idade, na posse de um quilograma de cocaína, quando se preparava para viajar para Lisboa.
+No âmbito daquela detenção, a PJ deteve igualmente três homens por alegado envolvimento na "aquisição, entrega e facilitação na introdução" da droga no interior do aeroporto."
+
+Output:
+["PJ", "detém", "homem", "com", "tres", "quilos", "de", "coca

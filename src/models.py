@@ -105,7 +105,7 @@ class Llama2InferenceAPI:
         return answer
 
 
-def gpt3(prompt: str, max_tokens: int = 800) -> str:
+def gpt3(prompt: str, max_tokens: int = 400) -> str:
     """Generate text with GPT-3."""
     response = openai.Completion.create(
         model="text-davinci-003",
@@ -120,7 +120,7 @@ def gpt3(prompt: str, max_tokens: int = 800) -> str:
     return answer
 
 
-def chatgpt(prompt: str, max_tokens: int = 800) -> str:
+def chatgpt(prompt: str, max_tokens: int = 400) -> str:
     """Generate text with ChatGPT."""
 
     message = {"role": "system", "content": f"{prompt}"}
@@ -138,7 +138,7 @@ def chatgpt(prompt: str, max_tokens: int = 800) -> str:
     return answer
 
 
-def gpt4(prompt: str, max_tokens: int = 800) -> str:
+def gpt4(prompt: str, max_tokens: int = 400) -> str:
     """Generate text with GPT-4."""
 
     message = {"role": "system", "content": f"{prompt}"}
@@ -163,7 +163,7 @@ class SagemakerEndpoint:
 
     def __call__(self, prompt: str) -> str:
         payload = json.dumps({
-            "inputs": "My name is Julien and I like to",
+            "inputs": prompt,
             "parameters": {
                 "eos_token_id": 2,
                 "pad_token_id": 2,

@@ -1,0 +1,12 @@
+[["morre", "I_Action"], ["cair", "Occurrence"], ["telhado", "State"], ["estava a limpar", "State"], ["Rua Augusto Gil", "Location"], ["acidente", "Occurrence"], ["bombeiros", "I_Action"], ["deu-se", "Aspectual"], ["Leixões", "Location"]]
+
+Note:
+- "I_Action" refers to Intensional Action
+- "I_State" refers to Intensional State
+- "Occurrence" refers to Event
+- "State" refers to State
+- "Aspectual" refers to Aspectual
+
+Please help me with the task of extracting and classifying all event triggers in the given text.
+
+Thank you!
