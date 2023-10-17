@@ -1,0 +1,12 @@
+["maltratar", "ameaçar de morte", "violência doméstica", "infligir maus-tratos físicos e psicológicos", "aprender armas brancas"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "maltratar" (to mistreat)
+* "ameaçar de morte" (to threaten with death)
+* "violência doméstica" (domestic violence)
+* "infligir maus-tratos físicos e psicológicos" (to inflict physical and psychological mistreatment)
+* "aprender armas brancas" (to learn how to use weapons)
+
+These event triggers are extracted from the text using a combination of part-of-speech tagging and named entity recognition. The output is a JSON-parseable list of strings, where each string represents an event trigger.

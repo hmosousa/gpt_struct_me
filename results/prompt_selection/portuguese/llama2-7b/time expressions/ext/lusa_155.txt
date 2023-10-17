@@ -1,0 +1,37 @@
+["Homem ferido com gravidade", "após agressão com uma garrafa", "num restaurante", "em Palmela", "Um homem", "de 69 anos", "proprietário", "de um restaurante", "em Cajados", "no concelho de Palmela", "Setúbal", "ficou hoje ferido", "com gravidade", "após ter sido agredido", "no seu estabelecimento", "com uma garrafa", "diz fonte da GNR", "A mesma fonte", "indicou à agência Lusa", "que a vítima foi transportada", "em estado de coma", "para o hospital de São Bernardo", "em Setúbal", "Segundo a fonte", "da GNR", "a agressão foi efetuada", "hoje à tarde", "por uma mulher", "aparentemente embriagada", "que se pôs em fuga", "conduzindo um automóvel", "A agressão", "de acordo com aguarda", "foi motivada pelo facto", "de \"o proprietário do restaurante não querer que a mulher estivesse a consumir bebidas alcoólicas junto ao seu estabelecimento\",", "por ser \"proibido o consumo de álcool na via pública\"", "De acordo com fonte do Comando Distrital de Operações de Socorro (CDOS) de Setúbal", "outras duas pessoas envolvidas nesta ocorrência", "sofreram ferimentos ligeiros", "tendo ambas sido transportadas também para o hospital de São Bernardo", "uma de ambulância e outra por meios próprios", "Segundo o CDOS", "foram mobilizados para o local", "bombeiros da corporação de Águas de Moura."]
+
+Explanation:
+
+Time expressions are:
+
+- "Homem ferido com gravidade"
+- "após agressão com uma garrafa"
+- "num restaurante"
+- "em Palmela"
+-"Um homem"
+- "de 69 anos"
+- "proprietário"
+- "de um restaurante"
+- "em Cajados"
+- "no concelho de Palmela"
+- "Setúbal"
+- "ficou hoje ferido"
+- "com gravidade"
+- "após ter sido agredido"
+- "no seu estabelecimento"
+- "com uma garrafa"
+- "diz fonte da GNR"
+- "A mesma fonte"
+- "indicou à agência Lusa"
+- "que a vítima foi transportada"
+- "em estado de coma"
+- "para o hospital de São Bernardo"
+- "em Setúbal"
+- "Segundo a fonte"
+- "da GNR"
+- "a agressão foi efetuada"
+- "hoje à tarde"
+- "por uma mulher"
+- "aparentemente embriagada"
+- "que se pôs em fuga"
+- "con

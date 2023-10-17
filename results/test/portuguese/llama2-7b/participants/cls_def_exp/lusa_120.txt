@@ -1,0 +1,15 @@
+[["um jovem", "Per"], ["de 17 anos", "Per"], ["ficou", "Per"], ["em estado", "Per"], ["muito grave", "Per"], ["depois", "Per"], ["de ter", "Per"], ["baleado", "Per"], ["no peito", "Per"], ["na Amadora", "Loc"], ["hoje", "Per"], ["de madrugada", "Per"], ["no bairro", "Loc"], ["Casal da Mira", "Loc"], ["na Amadora", "Loc"], ["no distrito", "Loc"], ["de Lisboa", "Loc"], ["deu às", "Per"], ["00:53", "Per"], ["um jovem", "Per"], ["de 17 anos", "Per"], ["foi baleado", "Per"], ["com uma arma", "Per"], ["de fogo", "Per"], ["ficou ferido", "Per"], ["em estado", "Per"], ["muito grave", "Per"], ["e foi", "Per"], ["transportado", "Per"], ["para", "Loc"], ["o Hospital", "Loc"], ["Professor Doutor Fernando Fonseca", "Loc"], ["Amadora-Sintra", "Loc"], ["às", "Per"], ["Lusa", "Org"], ["o Cometlis", "Org"], ["adiantou", "Per"], ["que", "Per"], ["as causas", "Per"], ["para o incidente", "Per"], ["são", "Per"], ["desconhecidas", "Per"], ["e que", "Per"], ["não", "Per"], ["foram", "Per"], ["identificados", "Per"], ["ou", "Per"], ["detidos", "Per"], ["quaisquer", "Per"], ["suspeitos", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades policiais investigam morte de jovem em Lisboa
+A Polícia Judiciária (PJ) investiga o caso de um jovem de 20 anos que foi encontrado morto na rua em Lisboa, informou hoje a PSP.
+De acordo com a PSP, o alerta para a ocorrência foi dado às 00:30.
+“Um jovem de 20 anos foi encontrado morto na rua. A causa da morte ainda não foi determinada”, referiu a PSP.
+À Lusa, a PSP adiantou que ainda não foram identificados ou detidos quaisquer suspeitos.
+Por se tratar de um crime, o caso foi entregue à PJ para investigação."
+
+Output:
+[["autoridades", "Org"], ["policiais", "Per"], ["investigam", "Per"], ["morte", "Per"], ["de", "Per"], ["jovem", "Per"], ["em", "Per"], ["Lisboa", "Loc"], ["hoje", "Per"], ["a", "Per"], ["PJ", "Org"], ["investiga", "Per"], ["o", "Per"], ["caso", "Per"], ["de", "Per"], ["um", "Per"], ["jovem", "Per"], ["de", "Per"], ["20", "Per"], ["anos", "Per"], ["foi", "Per"], ["encontrado", "Per"], ["morto", "Per"], ["na", "Per"], ["rua", "Loc"], ["em", "Per"], ["Lisboa", "Loc"], ["a", "Per"], ["PSP", "Org"], ["adiantou", "Per"], ["que", "Per"], ["a", "Per"], ["causa", "Per"], ["da", "Per"], ["morte", "Per"], ["não", "Per"], ["foi", "Per"], ["determinada", "Per"], ["às", "Per"], ["00:30", "Per"], ["um", "Per"], ["jovem", "Per"], ["de", "Per"], ["20", "Per"], ["anos", "Per"], ["foi", "Per"], ["encontrado", "Per"], ["morto", "Per"], ["na", "Per"], ["rua", "Loc"], ["em", "Per"], ["Lisboa

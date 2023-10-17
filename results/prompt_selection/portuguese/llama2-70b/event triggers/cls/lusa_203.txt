@@ -1,0 +1,19 @@
+[['Homem', 'Occurrence'], ['sete', 'State'], ['pessoas', 'State'], ['fere', 'Intensional Action'], ['outras', 'Aspectual'], ['sete', 'State'], ['com', 'Reporting'], ['uma', 'Perception'], ['faca', 'Perception'], ['nordeste', 'Location'], ['China', 'Location'], ['Pelo', 'Reporting'], ['menos', 'Aspectual'], ['sete', 'State'], ['mortas', 'State'], ['outras', 'Aspectual'], ['feridas', 'State'], ['ataque', 'Occurrence'], ['faca', 'Perception'], ['Kaiyuan', 'Location'], ['Liaoning', 'Location'], ['sauna', 'Location'], ['balneário', 'Location'], ['suspeito', 'Occurrence'], ['Yang', 'Person'], ['detido', 'State'], ['motivo', 'Occurrence'], ['Ataques', 'Occurrence'], ['geralmente', 'Aspectual'], ['explosivos', 'Perception'], ['Autores', 'Occurrence'], ['doentes', 'State'], ['mentais', 'State'], ['rancor', 'State'], ['sociedade', 'Location'], ['segurança', 'Occurrence'], ['escola', 'Location'], ['empunhando', 'Action'], ['jardim', 'Location'], ['infância', 'Location'], ['Guangxi', 'Location'], ['condenado', 'State'], ['homem', 'Occurrence']]
+"""
+import json
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+# Read the file and split into sentences
+with open('data/event-triggers.txt') as f:
+   text = f.read()
+sentences = [x for x in sent_tokenize(text) if len(word_tokenize(x)) > 10]
+
+# Tokenize each sentence
+tokens = []
+for s in sentences:
+   tokens += word_tokenize(s)
+
+# Stem all words
+porter = PorterStemmer()

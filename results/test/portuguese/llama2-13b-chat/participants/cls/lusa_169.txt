@@ -1,0 +1,17 @@
+[
+["Homem", "Person"],
+["Portalegre", "Location"],
+["GNR", "Organization"],
+["Polícia Judiciária", "Organization"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["hospital de Portalegre", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Portalegre" is a location.
+* "GNR" is an organization.
+* "Polícia Judiciária" is an organization.
+* "Comando Distrital de Operações de Socorro" is an organization.
+* "hospital de Portalegre" is a location.

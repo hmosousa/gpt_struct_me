@@ -1,0 +1,21 @@
+[
+["Futebolista Quincy Promes", "Person"],
+["Ajax", "Organization"],
+["Holanda", "Location"],
+["De Telegraaf", "Organization"],
+["Abcoude", "Location"],
+["Utrecht", "Location"],
+["Nos Países Baixos", "Location"],
+["Quatro anos", "Facility"]
+]
+
+Explanation:
+
+* "Futebolista Quincy Promes" is a Person
+* "Ajax" is an Organization
+* "Holanda" is a Location
+* "De Telegraaf" is an Organization
+* "Abcoude" is a Location
+* "Utrecht" is a Location
+* "Nos Países Baixos" is a Location
+* "Quatro anos" is a Facility (it's the maximum penalty for the crime of serious bodily harm)

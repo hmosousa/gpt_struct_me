@@ -1,0 +1,20 @@
+[
+  ["Di Giorgio Corp.", "Date"],
+  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "Duration"],
+  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "Set"]
+]
+
+Explanation:
+The first element is the entity and the second element is the class.
+
+Sample Input:
+"Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.
+Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.
+Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."
+
+Sample Output:
+[
+  ["Di Giorgio Corp.", "Date"],
+  ["Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp.", "Duration"],
+  ["Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer.", "Set"]
+]

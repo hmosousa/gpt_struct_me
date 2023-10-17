@@ -1,0 +1,11 @@
+[
+"homem de 69 anos",
+"mulher",
+"proprietário do restaurante",
+"vítima",
+"agressor",
+"bombeiros da corporação de Águas de Moura",
+"guarda",
+"fonte da GNR",
+"fonte do CDOS"
+]

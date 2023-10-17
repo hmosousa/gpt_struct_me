@@ -1,0 +1,1 @@
+["morto", "tiro", "Barreiro", "atirador", "em fuga", "homem", "baleado", "caçadeira", "Direção Nacional", "Polícia de Segurança Pública", "PSP", "incidente", "ocorreu", "suspeita", "homicídio", "armas de fogo", "Polícia Judiciária", "investigação", "caso"]

@@ -1,0 +1,64 @@
+[
+["GNR", "State"],
+["homem", "Occurrence"],
+["maltratar", "Aspectual"],
+["ameaçar", "Aspectual"],
+["mãe", "State"],
+["73", "State"],
+["homem", "Occurrence"],
+["50", "State"],
+["Gondomar", "State"],
+["distrito", "State"],
+["Porto", "State"],
+["denúncia", "Reporting"],
+["crime", "Reporting"],
+["violência", "Reporting"],
+["doméstica", "Reporting"],
+["suspeito", "Intensional State"],
+["infligir", "Intensional Action"],
+["maus-tratos", "Intensional Action"],
+["psicológicos", "Intensional Action"],
+["ameaças", "Intensional Action"],
+["armas", "Intensional Action"],
+["brancas", "Intensional Action"],
+["busca", "Reporting"],
+["domiciliária", "Reporting"],
+["apreenderam", "Reporting"],
+["antecedentes", "Intensional State"],
+["criminais", "Intensional State"],
+["prática", "Intensional State"],
+["crimes", "Intensional State"],
+["Tribunal", "State"],
+["Judicial", "State"],
+["Porto", "State"],
+["sábado", "State"]
+]
+
+Note:
+The input text is in Portuguese. The output should be in English.
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to a government agency.
+* "homem" is an Occurrence entity, as it refers to a person who is the subject of the news.
+* "maltratar" and "ameaçar" are Aspectual entities, as they describe the actions performed by the person.
+* "mãe" and "73" are State entities, as they refer to the victim and her age, respectively.
+* "Gondomar" and "distrito" are State entities, as they refer to the location where the event occurred.
+* "Porto" is a State entity, as it refers to the city where the event occurred.
+* "denúncia" is a Reporting entity, as it refers to the act of reporting a crime.
+* "crime" is a Reporting entity, as it refers to the act of committing a crime.
+* "violência" and "doméstica" are Reporting entities, as they describe the type of crime.
+* "suspeito" is an Intensional State entity, as it refers to the person suspected of committing the crime.
+* "infligir" is an Intensional Action entity, as it describes the action performed by the suspected person.
+* "maus-tratos" and "psicológicos" are Intensional Action entities, as they describe the type of harm inflicted.
+* "ameaças" is an Intensional Action entity, as it describes the threat made by the suspected person.
+* "armas" and "brancas" are Intensional Action entities, as they describe the weapons used.
+* "busca" and "domiciliária" are Reporting entities, as they refer to the act of searching a location.
+* "apreenderam" is a Reporting entity, as it refers to the act of seizing evidence.
+* "antecedentes" is an Intensional State entity, as it refers to the person's criminal history.
+* "criminais" is an Intensional State entity, as it refers to the person's criminal record.
+* "prática" is an Intensional State entity, as it refers to the person's criminal behavior.
+* "crimes" is an Intensional State entity, as it refers to the person's criminal activity.
+* "Tribunal" and "Judicial" are State entities, as they refer to the court where the person will be tried.
+* "Porto" is a State entity, as it refers to the city where the court is located.
+* "sábado" is a State entity, as it refers to the day of the week when the person will be tried.

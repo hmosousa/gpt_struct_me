@@ -8,7 +8,7 @@ import pandas as pd
 
 from constants import RESOURCE_PATH, ROOT
 
-from src.reader import read_lusa
+from src.reader import read_lusa, read_timebank
 from src.evaluate import strict_metrics, relaxed_metrics
 
 RESULTS_PATH = ROOT / "results"
@@ -40,10 +40,12 @@ def read_predicions(path: Path) -> dict:
     return predictions
 
 
-def read_annoations() -> dict:
+def read_annoations(path: Path) -> dict:
     """Read and structure the annotations of the corpus."""
-    lusa_path = RESOURCE_PATH / "lusa_news"
-    documents = read_lusa(lusa_path)
+    if path.name == "timebank":
+        documents = read_timebank(path)
+    elif path.name == "lusa_news":
+        documents = read_lusa(path)
 
     annotations = {}
     annotations["event triggers"] = {
@@ -94,16 +96,19 @@ def make_results_table(results: list) -> pd.DataFrame:
         relaxed = result.pop("relaxed")
         result["f1_r"] = relaxed["f1"]
     df = pd.DataFrame(results)
-    df.sort_values(["model", "entity", "f1"], inplace=True)
-    df.reset_index(drop=True, inplace=True)
     return df
 
 
 
-def main(mode: str = "test", store_table: bool = True) -> None:
-    path = RESULTS_PATH / mode
+def main(mode: str = "test", language: str = "portuguese", store_table: bool = True) -> None:
+    path = RESULTS_PATH / mode / language
     predictions = read_predicions(path)
-    annotations = read_annoations()
+
+    if language == "portuguese":
+        ann_path = RESOURCE_PATH / "lusa_news" 
+    elif language == "english":
+        ann_path =  RESOURCE_PATH / "timebank"
+    annotations = read_annoations(ann_path)
 
     results = evaluate(predictions, annotations)
 
@@ -112,6 +117,14 @@ def main(mode: str = "test", store_table: bool = True) -> None:
 
     if store_table:
         table = make_results_table(results)
+        
+        if mode == "test":
+            table.sort_values(["entity", "model"], inplace=True)
+            table.reset_index(drop=True, inplace=True)
+        elif mode == "prompt_selection":
+            table.sort_values(["model", "entity", "f1"], inplace=True)
+            table.reset_index(drop=True, inplace=True)
+        
         print(table.to_string())
         table.to_csv(path / "results.csv", index=False)
         

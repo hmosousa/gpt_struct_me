@@ -1,0 +1,20 @@
+[
+["Dominion Textile Inc.", "Date"],
+["Aug. 9", "Time"],
+["Sept. 30", "Date"],
+["C$348.2 million", "Set"],
+["C$307.2 million", "Set"],
+["C$2.3 million", "Duration"],
+["C$4 million", "Duration"],
+["12 Canadian cents", "Duration"],
+["14 Canadian cents", "Duration"]
+]
+
+Explanation:
+
+* "Dominion Textile Inc." is an entity, not a time expression, so it is not included in the output.
+* "Aug. 9" is a time expression and is classified as "Time".
+* "Sept. 30" is a date and is classified as "Date".
+* "C$348.2 million" and "C$307.2 million" are sets and are classified as "Set".
+* "C$2.3 million" and "C$4 million" are durations and are classified as "Duration".
+* "12 Canadian cents" and "14 Canadian cents" are durations and are classified as "Duration".

@@ -1,0 +1,3 @@
+[["Autoridades judiciais", "Org"], ["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["ex-futebolista argentino", "Per"], ["San Isidro", "Loc"], ["procuradoria-geral", "Org"], ["telemóvel", "Obj"], ["Leopoldo Luque", "Per"], ["médico", "Per"], ["Maradona", "Per"], ["Agustina Cosachov", "Per"], ["psiquiatra", "Per"], ["inquérito", "Other"], ["negligência médica", "Other"], ["assistência", "Other"], ["antigo futebolista", "Per"]]
+
+Please extract and classify all participants in the given text.

@@ -1,0 +1,14 @@
+[
+"Homem",
+"mãe",
+"Valongo",
+"GNR do Porto",
+"detido",
+"violência doméstica",
+"ameaça agravada",
+"injúrias",
+"ofensas à integridade física",
+"coação de afastamento",
+"proibição de contacto",
+"mandado de detenção"
+]

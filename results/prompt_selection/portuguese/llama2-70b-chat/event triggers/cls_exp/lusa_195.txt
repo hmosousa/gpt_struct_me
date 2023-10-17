@@ -1,0 +1,6 @@
+[["detém", "I_Action"], ["homem", "State"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "State"], ["coletividade", "State"], ["Setúbal", "State"], ["PJ", "State"], ["deteve", "I_Action"], ["presumível", "State"], ["agressor", "State"], ["terá", "Aspectual"], ["disparou", "Occurrence"], ["alvejar", "Occurrence"], ["jovem", "State"], ["ferimentos", "Occurrence"], ["ombro", "State"], ["braço", "State"], ["detido", "State"], ["fugiu", "Occurrence"], ["local", "State"], ["indiciado", "State"], ["crimes", "State"], ["homicídio", "State"], ["qualificado", "State"], ["forma", "State"], ["tentada", "State"], ["detenção", "State"], ["arma", "State"], ["proibida", "State"], ["omissão", "State"], ["auxílio", "State"], ["interrogatório", "Occurrence"], ["judicial", "State"], ["aplicada", "Occurrence"], ["medida", "State"], ["coação", "State"], ["prisão", "State"], ["preventiva", "State"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

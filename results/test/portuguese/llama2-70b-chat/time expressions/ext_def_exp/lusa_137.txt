@@ -1,0 +1,7 @@
+["segunda-feira", "terça-feira", "manhã", "15:40", "17:00", "29 operacionais", "nove viaturas", "Autoridade Nacional de Emergência e Proteção Civil"]
+
+Note:
+
+* The input text may contain other temporal expressions not listed in the examples.
+* The output format is a JSON-parseable list of strings.
+* The task is to extract all temporal expressions from the input text.

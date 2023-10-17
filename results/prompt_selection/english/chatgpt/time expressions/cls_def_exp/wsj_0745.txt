@@ -1,0 +1,1 @@
+[["late trading", "TIME"], ["yesterday", "DATE"], ["Tuesday", "DATE"], ["Dec. 31, 1990", "DATE"], ["1984", "DATE"], ["1988", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"], ["over lunch", "TIME"]]

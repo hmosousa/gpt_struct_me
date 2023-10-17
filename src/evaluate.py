@@ -1,6 +1,6 @@
 """Evaluation functions."""
 
-from typing import Dict, Tuple, Set
+from typing import Dict, Set
 
 from src.utils import string_overlap, tokenize
 

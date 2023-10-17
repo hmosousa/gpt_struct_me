@@ -1,0 +1,44 @@
+[
+{
+"Orkem S.A.",
+"Date"
+},
+{
+"Coates Brothers PLC",
+"Date"
+},
+{
+"Orkem Coatings U.K. Ltd",
+"Date"
+},
+{
+"Ormek S.A.",
+"Time"
+},
+{
+"Coates Brothers PLC",
+"Time"
+},
+{
+"U.K.",
+"Set"
+},
+{
+"France",
+"Set"
+}
+]
+
+Explanation:
+The input text contains several time expressions, including dates, times, and duration. The task is to extract and classify these time expressions into their respective classes.
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+For example, the output for the first time expression "Orkem S.A., a French state-controlled chemical manufacturer, is making a friendly bid of 470 pence ($7.43) a share for the 59.2% of U.K. specialty chemical group Coates Brothers PLC which it doesn't already own, the two sides said." would be:
+{
+"Orkem S.A.",
+"Date"
+}
+
+Note:
+* The input text may contain multiple time expressions, and each expression should be extracted and classified separately.
+* The classes "Date", "Time", and "Duration" are mutually exclusive, and an entity can only belong to one class.
+* The class "Set" is used to indicate that the entity is a geographical location.

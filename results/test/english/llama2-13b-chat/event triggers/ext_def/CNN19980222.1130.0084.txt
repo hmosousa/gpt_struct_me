@@ -1,0 +1,10 @@
+["Iraqi president Saddam Hussein meets with UN secretary general Kofi Annan", "UN security council insists on unrestricted access to suspected weapons sites", "Iraq proposes to open presidential sites for no more than sixty days"]
+
+Explanation:
+The input text describes a series of events that occurred or are planned to occur. These events can be extracted using natural language processing techniques. The output should be a list of strings, each representing an event trigger. In this case, the event triggers are:
+
+1. "Iraqi president Saddam Hussein meets with UN secretary general Kofi Annan"
+2. "UN security council insists on unrestricted access to suspected weapons sites"
+3. "Iraq proposes to open presidential sites for no more than sixty days"
+
+Note: The output should be in JSON-parseable format, which is a list of strings.

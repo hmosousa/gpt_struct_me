@@ -1,0 +1,10 @@
+[
+  ["Compaq Computer Corp.", "State"],
+  ["Compaq Computer Corp.", "Occurrence"],
+  ["Compaq Computer Corp.", "Reporting"],
+  ["Compaq Computer Corp.", "Perception"],
+  ["Compaq Computer Corp.", "Aspectual"],
+  ["Compaq Computer Corp.", "Intensional Action"],
+  ["Compaq Computer Corp.", "Intensional State"]
+]
+

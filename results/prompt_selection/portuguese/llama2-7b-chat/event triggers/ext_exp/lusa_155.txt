@@ -1,0 +1,6 @@
+	["ferido", "gravidade", "agressão", "garrafa", "restaurante", "Cajados", "concelho", "Palmela", "Setúbal", "hospital", "São Bernardo", "ficheira", "GNR", "mulher", "automóvel", "proibido", "álcool", "via", "Comando", "Distrital", "Operações", "Socorro", "mobilizados", "bombeiros", "corporação", "Águas", "Moura"]
+
+
+Note:
+The task is to extract all the event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event, such as a crime, accident, or natural disaster. In this task, we are looking for any word or phrase that suggests something unexpected or unplanned has happened, such as an attack, an accident, or a natural disaster.
+The output should be a JSON-parseable list of strings, where each string represents an event trigger. The list should include all the event triggers found in the input text.

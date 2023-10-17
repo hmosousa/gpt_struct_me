@@ -1,0 +1,5 @@
+["over the next several days", "yesterday", "today", "a while"]
+Note:
+* The input text may contain multiple time expressions, separated by commas.
+* Each time expression is a JSON-parseable string.
+* The output is a list of time expressions found in the input text.

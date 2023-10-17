@@ -1,0 +1,29 @@
+[
+["Homem", "State"],
+["Estarreja", "Location"],
+["Transportadora J Amaral", "Organization"],
+["cisterna de camião", "Object"],
+["manutenção", "Aspectual"],
+["sábado", "Time"],
+["Lusa", "Reporting"],
+["GNR de Aveiro", "Organization"],
+["Joaquim Rebelo", "Person"],
+["Delegada de Saúde", "Person"],
+["Polícia Judiciária", "Organization"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a State (class) because it refers to the current state of the person (deceased).
+* "Estarreja" is a Location (class) because it refers to the location where the event occurred.
+* "Transportadora J Amaral" is an Organization (class) because it refers to the company where the deceased person worked.
+* "cisterna de camião" is anObject (class) because it refers to the physical object where the deceased person was found.
+* "manutenção" is an Aspectual (class) because it refers to the ongoing maintenance of the cisterna.
+* "sábado" is a Time (class) because it refers to the day when the deceased person was last seen.
+* "Lusa" is a Reporting (class) because it refers to the news agency that reported the event.
+* "GNR de Aveiro" is an Organization (class) because it refers to the police force that responded to the event.
+* "Joaquim Rebelo" is a Person (class) because it refers to the commander of the Bombeiros de Estarreja.
+* "Delegada de Saúde" is a Person (class) because it refers to the health delegate who attended the event.
+* "Polícia Judiciária" is an Organization (class) because it refers to the judicial police force that is investigating the event.
+* "Viatura Médica de Emergência e Reanimação de Aveiro" isan Organization (class) because it refers to the medical emergency and resuscitation service that attended the event.

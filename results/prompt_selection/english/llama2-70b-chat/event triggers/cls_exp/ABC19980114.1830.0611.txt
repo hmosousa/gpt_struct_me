@@ -1,0 +1,6 @@
+[["Lisa Stark", "PERSON"], ["TWA", "ORGANIZATION"], ["Steven Snyder", "PERSON"], ["TWA", "ORGANIZATION"], ["Boston", "LOCATION"], ["Eastwind", "ORGANIZATION"], ["Lisa Stark", "PERSON"], ["TWA", "ORGANIZATION"], ["God", "DEITY"], ["Lisa Stark", "PERSON"], ["Washington", "LOCATION"]]
+
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+This task's dataset is based on the article "Australia Votes to Become a Republic" by the Associated Press, and the template for the output is based on the paper "A Maximalist Program for Structured Event Extraction" by Christopher Manning and Hinrich Schütze.

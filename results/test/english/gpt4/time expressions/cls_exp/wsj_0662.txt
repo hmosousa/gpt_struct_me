@@ -1,0 +1,1 @@
+[["$4 million", "DURATION"], ["$2 million", "DURATION"], ["1.6 million", "DURATION"], ["Friday", "DATE"], ["$7.4 million", "DURATION"], ["40%", "DURATION"], ["the quarter ended July 31", "DATE"], ["5.6 million", "DURATION"]]

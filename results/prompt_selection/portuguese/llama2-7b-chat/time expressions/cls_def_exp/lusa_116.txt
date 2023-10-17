@@ -1,0 +1,1 @@
+[["Jovem", "Person"], ["14 anos", "Age"], ["Santo Tirso", "Location"], ["18:16", "Time"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"]]

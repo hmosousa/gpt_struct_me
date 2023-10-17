@@ -1,0 +1,13 @@
+["third quarter", "1988 third quarter", "about $200,000", "about $4.5 million", "22 cents a share", "1988"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "third quarter" (a quarter of a year)
+* "1988 third quarter" (a quarter of a year in 1988)
+* "about $200,000" (a specific amount of money)
+* "about $4.5 million" (a specific amount of money)
+* "22 cents a share" (a specific amount of money per share)
+* "1988" (a specific year)
+
+Note that the output is a JSON-parseable list of strings, where each string represents a time expression found in the input text.

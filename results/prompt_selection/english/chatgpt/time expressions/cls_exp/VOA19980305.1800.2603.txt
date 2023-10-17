@@ -1,0 +1,1 @@
+[["this coming Sunday", "DATE"], ["March eighth", "DATE"], ["twenty years", "DURATION"], ["about seventy-five percent", "SET"], ["past twenty years", "DURATION"], ["today", "DATE"], ["the very existence", "DURATION"], ["urban areas", "SET"], ["rural parts", "SET"], ["the capital Kabul", "SET"], ["the aim", "SET"], ["the roots", "SET"], ["the primary focus", "SET"]]

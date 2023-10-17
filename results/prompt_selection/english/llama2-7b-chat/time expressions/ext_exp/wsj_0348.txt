@@ -1,0 +1,4 @@
+["jumped", "soared", "began trading", "closed yesterday", "meanwhile", "reported", "third-quarter", "net income", "revenue", "interests", "building maintenance", "management", "third-quarter", "net income", "revenue", "33%", "rose 33%"]
+
+Format:
+JSON-parseable list of strings.

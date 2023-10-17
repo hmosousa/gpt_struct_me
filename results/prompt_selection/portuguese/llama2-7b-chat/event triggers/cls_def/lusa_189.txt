@@ -1,0 +1,9 @@
+[
+"Homem", "State"
+"Tiro", "Occurrence"
+"Atirador", "Action"
+"Fuga", "Flight"
+"Incidente", "Event"
+"Circunstâncias", "Aspectual"
+"Polícia Judiciária", "Intensional Action"
+]

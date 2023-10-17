@@ -1,0 +1,93 @@
+[
+["In Washington today", "Date"],
+["the Federal Aviation Administration", "Date"],
+["night", "Time"],
+["TWA Flight eight hundred", "Date"],
+["exploded", "Duration"],
+["moment", "Duration"],
+["Lisa Stark", "Person"],
+["ABC's", "Organization"],
+["last conversation", "Duration"],
+["controllers", "Organization"],
+["TWA pilot Steven Snyder", "Person"],
+["TWA eight hundred", "Date"],
+["climb", "Action"],
+["maintain", "Action"],
+["one five thousand", "Number"],
+["leavin-", "Action"],
+["three thousand", "Number"],
+["minute and a half", "Duration"],
+["pilot", "Person"],
+["nearby flight", "Location"],
+["explosion", "Duration"],
+["ahead", "Location"],
+["sixteen thousand feet", "Number"],
+["controller", "Person"],
+["Boston center", "Location"],
+["TWA eight hundred", "Date"],
+["ident", "Action"],
+["no response", "Duration"],
+["later", "Time"],
+["controller", "Person"],
+["Eastwind pilot", "Person"],
+["more details", "Duration"],
+["blew up", "Duration"],
+["air", "Location"],
+["two fireballs", "Number"],
+["water", "Location"],
+["big small", "Number"],
+["smoke", "Duration"],
+["coming up", "Location"],
+[" controllers", "Organization"],
+["plane", "Location"],
+["prayer", "Action"],
+["TWA eight hundred center", "Person"],
+["I think that was him", "Person"],
+["I think so", "Person"],
+["God bless him", "Person"]
+]
+
+Explanation:
+
+* "In Washington today" is classified as a Date.
+* "the Federal Aviation Administration" is classified as a Date.
+* "night" is classified as a Time.
+* "TWA Flight eight hundred" is classified as a Date.
+* "exploded" is classified as a Duration.
+* "moment" is classified as a Duration.
+* "Lisa Stark" is classified as a Person.
+* "ABC's" is classified as an Organization.
+* "last conversation" is classified as a Duration.
+* "controllers" is classified as an Organization.
+* "TWA pilot Steven Snyder" is classified as a Person.
+* "TWA eight hundred" is classified as a Date.
+* "climb" is classified as an Action.
+* "maintain" is classified as an Action.
+* "one five thousand" is classified as a Number.
+* "leavin-" is classified as an Action.
+* "three thousand" is classified as a Number.
+* "minute and a half" is classified as a Duration.
+* "pilot" is classified as a Person.
+* "nearby flight" is classified as a Location.
+* "explosion" is classified as a Duration.
+* "ahead" is classified as a Location.
+* "sixteen thousand feet" is classified as a Number.
+* "controller" is classified as a Person.
+* "Boston center" is classified as a Location.
+* "TWA eight hundred" is classified as a Date.
+* "ident" is classified as an Action.
+* "no response" is classified as a Duration.
+* "later" is classified as a Time.
+* "controller" is classified as a Person.
+* "Eastwind pilot" is classified as a Person.
+* "more details" is classified as a Duration.
+* "blew up" is classified as a Duration.
+* "air" is classified as a Location.
+* "two fireballs" is classified as a Number.
+* "water" is classified as a Location.
+* "big small" is classified as a Number.
+* "smoke" is classified as a Duration.
+* "coming up" is classified as a Location.
+* "controllers" is classified as an Organization.
+* "plane" is classified as a Location.
+* "

@@ -1,0 +1,41 @@
+[
+["Homem de 61 anos", "State"],
+["despiste de automóvel", "Occurrence"],
+["Estrada Municipal 524", "Aspectual"],
+["concelho de Marvão", "Aspectual"],
+["distrito de Portalegre", "Aspectual"],
+["Proteção Civil", "Reporting"],
+["GNR", "Reporting"],
+["óbito", "State"],
+["medico da viatura médica de emergência e reanimação (VMER)", "Intensional State"],
+["hospital de Portalegre", "Intensional State"],
+["acidente", "Occurrence"],
+["Bica", "Aspectual"],
+["freguesia de Beirã", "Aspectual"],
+["corpo do homem", "State"],
+["serviço de Medicina Legal", "Intensional State"],
+["alerta", "Reporting"],
+["CDOS", "Reporting"],
+["bombeiros", "Intensional State"],
+["veículos da corporação de Marvão", "Intensional State"],
+["VMER", "Intensional State"],
+["GNR", "Intensional State"]
+]
+
+Note:
+The output is a list of pairs, where each pair consists of an entity (first element) and a class (second element). The classes are:
+
+* State: refers to the state of something, such as the state of a person or an object
+* Occurrence: refers to an event or a happening
+* Reporting: refers to the act of reporting or mentioning something
+* Aspectual: refers to the aspect or characteristics of something
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to the state of something that is intended or planned
+
+In this task, you are given a piece of news and you have to extract and classify all event triggers. Event triggers are the entities or concepts that are related to the events described in the news. For example, in the given input, "Homem de 61 anos" (man of 61 years) is an event trigger, as it refers to the person who died in the accident. "Despiste de automóvel" (car accident) is also an event trigger, as it refers to the event that occurred.
+
+You have to classify each event trigger into one of the six classes mentioned above. For example, "Homem de 61 anos" can be classified as a State, as it refers to the state of the person. "Despiste de automóvel" can be classified as an Occurrence, as it refers to the event that occurred.
+
+The output should be a list of pairs, where each pair consists of an entity (first element) and a class (second element). The entities and classes should be in the format of strings.
+
+Note that the input is in Portuguese, and you may need to use a language model that is capable of processing Portuguese text.

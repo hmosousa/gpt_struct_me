@@ -1,0 +1,19 @@
+[
+["Di Giorgio Corp.", "Date"],
+["its continuing talks with potential buyers of certain units", "Time"],
+["but has reached no agreement on any deals", "Time"],
+["Di Giorgio", "Set"],
+["a food wholesaler and building products maker", "Set"],
+["Robert Mellor", "Person"],
+["the company stands to reap more money through the sale of individual units to others", "Duration"]
+]
+
+Explanation:
+
+* "Di Giorgio Corp." is a date, as it refers to a specific point in time (the name of the company).
+* "its continuing talks with potential buyers of certain units" is a time expression, as it refers to an ongoing activity that takes place over a period of time.
+* "but has reached no agreement on any deals" is also a time expression, as it refers to the lack of a specific agreement at a specific point in time.
+* "Di Giorgio" is a set, as it refers to a collection of items (the company's products and services).
+* "a food wholesaler and building products maker" is also a set, as it refers to the company's products and services.
+* "Robert Mellor" is a person, as it refers to an individual (the executive vice president of the company).
+* "the company stands to reap more money through the sale of individual units to others" is a duration, as it refers to a specific amount of time (the time it takes to sell individual units).

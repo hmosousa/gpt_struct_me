@@ -1,1 +1,0 @@
-["morre", "acidente de trabalho", "queda em altura", "falecer", "transportada", "alerta", "operações de socorro", "acionado"]

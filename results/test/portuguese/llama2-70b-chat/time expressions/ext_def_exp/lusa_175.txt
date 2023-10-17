@@ -1,0 +1,25 @@
+["hoje", "cerca das 17:20"]
+
+Input:
+"O presidente da república, Marcelo Rebelo de Sousa, visitará a cidade de Aveiro, no dia 15 de novembro."
+
+Output:
+["no dia 15 de novembro"]
+
+Input:
+"O secretário-geral da ONU, António Guterres, alertou para o risco de uma “famina global” em 2023, devido à pandemia de COVID-19 e às condições climáticas adversas."
+
+Output:
+["em 2023"]
+
+Input:
+"O ministro da Saúde, Marta Temido, garantiu que o Governo vai “acelerar” a vacinação contra a COVID-19, de forma a “cerrarmos o ciclo” da pandemia “em 2022”.
+
+Output:
+["em 2022"]
+
+Input:
+"O presidente da Câmara Municipal de Lisboa, Carlos Moedas, anunciou que a capital vai ter uma “nova” praia flutuante no rio Tejo, em 2025."
+
+Output:
+["em 2025"]

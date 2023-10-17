@@ -1,0 +1,12 @@
+[["encontrado", "I_Action"], ["corpo", "Entity"], ["homem", "Entity"], ["aparecendo", "Aspectual"], ["entre", "Aspectual"], ["60 e 70", "Aspectual"], ["anos", "Aspectual"], ["encontrado", "I_Action"], ["hoje", "Aspectual"], ["tarde", "Aspectual"], ["mar", "Entity"], ["praia", "Entity"], ["Estaquinha", "Entity"], ["Lagoa", "Entity"], ["Algarve", "Entity"], ["revelou", "Reporting"], ["Autoridade Marítima", "Entity"], ["caído", "Occurrence"], ["mar", "Entity"], ["praticava", "Occurrence"], ["pesca lúdica", "Occurrence"], ["arriba", "Occurrence"], ["praia", "Entity"], ["Faro", "Entity"], ["delegada", "Entity"], ["saúde", "Entity"], ["Lagoa", "Entity"], ["Portimão", "Entity"], ["gabinete", "Entity"], ["medicina", "Entity"], ["legal", "Entity"], ["Polícia", "Entity"], ["Marítima", "Entity"]]
+
+Note:
+- "I_Action" refers to an intensional action, which is an action that is performed by an entity.
+- "I_State" refers to an intensional state, which is a state that is had or held by an entity.
+- "Occurrence" refers to an occurrence, which is an event or situation that happens or exists.
+- "Aspectual" refers to an aspectual, which is a property or characteristic of an entity or event.
+- "Entity" refers to an entity, which is a thing with existence and identity.
+
+Your task is to extract and classify all event triggers in the two input texts.
+
+Please note that the output should be in the format specified above, with each event trigger being a list of two strings, where the first string is the entity and the second string is the class.

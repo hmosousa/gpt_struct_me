@@ -1,0 +1,10 @@
+[
+  ["CAMBREX Corp.", "State"],
+  ["CAMBREX Corp.", "Occurrence"],
+  ["CAMBREX Corp.", "Reporting"],
+  ["CAMBREX Corp.", "Perception"],
+  ["CAMBREX Corp.", "Aspectual"],
+  ["CAMBREX Corp.", "Intensional Action"],
+  ["CAMBREX Corp.", "Intensional State"]
+]
+

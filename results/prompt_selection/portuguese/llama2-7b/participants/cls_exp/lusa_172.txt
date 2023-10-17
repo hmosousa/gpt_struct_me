@@ -1,0 +1,14 @@
+[["Corpo de homem", "Per"], ["encontrado", "Per"], ["a boiar", "Per"], ["no mar", "Per"], ["em Lagoa", "Loc"], ["no Algarve", "Loc"], ["O corpo", "Per"], ["de um homem", "Per"], ["aparentando", "Per"], ["entre", "Per"], ["60", "Per"], ["e", "Per"], ["70", "Per"], ["anos", "Per"], ["será", "Per"], ["a boiar", "Per"], ["no mar", "Per"], ["junto", "Per"], ["à praia", "Loc"], ["da Estaquinha", "Loc"], ["no concelho", "Loc"], ["de Lagoa", "Loc"], ["(Algarve)", "Loc"], ["de acordo", "Per"], ["com", "Per"], ["as autoridades", "Org"], ["o homem", "Per"], ["um", "Per"], ["pescador", "Per"], ["terá", "Per"], ["caído", "Per"], ["ao mar", "Per"], ["quando", "Per"], ["praticava", "Per"], ["pesca", "Per"], ["lúdica", "Per"], ["numa arriba", "Loc"], ["naquela", "Loc"], ["praia", "Loc"], ["de Lagoa", "Loc"], ["do distrito", "Loc"], ["de Faro", "Loc"], ["Depois", "Per"], ["de", "Per"], ["ter", "Per"], ["o alerta", "Per"], ["para", "Per"], ["o avistamento", "Per"], ["de", "Per"], ["um", "Per"], ["corpo", "Per"], ["a boiar", "Per"], ["no mar", "Per"], ["transportando", "Per"], ["o corpo", "Per"], ["para", "Per"], ["a marina", "Loc"], ["de Portimão", "Loc"], ["a Estação", "Org"], ["Salva-vidas", "Org"], ["de Ferragudo", "Org"], ["que", "Per"], ["procedeu", "Per"], ["à", "Per"], ["recolha", "Per"], ["do", "Per"], ["corpo", "Per"], ["transportando", "Per"], ["o corpo", "Per"], ["para", "Per"], ["o gabinete", "Loc"], ["de medicina", "Loc"], ["legal", "Loc"], ["de Portimão", "Loc"], ["a Polícia", "Org"], ["Marítima", "Org"], ["de Portimão", "Org"], ["tomou", "Per"], ["controlo", "Per"], ["da", "Per"], ["ocorrência", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 25 anos é preso por roubar 100 mil euros em Lisboa
+Um homem de 25 anos foi preso hoje à tarde por ter roubado 100 mil euros em Lisboa, informou a Polícia Judiciária.
+O homem, que não é identificado, terá sido preso por um agente da Polícia Judiciária, na zona de São Sebastião da Pedreira, em Lisboa, depois de ter sido detido por um agente da Polícia de Segurança Pública.
+O agente da Polícia Judiciária, que estava acompanhado por um agente da Polícia de Segurança Pública, terá sido informado por um cidadão que um homem estava a roubar dinheiro numa loja de conveniência.
+O agente da Polícia Judiciária terá seguido o suspeito até à zona de São Sebastião da Pedreira, onde o deteve.
+O agente da Polícia Judiciária terá encontrado no bolso do suspeito 100 mil euros em dinheiro.
+O agente da Polícia Judiciária terá sido informado por um cidadão que um homem estava a roubar dinheiro numa loja de conveniência.
+O agente da Polícia Judiciária terá seguido o suspeito até à zona de São Sebastião da Pedreira, onde o det

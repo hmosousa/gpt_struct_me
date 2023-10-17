@@ -1,0 +1,17 @@
+[
+["Dirigente da Casa Branca", "State"],
+["Um dirigente da Casa Branca", "Occurrence"],
+["Kash Patel", "Intensional Action"],
+["Austin Tice", "Perception"],
+["Majd Kamalmaz", "Intensional State"],
+["Damasco", "Aspectual"]
+]
+
+Explanation:
+
+* "Dirigente da Casa Branca" is classified as "State" because it refers to a person's position or job.
+* "Um dirigente da Casa Branca" is classified as "Occurrence" because it refers to a specific event or happening.
+* "Kash Patel" is classified as "Intensional Action" because it refers to a person's intention or goal.
+* "Austin Tice" is classified as "Perception" because it refers to a person's sensory experience or perception.
+* "Majd Kamalmaz" is classified as "Intensional State" because it refers to a person's state or condition.
+* "Damasco" is classified as "Aspectual" because it refers to a particular aspect or feature of a place.

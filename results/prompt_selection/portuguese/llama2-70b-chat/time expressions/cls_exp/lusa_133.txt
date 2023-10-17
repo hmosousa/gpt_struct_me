@@ -1,0 +1,3 @@
+[["390 quilogramas", "Quantity"], ["37.500 euros", "Quantity"], ["segunda-feira", "Date"], ["Gafanha da Nazaré", "Location"], ["Aveiro", "Location"], ["313 quilos", "Quantity"], ["37.500 euros", "Quantity"], ["30 nov 2020", "Date"]]
+
+Please note that the input text is in Portuguese.

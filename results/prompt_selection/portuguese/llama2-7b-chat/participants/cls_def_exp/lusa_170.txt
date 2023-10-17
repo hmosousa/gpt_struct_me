@@ -1,0 +1,11 @@
+	[["corpo", "Per"], ["zona rochosa", "Loc"], ["costa da Terceira", "Loc"], ["Autoridade Marítima", "Org"], ["Comando-Local", "Org"], ["Polícia Marítima", "Org"], ["Angra do Heroísmo", "Loc"], ["Polícia de Segurança Pública", "Org"], ["PSP", "Org"], ["delegado de saúde", "Org"], ["Hospital de Angra do Heroísmo", "Loc"], ["autopsiado", "Per"]]
+
+
+Note:
+
+The output is a list of entities and their corresponding classes. The entities are listed in the input, and the classes are assigned based on the information provided in the input.
+
+
+
+
+

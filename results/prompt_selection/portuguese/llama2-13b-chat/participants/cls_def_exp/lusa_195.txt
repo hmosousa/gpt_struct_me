@@ -1,0 +1,12 @@
+[["um homem suspeito", "Per"], ["de balear jovem", "Per"], ["em coletividade de Setúbal", "Loc"], ["A Polícia Judiciária", "Org"], ["de Setúbal", "Loc"], ["deteteve", "Verb"], ["um homem de 63 anos", "Per"], ["segundo", "Other"], ["um comunicado", "Obj"], ["da PJ", "Org"], ["o presumível agressor", "Per"], ["terá disparado", "Verb"], ["sobre", "Pre"], ["a vítima", "Per"], ["na sequência", "Pre"], ["de um conflito", "Other"], ["com um grupo", "Other"], ["de convivas", "Other"], ["que se encontrava", "Other"], ["a almoçar", "Other"], ["na coletividade", "Other"], ["no Alto da Guerra", "Loc"], ["A polícia adianta", "Verb"], ["que", "Other"], ["o sexagenário", "Per"], ["acabou por alvejar", "Verb"], ["um jovem", "Per"], ["do grupo", "Other"], ["com um disparo", "Verb"], ["de arma de fogo", "Other"], ["provoquando-lhe", "Verb"], ["ferimentos", "Other"], ["consideráveis", "Other"], ["num ombro", "Other"], ["e braço", "Other"], ["O detido", "Per"], ["que fugiu", "Verb"], ["do local", "Loc"], ["está indiciado", "Verb"], ["pelo crime", "Other"], ["de homicídio qualificado", "Other"], ["na forma tentada", "Other"], ["detenção de arma proibida", "Other"], ["e omissão de auxílio", "Other"], ["Já", "Adverb"], ["foi", "Verb"], ["presente", "Adverb"], ["ao primeiro", "Other"], ["interrogatório", "Other"], ["judicial", "Other"], ["tendo-lhe", "Verb"], ["aplicada", "Verb"], ["a medida", "Other"], ["de coação", "Other"], ["de prisão preventiva", "Other"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "um homem suspeito") and the second string is the class (e.g. "Per"). The classes are:
+
+* Per: Person
+* Org: Organization
+* Loc: Location
+* Other: Other (for entities that do not fit into any of the above categories)
+* Obj: Object
+* Verb: Verb (for actions or events described in the text)
+* Adverb: Adverb (for words that modify verbs, adjectives, or other adverbs)

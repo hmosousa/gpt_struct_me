@@ -1,0 +1,49 @@
+[
+["Acidente", "Occurrence"],
+["condutor", "State"],
+["despiste", "Occurrence"],
+["Estrada Nacional 101", "Aspectual"],
+["cortada", "State"],
+["trânsito", "State"],
+["carro", "State"],
+["viatura", "State"],
+["tunning", "Aspectual"],
+["condutor", "Intensional State"],
+["segundo ocupante", "State"],
+["testemunhas oculares", "Perception"],
+["ferimentos ligeiros", "State"],
+["Hospital de Viana do Castelo", "Reporting"],
+["acidente", "Occurrence"],
+["13:55", "Reporting"],
+["freguesia de São Paio e Giela", "Reporting"],
+["estrada", "Aspectual"],
+["fechadas", "State"],
+["óleo da viatura derramado", "State"],
+["destroços espalhados", "State"],
+["16:30", "Reporting"]
+]
+
+Explanation:
+
+* "Acidente" is an occurrence, as it refers to an event that happened.
+* "condutor" is a state, as it refers to the condition of the driver.
+* "despiste" is an occurrence, as it refers to the act of losing control of the vehicle.
+* "Estrada Nacional 101" is an aspectual, as it refers to the road where the accident happened.
+* "cortada" is a state, as it refers to the road being cut off due to the accident.
+* "trânsito" is a state, as it refers to the traffic being affected by the accident.
+* "carro" is a state, as it refers to the vehicle being involved in the accident.
+* "viatura" is a state, as it refers to the vehicle being transformed.
+* "tunning" is an aspectual, as it refers to the modified vehicle.
+* "condutor" is an intensional state, as it refers to the driver's condition after the accident.
+* "segundo ocupante" is a state, as it refers to the condition of the second occupant of the vehicle.
+* "testemunhas oculares" is a perception, as it refers to the witnesses' account of what happened.
+* "ferimentos ligeiros" is a state, as it refers to the second occupant's injuries.
+* "Hospital de Viana do Castelo" is a reporting, as it refers to the hospital where the second occupant was taken.
+* "acidente" is an occurrence, as it refers to the event of the accident.
+* "13:55" is a reporting, as it refers to the time when the accident happened.
+* "freguesia de São Paio e Giela" is a reporting, as it refers to the location where the accident happened.
+* "estrada" is an aspectual, as it refers to the road where the accident happened.
+* "fechadas" is a state, as it refers to the road being closed due to the accident.
+* "óleo da viatura derramado" is a state, as it refers to the oil from the vehicle being spilled.
+* "destroços espalhados" is a state, as it refers to the debris from the accident being scattered.
+* "16:30" is a reporting, as it refers to the time when the road is expected to reopen.

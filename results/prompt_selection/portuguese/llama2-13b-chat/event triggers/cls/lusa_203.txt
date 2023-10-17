@@ -1,0 +1,32 @@
+[
+["Homem", "State"],
+["pessoas", "Occurrence"],
+["facão", "Perception"],
+["nordeste da China", "Aspectual"],
+["Kaiyuan", "Intensional Action"],
+["Yang", "Intensional State"],
+["motivo", "Intensional State"],
+["ataques semelhantes", "Intensional State"],
+["doentes mentais", "Intensional State"],
+["rancor contra a sociedade", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" and "pessoas" are both instances of the class "State", as they refer to the physical state of the individuals involved.
+* "facão" is an instance of the class "Perception", as it refers to the weapon used in the attack.
+* "nordeste da China" is an instance of the class "Aspectual", as it refers to the location where the attack took place.
+* "Kaiyuan" is an instance of the class "Intensional Action", as it refers to the specific location where the attack was perpetrated.
+* "Yang" is an instance of the class "Intensional State", as it refers to the suspect's name.
+* "motivo" is an instance of the class "Intensional State", as it refers to the reason behind the attack.
+* "ataques semelhantes" is an instance of the class "Intensional State", as it refers to previous similar attacks.
+* "doentes mentais" and "rancor contra a sociedade" are both instances of the class "Intensional State", as they refer to possible motivations behind the attack.
+
+Note: The classes used in this exercise are based on the Stanford Typed Dependencies dataset, which is a widely used dataset for natural language processing tasks. The classes are:
+
+* State: refers to physical states or properties of entities
+* Occurrence: refers to events or happenings
+* Perception: refers to sensory experiences or observations
+* Aspectual: refers to aspects or features of entities or events
+* Intensional Action: refers to actions or events that have a specific goal or intention
+* Intensional State: refers to states or properties of entities that are relevant to the action or event.

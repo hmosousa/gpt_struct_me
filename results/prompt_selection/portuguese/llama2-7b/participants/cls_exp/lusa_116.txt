@@ -1,0 +1,20 @@
+[["um jovem", "Per"], ["de 14 anos", "Per"], ["em estado grave", "Per"], ["após ser atropelado", "Per"], ["por autocarro", "Obj"], ["em Santo Tirso", "Loc"], ["Um jovem", "Per"], ["de 14 anos", "Per"], ["ficou hoje", "Per"], ["em estado grave", "Per"], ["após ter sido atropelado", "Per"], ["por um autocarro", "Obj"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["diz à Lusa", "Org"], ["fonte da Proteção Civil", "Org"], ["O jovem", "Per"], ["após ter sido assistido", "Per"], ["no local", "Loc"], ["por", "Obj"], ["os Bombeiros", "Org"], ["da Vila das Aves", "Org"], ["para o Hospital São João", "Loc"], ["no Porto", "Loc"], ["acrescentou a fonte", "Org"], ["O acidente", "Per"], ["ocorreu pela", "Per"], ["18:16", "Per"], ["na Rua Luís Gonzaga Mendes de Carvalho", "Loc"], ["no local", "Loc"], ["a prestar assistência", "Org"], ["para além dos Bombeiros", "Org"], ["da Vila das Aves", "Org"], ["esteve a Viatura Médica", "Org"], ["de Emergência e Reanimação", "Obj"], ["de Vila Nova de Famalicão", "Loc"], ["a Ambulância", "Org"], ["de Suporte Imediato de Vida", "Loc"], ["de Santo Tirso", "Loc"], ["e a GNR local", "Org"], ["diz à Lusa", "Org"], ["fonte da corporação", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades francesas detêm 10 pessoas suspeitas de terrorismo
+A polícia francesa detém hoje 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência France-Presse (AFP) a polícia francesa.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou a Agência

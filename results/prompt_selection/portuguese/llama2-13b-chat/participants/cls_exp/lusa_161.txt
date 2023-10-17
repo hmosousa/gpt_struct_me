@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["ex-companheira", "Per"], ["com", "Other"], ["tiro", "Obj"], ["em", "Loc"], ["Vila Nova de Gaia", "Loc"], ["e", "Per"], ["foi detido", "Org"], ["numa altura", "Other"], ["em que", "Other"], ["estaria", "Other"], ["a tentar", "Other"], ["o suicídio", "Other"], ["com", "Other"], ["a mesma arma", "Other"], ["disparo", "Obj"], ["de", "Other"], ["arma", "Other"], ["de fogo", "Other"], ["Fonte", "Org"], ["do Comando Territorial", "Org"], ["da GNR", "Org"], ["do Porto", "Loc"], ["referiu", "Other"], ["à agência", "Other"], ["Lusa", "Org"], ["que", "Other"], ["o crime", "Other"], ["ocorreu", "Other"], ["cerca", "Other"], ["das", "Other"], ["10:30", "Other"], ["na", "Other"], ["Rua da Figueirinha", "Loc"], ["em", "Other"], ["Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito", "Other"], ["do Porto", "Loc"], ["e", "Per"], ["a vítima", "Per"], ["era", "Other"], ["20 anos", "Other"], ["mais", "Other"], ["jovem", "Other"], ["A fonte", "Org"], ["admitiu", "Other"], ["que", "Other"], ["o homem", "Per"], ["tenha", "Other"], ["cometido", "Other"], ["o crime", "Other"], ["em", "Other"], ["retaliação", "Other"], ["por", "Other"], ["a mulher", "Per"], ["terminar", "Other"], ["a relação", "Other"], ["que", "Other"], ["ambos", "Other"], ["mantiveram", "Other"], ["durante", "Other"], ["10 anos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

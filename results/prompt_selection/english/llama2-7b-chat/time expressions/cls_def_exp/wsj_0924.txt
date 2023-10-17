@@ -1,0 +1,9 @@
+	[["annual meeting", "DATE"], ["Aug. 9", "DATE"], ["hostile bidder", "SET"], ["more than 20%", "SET"], ["then current market price", "SET"], ["securities or assets", "SET"], ["fiscal-first quarter", "DATE"], ["Sept. 30", "DATE"], ["C$348.2 million", "MONEY"], ["C$307.2 million", "MONEY"]]
+
+
+Note:
+
+* Time expressions are marked with the class "DATE"
+* Duration expressions are marked with the class "DURATION"
+* Set expressions are marked with the class "SET"
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

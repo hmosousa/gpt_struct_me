@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["Barreiro", "Loc"], ["PSP", "Org"], ["Direção Nacional", "Org"], ["tirador", "Per"], ["fuga", "Other"], ["incidente", "Per"], ["hoje", "Time"], ["20:20", "Time"], ["informações", "Other"], ["circunstâncias", "Other"], ["tiroteio", "Per"], ["Polícia Judiciária", "Org"]]

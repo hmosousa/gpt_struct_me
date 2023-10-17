@@ -1,0 +1,8 @@
+[["Ogden Projects Inc.", "ORGANIZATION"], ["Fairfield, N.J.", "LOCATION"], ["$6.6 million", "AMOUNT"], ["18 cents a share", "AMOUNT"], ["third quarter", "DATE"], ["$1.1 million", "AMOUNT"], ["four cents a share", "AMOUNT"], ["$101.7 million", "AMOUNT"], ["$39.5 million", "AMOUNT"], ["New York Stock Exchange", "ORGANIZATION"], ["August", "DATE"], ["$26.875", "AMOUNT"], ["$14", "AMOUNT"], ["13 facilities", "QUANTITY"], ["seven a year ago", "DATE"], ["Ogden Corp.", "ORGANIZATION"], ["$27.1 million", "AMOUNT"], ["67 cents a share", "AMOUNT"], ["$13.5 million", "AMOUNT"], ["34 cents a share", "AMOUNT"], ["$378.1 million", "AMOUNT"], ["$283.8 million", "AMOUNT"]]
+
+Note:
+The date format is not important, but the format of the output should be consistent.
+
+You can use any library or tool you like to extract the entities and classify them.
+
+Please provide your solution in a JSON format.

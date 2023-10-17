@@ -1,0 +1,14 @@
+["Jovem de 14 anos", "Proteção Civil", "Bombeiros da Vila das Aves", "Hospital São João", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR"]
+
+Explanation:
+The task is to extract all participants mentioned in the text, which are:
+
+1. Jovem de 14 anos (the young boy who was hit by the car)
+2. Proteção Civil (Civil Protection)
+3. Bombeiros da Vila das Aves (Firefighters of the Vila das Aves)
+4. Hospital São João (St. John's Hospital)
+5. Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão (Medical Emergency and Resuscitation Vehicle of Vila Nova de Famalicão)
+6. Ambulância de Suporte Imediato de Vida de Santo Tirso (Immediate Support Ambulance of Vida de Santo Tirso)
+7. GNR (National Republican Guard)
+
+The output should be a JSON-parseable list of strings, with each string representing one participant.

@@ -1,0 +1,40 @@
+[["Ogden Projects Inc.", "DATE"], ["$6.6 million", "DURATION"], ["$1.1 million", "DURATION"], ["$101.7 million", "DURATION"], ["$39.5 million", "DURATION"], ["$26.875", "SET"], ["$14", "SET"], ["$27.1 million", "DURATION"], ["$13.5 million", "DURATION"], ["$378.1 million", "DURATION"], ["$283.8 million", "DURATION"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn to farmers, the Agriculture Department said Friday.
+The decision to allow the sale of the corn, which is engineered to resist the herbicide Roundup, is the first time the government has approved a genetically engineered crop that is not a food or feed product.
+The decision was made after the Environmental Protection Agency and the Food and Drug Administration determined that the corn, which is made by Monsanto Co., poses no environmental or health risks.
+The corn, which is called Roundup Ready corn, is engineered to resist the herbicide Roundup, which is made by Monsanto.
+The corn is designed to be sprayed with Roundup to kill weeds, but not the corn.
+The corn is not a food or feed product, and the government has not approved it for sale as a food or feed product.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed products.
+The government has approved the sale of genetically engineered corn for use in food and feed

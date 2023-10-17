@@ -1,0 +1,1 @@
+["hoje", "dia 08 novembro", "segunda-feira", "quarta-feira", "terça-feira", "sexta-feira", "domingo", "segunda-feira", "terça-feira", "quinta-feira", "quarta-feira"]

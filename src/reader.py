@@ -3,7 +3,10 @@
 from pathlib import Path
 from typing import List
 
-from src.base import Document
+import tieval
+from tieval import datasets
+
+from src.base import LusaDocument, TimebankDocument, Document
 from src.parser import AnnParser
 
 
@@ -20,6 +23,23 @@ def read_lusa(dirpath: Path) -> List[Document]:
         ann = annpath.read_text()
         annotation = ann_parser.parse(ann)
 
-        document = Document(filepath.stem, text, annotation)
+        document = LusaDocument(filepath.stem, text, annotation)
         documents.append(document)
     return documents
+
+
+def read_timebank(dirpath: Path) -> List[Document]:
+    """Read TimeBank corpus."""
+    timebank = datasets.read("timebank", dirpath.parent)
+
+    documents = []
+    for doc in timebank.documents:
+
+        text = doc.text
+
+        annotation = [entity.__dict__ for entity in doc.entities]
+
+        document = TimebankDocument(doc.name, text, annotation)
+        documents.append(document)
+    return documents
+    

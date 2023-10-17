@@ -1,0 +1,12 @@
+[["Dominion Textile Inc.", "OCCURRENCE"], ["adopted", "OCCURRENCE"], ["took", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["rights", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["triggered", "OCCURRENCE"], ["hostile", "OCCURRENCE"], ["bidder", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["more", "OCCURRENCE"], ["than", "OCCURRENCE"], ["20%", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["Once", "ASPECTUAL"], ["triggered", "OCCURRENCE"], ["allow", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["at", "OCCURRENCE"], ["50%", "OCCURRENCE"], ["then", "OCCURRENCE"], ["current", "OCCURRENCE"], ["market", "OCCURRENCE"], ["price", "OCCURRENCE"], ["or", "OCCURRENCE"], ["at", "OCCURRENCE"], ["board's", "OCCURRENCE"], ["discretion", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["securities", "OCCURRENCE"], ["assets", "OCCURRENCE"]]
+
+Please provide the output in the same format as the input.
+
+Note:
+Please make sure that the output is in the format of a JSON-parseable list.
+
+Also, please make sure that the output is correctly formatted, with each element being a list of two strings, the first being the entity and the second being the class.
+
+Additionally, please make sure that the output is accurate, with each element correctly classifying the event trigger.
+
+Please let me know if you have any questions.

@@ -1,0 +1,31 @@
+[
+["Criança ferida", "Occurrence"],
+["acidente na autoestrada do Norte", "Occurrence"],
+["criança de 12 anos", "State"],
+["GNR", "Reporting"],
+["fonte da GNR", "Reporting"],
+["acidente ocorrido", "Occurrence"],
+["trânsito cortado", "State"],
+["circulação pela faixa lateral", "State"],
+["22 operacionais dos bombeiros", "State"],
+["INEM", "Reporting"],
+["polícia", "Reporting"],
+["10 viaturas", "State"]
+]
+
+Explanation:
+
+* "Criança ferida" is classified as "Occurrence" because it refers to an event that is happening or has happened.
+* "acidente na autoestrada do Norte" is classified as "Occurrence" for the same reason.
+* "criança de 12 anos" is classified as "State" because it refers to a persistent state or condition.
+* "GNR" is classified as "Reporting" because it is a source of information.
+* "fonte da GNR" is classified as "Reporting" for the same reason.
+* "acidente ocorrido" is classified as "Occurrence" because it refers to an event that has happened.
+* "trânsito cortado" is classified as "State" because it refers to a persistent state or condition.
+* "circulação pela faixa lateral" is classified as "State" for the same reason.
+* "22 operacionais dos bombeiros" is classified as "State" because it refers to a persistent state or condition.
+* "INEM" is classified as "Reporting" because it is a source of information.
+* "polícia" is classified as "Reporting" for the same reason.
+* "10 viaturas" is classified as "State" because it refers to a persistent state or condition.
+
+Note that some entities may have multiple possible classes, depending on the context and the specific meaning of the entity in the sentence. In this case, we have chosen the class that seems most appropriate based on the context and the entity's relationship to other entities in the sentence.

@@ -1,0 +1,17 @@
+[
+["GNR", "State"],
+["homens", "Occurrence"],
+["tráfico de droga", "Reporting"],
+["Sines", "Aspectual"],
+["apreendidos", "Intensional Action"],
+["suspeitos", "Intensional State"]
+]
+
+Explanation:
+
+* "GNR" is a State entity, as it refers to the Guarda Nacional Republicana, a Portuguese law enforcement agency.
+* "homens" is an Occurrence entity, as it refers to the two men who were detained.
+* "tráfico de droga" is a Reporting entity, as it refers to the action of drug trafficking that was reported by the GNR.
+* "Sines" is an Aspectual entity, as it refers to the location where the drug trafficking was taking place.
+* "apreendidos" is an Intensional Action entity, as it refers to the action of seizing or detaining the two men.
+* "suspeitos" is an Intensional State entity, as it refers to the state of being suspectedof drug trafficking.

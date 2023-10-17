@@ -1,0 +1,8 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* Participants are identified based on their relevance and significance to the event or state.
+* Participants can take on different roles, such as actors, agents, patients, victims, or observers.
+* Participants' actions and interactions can shape the course of events.

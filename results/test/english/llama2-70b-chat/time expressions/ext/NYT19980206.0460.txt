@@ -1,0 +1,14 @@
+[
+"January",
+"last month",
+"last fall",
+"the last four months",
+"the last three months",
+"1997",
+"last month",
+"the first nine months of 1997",
+"a short, sharp drop",
+"the last few months",
+"recently",
+"the spring"
+]

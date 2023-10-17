@@ -1,0 +1,9 @@
+["27 de novembro", "27 de novembro"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format of a JSON-parseable list of strings.
+* The time expressions can be in different formats, such as "dia/mes/ano", "mes/ano", "ano", "dias", "horas", "minutos", "segundos", etc.
+* The input text may contain other temporal expressions that are not relevant to the task, such as "hoje" (today), "ontem" (yesterday), "amanhã" (tomorrow), etc.
+* The output should only include time expressions that are relevant to the task, such as specific dates, periods, or durations.

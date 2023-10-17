@@ -1,0 +1,12 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Vila do Conde", "Location"],
+["estupefacientes", "Object"],
+["Tribunal Judicial de Vila do Conde", "Facility"],
+["Porto", "Location"],
+["factos", "Other"]
+]
+
+Note:
+The input text is in Portuguese, and the classes used are the ones provided in the task description. The output is a JSON-parseable list, where each element is a list with two strings: the entity and its corresponding class.

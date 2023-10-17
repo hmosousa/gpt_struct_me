@@ -1,0 +1,46 @@
+[["Um homem", "Per"], ["com 34 anos", "Per"], ["hoje", "Per"], ["na Estrada Nacional 17", "Loc"], ["em Celorico da Beira", "Loc"], ["no distrito da Guarda", "Loc"], ["na sequ\u00eancia do despiste", "Per"], ["do motociclo", "Obj"], ["que conduzia", "Per"], ["disseram à ag\u00eancia Lusa", "Org"], ["fontes", "Per"], ["da protec\u00e7\u00f3n civil", "Org"], ["e da GNR", "Org"], ["O alerta", "Per"], ["para o sinistro", "Per"], ["foi dado", "Per"], ["pelas 14:28", "Per"], ["Fonte", "Per"], ["do Comando Distrital", "Org"], ["de Opera\u00e7\u00f3es de Socorro", "Org"], ["(CDOS)", "Org"], ["da Guarda", "Loc"], ["o motociclo", "Obj"], ["seguia", "Per"], ["na Estrada Nacional 17", "Loc"], ["no sentido Celorico da Beira - Corti\u00e7o da Serra", "Loc"], ["e o despiste", "Per"], ["ocorreu", "Per"], ["alguns metros antes", "Per"], ["da localidade", "Loc"], ["de Corti\u00e7o da Serra", "Loc"], ["que pertence", "Loc"], ["ao concelho", "Loc"], ["de Celorico da Beira", "Loc"], ["O óbito", "Per"], ["do condutor", "Per"], ["do motociclo", "Obj"], ["foi confirmado", "Per"], ["pelos médicos", "Per"], ["da Viatura Médica", "Org"], ["de Emergência e Reanimação", "Org"], ["(VMER)", "Org"], ["da Guarda", "Loc"], ["Estiveram", "Per"], ["no local", "Per"], ["do acidente", "Loc"], ["cinco viaturas", "Per"], ["e dez elementos", "Per"], ["dos Bombeiros Volunt\u00e2rios", "Org"], ["de Celorico da Beira", "Loc"], ["da VMER", "Org"], ["da GNR", "Org"], ["indicando", "Per"], ["que as causas", "Per"], ["do acidente", "Per"], ["est\u00e1o a ser apuradas", "Per"], ["pelo N\u00fcu\u00e3lo de Investiga\u00e7\u00f3n de Crimes em Acidentes de Via\u00e7\u00f3n", "Org"], ["da GNR", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+"""
+
+import json
+import re
+import sys
+
+from collections import defaultdict
+from typing import List
+
+
+def parse_json(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON-formatted string into a list of lists of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_dict(json_str: str) -> dict:
+    """
+    Parse a JSON-formatted string into a dictionary.
+
+    :param json_str: A JSON-formatted string.
+    :return: A dictionary.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list(json_str: str) -> List[str]:
+    """
+    Parse a JSON-formatted string into a list of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list_of_lists

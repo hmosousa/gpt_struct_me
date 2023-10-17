@@ -1,0 +1,31 @@
+[
+["Tribunal de Guimarães", "Organization"],
+["homem", "Person"],
+["amiga", "Person"],
+["Procuradoria Regional", "Organization"],
+["Guimarães", "Location"],
+["maio", "Nature"],
+["2020", "Nature"],
+["04:20", "Nature"],
+["06:00", "Nature"],
+["mulher", "Person"],
+["homem", "Person"],
+["prisão", "Facility"]
+]
+]
+
+Note:
+The input text is in Portuguese.
+The output should be in English.
+
+This task is a classification task, where the goal is to classify each participant in the text into one of the predefined classes. The classes are:
+
+* Person: A human being, such as a person, a man, a woman, a child, etc.
+* Organization: A group of people or an entity that is involved in an activity or event, such as a company, a government agency, a school, etc.
+* Object: A material thing that can be perceived or experienced, such as a book, a chair, a car, etc.
+* Location: A place where an event or activity occurs, such as a city, a country, a building, etc.
+* Nature: A natural phenomenon or a natural part of the world, such as a river, a mountain, a tree, etc.
+* Facility: A place or structure that serves a particular purpose, such as a hospital, a school, a prison, etc.
+* Other: Any participant that does not fit into the above categories, such as an animal, a concept, a feeling, etc.
+
+The input text is in Portuguese, and the output should be in English. The task is to extract and classify all participants in the text, and the output should be a JSON-parseable list where each element is a list with two strings: the first string is the entity, and the second string is the class.

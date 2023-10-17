@@ -1,0 +1,12 @@
+[
+"Polícia moçambicana",
+"Leonel Muchine",
+"Filipe Nyusi",
+"indivíduo",
+"comparsa",
+"Moçambique",
+"Portugal",
+"teste negativo de covid-19",
+"vistos de turismo",
+"quarentena"
+]

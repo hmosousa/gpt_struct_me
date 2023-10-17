@@ -1,0 +1,11 @@
+[
+"ex-companheira",
+"homem",
+"Penafiel",
+"distrito do Porto",
+"GNR",
+"vítima",
+"botão de pânico",
+"teleassistência",
+"antecedentes criminais",
+"ilícitos"]

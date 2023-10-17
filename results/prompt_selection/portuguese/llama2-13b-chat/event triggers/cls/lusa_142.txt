@@ -1,0 +1,30 @@
+[
+["GNR", "State"],
+["mulher", "Occurrence"],
+["droga", "Aspectual"],
+["viatura", "Perception"],
+["militares", "Reporting"],
+["Estrada Nacional 122", "Location"],
+["Beja", "Location"],
+["Tribunal Judicial de Beja", "Location"],
+["coação", "Intensional Action"],
+["medidas de coação", "Intensional Action"]
+]
+
+Explanation:
+
+* GNR: State (the entity is the GNR)
+* mulher: Occurrence (the entity is the woman)
+* droga: Aspectual (the entity is the drug)
+* viatura: Perception (the entity is the vehicle)
+* militares: Reporting (the entity is the military)
+* Estrada Nacional 122: Location (the entity is the road)
+* Beja: Location (the entity is the city)
+* Tribunal Judicial de Beja: Location (the entity is the court)
+* coação: Intensional Action (the entity is the coercion)
+* medidas de coação: Intensional Action (the entity is the coercive measures)
+
+Note:
+
+* The classes are based on the categories proposed by the task, but the entities and their relationships could be represented in different ways, depending on the context and the level of detail desired.
+* The output is a JSON-parseable list, where each element is a list with two strings, representing the entity and the class.

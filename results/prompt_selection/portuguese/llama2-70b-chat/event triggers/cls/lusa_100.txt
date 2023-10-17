@@ -1,0 +1,22 @@
+[
+["Violência doméstica", "Occurrence"],
+["Pulseira eletrônica", "State"],
+["Homem de 39 anos", "Intensional State"],
+["Ex-companheira", "Intensional State"],
+["Separação", "Aspectual"],
+["Perseguição", "Intensional Action"],
+["Botão de pânico", "State"],
+["Antecedentes criminais", "State"],
+["Proibição de contactar", "Intensional State"]
+]
+
+Explanation:
+
+* "Violência doméstica" is an occurrence, as it refers to a specific event or situation.
+* "Pulseira eletrônica" is a state, as it describes a current or ongoing condition.
+* "Homem de 39 anos" and "Ex-companheira" are both intensional states, as they refer to the current status or role of the individuals involved.
+* "Separação" is an aspectual, as it refers to the separation as an ongoing process or state.
+* "Perseguição" is an intensional action, as it refers to the act of pursuing someone.
+* "Botão de pânico" is a state, as it describes a current or ongoing condition.
+* "Antecedentes criminais" is a state, as it describes a current or ongoing condition.
+* "Proibição de contactar" is an intensional state, as it refers to a prohibition or restriction on the individual's behavior.

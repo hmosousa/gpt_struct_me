@@ -1,0 +1,6 @@
+["colocado", "vigilância", "suspeito", "violência", "injúrias", "ameaças", "morte", "separação", "persegui", "residência", "local", "trabalho", "botão", "pânico", "proibido", "contactar", "vítima"]
+
+Note:
+Please note that the input text is in Portuguese.
+
+Please extract all event triggers from the given text.

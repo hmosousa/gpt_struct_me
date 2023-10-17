@@ -1,0 +1,1 @@
+[["$5.3 million", "Amount"], ["third quarter", "Date"], ["$15 million", "Amount"], ["$30 million", "Amount"], ["year-ago third quarter", "Date"], ["$22.5 million", "Amount"], ["$18 million", "Amount"], ["$778.6 million", "Amount"], ["two years", "Duration"]]

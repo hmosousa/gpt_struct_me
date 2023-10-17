@@ -1,0 +1,14 @@
+[
+"Homem",
+"Estádio da Luz",
+"Lisboa",
+"Comando Metropolitano de Lisboa (Cometlis)",
+"PSP",
+"Rádio Renascença",
+"Benfica",
+"relvado",
+"invasão",
+"detido",
+"detenção",
+"informações"
+]

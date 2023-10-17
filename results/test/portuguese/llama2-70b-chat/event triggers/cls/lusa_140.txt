@@ -1,0 +1,90 @@
+[
+["MP", "State"],
+["acusa", "Occurrence"],
+["agente", "State"],
+["da", "Aspectual"],
+["GNR", "State"],
+["de", "Aspectual"],
+["Braga", "State"],
+["militar", "State"],
+["falsificou", "Occurrence"],
+["mapas", "State"],
+["mensais", "State"],
+["suplementos", "State"],
+["remuneratórios", "State"],
+["logrando", "Occurrence"],
+["receber", "Occurrence"],
+["indevidamente", "Aspectual"],
+["5.400", "State"],
+["euros", "State"],
+["arguido", "State"],
+["chefe", "State"],
+["Núcleo", "State"],
+["Investigação", "State"],
+["Criminal", "State"],
+["da", "Aspectual"],
+["GNR", "State"],
+["de", "Aspectual"],
+["Braga", "State"],
+["responsável", "State"],
+["preenchimento", "State"],
+["envio", "State"],
+["processamento", "State"],
+["mapas", "State"],
+["mensais", "State"],
+["suplementos", "State"],
+["remuneratórios", "State"],
+["incluiu", "Occurrence"],
+["seu", "State"],
+["nome", "State"],
+["beneficiário", "State"],
+["suplemento", "State"],
+["de", "Aspectual"],
+["direito", "State"],
+["receber", "Occurrence"],
+["montante", "State"],
+["líquido", "State"],
+["5.400,17", "State"],
+["euros", "State"],
+["acusado", "State"],
+["ter", "Occurrence"],
+["ordenado", "Occurrence"],
+["militares", "State"],
+["efetivo", "State"],
+["Núcleo", "State"],
+["Investigação", "State"],
+["Criminal", "State"],
+["substituíssem", "Occurrence"],
+["na", "Aspectual"],
+["execução", "State"],
+["serviço", "State"],
+["para", "Aspectual"],
+["que", "State"],
+["estava", "State"],
+["escalado", "State"]
+]
+
+Note:
+The input text is in Portuguese.
+
+Explanation:
+
+* "MP" is a State entity, referring to the Ministério Público (Public Ministry).
+* "acusa" is an Occurrence entity, indicating that the MP is accusing someone.
+* "agente" is a State entity, referring to the person being accused.
+* "da" is an Aspectual entity, indicating the agent's relationship to the GNR.
+* "GNR" is a State entity, referring to the Guarda Nacional Republicana (National Republican Guard).
+* "de" is an Aspectual entity, indicating the location of the GNR.
+* "Braga" is a State entity, referring to the city of Braga.
+* "militar" is a State entity, referring to the person's profession.
+* "falsificou" is an Occurrence entity, indicating that the person falsified documents.
+* "mapas" is a State entity, referring to the maps that were falsified.
+* "mensais" is a State entity, referring to the monthly maps.
+* "suplementos" is a State entity, referring to the supplements that were falsified.
+* "remuneratórios" is a State entity, referring to the remuneratory supplements.
+* "logrando" is an Occurrence entity, indicating that the person managed to receive the supplements.
+* "receber" is an Occurrence entity, indicating that the person received the supplements.
+* "indevidamente" is an Aspectual entity, indicating that the person received the supplements unduly.
+* "5.400" is a State entity, referring to the amount of money received.
+* "euros" is a State entity, referring to the currency.
+* "arguido" is a State entity, referring

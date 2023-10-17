@@ -1,1 +1,0 @@
-[["buscas", "Occurrence"], ["realizaram", "Occurrence"], ["buscas", "Occurrence"], ["apreendido", "Occurrence"], ["morreu", "Occurrence"], ["realizou", "Occurrence"], ["participou", "Occurrence"], ["submetido", "Occurrence"], ["abriu", "Occurrence"]]

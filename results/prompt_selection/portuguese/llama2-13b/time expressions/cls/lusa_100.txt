@@ -1,0 +1,55 @@
+[
+  [
+    "Date",
+    "Date"
+  ],
+  [
+    "Time",
+    "Time"
+  ],
+  [
+    "Duration",
+    "Duration"
+  ],
+  [
+    "Set",
+    "Set"
+  ]
+]
+
+Explanation:
+The first element is the date of the article. The second element is the time of the article. The third element is the duration of the article. The fourth element is the set of the article.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The durationis classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extractedfrom the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence. The set is extracted from the fourth sentence.
+
+The date is classified as a date. The time is classified as a time. The duration is classified as a duration. The set is classified as a set.
+
+The date is extracted from the first sentence. The time is extracted from the second sentence. The duration is extracted from the third sentence

@@ -1,0 +1,14 @@
+["GNR detém quatro suspeitos de assaltos e tráfico de drogas no Alto Minho", "A GNR deteve hoje quatro homens alegadamente envolvidos assaltos a residências e estabelecimentos, furtos no interior de veículos e tráfico de drogas no Alto Minho, anunciou o comando de Viana do Castelo daquela força policial.", "Os suspeitos, com idades entre os 35 e 41 anos, todos com antecedentes criminais, foram detidos no âmbito de uma investigação desenvolvida ao longo de meio ano por diversos furtos nos concelhos de Arcos de Valdevez, Paredes de Coura, Ponte da Barca e Ponte de Lima, todos no distrito de Viana do Castelo.", "Terão praticado também alguns crimes em Vila Verde, já no distrito de Braga.", "A operação agora anunciada incluiu a realização buscas domiciliárias que resultaram na apreensão heroína para 56 doses, cocaína para 17 e haxixe para oito, além de seis telemóveis, dois computadores, uma máquina fotográfica e um aparelho GPS."]
+
+Explanation:
+
+- "GNR detém quatro suspeitos de assaltos e tráfico de drogas no Alto Minho"
+  - "GNR detém quatro suspeitos de assaltos e tráfico de drogas no Alto Minho"
+- "A GNR deteve hoje quatro homens alegadamente envolvidos assaltos a residências e estabelecimentos, furtos no interior de veículos e tráfico de drogas no Alto Minho, anunciou o comando de Viana do Castelo daquela força policial."
+  - "A GNR deteve hoje quatro homens alegadamente envolvidos assaltos a residências e estabelecimentos, furtos no interior de veículos e tráfico de drogas no Alto Minho, anunciou o comando de Viana do Castelo daquela força policial."
+- "Os suspeitos, com idades entre os 35 e 41 anos, todos com antecedentes criminais, foram detidos no âmbito de uma investigação desenvolvida ao longo de meio ano por diversos furtos nos concelhos de Arcos de Valdevez, Paredes de Coura, Ponte da Barca e Ponte de Lima, todos no distrito de Viana do Castelo."
+  - "Os suspeitos, com idades entre os 35 e 41 anos, todos com antecedentes criminais, foram detidos no âmbito de uma investigação desenvolvida ao longo de meio ano por diversos furtos nos concelhos de Arcos de Valdevez, Paredes de Coura, Ponte da Barca e Ponte de Lima, todos no distrito de Viana do Castelo."
+- "Terão praticado também alguns crimes em Vila Verde, já no distrito de Braga."
+  - "Terão praticado também alguns crimes em Vila Verde, já no distrito de Braga."
+- "A operação agora anunciada incluiu a realização buscas domiciliárias que resultaram na apreensão heroína para 56 doses, cocaína para 17 e haxixe para oito, além de seis telemóveis, dois computadores, uma máquina fotográfica e um aparelho GPS."
+  - "A operação agora anunciada incluiu a realização buscas domiciliárias que resultaram na apreensão heroína para 56 doses, cocaína para 17 e haxixe para oito, além de seis telemóveis, dois computadores, uma máquina fotográfica e um aparelho GPS."

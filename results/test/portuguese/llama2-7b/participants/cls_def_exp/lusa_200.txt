@@ -1,0 +1,13 @@
+[["um homem", "Per"], ["de 31 anos", "Per"], ["ficou", "Per"], ["hoje", "Per"], ["ferido", "Per"], ["com gravidade", "Per"], ["quando", "Per"], ["cortava", "Per"], ["uma árvore", "Obj"], ["em Regilde", "Loc"], ["no concelho", "Loc"], ["de Felgueiras", "Loc"], ["ficou", "Per"], ["ferido", "Per"], ["com gravidade", "Per"], ["quando", "Per"], ["cortava", "Per"], ["uma árvore", "Obj"], ["em Regilde", "Loc"], ["no concelho", "Loc"], ["de Felgueiras", "Loc"], ["a vítima", "Per"], ["terá", "Per"], ["sido", "Per"], ["atingida", "Per"], ["por", "Per"], ["a queda", "Per"], ["da árvore", "Obj"], ["cerca", "Per"], ["de sete", "Per"], ["metros", "Obj"], ["acrescenta", "Per"], ["a fonte", "Per"], ["dos bombeiros", "Org"], ["a vítima", "Per"], ["é", "Per"], ["bombeiro", "Per"], ["em", "Per"], ["Vizela", "Loc"], ["e", "Per"], ["teve", "Per"], ["de", "Per"], ["ser", "Per"], ["resgatada", "Per"], ["pela", "Per"], ["equpa", "Per"], ["de", "Per"], ["grande ângulo", "Loc"], ["os", "Per"], ["Bombeiros", "Org"], ["de", "Per"], ["Felgueiras", "Loc"], ["deslocaram", "Per"], ["para", "Per"], ["o", "Per"], ["local", "Loc"], ["uma", "Per"], ["ambulância", "Obj"], ["a", "Per"], ["viatura", "Obj"], ["de", "Per"], ["desencarceramento", "Per"], ["e", "Per"], ["a", "Per"], ["viatura", "Obj"], ["de", "Per"], ["resgate", "Per"], ["em", "Per"], ["grande ângulo", "Loc"], ["o", "Per"], ["homem", "Per"], ["foi", "Per"], ["assistido", "Per"], ["pela", "Per"], ["equpa", "Per"], ["da", "Per"], ["VMER", "Obj"], ["do", "Per"], ["Vale", "Loc"], ["do", "Per"], ["Sousa", "Loc"], ["e", "Per"], ["transportado", "Per"], ["para", "Per"], ["o", "Per"], ["Hospital", "Loc"], ["de", "Per"], ["Guimarães", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem armado faz vários reféns dentro de um banco na Geórgia
+Um homem armado fez hoje à tarde vários reféns, ainda em número incerto, dentro das instalações de um banco na Geórgia, informaram as autoridades desta ex-república soviética.
+O Ministério do Interior da Geórgia não precisou, até ao momento, quantas pessoas foram feitas reféns dentro do banco, localizado na cidade de Zugdidi (região oeste), ou quais são as exigências do agressor.
+A polícia isolou, entretanto, a zona onde fica a sucursal bancária e montou uma operação "para neutralizar o agressor", informou o ministério num comunicado.
+A televisão estatal da Geórgia, a Mtavari TV, noticiou que o sequestrador está armado com uma granada de mão e exige 500.000 dólares (cerca de 420.000 euros) em dinheiro.
+A Mtavari TV conseguiu falar com um dos reféns que indicou que o agressor mantém 19 pessoas dentro das instalações bancárias.
+O canal de televisão também

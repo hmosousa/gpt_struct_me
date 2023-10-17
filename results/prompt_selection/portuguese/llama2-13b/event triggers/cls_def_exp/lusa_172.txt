@@ -1,0 +1,18 @@
+[["homem", "I_Action"], ["encontrado", "Occurrence"], ["boiar", "Occurrence"], ["mar", "State"], ["Estaquinha", "Occurrence"], ["concelho", "Occurrence"], ["Lagoa", "Occurrence"], ["Algarve", "Occurrence"], ["revelou", "Reporting"], ["Autoridade Marítima", "Occurrence"], ["homem", "I_Action"], ["aparentando", "Aspectual"], ["entre", "Aspectual"], ["60 e 70 anos", "Aspectual"], ["encontrado", "Occurrence"], ["praia", "Occurrence"], ["Estaquinha", "Occurrence"], ["concelho", "Occurrence"], ["Lagoa", "Occurrence"], ["Algarve", "Occurrence"], ["revelou", "Reporting"], ["Autoridade Marítima", "Occurrence"], ["pescador", "Occurrence"], ["praticava", "Occurrence"], ["pesca lúdica", "Occurrence"], ["arriba", "Occurrence"], ["praia", "Occurrence"], ["Lagoa", "Occurrence"], ["Faro", "Occurrence"], ["Depois", "Aspectual"], ["alerta", "Occurrence"], ["avistamento", "Occurrence"], ["corpo", "Occurrence"], ["boiar", "Occurrence"], ["mar", "State"], ["Estação Salva-vidas", "Occurrence"], ["Ferragudo", "Occurrence"], ["recolha", "Occurrence"], ["transportando", "Occurrence"], ["gabinete", "Occurrence"], ["medicina legal", "Occurrence"], ["Portimão", "Occurrence"], ["declarou", "Reporting"], ["delegada", "Occurrence"], ["saúde", "Occurrence"], ["Lagoa", "Occurrence"], ["Portimão", "Occurrence"], ["Polícia Marítima", "Occurrence"], ["tomou conta", "Occurrence"], ["ocorrência", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridade Marítima avisa que o mar está muito agitado
+O mar está muito agitado, avisa hoje a Autoridade Marítima, que recomenda que as pessoas não se aventurem para o mar.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às condições meteorológicas, com ventos de 40 a 50 nós e ondas de 3 a 4 metros.
+A autoridade informa que o mar está agitado devido às cond

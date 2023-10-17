@@ -1,0 +1,1 @@
+[["next year's first quarter", "Date"], ["15 pence", "Duration"], ["362 pence", "Duration"], ["about #1.44 billion", "Duration"], ["the year ended March 31", "Date"], ["5% to 10%", "Set"]]

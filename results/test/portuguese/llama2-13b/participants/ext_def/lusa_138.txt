@@ -1,0 +1,17 @@
+["GNR", "detém", "homem", "por", "maltratar", "e", "ameaçar", "de", "morte", "a", "mãe", "de", "73", "anos", "em", "Gondomar", "Um", "homem", "de", "50", "anos", "foi", "detido", "hoje", "por", "maltratar", "física", "e", "psicologicamente", "a", "mãe", "de", "73", "anos", "em", "Gondomar", "no", "distrito", "do", "Porto", "referiu", "a", "GNR", "Na", "sequência", "de", "uma", "denúncia", "de", "que", "estaria", "a", "ocorrer", "um", "crime", "de", "violência", "doméstica", "os", "militares", "deslocaram-se", "ao", "local", "e", "apuraram", "que", "o", "suspeito", "estava", "a", "infligir", "maus-tratos", "físicos", "e", "psicológicos", "bem", "como", "ameaças", "de", "morte", "com", "recurso", "a", "armas", "brancas", "à", "mãe", "sublinhou", "esta", "força", "policial", "em", "comunicado", "Após", "a", "realização", "de", "uma", "busca", "domiciliária", "a", "GNR", "a", "apreendeu", "duas", "armas", "brancas", "frisou", "O", "suspeito", "com", "antecedentes", "criminais", "pela", "prática", "dos", "mesmos", "crimes", "foi", "detido", "e", "vai", "ser", "presente", "a", "primeiro", "interrogatório", "no", "Tribunal", "Judicial", "do", "Porto", "no", "sábado"]
+
+Hints:
+- Use the `split` method to break the text into individual words.
+- Use the `filter` method to remove unwanted words.
+- Use the `join` method to combine the remaining words into a single string.
+
+Examples:
+```python
+extract_participants("GNR detém homem por maltratar e ameaçar de morte a mãe de 73 anos em Gondomar")
+# ['GNR', 'detém', 'homem', 'por', 'maltratar', 'e', 'ameaçar', 'de', 'morte', 'a', 'mãe', 'de', '73', 'anos', 'em', 'Gondomar']
+
+extract_participants("Um homem de 50 anos foi detido hoje por maltratar física e psicologicamente a mãe de 73 anos, em Gondomar, no distrito do Porto, referiu a GNR.")
+# ['Um', 'homem', 'de', '50', 'anos', 'foi', 'detido', 'hoje', 'por', 'maltratar', 'física', 'e', 'psicologicamente', 'a', 'mãe', 'de', '73', 'anos', 'em', 'Gondomar', 'no', 'distrito', 'do', 'Porto', 'referiu', 'a', 'GNR']
+
+extract_participants("Na sequência de uma denúncia de que estaria a ocorrer um crime de violência doméstica, os militares deslocaram-se ao local e apuraram que o suspeito estaria a infligir maus-tratos físicos e psicológicos, bem como ameaças de morte com recurso a armas brancas à mãe, sublinhou esta força policial, em comunicado.")
+# ['Na', 'sequência', 'de', 'uma', 'denúncia', 'de', 'que', 'est

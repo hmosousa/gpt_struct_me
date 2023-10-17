@@ -1,0 +1,32 @@
+[
+["Homem", "State"],
+["ciclomotor", "Occurrence"],
+["veículo ligeiro", "Occurrence"],
+["Estrada Nacional 10-8", "Aspectual"],
+["Mitrena", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["Lusa", "Organization"],
+["bombeiros", "Occurrence"],
+["veículos", "Occurrence"],
+["corporações", "Occurrence"],
+["Palmela", "Location"],
+["Sapadores de Setúbal", "Location"],
+["viatura médica de emergência e reanimação", "Occurrence"]
+]
+
+Explanation:
+
+* "Homem" is a State, as it describes a person's existence.
+* "ciclomotor" is an Occurrence, as it describes a specific event that happened.
+* "veículo ligeiro" is an Occurrence, as itdescribes a specific event that happened.
+* "Estrada Nacional 10-8" is an Aspectual, as it describes the location where the event happened.
+* "Mitrena" is a Location, as it describes a specific place.
+* "PSP" and "Proteção Civil" are Organizations, as they describe specific entities that were involved in the event.
+* "Comando Distrital de Operações de Socorro" is an Organization, as it describes a specific entity that was involved in the event.
+* "Lusa" is an Organization, as it describes a specific entity that was involved in the event.
+* "bombeiros" and "veículos" are Occurrences, as they describe specific events that happened.
+* "corporações" is a Plural noun, as it describes multiple entities.
+* "Palmela" and "Sapadores de Setúbal" are Locations, as they describe specific places.
+* "viatura médica de emergência e reanimação" is an Occurrence, as it describes a specific event that happened.

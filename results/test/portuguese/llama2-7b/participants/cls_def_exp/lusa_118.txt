@@ -1,0 +1,54 @@
+[["Covid-19", "Per"], ["O primeiro-ministro português está", "Per"], ["a partir de hoje", "Per"], ["em isolamento profilático preventivo", "Per"], ["depois de ter estado", "Per"], ["na quarta-feira", "Per"], ["em Paris", "Loc"], ["com o Presidente francês", "Per"], ["Emmanuel Macron", "Per"], ["que testou positivo", "Per"], ["ao novo coronavírus", "Per"], ["Em virtude da confirmação", "Per"], ["do teste positivo", "Per"], ["do Presidente francês", "Per"], ["Emmanuel Macron", "Per"], ["com quem esteve", "Per"], ["ontem", "Per"], ["no Palácio do Eliseu", "Loc"], ["o primeiro-ministro encontra-se", "Per"], ["em isolamento profilático preventivo", "Per"], ["a partir de hoje", "Per"], ["a valiação do grau de risco", "Per"], ["por parte das autoridades de saúde", "Per"], ["lê-se no comunicado", "Per"], ["emitido pelo gabinete de António Costa", "Org"], ["Depois", "Per"], ["tal como a agência Lusa já", "Per"], ["referiu", "Per"], ["adianta-se que", "Per"], ["no quadro da preparação", "Per"], ["da deslocação", "Per"], ["a São Tomé e Príncipe", "Loc"], ["e Guiné Bissau", "Loc"], ["prevista para 18 a 20 de dezembro", "Per"], ["o primeiro-ministro realizou", "Per"], ["hoje de manhã", "Per"], ["um teste para deteção", "Per"], ["de Covid-19", "Per"], ["O primeiro-ministro decidiu", "Per"], ["cancelar essa deslocação", "Per"], ["bem como toda a agenda pública", "Per"], ["que implique a sua presença física", "Per"], ["mantém toda a atividade executiva", "Per"], ["e a agenda de trabalho", "Per"], ["que realizará à distância", "Per"], ["O primeiro-ministro não apresenta", "Per"], ["quaisquer sintomas", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+"""
+
+import json
+import re
+import sys
+
+from typing import List
+
+
+def parse_json(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON-formatted string into a list of lists of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_string(string: str) -> List[str]:
+    """
+    Parse a string into a list of strings.
+
+    :param string: A string.
+    :return: A list of strings.
+    """
+    return re.split(r"\s+", string)
+
+
+def main():
+    """
+    Main function, parses input and prints output.
+    """
+    if len(sys.argv) != 2:
+        print("Usage: python3 extract_participants.py <input_file>")
+        sys.exit(1)
+
+    with open(sys.argv[1]) as f:
+        input_str = f.read()
+
+    output = parse_string(input_str)
+    output = parse_json(output)
+
+    for element in output:
+        print(element)
+
+
+if __name__ == "__main__":
+    main()

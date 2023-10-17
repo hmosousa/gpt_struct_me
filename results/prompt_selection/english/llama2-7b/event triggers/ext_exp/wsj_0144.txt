@@ -1,0 +1,34 @@
+["Travelers Corp.'s third-quarter net income rose 11%, even though claims stemming from Hurricane Hugo reduced results $40 million.
+Net advanced to $94.2 million, or 89 cents a share, from $85 million, or 83 cents a share, including net realized investment gains of $31 million, up from $10 million a year ago. But revenue declined to $3 billion from $3.2 billion.
+Travelers estimated that the California earthquake last month will result in a fourth-quarter pre-tax charge of less than $10 million.
+The insurer's earnings from commercial property/casualty lines fell 59% in the latest quarter, while it lost $7.2 million in its personal property/casualty business, compared with earnings of $6.1 million a year ago.
+Travelers's employee benefits group, which includes its group health insurance operations, posted earnings of $24 million, compared with a loss of $3 million last year.
+In the first nine months, net was $306 million, compared with a loss of $195 million in the 1988 period. The year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans."
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1987 stock market crash.
+The settlement, announced Monday, is the largest ever in a securities class action.
+The suit was brought by New York Attorney General Robert Abrams in 1988, alleging that the nation's largest brokerage firms had engaged in illegal short-selling of stocks.
+Short-selling is the practice of borrowing shares of stock and selling them, hoping to buy them back later at a lower price.
+The settlement, which must be approved by a federal judge, will be divided among investors who bought or sold stocks between Jan. 1, 1985, and Dec. 31, 1987.
+The settlement also requires the brokerage firms to pay $100 million to the state of New York to cover legal fees.
+The settlement is the latest in a series of lawsuits brought by state attorneys general against the brokerage firms.
+In 1993, the firms agreed to pay $1.4 billion to settle a similar suit brought by the attorneys general of 19 states.
+The firms also agreed to pay $1.02 billion to settle a suit brought by the Securities and Exchange Commission.
+The settlements were the largest ever in securities class actions.
+The settlements were the largest ever in securities class actions."
+
+Output:
+["The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1987 stock market crash.
+The settlement, announced Monday, is the largest ever in a securities class action.
+The suit was brought by New York Attorney General Robert Abrams in 1988, alleging that the nation's largest brokerage firms had engaged in illegal short-selling of stocks.
+Short-selling is the practice of borrowing shares of stock and selling them, hoping to buy them back later at a lower price.
+The settlement, which must be approved by a federal judge, will be divided among investors who bought or sold stocks between Jan. 1, 1985, and Dec. 31, 1987.
+The settlement also requires the brokerage firms to pay $100 million to the state of New York to cover legal fees.
+The settlement is the latest in a series of lawsuits brought by state attorneys general against the brokerage firms.
+In 1993, the firms agreed to pay $1.4 billion to settle a similar suit brought by the attorneys general of 19 states.
+The firms also agreed to pay $1.02 billion to settle a suit brought by the Securities and Exchange Commission.
+The settlements were the largest ever in securities class actions

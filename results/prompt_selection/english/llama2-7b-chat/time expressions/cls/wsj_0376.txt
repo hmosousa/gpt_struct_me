@@ -1,0 +1,42 @@
+[
+{
+"date": "next year's first quarter",
+"class": "Date"
+},
+{
+"date": "March 31",
+"class": "Date"
+},
+{
+"duration": "1 year",
+"class": "Duration"
+},
+{
+"value": "#300 million - #400 million",
+"class": "Money"
+},
+{
+"value": "#1.44 billion",
+"class": "Money"
+},
+{
+"value": "5% - 10%",
+"class": "Duration"
+},
+{
+"value": "small stakes",
+"class": "Money"
+}
+]
+]
+Explanation:
+The input text contains several time expressions, which are extracted and classified as follows:
+* "next year's first quarter": Date (class = Date)
+* "March 31": Date (class = Date)
+* "1 year": Duration (class = Duration)
+* "#300 million - #400 million": Money (class = Money)
+* "#1.44 billion": Money (class = Money)
+* "5% - 10%": Duration (class = Duration)
+* "small stakes": Money (class = Money)
+
+Note that the output list is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.

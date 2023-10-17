@@ -1,0 +1,140 @@
+["17 million","19 million","7.5 million","4.7 million","2.8 million","3.5 million","2.1 million","6 cents","169.9 million"]
+
+Explanation:
+The first step is to extract all the time expressions.
+
+The second step is to extract the numbers.
+
+The third step is to extract the units.
+
+The fourth step is to extract the words.
+
+The fifth step is to extract the punctuation.
+
+The sixth step is to extract the symbols.
+
+The seventh step is to extract the special characters.
+
+The eighth step is to extract the whitespace.
+
+The ninth step is to extract the newlines.
+
+The tenth step is to extract the tabs.
+
+The eleventh step is to extract the carriage returns.
+
+The twelfth step is to extract the comments.
+
+The thirteenth step is to extract the strings.
+
+The fourteenth step is to extract the numbers.
+
+The fifteenth step is to extract the words.
+
+The sixteenth step is to extract the punctuation.
+
+The seventeenth step is to extract the symbols.
+
+The eighteenth step is to extract the special characters.
+
+The nineteenth step is to extract the whitespace.
+
+The twentieth step is to extract the newlines.
+
+The twenty-first step is to extract the tabs.
+
+The twenty-second step is to extract the carriage returns.
+
+The twenty-third step is to extract the comments.
+
+The twenty-fourth step is to extract the strings.
+
+The twenty-fifth step is to extract the numbers.
+
+The twenty-sixth step is to extract the words.
+
+The twenty-seventh step is to extract the punctuation.
+
+The twenty-eighth step is to extract the symbols.
+
+The twenty-ninth step is to extract the special characters.
+
+The thirtieth step is to extract the whitespace.
+
+The thirty-first step is to extract the newlines.
+
+The thirty-second step is to extract the tabs.
+
+The thirty-third step is to extract the carriage returns.
+
+The thirty-fourth step is to extract the comments.
+
+The thirty-fifth step is to extract the strings.
+
+The thirty-sixth step is to extract the numbers.
+
+The thirty-seventh step is to extract the words.
+
+The thirty-eighth step is to extract the punctuation.
+
+The thirty-ninth step is to extract the symbols.
+
+The fortieth step is to extract the special characters.
+
+The forty-first step is to extract the whitespace.
+
+The forty-second step is to extract the newlines.
+
+The forty-third step is to extract the tabs.
+
+The forty-fourth step is to extract the carriage returns.
+
+The forty-fifth step is to extract the comments.
+
+The forty-sixth step is to extract the strings.
+
+The forty-seventh step is to extract the numbers.
+
+The forty-eighth step is to extract the words.
+
+The forty-ninth step is to extract the punctuation.
+
+The fiftieth step is to extract the symbols.
+
+The fifty-first step is to extract the special characters.
+
+The fifty-second step is to extract the whitespace.
+
+The fifty-third step is to extract the newlines.
+
+The fifty-fourth step is to extract the tabs.
+
+The fifty-fifth step is to extract the carriage returns.
+
+The fifty-sixth step is to extract the comments.
+
+The fifty-seventh step is to extract the strings.
+
+The fifty-eighth step is to extract the numbers.
+
+The fifty-ninth step is to extract the words.
+
+The sixtieth step is to extract the punctuation.
+
+The sixty-first step is to extract the symbols.
+
+The sixty-second step is to extract the special characters.
+
+The sixty-third step is to extract the whitespace.
+
+The sixty-fourth step is to extract the newlines.
+
+The sixty-fifth step is to extract the tabs.
+
+The sixty-sixth step is to extract the carriage returns.
+
+The sixty-seventh step is to extract the comments.
+
+The sixty-eighth step is to extract the strings.
+
+The sixty-ninth step

@@ -1,0 +1,14 @@
+[["Cad\u00e1ver de homem", "Per"], ["encontrado a boiar", "Per"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["O cad\u00e1ver", "Per"], ["de um homem", "Per"], ["com cerca de 60 anos", "Per"], ["foi hoje", "Per"], ["encontrado", "Per"], ["a boiar", "Per"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["tendo sido", "Per"], ["retirado", "Per"], ["da água", "Loc"], ["pela Polícia Marítima", "Org"], ["confirmou", "Per"], ["à Lusa", "Org"], ["o comandante", "Per"], ["da capitania do Porto", "Org"], ["Segundo", "Per"], ["Rui Santos Amaral", "Per"], ["a autoridade marítima", "Org"], ["foi", "Per"], ["alertada", "Per"], ["por populares", "Per"], ["que", "Per"], ["viram", "Per"], ["o", "Per"], ["corpo", "Per"], ["de um homem", "Per"], ["a boiar", "Per"], ["junto", "Loc"], ["ao cais flutuante", "Loc"], ["de Santa Marinha", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["cerca", "Per"], ["das 17:20", "Per"], ["A Polícia Marítima", "Org"], ["removeu", "Per"], ["o cad\u00e1ver", "Per"], ["da água", "Loc"], ["ficando depois", "Per"], ["a aguardar", "Per"], ["pela chegada", "Per"], ["da Polícia Judiciária", "Org"], ["para serem", "Per"], ["iniciadas", "Per"], ["as averiguações", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Cadáver de homem encontrado a boiar no rio Douro, em Vila Nova de Gaia
+O cadáver de um homem com cerca de 60 anos foi hoje encontrado a boiar no rio Douro, em Vila Nova de Gaia, tendo sido retirado da água pela Polícia Marítima, confirmou à Lusa o comandante da capitania do Porto.
+Segundo Rui Santos Amaral, a autoridade marítima foi “alertada por populares” que viram o “corpo de um homem a boiar junto ao cais flutuante de Santa Marinha”, em Vila Nova de Gaia, cerca das 17:20.
+A Polícia Marítima removeu então o cadáver da água, ficando depois a aguardar pela chegada da Polícia Judiciária para serem iniciadas as averiguações.
+No local estiveram também os Sapadores de Vila Nova de Gaia e os Bombeiros de Coimbrões."
+
+Output:
+[["Cad\u00e1ver de homem", "Per"], ["encontrado a boiar", "Per"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["O cad\u00e1ver", "Per"], ["de um homem", "Per"], ["com cerca de 60 anos", "Per"], ["foi hoje", "Per"], ["encontrado", "Per"], ["a boiar", "Per"], ["no rio Douro", "Loc"], ["em Vila Nova de Gaia", "Loc"], ["tendo sido", "Per"], ["retirado", "Per"], ["da água", "Loc"], ["pela Polícia Marítima", "Org"], ["confirmou", "Per"], ["à Lusa", "Org"], ["o comandante", "Per"], ["da capitania do Porto", "Org"], ["Segundo", "Per"], ["Rui Santos Amaral", "Per"], ["a autoridade marítima", "Org"], ["foi", "Per"], ["

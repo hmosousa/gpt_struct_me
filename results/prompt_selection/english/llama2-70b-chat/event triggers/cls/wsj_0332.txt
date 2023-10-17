@@ -1,0 +1,30 @@
+[
+["Orkem S.A.", "State"],
+["Coates Brothers PLC", "State"],
+["470 pence", "Occurrence"],
+["$7.43", "Occurrence"],
+["301 million", "Occurrence"],
+["12.4%", "Occurrence"],
+["53.2%", "Occurrence"],
+["Orkem Coatings U.K. Ltd.", "State"],
+["France", "State"],
+["U.K.", "State"],
+["merger", "Intensional Action"],
+["acquisition", "Intensional Action"],
+["restructuring", "Intensional Action"],
+["addition", "Intensional Action"],
+["possibly further acquisitions", "Intensional Action"],
+["public share offering", "Intensional Action"]
+]
+
+Explanation:
+
+* "Orkem S.A." and "Coates Brothers PLC" are classified as State entities because they are names of companies.
+* "470 pence" and "$7.43" are classified as Occurrence entities because they are specific values related to the event.
+* "301 million" is classified as an Occurrence entity because it is a specific value related to the event.
+* "12.4%" and "53.2%" are classified as Occurrence entities because they are specific percentages related to the event.
+* "Orkem Coatings U.K. Ltd." is classified as a State entity because it is a name of a company.
+* "France" and "U.K." are classified as State entities because they are names of countries.
+* "merger", "acquisition", "restructuring", "addition", "possibly further acquisitions", and "public share offering" are classified as Intensional Action entities because they are all actions related to the event.
+
+Note that the classification of entities in the output is based on the given classes and may not necessarily reflect the entities' actual types or nuances.

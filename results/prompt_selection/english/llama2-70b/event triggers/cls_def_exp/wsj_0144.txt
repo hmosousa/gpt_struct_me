@@ -1,0 +1,1 @@
+[["rose", "OCCURRENCE"], ["reduced", "I_ACTION"], ["advanced", "ASPECTUAL"], ["declined", "ASPECTUAL"], ["resulted", "REPORTING"], ["fell", "ASPECTUAL"], ["lost", "STATE"], ["posted", "OCCURRENCE"], ["was", "STATE"]]

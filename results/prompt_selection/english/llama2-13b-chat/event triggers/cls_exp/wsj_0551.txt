@@ -1,0 +1,9 @@
+[["Society Corp.", "ORGANIZATION"], ["Trustcorp Inc.", "ORGANIZATION"], ["Society Bank amp Trust", "ORGANIZATION"], ["merger", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["market value", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["close", "OCCURRENCE"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity mentioned in the text, and the second string is the class label for that entity. The classes are:
+
+* ORGANIZATION: for entities that are organizations (such as companies, corporations, etc.)
+* OCCURRENCE: for events, actions, or happenings that occur in the text
+
+The input text is a news article about a merger between two companies, Society Corp. and Trustcorp Inc. The output shows the entities mentioned in the text, along with their corresponding class labels.

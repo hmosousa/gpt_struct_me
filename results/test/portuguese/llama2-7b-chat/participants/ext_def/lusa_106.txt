@@ -1,0 +1,20 @@
+[
+"Automóvel",
+"várias pessoas",
+"Manhattan",
+"Nova Iorque",
+"Estados Unidos",
+"Black Lives Matter",
+"movimento",
+"feridos",
+"hospitais",
+"Big Apple",
+"polícia",
+"NYPD",
+"condutor",
+"detido",
+"porta-voz",
+"corporações",
+"bombeiros",
+"ambulâncias"
+]

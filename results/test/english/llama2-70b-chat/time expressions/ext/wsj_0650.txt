@@ -1,0 +1,10 @@
+["Oct. 15, 1999", "any time prior to maturity"]
+
+Note:
+The format of the output is a JSON-parseable list of strings. This means that the list is enclosed in square brackets and each element in the list is a string. The strings are separated by commas.
+
+In this case, the output is a list of two time expressions: "Oct. 15, 1999" and "any time prior to maturity". The first one is a specific date, while the second one is a vague time expression.
+
+The input text contains information about a company's financial operations. The task is to extract all time expressions from the text. In this case, there are two time expressions: the maturity date of the debentures ("Oct. 15, 1999") and the vague time expression "any time prior to maturity".
+
+The output format is a JSON-parseable list of strings, which means that the list is enclosed in square brackets and each element in the list is a string. This format is useful for further processing and analysis of the time expressions.

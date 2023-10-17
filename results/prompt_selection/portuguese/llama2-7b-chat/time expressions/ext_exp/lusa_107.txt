@@ -1,0 +1,6 @@
+	["menos de uma semana", "dezenas", "12:50", "Torreira", "Murtosa", "Aveiro", "Hospital de Aveiro", "GNR", "Torreira", "havendo"]
+
+Note:
+	* Time expressions are in the format of "X semanas", "X dias", "X horas", "X minutos", "X segundos", etc.
+	* The input text contains 7 time expressions: "menos de uma semana", "há mais de uma semana", "setembro", "final do ano", "30 nov 2020", "epoca de veda", and "epocas de veda".
+	* The output list contains 8 time expressions: "menos de uma semana", "dezenas", "12:50", "Torreira", "Murtosa", "Aveiro", "Hospital de Aveiro", and "havendo".

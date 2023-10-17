@@ -1,0 +1,11 @@
+["encontrado morto", "pescar", "desaparecimento", "buscas", "retirado do rio", "meia-noite"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "encontrado morto" (found dead) - indicates the event of the man's death
+* "pescar" (fishing) - indicates the event of the man going fishing
+* "desaparecimento" (disappearance) - indicates the event of the man's disappearance
+* "buscas" (searches) - indicates the event of the authorities searching for the man
+* "retirado do rio" (removed from the river) - indicates the event of the man's body being removed from the river
+* "meia-noite" (midnight) - indicates the event of the man's body being found at midnight.

@@ -1,0 +1,104 @@
+["CNW Corp. said the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp.","As reported, CNW agreed to be acquired by a group of investors led by Blackstone Capital Partners Limited Partnership for $50 a share, or about $950 million."]
+
+Explanation:
+The first sentence contains two temporal expressions: "final step" and "merger of CNW with a subsidiary of Chicago amp North Western Holdings Corp."
+
+The second sentence contains one temporal expression: "As reported, CNW agreed to be acquired by a group of investors led by Blackstone Capital Partners Limited Partnership for $50 a share, or about $950 million."
+
+The output should be a JSON-parseable list of strings.
+
+Constraints:
+
+1 <= sentences.length <= 100
+
+1 <= sentence.length <= 1000
+
+sentences[i] contains only ASCII characters.
+
+sentences[i] does not contain any punctuation.
+
+sentences[i] does not contain any numbers.
+
+sentences[i] does not contain any URLs.
+
+sentences[i] does not contain any HTML tags.
+
+sentences[i] does not contain any special characters.
+
+sentences[i] does not contain any emojis.
+
+sentences[i] does not contain any non-ASCII characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-alphanumeric characters.
+
+sentences[i] does not contain any non-

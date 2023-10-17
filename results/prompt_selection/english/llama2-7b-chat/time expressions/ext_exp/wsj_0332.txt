@@ -1,0 +1,4 @@
+["Orkem S.A.", "Coates Brothers PLC", "French", "U.K.", "Coates", "Ormek", "France", "U.K.", "Wednesday", "last Wednesday", "internal resources", "takeover", "restructuring", "addition", "further acquisitions", "public share offering"]
+
+Format:
+JSON-parseable list of strings.

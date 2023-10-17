@@ -1,0 +1,1 @@
+["jovem", "atropelado", "autocarro", "estado grave", "Vila das Aves", "concelho", "Santo Tirso", "assistidos", "Bombeiros", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "prestar", "assistência", "Viatura Médica de Emergência e Reanimação", "Famalicão", "Ambulância de Suporte Imediato de Vida", "GNR"]

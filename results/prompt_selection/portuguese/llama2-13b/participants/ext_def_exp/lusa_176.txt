@@ -1,0 +1,21 @@
+["Um homem de 34 anos", "morreu", "o ciclomotor", "colhido", "veículo ligeiro", "na Estrada Nacional 10-8", "na zona da Mitrena", "Setúbal", "fontes", "PSP", "Proteção Civil", "Fonte", "Comando Distrital", "Operações", "Socorro", "Setúbal", "indicou", "agência", "Lusa", "obito", "homem", "declarado", "local", "corpo", "serviço", "Medicina legal", "Hospital", "São Bernardo", "Setúbal", "alerta", "acordo", "mobilizados", "bombeiros", "veículos", "corporações", "Palmela", "Sapadores", "Setúbal", "viatura", "médica", "emergência", "reanimação", "VMER", "PSP", "veículos", "apoiados", "cinco"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortos por covid-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortos por covid-19 ultrapassa 20.000, um número que não se registou em nenhuma outra cidade dos Estados Unidos.
+O número de mortos na cidade ultrapassou 20.000 no final de abril, mas a contagem foi interrompida por um mês devido a um erro de programação.
+A contagem foi recomeçada no início de junho e, desde então, o número de mortos aumentou para 20.000.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de 20.000 mortes.
+A cidade de Nova Iorque é o epicentro do surto de covid-19 nos Estados Unidos, com mais de 200.000 casos e mais de

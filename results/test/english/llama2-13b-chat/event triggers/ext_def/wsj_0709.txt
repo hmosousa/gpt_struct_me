@@ -1,0 +1,10 @@
+["expects to report net income of 15 cents a share", "release third-quarter results in mid-November", "changed from a fiscal year to a calendar year in December", "loss of about $12.5 million, or 26 cents a share", "revenue of $175.4 million", "write-down associated with the consolidation of a facility"]
+
+Explanation:
+
+* "expects to report net income of 15 cents a share" is an event trigger because it refers to a future event (the release of third-quarter results) and has a specific amount (15 cents a share) associated with it.
+* "release third-quarter results in mid-November" is an event trigger because it refers to a specific date (mid-November) and a specific action (the release of third-quarter results).
+* "changed from a fiscal year to a calendar year in December" is an event trigger because it refers to a specific action (the change in the company's fiscal year) and a specific date (December).
+* "loss of about $12.5 million, or 26 cents a share" is an event trigger because it refers to a specific amount (12.5 million) and a specific time period (the second quarter ended Oct. 31).
+* "revenue of $175.4 million" is not an event trigger because it is not related to a specific action or date, but rather provides information about the company's past performance.
+* "write-down associated with the consolidation of a facility" is an event trigger because it refers to a specific action (the consolidation of a facility) and has a specific amount (30 million) associated with it.

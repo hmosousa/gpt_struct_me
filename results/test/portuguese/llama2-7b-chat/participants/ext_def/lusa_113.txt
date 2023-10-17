@@ -1,0 +1,19 @@
+[
+"Pelo menos sete mortos",
+"sete em estado crítico",
+"três homens",
+"três mulheres",
+"uma criança de 09 anos",
+"três homens",
+"quatro mulheres",
+"duas pessoas em estado grave",
+"maioria nepalesa",
+"bombeiros",
+"medidas de segurança",
+"edifício",
+"reunião familiar",
+"restaurante sem licença",
+"janela da casa de banho",
+"apartamento",
+"conferência de imprensa"
+]

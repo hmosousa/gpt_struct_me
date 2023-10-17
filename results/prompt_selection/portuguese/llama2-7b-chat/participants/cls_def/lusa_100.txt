@@ -1,0 +1,9 @@
+[["homem", "Person"], ["ex-companheira", "Person"], ["GNR", "Organization"], ["residência", "Location"], ["local de trabalho", "Location"], ["botão de pânico", "Object"], ["teleassistência", "Other"]]
+Explanation:
+* "homem" is classified as "Person" because it refers to a human being.
+* "ex-companheira" is classified as "Person" because it refers to a human being.
+* "GNR" is classified as "Organization" because it is a government agency.
+* "residência" is classified as "Location" because it refers to a place where someone lives.
+* "local de trabalho" is classified as "Location" because it refers to a place where someone works.
+* "botão de pânico" is classified as "Object" because it is a physical object.
+* "teleassistência" is classified as "Other" because it is a term that refers to a specific type of assistance, rather than a physical location or a living being.

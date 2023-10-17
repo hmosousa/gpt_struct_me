@@ -1,0 +1,7 @@
+["Homem morre", "ciclomotor", "veículo ligeiro", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "CDOS", "Lusa", "hospital de São Bernardo", "bombeiros", "veículos", "Palmela", "Sapadores de Setúbal", "viatura médica de emergência e reanimação", "VMER"]
+
+Note:
+
+* All participants are extracted in lowercase.
+* No distinction is made between participants and locations.
+* The output is a JSON-parseable list of strings.

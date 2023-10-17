@@ -1,0 +1,11 @@
+[
+"noite de domingo",
+"princípio da noite",
+"domingo"
+]
+
+Explanation:
+
+* "noite de domingo" is a time expression that refers to the night of Sunday.
+* "princípio da noite" is a time expression that refers to the beginning of the night.
+* "domingo" is a day of the week, in this case, Sunday.

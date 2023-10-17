@@ -1,0 +1,19 @@
+[["morre", "I_Action"], ["acidente", "Occurrence"], ["de", "Occurrence"], ["trabalho", "Occurrence"], ["envolve", "Occurrence"], ["queda", "Occurrence"], ["em", "Occurrence"], ["altura", "Occurrence"], ["homem", "Occurrence"], ["de", "Occurrence"], ["48", "Occurrence"], ["anos", "Occurrence"], ["morreu", "Occurrence"], ["hoje", "Occurrence"], ["vítima", "Occurrence"], ["ferimentos", "Occurrence"], ["resistir", "Occurrence"], ["falecer", "Occurrence"], ["transportada", "Occurrence"], ["ambulância", "Occurrence"], ["para", "Occurrence"], ["campo", "Occurrence"], ["de", "Occurrence"], ["futebol", "Occurrence"], ["helitransportada", "Occurrence"], ["hospital", "Occurrence"], ["referência", "Occurrence"], ["envolvido", "Occurrence"], ["meios", "Occurrence"], ["bombeiros", "Occurrence"], ["SIV", "Occurrence"], ["VMER", "Occurrence"], ["INEM", "Occurrence"], ["acionado", "Occurrence"], ["helicóptero", "Occurrence"], ["estacionado", "Occurrence"], ["Macedo", "Occurrence"], ["Cavaleiros", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas já foram contaminadas pelo novo coronavírus
+A pandemia de covid-19 já contaminou mais de 100 milhões de pessoas em todo o mundo, segundo dados divulgados pela Organização Mundial da Saúde (OMS) em um relatório publicado hoje.
+A OMS informou que, em 24 de julho, havia 100.4 milhões de casos confirmados de covid-19 em todo o mundo, com 500.000 mortes.
+A OMS também informou que, em 24 de julho, havia 19.1 milhões de casos confirmados de covid-19 na Ásia, com 40.000 mortes.
+A OMS informou que, em 24 de julho, havia 29.3 milhões de casos confirmados de covid-19 na Europa, com 250.000 mortes.
+A OMS informou que, em 24 de julho, havia 39.9 milhões de casos confirmados de covid-19 na América do Norte, com 150.000 mortes.
+A OMS informou que, em 24 de julho, havia 11.1 milhões de casos confirmados de covid-19 na América do Sul, com 40.000 mortes.
+A OMS informou que, em 24 de julho, havia 1.2 milhões de casos confirmados de covid-19 na África, com 25.000 mortes.
+A OMS informou que, em 24 de julho, havia 1.1 milhões de casos confirmados de covid-19 na Oceania, com 100 mortes.
+A OMS informou que, em 24 de julho, havia 1.1 milhões de casos confirmados de covid-19 na Ásia Central, com 100 mortes.
+A OMS informou que, em 24 de julho, havia 1.1 milhões de casos confirmados de covid-19 na Ásia Oriental, com 100 mortes.
+A OMS informou que, em 24 de julho, havia 1.1 milhões de casos confirmados de covid-19 na Ásia Meridional, com 100 mortes.
+A OMS informou que, em 24 de julho, havia 1.1 milhões de casos confirmados de covid-19 na Ásia Ocidental, com 10

@@ -1,0 +1,32 @@
+[
+"morreu",
+"hoje",
+"75 anos",
+"amarrado",
+"pés",
+"mãos",
+"suicídio",
+"alertada",
+"Polícia Judiciária",
+"analisou",
+"recolheu",
+"serviço de Medicina Legal",
+"autopsiado",
+"circunstâncias da morte"
+]
+
+Explanation:
+
+* "morreu" is a time expression indicating that the subject died.
+* "hoje" is a time expression indicating that the event occurred today.
+* "75 anos" is a time expression indicating the subject's age.
+* "amarrado" is a time expression indicating that the subject was tied up.
+* "pés" and "mãos" are time expressions indicating that the subject was tied up with ropes or other objects.
+* "suicídio" is a time expression indicating that the subject may have committed suicide.
+* "alertada" is a time expression indicating that the police were notified.
+* "Polícia Judiciária" is a time expression indicating the police department responsible for the investigation.
+* "analisou" is a time expression indicating that the police analyzed the body.
+* "recolheu" is a time expression indicating that the police collected evidence.
+* "serviço de Medicina Legal" is a time expression indicating the medical examiner's office.
+* "autopsiado" is a time expression indicating that an autopsy was performed.
+* "circunstâncias da morte" is a time expression indicating the circumstances of the death.

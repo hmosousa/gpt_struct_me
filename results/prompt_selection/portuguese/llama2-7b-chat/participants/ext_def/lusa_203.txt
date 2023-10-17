@@ -1,0 +1,17 @@
+[
+"Homem",
+"Yang",
+"Kaiyuan",
+"Liaoning",
+"suspeito",
+"detido",
+"motivo",
+"arma",
+"faca",
+"escola",
+"jardim de infância",
+"Guangxi",
+"segurança",
+"Pequim",
+"centro comercial"
+]

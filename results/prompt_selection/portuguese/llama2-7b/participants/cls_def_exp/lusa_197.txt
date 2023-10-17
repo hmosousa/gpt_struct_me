@@ -1,0 +1,20 @@
+[["Grua de camião", "Obj"], ["derrubou", "Per"], ["poste de iluminação", "Fac"], ["no Porto", "Loc"], ["e matou", "Per"], ["homem de 52 anos", "Per"], ["hoje", "Per"], ["um", "Per"], ["outro", "Per"], ["sofreu ferimentos", "Per"], ["ligeiros", "Per"], ["na sequência", "Per"], ["um camião", "Obj"], ["que", "Per"], ["derrubou", "Per"], ["um poste", "Fac"], ["de eletricidade", "Fac"], ["na Rua", "Loc"], ["da Constituição", "Loc"], ["de acordo", "Per"], ["com a fonte", "Org"], ["das Relações Públicas", "Org"], ["do Comando Metropolitano", "Org"], ["da PSP", "Org"], ["do Porto", "Loc"], ["o poste", "Fac"], ["de iluminação", "Fac"], ["atingindo", "Per"], ["o homem", "Per"], ["que", "Per"], ["circulava", "Per"], ["na rua", "Loc"], ["a vítima", "Per"], ["também", "Per"], ["foi", "Per"], ["transportada", "Per"], ["com vida", "Per"], ["para", "Loc"], ["o Hospital", "Loc"], ["de Santo António", "Loc"], ["mas", "Per"], ["acabou", "Per"], ["por morrer", "Per"], ["o acidente", "Per"], ["ocorreu", "Per"], ["cerca", "Per"], ["das", "Per"], ["07:50", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades francesas detêm 10 pessoas suspeitas de terrorismo
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, incluindo um homem que se apresentou como um jornalista, informou hoje a polícia.
+A polícia francesa detém 1

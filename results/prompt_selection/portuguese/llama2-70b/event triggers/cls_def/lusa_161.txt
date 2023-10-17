@@ -1,0 +1,1 @@
+[["homem", "Occurrence"], ["ex-companheira", "State"], ["tiro", "Reporting"], ["Vila Nova de Gaia", "Aspectual"], ["disparo", "Intensional Action"], ["arma de fogo", "Perception"], ["ex-companheira", "State"], ["GNR", "State"], ["crime", "Occurrence"], ["Rua da Figueirinha", "State"], ["Grijó", "State"], ["Porto", "State"], ["vítima", "State"], ["mulher", "State"]]

@@ -1,0 +1,1 @@
+[["em Sines", "Location"], ["sábado", "Date"], ["1.673", "Duration"], ["1.570", "Duration"], ["103", "Duration"], ["844", "Duration"], ["5", "Duration"], ["Tribunal Judicial de Santiago do Cacém", "Location"]]

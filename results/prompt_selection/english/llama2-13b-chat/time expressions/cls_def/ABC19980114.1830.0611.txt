@@ -1,0 +1,23 @@
+[
+["TWA eight hundred", "Date"],
+["moment", "Duration"],
+["last conversation", "Set"],
+["sixteen thousand feet", "Duration"],
+["it just went down", "Set"],
+["big small smoke", "Set"],
+["one point", "Set"],
+["God bless him", "Set"]
+]
+
+Explanation:
+
+1. "TWA eight hundred" is a date expression, referring to a specific flight.
+2. "moment" is a duration expression, referring to a brief period of time.
+3. "last conversation" is a set expression, referring to the final conversation between controllers and the pilot.
+4. "sixteen thousand feet" is a duration expression, referring to the altitude at which the explosion occurred.
+5. "it just went down" is a set expression, referring to the plane's descent.
+6. "big small smoke" is a set expression, referring to the smoke produced by the explosion.
+7. "one point" is a set expression, referring to a specific moment in time.
+8. "God bless him" is a set expression, referring to a prayer said by someone.
+
+Note: In this example, the input text is a news report about the crash of TWA Flight 800, and the output list contains all the time expressions found in the text, along with their corresponding classes (Date, Duration, Set, etc.).

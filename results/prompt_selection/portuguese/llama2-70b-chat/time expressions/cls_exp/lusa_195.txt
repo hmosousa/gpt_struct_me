@@ -1,0 +1,19 @@
+[["na passada quarta-feira", "Date"], ["hoje", "Date"], ["Alto da Guerra", "Location"], ["sexagenário", "Age"], ["jovem", "Age"], ["um disparo de arma de fogo", "Time"], ["homicídio qualificado", "Time"], ["prisão preventiva", "Time"]]
+
+Note:
+
+* Date: Representa qualquer data, incluindo dias, semanas, meses e anos.
+* Time: Representa qualquer hora, incluindo horas, minutos e segundos.
+* Duration: Representa qualquer quantidade de tempo, incluindo dias, horas, minutos e segundos.
+* Set: Representa um conjunto de objetos ou pessoas, incluindo coletividades, grupos e organizações.
+* Location: Representa qualquer localização, incluindo cidades, países, regiões e lugares específicos.
+* Age: Representa qualquer idade, incluindo números inteiros e fracionários.
+
+Tarefa:
+Identificar e extrair todas as expressões de tempo e clasificá-las em uma das quatro classes: Date, Time, Duration e Set.
+
+Entrada:
+Uma string contendo texto em português.
+
+Saída:
+Uma lista JSON-parseável contendo todos os tempos extraídos e suas respectivas classes. Cada elemento da lista é uma lista com dois elementos: a expressão de tempo e a classe correspondente.

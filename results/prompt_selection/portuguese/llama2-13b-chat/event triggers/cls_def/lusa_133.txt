@@ -1,0 +1,48 @@
+[
+["GNR", "State"],
+["Aveiro", "Location"],
+["atum-rabilho", "Object"],
+["390 quilogramas", "Quantity"],
+["captura", "Event"],
+["interdita", "Aspectual"],
+["coima", "Event"],
+["37.500 euros", "Quantity"],
+["pesca costeira", "Location"],
+["Gafanha da Nazaré", "Location"],
+[" Guarda", "Organization"],
+["fiscalização", "Event"],
+["regras de descarga", "Event"],
+["transporte", "Event"],
+["comercialização", "Event"],
+["primeira venda", "Event"],
+["embarcação de pesca", "Object"],
+["identificados", "Aspectual"],
+["condutor do veículo", "Agent"],
+["mestre da embarcação", "Agent"],
+["auto de contraordenação", "Event"],
+["infração punível", "Aspectual"],
+["higiossanitário", "Aspectual"],
+["propio para consumo", "Aspectual"],
+["doado a uma instituição de solidariedade social", "Event"]
+]
+
+Explanation:
+
+* GNR is an event trigger as it refers to the action of the Guarda Nacional Republicana (National Republican Guard)
+* Aveiro is a location trigger as it refers to the city of Aveiro
+* atum-rabilho is an object trigger as it refers to a type of fish
+* 390 quilogramas is a quantity trigger as it refers to the weight of the fish
+* captura is an event trigger as it refers to the act of capturing the fish
+* interdita is an aspectual trigger as it refers to the fact that the capture is forbidden
+* coima is an event trigger as it refers to the fine that can be imposed for the infraction
+* 37.500 euros is a quantity trigger as it refers to the maximum fine that can be imposed
+* pesca costeira is a location trigger as it refers to the coastal fishing area
+* Gafanhada Nazaré is a location trigger as it refers to the location of the fishing area
+* Guarda is an organization trigger as it refers to the Guarda Nacional Republicana (National Republican Guard)
+* fiscalização is an event trigger as it refers to the act of inspecting or controlling
+* regras de descarga, transporte, comercialização e regime de primeira venda de pescado fresco is an event trigger as it refers to the regulations regarding the unloading, transportation, commercialization, and first sale of fresh fish
+* embarcação de pesca is an object trigger as it refers to the fishing boat
+* identificados is an aspectual trigger as it refers to the fact that the driver and the master of the boat were identified
+* auto de contraordenação is an event trigger as it refers to the act of issuing an order to prevent the boat from continuing its journey
+* infração punível is an aspectual trigger as it refers to the fact that the infraction is punishable
+* higiossanitário is an aspectual trigger as it refers to the fact that the fish was subjected to a hyg

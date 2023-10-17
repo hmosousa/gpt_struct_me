@@ -1,0 +1,9 @@
+[
+"21:40",
+"23:30"
+]
+
+Explanation:
+
+* 21:40: Time of the accident.
+* 23:30: Time when the traffic resumed.

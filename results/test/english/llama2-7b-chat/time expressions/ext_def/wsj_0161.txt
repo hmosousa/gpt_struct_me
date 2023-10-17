@@ -1,0 +1,3 @@
+["in a third-quarter", "of $17 million to $19 million", "because of special reserves", "continued low natural-gas prices", "a $7.5 million reserve", "including a $4.7 million charge", "and $2.8 million in overhead costs", "about $3.5 million in costs", "related to international exploration leases", "where exploration efforts have been unsuccessful", "interest costs", "and amortization of goodwill"]
+Note:
+The output is a list of strings, each representing a time expression found in the input text.

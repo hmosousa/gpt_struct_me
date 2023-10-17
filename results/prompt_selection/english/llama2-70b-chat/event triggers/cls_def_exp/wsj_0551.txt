@@ -1,0 +1,93 @@
+[["Trustcorp Inc.", "OCCURRENCE"], ["Society Bank amp Trust", "OCCURRENCE"], ["Society Corp.", "OCCURRENCE"], ["June", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["$450 million", "OCCURRENCE"], ["year end", "OCCURRENCE"]]
+
+Input:
+"The company said it will sell its assets to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company will sell its assets to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company sold its assets to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company has sold its assets to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company had sold its assets to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company will be sold to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company is being sold to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company has been sold to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company had been sold to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company will be shut down to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["shut down", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company is being shut down to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["shut down", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company has been shut down to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["shut down", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company had been shut down to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["shut down", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company will go bankrupt to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["go bankrupt", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:
+"The company is going bankrupt to pay off debts."
+
+Output:
+[["company", "OCCURRENCE"], ["go bankrupt", "OCCURRENCE"], ["debts", "OCCURRENCE"]]
+
+Input:

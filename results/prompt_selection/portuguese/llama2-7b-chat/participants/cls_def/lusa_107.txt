@@ -1,0 +1,30 @@
+[
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Homem",
+"class": "Person"
+},
+{
+"entity": "Viatura",
+"class": "Object"
+},
+{
+"entity": "Cais",
+"class": "Location"
+},
+{
+"entity": "Torreira",
+"class": "Location"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Bombeiros",
+"class": "Organization"
+}
+]

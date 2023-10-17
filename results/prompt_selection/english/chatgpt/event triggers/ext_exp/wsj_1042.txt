@@ -1,0 +1,1 @@
+["declared", "issued", "said", "purchase", "exercise", "issue", "will issue"]

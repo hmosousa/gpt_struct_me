@@ -1,0 +1,38 @@
+[
+["Homem", "State"],
+["caiu", "Occurrence"],
+["hoje", "Aspectual"],
+["num poço", "Intensional Action"],
+["com cerca de 25 metros", "Intensional State"],
+["tendo sido resgatado", "Reporting"],
+["sem ferimentos graves", "Reporting"],
+["A queda", "Occurrence"],
+["ocorreu", "Aspectual"],
+["devido ao facto de a tampa do poço", "Intensional Action"],
+["ter-se partido", "Occurrence"],
+["quando o homem estava em cima", "Intensional State"],
+["acabando por cair", "Occurrence"],
+["até à profundidade coberta pela água", "Intensional State"],
+["Recorrendo a uma equipa de grande ângulo", "Intensional Action"],
+["com o auxílio de cordas", "Intensional Action"],
+["os bombeiros resgataram o homem", "Reporting"],
+["cerca das 17:15", "Aspectual"],
+["após o que foi estabilizado", "Reporting"],
+["dado que estava em hipotermia", "Reporting"],
+["tendo recusado o transporte para o hospital de Santa Maria da Feira", "Reporting"],
+["A GNR de Santa Maria da Feira", "State"],
+["esteve também no local", "Occurrence"],
+["e tomou conta da ocorrência", "Reporting"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to the state of something or someone, such as "Homem" (man) in the sentence "Homem resgatado" (man rescued)
+* Occurrence: refers to an event or action that is happening or has happened, such as "caiu" (fell) in the sentence "Um homem caiu hoje" (A man fell today)
+* Aspectual: refers to the aspect of an action or event, such as "hoje" (today) in the sentence "Um homem caiu hoje" (A man fell today)
+* Reporting: refers to the fact that something is being reported or mentioned, such as "tendo sido resgatado" (having been rescued) in the sentence "Homem resgatado" (man rescued)
+* Intensional Action: refers to an action that is intended or planned, such as "Recorrendo a uma equipa de grande ângulo" (Using a large angle team) in the sentence "Recorrendo a uma equipa de grande ângulo e com o auxílio de cordas, os bombeiros resgataram o homem" (Using a large angle team and with the help of ropes, the firefighters rescued the man)
+* Intensional State: refers to a state that is intended or planned, such as "com cerca de 25 metros" (with about 25 meters) in the sentence "Um homem caiu hoje num poço com cerca de 25 metros" (A man fell today into a well with about 25 meters)
+
+The goal is to extract and classify all event triggers in the given text, which are the words or phrases that indicate the occurrence of an event or action. In this case, the event triggers are "caiu" (fell), "resgatado" (rescued), "ocorreu" (occurred), "ter-se partido" (had broken), "acabando por cair" (ending up falling), "estabelecido" (established), "dado que estava em hipotermia" (since he was in hypothermia), "tendo recusado o transporte" (having refused transportation), "esteve" (was), "tomou conta" (took charge).

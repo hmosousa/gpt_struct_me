@@ -1,0 +1,15 @@
+
+List of strings, where each string is a participant in the text.
+
+Note:
+
+* Participants are defined as any entity mentioned in the text, including people, places, organizations, and objects.
+* Participants are identified based on their mention in the text, regardless of their role or status.
+* The output should be a JSON-parseable list of strings, where each string is a participant in the text.
+
+Example:
+
+Input: "Encontrado corpo de homem em zona rochosa na costa da Terceira"
+
+Output:
+["Encontrado", "corpo", "de", "homem", "em", "zona", "rochosa", "na", "costa", "da", "Terceira"]

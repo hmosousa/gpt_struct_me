@@ -1,0 +1,19 @@
+["hoje", "manhã", "11:45"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+Hint:
+You can use the following regular expressions to match time expressions:
+
+* \b(hoje|amanhã|ontem|anteontem|semana|mês|ano|década|semanas?|dias?|horas?|minutos?|segundos?)\b
+* \b(às (1[0-2]|[1-9]|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24))?\b
+* \b(às (0[0-9]|1[0-9]|2[0-3])?\b
+* \b(p.m.|p.m)?\b
+* \b(a.m.|a.m)?\b
+
+You can use these regular expressions to extract time expressions from the text.
+
+Note that the regular expressions above are in a simplified form and may not match all possible time expressions. You may need to adjust them to match the specific format of the input text.

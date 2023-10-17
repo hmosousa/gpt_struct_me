@@ -1,0 +1,1 @@
+[["declared", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["exercise", "OCCURRENCE"], ["enable", "OCCURRENCE"], ["based", "STATE"], ["said", "REPORTING"], ["outstanding", "ASPECTUAL"], ["warrant", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["rate", "I_ACTION"]]

@@ -1,0 +1,52 @@
+[['homem', 'Occurrence'], ['ciclomotor', 'State'], ['veículo ligeiro', 'Reporting'], ['Estrada Nacional 10-8', 'Aspectual'], ['zona da Mitrena', 'Perception'], ['Setúbal', 'Intensional Action']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the data from a file and tokenize it
+with open('data/task2.txt') as f:
+   text = f.read()
+tokens = word_tokenize(text)
+
+# Remove punctuation marks
+punctuations = set("!?.,;:'\"")
+for i in range(len(tokens)):
+   if tokens[i] in punctuations:
+       del tokens[i]
+
+# Strip all words of their accents
+noAccentTokens = []
+for w in tokens:
+   noAccentTokens += [w.strip().lower()]
+tokens = noAccentTokens
+
+# Remove stopwords
+stopWords = set(stopwords.words())
+for i in range(len(tokens)):
+   if tokens[i] in stopWords:
+       del tokens[i]
+
+# Stem each word using the Porter stemming algorithm
+porterStemmer = PorterStemmer()
+stems = []
+for t in tokens:
+   stems += [porterStemmer.stem(t)]
+tokens = stems
+
+# Tag each word with its part-of-speech tag
+posTags = pos_tag(tokens)
+
+# Parse the sentence into chunks
+parser = ChunkParserI()
+chunks = parser.parse(posTags)
+
+# Get the list of noun phrases (NPs)
+nps = []
+for c in chunks:
+   if type(c).__name__ ==

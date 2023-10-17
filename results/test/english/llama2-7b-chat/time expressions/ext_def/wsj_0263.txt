@@ -1,0 +1,12 @@
+["2-for-1", "quarterly", "Jan. 3", "Nov. 16", "10.2 million", "21%", "29 cents", "Aug. 26", "a year earlier", "24 cents"]
+Explanation:
+* "2-for-1" is a time expression representing a stock split.
+* "quarterly" is a time expression representing a dividend payment.
+* "Jan. 3" is a time expression representing the date of dividend payment.
+* "Nov. 16" is a time expression representing the date of stock record.
+* "10.2 million" is a time expression representing the number of shares outstanding.
+* "21%" is a time expression representing the percentage increase in net income.
+* "29 cents" is a time expression representing the adjusted dividend payment.
+* "Aug. 26" is a time expression representing the date of the quarter ended.
+* "a year earlier" is a time expression representing the previous year's earnings.
+* "24 cents" is a time expression representing the previous year's adjusted dividend payment.

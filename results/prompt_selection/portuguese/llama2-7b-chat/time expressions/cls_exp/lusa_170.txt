@@ -1,0 +1,1 @@
+[["Encontrado", "Object"], ["corpo", "Object"], ["zona rochosa", "Location"], ["costa da Terceira", "Location"], ["segunda-feira", "Date"], ["Autoridade Marítima", "Organization"], ["Comando-Local", "Organization"], ["Polícia Marítima", "Organization"], ["Angra do Heroísmo", "Location"]]

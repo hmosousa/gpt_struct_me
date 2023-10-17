@@ -1,0 +1,11 @@
+[
+"Assassinos contratados",
+"sicários",
+"cartéis rivais",
+"vítimas",
+"Tangamandapio",
+"Ministério Público",
+"México",
+"narcotráfico",
+"violência"
+]

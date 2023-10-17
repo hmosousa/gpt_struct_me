@@ -1,0 +1,1 @@
+[["homem", "Entity"], ["ex-companheira", "Entity"], ["tiro", "Entity"], ["arma de fogo", "Entity"], ["Vila Nova de Gaia", "Location"], ["Rua da Figueirinha", "Location"], ["Grijó", "Location"], ["Porto", "Location"], ["10:30", "Time"], ["62 anos", "Duration"], ["20 anos", "Duration"], ["relação", "Entity"]]

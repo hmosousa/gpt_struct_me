@@ -1,0 +1,17 @@
+[
+"declared",
+"payable",
+"record",
+"payable",
+"record",
+"cash dividend",
+"payable",
+"record",
+"cash dividend",
+"paid on",
+"new shares",
+"should improve",
+"liquidity",
+"company has",
+"outstanding"
+]

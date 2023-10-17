@@ -1,1 +1,0 @@
-["Encontrado corpo de homem", "detetado", "alertado", "presença do corpo de um homem", "informação foi recebida", "foram ao local", "confirmaram", "foi retirado do local", "transportado para o Hospital de Angra do Heroísmo", "será autopsiado"]

@@ -1,0 +1,10 @@
+[
+  ["Coda Energy Inc.", "State"],
+  ["Coda Energy Inc.", "Occurrence"],
+  ["Coda Energy Inc.", "Reporting"],
+  ["Coda Energy Inc.", "Perception"],
+  ["Coda Energy Inc.", "Aspectual"],
+  ["Coda Energy Inc.", "Intensional Action"],
+  ["Coda Energy Inc.", "Intensional State"]
+]
+

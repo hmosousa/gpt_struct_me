@@ -1,0 +1,9 @@
+["meets", "says", "moves", "stretch", "effort"]
+
+Explanation:
+
+* "meets" is an event trigger because it refers to a concrete action that will take place (the meeting between Netanyahu and Arafat)
+* "says" is an event trigger because it refers to a statement made by Netanyahu
+* "moves" is an event trigger because it refers to a change in the state of affairs (Israel might be willing to move on issues)
+* "stretch" is an event trigger because it refers to an action that might be taken (Israel might be asked to stretch itself)
+* "effort" is an event trigger because it refers to an action that might be taken (an equal effort must be made by the Palestinians)

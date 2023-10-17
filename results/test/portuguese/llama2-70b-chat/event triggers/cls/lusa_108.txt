@@ -1,0 +1,47 @@
+[
+["Agente da polícia", "State"],
+["colega", "State"],
+["discussão", "Occurrence"],
+["motivos", "Aspectual"],
+["disparou", "Intensional Action"],
+["alvejando-o mortalmente", "Intensional State"],
+["incidente", "Occurrence"],
+["polícia", "State"],
+["PRM", "State"],
+["Departamento de Proteção dos Recursos Naturais e Meio Ambiente", "State"],
+["distrito de Magude", "State"],
+["província de Maputo", "State"],
+["acampamento", "State"],
+["madrugada de quinta-feira", "State"],
+["atividade de patrulha", "Occurrence"],
+["zona protegida", "State"],
+["tiro", "Occurrence"],
+["colegas", "State"],
+["autor do crime", "State"],
+["processos", "Occurrence"],
+["comando", "State"]
+]
+
+Explanation:
+
+* "Agente da polícia" is a State entity because it refers to a person's profession.
+* "colega" is a State entity because it refers to a person's colleague.
+* "discussão" is an Occurrence entity because it refers to an event happening.
+* "motivos" is an Aspectual entity because it refers to the reasons behind the event.
+* "disparou" is an Intensional Action entity because it refers to the action of shooting.
+* "alvejando-o mortalmente" is an Intensional State entity because it refers to the result of the shooting.
+* "incidente" is an Occurrence entity because it refers to an event happening.
+* "polícia" is a State entity because it refers to a profession.
+* "PRM" is a State entity because it refers to a organization.
+* "Departamento de Proteção dos Recursos Naturais e Meio Ambiente" is a State entity because it refers to a department.
+* "distrito de Magude" is a State entity because it refers to a district.
+* "província de Maputo" is a State entity because it refers to a province.
+* "acampamento" is a State entity because it refers to a camp.
+* "madrugada de quinta-feira" is a State entity because it refers to a time period.
+* "atividade de patrulha" is an Occurrence entity because it refers to an event happening.
+* "zona protegida" is a State entity because it refers to a protected area.
+* "tiro" is an Occurrence entity because it refers to a shooting event.
+* "colegas" is a State entity because it refers to a group of people.
+* "autor do crime" is a State entity because it refers to a person who committed a crime.
+* "processos" is an Occurrence entity because it refers to a legal process.
+* "comando" is a State entity because it refers to a command or leadership.

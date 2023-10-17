@@ -1,0 +1,18 @@
+[
+"recently",
+"currently",
+"two to six days",
+"um",
+"a year or two",
+"several years",
+"about to die",
+"without a liver transplant",
+"over the years",
+"the early years",
+"our system",
+"right in the middle",
+"very well",
+"five months ago",
+"five months",
+"shortest supply"
+]

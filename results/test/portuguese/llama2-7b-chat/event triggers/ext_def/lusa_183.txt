@@ -1,0 +1,10 @@
+[
+"injuriar",
+"ameaçar",
+"perseguir",
+"violência doméstica",
+"contole",
+"perseguição",
+"danos",
+"veículo"
+]

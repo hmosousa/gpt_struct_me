@@ -1,0 +1,5 @@
+	["General Motors Corp.", "Jaguar PLC", "Ford Motor Co.", "U.S. antitrust clearance", "15%", "Detroit", "London", "Tuesday", "yesterday", "Dec. 31, 1990", "1984", "British Petroleum Co.", "Britoil PLC", "House of Commons", "House of Lords", "Roger Smith", "Margaret Thatcher", "Sir John Egan"]
+
+Format:
+
+JSON-parseable list of strings.

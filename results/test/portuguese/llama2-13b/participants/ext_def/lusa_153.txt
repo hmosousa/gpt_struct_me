@@ -1,0 +1,5 @@
+["homem", "esposa", "militares", "mulher", "suspeito", "vítima", "encontro", "prática", "crime", "antecedentes", "interrogatório", "medida", "reforço"]
+
+Explanation:
+The participants in this news article are the homem (man), esposa (wife), militares (military), mulher (woman), suspeito (suspect), vítima (victim), encontro (meeting), prática (practice), crime, antecedentes (past), interrogatório (interrogation), medida (measure), and reforço (reinforcement).
+

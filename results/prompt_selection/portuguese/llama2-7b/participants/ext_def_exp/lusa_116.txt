@@ -1,0 +1,14 @@
+["Jovem", "de", "14", "anos", "em", "estado", "grave", "após", "ser", "atropelado", "por", "autocarro", "em", "Santo", "Tirso", "Um", "jovem", "de", "14", "anos", "ficou", "hoje", "em", "estado", "grave", "após", "ter", " sido", "atropelado", "por", "um", "autocarro", "na", "Vila", "das", "Aves", "concelho", "de", "Santo", "Tirso", "diz", "à", "Lusa", "fonte", "da", "Proteção", "Civil", "O", "jovem", "de", "14", "anos", "ficou", "hoje", "em", "estado", "grave", "após", "ter", " sido", "atropelado", "por", "um", "autocarro", "na", "Rua", "Luís", "Gonzaga", "Mendes", "de", "Carvalho", "No", "local", "a", "prestar", "assistência", "para", "além", "dos", "Bombeiros", "da", "Vila", "das", "Aves", "esteve", "a", "Viatura", "Médica", "de", "Emergência", "e", "Reanimação", "de", "Vila", "Nova", "de", "Famalicão", "a", "Ambulância", "de", "Suporte", "Imediato", "de", "Vida", "de", "Santo", "Tirso", "e", "a", "GNR", "local", "diz", "à", "Lusa", "fonte", "da", "corporação"]
+
+Input:
+"Autoridades de Nova Iorque investigam morte de mulher de 22 anos
+A polícia de Nova Iorque está investigando a morte de uma mulher de 22 anos, que foi encontrada morta na casa de um amigo em Manhattan, informou a agência de notícias Reuters.
+A mulher, que não foi identificada, foi encontrada morta na casa de um amigo em Manhattan, no domingo, informou a polícia.
+A polícia não divulgou mais informações sobre o caso, mas disse que a morte não parecia ser um crime.
+A polícia de Nova Iorque não respondeu às informações da Reuters sobre o caso."
+
+Output:
+["Autoridades", "de", "Nova", "Iorque", "investigam", "morte", "de", "mulher", "de", "22", "anos", "A", "polícia", "de", "Nova", "Iorque", "está", "investigando", "a", "morte", "de", "uma", "mulher", "de", "22", "anos", "que", "foi", "encontrada", "morta", "na", "casa", "de", "um", "amigo", "em", "Manhattan", "no", "domingo", "informou", "a", "agência", "de", "notícias", "Reuters", "A", "mulher", "de", "22", "anos", "foi", "encontrada", "morta", "na", "casa", "de", "um", "amigo", "em", "Manhattan", "no", "domingo", "informou", "a", "polícia", "de", "Nova", "Iorque", "a", "morte", "não", "parecia", "ser", "um", "crime", "A", "polícia", "de", "Nova", "Iorque", "não", "respondeu", "às", "informações", "da", "Reuters", "sobre", "o", "caso"]
+
+Input:
+"Autoridades de Nova Iorque investigam morte de mul

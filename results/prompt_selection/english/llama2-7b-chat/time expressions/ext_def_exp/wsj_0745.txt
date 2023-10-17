@@ -1,0 +1,5 @@
+	["nearly two months", "Tuesday", "last week", "Detroit", "Jaguar", "Ford", "15%", "Dec. 31, 1990", "1984", "British Petroleum Co.", "Britoil PLC", "House of Commons", "House of Lords", "Roger Smith", "Sir John Egan", "Margaret Thatcher"]
+
+Format:
+
+JSON-parseable list of strings.

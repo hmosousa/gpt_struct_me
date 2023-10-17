@@ -1,0 +1,11 @@
+["Homem morre atingido por árvore de grande porte em Barcelos", "Um homem com cerca de 50 anos morreu hoje em Milhazes", "Segundo as primeiras informações, o homem estaria a cortar a árvore e terá sido atingido pela mesma", "O alerta foi dado pelas 11:50", "Tendo sido mobilizados para o local os Bombeiros Voluntários de Barcelinhos e uma viatura médica de emergência e reanimação", "O óbito foi declarado no local", "A GNR tomou conta da ocorrência"]
+
+Note:
+- The list of strings should be in the format of a JSON-parseable list.
+- The list should contain all the event triggers present in the input text.
+- The list should be ordered in the order in which the events occur in the text.
+
+Hint:
+- Look for verbs or verb phrases that indicate an action or a state of being.
+- Pay attention to the temporal information provided in the text, such as "hoje" (today) and "pelas 11:50" (at 11:50).
+- Use a combination of part-of-speech tagging and dependency parsing to identify the event triggers.

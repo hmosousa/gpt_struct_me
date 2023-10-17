@@ -1,0 +1,26 @@
+[
+["Belmonte", "Location"],
+["GNR", "Organization"],
+["47 anos", "Person"],
+["ex-companheira", "Person"],
+["violência doméstica", "Nature"],
+["armas de fogo", "Object"],
+["carabinas de ar comprimido", "Object"],
+["caçadeira", "Object"],
+["reprodução de arma de fogo", "Object"],
+["pistola de ar comprimido", "Object"],
+["facão de ponta e mola", "Object"],
+["munções de diferentes calibres", "Object"]
+]
+
+Explanation:
+
+* Belmonte is a location.
+* GNR is an organization.
+* The 47-year-old man is a person.
+* His ex-companion is also a person.
+* Violence domestic is a nature.
+* The weapons seized are objects.
+* The locations searched are locations.
+
+Note: In this task, we are only classifying entities mentioned in the text, not the relationships between them.

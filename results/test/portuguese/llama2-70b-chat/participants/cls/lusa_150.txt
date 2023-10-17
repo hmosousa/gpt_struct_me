@@ -1,0 +1,26 @@
+[
+["Soumaila Cissé", "Person"],
+["Governo do Mali", "Organization"],
+["França", "Location"],
+["Agência France-Presse", "Organization"],
+["União para a República e a Democracia", "Organization"],
+["Tumbuktu", "Location"],
+["Sophie Pétronin", "Person"],
+["Itália", "Location"],
+["Engenheiro de computação", "Nature"]
+]
+
+Explanation:
+The input text mentions several entities and their relationships. The task is to extract and classify each entity into one of the predefined classes.
+
+* Soumaila Cissé is a Person.
+* Governo do Mali is an Organization.
+* França is a Location.
+* Agência France-Presse is an Organization.
+* União para a República e a Democracia is an Organization.
+* Tumbuktu is a Location.
+* Sophie Pétronin is a Person.
+* Itália is a Location.
+* Engenheiro de computação is a Nature.
+
+The output is a list of pairs, where each pair consists of the entity and its corresponding class.

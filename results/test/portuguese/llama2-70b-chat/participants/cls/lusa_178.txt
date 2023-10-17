@@ -1,0 +1,63 @@
+[
+["Homem", "Person"],
+["Marvão", "Location"],
+["Estrada Municipal 524", "Location"],
+["Proteção Civil", "Organization"],
+["GNR", "Organization"],
+["hospital de Portalegre", "Facility"],
+["VMER", "Facility"],
+["Bica", "Location"],
+["Beirã", "Location"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["Medicina Legal", "Facility"],
+["bombeiros", "Organization"],
+["corporação de Marvão", "Organization"],
+["GNR", "Organization"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are the ones you defined.
+
+This task is a classic example of named entity recognition (NER) and classification. Your goal is to identify and classify all the entities in the given text into the predefined classes.
+
+You can use any technique or tool you like to solve this task. Some popular approaches for NER include rule-based methods, machine learning models, and deep learning models like BERT and its variants.
+
+You can also use spaCy, a modern NLP library for Python, to perform NER and entity classification. spaCy provides high-performance, streamlined processing of text data, including NER and entity classification.
+
+You can install spaCy using pip:
+
+pip install spacy
+
+Then, you can use the spaCy library to perform NER and entity classification on the given text, like this:
+
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+
+entities = nlp(text)
+
+for entity in entities:
+print(entity.text, entity.label_)
+
+This code loads the English language model from spaCy and uses it to perform NER on the given text. The entities variable will contain a list of entity objects, where each object has a text attribute (the entity text) and a label attribute (the entity class).
+
+You can then print the entity text and label for each entity in the list, like this:
+
+Homem Person
+Marvão Location
+Estrada Municipal 524 Location
+Proteção Civil Organization
+GNR Organization
+hospital de Portalegre Facility
+VMER Facility
+Bica Location
+Beirã Location
+Comando Distrital de Operações de Socorro Organization
+Medicina Legal Facility
+bombeiros Organization
+corporação de Marvão Organization
+GNR Organization
+
+Note that the entity classes in this example are based on the classes you defined. You can adjust the classes to match the ones you want to use.
+
+I hope this helps! Let me know if you have any questions.

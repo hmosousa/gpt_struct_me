@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["issued", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["exercise", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["exercise", "OCCURRENCE"]]

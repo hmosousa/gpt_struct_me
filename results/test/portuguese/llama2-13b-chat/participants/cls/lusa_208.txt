@@ -1,0 +1,21 @@
+[
+["Avião", "Object"],
+["Lisboa", "Location"],
+["Humberto Delgado", "Location"],
+["Polícia de Segurança Pública", "Organization"],
+["Jota Aviation", "Organization"],
+["ANA-Aeroportos de Portugal", "Organization"]
+]
+
+Explanation:
+
+* Avião is a participant and belongs to the class Object.
+* Lisboa and Humberto Delgado are locations.
+* Polícia de Segurança Pública is an organization.
+* Jota Aviation and ANA-Aeroportos de Portugal are organizations.
+
+Note:
+
+* The text is in Portuguese.
+* The entities are in the format of a list of strings, where each string represents a participant and the second string represents the class.
+* The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.

@@ -1,0 +1,48 @@
+[
+{
+"entity": "GNR",
+"class": "Date"
+},
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Mértola",
+"class": "Location"
+},
+{
+"entity": "Beja",
+"class": "Location"
+},
+{
+"entity": "Estrada Nacional 122",
+"class": "Location"
+},
+{
+"entity": "Vila de Mértola",
+"class": "Location"
+},
+{
+"entity": "Tribunal Judicial de Beja",
+"class": "Location"
+},
+{
+"entity": "Posto Territorial de Mértola",
+"class": "Location"
+},
+{
+"entity": "Droga",
+"class": "Object"
+},
+{
+"entity": "Haxixe",
+"class": "Object"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entityand the second is the class.
+* The input is a sentence from a news article.
+* The task is to extract and classify all time expressions in the input sentence.
+* The classes are: Date, Time, Duration, and Set.
+* The format of the output is a JSON list where each element is a list with two strings. The first string is the entity and the second is the class.

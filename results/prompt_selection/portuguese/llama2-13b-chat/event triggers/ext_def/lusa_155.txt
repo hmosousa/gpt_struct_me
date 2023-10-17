@@ -1,0 +1,15 @@
+["agressão", "garrafa", "hospital", "coma", "fugida", "consumo de álcool", "proibido", "consumo na via pública"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "agressão" (aggression)
+* "garrafa" (bottle)
+* "hospital" (hospital)
+* "coma" (coma)
+* "fugida" (flight)
+* "consumo de álcool" (alcohol consumption)
+* "proibido" (prohibited)
+* "consumo na via pública" (consumption on public streets)
+
+These words and phrases indicate the events of an aggression, a person being taken to the hospital, someone being in a coma, a flight, alcohol consumption, and prohibition of consumption on public streets.

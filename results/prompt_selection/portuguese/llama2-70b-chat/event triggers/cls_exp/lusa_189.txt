@@ -1,0 +1,1 @@
+[["homem", "State"], ["morto", "Occurrence"], ["tiro", "Occurrence"], ["caçadeira", "State"], ["atirador", "State"], ["em fuga", "Occurrence"], ["incidente", "Occurrence"], ["hoje", "State"], ["20:20", "State"], ["suspeita", "State"], ["homicídio", "State"], ["armas de fogo", "State"], ["ocorrência", "State"], ["investigação", "Occurrence"], ["caso", "Occurrence"]]

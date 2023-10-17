@@ -1,0 +1,24 @@
+["84 anos", "84", "anos", "morre", "atropelamento", "Santa Marta de Penaguião", "Um homem", "homem", "morreu", "hoje", "sequência", "atropelamento", "Vila Maior", "concelho", "Santa Marta de Penaguião", "distrito", "Vila Real", "segundo", "comandante", "bombeiros", "Santa Marta de Penaguião", "Vasco Correia", "óbito", "local", "equipa", "Viatura Médica de Emergência e Reanimação", "VMER", "acidente", "GNR", "manobra", "marcha-atrás", "carinha", "alerta", "atropelamento", "11:29", "operacionais", "bombeiros", "Santa Marta de Penaguião", "GNR", "INEM", "viaturas"]
+
+Explanation:
+The task is to extract all time expressions.
+
+The format is a JSON-parseable list of strings.
+
+The input is "Homem de 84 anos morre após atropelamento em Santa Marta de Penaguião
+Um homem de 84 anos morreu hoje na sequência de um atropelamento em Vila Maior, concelho de Santa Marta de Penaguião, distrito de Vila Real, disse fonte da GNR.
+Segundo o comandante dos bombeiros de Santa Marta de Penaguião, Vasco Correia, o óbito foi declarado no local pela equipa da Viatura Médica de Emergência e Reanimação (VMER).
+O acidente, segundo a GNR, terá acontecido durante uma manobra de marcha-atrás de uma carinha.
+O alerta para o atropelamento foi dado às 11:29 e para o local foram mobilizados seis operacionais dos bombeiros de Santa Marta de Penaguião, GNR e INEM, que contaram com o apoio de três viaturas."
+
+The output is ["84 anos", "84", "anos", "morre", "atropelamento", "Santa Marta de Penaguião", "Um homem", "homem", "morreu", "hoje", "sequência", "atropelamento", "Vila Maior", "concelho", "Santa Marta de Penaguião", "distrito", "Vila Real", "segundo", "comandante", "bombeiros", "Santa Marta de Penaguião", "Vasco Correia", "óbito", "local", "equipa", "Viatura Médica de Emergência e Reanimação", "VMER", "acidente", "GNR", "manobra", "marcha-atrás", "carinha", "alerta", "atropelamento", "11:29", "operacionais", "bombeiros", "Santa Marta de Penaguião", "GNR", "INEM", "viaturas"]
+
+The explanation is that the task is to extract all time expressions.
+
+The format is a JSON-parseable list of strings.
+
+The input is "Homem de 84 anos morre após atropelamento em Santa Marta de Penaguião
+Um homem de 84 anos morreu hoje na sequência de um atropelamento em Vila Maior, concelho de Santa Marta de Penaguião, distrito de Vila Real, disse fonte da GNR.
+Segundo o comandante dos bombeiros de Santa Marta de Penaguião, Vasco Correia, o óbito foi declarado no local pela equipa da Viatura Médica de Emergência e Reanimação (VMER).
+O acidente, segundo a GNR, terá acontecido durante uma manobra de marcha-atrás de uma carinha.
+O alerta para o atropelamento foi dado às 11:29 e para o local foram mobilizados seis operacionais dos bombeiros de Santa Marta de Penaguião, GNR e INEM, que contaram com o

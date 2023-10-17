@@ -1,0 +1,19 @@
+["morre", "esfaqueado", "costas", "mercado de Arroios", "Lisboa", "desentendimento", "arma branca", "café", "ajuda", "suspeito", "crime", "homicídio", "Polícia Judiciária", "forças policiais", "fitas de segurança"]
+
+Explanation:
+
+* "morre" is an event trigger because it indicates that the subject of the sentence (the man) has died.
+* "esfaqueado" is an event trigger because it indicates that the subject of the sentence was stabbed.
+* "costas" is an event trigger because it indicates the location of the stabbing.
+* "mercado de Arroios" is an event trigger because it provides the location of the incident.
+* "Lisboa" is an event trigger because it provides the location of the incident.
+* "desentendimento" is an event trigger because it indicates a conflict or disagreement that led to the stabbing.
+* "arma branca" is an eventtrigger because it indicates the weapon used in the stabbing.
+* "café" is an event trigger because it provides the location where the victim sought help.
+* "ajuda" is an event trigger because it indicates that the victim sought help.
+* "suspeito" is an event trigger because it indicates that a suspect has been identified.
+* "crime" is an event trigger because it indicates that a criminal act has been committed.
+* "homicídio" is an event trigger because it indicates that the victim died as a result of the stabbing.
+* "Polícia Judiciária" is an event trigger because it indicates that the police have been involved in the investigation.
+* "forças policiais" is an event trigger because it indicates that the police have been involved in the incident.
+* "fitas de segurança" is an event trigger because it indicates that the scene of the incident has been preserved by the police.

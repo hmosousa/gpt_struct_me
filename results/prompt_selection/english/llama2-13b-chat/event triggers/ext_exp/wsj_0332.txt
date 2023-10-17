@@ -1,0 +1,1 @@
+[ "bid", "offer", "valuables", "acceptances", "controlling", "merger", "subsidiary", "fund", "acquisition", "restructuring", "addition", "businesses", "possibly", "further", "public", "share", "offering" ]

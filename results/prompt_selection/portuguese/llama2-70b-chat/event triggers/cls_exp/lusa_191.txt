@@ -1,0 +1,21 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["esfaqueado", "Occurrence"], ["costas", "State"], ["mercado", "State"], ["Arroios", "State"], ["Lisboa", "State"], ["desentendimento", "Occurrence"], ["informou", "Reporting"], ["PSP", "State"], ["Comando", "State"], ["Metropolitano", "State"], ["Lisboa", "State"], ["Cometlis", "State"], ["esfaqueamento", "Occurrence"], ["terá", "Aspectual"], ["zona", "State"], ["costas", "State"], ["suspeito", "State"], ["crime", "State"], ["detido", "Occurrence"], ["Avenida", "State"], ["Almirante", "State"], ["Reis", "State"], ["tentativa", "Occurrence"], ["fuga", "Occurrence"], ["polícia", "State"], ["PJ", "State"], ["acionada", "Occurrence"], ["homicídio", "State"], ["local", "State"], ["crime", "State"], ["preservado", "Occurrence"], ["forças", "State"], ["policiais", "State"], ["fitas", "State"], ["segurança", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate a specific event or action has occurred or will occur. They can be verbs, nouns, adjectives, or adverbs that describe the event or action.
+
+For example, in the first input text, "pediu" (asked) is an event trigger that indicates the act of asking for something. "Desculpa" (apology) is also an event trigger that indicates the act of apologizing. "Erros" (errors) is an event trigger that indicates the existence of errors.
+
+In the second input text, "Homem" (man) is a state trigger that indicates the existence of a man. "Morre" (dies) is an event trigger that indicates the act of dying. "Esfaqueado" (stabbed) is an event trigger that indicates the act of stabbing. "Costas" (back) is a state trigger that indicates the location of the stabbing.
+
+Your output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class. The class can be one of the following:
+
+* State: Indicates the state of something or someone.
+* Occurrence: Indicates an event or action that has occurred or will occur.
+* Reporting: Indicates the act of reporting or describing an event or action.
+* Perception: Indicates the perception or observation of an event or action.
+* Aspectual: Indicates the aspect or nature of an event or action.
+* Intensional Action: Indicates the intention or purpose behind an event or action.
+* Intensional State: Indicates the state or condition of something or someone that is intended or desired.
+
+Note that some words or phrases may have multiple possible classes, depending on the context in which they are used. Your task is to determine the most appropriate class for each event trigger in the given text.

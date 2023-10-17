@@ -1,0 +1,27 @@
+[
+["Encontrado corpo de homem", "Person"],
+["homem", "Person"],
+["a boiar", "Object"],
+["na costa da Terceira", "Location"],
+["desconhecendo-se as causas da morte", "Other"],
+["anunciou hoje a Autoridade Marítima", "Organization"],
+["Segundo um comunicado enviado às redações", "Other"],
+["o Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"],
+["foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", "Object"],
+["se encontrava numa 'zona de difícil acesso'", "Location"],
+["será autopsiado para se apurar as causas da morte", "Other"]
+]
+
+Explanation:
+
+1. "Encontrado corpo de homem" is a person.
+2. "homem" is a person.
+3. "a boiar" is an object(the body).
+4. "na costa da Terceira" is a location.
+5. "desconhecendo-se as causas da morte" is other (a statement about the unknown cause of death).
+6. "anunciou hoje a Autoridade Marítima" is an organization (the maritime authority).
+7. "Segundo um comunicado enviado às redações" is other (a statement about the communication).
+8. "o Comando-Local da Polícia Marítima de Angra do Heroísmo" is an organization (the local maritime police command).
+9. "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória" is an object (the team of firefighters).
+10. "se encontrava numa 'zona de difícil acesso'" is a location (the difficult-to-reach area).
+11. "será autopsiado para se apurar as causas da morte" is other (a statement about the autopsy).

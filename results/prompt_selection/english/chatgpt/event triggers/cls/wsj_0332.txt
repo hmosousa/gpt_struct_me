@@ -1,0 +1,1 @@
+[["making", "Intensional Action"], ["bid", "Intensional Action"], ["own", "Intensional State"], ["accepted", "Intensional Action"], ["considering", "Intensional Action"], ["fund", "Intensional Action"], ["takeover", "Intensional Action"], ["restructuring", "Intensional Action"], ["addition", "Intensional Action"], ["seek", "Intensional Action"], ["make", "Intensional Action"]]

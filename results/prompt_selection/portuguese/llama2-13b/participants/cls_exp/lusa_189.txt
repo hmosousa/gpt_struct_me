@@ -1,0 +1,20 @@
+[["Um homem", "Per"], ["foi hoje morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["baleado", "Per"], ["com dois tiros", "Per"], ["de caçadeira", "Obj"], ["e o atirador", "Per"], ["está em fuga", "Per"], ["disse à agência Lusa", "Org"], ["fonte", "Per"], ["da Direção Nacional", "Org"], ["da Polícia de Segurança Pública", "Org"], ["(PSP)", "Org"], ["A mesma fonte", "Per"], ["indicou", "Per"], ["que o incidente", "Per"], ["ocorreu às 20:20", "Per"], ["de hoje", "Per"], ["não adiantando", "Per"], ["no entanto", "Per"], ["mais informações", "Per"], ["sobre as circunstâncias", "Per"], ["do tiroteio", "Per"], ["Disse apenas", "Per"], ["que tratando-se", "Per"], ["de uma suspeita", "Per"], ["de homicídio", "Per"], ["envolvendo armas de fogo", "Per"], ["a ocorrência", "Per"], ["está a ser acompanhada", "Per"], ["pela Polícia Judiciária", "Org"], ["responsável pelo investigação", "Per"], ["do caso", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+[["Um homem", "Per"], ["foi hoje morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["baleado", "Per"], ["com dois tiros", "Per"], ["de caçadeira", "Obj"], ["e o atirador", "Per"], ["está em fuga", "Per"], ["disse à agência Lusa", "Org"], ["fonte", "Per"], ["da Direção Nacional", "Org"], ["da Polícia de Segurança Pública", "Org"], ["(PSP)", "Org"], ["A mesma fonte", "Per"], ["indicou", "Per"], ["que o incidente", "Per"], ["ocorreu às 20:20", "Per"], ["de hoje", "Per"], ["não adiantando", "Per"], ["no entanto", "Per"], ["mais informações", "Per"], ["sobre as circunstâncias", "Per"], ["do tiroteio", "Per"], ["Disse apenas", "Per"], ["que tratando-se", "Per"], ["de uma suspeita", "Per"], ["de homicídio", "Per"], ["envolvendo armas de fogo", "Per"], ["a ocorrência", "Per"], ["está a ser acompanhada", "Per"], ["pela Polícia Judiciária", "Org"], ["responsável pelo investigação", "Per"], ["do caso", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje

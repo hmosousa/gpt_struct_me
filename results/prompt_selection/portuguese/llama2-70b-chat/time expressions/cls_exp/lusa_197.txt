@@ -1,0 +1,10 @@
+[["hoje", "Date"], ["52 anos", "Date"], ["Rua da Constituição", "Location"], ["07:50", "Time"], ["7:50", "Time"]]
+
+Note:
+
+* Dates should be in the format "dd/mm/yyyy"
+* Times should be in the format "HH:MM"
+* Durations should be in the format "X dias/horas/minutos"
+* Sets should be in the format "X a Y" (e.g. "1 a 5 dias")
+
+Please extract and classify all time expressions in the given text.

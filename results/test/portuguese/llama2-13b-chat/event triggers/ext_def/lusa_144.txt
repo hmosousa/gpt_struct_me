@@ -1,0 +1,4 @@
+["detém", "tráfico de droga", "Borba", "homem", "31 anos", "suspeitas", "crime", "GNR", "apreendeu", "heroína", "balança digital", "tesoura", "sacos de plástico", "dinheiro"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is any word or phrase that indicates the occurrence of an event. In this text, the event triggers are "detém", "tráfico de droga", "apreendeu", "heroína", "balança digital", "tesoura", "sacos de plástico", and "dinheiro". These words and phrases indicate the events of the suspect being detained, the seizure of drugs and other items, and the potential application of coercive measures.

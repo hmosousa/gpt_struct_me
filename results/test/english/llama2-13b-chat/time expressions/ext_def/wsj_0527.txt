@@ -1,0 +1,16 @@
+[
+"Dec. 7",
+"early November",
+"a year ago",
+"third quarter"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Dec. 7" (specific date)
+* "early November" (time period)
+* "a year ago" (time period)
+* "third quarter" (time period)
+
+These time expressions are extracted and listed in the output.

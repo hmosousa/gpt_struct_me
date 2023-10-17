@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["10:54", "Time"], ["29 anos", "Age"], ["rua Ângela Pinto", "Location"], ["Lisboa", "Location"], ["Cometlis", "Organization"], ["PSP", "Organization"], ["polícia", "Organization"], ["PJ", "Organization"], ["homicídio", "Crime"]]

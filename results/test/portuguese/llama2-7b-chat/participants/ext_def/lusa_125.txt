@@ -1,0 +1,20 @@
+[
+"GNR",
+"UCC",
+"haxixe",
+"Olhão",
+"Algarve",
+"785 quilos",
+"two men",
+"transbordo",
+"Sistema Integrado de Vigilância e Comando e Controlo",
+"SIVICC",
+"embarcations",
+"fardos",
+"Guarda Nacional Republicana",
+"GNR",
+"meios marítimos",
+"detained",
+"intercepted",
+"value estimated over two million euros"
+]

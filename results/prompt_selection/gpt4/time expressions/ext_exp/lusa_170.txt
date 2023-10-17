@@ -1,1 +1,0 @@
-["na segunda-feira", "hoje", "às 12:00 locais", "13:00 em Lisboa", "de segunda-feira"]

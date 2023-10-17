@@ -1,0 +1,1 @@
+[["acquired", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["plans", "I_STATE"], ["use", "OCCURRENCE"], ["increased", "OCCURRENCE"], ["underwrites", "OCCURRENCE"], ["insures", "OCCURRENCE"], ["owns", "OCCURRENCE"]]

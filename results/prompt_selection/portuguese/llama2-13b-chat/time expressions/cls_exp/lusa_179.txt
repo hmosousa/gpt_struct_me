@@ -1,0 +1,4 @@
+[["prisão preventiva", "Duration"], ["47 anos", "Date"], ["26 anos", "Date"], ["2017", "Time"], ["atualidade", "Time"], ["Penafiel", "Set"], ["PJ", "Time"], ["MP", "Time"]]
+
+Note:
+The dates and times are in Portuguese format (day before month).

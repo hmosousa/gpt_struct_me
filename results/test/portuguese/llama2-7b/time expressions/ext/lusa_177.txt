@@ -1,0 +1,40 @@
+["Homem morre atingido por árvore de grande porte em Barcelos",
+"Um homem com cerca de 50 anos morreu hoje em Milhazes, no concelho de Barcelos, atingido por uma árvore de grande porte, disse fonte do Comando Distrital de Operações de Socorro de Braga.",
+"Segundo a fonte, ainda não estão apuradas as circunstâncias do acidente, mas as primeiras informações apontam para um acidente de trabalho.",
+"“Segundo as primeiras informações, o homem estaria a cortar a árvore e terá sido atingido pela mesma”, referiu.",
+"O alerta foi dado pelas 11:50, tendo sido mobilizados para o local os Bombeiros Voluntários de Barcelinhos e uma viatura médica de emergência e reanimação.",
+"O óbito foi declarado no local.",
+"A GNR tomou conta da ocorrência."]
+
+Explanation:
+
+The task is to extract all time expressions.
+
+The format is JSON-parseable list of strings.
+
+The input is "Homem morre atingido por árvore de grande porte em Barcelos
+Um homem com cerca de 50 anos morreu hoje em Milhazes, no concelho de Barcelos, atingido por uma árvore de grande porte, disse fonte do Comando Distrital de Operações de Socorro de Braga.
+Segundo a fonte, ainda não estão apuradas as circunstâncias do acidente, mas as primeiras informações apontam para um acidente de trabalho.
+“Segundo as primeiras informações, o homem estaria a cortar a árvore e terá sido atingido pela mesma”, referiu.
+O alerta foi dado pelas 11:50, tendo sido mobilizados para o local os Bombeiros Voluntários de Barcelinhos e uma viatura médica de emergência e reanimação.
+O óbito foi declarado no local.
+A GNR tomou conta da ocorrência."
+
+The output is a JSON-parseable list of strings.
+
+The input is a string.
+
+The explanation is:
+
+The task is to extract all time expressions.
+
+The format is JSON-parseable list of strings.
+
+The input is "Homem morre atingido por árvore de grande porte em Barcelos
+Um homem com cerca de 50 anos morreu hoje em Milhazes, no concelho de Barcelos, atingido por uma árvore de grande porte, disse fonte do Comando Distrital de Operações de Socorro de Braga.
+Segundo a fonte, ainda não estão apuradas as circunstâncias do acidente, mas as primeiras informações apontam para um acidente de trabalho.
+“Segundo as primeiras informações, o homem estaria a cortar a árvore e terá sido atingido pela mesma”, referiu.
+O alerta foi dado pelas 11:50, tendo sido mobilizados para o local os Bombeiros Voluntários de Barcelinhos e uma viatura médica de emergência e reanimação.
+O óbito foi declarado no local.
+A GNR tomou conta da ocorrência."
+

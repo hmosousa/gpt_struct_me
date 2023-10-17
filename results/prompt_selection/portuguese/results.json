@@ -1,0 +1,2810 @@
+[
+    {
+        "model": "llama2-7b",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.10869565217391304,
+            "precision": 0.09090909090909091,
+            "f1": 0.099009900990099
+        },
+        "relaxed": {
+            "f1": 0.1565
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1431159420289855,
+            "precision": 0.08377518557794274,
+            "f1": 0.10568561872909699
+        },
+        "relaxed": {
+            "f1": 0.19247940805018954
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.14669421487603307,
+            "precision": 0.28286852589641437,
+            "f1": 0.19319727891156463
+        },
+        "relaxed": {
+            "f1": 0.08884541847041846
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.021739130434782608,
+            "precision": 0.08333333333333333,
+            "f1": 0.034482758620689655
+        },
+        "relaxed": {
+            "f1": 0.02238095238095238
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.19927536231884058,
+            "precision": 0.07457627118644068,
+            "f1": 0.10853478046373953
+        },
+        "relaxed": {
+            "f1": 0.19934360919276792
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.38636363636363635,
+            "precision": 0.21568627450980393,
+            "f1": 0.2768319763138416
+        },
+        "relaxed": {
+            "f1": 0.21241735845313622
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.021739130434782608,
+            "precision": 0.006289308176100629,
+            "f1": 0.00975609756097561
+        },
+        "relaxed": {
+            "f1": 0.007779814271749755
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.019927536231884056,
+            "precision": 0.2682926829268293,
+            "f1": 0.03709949409780776
+        },
+        "relaxed": {
+            "f1": 0.06088781153487036
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.01859504132231405,
+            "precision": 0.09090909090909091,
+            "f1": 0.030874785591766728
+        },
+        "relaxed": {
+            "f1": 0.03518951983496447
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.009057971014492754,
+            "precision": 0.07142857142857142,
+            "f1": 0.016077170418006433
+        },
+        "relaxed": {
+            "f1": 0.04849472476521657
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0010869565217391304
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.01877613398446732
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.05434782608695652,
+            "precision": 0.07159904534606205,
+            "f1": 0.06179196704428424
+        },
+        "relaxed": {
+            "f1": 0.31666628882254844
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0743801652892562,
+            "precision": 0.12413793103448276,
+            "f1": 0.09302325581395349
+        },
+        "relaxed": {
+            "f1": 0.2938667966877141
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0025320197044334976
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.213768115942029,
+            "precision": 0.07778510217534608,
+            "f1": 0.11406476558724023
+        },
+        "relaxed": {
+            "f1": 0.20912360429929958
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.38636363636363635,
+            "precision": 0.2403598971722365,
+            "f1": 0.2963549920760697
+        },
+        "relaxed": {
+            "f1": 0.23607401410312398
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.10869565217391304,
+            "precision": 0.01644736842105263,
+            "f1": 0.028571428571428567
+        },
+        "relaxed": {
+            "f1": 0.03570994692215622
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.08556253023277498
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.06521739130434782,
+            "precision": 0.046875,
+            "f1": 0.05454545454545454
+        },
+        "relaxed": {
+            "f1": 0.06606060606060607
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1793478260869565,
+            "precision": 0.10772578890097932,
+            "f1": 0.1346023113528212
+        },
+        "relaxed": {
+            "f1": 0.18054893334670513
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.16322314049586778,
+            "precision": 0.24233128834355827,
+            "f1": 0.19506172839506175
+        },
+        "relaxed": {
+            "f1": 0.09364310930980176
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5869565217391305,
+            "precision": 0.36,
+            "f1": 0.4462809917355372
+        },
+        "relaxed": {
+            "f1": 0.5320988733488734
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.33695652173913043,
+            "precision": 0.3576923076923077,
+            "f1": 0.34701492537313433
+        },
+        "relaxed": {
+            "f1": 0.5021636549070029
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6157024793388429,
+            "precision": 0.41620111731843573,
+            "f1": 0.49666666666666665
+        },
+        "relaxed": {
+            "f1": 0.4797039383694618
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5217391304347826,
+            "precision": 0.42857142857142855,
+            "f1": 0.47058823529411764
+        },
+        "relaxed": {
+            "f1": 0.6196518759018759
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2717391304347826,
+            "precision": 0.2617801047120419,
+            "f1": 0.2666666666666666
+        },
+        "relaxed": {
+            "f1": 0.5193827194939611
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6012396694214877,
+            "precision": 0.4121813031161473,
+            "f1": 0.48907563025210093
+        },
+        "relaxed": {
+            "f1": 0.4923345730944151
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6304347826086957,
+            "precision": 0.29292929292929293,
+            "f1": 0.4
+        },
+        "relaxed": {
+            "f1": 0.42675706238206246
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1358695652173913,
+            "precision": 0.2976190476190476,
+            "f1": 0.18656716417910446
+        },
+        "relaxed": {
+            "f1": 0.6026817104910538
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2396694214876033,
+            "precision": 0.32044198895027626,
+            "f1": 0.27423167848699764
+        },
+        "relaxed": {
+            "f1": 0.4454472036505156
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.30666666666666664,
+            "f1": 0.3801652892561983
+        },
+        "relaxed": {
+            "f1": 0.5202107383357383
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14130434782608695,
+            "precision": 0.3132530120481928,
+            "f1": 0.1947565543071161
+        },
+        "relaxed": {
+            "f1": 0.6140390356726928
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.18388429752066116,
+            "precision": 0.2870967741935484,
+            "f1": 0.22418136020151133
+        },
+        "relaxed": {
+            "f1": 0.4414312398521896
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5434782608695652,
+            "precision": 0.3787878787878788,
+            "f1": 0.44642857142857145
+        },
+        "relaxed": {
+            "f1": 0.519433621933622
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1105072463768116,
+            "precision": 0.27232142857142855,
+            "f1": 0.15721649484536082
+        },
+        "relaxed": {
+            "f1": 0.6689253853490487
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.01859504132231405,
+            "precision": 0.05660377358490566,
+            "f1": 0.027993779160186624
+        },
+        "relaxed": {
+            "f1": 0.4384221215461247
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.5348837209302325,
+            "f1": 0.5168539325842696
+        },
+        "relaxed": {
+            "f1": 0.7102417027417027
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2826086956521739,
+            "precision": 0.2698961937716263,
+            "f1": 0.2761061946902654
+        },
+        "relaxed": {
+            "f1": 0.5091450320749937
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6053719008264463,
+            "precision": 0.42773722627737226,
+            "f1": 0.5012831479897348
+        },
+        "relaxed": {
+            "f1": 0.5019300180045176
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.43478260869565216,
+            "precision": 0.46511627906976744,
+            "f1": 0.449438202247191
+        },
+        "relaxed": {
+            "f1": 0.7523809523809524
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.11775362318840579,
+            "precision": 0.3037383177570093,
+            "f1": 0.16971279373368148
+        },
+        "relaxed": {
+            "f1": 0.6679953307443103
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.014462809917355372,
+            "precision": 0.051470588235294115,
+            "f1": 0.022580645161290325
+        },
+        "relaxed": {
+            "f1": 0.4016598151683476
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5217391304347826,
+            "precision": 0.3287671232876712,
+            "f1": 0.40336134453781514
+        },
+        "relaxed": {
+            "f1": 0.504063159063159
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.30978260869565216,
+            "precision": 0.34615384615384615,
+            "f1": 0.32695984703632885
+        },
+        "relaxed": {
+            "f1": 0.5090697983945515
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6012396694214877,
+            "precision": 0.4217391304347826,
+            "f1": 0.495741056218058
+        },
+        "relaxed": {
+            "f1": 0.4853852366986507
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.4782608695652174,
+            "precision": 0.10784313725490197,
+            "f1": 0.17600000000000002
+        },
+        "relaxed": {
+            "f1": 0.12331095987345989
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.19384057971014493,
+            "precision": 0.14097496706192358,
+            "f1": 0.1632341723874905
+        },
+        "relaxed": {
+            "f1": 0.31454292256850874
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.29545454545454547,
+            "precision": 0.25265017667844525,
+            "f1": 0.2723809523809524
+        },
+        "relaxed": {
+            "f1": 0.3523737681466582
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.45652173913043476,
+            "precision": 0.1346153846153846,
+            "f1": 0.2079207920792079
+        },
+        "relaxed": {
+            "f1": 0.18444895382395382
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.05253623188405797,
+            "precision": 0.2636363636363636,
+            "f1": 0.08761329305135951
+        },
+        "relaxed": {
+            "f1": 0.12437846484870478
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.09297520661157024,
+            "precision": 0.2647058823529412,
+            "f1": 0.13761467889908255
+        },
+        "relaxed": {
+            "f1": 0.1152132416697634
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.21739130434782608,
+            "precision": 0.02577319587628866,
+            "f1": 0.04608294930875576
+        },
+        "relaxed": {
+            "f1": 0.057148323570572104
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.07065217391304347,
+            "precision": 0.22941176470588234,
+            "f1": 0.10803324099722991
+        },
+        "relaxed": {
+            "f1": 0.5368022820835827
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.045454545454545456,
+            "precision": 0.09166666666666666,
+            "f1": 0.06077348066298343
+        },
+        "relaxed": {
+            "f1": 0.1407045169538829
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.2391304347826087,
+            "precision": 0.03793103448275862,
+            "f1": 0.06547619047619047
+        },
+        "relaxed": {
+            "f1": 0.07474659534422531
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.09057971014492754,
+            "precision": 0.2564102564102564,
+            "f1": 0.13386880856760375
+        },
+        "relaxed": {
+            "f1": 0.5246517174375877
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.03512396694214876,
+            "precision": 0.07488986784140969,
+            "f1": 0.04781997187060479
+        },
+        "relaxed": {
+            "f1": 0.128543341526565
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.22115384615384615,
+            "f1": 0.30666666666666664
+        },
+        "relaxed": {
+            "f1": 0.35273235098235095
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.05434782608695652,
+            "precision": 0.2542372881355932,
+            "f1": 0.08955223880597014
+        },
+        "relaxed": {
+            "f1": 0.5940194136502042
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.09297520661157024,
+            "precision": 0.23195876288659795,
+            "f1": 0.1327433628318584
+        },
+        "relaxed": {
+            "f1": 0.43755638769673844
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5217391304347826,
+            "precision": 0.13953488372093023,
+            "f1": 0.2201834862385321
+        },
+        "relaxed": {
+            "f1": 0.19099791874791874
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.10326086956521739,
+            "precision": 0.22178988326848248,
+            "f1": 0.14091470951792337
+        },
+        "relaxed": {
+            "f1": 0.21115387145557846
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.1322314049586777,
+            "precision": 0.2922374429223744,
+            "f1": 0.18207681365576103
+        },
+        "relaxed": {
+            "f1": 0.16215562678062678
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.43478260869565216,
+            "precision": 0.2702702702702703,
+            "f1": 0.3333333333333333
+        },
+        "relaxed": {
+            "f1": 0.437217920967921
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.059782608695652176,
+            "precision": 0.20754716981132076,
+            "f1": 0.0928270042194093
+        },
+        "relaxed": {
+            "f1": 0.5410957546815942
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.06198347107438017,
+            "precision": 0.1724137931034483,
+            "f1": 0.0911854103343465
+        },
+        "relaxed": {
+            "f1": 0.36733586684479536
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.12849162011173185,
+            "f1": 0.20444444444444443
+        },
+        "relaxed": {
+            "f1": 0.14422334609834608
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.18659420289855072,
+            "precision": 0.14365411436541142,
+            "f1": 0.1623325453112687
+        },
+        "relaxed": {
+            "f1": 0.3304770976881408
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2830578512396694,
+            "precision": 0.2807377049180328,
+            "f1": 0.2818930041152264
+        },
+        "relaxed": {
+            "f1": 0.3496761109757634
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6086956521739131,
+            "precision": 0.224,
+            "f1": 0.3274853801169591
+        },
+        "relaxed": {
+            "f1": 0.306387432012432
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.24094202898550723,
+            "precision": 0.18244170096021947,
+            "f1": 0.20765027322404372
+        },
+        "relaxed": {
+            "f1": 0.335333822556682
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.35537190082644626,
+            "precision": 0.27258320126782887,
+            "f1": 0.30852017937219733
+        },
+        "relaxed": {
+            "f1": 0.30954669435178134
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.2777777777777778,
+            "f1": 0.3896103896103896
+        },
+        "relaxed": {
+            "f1": 0.38798985736485736
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2753623188405797,
+            "precision": 0.321353065539112,
+            "f1": 0.2965853658536585
+        },
+        "relaxed": {
+            "f1": 0.4223380828884674
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.35330578512396693,
+            "precision": 0.29482758620689653,
+            "f1": 0.3214285714285714
+        },
+        "relaxed": {
+            "f1": 0.35414158419190633
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6086956521739131,
+            "precision": 0.15053763440860216,
+            "f1": 0.2413793103448276
+        },
+        "relaxed": {
+            "f1": 0.30520973470973467
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.09963768115942029,
+            "precision": 0.27918781725888325,
+            "f1": 0.14686248331108145
+        },
+        "relaxed": {
+            "f1": 0.5864584952496388
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.07851239669421488,
+            "precision": 0.1144578313253012,
+            "f1": 0.09313725490196079
+        },
+        "relaxed": {
+            "f1": 0.28108740082047795
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5652173913043478,
+            "precision": 0.14772727272727273,
+            "f1": 0.23423423423423426
+        },
+        "relaxed": {
+            "f1": 0.28098844211344215
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.11413043478260869,
+            "precision": 0.2930232558139535,
+            "f1": 0.16427640156453716
+        },
+        "relaxed": {
+            "f1": 0.546780739244868
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.08677685950413223,
+            "precision": 0.14432989690721648,
+            "f1": 0.10838709677419356
+        },
+        "relaxed": {
+            "f1": 0.23993903739538047
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.2727272727272727,
+            "f1": 0.38461538461538464
+        },
+        "relaxed": {
+            "f1": 0.4937426462426462
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.04528985507246377,
+            "precision": 0.2,
+            "f1": 0.07385524372230429
+        },
+        "relaxed": {
+            "f1": 0.7084739222351313
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.010330578512396695,
+            "precision": 0.032679738562091505,
+            "f1": 0.015698587127158554
+        },
+        "relaxed": {
+            "f1": 0.36201401090923235
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6304347826086957,
+            "precision": 0.31868131868131866,
+            "f1": 0.4233576642335766
+        },
+        "relaxed": {
+            "f1": 0.40778747641247637
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.22282608695652173,
+            "precision": 0.22735674676524953,
+            "f1": 0.22506861848124426
+        },
+        "relaxed": {
+            "f1": 0.4014506670540848
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3615702479338843,
+            "precision": 0.25697503671071953,
+            "f1": 0.30042918454935624
+        },
+        "relaxed": {
+            "f1": 0.2988007008178466
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5434782608695652,
+            "precision": 0.2976190476190476,
+            "f1": 0.3846153846153845
+        },
+        "relaxed": {
+            "f1": 0.5205247992747991
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.034420289855072464,
+            "precision": 0.2111111111111111,
+            "f1": 0.059190031152647975
+        },
+        "relaxed": {
+            "f1": 0.6097248984655
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.01652892561983471,
+            "precision": 0.06060606060606061,
+            "f1": 0.025974025974025976
+        },
+        "relaxed": {
+            "f1": 0.3426828617495496
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.22900763358778625,
+            "f1": 0.3389830508474576
+        },
+        "relaxed": {
+            "f1": 0.3306174381174381
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2318840579710145,
+            "precision": 0.20349761526232116,
+            "f1": 0.2167654530059272
+        },
+        "relaxed": {
+            "f1": 0.3679436523142191
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.4090909090909091,
+            "precision": 0.2836676217765043,
+            "f1": 0.3350253807106599
+        },
+        "relaxed": {
+            "f1": 0.3469811318175187
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.2826086956521739,
+            "precision": 0.07514450867052024,
+            "f1": 0.11872146118721462
+        },
+        "relaxed": {
+            "f1": 0.11296332371332371
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1322463768115942,
+            "precision": 0.15800865800865802,
+            "f1": 0.14398422090729784
+        },
+        "relaxed": {
+            "f1": 0.40367604804756885
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.26859504132231404,
+            "precision": 0.2719665271966527,
+            "f1": 0.27027027027027023
+        },
+        "relaxed": {
+            "f1": 0.32203537603037924
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.32608695652173914,
+            "precision": 0.07246376811594203,
+            "f1": 0.11857707509881424
+        },
+        "relaxed": {
+            "f1": 0.09914000814000812
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.13949275362318841,
+            "precision": 0.11993769470404984,
+            "f1": 0.12897822445561138
+        },
+        "relaxed": {
+            "f1": 0.3289895137512559
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3037190082644628,
+            "precision": 0.2254601226993865,
+            "f1": 0.25880281690140844
+        },
+        "relaxed": {
+            "f1": 0.2787154326624308
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.10869565217391304,
+            "precision": 0.07246376811594203,
+            "f1": 0.08695652173913043
+        },
+        "relaxed": {
+            "f1": 0.03452561327561328
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.007246376811594203,
+            "precision": 0.16666666666666666,
+            "f1": 0.013888888888888888
+        },
+        "relaxed": {
+            "f1": 0.07565584415584416
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.043478260869565216,
+            "precision": 0.07407407407407407,
+            "f1": 0.0547945205479452
+        },
+        "relaxed": {
+            "f1": 0.017878787878787876
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.34782608695652173,
+            "precision": 0.05860805860805861,
+            "f1": 0.10031347962382445
+        },
+        "relaxed": {
+            "f1": 0.09891142365463247
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.09420289855072464,
+            "precision": 0.22510822510822512,
+            "f1": 0.13282247765006386
+        },
+        "relaxed": {
+            "f1": 0.47088811633792693
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.07231404958677685,
+            "precision": 0.12915129151291513,
+            "f1": 0.09271523178807947
+        },
+        "relaxed": {
+            "f1": 0.2589485113690172
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.1956521739130435,
+            "precision": 0.039301310043668124,
+            "f1": 0.06545454545454545
+        },
+        "relaxed": {
+            "f1": 0.06337890504557171
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1286231884057971,
+            "precision": 0.08765432098765433,
+            "f1": 0.10425844346549193
+        },
+        "relaxed": {
+            "f1": 0.25119581045838935
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2809917355371901,
+            "precision": 0.2125,
+            "f1": 0.2419928825622776
+        },
+        "relaxed": {
+            "f1": 0.260425638150133
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.32608695652173914,
+            "precision": 0.043731778425655975,
+            "f1": 0.07712082262210797
+        },
+        "relaxed": {
+            "f1": 0.07885690117885191
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.08333333333333333,
+            "precision": 0.14465408805031446,
+            "f1": 0.1057471264367816
+        },
+        "relaxed": {
+            "f1": 0.37647705545239923
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.024793388429752067,
+            "precision": 0.059113300492610835,
+            "f1": 0.034934497816593885
+        },
+        "relaxed": {
+            "f1": 0.29145463377108666
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.30434782608695654,
+            "precision": 0.08139534883720931,
+            "f1": 0.12844036697247707
+        },
+        "relaxed": {
+            "f1": 0.10839268601768601
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14130434782608695,
+            "precision": 0.18886198547215496,
+            "f1": 0.1616580310880829
+        },
+        "relaxed": {
+            "f1": 0.424834104541233
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.22107438016528927,
+            "precision": 0.26034063260340634,
+            "f1": 0.23910614525139667
+        },
+        "relaxed": {
+            "f1": 0.288748461597828
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5869565217391305,
+            "precision": 0.21951219512195122,
+            "f1": 0.31952662721893493
+        },
+        "relaxed": {
+            "f1": 0.39901775308025306
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.4003623188405797,
+            "precision": 0.40699815837937386,
+            "f1": 0.4036529680365296
+        },
+        "relaxed": {
+            "f1": 0.48519416934797716
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.621900826446281,
+            "precision": 0.5180722891566265,
+            "f1": 0.5652582159624413
+        },
+        "relaxed": {
+            "f1": 0.6427682768412049
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3695652173913043,
+            "precision": 0.425,
+            "f1": 0.3953488372093023
+        },
+        "relaxed": {
+            "f1": 0.4015740080025795
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.47282608695652173,
+            "precision": 0.47889908256880737,
+            "f1": 0.47584320875113956
+        },
+        "relaxed": {
+            "f1": 0.4638925045928463
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6487603305785123,
+            "precision": 0.5313028764805414,
+            "f1": 0.5841860465116279
+        },
+        "relaxed": {
+            "f1": 0.6677834573776587
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5652173913043478,
+            "precision": 0.35135135135135137,
+            "f1": 0.43333333333333335
+        },
+        "relaxed": {
+            "f1": 0.5320192770192771
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.161231884057971,
+            "precision": 0.27899686520376177,
+            "f1": 0.20436280137772675
+        },
+        "relaxed": {
+            "f1": 0.5979302012259848
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3925619834710744,
+            "precision": 0.6012658227848101,
+            "f1": 0.475
+        },
+        "relaxed": {
+            "f1": 0.7847463265551992
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6304347826086957,
+            "precision": 0.2871287128712871,
+            "f1": 0.3945578231292517
+        },
+        "relaxed": {
+            "f1": 0.5090127835127836
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14492753623188406,
+            "precision": 0.2807017543859649,
+            "f1": 0.1911589008363202
+        },
+        "relaxed": {
+            "f1": 0.6285364611079204
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3367768595041322,
+            "precision": 0.43351063829787234,
+            "f1": 0.37906976744186044
+        },
+        "relaxed": {
+            "f1": 0.6174494820571274
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5652173913043478,
+            "precision": 0.3880597014925373,
+            "f1": 0.46017699115044247
+        },
+        "relaxed": {
+            "f1": 0.6203699263699264
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.09057971014492754,
+            "precision": 0.24630541871921183,
+            "f1": 0.13245033112582782
+        },
+        "relaxed": {
+            "f1": 0.6543221896107234
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3925619834710744,
+            "precision": 0.6129032258064516,
+            "f1": 0.47858942065491183
+        },
+        "relaxed": {
+            "f1": 0.7822626340679829
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.45652173913043476,
+            "precision": 0.38181818181818183,
+            "f1": 0.4158415841584158
+        },
+        "relaxed": {
+            "f1": 0.5290524660524661
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.3677536231884058,
+            "precision": 0.3704379562043796,
+            "f1": 0.36909090909090914
+        },
+        "relaxed": {
+            "f1": 0.4284187692589129
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.5723140495867769,
+            "precision": 0.4902654867256637,
+            "f1": 0.5281220209723547
+        },
+        "relaxed": {
+            "f1": 0.638240772159876
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.4339622641509434,
+            "f1": 0.46464646464646464
+        },
+        "relaxed": {
+            "f1": 0.6414492914492914
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.07789855072463768,
+            "precision": 0.27044025157232704,
+            "f1": 0.12095639943741208
+        },
+        "relaxed": {
+            "f1": 0.610203931921358
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2603305785123967,
+            "precision": 0.45652173913043476,
+            "f1": 0.3315789473684211
+        },
+        "relaxed": {
+            "f1": 0.6053562085306952
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5434782608695652,
+            "precision": 0.3333333333333333,
+            "f1": 0.4132231404958678
+        },
+        "relaxed": {
+            "f1": 0.43565661190661203
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.4311594202898551,
+            "precision": 0.44485981308411215,
+            "f1": 0.437902483900644
+        },
+        "relaxed": {
+            "f1": 0.49642305963216654
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.5950413223140496,
+            "precision": 0.4948453608247423,
+            "f1": 0.5403377110694184
+        },
+        "relaxed": {
+            "f1": 0.5771639197879063
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.021739130434782608,
+            "precision": 0.0625,
+            "f1": 0.03225806451612903
+        },
+        "relaxed": {
+            "f1": 0.005208333333333333
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1539855072463768,
+            "precision": 0.16536964980544747,
+            "f1": 0.15947467166979362
+        },
+        "relaxed": {
+            "f1": 0.2374245152006377
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.08677685950413223,
+            "precision": 0.30434782608695654,
+            "f1": 0.13504823151125403
+        },
+        "relaxed": {
+            "f1": 0.0606435434484215
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.021739130434782608,
+            "precision": 0.2,
+            "f1": 0.0392156862745098
+        },
+        "relaxed": {
+            "f1": 0.01
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.17391304347826086,
+            "precision": 0.1951219512195122,
+            "f1": 0.18390804597701152
+        },
+        "relaxed": {
+            "f1": 0.24599657537980132
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3450413223140496,
+            "precision": 0.34151329243353784,
+            "f1": 0.3432682425488181
+        },
+        "relaxed": {
+            "f1": 0.25225286035729944
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.02066115702479339,
+            "precision": 0.07042253521126761,
+            "f1": 0.03194888178913738
+        },
+        "relaxed": {
+            "f1": 0.08697943654595328
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.014462809917355372,
+            "precision": 0.11666666666666667,
+            "f1": 0.025735294117647058
+        },
+        "relaxed": {
+            "f1": 0.04734754552769259
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.06521739130434782,
+            "precision": 0.03,
+            "f1": 0.0410958904109589
+        },
+        "relaxed": {
+            "f1": 0.0625545634920635
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.09239130434782608,
+            "precision": 0.1223021582733813,
+            "f1": 0.10526315789473685
+        },
+        "relaxed": {
+            "f1": 0.37997902202724704
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.15495867768595042,
+            "precision": 0.20270270270270271,
+            "f1": 0.17564402810304452
+        },
+        "relaxed": {
+            "f1": 0.16024967452281944
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.2028985507246377,
+            "precision": 0.2248995983935743,
+            "f1": 0.21333333333333332
+        },
+        "relaxed": {
+            "f1": 0.2719391720706471
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.33884297520661155,
+            "precision": 0.3286573146292585,
+            "f1": 0.3336724313326551
+        },
+        "relaxed": {
+            "f1": 0.26975542116677265
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.06521739130434782,
+            "precision": 0.06382978723404255,
+            "f1": 0.06451612903225806
+        },
+        "relaxed": {
+            "f1": 0.08046866240126044
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.2301174369874806
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.22540678651349544
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.021739130434782608,
+            "precision": 0.07692307692307693,
+            "f1": 0.03389830508474576
+        },
+        "relaxed": {
+            "f1": 0.00641025641025641
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1956521739130435,
+            "precision": 0.15584415584415584,
+            "f1": 0.17349397590361446
+        },
+        "relaxed": {
+            "f1": 0.2613086067736956
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.12190082644628099,
+            "precision": 0.3430232558139535,
+            "f1": 0.1798780487804878
+        },
+        "relaxed": {
+            "f1": 0.10548821097691255
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.34782608695652173,
+            "precision": 0.1702127659574468,
+            "f1": 0.22857142857142854
+        },
+        "relaxed": {
+            "f1": 0.2707595876345876
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.15579710144927536,
+            "precision": 0.1799163179916318,
+            "f1": 0.16699029126213594
+        },
+        "relaxed": {
+            "f1": 0.39868057574165244
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3305785123966942,
+            "precision": 0.28368794326241137,
+            "f1": 0.3053435114503817
+        },
+        "relaxed": {
+            "f1": 0.29923483327661426
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.43478260869565216,
+            "precision": 0.20833333333333334,
+            "f1": 0.28169014084507044
+        },
+        "relaxed": {
+            "f1": 0.3921719313824577
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.19384057971014493,
+            "precision": 0.18838028169014084,
+            "f1": 0.19107142857142856
+        },
+        "relaxed": {
+            "f1": 0.4207802604108621
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3677685950413223,
+            "precision": 0.2725880551301684,
+            "f1": 0.3131046613896218
+        },
+        "relaxed": {
+            "f1": 0.3336558495852557
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.21739130434782608,
+            "precision": 0.08130081300813008,
+            "f1": 0.1183431952662722
+        },
+        "relaxed": {
+            "f1": 0.21719605047730045
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.10144927536231885,
+            "precision": 0.20588235294117646,
+            "f1": 0.13592233009708737
+        },
+        "relaxed": {
+            "f1": 0.46352636937454683
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.07231404958677685,
+            "precision": 0.15486725663716813,
+            "f1": 0.09859154929577464
+        },
+        "relaxed": {
+            "f1": 0.176970126159368
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3695652173913043,
+            "precision": 0.1069182389937107,
+            "f1": 0.16585365853658537
+        },
+        "relaxed": {
+            "f1": 0.22570006382506377
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.019927536231884056,
+            "precision": 0.12941176470588237,
+            "f1": 0.03453689167974882
+        },
+        "relaxed": {
+            "f1": 0.080192619518946
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.004132231404958678,
+            "precision": 0.06896551724137931,
+            "f1": 0.0077972709551656924
+        },
+        "relaxed": {
+            "f1": 0.026513517183630476
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3695652173913043,
+            "precision": 0.23943661971830985,
+            "f1": 0.29059829059829057
+        },
+        "relaxed": {
+            "f1": 0.4889200629119984
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.07789855072463768,
+            "precision": 0.24431818181818182,
+            "f1": 0.11813186813186813
+        },
+        "relaxed": {
+            "f1": 0.47079981394608944
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.049586776859504134,
+            "precision": 0.17518248175182483,
+            "f1": 0.07729468599033817
+        },
+        "relaxed": {
+            "f1": 0.38016199812736184
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5,
+            "precision": 0.2948717948717949,
+            "f1": 0.3709677419354839
+        },
+        "relaxed": {
+            "f1": 0.4127669552669553
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.17028985507246377,
+            "precision": 0.16013628620102216,
+            "f1": 0.1650570676031607
+        },
+        "relaxed": {
+            "f1": 0.399413618747495
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.38636363636363635,
+            "precision": 0.26945244956772335,
+            "f1": 0.3174872665534804
+        },
+        "relaxed": {
+            "f1": 0.32555378406352187
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.41304347826086957,
+            "precision": 0.2923076923076923,
+            "f1": 0.3423423423423424
+        },
+        "relaxed": {
+            "f1": 0.5535908088327444
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.06884057971014493,
+            "precision": 0.11209439528023599,
+            "f1": 0.08529741863075196
+        },
+        "relaxed": {
+            "f1": 0.39859154995217716
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.022727272727272728,
+            "precision": 0.10891089108910891,
+            "f1": 0.03760683760683761
+        },
+        "relaxed": {
+            "f1": 0.1111904761904762
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.34782608695652173,
+            "precision": 0.1797752808988764,
+            "f1": 0.23703703703703705
+        },
+        "relaxed": {
+            "f1": 0.2676048257298257
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.16304347826086957,
+            "precision": 0.1624548736462094,
+            "f1": 0.162748643761302
+        },
+        "relaxed": {
+            "f1": 0.3809905050231206
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3347107438016529,
+            "precision": 0.26644736842105265,
+            "f1": 0.2967032967032967
+        },
+        "relaxed": {
+            "f1": 0.2985154487569271
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.5769230769230769,
+            "f1": 0.6122448979591837
+        },
+        "relaxed": {
+            "f1": 0.6941861749361748
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.5018115942028986,
+            "precision": 0.5,
+            "f1": 0.5009041591320073
+        },
+        "relaxed": {
+            "f1": 0.5245100442573593
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6632231404958677,
+            "precision": 0.5611888111888111,
+            "f1": 0.6079545454545453
+        },
+        "relaxed": {
+            "f1": 0.655195730429251
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6304347826086957,
+            "precision": 0.5272727272727272,
+            "f1": 0.5742574257425742
+        },
+        "relaxed": {
+            "f1": 0.6675679875679874
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.5452898550724637,
+            "precision": 0.5225694444444444,
+            "f1": 0.5336879432624114
+        },
+        "relaxed": {
+            "f1": 0.4925723405904538
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6942148760330579,
+            "precision": 0.6010733452593918,
+            "f1": 0.6442953020134228
+        },
+        "relaxed": {
+            "f1": 0.674755678577575
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5652173913043478,
+            "precision": 0.4727272727272727,
+            "f1": 0.5148514851485148
+        },
+        "relaxed": {
+            "f1": 0.6383535353535355
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.14673913043478262,
+            "precision": 0.24846625766871167,
+            "f1": 0.18451025056947612
+        },
+        "relaxed": {
+            "f1": 0.6554524810891034
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.07231404958677685,
+            "precision": 0.13618677042801555,
+            "f1": 0.09446693657219972
+        },
+        "relaxed": {
+            "f1": 0.5056509431283522
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6086956521739131,
+            "precision": 0.5490196078431373,
+            "f1": 0.577319587628866
+        },
+        "relaxed": {
+            "f1": 0.6733297258297257
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.1322463768115942,
+            "precision": 0.24414715719063546,
+            "f1": 0.17156286721504113
+        },
+        "relaxed": {
+            "f1": 0.6522693787107744
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.3884297520661157,
+            "precision": 0.632996632996633,
+            "f1": 0.4814340588988476
+        },
+        "relaxed": {
+            "f1": 0.8152961460341711
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.4782608695652174,
+            "precision": 0.4,
+            "f1": 0.43564356435643564
+        },
+        "relaxed": {
+            "f1": 0.5969157509157509
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.04891304347826087,
+            "precision": 0.15976331360946747,
+            "f1": 0.07489597780859918
+        },
+        "relaxed": {
+            "f1": 0.6832939689792068
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.03925619834710744,
+            "precision": 0.08085106382978724,
+            "f1": 0.05285118219749652
+        },
+        "relaxed": {
+            "f1": 0.45750586044295405
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.6666666666666666,
+            "f1": 0.6593406593406593
+        },
+        "relaxed": {
+            "f1": 0.7895709845709845
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.5307971014492754,
+            "precision": 0.5104529616724739,
+            "f1": 0.5204262877442274
+        },
+        "relaxed": {
+            "f1": 0.49316299665983426
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6363636363636364,
+            "precision": 0.6184738955823293,
+            "f1": 0.6272912423625254
+        },
+        "relaxed": {
+            "f1": 0.707457506050915
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.43478260869565216,
+            "precision": 0.4166666666666667,
+            "f1": 0.425531914893617
+        },
+        "relaxed": {
+            "f1": 0.643148656898657
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.050724637681159424,
+            "precision": 0.1958041958041958,
+            "f1": 0.08057553956834532
+        },
+        "relaxed": {
+            "f1": 0.6660317238746123
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "ext",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.04338842975206612,
+            "precision": 0.11170212765957446,
+            "f1": 0.0625
+        },
+        "relaxed": {
+            "f1": 0.5495492940183067
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.6521739130434783,
+            "precision": 0.5263157894736842,
+            "f1": 0.5825242718446602
+        },
+        "relaxed": {
+            "f1": 0.6421552891552891
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def_exp",
+        "entity": "participants",
+        "strict": {
+            "recall": 0.4945652173913043,
+            "precision": 0.48663101604278075,
+            "f1": 0.490566037735849
+        },
+        "relaxed": {
+            "f1": 0.5176068682544296
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.7045454545454546,
+            "precision": 0.5599343185550082,
+            "f1": 0.6239707227813357
+        },
+        "relaxed": {
+            "f1": 0.6308601062805976
+        }
+    }
+]

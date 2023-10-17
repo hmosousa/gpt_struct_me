@@ -1,0 +1,13 @@
+[["um corpo", "Per"], ["de um homem", "Per"], ["aparecendo entre 60 e 70 anos", "Per"], ["foi encontrado", "Per"], ["a boiar no mar", "Other"], ["na praia da Estaquinha", "Loc"], ["no concelho de Lagoa (Algarve)", "Loc"], ["de acordo com as autoridades", "Other"], ["o homem", "Per"], ["um pescador", "Per"], ["terá alegadamente caído", "Other"], ["ao mar", "Other"], ["quando praticava pesca lúdica", "Other"], ["numa arriba", "Other"], ["naquela praia de Lagoa", "Loc"], ["do distrito de Faro", "Loc"], ["depois de ter sido dado", "Other"], ["o alerta para o avistamento", "Other"], ["de um corpo a boiar no mar", "Other"], ["foi ativada", "Other"], ["a Estação Salva-vidas de Ferragudo", "Org"], ["que procedeu à recolha", "Other"], ["do corpo", "Other"], ["e transportou para a marina de Portimão", "Other"], ["“O óbito foi declarado", "Other"], ["no local", "Loc"], ["pelo delegado de saúde de Lagoa", "Per"], ["tendo o corpo", "Other"], ["been transportado", "Other"], ["para o gabinete de medicina legal de Portimão", "Other"], ["A Polícia Marítima", "Org"], ["de Portimão", "Org"], ["tomou conta", "Other"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Obj: Object
+* Other: Other
+* Fac: Facility
+* Loc: Location
+* Org: Organization
+
+The input text is a news article about a body found floating in the sea in Lagoa, Algarve, Portugal. The output lists the entities and their classes in the text.

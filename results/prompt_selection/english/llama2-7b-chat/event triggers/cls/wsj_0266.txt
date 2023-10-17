@@ -1,0 +1,26 @@
+[
+{
+"Entity": "Harry Brown",
+"Class": "Aspectual"
+},
+{
+"Entity": "The Reserve Fund",
+"Class": "Aspectual"
+},
+{
+"Entity": "SEC",
+"Class": "Reporting"
+},
+{
+"Entity": "Centennial Journal",
+"Class": "Reporting"
+},
+{
+"Entity": "money-fund concept",
+"Class": "Intensional Action"
+},
+{
+"Entity": "money fund",
+"Class": "Intensional State"
+}
+]

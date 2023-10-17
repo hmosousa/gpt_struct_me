@@ -1,0 +1,20 @@
+["preso", "preventivamente", "Penafiel", "obrigar", "companheira", "prostituir-se", "juiz", "instrução", "ordenou", "prisão", "preventiva", "homem", "47", "anos", "idade", "Ministério", "Público", "Penafiel", "indiciou", "obrigar", "mulher", "vivia", "comunhão", "de", "vida", "só", "com", "arguido", "sujeitava", "exploração", "via", "pública", "ficando", "proveitos", "obtidos", "desse", "prática", "sendo", "submetida", "fugiu", "algumas", "situação", "suspeito", "obrigada", "voltar", "promessa", "receber", "produto", "estupefaciente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indicou", "prática", "tráfico", "de", "pessoas", "exploração", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados hoje pela Organização Mundial de Saúde (OMS).
+A OMS informou que 100.000.000 de pessoas estão em quarentena em 180 países, incluindo 10.000.000 em quarentena obrigatória.
+A OMS também informou que 1.500.000 pessoas estão em quarentena em 110 países, incluindo 1.000.000 em quarentena obrigatória.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 100 países, incluindo 100.000 em quarentena obrigatória.
+A OMS informou que 100.000 pessoas estão em quarentena em 10 países, incluindo 10.000 em quarentena obrigatória.
+A OMS informou que 10.000 pessoas estão em quarentena em 10 países, incluindo 1.000 em quarentena obrigatória.
+A OMS informou que 1.000 pessoas estão em quarentena em 10 países, incluindo 100 em quarentena obrigatória.
+A OMS informou que 100 pessoas estão em quarentena em 10 países, incluindo 10 em quarentena obrigatória.
+A OMS informou que 10 pessoas estão em quarentena em 10 países, incluindo 1 em quarentena obrigatória.
+A OMS informou que 1 pessoa está em quarentena em 10 países, incluindo 1 em quarentena obrigatória."
+
+Output:
+["Covid-19", "100", "milhões", "de", "pessoas", "quarentena", "em", "todo", "o", "mundo", "pandemia", "de", "covid-19", "esta", "atingindo", "mais", "de", "100", "milhões", "de", "pessoas", "em", "quarentena", "em", "180", "países", "incluindo", "10", "milhões", "em", "quarentena", "obrigatória", "a", "OMS", "informou", "que", "100.000.000", "de", "pessoas", "estão", "em", "quarentena", "em",

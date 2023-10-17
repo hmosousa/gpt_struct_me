@@ -1,0 +1,13 @@
+[["homem", "I_Action"], ["ferido", "Occurrence"], ["gravidade", "Occurrence"], ["agressão", "Occurrence"], ["garrafa", "Object"], ["restaurante", "Location"], ["Cajados", "Location"], ["Palmela", "Location"], ["Setúbal", "Location"], ["hospital de São Bernardo", "Location"], ["proprietário", "I_Action"], ["consumir bebidas alcoólicas", "Occurrence"], ["proibido", "State"], ["álcool na via pública", "State"], ["outras duas pessoas", "I_Action"], ["sofreram ferimentos ligeiros", "Occurrence"], ["ambulância", "Object"], ["meios próprios", "Object"], ["bombeiros", "I_Action"], ["corporação de Águas de Moura", "Organization"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity and the second string is the class. The classes are:
+
+* I_Action: an action or event that is performed or occurs
+* Occurrence: an event or occurrence that happens or takes place
+* Reporting: a statement or piece of information that is reported or communicated
+* Aspectual: a property or characteristic of something that is described or mentioned
+* Intensional Action: an action or event that is intended or planned
+* Intensional State: a state or condition that is intended or planned
+
+Your task is to extract and classify all the event triggers in the input text.

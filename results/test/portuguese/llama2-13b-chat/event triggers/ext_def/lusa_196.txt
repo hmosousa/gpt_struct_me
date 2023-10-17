@@ -1,0 +1,13 @@
+["Homem baleado", "fugiu", "Vila Nova de Gaia", "Gulpilhares", "hospital Santos Silva", "Vila de Gaia", "distrito do Porto", "bombeiros de Valadares", "ferido ligeiro", "Polícia Judiciária", "caso da competência reservada"]
+
+Explanation:
+
+* "Homem baleado" is an event trigger because it refers to a specific occurrence (a man being shot).
+* "fugiu" is an event trigger because it refers to the action of the perpetrator fleeing the scene.
+* "Vila Nova de Gaia" and "Gulpilhares" are location triggers because they refer to specific places where the event occurred.
+* "hospital Santos Silva" is a location trigger because it refers to the hospital where the victim was taken.
+* "Vila de Gaia" and "distrito do Porto" are location triggers because they refer to the city and district where the event occurred.
+* "bombeiros de Valadares" is an organization trigger because it refers to the fire department that responded to the incident.
+* "ferido ligeiro" is a state trigger because it refers to the condition of the victim (lightly injured).
+* "Polícia Judiciária" is an organization trigger because it refers to the judicial police that was called to investigate the case.
+* "caso da competência reservada" is a state trigger because it refers to the fact that the case is under the jurisdiction of the judicial police.

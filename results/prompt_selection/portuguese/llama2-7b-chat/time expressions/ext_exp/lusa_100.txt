@@ -1,0 +1,10 @@
+["em Penafiel", "distrito do Porto", "39 anos", "42 anos", "Penafiel", "GNR", "separação", "vítima", "local de trabalho", "botão de pânico", "teleassistência", "antecedentes criminais", "ilícitos"]
+
+
+Note:
+
+* The output is a JSON-parseable list of strings.
+* The input is a sentence or a paragraph of text.
+* The task is to extract all time expressions from the input text.
+* Time expressions are words or phrases that indicate time, such as "em menos de uma semana", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "época de veda", "épocas de veda".
+* The output is a list of time expressions found in the input text.

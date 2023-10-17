@@ -1,0 +1,22 @@
+["Homem encontrado morto no rio Tua na zona de Mirandela",
+"Um homem de 32 anos foi encontrado morto ao início da madrugada de hoje no rio Tua, na zona de Valverde da Gestosa, em Mirandela, local para onde terá ido pescar, informou a GNR.",
+"De acordo com informação disponibilizada à Lusa por aquela força de segurança, o homem terá saído de casa na manhã de domingo para ir à pesca.",
+"Por volta das 19:30, as autoridades foram alertadas para o desaparecimento e iniciaram buscas no local.",
+"O corpo foi encontrado depois da meia-noite e retirado do rio nas proximidades do local onde as autoridades encontraram os haveres do pescador.",
+"De acordo com a fonte, o caso foi entregue à Polícia Judiciária para serem apuradas as circunstâncias da morte."]
+
+Explanation:
+The event triggers are the strings that are not part of the main text.
+
+## Solution
+
+```python
+import json
+import re
+
+def extract_event_triggers(text):
+    event_triggers = []
+    for event in re.finditer(r'[^\w\s]+', text):
+        event_triggers.append(event.group())
+    return event_triggers
+```

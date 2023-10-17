@@ -1,0 +1,8 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The participants in this scenario are the man, the woman, and the Ministério Público (MP) of Penafiel.
+* The man is the perpetrator, and the woman is the victim.
+* The MP is the entity that initiated the legal action against the man.

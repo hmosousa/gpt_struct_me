@@ -1,0 +1,15 @@
+["Homem mata ex-companheira com tiro em Vila Nova de Gaia", "Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia e foi detido numa altura em que estaria a tentar o suicídio com a mesma arma", "fonte da GNR", "fonte do Comando Territorial da GNR do Porto", "referiu à agência Lusa", "referiu à agência Lusa que o crime ocorreu", "cerca das 10:30 na Rua da Figueirinha", "em Grijó", "Vila Nova de Gaia", "distrito do Porto", "o homem tem 62 anos", "a vítima era 20 anos mais nova", "a fonte admitiu que o homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos", "passou para a alçada da Polícia Judiciária"]
+
+
+"""
+
+
+def extract_time_expressions(text):
+    """
+    Extract all time expressions.
+
+    :param text:
+    :return:
+    """
+    time_expressions = []
+    for time_expression in re.finditer(r'\d{2,4}\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s+(\w+)\s

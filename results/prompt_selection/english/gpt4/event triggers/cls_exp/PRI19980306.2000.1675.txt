@@ -1,0 +1,1 @@
+[["reports", "REPORTING"], ["fleeing", "OCCURRENCE"], ["saying", "REPORTING"], ["confirmed", "REPORTING"], ["planned", "OCCURRENCE"], ["witnessing", "PERCEPTION"], ["worried", "I_STATE"], ["fearing", "PERCEPTION"], ["taking", "OCCURRENCE"], ["gunfire", "OCCURRENCE"], ["offensive", "OCCURRENCE"], ["move", "OCCURRENCE"], ["attack", "OCCURRENCE"]]

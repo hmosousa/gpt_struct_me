@@ -1,0 +1,31 @@
+[["hoje", "Date"], ["52 anos", "Time"], ["hoje", "Date"], ["07:50", "Time"]]
+
+Note:
+The input text can be in any language.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, but the task is only to extract and classify time expressions.
+
+Note:
+The output should be in the format specified above.
+
+Note:
+The task is to classify the time expressions in the input text, not to extract all entities.
+
+Note:
+The input text can be in any language, but the output should be in the format specified above.
+
+Note:
+The task is to classify the time expressions in the input text, not to translate the input text.
+
+Note:
+The output should be a JSON-parseable list.

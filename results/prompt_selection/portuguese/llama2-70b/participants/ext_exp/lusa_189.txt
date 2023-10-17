@@ -1,0 +1,1 @@
+["homem", "tirou", "barreiro", "atirador", "fuga", "baleado", "caçadeira", "atirador", "fuga", "policia", "seguranca", "publica", "psp", "incidente", "ocorreu", "hoje", "circunstancia", "tiroteio", "suspeita", "homicidio", "armas", "fogo", "policia", "judicial", "investigacao"]

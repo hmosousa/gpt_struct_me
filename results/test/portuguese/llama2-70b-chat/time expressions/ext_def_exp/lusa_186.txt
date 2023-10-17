@@ -1,0 +1,8 @@
+["hoje", "cerca de 60 anos", "cerca de 25 metros", "17:15", "cerca de 17:15", "hoje", "30 nov 2020"]
+
+Note:
+The input text may contain other temporal expressions not listed in the examples, such as "ontem" (yesterday), "amanhã" (tomorrow), "agora" (now), "desta semana" (this week), "próxima semana" (next week), "deste mês" (this month), "próximo mês" (next month), "este ano" (this year), "próximo ano" (next year), etc.
+
+The output should be a JSON-parseable list of strings, where each string represents a temporal expression found in the input text.
+
+The task is to write a program that takes the input text and produces the output list of temporal expressions.

@@ -1,0 +1,16 @@
+[
+["homem", "Person"],
+["mãe", "Person"],
+["GNR", "Organization"],
+["Porto", "Location"],
+["armas brancas", "Object"],
+["crimes", "Other"]
+]
+
+Explanation:
+
+* "homem" and "mãe" are both classified as "Person" because they are human beings.
+* "GNR" is classified as "Organization" because it is a government agency.
+* "Porto" is classified as "Location" because it is a geographical location.
+* "armas brancas" is classified as "Object" because it is a physical object.
+* "crimes" is classified as "Other" because it is not a specific entity, but rather a category of wrongdoing.

@@ -1,0 +1,45 @@
+["Jayark Corp. agreed to pay $4 million in cash, $2 million of 12% convertible debentures, and 1.6 million common shares to acquire closely held Kofcoh Imports Inc.
+In over-the-counter trading Friday, Jayark was quoted at 87.5 cents bid, down 15.625 cents. At the market price, the transaction has a total indicated value of $7.4 million.
+Kofcoh is a New York holding company for Rosalco Inc., which imports furniture and other items. David L. Koffman, president and chief executive officer of Jayark, holds about 40% of Kofcoh, Jayark said.
+Jayark, New York, distributes and rents audio-visual equipment and prints promotional ads for retailers. In the quarter ended July 31, Jayark had an average of 5.6 million shares outstanding.
+The transaction is subject to approval by a panel of disinterested directors, the company said, adding that shareholder approval isn't needed."]
+
+Explanation:
+The task is to extract all time expressions from the given text.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The following are some examples of time expressions:
+
+- "I'll be there in a minute."
+- "I'll be there in 10 minutes."
+- "I'll be there in an hour."
+- "I'll be there in 2 hours."
+- "I'll be there tomorrow."
+- "I'll be there next week."
+- "I'll be there next month."
+- "I'll be there next year."
+
+In this task, we will be extracting all time expressions from the given text.
+
+The input will be a JSON-parseable list of strings.
+
+The output will be a JSON-parseable list of strings.
+
+The format of the output will be as follows:
+
+- "Jayark Corp. agreed to pay $4 million in cash, $2 million of 12% convertible debentures, and 1.6 million common shares to acquire closely held Kofcoh Imports Inc.
+In over-the-counter trading Friday, Jayark was quoted at 87.5 cents bid, down 15.625 cents. At the market price, the transaction has a total indicated value of $7.4 million.
+Kofcoh is a New York holding company for Rosalco Inc., which imports furniture and other items. David L. Koffman, president and chief executive officer of Jayark, holds about 40% of Kofcoh, Jayark said.
+Jayark, New York, distributes and rents audio-visual equipment and prints promotional ads for retailers. In the quarter ended July 31, Jayark had an average of 5.6 million shares outstanding.
+The transaction is subject to approval by a panel of disinterested directors, the company said, adding that shareholder approval isn't needed."
+
+The output will be a JSON-parseable list of strings.
+
+The format of the output will be as follows:
+
+- "Jayark Corp. agreed to pay $4 million in cash, $2 million of 12% convertible debentures, and 1.6 million common shares to acquire closely held Kofcoh Imports Inc.
+In over-the-counter trading Friday, Jayark was quoted at 87.5 cents bid, down 15.625 cents. At the market price, the transaction has a total indicated value of $7.4 million.
+Kofcoh is a New York holding company for Rosalco Inc., which imports furniture and other items. David L. Koffman, president and chief executive officer of Jayark, holds about 40% of Kofcoh, Jayark said.
+Jayark, New York, distributes and rents audio-visual equipment and prints promotional ads for retailers. In the quarter ended July 31, Jayark had an average of 5.6 million shares outstanding.
+The transaction is subject

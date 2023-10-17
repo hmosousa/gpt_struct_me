@@ -1,0 +1,48 @@
+[["PJ", "State"], ["homem", "Occurrence"], ["balear", "Reporting"], ["jovem", "Perception"], ["coletividade", "Aspectual"], ["Setúbal", "Intensional Action"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the data from file
+with open('data/event_triggers.json', 'r') as f:
+   event_trigger = json.load(f)
+
+# Remove punctuation and lowercase all words
+def normalise(text):
+   return text.lower().translate({ord(c): None for c in string.punctuation})
+
+# Tokenize the sentence into words
+def tokenizer(sentence):
+   return [word for word in word_tokenize(normalise(sentence)) if not word in stopwords.words("portuguese")]
+
+# Stem each word
+def stemming(tokens):
+   return [PorterStemmer().stem(w) for w in tokens]
+
+# Tag each word with its POS tag
+def pos_tagger(tokens):
+   return pos_tag(tokens)
+
+# Parse the sentence using NLTK's chunk parser
+def parse(pos_tags):
+   cp = ChunkParserI()
+   cp.train(pos_tags, trace=5)
+   return cp.parse(pos_tags)
+
+# Get the list of chunks
+def get_chunks(parsed_sentence):
+   return parsed_sentence[0].subtrees()
+
+# Classify the chunks according to their head
+def classifier(head):
+   if "VB" in head:
+       return "Reporting"
+   elif "NN" in head or "NNS" in head:
+       return "Occurrence"
+   elif "JJ" in head or "RB" in head:

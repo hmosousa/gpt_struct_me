@@ -1,0 +1,29 @@
+[
+["Homem", "Person"],
+["Mogadouro", "Location"],
+["Vilarinhos dos Galegos", "Location"],
+["Bragança", "Location"],
+["Lusa", "Organization"],
+["INEM", "Organization"],
+["SIV", "Organization"],
+["VMER", "Organization"],
+["GNR", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Mogadouro" is a location.
+* "Vilarinhos dos Galegos" is a location.
+* "Bragança" is a location.
+* "Lusa" is an organization.
+* "INEM" is an organization.
+* "SIV" is an organization.
+* "VMER" is an organization.
+* "GNR" is an organization.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are extracted from the text using named entityrecognition techniques.
+* The classes are assigned based on the type of entity and its relevance to the event or state described in the text.

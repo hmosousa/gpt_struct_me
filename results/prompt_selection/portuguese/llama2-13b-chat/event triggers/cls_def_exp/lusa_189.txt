@@ -1,0 +1,12 @@
+[["homem", "I_Action"], ["morto", "Occurrence"], ["a tiro", "Occurrence"], ["no Barreiro", "Location"], ["baleado", "Occurrence"], ["com dois tiros de caçadeira", "Occurrence"], ["o atirador está em fuga", "State"], ["disse", "Reporting"], ["à agência Lusa", "Reporting"], ["fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "Reporting"], ["o incidente ocorreu", "Occurrence"], ["às 20:20 de hoje", "Aspectual"], ["não adiantando", "State"], ["mais informações sobre as circunstâncias do tiroteio", "State"], ["disse apenas", "Reporting"], ["tratando-se de uma suspeita de homicídio envolvendo armas de fogo", "State"], ["a ocorrência está a ser acompanhada pela Polícia Judiciária", "State"]]
+
+Note:
+The classes are based on the Penn Treebank tag set and were chosen based on their relevance to the task of event extraction. The classes are not mutually exclusive, and an event can be classified under multiple classes.
+
+Please help me to extract and classify all event triggers in the given texts.
+
+I have tried using spaCy's match_phrase function to extract the events, but I am not sure how to classify them correctly.
+
+Please provide me with the correct classification for each event trigger.
+
+Thank you!

@@ -1,0 +1,86 @@
+["GNR", "detém", "quatro", "suspeitos", "assaltos", "tráfico", "drogas", "Alto", "Minho", "A", "GNR", "deteve", "hoje", "homens", "alegadamente", "envolvidos", "assaltos", "residências", "estabelecimentos", "furtos", "interior", "veículos", "tráfico", "drogas", "Alto", "Minho", "Os", "suspeitos", "com", "idades", "entre", "anos", "todos", "com", "antecedentes", "criminais", "detidos", "âmbito", "investigação", "desenvolvida", "meio", "ano", "diversos", "furtos", "concelhos", "Arcos", "Valdevez", "Paredes", "Coura", "Ponte", "Barca", "Ponte", "Lima", "Terão", "praticado", "alguns", "crimes", "Vila", "Verde", "distrito", "Braga", "operação", "anunciada", "incluiu", "realização", "buscas", "domiciliárias", "resultaram", "apreensão", "heroína", "doses", "cocaína", "haxixe", "telemóveis", "computadores", "máquina", "fotográfica", "aparelho", "GPS"]
+
+Explanation:
+The task is to extract all participants from the given text.
+
+The participants in this text are:
+- GNR
+- detém
+- quatro
+- suspeitos
+- assaltos
+- tráfico
+- drogas
+- Alto
+- Minho
+- A
+- GNR
+- deteve
+- hoje
+- homens
+- alegadamente
+- envolvidos
+- assaltos
+- residências
+- estabelecimentos
+- furtos
+- interior
+- veículos
+- tráfico
+- drogas
+- Alto
+- Minho
+- Os
+- suspeitos
+- com
+- idades
+- entre
+- anos
+- todos
+- com
+- antecedentes
+- criminais
+- detidos
+- âmbito
+- investigação
+- desenvolvida
+- meio
+- ano
+- diversos
+- furtos
+- concelhos
+- Arcos
+- Valdevez
+- Paredes
+- Coura
+- Ponte
+- Barca
+- Ponte
+- Lima
+- Terão
+- praticado
+- alguns
+- crimes
+- Vila
+- Verde
+- distrito
+- Braga
+- operação
+- anunciada
+- incluiu
+- realização
+- buscas
+- domiciliárias
+- resultaram
+- apreensão
+- heroína
+- doses
+- cocaína
+- haxixe
+- telemóveis
+- computadores
+- máquina
+- fotográfica
+- aparelho
+- GPS
+

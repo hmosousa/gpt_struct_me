@@ -1,0 +1,1 @@
+["ficou", "grave", "atropelado", "autocarro", "disser", "Proteção Civil", "assistido", "transportado", "Bombeiros", "ocorreu", "prestar", "assistência", "Viatura Médica", "Emergência", "Reanimação", "Ambulância", "Suporte Imediato", "Vida", "GNR"]

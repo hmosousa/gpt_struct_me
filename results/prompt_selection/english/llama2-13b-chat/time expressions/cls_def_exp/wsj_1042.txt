@@ -1,0 +1,7 @@
+[["AVON RENT-A-CAR amp TRUCK Corp.", "ORGANIZATION"], ["Santa Monica", "LOCATION"], ["3.3 million", "NUMBER"], ["one warrant", "QUANTITY"], ["each three shares", "RATIO"], ["Class C warrants", "CLASS"], ["$5.50", "PRICE"], ["90 days", "DURATION"], ["additional", "ADJECTIVE"], ["243,677", "NUMBER"], ["Class A", "CLASS"], ["Class B", "CLASS"], ["unclassified warrants", "CLASS"]]
+
+Note:
+The output is a list of lists, where each sub-list contains two strings: the first string is the entity and the second string is the class.
+
+Hint:
+You can use the Stanford POS Tagger to help you identify the parts of speech for each word in the input text.

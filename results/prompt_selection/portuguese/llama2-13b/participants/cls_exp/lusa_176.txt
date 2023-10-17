@@ -1,0 +1,18 @@
+[["Um homem de 34 anos", "Per"], ["morreu", "Verb"], ["hoje", "Adv"], ["o ciclomotor que conduzia", "Obj"], ["ter", "Verb"], ["ser colhido", "Verb"], ["por um veículo ligeiro", "Obj"], ["na Estrada Nacional 10-8", "Loc"], ["na zona da Mitrena", "Loc"], ["em Setúbal", "Loc"], ["disseram", "Verb"], ["fontes", "Noun"], ["da PSP", "Org"], ["e Proteção Civil", "Org"], ["Fonte", "Noun"], ["do Comando Distrital de Operações de Socorro", "Org"], ["(CDOS)", "Noun"], ["de Setúbal", "Loc"], ["indicou", "Verb"], ["à agência Lusa", "Obj"], ["que", "Conj"], ["o óbito", "Noun"], ["do homem", "Obj"], ["foi", "Verb"], ["declarado", "Verb"], ["no local", "Loc"], ["tendo", "Conj"], ["o corpo", "Noun"], ["ser", "Verb"], ["encaminhado", "Verb"], ["para", "Prep"], ["o serviço de Medicina legal", "Noun"], ["do Hospital de São Bernardo", "Noun"], ["em Setúbal", "Loc"], ["O alerta", "Noun"], ["de acordo", "Conj"], ["com o CDOS", "Noun"], ["foi", "Verb"], ["dado", "Verb"], ["às 06:55", "Time"], ["tendo", "Conj"], ["sido", "Verb"], ["mobilizados", "Verb"], ["bombeiros", "Noun"], ["e veículos", "Noun"], ["das corporações", "Noun"], ["de Palmela", "Noun"], ["e Sapadores", "Noun"], ["de Setúbal", "Noun"], ["e uma viatura médica de emergência", "Noun"], ["e reanimação", "Noun"], ["(VMER)", "Noun"], ["além", "Prep"], ["da PSP", "Org"], ["e", "Conj"], ["cinco veículos", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque dizem que não há indícios de ataque terrorista
+Autoridades de Nova Iorque dizem que não há indícios de ataque terrorista após explosão de um carro em Manhattan
+Autoridades de Nova Iorque dizem que não há indícios de ataque terrorista após explosão de um carro em Manhattan.
+A explosão ocorreu às 14h30 (19h30 GMT) na 23rd Street, entre a 6th e a 7th Avenues, no bairro de Chelsea, no centro da cidade.
+O carro explodiu em chamas e causou danos a um prédio próximo.
+Não houve feridos.
+A polícia de Nova Iorque disse que o carro era um Honda Accord branco, de 1990, e que o motorista havia fugido.
+A polícia disse que o carro foi encontrado na 27th Street, entre a 6th e a 7th Avenues, e que o motorista havia fugido.
+A polícia disse que o carro foi encontrado na 27th Street, entre a 6th e a 7th Avenues, e que o motorista havia fugido.
+A polícia disse que o carro foi encontrado na 27th Street, entre a 6th e a 7th Avenues, e que o motorista havia fugido.
+A polícia disse que o carro foi encontrado na 27th Street, entre a 6th e a 7th Avenues, e que o motorista havia fugido.
+A polícia disse que o carro foi encontrado na 27th Street, entre a 6th e a 7

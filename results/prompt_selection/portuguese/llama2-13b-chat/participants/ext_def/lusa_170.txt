@@ -1,0 +1,1 @@
+["homem", "Polícia Marítima de Angra do Heroísmo", "Polícia de Segurança Pública (PSP)", "Bombeiros Voluntários da Praia da Vitória", "hospital de Angra do Heroísmo"]

@@ -1,0 +1,2 @@
+["Thursday", "Friday", "next week", "Jan. 13", "over a week", "Friday", "Thursday", "Previously", "nearly two months", "Thursday", "03/06/1998 13:19:00", "daily", "1990", "10-hour", "Friday", "Feb. 23"]
+

@@ -1,0 +1,1 @@
+[["reported", "REPORTING"], ["loss", "STATE"], ["charge", "OCCURRENCE"], ["reported", "REPORTING"], ["loss", "STATE"], ["write-off", "OCCURRENCE"], ["drain", "OCCURRENCE"], ["added", "OCCURRENCE"], ["eliminated", "OCCURRENCE"], ["expects", "I_STATE"], ["examined", "OCCURRENCE"], ["slow", "OCCURRENCE"], ["continue", "OCCURRENCE"]]

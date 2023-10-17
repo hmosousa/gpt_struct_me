@@ -1,0 +1,11 @@
+[
+"Violência doméstica", "Pulseira eletrónica", "homem", "Penafiel", "distrito do Porto", "ex-companheira", "42 anos", "GNR", "suspeito", "violência física", "injúrias", "ameaças de morte", "separação", "perseguir", "residência", "local de trabalho", "botão de pânico", "teleassistência", "antecedentes criminais", "ilícitos", "proibido de contactar a vítima"]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a participant in the input text. The list is organized in a hierarchical manner, with the main participants at the top, and the sub-participants listed below. The output can be used as input for other NLP tasks, such as named entity recognition or part-of-speech tagging.

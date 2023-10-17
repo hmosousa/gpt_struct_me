@@ -1,0 +1,33 @@
+[
+{
+"entity": "incident",
+"class": "Occurrence"
+},
+{
+"entity": "man",
+"class": "Person"
+},
+{
+"entity": "shooter",
+"class": "Intensional Action"
+},
+{
+"entity": "police",
+"class": "Aspectual"
+},
+{
+"entity": "gun",
+"class": "Object"
+},
+{
+"entity": "fugitive",
+"class": "Intensional State"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with information about a crime that occurred in Barreiro, Portugal.
+* The task is to extract and classify all event triggers from the input text.
+* The event triggers are the entities in the text that indicate the occurrence of an event, such as the time of the incident, the location of the incident, the identity of the perpetrator, and the identity of the police involved inthe investigation.
+* The classes are predefined categories for the event triggers, such as "Occurrence", "Person", "Intensional Action", "Aspectual", and "Intensional State".
+* The output is a list of JSON objects, where each object represents an event trigger and contains the entity and class of the trigger.

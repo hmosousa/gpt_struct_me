@@ -1,0 +1,8 @@
+	["Autoridades judiciais", "buscas", "apartamento", "Maximiliano Trimarchi", "Diego Maradona", "San Isidro", "procuradoria-geral", "telemóveis", "Leopoldo Luque", "Agustina Cosachov", "inquérito", "negligência médica", "assistência"]
+
+
+Note:
+
+* Time expressions are extracted as separate strings.
+* They are in the format of "X semana", "X dia", "X mês", etc.
+* The output is a JSON-parseable list of strings.

@@ -1,0 +1,1 @@
+[["pleased", "I_STATE"], ["recognized", "OCCURRENCE"], ["listed", "OCCURRENCE"], ["created", "OCCURRENCE"], ["named", "OCCURRENCE"], ["innovated", "I_ACTION"], ["elimination", "OCCURRENCE"], ["thought", "OCCURRENCE"], ["result", "OCCURRENCE"], ["inadvertence", "OCCURRENCE"], ["President", "STATE"]]

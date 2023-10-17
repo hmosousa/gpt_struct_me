@@ -1,0 +1,1 @@
+["Homem", "proprietário", "restaurante", "Cajados", "Palmela", "Setúbal", "garrafa", "estabelecimento", "GNR", "vítima", "coma", "hospital", "São Bernardo", "Setúbal", "mulher", "automóvel", "restaurante", "álcool", "via pública", "Comando Distrital de Operações de Socorro", "Setúbal", "ambulância", "Águas de Moura"]

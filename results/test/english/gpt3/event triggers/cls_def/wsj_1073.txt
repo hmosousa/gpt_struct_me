@@ -1,0 +1,1 @@
+[["Advanced Medical Technologies Inc.", "Reporting"], ["purchased 93% of a unit of Henley Group Inc.", "Occurrence"], ["Advanced Medical paid $106 million in cash", "Occurrence"], ["intravenous pumps used by hospitals", "State"], ["had more than $110 million in sales last year", "Reporting"], ["according to Advanced Medical", "Reporting"]]

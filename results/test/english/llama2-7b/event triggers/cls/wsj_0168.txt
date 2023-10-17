@@ -1,0 +1,10 @@
+[
+  ["Meridian National Corp.", "State"],
+  ["Meridian National Corp.", "Occurrence"],
+  ["Meridian National Corp.", "Reporting"],
+  ["Meridian National Corp.", "Perception"],
+  ["Meridian National Corp.", "Aspectual"],
+  ["Meridian National Corp.", "Intensional Action"],
+  ["Meridian National Corp.", "Intensional State"]
+]
+

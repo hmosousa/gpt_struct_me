@@ -1,0 +1,10 @@
+[["homem", "I_Action"], ["morreu", "State"], ["ciclomotor", "Occurrence"], ["conduzia", "Occurrence"], ["ser colhido", "Occurrence"], ["veículo ligeiro", "Occurrence"], ["na", "Aspectual"], ["Estrada Nacional 10-8", "Location"], ["na", "Aspectual"], ["zona da Mitrena", "Location"], ["em", "Aspectual"], ["Setúbal", "Location"], ["disseram", "Reporting"], ["fontes", "Reporting"], ["da", "Aspectual"], ["PSP", "Organization"], ["e", "Aspectual"], ["Proteção Civil", "Organization"], ["Fonte", "Reporting"], ["do", "Aspectual"], ["Comando Distrital de Operações de Socorro", "Organization"], ["de", "Aspectual"], ["Setúbal", "Location"], ["indicou", "Reporting"], ["à", "Aspectual"], ["agência", "Reporting"], ["Lusa", "Organization"], ["que", "Occurrence"], ["o", "Aspectual"], ["óbito", "State"], ["do", "Aspectual"], ["homem", "I_Action"], ["for", "Aspectual"], ["bombeiros", "I_Action"], ["veículos", "I_Action"], ["de", "Aspectual"], ["Palmela", "Location"], ["e", "Aspectual"], ["Sapadores", "Location"], ["de", "Aspectual"], ["Setúbal", "Location"], ["e", "Aspectual"], ["VMER", "Organization"], ["além", "Aspectual"], ["da", "Aspectual"], ["PSP", "Organization"]]
+
+Note:
+
+* "I_Action" refers to an intensional action, which is an action that is performed by an entity (in this case, the homem)
+* "State" refers to a state, which is a property or condition of an entity (in this case, the death of the homem)
+* "Occurrence" refers to an occurrence, which is an event or situation that happens (in this case, the collision of the ciclomotor and the veículo ligeiro)
+* "Aspectual" refers to an aspect, which is a way of describing a property or condition of an entity (in this case, the location of the collision)
+
+Please let me know if you have any questions or need further clarification.

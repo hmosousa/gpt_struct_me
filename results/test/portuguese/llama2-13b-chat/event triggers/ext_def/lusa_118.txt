@@ -1,0 +1,11 @@
+["Costa em isolamento profilático após ter estado com Macron em Paris", "teste para deteção de Covid-19", "deslocação a São Tomé e Príncipe e Guiné Bissau", "cancelou essa deslocação", "toda a agenda pública que implique a sua presença física", "mantém toda a atividade executiva e a agenda de trabalho"]
+
+Note:
+
+* "Covid-19" is not an event trigger, it's a keyword that is used to identify the topic of the text.
+* "ter estado" is not an event trigger, it's a verb that is used to describe the action of being in a place.
+* "testou positivo" is an event trigger, as it refers to a specific occurrence (the test result being positive).
+* "adianta-se" is not an event trigger, it's a verb that is used to describe the act of mentioning something beforehand.
+* "realizou" is an event trigger, as it refers to a specific action (the test being performed).
+* "cancelou" is an event trigger, as it refers to a specific action (the cancellation of the deslocação).
+* "mantém" is an event trigger, as it refers to a specific action (the continuation of the work).

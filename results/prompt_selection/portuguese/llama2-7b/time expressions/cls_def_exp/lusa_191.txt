@@ -1,0 +1,32 @@
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+The first element is the entity and the second is the class.
+
+Example:
+	Input:
+	"Autoridades moçambicanas apreendem mais de uma tonelada de caranguejo
+A fiscalização marítima moçambicana apreendeu 1.100 quilos de caranguejo, no centro do país, em menos de uma semana, capturado na "época de veda", quando é proibido apanhar a espécie, disse hoje à Lusa fonte das autoridades.
+A última apreensão aconteceu no sábado quando as autoridades descobriram uma embarcação com 600 quilos de caranguejo.
+“Estamos a apreender caranguejo e embarcações e os responsáveis incorrem em pesadas multas, caso sejam neutralizados”, explicou o chefe da fiscalização, César Maphossa.
+No sábado, os tripulantes abandonaram o barco, fundeado nos arredores da cidade da Beira, centro de Moçambique, quando se aperceberam da chegada dos fiscais.
+A embarcação foi confiscada e os caranguejos, dissimulados em caixas, foram posteriormente devolvidos ao seu habitat natural, no mangal do rio Maria, arredores da capital provincial de Sofala.
+A apreensão ocorreu menos de uma semana após as autoridades terem descoberto outros 500 quilos de caranguejo capturado também no período de proibição, que começou em setembro e decorre até final do ano.
+As épocas de veda visam a manutenção e exploração sustentável de espécies marinhas, dando-lhes um período sem captura que permita a recuperação das respetivas populações."
+	Output:
+	[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+The first element is the entity and the second is the class.
+
+Example:
+	Input:
+	"Homem morre após ser esfaqueado nas costas junto ao mercado de Arroios em Lisboa
+Um homem de 29 anos morreu hoje depois de ter sido esfaqueado nas costas junto ao mercado de Arroios, em Lisboa, na sequência de um desentendimento, informou à agência Lusa a PSP.
+De acordo com o Comando Metropolitano de Lisboa (Cometlis), o esfaqueamento terá ocorrido na rua Ângela Pinto, pelas 10:54, tendo o óbito sido declarado dentro de um café, onde a vítima terá ido pedir ajuda.
+“Terá sido um desentendimento entre dois indivíduos que envolveu uma arma branca, tendo um deles sido esfaqueado na zona das costas”, disse fonte do Cometlis.
+Ainda a recolher informações sobre o caso, a PSP avançou que o suspeito do crime terá sido detido na Avenida Almirante Reis após tentativa de fuga. A polícia referiu que aguarda mais dados relativamente ao suspeito.
+À Lusa, fonte da polícia adiantou ainda que a Polícia Judiciária (PJ) já foi acionada por se tratar de um crime de homicídio.
+Cerca das 14:34, o local do crime encontrava-se preservado pelas forças policiais e com fitas de segurança."
+	Output:
+	[["menos de uma semana", "Duration"], ["sábado", "Date"], ["s

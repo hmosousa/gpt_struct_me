@@ -1,0 +1,7 @@
+[["For The World", "DATE"], ["this is Pamela McCall", "DATE"], ["in the BBC news room in London", "DATE"], ["More heavy gunfire", "DATE"], ["in the Serbian province of Kosovo", "DATE"], ["It's the second day of an offensive", "DATE"], ["by the security forces", "DATE"], ["against villages populated by ethnic Albanians", "DATE"], ["BBC correspondent Karyn Coleman reports from Kosovo", "DATE"], ["There were more accounts of people fleeing", "DATE"], ["from the villages near where the offensive was taking place", "DATE"], ["They were too afraid to stay", "DATE"], ["fearing the forces may also move their operations further afield", "DATE"], ["By mid afternoon", "DATE"], ["official Serb sources were saying the operation was over", "DATE"], ["but that has not yet been confirmed from Belgrade", "DATE"], ["the capital of Serbia", "DATE"], ["which is where the whole attack is thought to have been planned", "DATE"], ["The ethnic Albanians here in Kosovo are considerably worried", "DATE"], ["about the future and fear they are witnessing the beginnings of a much wider conflict", "DATE"]]
+
+Note:
+The date class is used for any date or time that is not a specific time of day.
+The time class is used for any specific time of day.
+The duration class is used for any amount of time.
+The set class is used for any group of items that can be considered a set.

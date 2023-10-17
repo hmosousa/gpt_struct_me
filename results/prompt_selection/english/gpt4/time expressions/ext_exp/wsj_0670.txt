@@ -1,0 +1,1 @@
+["the third quarter", "the year-ago third quarter", "fiscal 1989", "the next two years"]

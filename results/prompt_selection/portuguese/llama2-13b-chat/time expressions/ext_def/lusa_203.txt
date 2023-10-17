@@ -1,0 +1,20 @@
+["sete", "sete", "uma", "dois", "três", "quatro", "cinco", "seis", "sete", "oito", "nove", "dez", "dois", "três", "quatro", "cinco", "seis", "sete", "oito", "nove", "dez"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "sete pessoas" (seven people)
+* "sete pessoas foram mortas" (seven people were killed)
+* "outras sete ficaram feridas" (other seven were injured)
+* "uma faca" (one knife)
+* "dois ataques" (two attacks)
+* "três pessoas" (three people)
+* "quatro pessoas" (four people)
+* "cinco pessoas" (five people)
+* "seis pessoas" (six people)
+* "sete pessoas" (seven people)
+* "oito pessoas" (eight people)
+*"nove pessoas" (nine people)
+* "dez pessoas" (ten people)
+
+All of these expressions are time expressions, and they are listed in the output in the format of a JSON-parseable list of strings.

@@ -1,0 +1,10 @@
+[["hoje", "Date"], ["cerca das 17 horas", "Time"], ["48 anos", "Duration"], ["30 nov 2020", "Date"], ["setembro", "Time"], ["final do ano", "Time"]]
+
+Note:
+
+* Dates should be in the format "dd/mm/yyyy"
+* Times should be in the format "HH:MM"
+* Durations should be in the format "X dias/semanas/anos"
+* Set should be in the format "epoca/ano"
+
+Please note that the input text is in Portuguese.

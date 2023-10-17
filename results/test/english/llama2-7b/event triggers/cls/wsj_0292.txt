@@ -1,0 +1,9 @@
+[
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "State"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Occurrence"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Reporting"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Perception"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Aspectual"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Intensional Action"],
+  ["Despite continuing problems in its newsprint business, Kimberly-Clark Corp.", "Intensional State"]
+]

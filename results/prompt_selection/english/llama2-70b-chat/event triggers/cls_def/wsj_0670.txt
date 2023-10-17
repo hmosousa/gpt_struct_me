@@ -1,0 +1,18 @@
+[
+["National Intergroup Inc.", "Occurrence"],
+["sale of its aluminum unit's extrusion division", "Occurrence"],
+["agreed to sell the extrusion division", "Occurrence"],
+["charge of $5.3 million", "Reporting"],
+["after-tax gain of about $30 million", "Reporting"],
+["sale of National Aluminum's rolling division", "Occurrence"],
+["earned $22.5 million", "Reporting"],
+["revenue was $778.6 million", "Reporting"],
+["explore all options concerning the possible sale", "Intensional Action"],
+["sale of the extrusion division", "Occurrence"],
+["audit adjustments for working capital changes through the closing", "Occurrence"],
+["potential payments of additional proceeds", "Intensional Action"],
+["shipping levels", "Aspectual"]
+]
+
+Explanation:
+The first element in the list is "National Intergroup Inc." which is classified as an Occurrence as it refers to an event that is happening or has happened. The second element is "sale of its aluminum unit's extrusion division" which is also classified as an Occurrence as it refers to an event that is happening or has happened. The third element is "agreed to sell the extrusion division" which is classified as an Occurrence as it refers to an event that is happening or has happened. The fourth element is "charge of $5.3 million" which is classified as Reporting as it refers to the reporting of a financial event. The fifth element is "after-tax gain of about $30 million" which is also classified as Reporting as it refers to the reporting of a financial event. The sixth element is "sale of National Aluminum's rolling division" which is classified as an Occurrence as it refers to an event that is happening or has happened. The seventh element is "earned $22.5 million" which is classified as Reporting as it refers to the reporting of a financial event. The eighth element is "revenue was $778.6 million" which is also classified as Reporting as it refers to the reporting of a financial event. The ninth element is "explore all options concerning the possible sale" which is classified as an Intensional Action as it refers to a future action that is intended to be taken. The tenth element is "sale of the extrusion division" which is classified as an Occurrence as it refers to an event that is happening or has happened. The eleventh element is "audit adjustments for working capital changes through the closing" which is classified as an Occurrence as it refers to an event that is happening or has happened. The twelfth element is "potential payments of additional proceeds" which is classified as an Intensional Action as it refers to a future action that is intended to be taken. The thirteenth element is "shipping levels" which is classified as an Aspectual as it refers to a future event that is expected to happen.

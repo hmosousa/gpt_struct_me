@@ -1,0 +1,4 @@
+	["em menos de uma semana", "sábado", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "época de veda", "épocas de veda", "hoje", "afternoon", "later", "ambulância", "mobilizados"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a time expression extracted from the input text. The time expressions are in the format of "X semanas", "X dias", "X horas", "X minutos", "X segundos", "X anos", "X meses", "X semanas", "X dias", "X horas", "X minutos", "X segundos".

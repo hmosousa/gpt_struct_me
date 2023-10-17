@@ -1,0 +1,10 @@
+["atropelamento", "rodoviário", "Reguengo", "Cartaxo", "Santarém", "Lusa", "Comando Distrital de Operações de Socorro", "Hospital de São José", "Lisboa", "vítimas", "homens", "30", "40", "veículo ligeiro", "alerta", "Autoridade Nacional de Emergência e Proteção Civil", "operacionais", "viaturas"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Note:
+The event triggers are not necessarily the words that are used to describe the event.
+
+Reference:
+https://www.aclweb.org/anthology/P18-1001

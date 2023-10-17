@@ -1,0 +1,7 @@
+["convictions stand", "new appeal", "state court", "prison", "parole", "legal troubles", "securities fraud", "federal appeals court", "reinstated convictions", "Lincoln savings and loan", "junk bonds", "investors", "government regulators", "bankrupt thrift", "technicality"]
+
+Note:
+- The output should be a list of strings, where each string represents an event trigger.
+- The events are not necessarily in chronological order, but rather in the order they appear in the text.
+- Some events may be related to other events, but they should be listed separately.
+- The output should be in JSON format, with each event trigger as a string.

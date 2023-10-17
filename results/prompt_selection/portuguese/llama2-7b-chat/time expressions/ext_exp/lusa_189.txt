@@ -1,0 +1,4 @@
+["homem", "morto", "tiro", "Barreiro", "atirador", "em fuga", "Direção Nacional da Polícia de Segurança Pública", "PSP", "incidente", "20:20", "hoje", "circunstâncias", "tiroteio", "Polícia Judiciária"]
+
+Format:
+JSON-parseable list of strings.

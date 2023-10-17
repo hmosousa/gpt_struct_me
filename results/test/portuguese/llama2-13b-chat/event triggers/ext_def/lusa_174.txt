@@ -1,0 +1,9 @@
+["posse de armas proibidas", "detido", "constituído arguido", "arma de fogo", "bastão extensível", "duas buscas domiciliárias", "uma não domiciliária", "apreensão de uma réplica de arma de fogo e de um bastão extensível"]
+
+Note:
+
+* "posse de armas proibidas" is the main event trigger.
+* "detido" and "constituído arguido" are related to the main event trigger.
+* "arma de fogo" and "bastão extensível" are objects related to the main event trigger.
+* "duas buscas domiciliárias" and "uma não domiciliária" are actions related to the main event trigger.
+* "apreensão de uma réplica de arma de fogo e de um bastão extensível" is a more detailed description of the main event trigger.

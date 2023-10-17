@@ -1,0 +1,15 @@
+[
+"segunda-feira",
+"ondem",
+"hoje",
+"second-feira",
+"dezembro passado"
+]
+
+Explanation:
+
+* "segunda-feira" is a time expression indicating the day of the week.
+* "ondem" is a time expression indicating the day of the month.
+* "hoje" is a time expression indicating the current day.
+* "second-feira" is a time expression indicating the day of the week, in Portuguese.
+* "dezembro passado" is a time expression indicating the month and year, in the past tense.

@@ -1,1 +1,0 @@
-[["matou", "Occurrence"], ["disparo", "Occurrence"], ["detido", "State"], ["tentar", "Intensional Action"], ["suicídio", "Occurrence"], ["disparo", "Occurrence"], ["ocorreu", "Occurrence"], ["tem", "State"], ["cometido", "Occurrence"], ["terminar", "Occurrence"], ["mantiveram", "State"], ["passou", "State"]]

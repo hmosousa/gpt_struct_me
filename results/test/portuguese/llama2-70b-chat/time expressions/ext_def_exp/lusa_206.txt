@@ -1,0 +1,6 @@
+["hoje", "por volta das 12:00", "não especificada", "vários"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

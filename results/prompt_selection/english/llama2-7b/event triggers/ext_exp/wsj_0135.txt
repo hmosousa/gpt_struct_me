@@ -1,0 +1,17 @@
+["said", "expects", "below", "recent", "analyst's", "estimate", "1.65", "share", "Rockford", "Ill.", "maker", "fasteners", "also", "sales", "current", "fiscal", "1989", "earned", "7.8", "million", "1.65", "share", "company's", "stock", "fell", "1.125", "13.625", "over-the-counter", "trading", "yesterday"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new drug that can prevent the spread of AIDS, the Food and Drug Administration said.
+The agency said it would allow the sale of AZT, a drug that has been shown to slow the progression of the disease.
+The decision came after a panel of experts recommended that the drug be approved.
+The FDA said it would allow the sale of the drug, which is made by Burroughs Wellcome Co., under a special program that allows the sale of drugs that have not been fully tested.
+The agency said it would require the company to conduct further studies of the drug.
+The decision came after a panel of experts recommended that the drug be approved.
+The FDA said it would allow the sale of the drug, which is made by Burroughs Wellcome Co., under a special program that allows the sale of drugs that have not been fully tested.
+The agency said it would require the company to conduct further studies of the drug."
+
+Output:
+["decided", "allow", "sale", "new", "drug", "prevent", "spread", "AIDS", "Food", "Drug", "Administration", "agency", "allow", "AZT", "drug", "shown", "progression", "decision", "panel", "experts", "recommended", "approved", "FDA", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "made", "Burroughs", "Wellcome", "company", "conduct", "further", "studies", "decision", "allow", "sale", "drug", "

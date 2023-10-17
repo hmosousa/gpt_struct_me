@@ -1,0 +1,11 @@
+[
+"17:55",
+"sete metros",
+"17:55"
+]
+
+Explanation:
+
+* 17:55: time expression indicating the time when the victim was hit by the falling tree.
+* sete metros: time expression indicating the height of the ravine the victim fell into.
+* 17:55: time expression indicating the time when the victim was rescued.

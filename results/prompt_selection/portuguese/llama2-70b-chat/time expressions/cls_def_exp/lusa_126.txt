@@ -1,0 +1,103 @@
+[["no sábado", "Date"], ["sábado", "Date"], ["1.673", "Quantity"], ["1.570", "Quantity"], ["103", "Quantity"], ["844", "Quantity"], ["quatro", "Quantity"], ["Tribunal Judicial de Santiago do Cacém", "Location"]]
+
+Note:
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Hint:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a sample task and the input and output may not be accurate.
+The task is part of a project to develop a temporal information extraction system.
+The goal is to extract and classify temporal expressions in text to support decision-making applications.
+
+Note:
+The task is to extract and classify temporal expressions in text.
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions.
+
+Note:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to classify temporal expressions.
+
+Note:
+This is a

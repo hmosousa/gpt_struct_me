@@ -1,0 +1,1 @@
+[["Trustcorp", "OCCURRENCE"], ["become", "OCCURRENCE"], ["said", "REPORTING"], ["agreed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["close", "OCCURRENCE"], ["end", "OCCURRENCE"]]

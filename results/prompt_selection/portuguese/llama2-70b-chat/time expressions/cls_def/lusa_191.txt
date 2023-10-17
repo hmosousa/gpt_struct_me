@@ -1,0 +1,38 @@
+[
+["Homem", "Date"],
+["29 anos", "Duration"],
+["hoje", "Date"],
+["10:54", "Time"],
+["pelas 10:54", "Time"],
+["desentendimento", "Set"],
+["Terá sido", "Set"],
+["uma arma branca", "Set"],
+["tendo um deles sido esfaqueado", "Set"],
+["Avenida Almirante Reis", "Date"],
+["à Lusa", "Date"],
+["Polícia Judiciária", "Date"],
+["crime de homicídio", "Set"],
+["Cerca das 14:34", "Time"],
+["fitas de segurança", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into four different classes: Date, Time, Duration, and Set.
+
+* "Homem" (man) is a Date class, as it refers to a specific person.
+* "29 anos" (29 years) is a Duration class,as it represents a specific time period.
+* "hoje" (today) is a Date class, as it refers to a specific day.
+* "10:54" is a Time class, as it represents a specific time of day.
+* "pelas 10:54" (around 10:54) is also a Time class, as it refers to a specific time of day.
+* "desentendimento" (misunderstanding) is a Set class, as it represents a set of circumstances.
+* "Terá sido" (it will have been) is a Set class, as it represents a hypothetical situation.
+* "uma arma branca" (a white weapon) is a Set class, as it represents a set of objects.
+* "tendo um deles sido esfaqueado" (having one of them been stabbed) is a Set class, as it represents a set of events.
+* "Avenida Almirante Reis" (Avenue Almirante Reis) is a Date class, as it refers to a specific location.
+* "à Lusa"(to Lusa) is a Date class, as it refers to a specific news agency.
+* "Polícia Judiciária" (Judicial Police) is a Date class, as it refers to a specific law enforcement agency.
+* "crime de homicídio" (homicide crime) is a Set class, as it represents a set of criminal acts.
+* "Cerca das 14:34" (around 14:34) is a Time class, as it refers to a specific time of day.
+* "fitas de segurança" (security tapes) is a Set class, as it represents a set of objects.
+
+The output is a JSON-parseable list where each element is a list with two strings: the first string is the entity (the temporal expression), and the second string is the class (Date, Time, Duration, or Set).

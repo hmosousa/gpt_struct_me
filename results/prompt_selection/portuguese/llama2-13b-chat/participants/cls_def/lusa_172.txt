@@ -1,0 +1,23 @@
+[
+["Corpo de homem", "Object"],
+["homem", "Person"],
+["pescador", "Person"],
+["Autoridade Marítima", "Organization"],
+["Estaquinha", "Location"],
+["Faro", "Location"],
+["Portimão", "Location"],
+["delegada de saúde de Lagoa", "Person"],
+["gabinete de medicina legal de Portimão", "Facility"]
+]
+
+Explanation:
+
+1. Corpo de homem - Object (as it is a physical object)
+2. homem - Person (as it is a human being)
+3. pescador - Person (as it is a person who practices fishing)
+4. Autoridade Marítima - Organization (as it is a government agency responsible for maritime affairs)
+5. Estaquinha - Location (as it is a place where the body was found)
+6. Faro - Location (as it is a district where the body was found)
+7. Portimão - Location (as it is a city where the body was transported)
+8. delegada de saúde de Lagoa - Person (as it is a healthcare professional who declared the death)
+9. gabinete de medicina legal de Portimão - Facility (as it is a medical facility where the body was transported)

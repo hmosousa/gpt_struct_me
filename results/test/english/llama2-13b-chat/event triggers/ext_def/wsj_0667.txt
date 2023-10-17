@@ -1,0 +1,1 @@
+["write-off", "transaction costs", "restructuring", "bank debt", "interest expenses", "recapitalization", "payments", "scheduled payments", "prepayments", "operating cash flow", "zero-coupon subordinated debt", "assets sales"]

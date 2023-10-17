@@ -1,0 +1,21 @@
+[
+"Homem morre",
+"átido por árvore",
+"em Barcelos",
+"Um homem com cerca de 50 anos",
+"morreu hoje",
+"em Milhazes",
+"no concelho de Barcelos",
+"atingido por uma árvore de grande porte",
+"Segundo a fonte",
+"do Comando Distrital de Operações de Socorro de Braga",
+"Still not clear",
+"circumstances of the accident",
+"but it's an accident of work",
+"According to the first information",
+"the man was cutting the tree and was hit by the same",
+"Alert was given at 11:50",
+"Bombeiros Voluntários de Barcelinhos and a medical emergency and resuscitation vehicle were mobilized to the scene",
+"The death was declared on the spot",
+"GNR took charge of the occurrence"
+]

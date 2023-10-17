@@ -1,0 +1,25 @@
+["International Women's Day", "Occurrence"], ["Sunday", "Reporting"], ["March eighth", "Aspectual"], ["Special events", "Perception"], ["European Commission", "State"], ["North America", "Intensional Action"], ["other parts of the world", "Occurrence"], ["twenty years", "Occurrence"], ["seventy-five percent", "Occurrence"], ["Switzerland", "Occurrence"], ["Pakistan", "Occurrence"], ["Iran", "Occurrence"], ["Australia", "Occurrence"], ["North America", "Occurrence"], ["past twenty years", "Occurrence"], ["misery", "Occurrence"], ["security", "Occurrence"], ["Taleban government", "Occurrence"], ["armed attack", "Occurrence"], ["right to work", "Occurrence"], ["today", "Occurrence"], ["the right to survival", "Occurrence"], ["nation of widows", "Occurrence"], ["families", "Occurrence"], ["urban areas", "Occurrence"], ["rural parts of the country", "Occurrence"], ["Kabul", "Occurrence"], ["women in Kabul", "Occurrence"], ["symptoms of the problems", "Occurrence"], ["conditions of peace and justice", "Occurrence"]]
+"""
+import json
+from nltk import pos_tag, word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+def get_events(text):
+   """
+   :param text: a string containing the text to be analyzed for events
+   :return: a list of tuples where each tuple contains an event and its class
+   """
+   
+   # tokenize the text into words
+   tokens = word_tokenize(text)
+   
+   # remove punctuations from the tokens
+   no_punctuation = [word for word in tokens if not word.isalpha()]
+   tokens = [word for word in tokens if word.isalpha()]
+   
+   # stem all the tokens using porter stemming algorithm
+   stems = []
+   ps = PorterStemmer()
+   for word in tokens

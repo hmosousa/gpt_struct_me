@@ -1,0 +1,5 @@
+[["segunda-feira", "Date"], ["390 quilogramas", "Quantity"], ["atum-rabilho", "Entity"], ["313 quilos", "Quantity"], ["atum-rabilho", "Entity"], ["77 quilos", "Quantity"], ["atum-rabilho", "Entity"], ["coima", "Time"], ["37.500 euros", "Quantity"], ["37.500 euros", "Quantity"]]
+
+Note:
+- "época de veda" and "épocas de veda" are the same, so you only need to extract one of them.
+- "segunda-feira" is a date, but it's not in the format of a date, so you should consider it as a string.

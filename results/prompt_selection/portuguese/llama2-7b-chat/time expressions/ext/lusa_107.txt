@@ -1,0 +1,20 @@
+[
+"Mulher atropelada durante protesto de mariscadores na Murtosa",
+"Uma mulher de 44 anos",
+"Cerca de dezenas de mariscadores",
+"12:50",
+"Cais da Torreira",
+"O caso ocorreu cerca das 12:50",
+"Em declarações à Lusa",
+"O condutor da viatura",
+"Um homem que transportava bivalves",
+"Tentou sair do local",
+"Situação incendiou-se",
+"Forçou a saída com a viatura",
+"Atropelou uma senhora",
+"Ferimentos ligeiros",
+"Transportada para o Hospital de Aveiro",
+"Identificado",
+"Mais de uma semana",
+"Detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro"
+]

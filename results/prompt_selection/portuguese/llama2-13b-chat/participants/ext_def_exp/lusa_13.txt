@@ -1,0 +1,4 @@
+
+JSON-parseable list of strings:
+
+["as autoridades judiciais argentinas", "Maximiliano Trimarchi", "Diego Maradona", "a procuradoria-geral de San Isidro", "o telemóvel do motorista", "Leopoldo Luque", "Agustina Cosachov", "a justiça argentina", "o inquérito"]

@@ -1,0 +1,2 @@
+[["Kyle Technology Corp.", "State"], ["Donald A. Wright", "Perception"], ["Kyle", "Aspectual"], ["Donald A. Wright", "Intensional Action"], ["Kyle Technology Corp.", "Intensional State"]]
+

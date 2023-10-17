@@ -1,0 +1,15 @@
+[["UNIFIRST Corp.", "ORGANIZATION"], ["Wilmington, Mass.", "LOCATION"], ["garment service company", "ORGANIZATION"], ["quarterly dividend", "FINANCIAL"], ["split", "FINANCIAL"], ["Jan. 3", "DATE"], ["stock of record", "FINANCIAL"], ["Nov. 16", "DATE"], ["10.2 million", "FINANCIAL"], ["net income", "FINANCIAL"], ["$3 million", "FINANCIAL"], ["29 cents a share", "FINANCIAL"], ["fourth quarter", "FINANCIAL"], ["Aug. 26", "DATE"], ["$2.4 million", "FINANCIAL"], ["24 cents a share", "FINANCIAL"], ["sales", "FINANCIAL"], ["$52.4 million", "FINANCIAL"], ["$50.1 million", "FINANCIAL"]]
+
+Please provide your output in the same format as the example.
+
+I'm using this task to help train a model to extract and classify event triggers in text. Event triggers are words or phrases that indicate that an event is taking place, such as "declared", "boosted", "split", "payable", "raised", "reported", "earned", "rose", etc. The goal is to classify each event trigger into one of the following classes:
+
+* State: Indicates a state of being, such as "is", "are", "am", "be", etc.
+* Occurrence: Indicates an event or happening, such as "happened", "occurred", "took place", etc.
+* Reporting: Indicates a report or statement about an event, such as "reported", "said", "announced", etc.
+* Perception: Indicates a perception or observation about an event, such as "seemed", "appeared", "looked", etc.
+* Aspectual: Indicates a change in state or aspect, such as "became", "got", "grew", etc.
+* Intensional Action: Indicates an action that is intended or planned, such as "will", "intends", "plans", etc.
+* Intensional State: Indicates a state that is intended or planned, such as "will be", "is expected to", "is planned to", etc.
+
+Please provide your output in the format specified in the example, with each element in the list being a pair of strings, the first being the entity and the second being the class.

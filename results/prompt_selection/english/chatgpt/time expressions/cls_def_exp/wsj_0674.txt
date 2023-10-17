@@ -1,0 +1,1 @@
+[["about C$1.9 billion", "DURATION"], ["about 137.8 million Canadian dollars", "DURATION"], ["fourth-quarter", "DATE"], ["year ended Aug. 31", "DATE"], ["last year", "DATE"], ["C$291.6 million", "DURATION"], ["1988", "DATE"], ["earlier this year", "DATE"]]

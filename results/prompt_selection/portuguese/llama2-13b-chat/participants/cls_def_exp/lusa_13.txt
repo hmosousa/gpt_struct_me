@@ -1,0 +1,14 @@
+[["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["a apartamento", "Loc"], ["as autoridades", "Org"], ["a investigação", "Other"], ["a negligência", "Other"], ["a morte", "Other"], ["o ex-futebolista", "Other"], ["o telemóvel", "Obj"], ["a procuradoria-geral", "Org"], ["San Isidro", "Loc"], ["as buscas", "Other"], ["Leopoldo Luque", "Per"], ["Agustina Cosachov", "Per"], ["o hematoma subdural", "Obj"], ["a operação", "Other"], ["a justiça argentina", "Org"], ["o inquérito", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use the given text to identify the participants and classify them accordingly.
+* Pay attention to the context and the relationships between the entities.
+* Use the correct class for each entity.

@@ -1,0 +1,33 @@
+[["Um jovem de 14 anos", "Per"], ["ficou", "Other"], ["hoje", "Other"], ["em estado grave", "Other"], ["após", "Other"], ["ter sido atropelado", "Other"], ["por", "Other"], ["um autocarro", "Obj"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["disse", "Other"], ["à Lusa", "Org"], ["fonte", "Other"], ["da Proteção Civil", "Org"], ["O jovem", "Per"], ["depois de ter sido assistido", "Other"], ["no local", "Loc"], ["foi transportado", "Other"], ["pelo", "Other"], ["Bombeiros da Vila das Aves", "Org"], ["para", "Other"], ["o Hospital São João", "Fac"], ["no Porto", "Loc"], ["acrescentou", "Other"], ["a fonte", "Other"], ["do acidente", "Other"], ["ocorreu", "Other"], ["pela 18:16", "Other"], ["na Rua Luís Gonzaga Mendes de Carvalho", "Loc"], ["No local", "Loc"], ["prestar", "Other"], ["assistência", "Other"], ["além", "Other"], ["dos", "Other"], ["Bombeiros da Vila das Aves", "Org"], ["esteve", "Other"], ["a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Fac"], ["a Ambulância de Suporte Imediato de Vida de Santo Tirso", "Fac"], ["a GNR local", "Org"], ["disse", "Other"], ["à Lusa", "Org"], ["fonte", "Other"], ["da corporação", "Org"]]
+
+Note:
+The task is to extract and classify all participants in the given text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note that the task is not to identify the relationships between entities, but rather to classify each entity independently. For example, in the first input, "o sequestrador" is classified as "Per" (person), and "a granada de mão" is classified as "Obj" (object), even though they are related in the sentence.
+
+Also, note that the task is not to identify the semantic role of each entity, but rather to classify them based on their grammatical and contextual features. For example, in the first input, "o Ministério do Interior" is classified as "Org" (organization), even though it is mentioned as the authority that did not precise the number of hostages, because it is a government ministry and not a person or a location.
+
+Similarly, in the second input, "a Vila das Aves" is classified as "Loc" (location), even though it is mentioned as the place where the accident occurred, because it is a geographical location and not a person or an organization.
+
+The classes used in the output are:
+
+* Per: Person
+* Org: Organization
+* Obj: Object
+* Loc: Location
+* Nature: Nature (e.g. animal, plant)
+* Fac: Facility (e.g. building, vehicle)
+* Other: Other (e.g. abstract entities, concepts)
+
+The output should be in the format of a JSON-parseable list, where each element is a list with two strings: the entity and the class. For example:
+
+[
+["John Doe", "Per"],
+["the bank", "Fac"],
+["the robber", "Per"],
+["the gun", "Obj"],
+["the money", "Obj"],
+["the police", "Org"]
+]
+
+The goal is to extract and classify all participants in the given text, and output them in a JSON-parseable format, where each element is a list with two strings: the entity and the class.

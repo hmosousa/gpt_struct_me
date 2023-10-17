@@ -1,0 +1,6 @@
+["na passada quarta-feira", "30 nov 2020", "quarta-feira"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

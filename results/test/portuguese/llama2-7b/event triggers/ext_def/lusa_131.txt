@@ -1,0 +1,7 @@
+["GNR apreendeu nove viveiros ilegais na ria de Aveiro", "A Unidade de Controlo Costeiro (UCC) da GNR apreendeu na ria de Aveiro nove viveiros ilegais com cerca de 205 quilos de crustáceos e 20 quilos de enguia-europeia, avaliados em 2.765 euros, informou hoje aquela força militar.", "Em comunicado, a GNR esclarece que os viveiros foram apreendidos na quinta-feira, numa ação de patrulhamento fluvial levada a cabo com o objetivo de controlar as regras de captura de pescado e segurança marítima.", "Durante esta ação, os militares da Guarda detetaram nove viveiros ilegais contendo diversos crustáceos e 20 quilos de enguia-europeia, uma espécie em vias de extinção que necessita de um certificado da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Silvestres Ameaçadas de Extinção (CITES) para sua deteção.", "Pela instalação deste tipo de culturas em águas interiores sem qualquer licenciamento e pela apreensão dos respetivos viveiros, foi aberto um processo contraordenacional para apuramento de responsabilidades pelas infrações que poderão ser puníveis com uma coima máxima de 60 mil euros", "Os crustáceos e as enguias-europeias, por se encontrarem vivos, foram devolvidos ao meio natural."]
+
+Explanation:
+
+### 📚 References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Event)

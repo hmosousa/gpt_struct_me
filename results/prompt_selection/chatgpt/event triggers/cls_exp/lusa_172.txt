@@ -1,1 +1,0 @@
-[["encontrado", "Occurrence"], ["revelou", "Reporting"], ["caído", "Occurrence"], ["praticava", "Intensional Action"], ["dado", "Reporting"], ["ativada", "Intensional Action"], ["procedeu", "Intensional Action"], ["transportando", "Intensional Action"], ["declarado", "Reporting"], ["transportado", "Intensional Action"], ["tomou", "Intensional Action"]]

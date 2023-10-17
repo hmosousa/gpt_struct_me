@@ -1,0 +1,4 @@
+[ "ficou", "estado grave", "atropelado", "autocarro", "Vila das Aves", "concelho de Santo Tirso", "jovem", "assistido", "transportado", "Hospital São João", "Porto", "acidente", "ocorreu", "18:16", "Rua Luís Gonzaga Mendes de Carvalho", "prestar assistência", "Bombeiros da Vila das Aves", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR local", "Lusa", "fonte", "corporação"]
+
+Note:
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text. The output should be in JSON-parseable format.

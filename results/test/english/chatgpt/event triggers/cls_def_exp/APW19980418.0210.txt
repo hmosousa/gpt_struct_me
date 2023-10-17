@@ -1,0 +1,1 @@
+[["leaving", "OCCURRENCE"], ["said", "REPORTING"], ["set", "OCCURRENCE"], ["manufacturing", "OCCURRENCE"], ["move", "OCCURRENCE"], ["sent", "OCCURRENCE"], ["spent", "OCCURRENCE"], ["served", "OCCURRENCE"], ["expressed", "OCCURRENCE"], ["made", "OCCURRENCE"], ["appointed", "OCCURRENCE"], ["cited", "OCCURRENCE"], ["ordered", "OCCURRENCE"], ["retired", "OCCURRENCE"]]

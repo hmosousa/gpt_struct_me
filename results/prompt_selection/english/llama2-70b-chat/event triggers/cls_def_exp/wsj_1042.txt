@@ -1,0 +1,43 @@
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["has", "STATE"], ["issued", "OCCURRENCE"], ["will", "I_ACTION"], ["exercised", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["issuance", "OCCURRENCE"], ["rate", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called", "OCCURRENCE"], ["reserve", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["rentals", "OCCURRENCE"], ["Internet", "OCCURRENCE"]]
+
+Input:
+"The company said it will also offer a new service called Avon Rent-A-Car Online, which will allow customers to reserve and pay for rentals over the Internet."
+
+Output:
+[["said", "REPORTING"], ["will", "I_ACTION"], ["offer", "OCCURRENCE"], ["called

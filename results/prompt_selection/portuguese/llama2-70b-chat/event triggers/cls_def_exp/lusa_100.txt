@@ -1,0 +1,6 @@
+[["Pulseira eletrônica", "State"], ["homem", "State"], ["detido", "Occurrence"], ["Penafiel", "State"], ["suspeito", "State"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["ex-companheira", "State"], ["separação", "Occurrence"], ["perseguiu", "Occurrence"], ["residência", "State"], ["local de trabalho", "State"], ["botão de pânico", "State"], ["proibido", "State"], ["contactar", "I_Action"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

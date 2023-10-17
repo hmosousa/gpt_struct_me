@@ -1,0 +1,11 @@
+["continuing", "no", "unsolicited", "$32-a-share", "seeking", "individual", "others"]
+
+Explanation:
+
+* "continuing" is a time expression because it describes an ongoing action.
+* "no" is not a time expression.
+* "unsolicited" is not a time expression.
+* "$32-a-share" is not a time expression.
+* "seeking" is a time expression because it describes an ongoing action.
+* "individual" is not a time expression.
+* "others" is not a time expression.

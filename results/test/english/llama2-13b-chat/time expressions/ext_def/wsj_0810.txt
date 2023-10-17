@@ -1,0 +1,15 @@
+
+[
+"1989",
+"Tuesday",
+"last year",
+"this year",
+"next year",
+"three",
+"18.7%",
+"48%",
+"11 billion francs",
+"1,850 francs",
+"1,800 francs",
+"three"
+]

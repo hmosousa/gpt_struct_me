@@ -1,0 +1,13 @@
+[
+"GNR de Leiria",
+"efluentes suinícolas",
+"Comando Territorial da GNR",
+"Núcleo de Proteção Ambiental de Leiria",
+"exploração agropecuária",
+"efluentes pecuários",
+"lagoa de armazenamento de efluentes pecuários",
+"auto de contraordenação",
+"descarga de efluente pecuário diretamente para o solo",
+"coima",
+"144 mil euros"
+]

@@ -1,0 +1,13 @@
+[
+"GNR de Freamunde",
+"Paços de Ferreira",
+"50 pessoas",
+"proprietária",
+"48 anos",
+"estabelecimento de restauração e bebidas",
+"musica ao vivo",
+"normas referentes à pandemia covid-19",
+"autoridade",
+"evento",
+"contraordenação"
+]

@@ -1,0 +1,10 @@
+
+	[["Today", "DATE"], ["Washington", "LOCATION"], ["Federal Aviation Administration", "ORGANIZATION"], ["TWA Flight 800", "ENTITY"], ["Steven Snyder", "PERSON"], ["last conversation", "DATE"], ["climb", "VERB"], ["maintain", "VERB"], ["leaving", "VERB"], ["sixteen thousand feet", "NUMBER"], ["explosion", "EVENT"], ["nearby flight", "ENTITY"], ["pilot", "PERSON"], ["call", "VERB"], ["raising", "VERB"], ["ident", "VERB"], ["response", "VERB"], ["Eastwind", "ORGANIZATION"], ["prayer", "ACTION"]]
+
+
+Note:
+
+* The input text is a news article and the time expressions are highlighted in bold.
+* The time expressions are classified into four categories: Date, Time, Duration, and Set.
+* The definition of each class is provided in the introduction.
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

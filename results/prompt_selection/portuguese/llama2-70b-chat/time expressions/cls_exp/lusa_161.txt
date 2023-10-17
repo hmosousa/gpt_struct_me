@@ -1,0 +1,11 @@
+[["hoje", "Date"], ["cerca das 10:30", "Time"], ["10", "Duration"], ["20", "Duration"], ["10", "Duration"]]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following resources to help you with the task:
+
+* Portuguese date and time expressions
+* Regular expressions
+* Natural Language Processing libraries for Python such as NLTK or spaCy.

@@ -1,0 +1,54 @@
+[["detém", "I_Action"], ["dois homens", "State"], ["tráfico de droga", "Occurrence"], ["Sines", "State"], ["doses de estupefacientes", "State"], ["apreendidas", "Occurrence"], ["suspeitos", "State"], ["movimentações suspeitas", "Occurrence"], ["transação", "Occurrence"], ["militares", "State"], ["detiveram", "I_Action"], ["Tribunal Judicial", "State"], ["Santiago do Cacém", "State"], ["primeiro interrogatório judicial", "Occurrence"], ["aplicação", "I_Action"], ["medidas de coação", "State"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* State: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* Occurrence: refers to any concrete action, physical movement, behavior, change in emotional states or the passage of time.
+* Reporting: refers to the act of reporting or describing an event.
+* Perception: refers to the way an event is perceived or understood.
+* Aspectual: refers to the way an event is related to time, such as its duration, frequency, or completion.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers to a state that is intended or planned.
+
+The input text is in Portuguese.
+
+Note that the output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event.
+
+For example, in the sentence "The dog ran across the field", "ran" is an event trigger that indicates the occurrence of the event "the dog running across the field".
+
+In the sentence "The man was arrested for theft", "was arrested" is an event trigger that indicates the occurrence of the event "the man being arrested for theft".
+
+In the sentence "The company will launch a new product next month", "will launch" is an event trigger that indicates the occurrence of the event "the company launching a new product next month".
+
+Your output should be a list of event triggers, with each trigger classified into one of the seven classes (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).
+
+For example, the event triggers in the sentence "The dog ran across the field" would be:
+
+* "ran" (Occurrence)
+
+The event triggers in the sentence "The man was arrested for theft" would be:
+
+* "was arrested" (Occurrence)
+
+The event triggers in the sentence "The company will launch a new product next month" would be:
+
+* "will launch" (Intensional Action)
+
+Note that the same word or phrase can function as different event triggers depending on the context. For example, in the sentence "The man ran across the field", "ran" is an event trigger that indicates the occurrence of the event "the man running across the field". However, in the sentence "The man will run across the field tomorrow", "will run" is an event trigger that indicates the occurrence of the event "the man running across the field tomorrow".
+
+Your output should be a list of event triggers, with each trigger classified into one of the seven classes (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).
+
+The input text is in Portuguese.
+
+Note that the output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event.
+
+For example, in the sentence "The dog ran across the field", "ran" is an event trigger that indicates the occurrence of the event "the dog running across the field".
+
+In the sentence "The man was arrested for theft", "was arrested" is an event trigger that indicates the occurrence of the event "the man being arrested for theft".

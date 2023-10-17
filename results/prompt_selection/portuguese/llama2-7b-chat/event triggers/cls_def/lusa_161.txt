@@ -1,0 +1,30 @@
+[
+{
+"Homem",
+"State"
+},
+{
+"Ex-companheira",
+"Person"
+},
+{
+"Tiro",
+"Action"
+},
+{
+"Vila Nova de Gaia",
+"Place"
+},
+{
+"GNR",
+"Organization"
+},
+{
+"Suicídio",
+"Aspectual"
+},
+{
+"Polícia Judiciária",
+"Organization"
+}
+]

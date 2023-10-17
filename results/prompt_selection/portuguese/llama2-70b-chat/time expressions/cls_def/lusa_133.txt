@@ -1,0 +1,36 @@
+[
+["GNR", "Date"],
+["Apreende", "Time"],
+["390 quilogramas", "Duration"],
+["Aveiro", "Date"],
+["37.500 euros", "Set"],
+["segunda-feira", "Date"],
+["Gafanha da Nazaré", "Date"],
+["Aveiro", "Date"],
+["77 quilos", "Duration"],
+["313 quilos", "Duration"],
+["condutor do veículo", "Date"],
+["mestre da embarcação", "Date"],
+["auto de contraordenação", "Time"],
+["37.500 euros", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into four different classes: Date, Time, Duration, and Set.
+
+* "GNR" is a Date expression, referring to a specific point in time.
+* "Apreende" is a Time expression, referring to a specific moment in time.
+* "390 quilogramas" is a Durationexpression, referring to a quantity of time (weight).
+* "Aveiro" is a Date expression, referring to a specific location.
+* "37.500 euros" is a Set expression, referring to a specific amount of money.
+* "segunda-feira" is a Date expression, referring to a specific day of the week.
+* "Gafanha da Nazaré" is a Date expression, referring to a specific location.
+* "Aveiro" is a Date expression, referring to a specific location.
+* "77 quilos" is a Duration expression, referring to a quantity of time (weight).
+* "313 quilos" is a Duration expression, referring to a quantity of time (weight).
+* "condutor do veículo" is a Date expression, referring to a specific person.
+* "mestre da embarcação" is a Date expression, referring to a specific person.
+* "auto de contraordenação" is a Time expression, referring to a specific moment in time.
+* "37.500 euros" is a Set expression, referring to aspecific amount of money.
+
+The output is a list of pairs, where each pair contains the temporal expression and its corresponding class.

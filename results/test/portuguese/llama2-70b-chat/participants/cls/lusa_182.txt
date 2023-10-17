@@ -1,0 +1,28 @@
+[
+["Homem de Amarante", "Person"],
+["GNR", "Organization"],
+["Tribunal de Instrução Criminal", "Facility"],
+["filha", "Person"],
+["familiares", "Other"],
+["residência", "Location"]
+]
+
+Explanation:
+The input text describes a case of domestic violence, where a man from Amarante is accused of mistreating his wife and daughter. The man is placed under electronic surveillance and prohibited from approaching the victim. The victim and her daughter seek refuge in the home of other family members. The text mentions the GNR (National Republican Guard) and the Tribunal de Instrução Criminal (Criminal Instruction Court) as organizations involved in the case. The man is described as a habitual consumer of alcoholic beverages.
+
+The output is a list of entities and their corresponding classes. The entities are:
+
+* Homem de Amarante (Person)
+* GNR (Organization)
+* Tribunal de Instrução Criminal (Facility)
+* filha (Person)
+* familiares (Other)
+* residência (Location)
+
+The classes are:
+
+* Person
+* Organization
+* Facility
+* Other
+* Location

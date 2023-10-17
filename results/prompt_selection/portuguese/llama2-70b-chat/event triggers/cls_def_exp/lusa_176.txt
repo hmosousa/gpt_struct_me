@@ -1,0 +1,12 @@
+[["Homem", "State"], ["morreu", "Occurrence"], ["ciclomotor", "State"], ["ter", "Aspectual"], ["colhido", "Occurrence"], ["veículo ligeiro", "State"], ["Estrada Nacional 10-8", "State"], ["zona da Mitrena", "State"], ["Setúbal", "State"], ["PSP", "State"], ["Proteção Civil", "State"], ["Fonte", "State"], ["Comando Distrital de Operações de Socorro", "State"], ["CDOS", "State"], ["Setúbal", "State"], ["hospital", "State"], ["São Bernardo", "State"], ["corpo", "State"], ["Medicina legal", "State"], ["Palmela", "State"], ["Sapadores", "State"], ["Setúbal", "State"], ["VMER", "State"], ["PSP", "State"], ["apoiados", "State"], ["cinco veículos", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Perception: refers to a perception or an observation
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action or a decision made with intention
+* Intensional State: refers to a state or a situation that is intended or desired.

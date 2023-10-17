@@ -1,0 +1,7 @@
+[["Wednesday", "DATE"], ["last Wednesday", "DATE"], ["#301 million", "AMOUNT"], ["53.2%", "PERCENTAGE"], ["internal resources", "SET"], ["U.K.", "GEO"]]
+
+Note that the input text may contain multiple expressions of the same type (e.g., multiple DATE expressions). Your program should extract and classify all of them.
+
+Note also that the input text may contain expressions that are not relevant to the task at hand (e.g., names of people or companies). Your program should ignore these expressions.
+
+Your program will be tested on a variety of inputs. It should produce a JSON-parseable list as output.

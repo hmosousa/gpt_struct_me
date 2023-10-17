@@ -1,0 +1,38 @@
+[
+{
+"Jovem",
+"Date"
+},
+{
+"Autocarro",
+"Object"
+},
+{
+"Vila das Aves",
+"Location"
+},
+{
+"Hospital São João",
+"Location"
+},
+{
+"Rua Luís Gonzaga Mendes de Carvalho",
+"Location"
+},
+{
+"18:16",
+"Time"
+},
+{
+"Vila Nova de Famalicão",
+"Location"
+},
+{
+"Santo Tirso",
+"Location"
+},
+{
+"GNR",
+"Object"
+}
+]

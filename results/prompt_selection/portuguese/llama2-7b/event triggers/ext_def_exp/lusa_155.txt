@@ -1,0 +1,13 @@
+["ferido", "com", "gravidade", "após", "agressão", "com", "garrafa", "num", "restaurante", "em", "Palmela", "Um", "homem", "de", "69", "anos", "proprietário", "estabelecimento", "Cajados", "no", "concelho", "Palmela", "Setúbal", "ficou", "ferido", "com", "gravidade", "após", "ter", "agredido", "no", "seu", "estabelecimento", "com", "garrafa", "diz", "fonte", "GNR", "A", "mesma", "fonte", "indicou", "à", "agência", "Lusa", "que", "a", "vítima", "foi", "transportada", "em", "estado", "de", "coma", "para", "hospital", "de", "São", "Bernardo", "Setúbal", "Segundo", "a", "fonte", "GNR", "a", "agressão", "efetuada", "hoje", "à", "tarde", "por", "uma", "mulher", "aparentemente", "embriagada", "que", "se", "pôs", "em", "fuga", "conduzindo", "um", "automóvel", "A", "agressão", "de", "acordo", "com", "a", "guarda", "foi", "motivada", "por", "o", "proprietário", "do", "restaurante", "não", "querer", "que", "a", "mulher", "estivesse", "a", "consumir", "bebidas", "alcoólicas", "junto", "ao", "seu", "estabelecimento", "por", "ser", "proibido", "o", "consumo", "de", "álcool", "na", "via", "pública", "De", "acordo", "com", "fonte", "CDOS", "de", "Setúbal", "outras", "duas", "pessoas", "envolvidas", "nesta", "ocorrência", "sofreram", "ferimentos", "ligeiros", "tendo", "ambas", "transportadas", "para", "o", "hospital", "de", "São", "Bernardo", "Segundo", "o", "CDOS", "mobilizaram", "para", "o", "local", "bombeiros", "da", "corporação", "de", "Águas", "de", "Moura"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100% dos casos em Portugal são de transmissão comunal
+A transmissão comunal de covid-19 é a causa de 100% dos casos confirmados em Portugal, segundo dados divulgados hoje pela Direção-Geral da Saúde (DGS).
+Segundo os dados, a transmissão comunal é a causa de 100% dos casos confirmados em Portugal, desde que a transmissão comunal seja a causa de pelo menos 50% dos casos confirmados em um mês.
+A transmissão comunal é a causa de 99,9% dos casos confirmados em Portugal, desde que a transmissão comunal seja a causa de pelo menos 75% dos casos confirmados em um mês.
+A transmissão comunal é a causa de 99,8% dos casos confirmados em Portugal, desde que a transmissão comunal seja a causa de pelo menos 50% dos casos confirmados em um mês.
+A transmissão comunal é a causa de 99,7% dos casos confirmados em Portugal, desde que a transmissão comunal seja a causa de pelo menos 25% dos casos confirmados em um mês.
+A transmissão comunal é a causa de 99,6% dos casos confirmados em Portugal, desde que a transmissão comunal seja a causa de pelo menos 10% dos casos

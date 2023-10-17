@@ -1,0 +1,58 @@
+[['Homem', 'Person'], ['Estarreja', 'Location']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from collections import Counter
+
+# Load the list of classes and their synonyms
+with open('classes.json') as file:
+   classes = json.load(file)
+
+# Strip punctuation from text
+def stripPunctuation(text):
+   return "".join([char for char in text if not char.isdigit()])
+
+# Tokenize words
+def tokenizer(text):
+   tokens = []
+   for sentence in text.split("."):
+       tokens += [word for word in word_tokenize(sentence)]
+   return tokens
+
+# Remove stopwords
+stoplist = set(stopwords.words())
+def removeStopWords(tokens):
+   return [w for w in tokens if not w in stoplist]
+
+# Stem each word
+porter = PorterStemmer()
+def stemming(tokens):
+   return [porter.stem(t) for t in tokens]
+
+# Classify each word
+classified = {}
+for classname, synonyms in classes.items():
+   classified[classname] = {synonym.lower().strip() for synonym in synonyms}
+
+# Main function
+def extractEntities(text):
+   # Stripping punctuation
+   strippedText = stripPunctuation(text).lower()
+   
+   # Tokenizing and removing stopwords
+   tokens = removeStopWords(tokenizer(strippedText))
+   
+   # Stemming
+   stems = stemming(tokens)
+   
+   # Classification
+   entities = Counter({})
+   for entity in stems:
+       for classname, synonyms in classified.items():
+           if entity in synonyms:
+               entities[entity + ',' + classname] += 1
+               
+   # Returning the list of entities with their respective counts
+   return [(e, c) for e,c in entities.most_

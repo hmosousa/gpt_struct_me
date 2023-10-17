@@ -1,0 +1,1 @@
+[["PJ", "Organization"], ["homem", "Person"], ["jovem", "Person"], ["Setúbal", "Location"], ["Polícia Judiciária", "Facility"], ["restaurante", "Object"], ["coletividade", "Nature"], ["quarta-feira", "Other"], ["presumível agressor", "Person"], ["Alto da Guerra", "Location"], ["sexagenário", "Person"], ["grupo", "Group"], ["omissão de auxílio", "Other"]]

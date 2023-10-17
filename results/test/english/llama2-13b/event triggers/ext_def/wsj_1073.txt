@@ -1,0 +1,10 @@
+["purchased", "paid", "cash", "unit", "Fisher", "scientific", "subsidiary", "intravenous", "pumps", "hospitals", "sales"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Note:
+The output is a list of strings.
+
+Reference:
+https://www.nltk.org/book/ch06.html

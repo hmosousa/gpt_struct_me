@@ -1,0 +1,18 @@
+["discussão", "motivos", "desconhecidos", "disparou", "alvejando-o", "mortalmente", "regressavam", "patrulha", "zona protegida", "ouvir o tiro", "correram", "detido", "processos", "disciplinar", "criminal", "comando", "desfecho"]
+
+Note:
+- "discussão" e "motivos" são eventos, pois estão relacionados com a causa do crime.
+- "desconhecidos" é um evento, pois é uma circunstância que levou ao crime.
+- "disparou" é um evento, pois é uma ação que causou a morte do agente.
+- "alvejando-o" é um evento, pois é uma ação que causou danos físicos.
+- "mortalmente" é um evento, pois é uma circunstância que levou à morte do agente.
+- "regressavam" é um evento, pois é uma ação que ocorreu antes do crime.
+- "patrulha" é um evento, pois é uma atividade que os agentes estavam realizando.
+- "zona protegida" é um evento, pois é uma circunstância que pode ter contribuído para o crime.
+- "ouvir o tiro" é um evento, pois é uma ação que ocorreu durante o crime.
+- "correram" é um evento, pois é uma ação que ocorreu durante o crime.
+- "detido" é um evento, pois é uma ação que foi tomada após o crime.
+- "processos" é um evento, pois é uma circunstância que está sendo investigada.
+- "disciplinar" e "criminal" são eventos, pois são tipos de processos legais que estão sendo iniciados.
+- "comando" é um evento, pois é uma circunstância que está sendo mencionada.
+- "desfecho" é um evento, pois é uma circunstância que está sendo mencionada.

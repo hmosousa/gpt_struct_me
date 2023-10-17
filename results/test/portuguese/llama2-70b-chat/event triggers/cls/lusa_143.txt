@@ -1,0 +1,35 @@
+[
+["GNR", "State"],
+["homens", "Occurrence"],
+["máquinas de jogo", "Object"],
+["apreendida", "Aspectual"],
+["exploração de jogo ilegal", "Intensional Action"],
+["suspeitos", "State"],
+["30 e 60 anos", "Aspectual"],
+["ação", "Intensional Action"],
+["fiscalização", "State"],
+["estabelecimentos de restauração e bebidas", "State"],
+["telemóvel", "Object"],
+["tablet", "Object"],
+["computador com impressora", "Object"],
+["nove litros de bebidas espirituosas", "Object"],
+["sem estampilha fiscal", "Aspectual"],
+["Tribunal Judicial de Amarante", "State"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all event triggers in the input text, using the given classes.
+
+The input text reports on an event where the GNR (National Republican Guard) identified two men and seized illegal gaming machines in Amarante. The text also mentions the age of the suspects, the items seized, and the fact that the action took place during a fiscalization of establishments serving food and drinks.
+
+Your output should be a JSON-parseable list, where each element is a list with two strings: the entity and the class. For example, the entity "GNR" should be classified as "State", since it refers to the state of the GNR identifying the men. Similarly, the entity "homens" (men) should be classified as "Occurrence", since it refers to the occurrence of the men being identified.
+
+The class "Aspectual" should be used for entities that describe the aspect or modality of an action or state, such as "apreendida" (seized) or "sem estampilha fiscal" (without fiscal stamp). The class "Intensional Action" should be used for entities that describe an action or activity, such as "exploração de jogo ilegal" (illegal gaming exploration) or "ação" (action). The class "Intensional State" should be used for entities that describe a state or condition, such as "suspeitos" (suspects) or "fiscalização" (fiscalization).
+
+The class "Object" should be used for entities that refer to physical objects or items, such as "máquinas de jogo" (gaming machines), "telemóvel" (mobile phone), or "nove litros de bebidas espirituosas" (nine liters of spirits).
+
+Finally, the class "State" should be used for entities that refer to a state or condition in a general sense, such as "GNR" (National Republican Guard) or "Tribunal Judicial de Amarante" (Amarante Judicial Court).
+
+Note that the input text is in Portuguese, so you may need to use a language model or dictionary to help you identify the correct classes for each entity.

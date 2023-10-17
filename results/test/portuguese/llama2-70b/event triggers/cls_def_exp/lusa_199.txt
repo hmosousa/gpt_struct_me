@@ -1,0 +1,1 @@
+[["morrem", "Occurrence"], ["caindo", "Occurrence"], ["telhado", "State"], ["limpeza", "Occurrence"], ["habitacao", "State"], ["cair", "Occurrence"], ["telhado", "State"], ["limpa", "I_Action"], ["ocorreram", "Reporting"], ["Rua Augusto Gil", "Aspectual"], ["homem", "State"], ["caiu", "Occurrence"], ["altura", "State"], ["sete metros", "State"], ["bombeiros", "State"]]

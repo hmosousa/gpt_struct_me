@@ -1,0 +1,17 @@
+[
+"hoje",
+"já",
+"anos",
+"mesmos",
+"metros",
+"anos"
+]
+
+Explanation:
+
+* "hoje" is an adverb indicating the day of the week.
+* "já" is an adverb indicating the past tense.
+* "anos" is a noun indicating the number of years.
+* "mesmos" is an adjective indicating the same.
+* "metros" is a noun indicating the unit of distance.
+* "anos" is a noun indicating the number of years.

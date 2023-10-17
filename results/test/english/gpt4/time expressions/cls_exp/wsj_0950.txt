@@ -1,0 +1,1 @@
+[["third quarter", "DATE"], ["yesterday", "DATE"], ["this morning", "DATE"], ["year end", "DATE"], ["a year ago", "DATE"], ["the nine months", "DURATION"], ["a year earlier", "DATE"], ["the first nine months", "DURATION"], ["third-quarter", "DATE"], ["the nine months", "DURATION"], ["a year earlier", "DATE"], ["the end of 1990", "DATE"]]

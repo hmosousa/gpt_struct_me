@@ -1,0 +1,14 @@
+[
+"Homem morre após ser esfaqueado nas costas",
+"Um homem de 29 anos",
+"Lisboa",
+"Mercado de Arroios",
+"Rua Ângela Pinto",
+"Café",
+"Desentendimento",
+"Arma branca",
+"Suspeito",
+"Avenida Almirante Reis",
+"Polícia Judiciária (PJ)",
+"Crime de homicídio"
+]

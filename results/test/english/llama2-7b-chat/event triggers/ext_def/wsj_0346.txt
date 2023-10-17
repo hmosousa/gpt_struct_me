@@ -1,0 +1,9 @@
+[
+"acquired",
+"agreed",
+"said",
+"will receive",
+"assume",
+"pay",
+"plans to purchase"
+]

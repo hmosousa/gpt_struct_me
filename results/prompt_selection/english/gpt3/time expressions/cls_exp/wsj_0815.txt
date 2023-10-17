@@ -1,0 +1,1 @@
+[["32-a-share", "DURATION"], ["DIG's offer", "DATE"], ["individual units", "SET"], ["more money", "DURATION"]]

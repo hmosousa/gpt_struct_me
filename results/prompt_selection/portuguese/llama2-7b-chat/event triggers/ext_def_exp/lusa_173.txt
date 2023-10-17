@@ -1,0 +1,5 @@
+["encontrado", "morto", "cisterna", "camião", "Transportadora", "J Amaral", "Estarreja", "Lusa", "GNR", "Aveiro", "alerta", "desaparecido", "sábado", "Joaquim", "Bombeiros", "encontrava-se", "aberta", "Graduado", "cause", "tomou", "local", "Viatura", "medica", "emergencia", "reanimação", "Aveiro", "hospital", "Infante", "D.", "Pedro"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list includes all the words and phrases that are relevant to the event triggers, such as "encontrado", "morto", "cisterna", "camião", "Transportadora", "J Amaral", "Estarreja", "Lusa", "GNR", "Aveiro", "alerta", "desaparecido", "sábado", "Joaquim", "Bombeiros", "encontrava-se", "aberta", "Graduado", "cause", "tomou", "local", "Viatura", "medica", "emergencia", "reanimação", "Aveiro", "hospital", "Infante", "D.", "Pedro".

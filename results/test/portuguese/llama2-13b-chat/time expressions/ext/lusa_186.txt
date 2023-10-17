@@ -1,0 +1,9 @@
+[
+"25 metros",
+"17:15"
+]
+
+Explanation:
+
+* "25 metros" is a time expression indicating the depth of the well.
+* "17:15" is a time expression indicating the time when the rescue took place.

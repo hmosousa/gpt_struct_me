@@ -1,0 +1,12 @@
+[
+{
+"State", "Declared dividend"
+"Occurrence", "Issuance of warrants"
+"Reporting", "Said"
+"Perception", "Issuance of warrants"
+"Aspectual", "Issuance of warrants"
+"Intensional Action", "Issued"
+"Intensional State", "Common shares outstanding"
+"Intensional State", "Class C warrants issued"
+"Intensional State", "Additional warrants issued"
+]

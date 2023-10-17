@@ -1,1 +1,0 @@
-[["GNR", "State"], ["tráfico de droga", "Occurrence"], ["apreende 12.300 doses de haxixe", "Reporting"], ["comportamento nervoso", "Perception"], ["busca à viatura", "Aspectual"], ["revista à mulher", "Intensional Action"], ["apurar que tinha droga na sua posse", "Intensional State"]]

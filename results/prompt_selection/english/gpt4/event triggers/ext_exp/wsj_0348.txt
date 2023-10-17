@@ -1,0 +1,1 @@
+["said", "jumped", "soared", "began", "trading", "closed", "down", "began", "trading", "has", "up", "reported", "rose"]

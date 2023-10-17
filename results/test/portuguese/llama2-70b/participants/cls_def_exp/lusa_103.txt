@@ -1,0 +1,1 @@
+[["pai", "Per"], ["filhos", "Per"], ["México", "Loc"], ["homens", "Org"], ["mulher", "Per"], ["crianças", "Obj"], ["Sonora", "Loc"], ["rapazes", "Other"], ["anos", "Nat"], ["suspeito", "Per"], ["avó", "Per"], ["polícia", "Fac"], ["Hidalgo", "Loc"], ["crianças", "Per"], ["mãe", "Per"]]

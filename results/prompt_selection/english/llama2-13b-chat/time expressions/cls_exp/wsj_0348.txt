@@ -1,0 +1,4 @@
+[["Ogden Projects Inc.", "DATE"], ["$6.6 million", "NUMBER"], ["18 cents a share", "NUMBER"], ["$1.1 million", "NUMBER"], ["four cents a share", "NUMBER"], ["$101.7 million", "NUMBER"], ["$39.5 million", "NUMBER"], ["75 cents", "NUMBER"], ["$26.875", "NUMBER"], ["$14 apiece", "NUMBER"], ["13 facilities", "SET"], ["seven a year ago", "SET"], ["Ogden Corp.", "DATE"], ["$27.1 million", "NUMBER"], ["67 cents a share", "NUMBER"], ["$13.5 million", "NUMBER"], ["34 cents a share", "NUMBER"], ["$378.1 million", "NUMBER"], ["$283.8 million", "NUMBER"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

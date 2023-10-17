@@ -1,0 +1,25 @@
+["TWA", "exploded", "climb", "maintain", "leavin", "sixteen", "center", "ident", "hear", "Eastwind", "sir", "blew", "fireballs", "water", "small", "smoke", "coming", "God", "bless", "him", "think", "God", "bless", "him"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The 1999-2000 season was the 100th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began on June 1 and ended on June 24. The New Jersey Devils defeated the Dallas Stars in six games to win their second Stanley Cup.
+
+The 1999-2000 season was the 84th season of the National Hockey League. The season began on October 7, 1999, and ended on June 24, 2000. The Stanley Cup Finals began

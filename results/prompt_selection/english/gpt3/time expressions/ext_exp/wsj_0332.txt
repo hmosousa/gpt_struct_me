@@ -1,0 +1,1 @@
+["470 pence", "Wednesday", "last Wednesday", "Friday", "12.4%", "53.2%", "eventually"]

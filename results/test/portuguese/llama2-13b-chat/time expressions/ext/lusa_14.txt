@@ -1,0 +1,5 @@
+[
+"no início do ano",
+"em julho",
+"hoje"
+]

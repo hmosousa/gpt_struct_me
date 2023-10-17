@@ -1,0 +1,1 @@
+[["Oct. 23", "DATE"], ["about two years ago", "DURATION"], ["10 most significant events", "SET"], ["20th century", "DATE"], ["daily", "SET"], ["$1 pershare", "SET"], ["some inadvertence", "SET"]]

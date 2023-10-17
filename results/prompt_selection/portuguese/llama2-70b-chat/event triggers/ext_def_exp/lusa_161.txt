@@ -1,0 +1,4 @@
+["matou", "ex-companheira", "tiro", "Vila Nova de Gaia", "disparo", "arma de fogo", "detido", "suicídio", "mesma arma", "crime", "ocorreu", "Rua da Figueirinha", "Grijó", "Porto", "vítima", "mulher", "relação", "terminar", "polícia judiciária"]
+
+Note:
+Please note that the input text is in Portuguese.

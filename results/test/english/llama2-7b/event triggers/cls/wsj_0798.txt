@@ -1,0 +1,10 @@
+[
+  ["Hudson's Bay Co.", "State"],
+  ["Hudson's Bay Co.", "Occurrence"],
+  ["Hudson's Bay Co.", "Reporting"],
+  ["Hudson's Bay Co.", "Perception"],
+  ["Hudson's Bay Co.", "Aspectual"],
+  ["Hudson's Bay Co.", "Intensional Action"],
+  ["Hudson's Bay Co.", "Intensional State"]
+]
+

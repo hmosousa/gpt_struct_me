@@ -1,0 +1,1 @@
+[["report", "OCCURRENCE"], ["cited", "REPORTING"], ["restructuring", "OCCURRENCE"], ["reported", "REPORTING"], ["save", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["affect", "OCCURRENCE"], ["financed", "OCCURRENCE"], ["made", "OCCURRENCE"], ["payments", "OCCURRENCE"], ["consisted", "OCCURRENCE"], ["funded", "OCCURRENCE"]]

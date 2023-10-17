@@ -1,0 +1,1 @@
+[["passada quarta-feira", "Date"], ["quarta-feira", "Time"], ["Alto da Guerra", "Set"]]

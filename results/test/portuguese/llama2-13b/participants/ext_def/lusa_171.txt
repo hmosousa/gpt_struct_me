@@ -1,0 +1,36 @@
+["Tribunal de Guimarães", "Procuradoria Regional", "Guimarães", "Porto", "Vítima", "Argüido"]
+
+Subtask:
+Extract all participants.
+
+Definition:
+Participants refer to individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They are typically identified based on their relevance and significance to the situation, and may be explicitly mentioned or inferred from the context. Participants can take on a variety of roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Tribunal de Guimarães condena homem a quatro anos e meio de prisão por violação
+O tribunal de Guimarães condenou um homem “com uma vida desestruturada” por violar a amiga que lhe permitiu uma pernoita em sua casa, aplicando-lhe uma pena efetiva de quatro anos e meio de prisão, informou hoje a Procuradoria Regional.
+“O tribunal considerou provado que o arguido, no dia 16 de maio de 2020, pelas 04:20, a pretexto de precisar de descansar, se acolheu na casa da vítima, uma sua amiga residente numa freguesia de Guimarães", relata a Procuradoria Regional do Porto, na sua página na Internet.
+Considerou ainda provado que, por volta das 06:00, quando a mulher se aprontava para ir trabalhar, "abordou-a, agarrou-a e prendeu-lhe os braços, tirou-lhe à força roupa que envergava e manteve com ela relações sexuais”.
+O tribunal exclui a hipótese de suspender a pena (decisão possível até cinco anos de prisão) tendo em conta “os antecedentes criminais do arguido, e a personalidade alheada do dever-ser jurídico que deles se conclui, assim como a vida desestruturada que apresentava”."
+
+Output:
+["Tribunal de Guimarães", "Procuradoria Regional", "Guimarães", "Porto", "Vítima", "Argüido"]
+
+Subtask:
+Extract all participants.
+
+Definition:
+Participants refer to individuals, groups, organizations, or other entities that are actively involved in or impacted by an event or state. They are typically identified based on their relevance and significance to the situation, and may be explicitly mentioned or inferred from the context. Participants can take on a variety of roles, such as actors, agents, patients, victims, or observers, and their actions and interactions can shape the course of events.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Tribunal de Guimarães condena homem a quatro anos e meio de prisão por violação
+O tribunal de Guimarães condenou um homem “com uma vida desestruturada” por violar a amiga que lhe permitiu uma pernoita em sua casa, aplicando-lhe uma pena efetiva de quatro anos e meio de prisão, informou hoje a Procuradoria Regional.
+“O tribunal considerou provado que o arguido, no dia 16 de maio de 2020, pelas 04:20, a pretexto de precisar de descansar, se acolheu na casa da vítima, uma sua amiga residente numa freguesia de Guimarães", relata a Procuradoria Regional do Porto, na sua página na Internet.
+Considerou ainda provado que, por volta das 06:00, quando a mulher se aprontava para ir trabalhar, "abordou-a, agarrou-a e prendeu-lhe os braços, tirou-lhe à força roupa que envergava e manteve com ela relações sexuais”.
+O tribunal exclui

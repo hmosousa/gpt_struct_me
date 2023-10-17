@@ -1,0 +1,12 @@
+["planned sale", "restructuring", "sell its contract-drilling business", "initial public offering", "core oil and gas business"]
+
+Explanation:
+The event triggers in the text are:
+
+* "planned sale"
+* "restructuring"
+* "sell its contract-drilling business"
+* "initial public offering"
+* "core oil and gas business"
+
+These are the specific events that are mentioned in the text and could be used as triggers for further actions or developments in the story.

@@ -1,0 +1,22 @@
+[
+"atingido por árvore",
+"hoje",
+"procedia ao seu abate",
+"no lugar de Barreiro",
+"freguesia de Tangil",
+"em Monção",
+"distrito de Viana do Castelo",
+"depois de ser atingido por uma árvore",
+"no local",
+"pelos médicos do helicóptero do INEM",
+"às 14:25",
+"do meio aéreo",
+"duas ambulâncias",
+"de Monção e Valença",
+"uma vez que as informações iniciais apontavam para a existência de dois feridos",
+"o que não se veio a comprovar",
+"o INEM acionou para o local uma equipa de psicólogos",
+"um total 16 operacionais dos Bombeiros de Monção e de Valença",
+"cinco viaturas",
+"entre elas a ambulância de Suporte Imediato de Vida (SIV) de Melgaço"
+]

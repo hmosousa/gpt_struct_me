@@ -1,0 +1,1 @@
+[["out", "STATE"], ["off", "STATE"], ["change", "OCCURRENCE"], ["grip", "STATE"], ["tour", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["flying", "OCCURRENCE"], ["locate", "OCCURRENCE"], ["stranded", "STATE"], ["live", "OCCURRENCE"], ["have", "STATE"]]

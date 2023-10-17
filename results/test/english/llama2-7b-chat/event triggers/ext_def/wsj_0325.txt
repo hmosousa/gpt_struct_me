@@ -1,0 +1,22 @@
+[
+"reported",
+"loss",
+"third-quarter",
+"loss of $92.2 million",
+"$92.2 million",
+"$6.98 a share",
+"$10.2 million",
+"67 cents a share",
+"year-ago quarter",
+"year-ago results",
+"restructuring program",
+"increase tangible capital ratio",
+"remove $242 million in good will",
+"issuing $150 million in preferred stock",
+"commencing an exchange offer for $52 million in convertible bonds",
+"$46 million against earnings",
+"$20 million to its general loan loss reserves",
+"$30 million reserve for its high-yield bond portfolio",
+"junk-bond portfolio",
+"less than 1% of assets"
+]

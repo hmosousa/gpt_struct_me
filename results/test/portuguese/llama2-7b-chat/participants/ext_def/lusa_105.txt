@@ -1,0 +1,13 @@
+[
+"GNR",
+"homem de 38 anos",
+"Vila do Conde",
+"fiscalização rodoviária",
+"estupefaciantes",
+"heroína",
+"cocaína",
+"Tribunal Judicial de Vila do Conde",
+"mandado de condução",
+"estabelecimento prisional",
+"Porto"
+]

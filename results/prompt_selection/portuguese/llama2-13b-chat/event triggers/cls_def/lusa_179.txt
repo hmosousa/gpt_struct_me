@@ -1,0 +1,21 @@
+[
+["Homem", "State"],
+["Prisão", "Occurrence"],
+["MP", "Reporting"],
+["Polícia Judiciária", "Perception"],
+["vítima", "Aspectual"],
+["prostituir-se", "Intensional Action"],
+["exploração sexual", "Intensional Action"],
+["produto estupefaciente", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" is a State, as it refers to a person's condition or existence.
+* "Prisão" is an Occurrence, as it refers to a specific event that happened (the man was imprisoned).
+* "MP" is Reporting, as it refers to the fact that the Ministério Público (Public Ministry) was involved in the case.
+* "Polícia Judiciária" is Perception, as it refers to the fact that the police have information about the case.
+* "vítima" is Aspectual, as it refers to the fact that the victim was subjected to certain actions.
+* "prostituir-se" is an Intensional Action, as it refers to a specific action that the victim was forced to perform.
+* "exploração sexual" is an Intensional Action, as it refers to a specific action that was performed on the victim.
+* "produto estupefaciente" is an Intensional State, as it refers to a specific condition or state of the victim (being dependent on drugs).

@@ -1,0 +1,14 @@
+[
+["Friday", "Date"],
+["shortly before the proposed merger", "Time"],
+["earlier this month", "Date"],
+["until 1994 or later", "Date"],
+["Over the weekend", "Set"],
+["June 1994", "Date"],
+["after five years", "Duration"],
+["in 1995", "Date"],
+["in both 1990 and 1991", "Set"],
+["For 1988", "Date"],
+["1990", "Date"],
+["Friday", "Date"]
+]

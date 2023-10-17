@@ -1,0 +1,22 @@
+[
+  ["Person", "Actor"],
+  ["Organization", "Organization"],
+  ["Object", "Object"],
+  ["Location", "Location"],
+  ["Nature", "Nature"],
+  ["Facility", "Facility"],
+  ["Other", "Other"]
+]
+
+Explanation:
+The input text contains several entities that can be classified as participants in the event or situation described. Here are some examples:
+
+- "GNR" is an organization that is involved in the event, and can be classified as an Organization.
+- "mulher" is a person who is detained by the GNR, and can be classified as a Person.
+- "haxixe" is an object that is seized by the GNR, and can be classified as an Object.
+- "Mértola" is a location where the event takes place, and can be classified as a Location.
+- "tráfico de droga" is a nature of the event, and can be classified as a Nature.
+- "viatura" is a facility that is used by the GNR,and can be classified as a Facility.
+- "telemóvel" is an other entity that is mentioned in the text, and can be classified as an Other.
+
+Overall, the input text contains several participants that are relevant to the event or situation described, and can be classified based on their type and role.

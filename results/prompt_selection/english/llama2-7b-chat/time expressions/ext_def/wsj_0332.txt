@@ -1,0 +1,10 @@
+[
+"a friendly bid",
+"$7.43",
+"#301 million",
+"last Wednesday",
+"internal resources",
+"restructuring",
+"related Orkem businesses",
+"further acquisitions"
+]

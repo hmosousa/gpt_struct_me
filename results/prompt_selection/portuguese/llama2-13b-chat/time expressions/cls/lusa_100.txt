@@ -1,0 +1,15 @@
+[
+["Violência doméstica", "Date"],
+["Pulseira eletrónica", "Time"],
+["homem detido", "Duration"],
+["em Penafiel", "Set"]
+]
+
+Explanation:
+
+* "Violência doméstica" is a date (a specific type of event)
+* "Pulseira eletrónica" is a time (a specific type of event)
+* "homem detido" is a duration (a specific type of event that lasts for a period of time)
+* "em Penafiel" is a set (a specific type of location)
+
+Note: The input text is in Portuguese, and the output is in English.

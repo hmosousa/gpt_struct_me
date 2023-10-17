@@ -1,0 +1,36 @@
+[
+["Autoridades policiais angolanas", "State"],
+["tentativa de tráfico de menores congoleses", "Occurrence"],
+["O Serviço de investigação Criminal (SIC)", "State"],
+["tráfico de três crianças da República Democrática do Congo (RDCongo)", "Occurrence"],
+["crianças com 9 e 12 anos", "State"],
+["supostos traficantes", "State"],
+["viajar com os menores para Luanda", "Intensional Action"],
+["comercialização", "Intensional State"],
+["Veríssimo Pandamari", "State"],
+["agência noticiosa angolana", "State"],
+["Angop", "State"],
+["operção denominada 'Kudissanga'", "Occurrence"],
+["colaboração de populares", "State"],
+["terceira registada este ano", "State"]
+]
+
+Note:
+The input text is in Portuguese, and the output should be in English.
+
+Explanation:
+
+* "Autoridades policiais angolanas" is classified as "State" because it refers to the Angolan police authorities.
+* "tentativa de tráfico de menores congoleses" is classified as "Occurrence" because it refers to the attempted trafficking of Congolese minors.
+* "O Serviço de investigação Criminal (SIC)" is classified as "State" because it refers to the Angolan Criminal Investigation Service.
+* "tráfico de três crianças da República Democrática do Congo (RDCongo)" is classified as "Occurrence" because it refers to the trafficking of three children from the Democratic Republic of Congo.
+* "crianças com 9 e 12 anos" is classified as "State" because it refers to the children who were the victims of the trafficking attempt.
+* "supostos traficantes" is classified as "State" because it refers to the suspected traffickers.
+* "viajar com os menores para Luanda" is classified as "Intensional Action" because it refers to the intended action of the suspected traffickers.
+* "comercialização" is classified as "Intensional State" because it refers to the intended outcome of the trafficking attempt.
+* "Veríssimo Pandamari" is classified as "State" because it refers to the spokesperson for the Angolan Criminal Investigation Service.
+* "agência noticiosa angolana" is classified as "State" because it refers to the Angolan news agency.
+* "Angop" is classified as "State" because it refers to the Angolan news agency.
+* "operção denominada 'Kudissanga'" is classified as "Occurrence" because it refers to the operation that foiled the trafficking attempt.
+* "colaboração de populares" is classified as "State" because it refers to the collaboration of the local population in the operation.
+* "terceira registada este ano" is classified as "State" because it refers to the fact that this is the third trafficking attempt registered this year.

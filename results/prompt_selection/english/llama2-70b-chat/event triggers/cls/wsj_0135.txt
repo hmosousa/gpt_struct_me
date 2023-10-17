@@ -1,0 +1,31 @@
+[
+["Elco Industries Inc.", "State"],
+["net income", "Occurrence"],
+["$1.65 a share", "Reporting"],
+["slightly above", "Aspectual"],
+["fiscal 1989 sales", "Intensional State"],
+["$155 million", "Intensional State"],
+["industrial unit", "State"],
+["margin pressures", "State"],
+["lower demand", "State"],
+["$7.8 million", "Reporting"],
+["$1.65 a share", "Reporting"],
+["stock", "State"],
+["$1.125", "Reporting"],
+["$13.625", "Reporting"]
+]
+
+Explanation:
+
+* "Elco Industries Inc." is a State entity.
+* "net income" is an Occurrence entity.
+* "$1.65 a share" is a Reporting entity.
+* "slightly above" is an Aspectual entity.
+* "fiscal 1989 sales" and "$155 million" are Intensional State entities.
+* "industrial unit" is a State entity.
+* "margin pressures" and "lower demand" are State entities.
+* "$7.8 million" and "$1.65 a share" are Reporting entities.
+* "stock" is a State entity.
+* "$1.125" and "$13.625" are Reporting entities.
+
+Note that some entities can fit into multiple classes, but for the purpose of this task, each entity should only be assigned to one class.

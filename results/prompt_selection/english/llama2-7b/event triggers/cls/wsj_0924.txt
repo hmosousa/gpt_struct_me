@@ -1,0 +1,10 @@
+[
+  ["Dominion Textile Inc.", "State"],
+  ["Dominion Textile Inc.", "Occurrence"],
+  ["Dominion Textile Inc.", "Reporting"],
+  ["Dominion Textile Inc.", "Perception"],
+  ["Dominion Textile Inc.", "Aspectual"],
+  ["Dominion Textile Inc.", "Intensional Action"],
+  ["Dominion Textile Inc.", "Intensional State"]
+]
+

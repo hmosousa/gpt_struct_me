@@ -1,0 +1,7 @@
+
+	[["net income", "MONEY"], ["third quarter", "DATE"], ["$6.6 million", "MONEY"], ["$1.1 million", "MONEY"], ["$101.7 million", "MONEY"], ["$39.5 million", "MONEY"], ["13 facilities", "SET"], ["seven", "SET"], ["Ogden Projects Inc.", "ORGANIZATION"], ["Ogden Corp.", "ORGANIZATION"], ["$26.875", "MONEY"], ["$14", "MONEY"]]
+
+
+Format:
+
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

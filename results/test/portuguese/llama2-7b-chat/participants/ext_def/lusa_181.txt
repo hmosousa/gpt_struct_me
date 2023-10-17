@@ -1,0 +1,10 @@
+[
+"Homem",
+"tubarão",
+"Cable",
+"Austrália",
+"ocean Índico",
+"polícia",
+"paramédicos",
+"CSIRO"
+]

@@ -1,0 +1,10 @@
+["$106 million in cash", "last year", "more than $110 million in sales"]
+
+Explanation:
+The input text contains three time expressions:
+
+1. "last year" - This is a temporal expression that refers to a specific point in time in the past.
+2. "$106 million in cash" - This is a monetary expression that refers to a specific amount of money paid at a specific point in time.
+3. "more than $110 million in sales" - This is a temporal expression that refers to a specific period of time (last year) and a specific amount of money (more than $110 million).
+
+Note that the output is a JSON-parseable list of strings, where each string represents a single time expression.

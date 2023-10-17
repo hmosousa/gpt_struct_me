@@ -1,0 +1,30 @@
+["Aug. 9", "Date"], ["Sept. 30", "Date"]
+"""
+import re
+from datetime import date
+
+def extract_time(text):
+   """
+   Extract time expressions from text
+   
+   Parameters
+   ----------
+   text : str
+       Input text
+       
+   Returns
+   -------
+   list
+       List of tuples (entity, class) where entity is a string and class is one of Date, Time, Duration, Set
+   """
+   # TODO: Implement this function!
+   return []
+
+if __name__ == '__main__':
+   print('--- Testing extract_time() ---')
+   assert extract_time("Dominion Textile Inc. holders adopted a shareholder-rights plan at the annual meeting.") == [['annual', 'Set']]
+   assert extract_time("The so-called poison pill took effect Aug. 9 pending ratification by holders.") == [['Aug. 9', 'Date'], ['pending', 'Duration']]
+   assert extract_time("Rights attached to the company's common shares were issued that are triggered if a hostile bidder acquires more than 20% of the shares outstanding.") == [['triggered', 'Time']]
+   assert extract_time("Once triggered, the rights allow holders to buy additional shares at 50% of the then current market price or, at the board's discretion, to receive securities or assets.") == [['then', 'Time']]
+   assert extract_time("Separately, Dominion Textile posted net income of 4.7 million Canadian dollars ($4 million), or 12 Canadian cents a share, for the fiscal-first quarter ended Sept. 30.") == [['Sept. 30', 'Date']]
+   assert extract_time("The company had a net loss of C$2.3 million, or 14 Canadian cents a share, a year ago.") == [['a year ago', 'Duration']]

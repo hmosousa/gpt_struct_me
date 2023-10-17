@@ -1,0 +1,38 @@
+[
+["Edifício da Luanda Medical Center", "Facility"],
+["hotel", "Facility"],
+["Procuradoria-Geral da República (PGR)", "Organization"],
+["Serviço Nacional de Recuperação de Ativos", "Organization"],
+["Monalisa Residence", "Facility"],
+["Torres Eucaliptos", "Facility"],
+["Instituto Sapiens", "Facility"],
+["Luanda Medical Center (LMC)", "Facility"],
+["Méssene – Investimentos Limitada", "Organization"],
+["Heavy Group – Investimentos Limitada", "Organization"],
+["Universal Sabedoria", "Organization"],
+["Instituto Nacional de Segurança Social", "Organization"],
+["Angola", "Location"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all participants in the text.
+
+The classes in this task are:
+
+* Person
+* Organization
+* Object
+* Location
+* Nature
+* Facility
+* Other
+
+The input text is in Portuguese, and it mentions various entities, such as buildings, hotels, organizations, and locations. Your task is to identify and classify each entity in the text.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class. For example, [["Edifício da Luanda Medical Center", "Facility"]] would indicate that the entity "Edifício da Luanda Medical Center" belongs to the class "Facility".
+
+Note that some entities may belong to multiple classes. For example, the "Luanda Medical Center" could be classified as both a "Facility" and a "Location". In such cases, you should choose the most appropriate class based on the context.
+
+This task requires a good understanding of the Portuguese language and the ability to identify and classify entities in text. It also requires attention to detail and the ability to write clean and accurate code.

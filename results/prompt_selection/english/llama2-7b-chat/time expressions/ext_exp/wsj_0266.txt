@@ -1,0 +1,4 @@
+["Oct. 23", "2 years", "10 most significant events", "the 20th century", "Harry Brown", "ourselves", "painfully thought out", "not the result", "The Reserve Fund", "New York"]
+
+Format:
+JSON-parseable list of strings.

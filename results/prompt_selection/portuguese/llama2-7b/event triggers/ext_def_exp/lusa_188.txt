@@ -1,0 +1,22 @@
+["Homem", "48", "morre", "acidente", "trabalho", "Mogadouro", "Um", "morreu", "hoje", "vítima", "acidente", "localidade", "Vilarinhos", "Galegos", "Concelho", "Mogadouro", "distrito", "Bragança", "Trata-se", "queda", "altura", "homem", "48", "trabalhava", "obra", "construção", "civil", "vítima", "ferimentos", "resistir", "transportada", "ambulância", "campo", "futebol", "helitransportada", "hospital", "referência", "alerta", "dado", "cerca", "horas", "operações", "socorro", "envolveram", "bombeiros", "SIV", "VMER", "INEM", "acionado", "helicóptero", "estacionado", "Macedo", "Cavaleiros", "GNR", "tomou", "controlo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100% dos casos em Portugal são de transmissão comunal
+A transmissão comunal de covid-19 é a responsável por 100% dos casos confirmados em Portugal, segundo dados divulgados hoje pela Direção-Geral da Saúde (DGS).
+A transmissão comunal é aquela que se dá entre pessoas que não têm contato com um caso confirmado, mas que vivem em um mesmo espaço, como um mesmo apartamento, por exemplo.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 10.000 casos de covid-19 em Portugal, dos quais 9.999 são de transmissão comunal.
+Apenas um caso, confirmado em 2020, é de transmissão entre pessoas que vivem em um mesmo espaço, mas que não vivem em um mesmo apartamento.
+A DGS informou que, em 2020, foram confirmados 1

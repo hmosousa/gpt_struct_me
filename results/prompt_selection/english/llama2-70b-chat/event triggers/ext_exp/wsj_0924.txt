@@ -1,0 +1,1 @@
+["adopted", "took", "pending", "trigged", "allow", "buy", "receive", "posted", "had", "sales", "were"]

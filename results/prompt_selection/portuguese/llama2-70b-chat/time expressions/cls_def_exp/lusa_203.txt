@@ -1,0 +1,9 @@
+[["sete", "Number"], ["sete", "Number"], ["Kaiyuan", "Location"], ["Liaoning", "Location"], ["Yang", "Person"], ["junho", "Time"], ["2018", "Time"], ["Pequim", "Location"]]
+
+Note:
+
+* Dates and times should be in the format "day month year" and "hour:minute:second" respectively.
+* Durations should be in the format "X time units" where X is a number and the time unit is specified (e.g. "1 week", "2 days", "3 hours").
+* Set should be in the format "X elements" where X is a number.
+
+Please note that the input text is in Portuguese, so you may need to use a Portuguese-English dictionary or machine translation tool to help with the task.

@@ -1,0 +1,61 @@
+[
+["Courtaulds PLC", "State"],
+["plans to spin off its textiles operations", "Occurrence"],
+["British chemical and textile company", "State"],
+["plan", "Intensional Action"],
+["require shareholder approval", "Aspectual"],
+["new, listed U.K. stock", "State"],
+["probable market capitalization", "State"],
+["analysts", "Perception"],
+["investors", "State"],
+["Courtaulds' shares", "State"],
+["valuing the entire company", "State"],
+["Courtaulds' spinoff", "Occurrence"],
+["pressure on British industry", "State"],
+["B.A.T Industries PLC's plans", "Occurrence"],
+["divested Courtaulds textile operations", "State"],
+["operating profit", "State"],
+["revenue", "State"],
+["analysts", "Perception"],
+["Courtaulds' moves", "Intensional Action"],
+["boost the company's value", "Intensional State"],
+["Courtaulds has been under pressure", "State"],
+["takeover speculators", "State"],
+["Mr. Packer", "Perception"],
+["Courtaulds is moving", "Intensional Action"],
+["keep its institutional shareholders happy", "Intensional State"],
+["Even without a specific takeover threat", "State"],
+["Courtaulds is giving shareholders", "Intensional Action"],
+["choice and value", "Intensional State"],
+["the company", "State"],
+["Both parts", "State"],
+["separately quoted companies", "State"],
+["sharper definition", "State"],
+["autonomy", "State"],
+["benefit shareholders, customers and employees", "Intensional State"]
+]
+
+Explanation:
+
+* "Courtaulds PLC" is a State entity because it is a named entity that represents a company.
+* "plans to spin off its textiles operations" is an Occurrence entity because it describes an event or action that is happening or has happened.
+* "British chemical and textile company" is a State entity because it is a named entity that represents a company.
+* "plan" is an Intensional Action entity because it represents a plan or intention to perform an action.
+* "require shareholder approval" is an Aspectual entity because it describes a condition or aspect of the plan.
+* "new, listed U.K. stock" is a State entity because it is a named entity that represents a new stock.
+* "probable market capitalization" is a State entity because it describes a characteristic of the new stock.
+* "analysts" is a Perception entity because it represents a group of people who have a certain perspective or opinion.
+* "investors" is a State entity because it is a named entity that represents a group of people.
+* "Courtaulds' shares" is a State entity because it is a named entity that represents a financial instrument.
+* "valuing the entire company" is a State entity because it describes a characteristic of the company.
+* "Courtaulds' spinoff" is an Occurrence entity because it describes an event or action that is happening or has happened.
+* "pressure on British industry" is a State entity because it describes a condition or situation that exists in a particular industry.
+* "B.A.T Industries PLC's plans" is an Occurrence entity because it describes a plan or action that is happening or has happened.
+* "divested Courtaulds textile operations" is a State entity because it is a named entity that represents a company.
+* "operating profit" is a State entity because it describes a financial characteristic of the company.
+* "revenue" is a State entity because it describes a financial characteristic of the company.
+* "analysts" is a Perception entity because it represents a group of people who have a certain perspective or opinion.
+* "Courtaulds' moves" is an Intensional Action entity because it represents a plan or intention to perform an action.
+* "boost the company's value" is an Intensional State entity because it describes a desired outcome or goal of the plan.
+* "Courtaulds has been under pressure" is a State entity because it describes a condition or situation that exists for the company.
+* "take

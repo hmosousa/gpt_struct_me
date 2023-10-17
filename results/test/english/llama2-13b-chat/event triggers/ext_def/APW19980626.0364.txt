@@ -1,0 +1,6 @@
+["donated", "false address", "possible attacks", "challenge in court"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are "donated", "false address", "possible attacks", and "challenge in court". These words and phrases signal that something has happened or is happening, and they provide information about the nature of the event.
+
+Note that not all words or phrases that indicate events are necessarily event triggers. For example, "the law" and "German party financing laws" are not event triggers, because they do not signal the occurrence of an event, but rather provide background information about the legal context in which the events take place.

@@ -1,0 +1,4 @@
+[“morto”, “tiro”, “Barreiro”, “atirador”, “fuga”, “homem”, “baleado”, “dois tiros”, “caçadeira”, “incidente”, “ocorreu”, “20:20”, “hoje”, “circunstâncias”, “tiroteio”, “disse”, “suspeita”, “homicídio”, “armas de fogo”, “polícia judiciária”, “investigação”, “caso”]
+
+Note:
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text. The output should be in JSON-parseable format.

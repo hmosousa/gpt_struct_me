@@ -1,0 +1,25 @@
+["Orkem S.A.", "French", "state-controlled", "chemical", "manufacturer", "friendly", "bid", "470 pence", "7.43", "share", "59.2%", "U.K.", "specialty", "chemical", "group", "Coates Brothers PLC", "two", "sides", "said", "offer", "values", "whole", "Coates", "301 million", "accepted", "executives", "shareholders", "12.4%", "company", "controlling", "53.2%", "stake", "Wednesday", "considering", "merger", "subsidiary", "Orkem Coatings U.K. Ltd.", "internal", "resources", "acquisition", "restructuring", "addition", "related", "businesses", "further", "acquisitions", "eventually", "public", "share", "offering", "business"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of IBM Corp. stock, a move that would raise $1.5 billion for the Treasury Department.
+The sale would be the largest single stock sale by the government since the 1987 stock market crash, when the government sold 100 million shares of American Telephone & Telegraph Co. stock.
+The government's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The government's IBM stock is part of a portfolio of 1,000 stocks that the Treasury Department manages for the U.S. Civil Service Retirement and Disability Fund.
+The fund, which is used to pay retirement benefits to federal employees, is the largest single investor in IBM stock, with 1.2 percent of the company's outstanding shares.
+The fund's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The fund's IBM stock is part of a portfolio of 1,000 stocks that the Treasury Department manages for the U.S. Civil Service Retirement and Disability Fund.
+The fund, which is used to pay retirement benefits to federal employees, is the largest single investor in IBM stock, with 1.2 percent of the company's outstanding shares.
+The fund's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The fund's IBM stock is part of a portfolio of 1,000 stocks that the Treasury Department manages for the U.S. Civil Service Retirement and Disability Fund.
+The fund, which is used to pay retirement benefits to federal employees, is the largest single investor in IBM stock, with 1.2 percent of the company's outstanding shares.
+The fund's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The fund's IBM stock is part of a portfolio of 1,000 stocks that the Treasury Department manages for the U.S. Civil Service Retirement and Disability Fund.
+The fund, which is used to pay retirement benefits to federal employees, is the largest single investor in IBM stock, with 1.2 percent of the company's outstanding shares.
+The fund's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The fund's IBM stock is part of a portfolio of 1,000 stocks that the Treasury Department manages for the U.S. Civil Service Retirement and Disability Fund.
+The fund, which is used to pay retirement benefits to federal employees, is the largest single investor in IBM stock, with 1.2 percent of the company's outstanding shares.
+The fund's IBM stock is worth about $1.5 billion, based on the stock's closing price of $15.0625 on Friday.
+The fund's IBM stock is

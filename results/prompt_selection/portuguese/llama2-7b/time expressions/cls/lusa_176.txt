@@ -1,0 +1,14 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+
+Date: 2019-06-28
+Time: 06:55
+Duration: 00:00:00
+Set: 16
+

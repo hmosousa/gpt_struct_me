@@ -1,0 +1,1 @@
+[["hoje à tarde", "Time"], ["junto à praia da Estaquinha", "Set"], ["no concelho de Lagoa", "Set"], ["naquela praia de Lagoa", "Set"], ["do distrito de Faro", "Set"], ["Estação Salva-vidas de Ferragudo", "Set"], ["marina de Portimão", "Set"], ["no local", "Set"]]

@@ -1,0 +1,23 @@
+[
+["GNR", "Occurrence"],
+["festa ilegal", "State"],
+["50 pessoas", "Aspectual"],
+["São Brás de Alportel", "Location"],
+["Covid-19", "Intensional State"],
+["GNR", "Intensional Action"],
+["desmobilizaram", "Intensional Action"],
+["proprietário", "State"],
+["auto de contraordenação", "Reporting"]
+]
+
+Explanation:
+
+* "GNR" is an occurrence, as it is a named entity that is involved in the event.
+* "festa ilegal" is a state, as it describes the situation of an illegal party taking place.
+* "50 pessoas" is an aspectual, as it describes the quantity of people involved in the event.
+* "São Brás de Alportel" is a location, as it is the place where the event occurred.
+* "Covid-19" is an intensional state, as it is a state of affairs that is relevant to the event (the pandemic).
+* "GNR" is also an intensional action, as it is the entity that is performing the action of desmobilizing the people.
+* "desmobilizaram" is an intensional action, as it is the action being performed by the GNR.
+* "proprietário" is a state, as it describes the owner of the establishment.
+* "auto de contraordenação" is a reporting, as it is a document that is being created as a result of the event.

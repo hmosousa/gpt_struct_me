@@ -1,0 +1,8 @@
+["Nov. 20", "yesterday", "Nov. 10", "38.5%", "2.2 million", "15%"]
+Explanation:
+* "Nov. 20" is a time expression representing the extended deadline for the offer.
+* "yesterday" is a time expression representing the original deadline for the offer.
+* "Nov. 10" is a time expression representing the deadline for the receipt of competing bids.
+* "38.5%" is a time expression representing the percentage of shares tendered under the offer.
+* "2.2 million" is a time expression representing the number of shares tendered under the offer.
+* "15%" is a time expression representing the percentage of shares held by the partners.

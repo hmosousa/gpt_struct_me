@@ -1,0 +1,1 @@
+[["Tuesday", "DATE"], ["later this month", "DATE"], ["$27 a share", "DURATION"], ["$3.55 billion", "DURATION"], ["$1.4 billion", "DURATION"], ["$200 million", "DURATION"], ["Monday", "DATE"]]

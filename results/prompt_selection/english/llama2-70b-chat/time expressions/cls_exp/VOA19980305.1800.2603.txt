@@ -1,0 +1,16 @@
+[["Sunday", "DATE"], ["March eighth", "DATE"], ["twenty years", "DURATION"], ["seventy-five percent", "SET"], ["Afghanistan", "DATE"], ["Pakistan", "DATE"], ["Iran", "DATE"], ["Europe", "DATE"], ["Australia", "DATE"], ["North America", "DATE"], ["Kabul", "DATE"], ["Afghan", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+The input text may contain multiple entities of the same class. For example, "Afghanistan" may be mentioned multiple times in the text as a DATE. In this case, the output should contain multiple entities with the same class, like ["Afghanistan", "DATE"] multiple times.
+
+Note:
+The input text may contain entities that are not dates, times, durations, or sets. In this case, the output should not include these entities.
+
+Note:
+The input text may contain dates, times, durations, or sets that are not relevant to the task. In this case, the output should not include these entities.
+
+Note:
+The output should be in the format of a JSON-parseable list.

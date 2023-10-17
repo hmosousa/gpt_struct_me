@@ -1,0 +1,1 @@
+["two months", "10-hour tour", "Friday", "Jan. 13", "Thursday", "over a week", "Friday", "Thursday", "next week"]

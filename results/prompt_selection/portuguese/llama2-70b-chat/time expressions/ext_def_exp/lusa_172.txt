@@ -1,0 +1,9 @@
+["hoje à tarde", "60 e 70 anos", "depois de ter sido dado o alerta", "Faro", "Estação Salva-vidas de Ferragudo", "marina de Portimão", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]
+
+Note:
+
+* The input text may contain more than one temporal expression.
+* The temporal expressions may be in different formats, such as numerical dates, natural language dates, or time periods.
+* The task is to extract all temporal expressions from the input text, regardless of their format.
+* The output should be a list of strings, where each string represents a temporal expression.
+* The output format is JSON-parseable, meaning that it can be easily parsed and processed by a JSON-compatible tool or library.

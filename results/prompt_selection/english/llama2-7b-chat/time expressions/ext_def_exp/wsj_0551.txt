@@ -1,0 +1,4 @@
+["completed", "Society Bank amp Trust", "Society Corp.", "June", "year end"]
+
+Format:
+JSON-parseable list of strings.

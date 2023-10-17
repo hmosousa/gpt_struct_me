@@ -1,0 +1,11 @@
+[
+"Nov. 9",
+"Oct. 31",
+"yesterday"
+]
+
+Explanation:
+
+* "Nov. 9" is a time expression indicating the record date for the rights offering.
+* "Oct. 31" is a time expression indicating the date on which Hudson's Bay will redeem its Series H preferred shares.
+* "yesterday" is a time expression indicating the day on which the special shareholders' meeting was held.

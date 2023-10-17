@@ -1,0 +1,1 @@
+[["gunfire", "OCCURRENCE"], ["offensive", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["ethnic Albanians", "STATE"], ["fleeing", "OCCURRENCE"], ["forces", "OCCURRENCE"], ["operations", "OCCURRENCE"], ["sources", "OCCURRENCE"], ["over", "STATE"], ["Belgrade", "STATE"], ["planned", "STATE"], ["future", "STATE"], ["conflict", "STATE"], ["Pristina", "STATE"]]

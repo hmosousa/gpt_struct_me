@@ -1,0 +1,8 @@
+[["Grua de camião", "Obj"], ["Um homem", "Per"], ["52 anos", "Per"], ["um outro", "Per"], ["ferimentos ligeiros", "Other"], ["um acidente", "Other"], ["com um camião", "Other"], ["derrubou", "Other"], ["um poste de eletricidade", "Fac"], ["na Rua da Constituição", "Loc"], ["no Porto", "Loc"], ["PSP", "Org"], ["fonte", "Other"], ["Relações Públicas", "Org"], ["Comando Metropolitano", "Org"], ["PSP do Porto", "Org"], ["a vítima", "Per"], ["o Hospital de Santo António", "Fac"], ["morreu", "Other"], ["a estrutura", "Other"], ["atingiu", "Other"], ["o funcionário", "Per"], ["de umas bombas de gasolina", "Other"], ["sofreu", "Other"], ["ferimentos ligeiros", "Other"], ["o acidente", "Other"], ["ocorreu", "Other"]]
+
+Note:
+The task is to extract and classify all participants in the given text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The classification should be done according to the given classes.
+
+Note that the task is not to identify the relationships between the participants, but only to classify them according to their types.
+
+Also, note that the input text may contain more than one sentence or phrase, and the task is to classify each participant in each sentence or phrase separately.

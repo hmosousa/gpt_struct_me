@@ -1,0 +1,10 @@
+[
+  ["Rally's Inc.", "State"],
+  ["Rally's Inc.", "Occurrence"],
+  ["Rally's Inc.", "Reporting"],
+  ["Rally's Inc.", "Perception"],
+  ["Rally's Inc.", "Aspectual"],
+  ["Rally's Inc.", "Intensional Action"],
+  ["Rally's Inc.", "Intensional State"]
+]
+

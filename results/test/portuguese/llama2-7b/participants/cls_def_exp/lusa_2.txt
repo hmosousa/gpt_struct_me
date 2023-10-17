@@ -1,0 +1,15 @@
+[["Homem morre", "Per"], ["em desordem", "Per"], ["com arma de fogo", "Obj"], ["em Mem Martins", "Loc"], ["em Sintra", "Loc"], ["Um homem", "Per"], ["morreu", "Per"], ["e outro", "Per"], ["ficou ferido", "Per"], ["no domingo à noite", "Per"], ["em Algueirão-Mem Martins", "Loc"], ["no distrito de Lisboa", "Loc"], ["na sequência", "Per"], ["de uma", "Per"], ["desordem", "Per"], ["com arma de fogo", "Obj"], ["na Estrada de Mem Martins", "Loc"], ["tendo", "Per"], ["uma", "Per"], ["socorrida", "Per"], ["no local", "Loc"], ["onde", "Loc"], ["acabou", "Per"], ["por morrer", "Per"], ["Não houve", "Per"], ["maneira", "Per"], ["de reverter", "Per"], ["a situação", "Per"], ["dos ferimentos", "Per"], ["Desconhecendo", "Per"], ["mais", "Per"], ["pormenores", "Per"], ["a PSP", "Org"], ["adiantou", "Per"], ["que", "Per"], ["o alerta", "Per"], ["foi dado às", "Per"], ["23:30", "Obj"], ["e que", "Per"], ["no local", "Loc"], ["foram", "Per"], ["somente", "Per"], ["levadas a cabo", "Per"], ["diligências", "Per"], ["no sentido", "Per"], ["de socorrer", "Per"], ["as vítimas", "Per"], ["Por se", "Per"], ["tratar", "Per"], ["de um", "Per"], ["crime", "Per"], ["de homicídio", "Per"], ["a investigação", "Per"], ["do caso", "Per"], ["encontra-se", "Per"], ["a cargo", "Per"], ["da Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre em desordem com arma de fogo em Mem Martins em Sintra
+Um homem morreu e outro ficou ferido no domingo à noite em Algueirão-Mem Martins, em Sintra, no distrito de Lisboa, na sequência de uma “desordem com arma de fogo”, informou hoje à agência Lusa a PSP.
+De acordo com o Comando Metropolitano de Lisboa (Cometlis), duas pessoas foram encontradas feridas na Estrada de Mem Martins, tendo uma sido transportada para o Hospital Professor Doutor Fernando Fonseca (Amadora-Sintra) e a outra socorrida no local, onde acabou por morrer.
+“Não houve maneira de reverter a situação dos ferimentos”, referiu fonte do Cometlis.
+Desconhecendo mais pormenores, a PSP adiantou que o alerta foi dado às 23:30 e que, no local, foram apenas levadas a cabo diligências no sentido de socorrer as vítimas.
+Por se tratar de um crime de homicídio, a investigação do caso encontra-se a cargo da Polícia Judiciária (PJ)."
+
+Output:
+[["Homem morre", "Per"], ["em desordem", "Per"], ["com arma de fogo", "Obj"], ["em Mem Martins", "Loc"], ["em Sintra", "Loc"], ["Um homem", "Per"], ["morreu", "Per"], ["e outro", "Per"], ["ficou ferido", "Per"], ["no domingo à noite", "Per"], ["em Algueirão-Mem Martins", "Loc"], ["no distrito de Lisboa", "Loc"], ["na sequência", "Per"], ["de uma", "Per"], ["desordem", "Per"], ["com arma de fogo", "Obj"], ["na Estrada de Mem Martins", "Loc"], ["tendo",

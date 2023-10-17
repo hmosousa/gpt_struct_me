@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["ex-companheira", "Person"],
+["tiro", "Object"],
+["arma de fogo", "Object"],
+["Rua da Figueirinha", "Location"],
+["Grijó", "Location"],
+["Vila Nova de Gaia", "Location"],
+["distrito do Porto", "Location"],
+["62 anos", "Person"],
+["20 anos mais nova", "Person"]
+]
+
+Explanation:
+
+* Homem, ex-companheira, tiro, arma de fogo, Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto are all participants.
+* Homem and ex-companheira are people.
+* Tiro and arma de fogo are objects.
+* Rua da Figueirinha, Grijó, Vila Nova de Gaia, distrito do Porto are locations.
+* 62 anos and 20 anos mais nova are not participants, they are just attributes of the Homem.
+
+Note:
+
+* In this task,you should only focus on the entities mentioned in the text, and not on the attributes of those entities (such as the age of the Homem).
+* Also, you should not worry about the case of the words, as the output will be in lowercase.

@@ -1,0 +1,19 @@
+
+[
+"a matter of months",
+"last month",
+"two years",
+"8 Canadian cents a share",
+"21 Canadian cents a share",
+"C$9.75 (US$8.32)",
+"C$6.5 million",
+"C$18.1 million",
+"C$4.2 billion",
+"C$3.7 billion",
+"8:30 a.m.",
+"yesterday",
+"last week",
+"the latest fiscal year",
+"the past two years",
+"this stage"
+]

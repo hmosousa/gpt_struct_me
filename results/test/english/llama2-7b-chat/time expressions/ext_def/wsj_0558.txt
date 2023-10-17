@@ -1,0 +1,5 @@
+[
+"second", "seconds", "minute", "minutes", "hour", "hours", "day", "days", "week", "weeks", "month", "months", "year", "years"
+"last year", "year-earlier", "nine months", "fourth-quarter"
+"$182.6 million", "$1.63 a share", "$50 million", "$36 million", "$5 million", "$235.5 million", "$2.07 a share", "$60", "$23 million", "$33 million", "$59 million", "$106 million", "$48 million", "$27 million", "$15 million"
+]

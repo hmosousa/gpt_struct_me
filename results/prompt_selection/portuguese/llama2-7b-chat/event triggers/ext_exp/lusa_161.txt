@@ -1,0 +1,59 @@
+
+["mata", "ex-companheira", "tiro", "Vila Nova de Gaia", "homem", "detido", "suicídio", "arma", "GNR", "Comando", "Territorial", "Porto", "Rua", "Figueirinha", "Grijó", "Vila Nova de Gaia", "distrito", "Porto", "vítima", "mulher", "relação", "terminou", "alçada", "Polícia", "Judiciária"]
+
+
+Note:
+
+The task is to extract all the event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event, such as a crime, a death, or an accident.
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.
+For example, in the first input text, the event triggers are:
+* "pediu" (pedido)
+* "desculpa" (pedido de desculpa)
+* "erros" (erro)
+* "levaram" (levaram à morte)
+* "mortes" (morte)
+* "quarentena" (quarentena de hotéis)
+* "divulgação" (divulgação de um relatório)
+* "explicou" (explicou o que aconteceu)
+* "implementado" (implementado rapidamente)
+* "investigação" (investigação sobre o ocorrido)
+* "quarentena" (quarentena de hotéis)
+* "Quero" (quero pedir desculpa)
+* "pedir" (pedir desculpa)
+* "desculpa" (pedido de desculpa)
+* "erros" (erros muito claros)
+* "cometidos" (cometidos em um programa)
+* "disse" (disse o que aconteceu)
+* "fraco controlo" (fraco controle em hotéis)
+* "desencadearam" (desencadearam uma onda de infeções)
+* "infeções" (infeções na segunda maior cidade)
+* "estado em grande parte livre" (estado em grande parte livre de vírus)
+* "morreram" (morreram 820 pessoas)
+* "fornece" (fornece segurança nos hotéis)
+* "segurança" (segurança nos hotéis)
+* "quarentena" (quarentena de hotéis)
+* "desencadearam" (desencadearam uma onda de infeções)
+* "infeções" (infeções na segunda maior cidade)
+* "estado em grande parte livre" (estado em grande parte livre de vírus)
+* "morreram" (morreram 820 pessoas)
+* "começou" (começou a aceitar chegadas internacionais)
+* "aceitar" (aceitar chegadas internacionais este mês)
+* "chegadas internacionais" (chegadas internacionais este mês)
+
+In the second input text, the event triggers are:
+* "mata" (mata com tiro)
+* "ex-companheira" (ex-companheira morta)
+* "tiro" (tiro de arma de fogo)
+* "Vila Nova de Gaia" (Vila Nova de Gaia, distrito do Porto)
+* "homem" (homem detido)
+* "detido" (detido em uma altura)
+* "suicídio" (suicídio com a mesma arma)
+* "arma" (arma de fogo)
+* "GNR" (GNR referiu)
+* "Comando" (Comando Territorial da GNR)
+* "Territorial" (Territorial do Porto)
+* "Porto" (Porto, distrito)
+* "Rua" (Rua da Figueirinha)
+* "Figueirinha" (Figueirinha, Grijó)
+* "Grijó" (Grijó, Vila Nova de Gaia)
+* "Vila

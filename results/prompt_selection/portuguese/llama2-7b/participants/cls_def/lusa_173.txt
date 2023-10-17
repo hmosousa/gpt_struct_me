@@ -1,0 +1,41 @@
+[
+  ["Homem", "Person"],
+  ["Transportadora J Amaral", "Organization"],
+  ["Estarreja", "Location"],
+  ["Aveiro", "Location"],
+  ["GNR", "Organization"],
+  ["Polícia Judiciária", "Organization"],
+  ["Hospital Infante D. Pedro", "Facility"],
+  ["Camion", "Object"],
+  ["Cisterna", "Object"],
+  ["Manutenção", "Activity"],
+  ["Desaparecido", "Activity"],
+  ["Fazer", "Activity"],
+  ["Aberto", "Activity"],
+  ["Causa", "Activity"],
+  ["Tomar", "Activity"],
+  ["Transporte", "Activity"],
+  ["Viatura Médica de Emergência e Reanimação de Aveiro", "Other"]
+]
+
+Examples:
+[
+  ["Homem", "Person"],
+  ["Transportadora J Amaral", "Organization"],
+  ["Estarreja", "Location"],
+  ["Aveiro", "Location"],
+  ["GNR", "Organization"],
+  ["Polícia Judiciária", "Organization"],
+  ["Hospital Infante D. Pedro", "Facility"],
+  ["Camion", "Object"],
+  ["Cisterna", "Object"],
+  ["Manutenção", "Activity"],
+  ["Desaparecido", "Activity"],
+  ["Fazer", "Activity"],
+  ["Aberto", "Activity"],
+  ["Causa", "Activity"],
+  ["Tomar", "Activity"],
+  ["Transporte", "Activity"],
+  ["Viatura Médica de Emergência e Reanimação de Aveiro", "Other"]
+]
+

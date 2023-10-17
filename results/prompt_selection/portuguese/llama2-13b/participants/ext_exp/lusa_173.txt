@@ -1,0 +1,25 @@
+["Um homem de 34 anos", "Transportadora J Amaral", "Estarreja", "a Lusa", "fonte", "GNR", "Aveiro", "alerta", "cisterna", "camião", "homem", "fazer", "manutenção", "cisterna", "sábado", "graduado", "determinar", "causa", "morte", "delegada", "Saúde", "Polícia Judiciária", "o local", "Viatura Médica", "Emergência", "Reanimação", "Aveiro", "cadáver", "Hospital Infante D. Pedro", "fonte", "bombeiros"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Mais de 100 pessoas participam de protesto contra a austeridade em Lisboa
+Mais de 100 pessoas participaram hoje em Lisboa num protesto contra a austeridade, que se seguiu às manifestações de 15 de Maio.
+O protesto, organizado pela plataforma "Não à Austeridade", teve início às 14h30 no Largo do Rato, no centro da capital, e terminou às 17h30 no Parque Eduardo VII.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo Governo.
+A plataforma "Não à Austeridade" é uma organização de cidadãos que se opõe às medidas de austeridade impostas pelo G

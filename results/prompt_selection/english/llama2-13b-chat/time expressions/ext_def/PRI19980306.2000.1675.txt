@@ -1,0 +1,16 @@
+[
+"second day",
+"mid afternoon",
+"official Serb sources were saying the operation was over"
+]
+
+Explanation:
+The task is to extract all time expressions from the given text. The output should be a JSON-parseable list of strings, where each string represents a time expression.
+
+The text contains three time expressions:
+
+1. "second day" - indicating a specific point in time (a day)
+2. "mid afternoon" - indicating a specific point in time (the afternoon)
+3. "official Serb sources were saying the operation was over" - indicating a specific point in time (the time when the sources were saying the operation was over)
+
+The output should be a list of these three time expressions, represented as strings.

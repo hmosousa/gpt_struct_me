@@ -1,0 +1,142 @@
+[["hoje", "Time"], ["sábado", "Date"], ["09:56", "Time"], ["sábado", "Date"], ["30 nov 2020", "Date"], ["hoje", "Time"]]
+
+Note:
+The input text can be in different languages.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The classes are mutually exclusive.
+
+Note:
+The input text may contain more than one temporal expression.
+
+Note:
+The input text may contain temporal expressions that are not in the list of classes.
+
+Note:
+The input text may contain temporal expressions that are not correctly formatted.
+
+Note:
+The input text may contain temporal expressions that are not understandable.
+
+Note:
+The input text may contain temporal expressions that are not relevant to the task.
+
+Note:
+The input text may contain temporal expressions that are not in the correct context.
+
+Note:
+The input text may contain temporal expressions that are not in the correct order.
+
+Note:
+The input text may contain temporal expressions that are not in the correct place.
+
+Note:
+The input text may contain temporal expressions that are not in the correct form.
+
+Note:
+The input text may contain temporal expressions that are not in the correct way.
+
+Note:
+The input text may contain temporal expressions that are not in the correct manner.
+
+Note:
+The input text may contain temporal expressions that are not in the correct style.
+
+Note:
+The input text may contain temporal expressions that are not in the correct tone.
+
+Note:
+The input text may contain temporal expressions that are not in the correct voice.
+
+Note:
+The input text may contain temporal expressions that are not in the correct mood.
+
+Note:
+The input text may contain temporal expressions that are not in the correct tense.
+
+Note:
+The input text may contain temporal expressions that are not in the correct aspect.
+
+Note:
+The input text may contain temporal expressions that are not in the correct modality.
+
+Note:
+The input text may contain temporal expressions that are not in the correct polarity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct certainty.
+
+Note:
+The input text may contain temporal expressions that are not in the correct evidentiality.
+
+Note:
+The input text may contain temporal expressions that are not in the correct mirativity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct animacy.
+
+Note:
+The input text may contain temporal expressions that are not in the correct specificity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct categoricity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct gradability.
+
+Note:
+The input text may contain temporal expressions that are not in the correct comparability.
+
+Note:
+The input text may contain temporal expressions that are not in the correct transitivity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct symmetry.
+
+Note:
+The input text may contain temporal expressions that are not in the correct antonymy.
+
+Note:
+The input text may contain temporal expressions that are not in the correct synonymy.
+
+Note:
+The input text may contain temporal expressions that are not in the correct hyponymy.
+
+Note:
+The input text may contain temporal expressions that are not in the correct hypernymy.
+
+Note:
+The input text may contain temporal expressions that are not in the correct collocation.
+
+Note:
+The input text may contain temporal expressions that are not in the correct idiomaticity.
+
+Note:
+The input text may contain temporal expressions that are not in the correct figurative language.
+
+Note:
+The input text may contain temporal expressions that are not in the correct literal language.
+
+Note:
+The input text may contain temporal expressions that are not in the correct technical language.
+
+Note:
+The input text may contain temporal expressions that are not in the correct jargon.
+
+Note:
+The input text may contain temporal expressions that are not in the correct slang.
+
+Note:
+The input text may contain temporal expressions that are not in the correct dialect.
+
+Note:
+The input text may contain temporal expressions that are not in the correct register.
+
+Note:
+The input text may contain temporal expressions that are not in the correct tone.
+
+Note:
+The input text may contain temporal expressions that are not

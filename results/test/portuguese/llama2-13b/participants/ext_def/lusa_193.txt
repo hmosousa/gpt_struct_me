@@ -1,0 +1,1 @@
+["homem", "caiu", "rio", "tejo", "lisboa", "socorrido", "perigo", "hospital", "santo", "jose", "socorro", "individuo", "transportado", "policia", "maritima", "adiantou", "lusa", "ocorrencia", "meio", "dia", "reanimação", "cardiorrespiratória", "socorro", "transeunte", "viu", "dificuldades", "levado", "ambulancia", "nacional", "emergencia", "medica", "internado", "perigo"]

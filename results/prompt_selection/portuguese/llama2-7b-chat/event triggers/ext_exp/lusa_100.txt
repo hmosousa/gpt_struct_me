@@ -1,0 +1,6 @@
+[
+"Violência", "doméstica", "pulseira", "eletrónica", "homem", "detido", "Penafiel", "distrito", "Porto", "suspeito", "violência", "física", "injúrias", "ameaças", "death", "separação", "perseguir", "vítima", "residência", "local", "trabalho", "botão", "pânico", "teleassistência", "proibido", "contactar"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list is sorted alphabetically.

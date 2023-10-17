@@ -1,0 +1,1 @@
+[["third quarter", "DATE"], ["$5.3 million", "DURATION"], ["$15 million", "DURATION"], ["$30 million", "DURATION"], ["year-ago third quarter", "DATE"], ["97 cents a share", "DURATION"], ["$778.6 million", "DURATION"], ["$18 million", "DURATION"], ["next two years", "DURATION"], ["fiscal 1989", "DATE"], ["$40 million", "DURATION"], ["$1.5 million", "DURATION"]]

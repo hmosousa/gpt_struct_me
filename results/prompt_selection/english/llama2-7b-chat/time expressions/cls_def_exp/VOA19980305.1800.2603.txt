@@ -1,0 +1,1 @@
+	[["International Women's Day", "DATE"], ["this coming Sunday", "DATE"], ["March eighth", "DATE"], ["Afghan women", "CLASS"], ["Special events", "SET"], ["European Commission", "ORGANIZATION"], ["individual nations", "ORGANIZATION"], ["North America", "LOCATION"], ["Australia", "LOCATION"], ["Pakistan", "LOCATION"], ["Iran", "LOCATION"], ["Geneva", "LOCATION"]]

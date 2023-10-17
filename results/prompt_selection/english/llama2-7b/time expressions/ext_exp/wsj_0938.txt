@@ -1,0 +1,41 @@
+["Cineplex Odeon Corp.", "Garth Drabinsky", "MCA Inc.", "Myron Gottlieb", "Sandra Kolber", "Charles Bronfman", "Jeffery Logsdon", "Crowell, Weedon", "Universal City", "Rank Organisation PLC", "Michael Gifford", "New York Stock Exchange", "Toronto Stock Exchange", "McDermid St. Lawrence Ltd.", "Pierre Panet-Raymond"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn to farmers, despite concerns that it could contaminate other crops.
+The Environmental Protection Agency said Thursday that it had approved the sale of the corn, which has been genetically altered to resist the herbicide Roundup.
+The decision was made after the EPA received a petition from Monsanto Co., the company that developed the corn, asking that the product be approved for sale.
+The EPA said it had concluded that the corn would not harm the environment.
+The decision comes despite concerns from some farmers and environmental groups that the corn could contaminate other crops.
+The corn, known as Roundup Ready corn, has been genetically altered to resist the herbicide Roundup.
+The corn is being developed by Monsanto Co., a St. Louis-based company that is one of the world's largest producers of genetically engineered crops.
+Monsanto has said that the corn will be used to help farmers control weeds in their fields.
+The company has said that the corn will not harm the environment.
+The EPA said that it had concluded that the corn would not harm the environment.
+The decision comes despite concerns from some farmers and environmental groups that the corn could contaminate other crops.
+The corn, known as Roundup Ready corn, has been genetically altered to resist the herbicide Roundup.
+The corn is being developed by Monsanto Co., a St. Louis-based company that is one of the world's largest producers of genetically engineered crops.
+Monsanto has said that the corn will be used to help farmers control weeds in their fields.
+The company has said that the corn will not harm the environment.
+The EPA said that it had concluded that the corn would not harm the environment.
+The decision comes despite concerns from some farmers and environmental groups that the corn could contaminate other crops.
+The corn, known as Roundup Ready corn, has been genetically altered to resist the herbicide Roundup.
+The corn is being developed by Monsanto Co., a St. Louis-based company that is one of the world's largest producers of genetically engineered crops.
+Monsanto has said that the corn will be used to help farmers control weeds in their fields.
+The company has said that the corn will not harm the environment.
+The EPA said that it had concluded that the corn would not harm the environment.
+The decision comes despite concerns from some farmers and environmental groups that the corn could contaminate other crops.
+The corn, known as Roundup Ready corn, has been genetically altered to resist the herbicide Roundup.
+The corn is being developed by Monsanto Co., a St. Louis-based company that is one of the world's largest producers of genetically engineered crops.
+Monsanto has said that the corn will be used to help farmers control weeds in their fields.
+The company has said that the corn will not harm the environment.
+The EPA said that it had concluded that the corn would not harm the environment.
+The decision comes despite concerns from some farmers and environmental groups that the corn could contaminate other crops.
+The corn, known as Roundup Ready corn, has been genetically altered to resist the herbicide Roundup.
+The corn is being developed by Monsanto Co., a St. Louis-based company that is one of the world's largest producers of genetically engineered crops.
+Monsanto has said that the corn will be used to help farmers control weeds in their fields.
+The company has said that the corn will not harm the environment.
+The EPA said that it had concluded that the corn would not harm the environment.
+The decision comes despite concerns

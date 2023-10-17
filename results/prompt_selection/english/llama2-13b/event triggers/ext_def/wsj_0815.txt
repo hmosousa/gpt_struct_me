@@ -1,0 +1,41 @@
+["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.","Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.","Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."]
+
+Explanation:
+The event triggers are the sentences that are not part of the text.
+
+Subtask:
+Extract all event triggers.
+
+Definition:
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.
+Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.
+Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."
+
+Output:
+["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.","Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.","Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."]
+
+Explanation:
+The event triggers are the sentences that are not part of the text.
+
+Subtask:
+Extract all event triggers.
+
+Definition:
+An event refers to any occurrence, incident, action or state that takes place or holds within a specified period of time. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval. Events have temporal relevance and can be directly related to temporal expressions. Events can be related to changes in the text and are often used to advance the plot and develop characters, but also to describe characters, objects, circumstances, places or states.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.
+Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp., a unit of Rose Partners Limited Partnership. DIG is the vehicle being used to pursue to acquisition.
+Robert Mellor, Di Giorgio's executive vice president, said the company stands to reap more money through the sale of individual units to others than by accepting DIG's offer."
+
+Output:
+["Di Giorgio Corp. said it's continuing talks with potential buyers of certain units, but has reached no agreement on any deals.","Di Giorgio, a food wholesaler and building products maker, is seeking alternatives to an unsolicited $32-a-share tender offer of DIG Acquisition Corp

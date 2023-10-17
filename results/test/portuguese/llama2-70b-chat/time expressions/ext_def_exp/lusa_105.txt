@@ -1,0 +1,16 @@
+["domingo", "30 nov 2020", "6 anos", "6 meses", "12 doses", "9 doses", "6 anos", "6 meses"]
+
+Note:
+The input text may contain other irrelevant information.
+The output should only include the time expressions.
+The format of the output is a JSON-parseable list of strings.
+
+Note 2:
+The input text is in Portuguese.
+
+Note 3:
+The output should be in English.
+
+Note 4:
+The input text may contain different formats of time expressions.
+The output should only include the time expressions in the format specified in the output example.

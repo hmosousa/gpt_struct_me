@@ -1,0 +1,54 @@
+[["Jim Pattison Industries Ltd.", "DATE"], ["one of a group of closely held companies owned by entrepreneur James Pattison", "DATE"], ["said it "intends to seek control" of 30%-owned Innopac Inc.", "DATE"], ["Jim Pattison Industries, a holding company with annual sales of about C$1.9 billion, largely from car dealerships and grocery stores", "DATE"], ["didn't elaborate on the statement, and a company official declined further comment", "DATE"], ["currently holds about 4.2 million of Innopac's 13.8 million common shares outstanding, which have an aggregate market value of about 137.8 million Canadian dollars (US$117.3 million)", "DATE"], ["Separately, Innopac reported a fourth-quarter loss of about C$2.6 million, or 18 Canadian cents a share, reflecting inventory write-downs", "DATE"], ["The results made net income for the year ended Aug. 31 C$2.7 million, or 20 Canadian cents a share, down from C$9.7 million, or 70 Canadian cents a share last year", "DATE"], ["Revenue was C$291.6 million, up from C$252 million in 1988", "DATE"], ["Martin Fabi, Innopac's president and chief executive, said Innopac viewed Mr. Pattison's decision to seek control as a "very positive" move", "DATE"], ["I'm happy that he feels positively about our company", "DATE"], ["Mr. Fabi wouldn't say directly whether Mr. Pattison has disclosed potential terms for his planned bid for control", "DATE"]]
+
+"""
+
+import re
+import json
+import os
+import sys
+import time
+import datetime
+import random
+import string
+import collections
+import math
+import numpy as np
+import pandas as pd
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet as wn
+from nltk.stem import PorterStemmer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmat

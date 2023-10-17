@@ -1,0 +1,11 @@
+[
+"terça-feira",
+"quarta-feira",
+"hoje"
+]
+
+Explanation:
+
+* "terça-feira" is a time expression indicating the day of the week on which the event occurred.
+* "quarta-feira" is another time expression indicating the day of the week on which the event occurred.
+* "hoje" is a time expression indicating the current day, which is the day on which the information is being presented.

@@ -1,0 +1,27 @@
+[
+["Quatro homens", "State"],
+["depois de disparos", "Occurrence"],
+["em Lisboa", "Location"],
+["Quatro homens", "State"],
+["em dois veículos distintos", "State"],
+["foram hoje detidos", "Reporting"],
+["após terem disparado com armas de fogo entre si", "Intensional Action"],
+["na zona do Rego", "Location"],
+["não havendo feridos", "Aspectual"],
+["apenas danos em viaturas estacionadas no local", "Aspectual"],
+["por volta das 12:00", "Time"],
+["puseram-se em fuga", "Intensional Action"],
+["mas acabaram intercetados pelas autoridades", "Reporting"],
+["e detidos", "Reporting"],
+["Não há feridos a registar", "Aspectual"],
+["apenas danos em viaturas que se encontravam no local", "Aspectual"],
+["vários invólucros de balas", "Aspectual"],
+["um dos suspeitos", "State"],
+["tinha na sua posse um carregador com várias munições", "State"],
+["quando foi detido", "Reporting"],
+["O caso foi entregue à Polícia Judiciária", "Reporting"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+Also, please note that the output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.

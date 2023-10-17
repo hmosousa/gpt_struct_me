@@ -1,0 +1,4 @@
+["quarta-feira", "Alto da Guerra", "30 nov 2020", "setembro", "final do ano", "época de veda", "épocas de veda"]
+
+Hint:
+Note that some of the time expressions may have different forms, such as "final do ano" and "épocas de veda", but they all refer to the same concept of time.

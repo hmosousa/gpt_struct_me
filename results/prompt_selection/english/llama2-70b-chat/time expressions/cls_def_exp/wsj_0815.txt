@@ -1,0 +1,199 @@
+[["Di Giorgio Corp.", "DATE"], ["$32-a-share", "MONEY"], ["DIG Acquisition Corp.", "DATE"], ["Rose Partners Limited Partnership", "DATE"], ["Robert Mellor", "DATE"], ["executive vice president", "TITLE"], ["company", "DATE"]]
+
+Note:
+The first item in the output list is the input string, and the second is the class.
+
+Note:
+The output list is in JSON format.
+
+Note:
+The input string is case-insensitive.
+
+Note:
+The output list is not in any specific order.
+
+Note:
+There may be multiple entities of the same class.
+
+Note:
+There may be multiple classes for the same entity.
+
+Note:
+The classes are not mutually exclusive.
+
+Note:
+The input string may contain punctuation.
+
+Note:
+The input string may contain special characters.
+
+Note:
+The input string may contain numbers.
+
+Note:
+The input string may contain abbreviations.
+
+Note:
+The input string may contain acronyms.
+
+Note:
+The input string may contain misspellings.
+
+Note:
+The input string may contain typos.
+
+Note:
+The input string may contain irregularities.
+
+Note:
+The input string may contain inconsistencies.
+
+Note:
+The input string may contain ambiguities.
+
+Note:
+The input string may contain uncertainties.
+
+Note:
+The input string may contain complexities.
+
+Note:
+The input string may contain nuances.
+
+Note:
+The input string may contain subtleties.
+
+Note:
+The input string may contain variations.
+
+Note:
+The input string may contain differences.
+
+Note:
+The input string may contain contrasts.
+
+Note:
+The input string may contain contradictions.
+
+Note:
+The input string may contain paradoxes.
+
+Note:
+The input string may contain oxymorons.
+
+Note:
+The input string may contain idioms.
+
+Note:
+The input string may contain colloquialisms.
+
+Note:
+The input string may contain slang.
+
+Note:
+The input string may contain jargon.
+
+Note:
+The input string may contain technical terms.
+
+Note:
+The input string may contain specialized language.
+
+Note:
+The input string may contain domain-specific language.
+
+Note:
+The input string may contain expert language.
+
+Note:
+The input string may contain esoteric language.
+
+Note:
+The input string may contain obscure language.
+
+Note:
+The input string may contain enigmatic language.
+
+Note:
+The input string may contain cryptic language.
+
+Note:
+The input string may contain mysterious language.
+
+Note:
+The input string may contain ambiguous language.
+
+Note:
+The input string may contain equivocal language.
+
+Note:
+The input string may contain vague language.
+
+Note:
+The input string may contain imprecise language.
+
+Note:
+The input string may contain indefinite language.
+
+Note:
+The input string may contain uncertain language.
+
+Note:
+The input string may contain unspecific language.
+
+Note:
+The input string may contain nonspecific language.
+
+Note:
+The input string may contain general language.
+
+Note:
+The input string may contain broad language.
+
+Note:
+The input string may contain wide-ranging language.
+
+Note:
+The input string may contain diverse language.
+
+Note:
+The input string may contain varied language.
+
+Note:
+The input string may contain complex language.
+
+Note:
+The input string may contain intricate language.
+
+Note:
+The input string may contain delicate language.
+
+Note:
+The input string may contain subtle language.
+
+Note:
+The input string may contain nuanced language.
+
+Note:
+The input string may contain sophisticated language.
+
+Note:
+The input string may contain refined language.
+
+Note:
+The input string may contain cultured language.
+
+Note:
+The input string may contain educated language.
+
+Note:
+The input string may contain enlightened language.
+
+Note:
+The input string may contain informed language.
+
+Note:
+The input string may contain knowledgeable language.
+
+Note:
+The input

@@ -1,0 +1,7 @@
+["February 1947", "Friday"]
+
+Explanation:
+The output is a list of time expressions in the format of strings. The time expressions are "February 1947" and "Friday".
+
+Note:
+The input text is in a specific format, and the task is to extract the time expressions from the text. The output should be a list of strings, where each string represents a time expression.

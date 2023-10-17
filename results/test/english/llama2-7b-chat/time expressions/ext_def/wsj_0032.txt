@@ -1,0 +1,8 @@
+[
+"$37-a-share",
+"today",
+"November",
+"end of November",
+"72%",
+"previously announced agreement"
+]

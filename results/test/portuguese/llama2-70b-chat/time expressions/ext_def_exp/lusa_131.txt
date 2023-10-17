@@ -1,0 +1,6 @@
+["na quinta-feira", "30 nov 2020", "setembro", "final do ano"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.

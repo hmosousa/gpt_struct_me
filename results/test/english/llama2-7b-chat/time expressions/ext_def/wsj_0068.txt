@@ -1,0 +1,10 @@
+[
+"Jan. 2",
+"Dec. 15",
+"third-quarter",
+"year-ago quarter",
+"11.5 cents",
+"5 cents",
+"15 cents",
+"29 cents"
+]

@@ -1,0 +1,7 @@
+[["Elco Industries Inc.", "ORGANIZATION"], ["June 30, 1990", "DATE"], ["1989", "DATE"], ["$1.65", "AMOUNT"], ["$155 million", "AMOUNT"], ["fiscal 1989", "SET"], ["yesterday", "DATE"]]
+
+Note:
+The input text may contain multiple time expressions, and the output should list each one with its corresponding class.
+
+Hint:
+You may want to use a regular expression to extract the time expressions from the input text.

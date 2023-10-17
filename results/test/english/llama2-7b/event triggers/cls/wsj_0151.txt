@@ -1,0 +1,10 @@
+[
+  ["Intelogic Trace Inc.", "State"],
+  ["Intelogic Trace Inc.", "Occurrence"],
+  ["Intelogic Trace Inc.", "Reporting"],
+  ["Intelogic Trace Inc.", "Perception"],
+  ["Intelogic Trace Inc.", "Aspectual"],
+  ["Intelogic Trace Inc.", "Intensional Action"],
+  ["Intelogic Trace Inc.", "Intensional State"]
+]
+

@@ -1,0 +1,27 @@
+[
+["Violência doméstica", "State"],
+["Pulseira eletrónica", "Aspectual"],
+["homem detido", "Occurrence"],
+["Penafiel", "Location"],
+["GNR", "Reporting"],
+["separação", "Aspectual"],
+["perseguição", "Aspectual"],
+["teleassistência", "Aspectual"],
+["antecedentes criminais", "Intensional Action"]
+]
+
+Explanation:
+
+* "Violência doméstica" is a state, as it describes a situation.
+* "Pulseira eletrónica" is an aspectual entity, as it describes a device used to monitor the suspect.
+* "homem detido" is an occurrence, as it describes an event that happened (the man was detained).
+* "Penafiel" is a location, as it describes where the event took place.
+* "GNR" is a reporting entity, as it is the source of the information.
+* "separação" and "perseguição" are aspectual entities, as theydescribe the events that led to the detention.
+* "teleassistência" is an aspectual entity, as it describes the device used to monitor the suspect.
+* "antecedentes criminais" is an intensional action, as it describes the suspect's previous criminal history.
+
+Note:
+
+* The output is a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.

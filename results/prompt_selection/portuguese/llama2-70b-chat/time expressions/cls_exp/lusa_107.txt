@@ -1,0 +1,10 @@
+[["hoje", "Time"], ["12:50", "Time"], ["Torreira", "Location"], ["Torreira", "Location"], ["mais de uma semana", "Duration"], ["Aveiro", "Location"], ["Aveiro", "Location"]]
+
+Please extract and classify all time expressions in the given text.
+
+Note:
+
+* Dates should be in the format of "dd/mm/yyyy" or "dd/mm/yy"
+* Times should be in the format of "HH:MM"
+* Durations should be in the format of "X dias/semanas/anos"
+* Sets should be in the format of "dd/mm/yyyy - dd/mm/yyyy"

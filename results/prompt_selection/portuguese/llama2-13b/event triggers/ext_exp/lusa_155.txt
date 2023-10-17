@@ -1,0 +1,25 @@
+["ferido", "gravidade", "agressão", "garrafa", "restaurante", "Palmela", "homem", "proprietário", "estabelecimento", "garrafa", "agredido", "estabelecimento", "coma", "hospital", "Setúbal", "mesma", "fonte", "GNR", "agressão", "fuga", "automóvel", "motivada", "proprietário", "restaurante", "consumir", "bebidas", "álcool", "via pública", "consumo", "álcool", "ferimentos", "línguas", "transportadas", "hospital", "São Bernardo", "CDOS", "Setúbal", "bombeiros", "corporação", "Águas de Moura"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Mais de 100 pessoas morreram em um incêndio em um hospital de Covid-19 na Índia
+Mais de 100 pessoas morreram em um incêndio no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.
+O incêndio ocorreu no hospital de Covid-19 de Bharuch, no estado de Gujarat, na Índia, diz a polícia.

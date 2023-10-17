@@ -1,0 +1,1 @@
+["homem", "morto", "cisterna", "camião", "Estarreja", "Transportadora", "J Amaral", "GNR", "Lusa", "manutenção", "desaparecido", "sábado", "Bombeiros", "Joaquim Rebelo", "aberta", "causa", "morte", "delegada", "saúde", "polícia", "judiciária", "Viatura", "Emergência", "Reanimação", "Aveiro", "transporte", "cadáver", "Hospital", "Infante", "D. Pedro"]

@@ -1,0 +1,39 @@
+[
+["Homem", "State"],
+["atacar", "Action"],
+["tubarão", "State"],
+["praia", "State"],
+["Cable", "State"],
+["oceano Índico", "State"],
+["coxa", "State"],
+["mão", "State"],
+["polícia", "State"],
+["paramédicos", "State"],
+["tubarão", "Intensional Action"],
+["praia", "Intensional State"],
+["Austrália", "State"],
+["1929", "State"],
+["2019", "State"],
+["CSIRO", "State"],
+["2.210", "State"]
+]
+
+Explanation:
+
+* "Homem" is a State because it refers to a person's body.
+* "atacar" is an Action because it refers to the act of attacking.
+* "tubarão" is a State because it refers to the shark's body.
+* "praia" is a State because it refers to the beach.
+* "Cable" is a State because it refers to the name of the beach.
+* "oceano Índico" is a State because it refers to the ocean.
+* "coxa" is a State because it refers to the person's thigh.
+* "mão" is a State because it refers to the person's hand.
+* "polícia" is a State because it refers to the police.
+* "paramédicos" is a State because it refers to the paramedics.
+* "tubarão" is an Intensional Action because it refers to the act of the shark attacking.
+* "praia" is an Intensional State because it refers to the state of the beach being closed.
+* "Austrália" is a State because it refers to the country.
+* "1929" is a State because it refers to a year in the past.
+* "2019" is a State because it refers to a year in the past.
+* "CSIRO" is a State because it refers to the scientific agency.
+* "2.210" is a State because it refers to a quantity of sharks.

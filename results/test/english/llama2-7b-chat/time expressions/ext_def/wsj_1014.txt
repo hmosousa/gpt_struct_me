@@ -1,0 +1,26 @@
+A list of time expressions in the given text:
+1. days
+2. weeks
+3. months
+4. years
+5. summer
+6. long time
+7. last year
+8. 1989
+9. 1990
+10. last half
+11. 1980s
+12. 1990s
+
+Note:
+The time expressions in the given text are:
+1. "historical" (referring to the past)
+2. "once-sporadic and brief forays into discounting" (referring to a past event)
+3. "summer" (referring to a season)
+4. "last month" (referring to a recent past)
+5. "selected markets nationwide" (referring to a specific location and time period)
+6. "1989" (referring to a specific year)
+7. "1990" (referring to a specific year)
+8. "the 1980s" (referring to a decade)
+9. "the 1990s" (referring to a decade)
+10. "the coming pricing struggle" (referring to a future event)

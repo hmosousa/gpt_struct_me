@@ -1,0 +1,4 @@
+[["Jim Pattison Industries Ltd.", "Company"], ["Innopac Inc.", "Company"], ["James Pattison", "Person"], ["McDonald's Corp.", "Company"], ["Mobil Corp.", "Company"]]
+
+Note:
+The input text is a news article and the output is a list of entities and their corresponding classes. The entities are identified by proper nouns (e.g. "Jim Pattison Industries Ltd.", "Innopac Inc.") and the classes are defined by the context (e.g. "Company", "Person").

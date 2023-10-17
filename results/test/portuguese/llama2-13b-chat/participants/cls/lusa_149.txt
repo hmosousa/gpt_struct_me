@@ -1,0 +1,30 @@
+[
+["Governo português", "Organization"],
+["famílias das vítimas", "Person"],
+["atentado", "Object"],
+["Alemanha", "Location"],
+["polícia local", "Organization"],
+["Twitter", "Object"],
+["feridos", "Person"],
+["apoio", "Object"],
+["povo", "Person"],
+["autoridades", "Organization"]
+]
+
+Explanation:
+
+* Governo português: Organization
+* famílias das vítimas: Person
+* atentado: Object
+* Alemanha: Location
+* polícia local: Organization
+* Twitter: Object
+* feridos: Person
+* apoio: Object
+* povo: Person
+* autoridades: Organization
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Person, Organization, Object, Location, Nature, Facility, and Other.

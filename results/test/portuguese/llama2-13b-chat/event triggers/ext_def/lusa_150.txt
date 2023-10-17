@@ -1,0 +1,12 @@
+["morreu", "transferido para tratamento contra a covid-19", "libertado", "sequestrado", "fazia campanha", "libertados"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "morreu" (died)
+* "transferido para tratamento contra a covid-19" (transferred for treatment against COVID-19)
+* "libertado" (released)
+* "sequestrado" (kidnapped)
+* "fazia campanha" (was campaigning)
+
+Note that "libertados" (released) is not an event trigger in this context, as it is not indicating the occurrence of an event, but rather the result of an event (the release of the hostages).

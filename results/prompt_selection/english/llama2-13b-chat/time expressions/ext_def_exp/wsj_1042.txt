@@ -1,0 +1,1 @@
+["Monday", "Santa Monica", "Calif.", "3.3 million", "1.1 million", "5.50", "90 days", "additional"]

@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "State"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Polly Peck International Inc.",
+    "class": "Intensional State"
+  }
+]

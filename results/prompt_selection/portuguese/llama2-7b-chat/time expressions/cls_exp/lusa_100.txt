@@ -1,0 +1,1 @@
+[["homem", "Person"], ["Penafiel", "Location"], ["39", "Age"], ["42", "Age"], ["GNR", "Organization"], ["violência física", "Crime"], ["injúrias", "Crime"], ["amaze", "Crime"], ["separação", "Event"], ["residência", "Location"], ["local de trabalho", "Location"], ["botão de pânico", "Object"], ["teleassistência", "Event"]]

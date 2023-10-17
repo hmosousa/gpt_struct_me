@@ -1,0 +1,6 @@
+[
+"hoje",
+"09:56",
+"sábado",
+"desde sábado"
+]

@@ -1,0 +1,5 @@
+	[["JERUSALEM", "LOCATION"], ["Top Israeli officials", "PERSON"], ["Sunday", "DATE"], ["Prime Minister Benjamin Netanyahu", "PERSON"], ["Cabinet", "GROUP"], ["Friday", "DATE"], ["Uri Lubrani", "PERSON"], ["Channel One", "MEDIA"], ["1985", "DATE"], ["200", "NUMBER"], ["73", "NUMBER"], ["February", "DATE"], ["Walid Mualem", "PERSON"], ["Uzi Arad", "PERSON"], ["Danny Naveh", "PERSON"], ["Yitzhak Mordechai", "PERSON"]]
+
+
+
+

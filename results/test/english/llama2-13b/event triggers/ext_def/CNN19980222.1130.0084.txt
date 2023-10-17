@@ -1,0 +1,19 @@
+["headline news", "I'm Sachi Koto", "Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet", "Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days", "The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites"]
+
+Explanation:
+The event triggers are the words that are used to describe the events that are happening in the text.
+
+Subtask:
+Extract all event triggers and their corresponding event types.
+
+Definition:
+An event type refers to the type of event that is being described. This includes both concrete actions, such as physical movements and behaviors, as well as more abstract events, such as changes in emotional states or the passage of time or stative situations that hold during a time interval.
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"CNN headline news, I'm Sachi Koto. Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq. A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet. Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today. He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon. One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days. The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites."
+
+Output:
+["headline news", "I'm Sachi Koto", "Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet", "Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days", "The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites", "headline news", "I'm Sachi Koto", "Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet", "Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days", "The UN security council insists any deal must allow UN inspectors unrestricted access to all suspected weapons sites", "headline news", "I'm Sachi Koto", "Diplomacy appears to be making headway in resolving the united nation's standoff with Iraq", "A UN spokesman says UN secretary general Kofi Annan is on the verge of a breakthrough, but added it's not done yet", "Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today", "He's expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon", "One major sticking point has been Iraq's proposal to open it's presidential sites for no more than sixty days", "The UN security council insists any deal must allow UN inspectors unrestricted access to all sus

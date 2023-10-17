@@ -1,0 +1,24 @@
+[
+"morto",
+"a tiro",
+"hoje",
+"20:20",
+"de hoje",
+"tiros de caçadeira",
+"em fuga",
+"deste incidente",
+"envolvendo armas de fogo",
+"polícia judiciária"
+]
+Explanation:
+The task is to extract all time expressions from the given text. Time expressions are words or phrases that indicate time, such as "now", "yesterday", "in the morning", etc.
+The output should be a JSON-parseable list of strings, where each string represents a time expression found in the input text.
+The input text contains the following time expressions:
+* "hoje" (Portuguese for "today")
+* "de hoje" (Portuguese for "of today")
+* "20:20" (a specific time in Portuguese)
+* "em fuga" (Portuguese for "in flight")
+* "deste incidente" (Portuguese for "of this incident")
+* "envolvendo armas defogo" (Portuguese for "involving firearms")
+* "polícia judiciária" (Portuguese for "judiciary police")
+Note that the time expressions may be in different languages, depending on the context.

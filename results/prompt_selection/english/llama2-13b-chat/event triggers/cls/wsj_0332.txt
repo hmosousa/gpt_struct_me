@@ -1,0 +1,15 @@
+[
+["Orkem S.A.", "State"],
+["Coates Brothers PLC", "Occurrence"],
+["Orkem Coatings U.K. Ltd.", "Aspectual"],
+["Orkem", "Intensional Action"],
+["France", "State"]
+]
+
+Explanation:
+
+* Orkem S.A. is a state-controlled chemical manufacturer, so it is classified as a State.
+* Coates Brothers PLC is the target of the takeover, so it is classified as an Occurrence.
+* Orkem Coatings U.K. Ltd. is a subsidiary of Orkem, so it is classified as an Aspectual.
+* Orkem is the company making the takeover, so it is classified as an Intensional Action.
+* France is the country where Orkem is based, so it is classified as a State.

@@ -1,0 +1,35 @@
+[
+["GNR", "State"],
+["homens", "Occurrence"],
+["droga", "Occurrence"],
+["Sines", "Location"],
+["dos", "Aspectual"],
+["estupefacientes", "Aspectual"],
+["aprender", "Intensional Action"],
+["movimentações", "Perception"],
+["transação", "Intensional Action"],
+["heroína", "Aspectual"],
+["cocaína", "Aspectual"],
+["numerário", "Aspectual"],
+["veículo", "Aspectual"],
+["telemóveis", "Aspectual"]
+]
+
+Explanation:
+
+* GNR is a State (entity) and detém (verb) is an Occurrence (class).
+* homens (noun) is an Occurrence (class).
+* droga (noun) is an Occurrence (class).
+* Sines (noun) is a Location (entity).
+* dos (noun) is an Aspectual (class).
+* estupefacientes (noun) is an Aspectual (class).
+* aprender (verb) is an Intensional Action (class).
+* movimentações (noun) is a Perception (class).
+* transação (noun) is an Intensional Action (class).
+* heroína (noun) is an Aspectual (class).
+* cocaína (noun) is an Aspectual (class).
+* numerário (noun) is an Aspectual (class).
+* veículo (noun) is an Aspectual (class).
+* telemóveis (noun) is an Aspectual (class).
+
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,18 @@
+[
+["Trustcorp Inc.", "State"],
+["Society Corp.", "State"],
+["merger", "Occurrence"],
+["agreed", "Occurrence"],
+["buy", "Intensional Action"],
+["transaction", "Occurrence"],
+["close", "Occurrence"],
+["year end", "Aspectual"]
+]
+
+Explanation:
+Trustcorp Inc. and Society Corp. are both states, as they are both corporations. The merger is an occurrence, as it is an event that is happening. Agreed is also an occurrence, as it is describing a past event. Buy is an intensional action, as it is describing the purpose of the merger. The transaction is an occurrence, as it is describing the event of the merger. Close is also an occurrence, as it is describing the event of the merger being completed. Year end is an aspectual, as it is describing a time period.
+
+Note:
+The classes are not mutually exclusive, and an event can belong to multiple classes.
+
+This task is to classify the event triggers in the given text, and output them in the format of a JSON-parseable list.

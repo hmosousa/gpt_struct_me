@@ -1,0 +1,13 @@
+["aterrada", "motor", "parado", "17:50", "18:32", "Lisboa", "Farnborough", "Jota Aviation", "ANA-Aeroportos de Portugal"]
+
+Explanation:
+
+* "aterrada" is an event trigger because it refers to the landing of the plane.
+* "motor" is an event trigger because it refers to the failure of the motor.
+* "parado" is an event trigger because it refers to the stopping of the motor.
+* "17:50" is an event trigger because it refers to the time when the alert was given.
+* "18:32" is an event trigger because it refers to the time when the plane landed.
+* "Lisboa" is an event trigger because it refers to the location where the plane landed.
+* "Farnborough" is an event trigger because it refers to the location where the plane took off.
+* "Jota Aviation" is an event trigger because it refers to the airline that operated the flight.
+* "ANA-Aeroportos de Portugal" is an event trigger because it refers to the airport where the plane landed.

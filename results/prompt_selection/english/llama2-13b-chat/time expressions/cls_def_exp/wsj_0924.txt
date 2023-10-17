@@ -1,0 +1,4 @@
+[["Dominion Textile Inc.", "ORGANIZATION"], ["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["12 Canadian cents", "AMOUNT"], ["C$348.2 million", "AMOUNT"], ["C$307.2 million", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents", "AMOUNT"]]
+
+Note:
+The input text may contain multiple time expressions, and the output should list each time expression with its corresponding class (DATE, DURATION, AMOUNT, etc.).

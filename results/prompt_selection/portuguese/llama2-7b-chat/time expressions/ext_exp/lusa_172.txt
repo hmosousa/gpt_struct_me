@@ -1,0 +1,4 @@
+["hoje à tarde", "60-70 anos", "Lagoa", "Algarve", "Estaquinha", "Faro", "Portimão", "gabinete de medicina legal", "Polícia Marítima"]
+
+Note:
+The output list may not be exhaustive, as some time expressions may overlap or be similar.

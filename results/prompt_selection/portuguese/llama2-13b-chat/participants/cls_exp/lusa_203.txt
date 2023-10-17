@@ -1,0 +1,16 @@
+[["Yang", "Per"], ["sete pessoas", "Per"], ["outras sete", "Per"], ["feridas", "Per"], ["uma faca", "Obj"], ["na cidade de Kaiyuan", "Loc"], ["na província de Liaoning", "Loc"], ["perpetrado", "Per"], ["à porta de uma sauna e de um balneário", "Loc"], ["o suspeito", "Per"], ["detido", "Org"], ["o motivo do ataque", "Per"], ["desconhecido", "Other"], ["A lei chinesa", "Org"], ["restringe", "Per"], ["a venda e posse de armas de fogo", "Other"], ["os ataques em massa", "Per"], ["geralmente", "Per"], ["realizados com facas ou explosivos caseiros", "Other"], ["Autores de ataques semelhantes", "Other"], ["realizados no passado", "Other"], ["descritos", "Per"], ["como doentes mentais", "Other"], ["ou", "Other"], ["terem rancor contra a sociedade", "Other"], ["Em ataques anteriores", "Other"], ["um segurança de uma escola", "Per"], ["empunhando uma faca", "Obj"], ["feriu", "Per"], ["pelo menos 39 pessoas", "Per"], ["num jardim de infância", "Loc"], ["na região sul de Guangxi", "Loc"], ["em junho deste ano", "Other"], ["tendo sido condenado à morte", "Other"], ["Em 2018", "Other"], ["um homem", "Per"], ["matou", "Per"], ["uma pessoa", "Per"], ["e", "Other"], ["feriu", "Per"], ["12", "Per"], ["num ataque com uma faca", "Other"], ["num centro comercial", "Loc"], ["em Pequim", "Loc"]]
+
+Note:
+
+* "Per" stands for "person"
+* "Loc" stands for "location"
+* "Obj" stands for "object"
+* "Other" stands for "other"
+
+Hint:
+
+* The entity "Yang" is a person
+* The entity "uma faca" is an object
+* The entity "na cidade de Kaiyuan" is a location
+* The entity "num jardim de infância" is a location
+* The entity "num centro comercial" is a location

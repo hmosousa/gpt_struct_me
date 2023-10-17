@@ -1,1 +1,0 @@
-[["morto a tiro", "Occurrence"], ["atirador em fuga", "State"], ["tiroteio", "Occurrence"], ["Polícia Judiciária", "Reporting"], ["homicídio", "Occurrence"], ["armas de fogo", "Aspectual"]]

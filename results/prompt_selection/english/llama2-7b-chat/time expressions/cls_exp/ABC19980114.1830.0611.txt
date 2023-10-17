@@ -1,0 +1,5 @@
+
+	[["TWA Flight", "DATE"], ["Federal Aviation Administration", "ORGANIZATION"], ["Steven Snyder", "PERSON"], ["TWA eight hundred", "OBJECT"], ["Boston center", "LOCATION"], ["Eastwind", "ORGANIZATION"], ["God", "BEING"], ["Lisa Stark", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,8 @@
+[["Wednesday", "DATE"], ["last Wednesday", "DATE"], ["#301 million", "AMOUNT"], ["53.2%", "PERCENTAGE"], ["internal resources", "SET"], ["U.K.", "GEO"], ["French", "LANGUAGE"], ["British", "LANGUAGE"]]
+
+Note:
+The first item in the output list is the entity recognized in the input text, and the second item is the class or category that the entity belongs to. The classes or categories are not mutually exclusive, and an entity may belong to more than one class.
+
+The input text may contain more than one entity of the same class. For example, in the first input text, there are two DATE entities: "Friday" and "Thursday".
+
+The output list is in JSON format, which is a lightweight, human-readable, and easy-to-parse format for exchanging data between web servers and web applications.

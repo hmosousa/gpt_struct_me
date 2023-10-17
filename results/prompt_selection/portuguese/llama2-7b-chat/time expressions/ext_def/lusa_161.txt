@@ -1,0 +1,13 @@
+["10:30", "um disparo", "um homem", "62 anos", "20 anos", "10 anos", "hoje", "Grijó", "Vila Nova de Gaia", "distrito do Porto", "Polícia Judiciária"]
+Explanation:
+* "10:30" is a time expression indicating the time of day when the crime occurred.
+* "um disparo" is a time expression indicating the method of the crime.
+* "um homem" is a time expression indicating the age of the perpetrator.
+* "62 anos" is a time expression indicating the age of the perpetrator.
+* "20 anos" is a time expression indicating the age of the victim.
+* "10 anos" is a time expression indicating the duration of the relationship between the perpetrator and the victim.
+* "hoje" is a time expression indicating the day when the crime occurred.
+* "Grijó" is a location expression indicating the location where the crime occurred.
+* "Vila Nova de Gaia" is a location expression indicating the location where the crimeoccurred.
+* "distrito do Porto" is a location expression indicating the location where the crime occurred.
+* "Polícia Judiciária" is a time expression indicating the agency responsible for investigating the crime.

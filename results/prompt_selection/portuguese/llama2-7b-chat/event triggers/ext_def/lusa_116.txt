@@ -1,0 +1,7 @@
+[
+"Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso",
+"Um jovem de 14 anos ficou hoje em estado grave após ter sido atropelado por um autocarro na Vila das Aves, concelho de Santo Tirso",
+"O acidente ocorreu pela 18:16, na Rua Luís Gonzaga Mendes de Carvalho",
+"O jovem, após ter sido assistido no local, foi transportado pelos Bombeiros da Vila das Aves para o Hospital São João, no Porto",
+"O prestar assistência, para além dos Bombeiros da Vila das Aves, esteve a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão, a Ambulância de Suporte Imediato de Vida de Santo Tirso e a GNR local"
+]

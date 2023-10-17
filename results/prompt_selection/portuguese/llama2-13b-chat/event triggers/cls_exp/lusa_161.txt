@@ -1,0 +1,12 @@
+[["homem", "I_Action"], ["matou", "Occurrence"], ["ex-companheira", "Occurrence"], ["tiro", "Occurrence"], ["em", "Aspectual"], ["Vila Nova de Gaia", "Location"], ["e", "Aspectual"], ["detido", "I_Action"], ["na", "Aspectual"], ["Rua da Figueirinha", "Location"], ["em", "Aspectual"], ["Grijó", "Location"], ["Vila Nova de Gaia", "Location"], ["distrito", "Location"], ["do", "Aspectual"], ["Porto", "Location"], ["e", "Aspectual"], ["a", "Aspectual"], ["fonte", "Reporting"], ["da", "Aspectual"], ["GNR", "Organization"], ["disse", "Reporting"], ["fonte", "Reporting"], ["do", "Aspectual"], ["Comando Territorial", "Organization"], ["da", "Aspectual"], ["GNR", "Organization"], ["referiu", "Reporting"], ["à", "Aspectual"], ["agência", "Organization"], ["Lusa", "Organization"], ["que", "Occurrence"], ["o", "Aspectual"], ["crime", "Occurrence"], ["ocorreu", "Occurrence"], ["cerca", "Aspectual"], ["das", "Aspectual"], ["10:30", "Time"], ["na", "Aspectual"], ["Rua da Figueirinha", "Location"], ["em", "Aspectual"], ["Grijó", "Location"], ["Vila Nova de Gaia", "Location"], ["distrito", "Location"], ["do", "Aspectual"], ["Porto", "Location"], ["e", "Aspectual"], ["a", "Aspectual"], ["fonte", "Reporting"], ["admitiu", "Reporting"], ["que", "Occurrence"], ["o", "Aspectual"], ["homem", "I_Action"], ["tenha", "Occurrence"], ["cometido", "Occurrence"], ["o", "Aspectual"], ["crime", "Occurrence"], ["em", "Aspectual"], ["retaliação", "Occurrence"], ["por", "Aspectual"], ["a", "Aspectual"], ["mulher", "Occurrence"], ["terminar", "Occurrence"], ["a", "Aspectual"], ["relação", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity, and the second string is the class. The classes are:
+
+* I_Action: an action performed by an entity
+* Occurrence: an event or situation that happens or exists
+* Reporting: a statement or piece of information provided by someone or something
+* Aspectual: a description of a situation or event in terms of its aspect or perspective
+* State: a state or condition of being
+* Intensional Action: an action that is performed with a specific intention or goal
+* Intensional State: a state or condition that exists with a specific intention or goal.

@@ -1,0 +1,15 @@
+[["GNR", "I_Action"], ["detém", "I_Action"], ["homens", "I_Action"], ["tráfico", "I_Action"], ["droga", "I_Action"], ["Sines", "I_Action"], ["deteve", "I_Action"], ["homens", "I_Action"], ["idades", "I_Action"], ["entre", "I_Action"], ["anos", "I_Action"], ["apreendido", "I_Action"], ["1.673", "I_Action"], ["doses", "I_Action"], ["estupefacientes", "I_Action"], ["divulgou", "I_Action"], ["aquela", "I_Action"], ["força", "I_Action"], ["segurança", "I_Action"], ["indicou", "I_Action"], ["detenção", "I_Action"], ["suspeitos", "I_Action"], ["efetuada", "I_Action"], ["sábado", "I_Action"], ["decorrente", "I_Action"], ["ação", "I_Action"], ["patrulhamento", "I_Action"], ["local", "I_Action"], ["referenciado", "I_Action"], ["tráfico", "I_Action"], ["estupefacientes", "I_Action"], ["militares", "I_Action"], ["preparavam", "I_Action"], ["efetuar", "I_Action"], ["transação", "I_Action"], ["apreendidas", "I_Action"], ["1.570", "I_Action"], ["doses", "I_Action"], ["heroína", "I_Action"], ["103", "I_Action"], ["doses", "I_Action"], ["cocaína", "I_Action"], ["844", "I_Action"], ["euros", "I_Action"], ["numerário", "I_Action"], ["veículo", "I_Action"], ["telemóveis", "I_Action"], ["detidos", "I_Action"], ["presentes", "I_Action"], ["Tribunal", "I_Action"], ["Judicial", "I_Action"], ["Santiago", "I_Action"], ["Cacém", "I_Action"], ["primeiro", "I_Action"], ["interrogatório", "I_Action"], ["judicial", "I_Action"], ["aplicação", "I_Action"], ["eventuais", "I_Action"], ["medidas", "I_Action"], ["coação", "I_Action"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém dois homens por tráfico de droga em Sines
+A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
+“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR.
+Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis.
+Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."
+
+Output:
+[["GNR", "I_Action"], ["detém", "I_Action"], ["homens

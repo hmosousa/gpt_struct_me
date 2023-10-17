@@ -1,0 +1,4 @@
+[["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["4.7 million Canadian dollars", "AMOUNT"], ["$4 million", "AMOUNT"], ["12 Canadian cents", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents", "AMOUNT"], ["348.2 million", "AMOUNT"], ["307.2", "AMOUNT"]]
+
+Note:
+The date class should be used for any date that is not a specific time. The time class should be used for any specific time. The amount class should be used for any monetary value. The duration class should be used for any length of time. The set class should be used for any group of items that are related.

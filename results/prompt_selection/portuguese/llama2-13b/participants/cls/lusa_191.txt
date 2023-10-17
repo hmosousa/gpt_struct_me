@@ -1,0 +1,30 @@
+[
+  [
+    "Person",
+    "Homem"
+  ],
+  [
+    "Organization",
+    "PSP"
+  ],
+  [
+    "Object",
+    "Arroios"
+  ],
+  [
+    "Location",
+    "Lisboa"
+  ],
+  [
+    "Nature",
+    "Esfaqueamento"
+  ],
+  [
+    "Facility",
+    "Café"
+  ],
+  [
+    "Other",
+    "Avenida Almirante Reis"
+  ]
+]

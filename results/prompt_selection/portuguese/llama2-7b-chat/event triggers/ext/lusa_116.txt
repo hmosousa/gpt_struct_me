@@ -1,0 +1,9 @@
+[
+"Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso",
+"Acidente ocorreu pela 18:16",
+"Rua Luís Gonzaga Mendes de Carvalho",
+"Prestar assistência, para além dos Bombeiros da Vila das Aves",
+"Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão",
+"Ambulância de Suporte Imediato de Vida de Santo Tirso",
+"GNR local"
+]

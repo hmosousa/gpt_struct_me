@@ -1,0 +1,2 @@
+
+	[["$5.3 million", "MONEY"], ["$15 million", "MONEY"], ["$30 million", "MONEY"], ["97 cents", "MONEY"], ["$18 million", "MONEY"], ["$778.6 million", "MONEY"], ["Hawesville", "LOCATION"], ["1989", "DATE"]]

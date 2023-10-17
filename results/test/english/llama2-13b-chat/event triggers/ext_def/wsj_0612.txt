@@ -1,0 +1,4 @@
+["Sun Microsystems Inc. issued $125 million of 6 3/8% convertible subordinated debentures due Oct. 15, 1999, priced at 84.90 to yield 7.51%. The debentures are convertible into common stock at $25 a share, representing a 24% conversion premium over Thursday's closing price. Hertz Corp. issued $100 million of senior notes due Nov. 1, 2009, priced at par to yield 9%. The issue, which is puttable back to the company in 1999, was priced at a spread of 110 basis points above the Treasury's 10-year note. Canadian Imperial Bank of Commerce (Canada) issued 10 billion yen of 5.7% bonds due Nov. 17, 1992, priced at 101 1/4 to yield 5.75% less full fees, via LTCB International Ltd."]
+
+Note:
+The output is a list of strings, where each string represents an event trigger. The events are extracted based on the given definition and the input text. The output is in JSON format, which is a popular format for data interchange and can be easily parsed by computers.

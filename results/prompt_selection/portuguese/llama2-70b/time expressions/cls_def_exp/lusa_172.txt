@@ -1,0 +1,1 @@
+[["19 nov 2020", "Date"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]

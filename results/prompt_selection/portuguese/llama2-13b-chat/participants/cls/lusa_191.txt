@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["Lisboa", "Location"],
+["mercado de Arroios", "Location"],
+["rua Ângela Pinto", "Location"],
+["café", "Location"],
+["PSP", "Organization"],
+["Cometlis", "Organization"],
+["Polícia Judiciária", "Organization"],
+["suspeito", "Person"],
+["Avenida Almirante Reis", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Lisboa" is a location.
+* "mercado de Arroios" is a location.
+* "rua Ângela Pinto" is a location.
+* "café" is a location.
+* "PSP" is an organization.
+* "Cometlis" is an organization.
+* "Polícia Judiciária" is an organization.
+* "suspeito" is a person.
+* "Avenida Almirante Reis" is a location.

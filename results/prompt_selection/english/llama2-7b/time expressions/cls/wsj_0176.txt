@@ -1,0 +1,20 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+
+Date:
+"early this week"
+
+Time:
+"early this week"
+
+Duration:
+"early this week"
+
+Set:
+"early this week"

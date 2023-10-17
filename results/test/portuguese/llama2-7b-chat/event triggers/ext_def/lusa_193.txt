@@ -1,0 +1,16 @@
+[
+"Homem socorrido",
+"Rio Tejo",
+"Cais das Colunas",
+"Lisboa",
+"Perigo",
+"Hospital de São José",
+"Polícia Marítima",
+"Reanimação cardiorrespiratória",
+"Salvamento",
+"Transeunte",
+"Ambulância",
+"Instituto Nacional de Emergência Médica",
+"INEM",
+"Hospital de São José"
+]

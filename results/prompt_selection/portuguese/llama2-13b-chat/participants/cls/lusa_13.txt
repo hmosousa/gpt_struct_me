@@ -1,0 +1,29 @@
+[
+["Maximiliano Trimarchi", "Person"],
+["Diego Maradona", "Person"],
+["Leopoldo Luque", "Person"],
+["Agustina Cosachov", "Person"],
+["procuradoria-geral de San Isidro", "Organization"],
+["polícia", "Organization"],
+["San André", "Location"],
+["Buenos Aires", "Location"],
+["Argentina", "Location"],
+["telemóvel", "Object"],
+["hematoma subdural", "Object"],
+["inquérito", "Object"]
+]
+
+Explanation:
+
+* "Autoridades judiciais" is a plural noun and should be classified as an "Organization".
+* "Maximiliano Trimarchi" is a person and should be classified as a "Person".
+* "Diego Maradona" is a person and should be classified as a "Person".
+* "Leopoldo Luque" is a person and should be classified as a "Person".
+* "Agustina Cosachov" is a person and should be classified as a "Person".
+* "procuradoria-geral de San Isidro" is an organization and should be classified as an "Organization".
+* "polícia" is an organization and should be classified as an "Organization".
+* "San André" and "Buenos Aires" are locations and should be classified as "Location".
+* "Argentina" is a location and should be classified as a "Location".
+* "telemóvel" is an object and should be classified as an "Object".
+* "hematoma subdural" is an object and should be classified as an "Object".
+* "inquérito" is an object and should be classified as an "Object".

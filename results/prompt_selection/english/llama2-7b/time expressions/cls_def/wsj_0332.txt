@@ -1,0 +1,33 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element of the list is the entity and the second element is the class.
+
+Example:
+["Date", "Date"]
+
+Explanation:
+The first element of the list is the entity and the second element is the class.
+
+Example:
+["Time", "Time"]
+
+Explanation:
+The first element of the list is the entity and the second element is the class.
+
+Example:
+["Duration", "Duration"]
+
+Explanation:
+The first element of the list is the entity and the second element is the class.
+
+Example:
+["Set", "Set"]
+
+Explanation:
+The first element of the list is the entity and the second element is the class.

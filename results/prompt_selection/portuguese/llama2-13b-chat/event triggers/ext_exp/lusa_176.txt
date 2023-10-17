@@ -1,0 +1,4 @@
+[ "morreu", "ciclomotor", "colhido", "veículo ligeiro", "Estrada Nacional 10-8", "Mitrena", "Setúbal", "fonte", "PSP", "Proteção Civil", "óbito", "corpo", "servico de Medicina legal", "Hospital de São Bernardo", "Setúbal", "alerta", "bombeiros", "veículos", "corporações", "Palmela", "Sapadores", "viatura médica de emergência e reanimação", "VMER"]
+
+Note:
+The task is to extract all the event triggers from the text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "morreu" (died), "colhido" (collided), " Alert" (alert), etc. The output should be a JSON-parseable list of strings, where each string represents an event trigger.

@@ -1,0 +1,2 @@
+
+[["bid", "OCCURRENCE"], ["make", "OCCURRENCE"], ["already", "OCCURRENCE"], ["accepted", "OCCURRENCE"], ["give", "OCCURRENCE"], ["controlling", "OCCURRENCE"], ["considering", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["through", "OCCURRENCE"], ["fund", "OCCURRENCE"], ["takeover", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["addition", "OCCURRENCE"], ["further", "OCCURRENCE"], ["seek", "OCCURRENCE"], ["public", "OCCURRENCE"]]

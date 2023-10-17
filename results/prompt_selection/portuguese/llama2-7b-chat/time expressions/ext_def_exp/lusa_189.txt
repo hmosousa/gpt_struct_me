@@ -1,0 +1,26 @@
+["hoje", "20:20", "hoje", "incidente", "circunstâncias", "tiroteio", "suspeita", "homicídio", "armas de fogo", "Polícia Judiciária"]
+
+
+Note:
+
+* Time expressions in the input text:
+	* "em menos de uma semana"
+	* "sábado"
+	* "setembro"
+	* "final do ano"
+	* "menos de uma semana"
+	* "30 nov 2020"
+	* "época de veda"
+	* "épocas de veda"
+
+* Time expressions in the output text:
+	* "hoje"
+	* "20:20"
+	* "hoje"
+	* "incidente"
+	* "circunstâncias"
+	* "tiroteio"
+	* "suspeita"
+	* "homicídio"
+	* "armas de fogo"
+	* "Polícia Judiciária"

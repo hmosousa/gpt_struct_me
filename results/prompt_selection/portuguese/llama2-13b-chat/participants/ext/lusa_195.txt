@@ -1,0 +1,21 @@
+["PJ", "homem", "jovem", "Setúbal", "coletividade", "Alto da Guerra", "arma de fogo", "ferimentos", "ombro", "braço", "crimes", "homicídio qualificado", "detenção de arma proibida", "omissão de auxílio"]
+
+Explanation:
+The task is to extract all participants in the text, which are the nouns and pronouns that refer to entities involved in the event. The output should be a JSON-parseable list of strings, where each string represents a participant.
+
+In this case, the participants are:
+
+* PJ (Polícia Judiciária)
+* homem (the 63-year-old man suspected of committing the crime)
+* jovem (the young man who was shot)
+* Setúbal (the city where the event took place)
+* coletividade (the community or group of people where the event took place)
+* Alto da Guerra (the location within Setúbal where the event took place)
+* arma de fogo (firearm)
+* ferimentos (injuries)
+* ombro (shoulder)
+* braço (arm)
+* crimes (plural, referring to the multiple crimes suspected to have been committed)
+* homicídio qualificado (qualified homicide)
+* detenção de arma proibida (possession of a prohibited weapon)
+* omissão de auxílio (failure to provide assistance)

@@ -1,0 +1,23 @@
+["detém", "homem", "suspeito", "balear", "jovem", "coletividade", "Setúbal", "Polícia", "Judiciária", "Setúbal", "deteve", "homem", "63", "anos", "suspeito", "terá", "disparado", "vítima", "sequência", "conflito", "convivas", "almoçar", "coletividade", "Alto", "Guerra", "polícia", "adianta", "sexagenário", "alvejar", "jovem", "ferimentos", "consideráveis", "ombro", "braço", "detido", "fugiu", "local", "indiciado", "crimes", "homicídio", "qualificado", "forma", "tentada", "detenção", "arma", "proibida", "omissão", "auxílio", "primeiro", "interrogatório", "judicial", "aplicada", "medida", "coação", "prisão", "preventiva"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem suspeito de balear jovem em coletividade de Setúbal
+A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira, no restaurante de uma coletividade de Setúbal, foi hoje anunciado.
+Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade, no Alto da Guerra.
+A polícia adianta que o sexagenário acabou por alvejar um jovem do grupo com um disparo de arma de fogo, provocando-lhe ferimentos consideráveis num ombro e braço.
+O detido, que fugiu do local, está indiciado pelos crimes de homicídio qualificado na forma tentada, detenção de arma proibida e omissão de auxílio.
+Já foi presente a primeiro interrogatório judicial, tendo-lhe sido aplicada a medida de coação de prisão preventiva."
+
+Output:
+["detém", "homem", "suspeito", "balear", "jovem", "coletividade", "Setúbal", "Polícia", "Judiciária", "Setúbal", "deteve", "homem", "63", "anos", "suspeito", "terá", "disparado", "vítima", "sequência", "conflito", "convivas", "almoçar", "coletividade", "Alto", "Guerra", "polícia", "adianta", "sexagenário", "alvejar", "jovem", "ferimentos", "consideráveis", "ombro", "braço", "detido", "fugiu", "local", "indiciado", "crimes", "homicídio", "qualificado", "forma", "tentada", "detenção", "arma", "proibida", "omissão", "auxílio", "primeiro", "interrogatório", "judicial", "aplicada", "medida", "coação", "prisão", "preventiva"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"PJ detém homem suspeito de balear jovem em coletividade de Setúbal
+A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira, no restaurante de uma coletividade de Setúbal, foi hoje anunciado.
+Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo

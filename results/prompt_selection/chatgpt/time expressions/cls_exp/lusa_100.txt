@@ -1,1 +1,0 @@
-[["39 anos", "Date"], ["Penafiel", "Set"], ["Porto", "Set"], ["42 anos", "Date"], ["hoje", "Date"], ["GNR", "Set"], ["residência", "Set"], ["local de trabalho", "Set"], ["mulher", "Set"]]

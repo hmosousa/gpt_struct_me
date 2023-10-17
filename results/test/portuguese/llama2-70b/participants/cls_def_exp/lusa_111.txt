@@ -1,0 +1,1 @@
+[["Estado Isl\u00e1mico", "Org"], ["Viena", "Loc"], ["quatro v\u00edctimas mortais", "Per"], ["22 feridos", "Other"], ["Telegram", "Fac"], ["disparos", "Obj"], ["uma sinagoga", "Nature"], ["da \u00d3pera", "Fac"], ["Amaq", "Org"], ["armas de fogo", "Obj"], ["onze", "Loc"], ["de 20 anos", "Age"], ["Maced\u00f4nia do Norte", "Loc"], ["S\u00edria", "Loc"]]

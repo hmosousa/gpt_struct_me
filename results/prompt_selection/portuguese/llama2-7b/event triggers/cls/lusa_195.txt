@@ -1,0 +1,10 @@
+[
+  ["PJ", "State"],
+  ["PJ", "Occurrence"],
+  ["PJ", "Reporting"],
+  ["PJ", "Perception"],
+  ["PJ", "Aspectual"],
+  ["PJ", "Intensional Action"],
+  ["PJ", "Intensional State"]
+]
+

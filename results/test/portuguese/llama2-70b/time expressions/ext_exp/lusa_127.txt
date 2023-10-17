@@ -1,0 +1,1 @@
+["hoje", "esta noite", "este fim-de-semana", "nesta quarta-feira", "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo", "26 nov 2020", "27 nov 2020", "28 nov 2020", "29 nov 2020", "30 nov 2020"]

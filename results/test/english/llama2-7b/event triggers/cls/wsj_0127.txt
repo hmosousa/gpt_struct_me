@@ -1,0 +1,10 @@
+[
+  ["Reed International PLC", "State"],
+  ["Reed International PLC", "Occurrence"],
+  ["Reed International PLC", "Reporting"],
+  ["Reed International PLC", "Perception"],
+  ["Reed International PLC", "Aspectual"],
+  ["Reed International PLC", "Intensional Action"],
+  ["Reed International PLC", "Intensional State"]
+]
+

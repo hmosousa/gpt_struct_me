@@ -1,0 +1,104 @@
+[
+  ["Date", "Date"],
+  ["Time", "Time"],
+  ["Duration", "Duration"],
+  ["Set", "Set"]
+]
+
+Explanation:
+The first element is the date, the second is the time, the third is the duration, and the fourth is the set.
+
+Constraints:
+1 <= time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <= 100
+time expressions.length <=

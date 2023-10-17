@@ -1,0 +1,6 @@
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico", "Occurrence"], ["drogas", "Occurrence"], ["apresende", "I_Action"], ["doses", "Occurrence"], ["haxixe", "Occurrence"], ["Mértola", "State"], ["concelho", "State"], ["Beja", "State"], ["divulgado", "Occurrence"], ["militares", "I_Action"], ["Posto", "State"], ["territorial", "State"], ["segundo", "Reporting"], ["força", "I_Action"], ["patrulhamento", "Occurrence"], ["vila", "State"], ["demonstrou", "Reporting"], ["comportamento", "Occurrence"], ["nervos", "Occurrence"], ["efetuaram", "I_Action"], ["apurou", "I_Action"], ["droga", "Occurrence"], ["posse", "Occurrence"], ["veículo", "Occurrence"], ["telemóvel", "Occurrence"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,1 +1,0 @@
-["Jovem de 14 anos", "autocarro", "Vila das Aves", "concelho de Santo Tirso", "Lusa", "Proteção Civil", "Hospital São João", "Porto", "Rua Luís Gonzaga Mendes de Carvalho", "Bombeiros da Vila das Aves", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR local"]

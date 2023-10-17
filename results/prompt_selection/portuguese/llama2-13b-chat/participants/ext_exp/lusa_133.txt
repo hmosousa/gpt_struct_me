@@ -1,0 +1,12 @@
+
+List of strings, where each string is a participant in the text.
+
+Note:
+
+* Participants are identified based on their mention in the text, and may include people, organizations, locations, and objects.
+* Participants may be mentioned by name, or by a descriptive phrase or title.
+* Participants may be mentioned in different roles or capacities, such as "o mestre da embarcação" and "os militares".
+
+Example output:
+
+["GNR", "Aveiro", "atum-rabilho", " Guarda", "pesca", "embarcação", "condutor", "mestre", "coima", "infração", "solidariedade social", "instituição"]

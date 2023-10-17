@@ -1,0 +1,1 @@
+[["Um homem", "Per"], ["trocou tiros", "Verb"], ["morto", "Adj"], ["caçadeira", "Obj"], ["fuga", "Loc"], ["Direção Nacional da Polícia de Segurança Pública (PSP)", "Org"], ["incidente", "Nat"], ["informações", "Other"], ["tiroteio", "Verb"], ["homicídio", "Crime"], ["armas de fogo", "Obj"], ["Polícia Judiciária", "Org"]]

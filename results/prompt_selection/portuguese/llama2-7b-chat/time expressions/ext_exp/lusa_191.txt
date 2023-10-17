@@ -1,0 +1,4 @@
+	["em Lisboa", "Lisboa", "Arroios", "rua Ângela Pinto", "Cometlis", "PSP", "Avenida Almirante Reis", "Polícia Judiciária", "PJ"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a time expression extracted from the given text.

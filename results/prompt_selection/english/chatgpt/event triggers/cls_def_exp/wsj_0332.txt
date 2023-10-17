@@ -1,0 +1,1 @@
+[["making", "I_ACTION"], ["said", "REPORTING"], ["accepted", "OCCURRENCE"], ["own", "STATE"], ["said", "REPORTING"], ["considering", "ASPECTUAL"], ["said", "REPORTING"], ["fund", "I_ACTION"], ["followed", "ASPECTUAL"], ["addition", "OCCURRENCE"], ["seek", "I_ACTION"], ["making", "I_ACTION"]]

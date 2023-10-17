@@ -1,0 +1,5 @@
+[
+"em Paredes", "um homem de 25 anos", "feita pela GNR", "na sua posse", "um mês", "de cerca de um mês", "domiciliárias", "apreensão", "repta de arma de fogo", "bastão extensível", "antecedentes criminais", "condução sem habilitação legal", "ameaças", "constituído arguido", "remetidos para o Tribunal Judicial de Paredes"]
+Note:
+* Time expressions are highlighted in bold.
+* The output is a JSON-parseable list of strings.

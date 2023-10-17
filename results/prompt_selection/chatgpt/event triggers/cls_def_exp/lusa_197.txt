@@ -1,1 +1,0 @@
-[["derrubou", "Occurrence"], ["matou", "Occurrence"], ["morreu", "Occurrence"], ["sofreu", "Occurrence"], ["derrubou", "Occurrence"], ["atingindo", "Occurrence"], ["transportada", "Occurrence"], ["morreu", "Occurrence"], ["atingiu", "Occurrence"], ["sofreu", "Occurrence"], ["ocorreu", "Occurrence"]]

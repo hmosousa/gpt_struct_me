@@ -1,0 +1,10 @@
+[
+  ["Diversified Investment Group Inc.", "State"],
+  ["Diversified Investment Group Inc.", "Occurrence"],
+  ["Diversified Investment Group Inc.", "Reporting"],
+  ["Diversified Investment Group Inc.", "Perception"],
+  ["Diversified Investment Group Inc.", "Aspectual"],
+  ["Diversified Investment Group Inc.", "Intensional Action"],
+  ["Diversified Investment Group Inc.", "Intensional State"]
+]
+

@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["em comunicado", "Time"], ["botão de pânico", "Set"], ["medida de proteção", "Set"], ["teleassistência", "Set"], ["antecedentes criminais", "Set"]]

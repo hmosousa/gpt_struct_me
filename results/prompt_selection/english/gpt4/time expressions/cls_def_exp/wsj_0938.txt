@@ -1,0 +1,1 @@
+[["Nov. 22", "DATE"], ["last May", "DATE"], ["two years", "DURATION"], ["Last April", "DATE"], ["$57 million", "DURATION"], ["yesterday", "DATE"], ["$100 million", "DURATION"], ["a million", "DURATION"]]

@@ -1,0 +1,20 @@
+["a", "a", "a", "a", "a", "a", "a", "a", "a", "a"]
+Explanation:
+* "a" represents "a share" in the first sentence.
+* "a" represents "a share" in the second sentence.
+* "a" represents "a share" in the third sentence.
+* "a" represents "a share" in the fourth sentence.
+* "a" represents "a share" in the fifth sentence.
+* "a" represents "a share" in the sixth sentence.
+* "a" represents "a share" in the seventh sentence.
+* "a" represents "a share" in the eighth sentence.
+* "a" represents "a share" in the ninth sentence.
+* "a" represents "a share" in the tenth sentence.
+
+Note:
+The output is a list of strings, where each string represents a time expression. The time expressions are:
+* "a share" (appears 4 times)
+* "a minute" (appears once)
+* "a day" (appears once)
+* "a week" (appears once)
+* "a year" (appears once)

@@ -1,0 +1,5 @@
+["in next week's talks", "Monday", "next week", "in Jerusalem", "vital to its security concerns", "equal effort", "on the other side", "continued taking risks for peace"]
+Note:
+* Time expressions are highlighted in bold.
+* The list includes all time expressions found in the input text.
+* Each time expression is represented as a JSON-parseable string.

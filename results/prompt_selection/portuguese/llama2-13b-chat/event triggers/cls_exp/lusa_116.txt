@@ -1,0 +1,9 @@
+[["jovem", "I_Agent"], ["atropelado", "Occurrence"], ["ficou", "State"], ["hoje", "Aspectual"], ["em", "State"], ["estado", "State"], ["grave", "State"], ["pelo", "I_Action"], ["Bombeiros", "I_Agent"], ["Vila", "Location"], ["das", "Location"], ["Aves", "Location"], ["hospital", "Location"], ["São", "Location"], ["João", "Location"], ["no", "Location"], ["local", "Location"], ["prestar", "I_Action"], ["assistência", "I_Action"], ["além", "Conjunction"], ["Viatura", "I_Agent"], ["Médica", "I_Agent"], ["de", "Location"], ["Emergência", "I_Action"], ["Reanimação", "I_Action"], ["de", "Location"], ["Vida", "Location"], ["Santo", "Location"], ["Tirso", "Location"], ["GNR", "I_Agent"], ["local", "Location"]]
+
+Note:
+The classes are the same as in the previous task.
+
+Hint:
+The input text is a news article about a car accident involving a 14-year-old boy. The classes are the same as in the previous task.
+
+Please let me know if you have any questions or need further clarification.

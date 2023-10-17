@@ -1,0 +1,15 @@
+[
+["Dois homens", "Person"],
+["Casal dos Machados", "Location"],
+["Lisboa", "Location"],
+["Bairro do Casal dos Machados", "Location"],
+["PSP", "Organization"],
+["Avenida Infante D. Henrique", "Location"],
+["Largo Maria Judite de Carvalho", "Location"],
+["Parque das Nações", "Location"],
+["Hospital de Santa Maria", "Facility"],
+["Polícia Judiciária", "Organization"]
+]
+
+Note:
+The output is a list of entities and their corresponding classes. The entities are extracted from the given text and the classes are assigned based on their type (Person, Organization, Location, etc.). The output is in a JSON-parseable format, which means it can be easily parsed and used in other applications.

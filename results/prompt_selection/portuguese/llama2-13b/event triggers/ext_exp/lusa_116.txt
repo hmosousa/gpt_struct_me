@@ -1,0 +1,27 @@
+["atropelado", "jovem", "estado grave", "atropelado", "autocarro", "Vila das Aves", "concelho", "Santo Tirso", "fonte", "Proteção Civil", "jovem", "estado grave", "assistido", "Bombeiros", "Vila das Aves", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "prestar assistência", "Bombeiros", "Vila das Aves", "Ambulância", "Suporte Imediato", "Vida", "Santo Tirso", "fonte", "GNR", "Lusa"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso
+Um jovem de 14 anos ficou hoje em estado grave após ter sido atropelado por um autocarro na Vila das Aves, concelho de Santo Tirso, disse à Lusa fonte da Proteção Civil.
+O jovem, após ter sido assistido no local, foi transportado pelos Bombeiros da Vila das Aves para o Hospital São João, no Porto, acrescentou a fonte.
+O acidente ocorreu pela 18:16, na Rua Luís Gonzaga Mendes de Carvalho.
+No local, a prestar assistência, para além dos Bombeiros da Vila das Aves, esteve a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão, a Ambulância de Suporte Imediato de Vida de Santo Tirso e a GNR local, disse à Lusa fonte da corpor

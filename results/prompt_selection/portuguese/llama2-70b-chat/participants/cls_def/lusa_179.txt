@@ -1,0 +1,28 @@
+[
+["Homem", "Person"],
+["Ministério Público", "Organization"],
+["Penafiel", "Location"],
+["mulher", "Person"],
+["Polícia Judiciária", "Organization"],
+["instituição de acolhimento", "Facility"],
+["arguido", "Person"],
+["suspeito", "Person"],
+["vítima", "Person"],
+["MP", "Organization"],
+["comarca de Porto-Este", "Location"]
+]
+
+Note:
+The input text is in Portuguese, but the task is to classify the participants in English.
+
+This task is a classification task, where the goal is to assign a class to each participant mentioned in the input text. The classes are:
+
+* Person: A person who is actively involved in the event or situation.
+* Organization: A group or entity that is actively involved in the event or situation.
+* Location: A place where the event or situation occurs.
+* Object: An object or item that is relevant to the event or situation.
+* Nature: Anatural phenomenon or force that is relevant to the event or situation.
+* Facility: A building or structure that is relevant to the event or situation.
+* Other: Any other participant that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.

@@ -1,0 +1,15 @@
+[["MP", "Org"], ["acusa", "Per"], ["agente", "Per"], ["da", "Loc"], ["GNR", "Org"], ["de", "Loc"], ["Braga", "Loc"], ["de", "Loc"], ["peculato", "Per"], ["abuso", "Per"], ["de", "Loc"], ["poder", "Per"], ["por", "Per"], ["alegadamente", "Per"], ["ter", "Per"], ["falsificado", "Per"], ["os", "Per"], ["mapas", "Per"], ["mensais", "Per"], ["de", "Loc"], ["suplementos", "Per"], ["remuneratórios", "Per"], ["logrando", "Per"], ["assim", "Per"], ["receber", "Per"], ["indevidamente", "Per"], ["5", "Num"], ["400", "Num"], ["euros", "Num"], ["segundo", "Per"], ["nota", "Per"], ["hoje", "Per"], ["publicada", "Per"], ["na", "Loc"], ["página", "Loc"], ["da", "Loc"], ["Procuradoria-Geral", "Org"], ["Regional", "Loc"], ["do", "Loc"], ["Porto", "Loc"], ["o", "Per"], ["arguido", "Per"], ["era", "Per"], ["chefe", "Per"], ["do", "Loc"], ["Núcleo", "Org"], ["de", "Loc"], ["Investigação", "Org"], ["Criminal", "Org"], ["da", "Loc"], ["GNR", "Org"], ["de", "Loc"], ["Braga", "Loc"], ["está", "Per"], ["acusado", "Per"], ["de", "Loc"], ["ter", "Per"], ["ordenado", "Per"], ["os", "Per"], ["militares", "Per"], ["do", "Loc"], ["efectivo", "Loc"], ["do", "Loc"], ["Núcleo", "Org"], ["de", "Loc"], ["Investigação", "Org"], ["Criminal", "Org"], ["da", "Loc"], ["GNR", "Org"], ["de", "Loc"], ["Braga", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"MP acusa agente da GNR de Braga de peculato e abuso de poder
+O Ministério Público (MP) acusou um militar da GNR de Braga de peculato e abuso de poder por alegadamente ter falsificado os mapas mensais de suplementos remuneratórios, logrando assim receber indevidamente 5.400 euros.
+Segundo nota hoje publicada na página da Procuradoria-Geral Regional do Porto, o arguido era chefe do Núcleo de Investigação Criminal da GNR de Braga.
+“Enquanto responsável pelo preenchimento e envio para processamento dos mapas mensais de suplementos remuneratórios, de novembro de 2011 a outubro de 2016, incluiu o seu nome enquanto beneficiário do suplemento de escala, embora não tivesse direito a receber tal suplemento”, refere a nota.
+O Ministério Público concluiu que, dessa forma, o arguido recebeu indevidamente o montante líquido de 5.400,17 euros.
+O arguido está ainda acusado de ter ordenado aos militares do efectivo do Núcleo de Investigação Criminal, seus subordinados, que o substituíssem na execução do serviço para que ele estava escalado."
+
+Output:
+[["MP", "Org"], ["acusa", "Per"], ["agente", "Per"], ["da", "Loc"], ["GNR", "Org"], ["de", "Loc"], ["Braga", "Loc"], ["de", "Loc"], ["peculato", "Per"], ["abuso", "Per"], ["de", "Loc"], ["poder", "Per"], ["por", "Per"], ["

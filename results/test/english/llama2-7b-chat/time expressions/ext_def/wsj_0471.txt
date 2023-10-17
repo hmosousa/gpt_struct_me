@@ -1,0 +1,7 @@
+["in Delaware Chancery Court", "earlier this year", "last week", "$15 a share", "$10 a share"]
+
+Explanation:
+* "in Delaware Chancery Court" is a time expression representing a specific point in time (the filing of the lawsuit).
+* "earlier this year" is a time expression representing a time period (a portion of the past).
+* "last week" is a time expression representing a specific point in time (the launch of the new offer).
+* "$15 a share" and "$10 a share" are time expressions representing specific financial amounts (the value of the original and new offers, respectively).

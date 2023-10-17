@@ -1,0 +1,7 @@
+[["em Penafiel", "Location"], ["39 anos", "Age"], ["42 anos", "Age"], ["violência física", "Event"], ["injúrias", "Event"], ["ameaças de morte", "Event"], ["separação", "Event"], ["teleassistência", "Event"], ["antecedentes criminais", "Event"], ["proibido de contactar", "Event"]]
+
+Note:
+- The output should be in JSON-parseable list.
+- The input text may contain multiple instances of the same entity and class.
+- The input text may contain entities and classes that are not relevant to the task.
+- The output should only include the relevant entities and classes.

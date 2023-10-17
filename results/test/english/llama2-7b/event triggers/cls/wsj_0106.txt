@@ -1,0 +1,2 @@
+[["ROGERS COMMUNICATIONS Inc.", "State"], ["ROGERS COMMUNICATIONS Inc.", "Occurrence"], ["ROGERS COMMUNICATIONS Inc.", "Reporting"], ["ROGERS COMMUNICATIONS Inc.", "Perception"], ["ROGERS COMMUNICATIONS Inc.", "Aspectual"], ["ROGERS COMMUNICATIONS Inc.", "Intensional Action"], ["ROGERS COMMUNICATIONS Inc.", "Intensional State"]]
+

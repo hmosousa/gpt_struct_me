@@ -1,0 +1,13 @@
+["agredir física e psicologicamente", "ameaçar", "coagir", "destruir", "entregar-lhe dinheiro", "satisfazer o seu vício de consumo de drogas"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "agredir física e psicologicamente" (physical and psychological aggression)
+* "ameaçar" (to threaten)
+* "coagir" (to coerce)
+* "destruir" (to destroy)
+* "entregar-lhe dinheiro" (to give him money)
+* "satisfazer o seu vício de consumo de drogas" (to satisfy his drug addiction)
+
+These event triggers are extracted from the text and presented in a JSON-parseable list of strings.

@@ -1,0 +1,1 @@
+["fourth quarter", "yesterday", "next year"]

@@ -1,0 +1,12 @@
+["balear", "disparar", "almoçar", "ferimentos", "omissão de auxílio"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are:
+
+* "balear" (to shoot)
+* "disparar" (to fire)
+* "almoçar" (to have lunch)
+* "ferimentos" (injuries)
+* "omissão de auxílio" (failure to provide assistance)
+
+These words and phrases indicate the occurrence of specific events in the text, such as the shooting, the failure to provide assistance, and the injuries sustained by the victim.

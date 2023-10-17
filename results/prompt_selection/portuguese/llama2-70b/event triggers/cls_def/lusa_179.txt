@@ -1,0 +1,23 @@
+[["Homem preso preventivamente", "Occurrence"], ["companheira a prostituir-se", "Reporting"], ["juiz de instrução ordenou", "State"], ["prisão preventiva", "Aspectual"], ["homem de 47 anos de idade", "Intensional Action"], ["mulher com quem vivia", "Perception"], ["prostituir-se", "Action"], ["Ministério Público (MP) de Penafiel indiciou", "Reporting"], ["policial.", "Occurrence"], ["Penafiel", "Place"], ["vítima", "Person"], ["26 anos", "Age"], ["comunhão de vida desde 2017", "Time"], ["arguido", "Person"], ["exploração sexual na via pública", "Event"], ["obtidos dessa prática", "Event"], ["atualidade", "Time"], ["suspeito", "Person"], ["sujeição a que estava submetida", "Event"], ["estupefaciente do qual é dependente", "Event"]]
+"""
+import json
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
+from nltk.chunk import ne_chunk
+from nltk.tree import Tree
+from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVC
+from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import TruncatedSVD
+from sklearn.externals import joblib
+from sklearn.cross_validation import StratifiedKFold
+from sklearn.grid_search import GridSearchCV
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_

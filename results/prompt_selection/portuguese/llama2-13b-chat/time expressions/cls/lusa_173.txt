@@ -1,0 +1,63 @@
+[
+["Homem", "Date"],
+["encontrado", "Time"],
+["morto", "Duration"],
+["em", "Set"],
+["cisterna", "Set"],
+["de", "Set"],
+["camião", "Set"],
+["sábado", "Date"],
+["acrescentou", "Time"],
+["graduado", "Set"],
+["conseguiu", "Time"],
+["fonte", "Set"],
+["da", "Set"],
+["GNR", "Set"],
+["compareceu", "Time"],
+["no", "Set"],
+["local", "Set"],
+["esteve", "Time"],
+["Viatura", "Set"],
+["Médica", "Set"],
+["de", "Set"],
+["Aveiro", "Set"],
+["fez", "Time"],
+["transporte", "Duration"],
+["do", "Set"],
+["cadáver", "Set"],
+["para", "Set"],
+["Hospital", "Set"],
+["Infante", "Set"],
+["D.", "Set"],
+["Pedro", "Set"]
+]
+
+Explanation:
+
+* "Homem" is a noun and belongs to the class "Date".
+* "encontrado" is a verb and belongs to the class "Time".
+* "morto" is an adjective and belongs to the class "Duration".
+* "em" is a preposition and belongs to the class "Set".
+* "cisterna" is a noun and belongs to the class "Set".
+* "de" is a preposition and belongs to the class "Set".
+* "camião" is a noun and belongs to the class "Set".
+* "sábado" is a noun and belongs to the class "Date".
+* "acrescentou" is a verb and belongs to the class "Time".
+* "graduado" is an adjective and belongs to the class "Set".
+* "conseguiu" is a verb and belongs to the class "Time".
+* "fonte" is a noun and belongs to the class "Set".
+* "da" is a preposition and belongs to the class "Set".
+* "GNR" is a noun and belongs to the class "Set".
+* "compareceu" is a verb and belongs to the class "Time".
+* "no" is a preposition and belongs to the class "Set".
+* "local" is a noun and belongs to the class "Set".
+* "esteve" is a verb and belongs to the class "Time".
+* "Viatura" is a noun and belongs to the class "Set".
+* "Médica" is a noun and belongs to the class "Set".
+* "de" is a preposition and belongs to the class "Set".
+* "Aveiro" is a noun and belongs to the class "Set".
+* "fez" is a verb and belongs to the class "Time".
+* "transporte" is a noun and belongs to the class "Duration".
+* "do" is a preposition and belongs to the class "Set".
+* "cadáver" is a noun and belongs to the class "Set".
+* "para" is a preposition and belongs to the class "Set".

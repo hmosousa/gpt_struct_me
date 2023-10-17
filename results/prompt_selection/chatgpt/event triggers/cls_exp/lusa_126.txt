@@ -1,1 +1,0 @@
-[["detém", "Occurrence"], ["deteve", "Occurrence"], ["apreendido", "Occurrence"], ["divulgou", "Reporting"], ["indicou", "Reporting"], ["efetuada", "Occurrence"], ["verificarem", "Perception"], ["detiveram", "Occurrence"], ["avançou", "Reporting"], ["apreendidas", "Occurrence"], ["vão ser presentes", "State"], ["interrogatório", "Occurrence"], ["aplicação", "Occurrence"]]

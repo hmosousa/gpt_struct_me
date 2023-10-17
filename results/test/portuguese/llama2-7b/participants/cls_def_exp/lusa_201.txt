@@ -1,0 +1,58 @@
+[["um homem", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["na sequ\u00eancia", "Per"], ["de um inc\u00e9ndio", "Per"], ["que deflagrou", "Per"], ["na sua habita\u00e7\u00f5", "Loc"], ["por", "Per"], ["“poss\u00edvel inala\u00e7\u00f3o de fumo”,", "Per"], ["diz\u00e9 à Lusa", "Org"], ["fonte", "Per"], ["dos bombeiros", "Org"], ["da localidade", "Loc"], ["“o homem", "Per"], ["j\u00e1 já se encontrava", "Per"], ["morto", "Per"], ["por", "Per"], ["“poss\u00edvel inala\u00e7\u00f3o de fumo e gases”,", "Per"], ["dito", "Per"], ["“o quarto onde se encontrava a v\u00edtima", "Loc"], ["n\u00famero", "Per"], ["presentar", "Per"], ["sinais de fogo”,", "Per"], ["“quando lá cheg\u00e1ramos", "Per"], ["o fogo já se encontrava", "Per"], ["no hall de entrada", "Loc"], ["da habita\u00e7\u00f5", "Loc"], ["e já havia consumido", "Per"], ["um quarto de dormir", "Per"], ["mas não", "Per"], ["o quarto", "Loc"], ["onde a v\u00edtima se encontrava", "Loc"], ["“o presidente", "Per"], ["da C\u00e1mara Municipal", "Org"], ["da Ribeira Brava", "Loc"], ["Ricardo Nascimento", "Per"], ["declarou à Lusa", "Org"], ["que", "Per"], ["as for\u00e7as policiais", "Org"], ["est\u00e1o a apurar", "Per"], ["as causas do inc\u00e9ndio", "Per"], ["“o homem", "Per"], ["era", "Per"], ["“um homem na casa dos 70 anos”", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+"""
+
+import json
+import re
+import sys
+
+from collections import defaultdict
+from typing import List
+
+
+def parse_json(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON-formatted string into a list of lists of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_dict(json_str: str) -> dict:
+    """
+    Parse a JSON-formatted string into a dictionary.
+
+    :param json_str: A JSON-formatted string.
+    :return: A dictionary.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list(json_str: str) -> List[str]:
+    """
+    Parse a JSON-formatted string into a list of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list_of_lists(json_str: str) -> List[List[str]]:
+    """
+    Parse a JSON-formatted string into a list of lists of strings.
+
+    :param json_str: A JSON-formatted string.
+    :return: A list of lists of strings.
+    """
+    return json.loads(json_str)
+
+
+def parse_json_to_list_of_dicts(json_str: str) -> List[dict]:
+    """
+    Parse a JSON-formatted

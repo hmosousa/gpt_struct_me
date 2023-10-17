@@ -1,0 +1,7 @@
+[["segunda-feira", "Date"], ["hoje", "Date"], ["hoje", "Date"], ["Estrada Nacional 122", "Time"], ["Mértola", "Time"], ["30 nov 2020", "Date"], ["12.300", "Duration"]]
+
+Please note that the input text is in Portuguese.
+
+Also, the output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please, extract and classify all time expressions in the given text.

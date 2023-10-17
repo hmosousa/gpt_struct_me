@@ -1,0 +1,35 @@
+[
+["Prisão preventiva", "Other"],
+["homem de 26 anos", "Person"],
+["Foz Côa", "Location"],
+["mãe de 46 anos", "Person"],
+["irmã de 12 anos", "Person"],
+["GNR", "Organization"],
+["Guarda", "Organization"],
+["Tribunal Judicial de Seia", "Facility"],
+["ilícitos", "Nature"]
+]
+
+Explanation:
+The input text describes a case of domestic violence that occurred in Foz Côa, where a 26-year-old man was arrested and taken into preventive custody for allegedly threatening his mother and sister with a machete and a knife. The text mentions the Guarda Nacional Republicana (GNR) and the Tribunal Judicial de Seia, as well as the objects used in the threats.
+
+The output is a list of entities and their corresponding classes. The entities are:
+
+* "Prisão preventiva" (Other)
+* "homem de 26 anos" (Person)
+* "Foz Côa" (Location)
+* "mãe de 46 anos" (Person)
+* "irmã de 12 anos" (Person)
+* "GNR" (Organization)
+* "Guarda" (Organization)
+* "Tribunal Judicial de Seia" (Facility)
+* "ilícitos" (Nature)
+
+The classes are:
+
+* Other (for "Prisão preventiva")
+* Person (for "homem de 26 anos", "mãe de 46 anos", and "irmã de 12 anos")
+* Location (for "Foz Côa")
+* Organization (for "GNR" and "Guarda")
+* Facility (for "Tribunal Judicial de Seia")
+* Nature (for "ilícitos")

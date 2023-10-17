@@ -1,0 +1,1 @@
+[["GNR","State"], ["detém","Occurrence"], ["suspeita","Aspectual"], ["tráfico","Intensional Action"], ["droga","Reporting"], ["apreende","Perception"], ["doses","Occurrence"], ["haXixe","Intensional State"]]

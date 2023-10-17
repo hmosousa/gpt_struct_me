@@ -1,0 +1,1 @@
+["offer expires", "tendered", "rejected", "closed"]

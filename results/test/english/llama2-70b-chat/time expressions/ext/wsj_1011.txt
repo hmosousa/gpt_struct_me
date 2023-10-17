@@ -1,0 +1,7 @@
+[
+"fiscal first quarter",
+"Sept. 30",
+"a year earlier",
+"third quarter",
+"9 months"
+]

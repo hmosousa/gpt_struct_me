@@ -1,0 +1,5 @@
+[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["zona rochosa", "Set"], ["praia da Vitória", "Set"], ["hospital de Angra do Heroísmo", "Set"], ["62 anos", "Duration"]]
+
+Note:
+- "em menos de uma semana" is not a time expression, so it should not be included in the output.
+- "épocas de veda" should be classified as "Time" instead of "Set".

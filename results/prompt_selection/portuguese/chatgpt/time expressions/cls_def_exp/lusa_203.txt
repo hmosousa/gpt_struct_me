@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["na cidade de Kaiyuan", "Date"], ["na província de Liaoning", "Date"], ["no passado", "Time"], ["em junho deste ano", "Date"], ["em 2018", "Date"]]

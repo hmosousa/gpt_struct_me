@@ -1,0 +1,11 @@
+[["Bruce R. Bent", "PERSON"], ["The Reserve Fund", "ORGANIZATION"], ["New York", "LOCATION"], ["Harry Brown", "PERSON"], ["SEC", "ORGANIZATION"], ["telephone redemptions", "ASPECTUAL"], ["daily dividends", "ASPECTUAL"], ["total elimination of share certificates", "ASPECTUAL"], ["constant $1 pershare pricing", "ASPECTUAL"], ["innovated", "I_ACTION"], ["recognized", "REPORTING"], ["significant events", "OCCURRENCE"], ["painfully thought out", "I_STATE"], ["not the result of some inadvertence on the part of the SEC", "NEGATION"]]
+
+Note:
+
+* "OCCURRENCE" refers to events or happenings that are described in the text.
+* "ASPECTUAL" refers to aspects or features of entities or events that are described in the text.
+* "I_ACTION" refers to actions or activities that are described in the text.
+* "I_STATE" refers to states or conditions of entities or events that are described in the text.
+* "REPORTING" refers to information or descriptions that are provided in the text.
+* "PERCEPTION" refers to perceptions or interpretations of entities or events that are described in the text.
+* "STATE" refers to the state or condition of entities or events that are described in the text.

@@ -1,0 +1,14 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The output should be a list of strings, where each string represents an event trigger.
+* The events should be extracted based on the given input and the definitions provided.
+* The output should be in JSON-parseable format.
+
+Hint:
+
+* Look for words or phrases that indicate a change in state or a significant occurrence.
+* Pay attention to verbs and nouns that convey action or change.
+* Use the definitions provided to guide your extraction.

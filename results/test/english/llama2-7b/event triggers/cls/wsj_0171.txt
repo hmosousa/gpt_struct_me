@@ -1,0 +1,10 @@
+[
+  ["Valley Federal Savings amp Loan Association", "State"],
+  ["Valley Federal Savings amp Loan Association", "Occurrence"],
+  ["Valley Federal Savings amp Loan Association", "Reporting"],
+  ["Valley Federal Savings amp Loan Association", "Perception"],
+  ["Valley Federal Savings amp Loan Association", "Aspectual"],
+  ["Valley Federal Savings amp Loan Association", "Intensional Action"],
+  ["Valley Federal Savings amp Loan Association", "Intensional State"]
+]
+

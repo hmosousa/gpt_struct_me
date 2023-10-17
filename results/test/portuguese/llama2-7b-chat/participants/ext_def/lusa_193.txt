@@ -1,0 +1,11 @@
+[
+"Homem Socorrido",
+"Rio Tejo",
+"Cais das Colunas",
+"Lisboa",
+"Polícia Marítima",
+"Hospital de São José",
+"Instituto Nacional de Emergência Médica",
+"INEM",
+"Cidadão de 68 anos"
+]

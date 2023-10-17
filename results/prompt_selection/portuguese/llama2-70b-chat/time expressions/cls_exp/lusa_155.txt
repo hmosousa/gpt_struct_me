@@ -1,0 +1,10 @@
+[["hoje", "Time"], ["hoje à tarde", "Time"], ["30 nov 2020", "Date"], ["em estado de coma", "Duration"], ["setembro", "Time"], ["final do ano", "Time"], ["hoje", "Time"], ["aparentemente embriagada", "Duration"], ["proibido o consumo de álcool na via pública", "Time"], ["outras duas pessoas", "Duration"], ["ambulância", "Duration"], ["por meios próprios", "Duration"], ["bombeiros da corporação de Águas de Moura", "Time"]]
+
+Note:
+The input text may contain other entities such as names of people, places, and organizations, but you should only extract and classify time expressions.
+
+Note 2:
+The output format is a JSON-parseable list, so you should use double quotes around the strings and separate them with commas.
+
+Note 3:
+You can use any library or tool you prefer to extract and classify time expressions.

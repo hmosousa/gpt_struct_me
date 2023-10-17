@@ -1,0 +1,1 @@
+[["one", "Duration"], ["three", "Set"], ["$5.50", "Amount"]]

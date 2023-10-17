@@ -1,0 +1,1 @@
+[["Pattison", "PERSON"], ["Innopac", "ORGANIZATION"], ["Toronto", "LOCATION"], ["Canadian", "NATIONALITY"], ["C$", "CURRENCY"], ["US$", "CURRENCY"], ["Aug.", "DATE"], ["Mass.", "STATE_NAME"]]

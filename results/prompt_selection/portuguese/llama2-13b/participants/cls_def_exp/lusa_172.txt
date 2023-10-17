@@ -1,0 +1,15 @@
+[["Corpo de homem", "Per"], ["encontrado a boiar", "Other"], ["no mar", "Loc"], ["em Lagoa", "Loc"], ["no Algarve", "Loc"], ["O corpo", "Per"], ["de um homem", "Per"], ["aparentando entre 60 e 70 anos", "Other"], ["foi encontrado", "Other"], ["hoje à tarde", "Other"], ["a boiar", "Other"], ["no mar", "Loc"], ["junto à praia da Estaquinha", "Loc"], ["no concelho de Lagoa", "Loc"], ["(Algarve)", "Loc"], ["De acordo com as autoridades", "Other"], ["o homem", "Per"], ["um pescador", "Other"], ["terá alegadamente caído", "Other"], ["ao mar", "Loc"], ["quando praticava", "Other"], ["pesca lúdica", "Other"], ["numa arriba", "Other"], ["naquela praia de Lagoa", "Loc"], ["do distrito de Faro", "Loc"], ["Depois de ter sido dado", "Other"], ["o alerta", "Other"], ["para o avistamento", "Other"], ["de um corpo", "Other"], ["a boiar", "Other"], ["no mar", "Loc"], ["foi ativada", "Other"], ["a Estação Salva-vidas", "Other"], ["de Ferragudo", "Other"], ["que procedeu", "Other"], ["à recolha", "Other"], ["do corpo", "Other"], ["transportando-o", "Other"], ["para a marina", "Other"], ["de Portimão", "Loc"], ["“O óbito", "Other"], ["foi declarado", "Other"], ["no local", "Other"], ["pelas autoridades", "Other"], ["de saúde", "Other"], ["de Lagoa", "Other"], ["tendo o corpo", "Other"], ["been transportado", "Other"], ["para o gabinete", "Other"], ["de medicina legal", "Other"], ["de Portimão", "Loc"], ["A Polícia Marítima", "Org"], ["de Portimão", "Org"], ["tomou conta", "Other"], ["da ocorrência", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de segurança do Aeroporto Internacional de São Paulo/Guarulhos (GRU) informaram que um homem foi preso por tentar entrar no aeroporto com uma arma de fogo
+Autoridades de segurança do Aeroporto Internacional de São Paulo/Guarulhos (GRU) informaram que um homem foi preso por tentar entrar no aeroporto com uma arma de fogo.
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo (PM-SP) e da Polícia Rodoviária Federal (PRF).
+O homem, que não apresentou documentos de identificação, foi preso por agentes da Polícia Militar do Estado de São Paulo

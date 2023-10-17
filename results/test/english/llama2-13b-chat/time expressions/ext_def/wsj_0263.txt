@@ -1,0 +1,24 @@
+[
+"Jan. 3",
+"Nov. 16",
+"Aug. 26",
+"five cents a share",
+"three cents a share",
+"20%",
+"21%",
+"24 cents a share"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Jan. 3" (specific date)
+* "Nov. 16" (specific date)
+* "Aug. 26" (specific date)
+* "five cents a share" (amount of dividend)
+* "three cents a share" (amount of dividend)
+* "20%" (percentage increase in dividend)
+* "21%" (percentage increase in net income)
+* "24 cents a share" (amount of net income)
+
+These time expressions are extracted and listed in the output.

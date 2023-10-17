@@ -1,0 +1,5 @@
+["in the industry", "for the fourth quarter", "since he's been here", "finally", "downsizing", "waste", "excellent", "caution"]
+Note:
+* Time expressions are highlighted in bold.
+* The list includes all time expressions found in the input text.
+* Each time expression is represented as a JSON-parseable string.

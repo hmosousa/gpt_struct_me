@@ -1,0 +1,1 @@
+["mata", "tiro", "matou", "disparo", "arma de fogo", "detido", "tentar", "suicídio", "mesma arma", "disse", "crime ocorreu", "homem tem", "vítima era", "admitiu", "cometido", "crime", "retaliação", "optado", "terminar", "relação", "mantiveram", "caso passou", "alçada"]

@@ -1,0 +1,1 @@
+[["Avon", "State"], ["Santa Monica", "Occurrence"], ["California", "Reporting"], ["issued", "Perception"], ["Class C Warrant", "Aspectual Action"], ["$5.50", "Intensional State"]]

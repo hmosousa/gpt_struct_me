@@ -1,0 +1,1 @@
+["noticiaram", "ataque", "porta", "sauna", "balneário", "identificado", "detido", "restringe", "venda", "posse", "armas", "fogo", "ataques", "massa", "geralmente", "facas", "explosivos", "caseiros", "descritos", "doentes", "mentais", "rancor", "sociedade", "segurança", "empunhando", "feriu", "jardim", "infância", "condenado", "morte", "matou", "feriu", "centro", "comercial"]

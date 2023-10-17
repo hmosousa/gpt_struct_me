@@ -1,0 +1,14 @@
+
+	[["net income", "DATE"], ["$6.6 million", "DURATION"], ["$1.1 million", "DATE"], ["$101.7 million", "DURATION"], ["$39.5 million", "DURATION"], ["13 facilities", "SET"], ["7 a year ago", "DATE"], ["$26.875", "DATE"], ["$14", "DATE"], ["$27.1 million", "DATE"], ["$378.1 million", "DURATION"], ["$283.8 million", "DATE"]]
+
+
+Note:
+
+* Date: represents the date of the event or the time period mentioned in the text.
+* Duration: represents the duration of the event or time period mentioned in the text.
+* Set: represents a set of items or values mentioned in the text.
+* Entity: represents the entity mentioned in the text.
+
+
+
+

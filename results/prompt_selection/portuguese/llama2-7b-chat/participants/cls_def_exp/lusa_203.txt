@@ -1,0 +1,11 @@
+[["Homem", "Per"], ["sete pessoas", "Per"], ["sete feridas", "Per"], ["Kaiyuan", "Loc"], ["Liaoning", "Loc"], ["suspeito", "Per"], ["Yang", "Other"], ["detido", "Org"], ["motivo", "Other"], ["lei chinesa", "Org"], ["armas de fogo", "Other"], ["ataques em massa", "Other"], ["facas", "Other"], ["explosivos caseiros", "Other"], ["doentes mentais", "Other"], ["rancor contra a sociedade", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are the people, places, and things mentioned in the input text.
+* The classes are the categories used to classify the entities.
+* The output list includes all the entities and classes mentioned in the input text.
+* The classes are not mutually exclusive, and an entity can belong to multiple classes.
+* The output list is organized in a hierarchical manner, with the top-level elements being the entities, and the sub-elements being the classes to which each entity belongs.

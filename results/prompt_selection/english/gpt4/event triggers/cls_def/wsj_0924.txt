@@ -1,0 +1,19 @@
+[
+["holders adopted a shareholder-rights plan", "Occurrence"],
+["annual meeting", "Occurrence"],
+["poison pill took effect", "Occurrence"],
+["pending ratification by holders", "State"],
+["Rights attached to the company's common shares were issued", "Occurrence"],
+["triggered if a hostile bidder acquires more than 20% of the shares outstanding", "State"],
+["Once triggered", "State"],
+["the rights allow holders to buy additional shares", "State"],
+["at 50% of the then current market price", "State"],
+["at the board's discretion", "State"],
+["to receive securities or assets", "State"],
+["Dominion Textile posted net income", "Occurrence"],
+["for the fiscal-first quarter ended Sept. 30", "State"],
+["The company had a net loss", "State"],
+["a year ago", "State"],
+["Sales were C$348.2 million", "State"],
+["compared with C$307.2 a year earlier", "State"]
+]

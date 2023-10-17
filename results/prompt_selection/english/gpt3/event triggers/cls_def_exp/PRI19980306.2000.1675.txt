@@ -1,0 +1,1 @@
+[["gunfire", "OCCURRENCE"], ["offensive", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["fleeing", "OCCURRENCE"], ["staying", "OCCURRENCE"], ["sources", "OCCURRENCE"], ["saying", "REPORTING"], ["confirmed", "OCCURRENCE"], ["Belgrade", "OCCURRENCE"], ["planned", "OCCURRENCE"], ["worried", "I_STATE"], ["fear", "I_STATE"], ["beginnings", "OCCURRENCE"], ["conflict", "OCCURRENCE"]]

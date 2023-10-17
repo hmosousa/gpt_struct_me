@@ -1,0 +1,10 @@
+[
+   "has told",
+   "is laying off",
+   "was going to be centralized",
+   "would result in",
+   "earned",
+   "rose slightly",
+   "offset",
+   "set up"
+]

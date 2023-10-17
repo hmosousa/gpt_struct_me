@@ -1,0 +1,4 @@
+[["Jim Pattison Industries Ltd.", "ORGANIZATION"], ["Innopac Inc.", "ORGANIZATION"], ["13.8 million", "NUMBER"], ["4.2 million", "NUMBER"], ["137.8 million", "NUMBER"], ["20 Canadian cents", "AMOUNT"], ["70 Canadian cents", "AMOUNT"], ["Aug. 31", "DATE"], ["1988", "DATE"], ["Leominster, Mass.", "LOCATION"], ["McDonald's Corp.", "ORGANIZATION"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first is the name of the entity, and the second is the class or category to which the entity belongs. The classes used in this example are "ORGANIZATION", "NUMBER", "DATE", and "LOCATION".

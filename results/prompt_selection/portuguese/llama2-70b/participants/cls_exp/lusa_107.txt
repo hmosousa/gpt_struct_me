@@ -1,0 +1,28 @@
+[["Mulher", "Per"], ["atropelada", "Other"], ["protesto", "Fac"], ["mariscadores", "Org"], ["na Murtosa", "Loc"], ["Uma mulher", "Per"], ["44 anos", "Obj"], ["hoje", "Nature"], ["atrpeloada", "Other"], ["sem gravidade", "Other"], ["na Murtosa", "Loc"], ["distrito de Aveiro", "Loc"], ["durante", "Other"], ["um protesto", "Fac"], ["cerca de dezenas de mariscadores", "Per"], ["informaram", "Verb"], ["Bombeiros", "Org"], [","], ["GNR", "Org"], ["O caso", "Obj"], ["ocorreu cerca das 12:50", "Time"], ["junto ao cais da Torreira.", "Loc"], ["Em declarações à Lusa", "Other"], ["fonte da GNR", "Org"], ["disse que o condutor", "Per"], ["viatura", "Obj"], ["homem", "Per"], ["transportava bivalves", "Verb"], ["estaria a tentar sair do local", "Verb"], ["“Os pescadores", "Per"], ["tentavam evitar", "Verb"], ["ele saísse de lá", "Verb"], ["A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora”, disse a mesma fonte.", "Other"], ["Segundo os Bombeiros", "Org"], ["a mulher sofreu ferimentos ligeiros", "Verb"], ["havia sido transportada para o Hospital de Aveiro", "Verb"], ["A GNR referiu ainda que o condutor se colocou em fuga", "Verb"], ["mas entretanto já tinha sido identificado", "Verb"], ["mariscadores da Torreira estão em protesto há mais de uma semana", "Verb"], ["devido ao facto de não poderem trabalhar", "Verb"], ["por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."]
+"""
+import json
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import linear_kernel
+from sklearn.neighbors import NearestNeighbors
+from sklearn.svm import LinearSVC
+
+# Load the data
+with open('data/train.json', 'r') as file:
+   train = json.load(file)
+
+with open('data/test.json', 'r') as file:
+   test = json.load(file)
+
+# Tokenization and stemming
+def tokenize(sentence):
+   return [PorterStemmer().stem(word) for word in sentence if not word in set(stopwords.words("portuguese"))]
+
+# Feature extraction
+vectorizer = TfidfVectorizer()
+X_train, X_test = vectorizer.fit_transform([t[0] for t in train]), vectorizer.transform([t[0] for t in test])
+
+# KNN classifier
+knn = Nearest

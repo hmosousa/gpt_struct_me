@@ -1,0 +1,6 @@
+	["fazem", "buscas", "apartamento", "motorista", "Diego Maradona", "investigação", "negligência", "morte", "procuradoria-geral", "San Isidro", "telemóveis", "Leopoldo Luque", "psquiatra", "Agustina Cosachov", "inquérito", "justiça", "abriu", "determinar", "houve"]
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list includes both concrete actions, such as "fazem" (they are doing), "apartamento" (apartment), "motorista" (driver), and "telemóveis" (phones), as well as more abstract events, such as "investigação" (investigation), "negligência" (negligence), "morte" (death), and "inquérito" (inquiry).

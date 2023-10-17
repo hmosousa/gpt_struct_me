@@ -1,0 +1,12 @@
+["Friday", "February 1947", "1947", "75 million", "4th graf pvs (pvs/ji)"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Friday" (day of the week)
+* "February 1947" (specific date)
+* "1947" (year)
+* "75 million" (quantity)
+* "4th graf pvs (pvs/ji)" (time period, specifically the fourth paragraph)
+
+Note that the output list contains only the time expressions, and not the other information conveyed by the input text.

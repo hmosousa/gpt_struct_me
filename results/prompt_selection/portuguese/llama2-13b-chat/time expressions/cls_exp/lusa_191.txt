@@ -1,0 +1,1 @@
+[["Lisboa", "Location"], ["29 anos", "Age"], ["hoje", "Date"], ["10:54", "Time"], ["rua Ângela Pinto", "Location"], ["café", "Location"], ["desentendimento", "Event"], ["arma branca", "Object"], ["suspeito", "Person"], ["Avenida Almirante Reis", "Location"], ["polícia", "Organization"], ["PJ", "Organization"], ["14:34", "Time"]]

@@ -1,0 +1,4 @@
+["early this week", "first nine months", "Hurricane Hugo payments", "next three quarters", "three quarters", "first quarter", "second quarter", "third quarter"]
+
+Format:
+JSON-parseable list of strings.

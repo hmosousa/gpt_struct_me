@@ -1,0 +1,10 @@
+[["National Intergroup Inc.", "DATE"], ["third quarter", "DATE"], ["$5.3 million", "AMOUNT"], ["$15 million", "AMOUNT"], ["$30 million", "AMOUNT"], ["year-ago third quarter", "DATE"], ["$22.5 million", "AMOUNT"], ["$18 million", "AMOUNT"], ["$778.6 million", "AMOUNT"], ["54.5%", "PERCENTAGE"], ["two years", "DURATION"], ["fiscal 1989", "DATE"], ["$40 million", "AMOUNT"], ["$1.5 million", "AMOUNT"]]
+
+Note:
+The input text is a paragraph from a news article. The output is a list of all time expressions, amounts, and percentages found in the text. The list is in JSON format, where each element is a list with two strings: the first is the entity, and the second is the class.
+
+The task is to write a program that takes in the input text and produces the output list. The program should be able to extract and classify all time expressions, amounts, and percentages in the text.
+
+Note that the input text may contain other information besides time expressions, amounts, and percentages. The program should only extract and classify the relevant information.
+
+The output list should be in JSON format, where each element is a list with two strings: the first is the entity, and the second is the class. The class should be one of the following: "DATE", "AMOUNT", "PERCENTAGE", or "DURATION".

@@ -1,0 +1,1 @@
+[["yesterday", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"]]

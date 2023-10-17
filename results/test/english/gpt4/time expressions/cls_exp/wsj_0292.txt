@@ -1,0 +1,1 @@
+[["third-quarter", "DATE"], ["a year ago", "DATE"], ["second quarter", "DATE"], ["the year-earlier period", "DATE"], ["the 1989 period", "DATE"], ["a year ago", "DATE"], ["the first nine months", "DURATION"]]

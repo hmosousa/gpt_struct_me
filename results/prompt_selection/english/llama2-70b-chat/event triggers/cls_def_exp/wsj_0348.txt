@@ -1,0 +1,6 @@
+[["said", "REPORTING"], ["jumped", "OCCURRENCE"], ["had", "OCCURRENCE"], ["soared", "OCCURRENCE"], ["began", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["began", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["reported", "REPORTING"], ["more", "OCCURRENCE"], ["than", "OCCURRENCE"], ["twice", "OCCURRENCE"], ["rose", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some events may belong to multiple classes.
+
+This task is similar to the Stanford Natural Language Processing Group's (SNLPG) task, "Event Argument Extraction" (EAE), but with a different focus. The goal of EAE is to extract the entities and relationships that are involved in a given event mentioned in text, while the goal of this task is to classify the events themselves.

@@ -1,0 +1,54 @@
+[
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "protesto",
+"class": "Event"
+},
+{
+"entity": "dezenas",
+"class": "Number"
+},
+{
+"entity": "mariscadores",
+"class": "Person"
+},
+{
+"entity": "Torreira",
+"class": "Location"
+},
+{
+"entity": "cais",
+"class": "Location"
+},
+{
+"entity": "Lusa",
+"class": "Organization"
+},
+{
+"entity": "GNR",
+"class": "Organization"
+},
+{
+"entity": "Hospital",
+"class": "Location"
+},
+{
+"entity": "Aveiro",
+"class": "Location"
+},
+{
+"entity": "week",
+"class": "Duration"
+},
+{
+"entity": "month",
+"class": "Duration"
+},
+{
+"entity": "year",
+"class": "Duration"
+}
+]

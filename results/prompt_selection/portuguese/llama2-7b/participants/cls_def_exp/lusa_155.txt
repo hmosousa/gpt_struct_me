@@ -1,0 +1,22 @@
+[["um restaurante", "Loc"], ["Cajados", "Loc"], ["Palmela", "Loc"], ["Setúbal", "Loc"], ["Um homem", "Per"], ["de 69 anos", "Per"], ["proprietário", "Per"], ["de um restaurante", "Per"], ["em", "Loc"], ["Cajados", "Loc"], ["o concelho", "Loc"], ["de Palmela", "Loc"], ["Setúbal", "Loc"], ["ficou", "Per"], ["ferido", "Per"], ["com gravidade", "Per"], ["após", "Per"], ["ter", "Per"], ["agredido", "Per"], ["no seu estabelecimento", "Loc"], ["com", "Loc"], ["uma garrafa", "Obj"], ["dito", "Per"], ["fonte", "Per"], ["da GNR", "Org"], ["a vítima", "Per"], ["foi", "Per"], ["transportada", "Per"], ["em", "Loc"], ["São Bernardo", "Loc"], ["em", "Loc"], ["Setúbal", "Loc"], ["estado", "Per"], ["de coma", "Per"], ["para", "Loc"], ["o hospital", "Loc"], ["de São Bernardo", "Loc"], ["em", "Loc"], ["Setúbal", "Loc"], ["a agressão", "Per"], ["foi", "Per"], ["efetuada", "Per"], ["hoje", "Per"], ["à tarde", "Per"], ["por", "Per"], ["uma mulher", "Per"], ["aparentemente", "Per"], ["embriagada", "Per"], ["que", "Per"], ["se", "Per"], ["pôs", "Per"], ["em", "Loc"], ["fuga", "Loc"], ["conduzindo", "Loc"], ["um", "Loc"], ["automóvel", "Obj"], ["a agressão", "Per"], ["foi", "Per"], ["motivada", "Per"], ["por", "Per"], ["o proprietário", "Per"], ["do restaurante", "Per"], ["não", "Per"], ["quiser", "Per"], ["que", "Per"], ["a mulher", "Per"], ["estivesse", "Per"], ["a consumir", "Per"], ["bebidas", "Obj"], ["alcoólicas", "Obj"], ["junto", "Loc"], ["ao seu estabelecimento", "Loc"], ["por", "Per"], ["ser", "Per"], ["proibido", "Per"], ["o consumo", "Per"], ["de álcool", "Obj"], ["na via pública", "Obj"], ["De acordo", "Per"], ["com", "Per"], ["fonte", "Per"], ["do Comando", "Org"], ["Distrital", "Org"], ["de", "Org"], ["Operações", "Org"], ["de", "Org"], ["Socorro", "Org"], ["(CDOS)", "Org"], ["sofreram", "Per"], ["ferimentos", "Per"], ["ligeiros", "Per"], ["tendo", "Per"], ["ambas", "Per"], ["transportadas", "Per"], ["para", "Loc"], ["o hospital", "Loc"], ["de", "Loc"], ["São Bernardo", "Loc"], ["em", "Loc"], ["Setúbal", "Loc"], ["outras", "Per"], ["duas", "Per"], ["pessoas", "Per"], ["envolvidas", "Per"], ["nesta", "Per"], ["ocorrência", "Per"], ["sofreram", "Per"], ["ferimentos", "Per"], ["ligeiros", "Per"], ["tendo", "Per"], ["ambas", "Per"], ["transportadas", "Per"], ["para", "Loc"], ["o hospital", "Loc"], ["de", "Loc"], ["São Bernardo", "Loc"], ["em", "Loc"], ["Setúbal", "Loc"]]
+
+"""
+
+import re
+import json
+import os
+import sys
+import argparse
+import logging
+import requests
+import urllib.parse
+import urllib.request
+import urllib.error
+import urllib.parse
+import urllib.request
+import urllib.error
+import urllib.parse
+import urllib.request
+import urllib.error
+import urllib.parse
+import urllib.request

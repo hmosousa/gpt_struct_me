@@ -1,0 +1,15 @@
+[["homem", "I_Action"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "Occurrence"], ["coletividade", "Occurrence"], ["Setúbal", "State"], ["deté", "I_Action"], ["homem", "I_Action"], ["63 anos", "Occurrence"], ["suspeito", "State"], ["terá disparado", "Occurrence"], ["vítima", "Occurrence"], ["sequência", "Aspectual"], ["conflito", "Occurrence"], ["convivas", "Occurrence"], ["almoçar", "Occurrence"], ["coletividade", "Occurrence"], ["Alto da Guerra", "State"], ["polícia", "I_Action"], ["adianta", "Reporting"], ["sexagenário", "I_Action"], ["acabou", "Occurrence"], ["alvejar", "Occurrence"], ["jovem", "Occurrence"], ["ferimentos", "Occurrence"], ["consideráveis", "Occurrence"], ["ombro", "Occurrence"], ["braço", "Occurrence"], ["detido", "I_Action"], ["fugiu", "Occurrence"], ["local", "Occurrence"], ["indiciado", "I_Action"], ["crimes", "Occurrence"], ["homicídio qualificado", "Occurrence"], ["forma tentada", "Occurrence"], ["detenção", "Occurrence"], ["arma proibida", "Occurrence"], ["omissão", "Occurrence"], ["auxílio", "Occurrence"], ["primeiro interrogatório", "Occurrence"], ["judicial", "Occurrence"], ["aplicada", "Occurrence"], ["medida", "Occurrence"], ["coação", "Occurrence"], ["prisão preventiva", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"PJ detém homem suspeito de balear jovem em coletividade de Setúbal
+A Polícia Judiciária (PJ) de Setúbal deteve um homem de 63 anos suspeito de ter baleado um jovem, na passada quarta-feira, no restaurante de uma coletividade de Setúbal, foi hoje anunciado.
+Segundo um comunicado da PJ, o presumível agressor terá disparado sobre a vítima na sequência de um conflito com um grupo de convivas que se encontrava a almoçar na coletividade, no Alto da Guerra.
+A polícia adianta que o sexagenário acabou por alvejar um jovem do grupo com um disparo de arma de fogo, provocando-lhe ferimentos consideráveis num ombro e braço.
+O detido, que fugiu do local, está indiciado pelos crimes de homicídio qualificado na forma tentada, detenção de arma proibida e omissão de auxílio.
+Já foi presente a primeiro interrogatório judicial, tendo-lhe sido aplicada a medida de coação de prisão preventiva."
+
+Output:
+[["homem", "I_Action"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "Occurrence"], ["coletividade", "Occurrence"], ["Setúbal", "State"], ["deté", "I_Action"], ["homem", "I_Action"], ["63 anos", "Occurrence"], ["suspeito", "State"], ["terá disparado", "Occurrence"], ["vítima", "Occurrence"], ["sequência", "Aspectual"], ["conflito", "Occurrence"], ["convivas", "Occurrence"], ["almoçar", "Occurrence"], ["coletividade", "Occurrence"], ["Alto da Guerra", "State"], ["polícia", "I_Action"], ["adianta", "Reporting"], ["sexagenário", "I_Action"], ["acabou", "Occurrence"], ["alvejar", "Occurrence"], ["jovem", "Occurrence"], ["ferimentos", "Occurrence"], ["consideráveis", "Occurrence"], ["ombro", "

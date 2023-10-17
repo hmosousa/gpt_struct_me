@@ -1,0 +1,4 @@
+["Jim Pattison Industries Ltd.", "Innopac Inc.", "Toronto", "C$1.9 billion", "about 4.2 million", "13.8 million", "C$2.6 million", "18 Canadian cents", "C$291.6 million", "C$252 million", "1988", "Mr. Pattison", "McDonald's Corp.", "Leominster", "Mass."]
+
+Format:
+JSON-parseable list of strings.

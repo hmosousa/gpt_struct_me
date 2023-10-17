@@ -1,0 +1,14 @@
+[
+["Governo de Jacarta", "Organization"],
+["Indonésia", "Location"],
+["FPI", "Organization"],
+["Mohammad Mahfud", "Person"],
+["Frente de Defesa Islâmica", "Organization"],
+["sharia", "Nature"],
+["Rizieg Shihab", "Person"],
+["Jacarta", "Location"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+Also, please note that the names of the entities may not be accurate, as the text is a machine translation from Portuguese to English.

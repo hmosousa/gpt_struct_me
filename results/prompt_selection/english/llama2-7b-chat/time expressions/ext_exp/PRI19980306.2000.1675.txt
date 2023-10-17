@@ -1,0 +1,10 @@
+["For The World", "Pamela McCall", "BBC news room", "London", "More heavy gunfire", "Serbian province", "Kosovo", "BBC correspondent", "Karyn Coleman", "There were", "official Serb sources", "said the operation was over", "not yet confirmed", "Belgrade", "capital of Serbia", "whole attack", "ethnic Albanians", "Kosovo", "future", "wider conflict", "Karyn Coleman", "BBC news", "Pristina"]
+
+Format:
+JSON-parseable list of strings.
+
+Note:
+
+* Time expressions are extracted as strings.
+* They are not parsed or analyzed further.
+* They are output as a JSON-parseable list of strings.

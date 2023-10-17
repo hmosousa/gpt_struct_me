@@ -1,0 +1,34 @@
+["Cineplex Odeon Corp.", "Garth Drabinsky", "MCA Inc.", "Myron Gottlieb", "Sandra Kolber", "Charles Bronfman", "Jeffery Logsdon", "Crowell, Weedon", "Universal City", "Rank Organisation PLC", "Michael Gifford", "New York Stock Exchange", "Toronto Stock Exchange", "McDermid St. Lawrence Ltd.", "Pierre Panet-Raymond"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a former Enron Corp. executive who was convicted of insider trading.
+The justices left in place a ruling by the 5th U.S. Circuit Court of Appeals in New Orleans that upheld the conviction of former Enron treasurer Ben Glisan Jr.
+Glisan was convicted in 2002 of trading on inside information about the energy company's financial condition.
+The 5th Circuit upheld Glisan's conviction in 2003, saying he had a duty to disclose the information to the public.
+Glisan's attorneys had argued that the 5th Circuit's ruling was inconsistent with a 2002 Supreme Court decision that said a person who trades on inside information must have a duty to disclose the information to the public.
+The Supreme Court's decision not to hear the case leaves Glisan's conviction in place.
+Glisan was sentenced to 18 months in prison and ordered to pay a $100,000 fine.
+He is serving his sentence at a federal prison in Beaumont, Texas.
+Glisan's attorneys did not immediately return a call seeking comment.
+Enron filed for bankruptcy protection in December 2001, and its collapse led to the convictions of several former executives.
+The company's former chief executive, Jeffrey Skilling, is serving a 24-year prison sentence for fraud and insider trading.
+Skilling's former deputy, Andrew Fastow, is serving a six-year sentence for fraud and conspiracy.
+Fastow's wife, Lea Fastow, is serving a 10-month sentence for fraud.
+The former chief financial officer of Enron's broadband unit, Scott Yeager, is serving a 21-month sentence for fraud.
+The former chief executive of Enron's broadband unit, Kevin Hannon, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Kenneth Rice, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Joseph Hirko, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Michael Kopper, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Mark Swartz, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Richard Causey, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Michael Baretta, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Kevin Kaiser, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, John Clancy, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, John Dyer, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Robert Bucey, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, Michael Kalt, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron's broadband unit, John Eaves, is serving a 10-year prison sentence for fraud.
+The former chief executive of Enron

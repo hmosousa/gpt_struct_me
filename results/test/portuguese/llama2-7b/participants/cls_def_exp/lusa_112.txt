@@ -1,0 +1,14 @@
+[["Governo", "Org"], ["Ricardo Pinheiro", "Per"], ["substitui", "Verb"], ["José Mendes", "Per"], ["secretário", "Verb"], ["de Estado", "Org"], ["do Planeamento", "Org"], ["O deputado", "Per"], ["socialista", "Per"], ["Ricardo Pinheiro", "Per"], ["substituirá", "Verb"], ["José Mendes", "Per"], ["no cargo", "Verb"], ["de secretário", "Verb"], ["de Estado", "Org"], ["do Planeamento", "Org"], ["O Presidente", "Per"], ["da República", "Org"], ["aceitou", "Verb"], ["a proposta", "Verb"], ["do primeiro-ministro", "Per"], ["de exoneração", "Verb"], ["de José Fernandes Gomes Mendes", "Per"], ["como", "Verb"], ["secretário", "Verb"], ["de Estado", "Org"], ["do ministro", "Per"], ["do Planeamento", "Org"], ["Nelson de Sousa", "Per"], ["a posse", "Verb"], ["do novo", "Adj"], ["secretário", "Verb"], ["de Estado", "Org"], ["do ministro", "Per"], ["do Planeamento", "Org"], ["pela", "Adj"], ["20:30", "Time"], ["no Palácio de Belém", "Loc"], ["Ricardo Pinheiro", "Per"], ["foi", "Verb"], ["presidente", "Verb"], ["da Câmara", "Org"], ["de Campo Maior", "Loc"], ["distrito", "Loc"], ["de Portalegre", "Loc"], ["círculo", "Loc"], ["pelas", "Adj"], ["últimas", "Adj"], ["eleições", "Adj"], ["legislativas", "Adj"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Governo: Ricardo Pinheiro substitue José Mendes como secretário de Estado do Planeamento
+O deputado socialista Ricardo Pinheiro vai substituir José Mendes no cargo de secretário de Estado do Planeamento, mudança que foi hoje anunciada através de uma nota divulgada no portal da Presidência da República.
+"O Presidente da República aceitou a proposta do primeiro-ministro de exoneração, a seu pedido, de José Fernandes Gomes Mendes, como secretário de Estado do Planeamento, e a nomeação, para o mesmo cargo, de Ricardo Miguel Furtado Pinheiro", lê-se na nota.
+A posse do novo secretário de Estado do ministro do Planeamento, Nelson de Sousa, terá lugar ainda hoje, pelas 20:30, no Palácio de Belém.
+Ricardo Pinheiro foi presidente da Câmara de Campo Maior, distrito de Portalegre, círculo pelo qual foi eleito deputado nas últimas eleições legislativas."
+
+Output:
+[["Governo", "Org"], ["Ricardo Pinheiro", "Per"], ["substitui", "Verb"], ["José Mendes", "Per"], ["secretário", "Verb"], ["de Estado", "Org"], ["do Planeamento", "Org"], ["O deputado", "Per"], ["socialista", "Per"], ["Ricardo Pinheiro", "Per"], ["substituirá", "Verb"], ["José Mendes", "Per"], ["no cargo", "Verb"], ["de secretário", "Verb"], ["de Estado", "Org"], ["do Planeamento", "Org"], ["O Presidente", "Per"], ["da República", "Org"], ["aceitou", "Verb"], ["a proposta", "Verb"], ["do primeiro-ministro", "Per"], ["de exoneração", "Verb"], ["de José Fernandes Gomes Mendes", "Per"], ["como", "Verb"], ["secretário", "Verb"], ["de Estado", "Org"], ["do ministro",

@@ -1,0 +1,1 @@
+[["expects", "OCCURRENCE"], ["fiscal", "STATE"], ["slightly", "ASPECTUAL"], ["above", "PERCEPTION"], ["continue", "I_ACTION"], ["face", "OCCURRENCE"], ["pressure", "OCCURRENCE"], ["lower", "ASPECTUAL"], ["demand", "OCCURRENCE"], ["earn", "OCCURRENCE"], ["million", "OCCURRENCE"], ["share", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["trading", "OCCURRENCE"]]

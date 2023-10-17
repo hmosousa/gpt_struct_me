@@ -1,0 +1,1 @@
+[["For nearly forty years", "DURATION"], ["this evening", "TIME"], ["the last time", "TIME"], ["in just a moment", "TIME"]]

@@ -1,0 +1,14 @@
+[
+"hoje",
+"um homem de 52 anos",
+"um outro",
+"hora",
+"segunda",
+"minutos",
+"dias",
+"semanas",
+"meses",
+"anos"
+"hoje",
+"07:50"
+]

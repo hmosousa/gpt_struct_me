@@ -1,0 +1,16 @@
+["Nov. 16", "March 1, 2011", "150 million", "1,059.04", "1,000", "1,000", "41.725", "46.50", "3.6 million", "73 million", "after-tax cost", "interest", "dividend yield", "common"]
+
+Explanation:
+The first step is to extract all the words from the input text.
+
+Next, we need to identify the time expressions.
+
+We can do this by looking for words that are followed by a number and a unit of time.
+
+For example, "Nov. 16" is a time expression because it is followed by a number ("16") and a unit of time ("Nov.").
+
+We can then extract all the time expressions from the input text by looking for words that are followed by a number and a unit of time.
+
+Finally, we can output the list of time expressions as a JSON-parseable list of strings.
+
+

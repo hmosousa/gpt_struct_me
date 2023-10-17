@@ -1,0 +1,35 @@
+[
+["Jovem", "State"],
+["autocarro", "Occurrence"],
+["Vila das Aves", "Location"],
+["Hospital São João", "Location"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
+["Bombeiros da Vila das Aves", "Organization"],
+["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Organization"],
+["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Organization"],
+["GNR", "Organization"]
+]
+
+Note:
+- "Jovem" and "autocarro" are entities, not classes.
+- "State" is a class.
+- "Occurrence" is a class.
+- "Location" is a class.
+- "Organization" is a class.
+
+I have tried using spaCy's entity recognition and it works well for entities like "Jovem" and "autocarro", but I'm having trouble with the classes. I'm notsure how to extract the classes from the text.
+
+Can you help me with this task?
+
+Thank you!
+
+I apologize for any confusion caused by my previous question. I have tried to use spaCy's entity recognition and it works well for entities like "Jovem" and "autocarro", but I'm having trouble with the classes. I'm not sure how to extract the classes from the text.
+
+Here is the updated input text:
+
+"Jovem de 14 anos em estado grave após ser atropelado por autocarro em Santo Tirso
+Um jovem de 14 anos ficou hoje em estado grave após ter sido atropelado por um autocarro na Vila das Aves, concelho de Santo Tirso, disse à Lusa fonte da Proteção Civil.
+O jovem, após ter sido assistido no local, foi transportado pelos Bombeiros da Vila das Aves para o Hospital São João, no Porto, acrescentou a fonte.
+O acidente ocorreu pela 18:16, na Rua Luís Gonzaga Mendes de Carvalho."
+
+I would like to extract the classes for each entity in the

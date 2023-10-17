@@ -1,0 +1,10 @@
+["third-quarter net loss", "year-earlier profit", "nonrecurring charges", "asset-valuation adjustments", "gain on the sale of investments", "revenue declined"]
+
+Explanation:
+
+* third-quarter net loss: an event that occurred in the third quarter, referring to the financial loss incurred by the company.
+* year-earlier profit: an event that occurred in the same quarter of the previous year, referring to the financial gain incurred by the company in the previous year.
+* nonrecurring charges: an event that is not expected to recur, referring to the unusual charges incurred by the company.
+* asset-valuation adjustments: an event that affects the value of the company's assets, referring to the adjustments made to the value of the company's assets.
+* gain on the sale of investments: an event that resulted in a financial gain for the company, referring to the profit made from the sale of investments.
+* revenue declined: an event that indicates a decrease in the company's revenue, referring to the decrease in revenue from the previous year.

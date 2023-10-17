@@ -1,0 +1,10 @@
+[["Homem", "Per"], ["sete pessoas", "Per"], ["faca", "Obj"], ["nordeste da China", "Loc"], ["Pelo menos", "Other"], ["sete pessoas", "Per"], ["mortas", "Per"], ["outras sete", "Per"], ["feridas", "Per"], ["ataque", "Other"], ["cidade de Kaiyuan", "Loc"], ["provincia de Liaoning", "Loc"], ["sauna", "Fac"], ["balneário", "Fac"], ["suspeito", "Per"], ["Yang", "Per"], ["motivo", "Other"], ["ataques em massa", "Other"], ["facas", "Obj"], ["explosivos caseiros", "Other"], ["Autores", "Per"], ["doentes mentais", "Other"], ["rancor", "Other"], ["sociedade", "Other"], ["segurança", "Per"], ["escola", "Fac"], ["jardim de infância", "Fac"], ["região sul de Guangxi", "Loc"], ["junho", "Other"], ["condemnado", "Other"], ["homem", "Per"], ["pessoa", "Per"], ["centro comercial", "Fac"], ["Pequim", "Loc"]]
+
+Note:
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, nature, facilities, or other entities. The classification should be done according to the context of the sentence.
+
+Note 2:
+The input text is in Portuguese, but the output should be in English.
+
+Note 3:
+The output should be a JSON-parseable list.

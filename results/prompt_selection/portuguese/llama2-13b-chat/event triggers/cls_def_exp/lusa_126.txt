@@ -1,0 +1,12 @@
+[["GNR", "I_Action"], ["detém", "I_Action"], ["dos homens", "Occurrence"], ["por tráfico de droga", "Occurrence"], ["em Sines", "Location"], ["a GNR", "I_Action"], ["indicou", "Reporting"], ["que", "Occurrence"], ["a detenção", "I_Action"], ["dos dois suspeitos", "Occurrence"], ["efetuada", "I_Action"], ["no sábado", "Time"], ["no decorrer", "Time"], ["de uma ação", "Occurrence"], ["de patrulhamento", "Occurrence"], ["num local", "Location"], ["ja referenciado", "Aspectual"], ["por tráfico de estupefacientes", "Aspectual"], ["os militares", "I_Action"], ["detiveram", "I_Action"], ["quando", "Time"], ["estes se preparavam", "Occurrence"], ["para efetuar", "Occurrence"], ["uma transação", "Occurrence"], ["na operação", "Occurrence"], ["foram apreendidas", "I_Action"], ["1.570 doses", "Occurrence"], ["de heroína", "Occurrence"], ["103 doses", "Occurrence"], ["de cocaína", "Occurrence"], ["844 euros", "Occurrence"], ["em numerário", "Occurrence"], ["um veículo", "Occurrence"], ["e quatro telemóveis", "Occurrence"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "GNR") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: an action or event
+* Occurrence: an event or occurrence
+* Reporting: a report or description of an event or occurrence
+* State: a state or condition
+* Aspectual: an aspect or feature of an event or state
+* Intensional Action: an action with a specific goal or intention
+* Intensional State: a state with a specific goal or intention.

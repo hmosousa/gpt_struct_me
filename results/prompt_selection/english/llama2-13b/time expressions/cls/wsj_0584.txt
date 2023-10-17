@@ -1,0 +1,41 @@
+[
+  [
+    "Date",
+    "Time",
+    "Duration",
+    "Set"
+  ],
+  [
+    "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN.",
+    "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN.",
+    "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN.",
+    "The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could fail to fend off McCaw Cellular Communications Inc., the rival suitor for LIN."
+  ],
+  [
+    "Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner, forcing huge debt on the proposed new company.",
+    "Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner, forcing huge debt on the proposed new company.",
+    "Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner, forcing huge debt on the proposed new company.",
+    "Moreover, the amended pact shows how McCaw's persistence has pushed LIN and BellSouth into a corner, forcing huge debt on the proposed new company."
+  ],
+  [
+    "The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations.",
+    "The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations.",
+    "The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations.",
+    "The plan still calls for LIN to combine its cellular telephone properties with BellSouth's and to spin off its broadcasting operations."
+  ],
+  [
+    "But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger.",
+    "But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger.",
+    "But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger.",
+    "But under new terms of the agreement, announced Friday, LIN holders would receive a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed merger."
+  ],
+  [
+    "In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise.",
+    "In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise.",
+    "In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise.",
+    "In addition, New York-based LIN would exercise its right to buy out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise."
+  ],
+  [
+    "That money also would have to be borrowed.",
+    "That money also would have to be borrowed.",
+    "That money also would have to be

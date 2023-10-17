@@ -1,0 +1,15 @@
+[
+"morreu", "no hospital", "no hospital", "no sábado à noite", "ao quilómetro quatro", "do Norte", "do Norte", "circa 21:40", "23:30", "local do acidente", "22 operacionais", "10 viaturas"]
+Explanation:
+The output is a list of time expressions extracted from the given text. Each time expression is represented as a JSON-parseable string.
+The time expressions in the text are:
+* "morreu" (died)
+* "no hospital" (in the hospital)
+* "no sábado à noite" (on Saturday night)
+* "ao quilómetro quatro" (at kilometer four)
+* "do Norte" (in the North)
+* "circa 21:40" (around 9:40 PM)
+* "23:30" (11:30 PM)
+* "local do acidente" (at the accident site)
+* "22 operacionais" (22 operatives)
+* "10 viaturas" (10 vehicles)

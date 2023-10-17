@@ -1,0 +1,11 @@
+[
+"Homem",
+"Romariz",
+"Santa Maria da Feira",
+"Lusa",
+"Bombeiros de Arrifana",
+"vizinho",
+"propriedade",
+"GNR",
+"Santa Maria da Feira"
+]

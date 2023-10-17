@@ -1,0 +1,15 @@
+[
+{entity: "Travelers Corp.", class: "Company" },
+{entity: "Hurricane Hugo", class: "Event" },
+{entity: "Hurricane Hugo", class: "Event" },
+{entity: "California earthquake", class: "Event" },
+{entity: "Commercial property/casualty lines", class: "Insurance Line" },
+{entity: "Personal property/casualty business", class: "Insurance Line" },
+{entity: "Employee benefits group", class: "Insurance Line" },
+{entity: "1988", class: "Year" },
+{entity: "1988 second quarter", class: "Quarter" },
+{entity: "1988 period", class: "Year" }
+]
+
+Explanation:
+The output is a JSON-parseable list of entities and their corresponding classes. The entities are extracted from the given text using a combination of part-of-speech tagging and named entity recognition. The classes are assigned based on the type of entity and its relationship to time. For example, "Travelers Corp." is classified as a "Company", while "Hurricane Hugo" and "California earthquake" are classified as "Events". "Commercial property/casualty lines" and "Personal property/casualty business" are classified as "Insurance Line", while "Employee benefits group" is also classified as an "Insurance Line". Finally, "1988" and "1988 second quarter" are classified as "Year" and "Quarter" respectively.

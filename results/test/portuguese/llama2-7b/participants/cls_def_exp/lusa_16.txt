@@ -1,0 +1,22 @@
+[["Um homem de 25 anos", "Per"], ["sofre queimaduras de terceiro grau nos membros", "Per"], ["após incêndio em casa", "Per"], ["em Arcozelo", "Loc"], ["Vila Nova de Gaia", "Loc"], ["sofreu queimaduras do terceiro grau", "Per"], ["nos membros superiores e inferiores", "Per"], ["na sequência de um incêndio na sua casa", "Per"], ["em Arcozelo", "Loc"], ["Vila Nova de Gaia", "Loc"], ["o alerta foi dado pelas 08:37", "Per"], ["e no combate às chamas", "Per"], ["estiveram os Sapadores de Vila Nova de Gaia", "Org"], ["e os Bombeiros da Aguda", "Org"], ["acrescentou a fonte", "Per"], ["assistido no local", "Per"], ["o homem foi depois conduzido ao Centro Hospitalar de Vila Nova de Gaia/Espinho", "Per"], ["dado com extinto às 8:51", "Per"], ["informou a Proteção Civil", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 25 anos sofre queimaduras de terceiro grau nos membros após incêndio em casa
+Um homem de 25 anos sofreu hoje queimaduras do terceiro grau nos membros superiores e inferiores na sequência de um incêndio na sua casa, em Arcozelo, Vila Nova de Gaia, disse à Lusa fonte dos Sapadores locais.
+O alerta foi dado pelas 08:37 e no combate às chamas que começaram na cozinha da casa, estiveram os Sapadores de Vila Nova de Gaia e os Bombeiros da Aguda, acrescentou a fonte.
+Assistido no local, o homem foi depois conduzido ao Centro Hospitalar de Vila Nova de Gaia/Espinho, disse ainda.
+O incêndio que consumiu parcialmente a habitação foi dado com extinto às 8:51, informou a Proteção Civil."
+
+Output:
+[["Um homem de 25 anos", "Per"], ["sofre queimaduras de terceiro grau nos membros", "Per"], ["após incêndio em casa", "Per"], ["em Arcozelo", "Loc"], ["Vila Nova de Gaia", "Loc"], ["sofreu queimaduras do terceiro grau", "Per"], ["nos membros superiores e inferiores", "Per"], ["na sequência de um incêndio na sua casa", "Per"], ["em Arcozelo", "Loc"], ["Vila Nova de Gaia", "Loc"], ["o alerta foi dado pelas 08:37", "Per"], ["e no combate às chamas", "Per"], ["estiveram os Sapadores de Vila Nova de Gaia", "Org"], ["e os Bombeiros da Aguda", "Org"], ["acrescentou a fonte", "Per"], ["assistido no local", "Per"], ["o homem foi depois conduzido ao Centro Hospitalar de Vila Nova de Gaia/Espinho", "Per"], ["dado com extinto às 8:51", "Per"], ["informou a Proteção Civil", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem de 25 anos sofre queimaduras de terceiro grau nos membros após incêndio em casa
+Um homem de 25 anos sofreu hoje queimaduras do terceiro grau nos membros superiores e inferiores na sequência de um incêndio na sua casa, em Arcozelo, Vila Nova de Gaia, disse à Lusa fonte dos Sapadores locais.
+O alerta foi dado pelas 08:3

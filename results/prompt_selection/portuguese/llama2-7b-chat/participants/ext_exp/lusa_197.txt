@@ -1,0 +1,37 @@
+[
+"Grua de camião",
+"derrubou",
+"poste de iluminação",
+"Porto",
+"matou",
+"homem",
+"52 anos",
+"sofreu",
+"ferimentos",
+"ligheiros",
+"acidente",
+"caminho",
+"Rua da Constituição",
+"PSP",
+"Comando Metropolitano",
+"Hospital de Santo António",
+"morreu",
+"vítima",
+"estructura",
+"funçãoário",
+"bombas de gasolina",
+"ferimentos",
+"ligheiros",
+"acidente",
+"ocorreu",
+"07:50"
+]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a word or a phrase from the input text. The list is sorted alphabetically.

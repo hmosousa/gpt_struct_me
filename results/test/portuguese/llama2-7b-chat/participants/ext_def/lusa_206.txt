@@ -1,0 +1,14 @@
+[
+"Quatro homens",
+"PSP",
+"Lisboa",
+"Rego",
+"Comando Metropolitano de Lisboa",
+"Lusa",
+"feridos",
+"danos",
+"viaturas",
+"munições",
+"carregador",
+"Polícia Judiciária"
+]

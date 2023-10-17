@@ -1,0 +1,22 @@
+[
+["Trustcorp Inc.", "Date"],
+["Society Corp. of Cleveland", "Date"],
+["12.4 million shares of stock", "Duration"],
+["about $450 million", "Duration"],
+["year end", "Set"]
+]
+
+Explanation:
+
+* "Trustcorp Inc." and "Society Corp. of Cleveland" are dates.
+* "12.4 million shares of stock" and "about $450 million" are durations.
+* "year end" is a set.
+
+Note:
+
+* All time expressions are in the format of "X of Y", where X is a quantity and Y is a unit of time.
+* All dates are in the format of "X of Y", where X is a date and Y is a unit of time.
+* All durations are in the format of "X of Y", where X is a quantity and Y is a unit of time.
+* All sets are in the format of "X of Y", where X is a set of items and Y is a unit of time.
+
+Your task is to extract and classify all time expressions in the given text.

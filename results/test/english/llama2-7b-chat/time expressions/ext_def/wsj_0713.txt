@@ -1,0 +1,8 @@
+["in a first step", "from today", "through Nov. 17", "on the Paris Stock Exchange", "after Jan. 1, 1990"]
+
+Explanation:
+* "in a first step" is a temporal expression indicating a specific point in time (the beginning of the acquisition process).
+* "from today" is a temporal expression indicating a specific period of time (the time frame during which Dresdner Bank will buy shares of BIP on the Paris Stock Exchange).
+* "through Nov. 17" is a temporal expression indicating a specific period of time (the time frame during which Dresdner Bank will buy shares of BIP on the Paris Stock Exchange).
+* "on the Paris Stock Exchange" is a temporal expression indicating a specific location (the Paris Stock Exchange).
+* "after Jan. 1, 1990" is a temporal expression indicating a specific point in time (the date when Dresdner Bank will have the option to buy a 30.84% stake in BIP from Societe Generale).

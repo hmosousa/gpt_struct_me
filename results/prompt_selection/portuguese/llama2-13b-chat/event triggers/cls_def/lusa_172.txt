@@ -1,0 +1,33 @@
+[
+["Corpo de homem", "State"],
+["encontrado a boiar no mar", "Occurrence"],
+["em Lagoa", "Location"],
+["no Algarve", "Location"],
+["O corpo de um homem aparentando entre 60 e 70 anos", "Aspectual"],
+["terá alegadamente caído ao mar", "Intensional Action"],
+["quando praticava pesca lúdica numa arriba", "Intensional Action"],
+["naquela praia de Lagoa", "Location"],
+["do distrito de Faro", "Location"],
+["Depois de ter sido dado o alerta para o avistamento de um corpo a boiar no mar", "Reporting"],
+["foi ativada a Estação Salva-vidas de Ferragudo que procedeu à recolha do corpo", "Reporting"],
+["transportando-o para a marina de Portimão", "Reporting"],
+["“O óbito foi declarado no local pela delegada de saúde de Lagoa", "Reporting"],
+["tendo o corpo sido transportado para o gabinete de medicina legal de Portimão", "Reporting"]
+]
+
+Explanation:
+
+1. Corpo de homem - State (the body of a man)
+2. encontrado a boiar no mar - Occurrence (found floating in the sea)
+3. em Lagoa - Location (in Lagoa)
+4. no Algarve - Location (in the Algarve)
+5. O corpo de um homem aparentando entre 60 e 70 anos - Aspectual (the body of a man appearing to be between 60 and 70 years old)
+6. terá alegadamente caído ao mar - Intensional Action (he allegedly fell into the sea)
+7. quando praticava pesca lúdica numa arriba - Intensional Action (when he was engaging in recreational fishing on a rocky outcrop)
+8. naquela praia de Lagoa - Location (on that beach in Lagoa)
+9. do distrito de Faro - Location (in the Faro district)
+10. Depois de ter sido dado o alerta para o avistamento de um corpo a boiar no mar - Reporting (After the alert was given for the sighting of a body floating in the sea)
+11. foi ativada a Estação Salva-vidas de Ferragudo que procedeu à recolha do corpo - Reporting (the Ferragudo lifeguard station was activated and proceeded to retrieve the body)
+12. transportando-o para a marina de Portimão - Reporting (transporting it to the Portimão marina)
+13. “O óbito foi declarado no local pela delegada de saúde de Lagoa” - Reporting (“The death was declared at the scene by the Lagoa health delegate”)
+14. tendo o corpo sido transportado para o gabinete de medicina legal de Portimão - Reporting (having the body transported to the Portimão morgue)

@@ -1,0 +1,1 @@
+["Jovem", "autocarro", "Vila das Aves", "Santo Tirso", "Proteção Civil", "Bombeiros da Vila das Aves", "Hospital São João", "Porto", "Rua Luís Gonzaga Mendes de Carvalho", "GNR"]

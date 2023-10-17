@@ -1,0 +1,8 @@
+[["hoje", "Date"], ["20:20", "Time"], ["hoje", "Date"], ["20:20", "Time"]]
+
+Note:
+
+* Date: Representa qualquer data, incluindo dias, semanas, meses e anos.
+* Time: Representa qualquer hora, incluindo horas, minutos e segundos.
+* Duration: Representa qualquer quantidade de tempo, incluindo dias, horas, minutos e segundos.
+* Set: Representa um período de tempo específico, como uma época de veda ou um horário de trabalho.

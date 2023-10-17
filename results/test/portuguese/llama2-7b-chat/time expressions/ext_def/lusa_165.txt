@@ -1,0 +1,19 @@
+[
+"um homem invadiu", "com automóvel", "as instalações", "do Estádio da Luz", "durante a tarde", "de hoje", "pelas 15:00", "o condutor", "foi detido", "mas a PSP", "explicou que a detenção", "poderá não estar relacionada", "com esta infração", "sem adiantar", "mais informações"]
+Note:
+The output is a list of strings, each representing a time expression found in the input text. The time expressions are:
+* "um homem invadiu" (a man invaded)
+* "com automóvel" (with a car)
+* "as instalações" (the installations)
+* "do Estádio da Luz" (of the Estádio da Luz stadium)
+* "durante a tarde" (during the afternoon)
+* "de hoje" (of today)
+* "pelas 15:00" (at 15:00)
+* "o condutor" (the driver)
+* "foi detido" (was detained)
+* "mas a PSP" (but the PSP)
+* "explicou que a detenção" (explained that the detention)
+* "poderá não estar relacionada" (may not be related)
+* "com esta infração" (with this offense)
+* "sem adiantar" (without specifying)
+* "mais informações" (additional information)

@@ -1,0 +1,27 @@
+[
+"third-quarter",
+"year-earlier",
+"quarter",
+"nonrecurring charges",
+"asset-valuation adjustments",
+"unusual",
+"a year earlier",
+"a year",
+"8%",
+"$85.7 million",
+"$93.3 million"
+]
+
+Explanation:
+
+1. third-quarter: a temporal expression indicating the quarter of the year.
+2. year-earlier: a temporal expression indicating the previous year.
+3. quarter: a temporal expression indicating a three-month period.
+4. nonrecurring charges: a temporal expression indicating charges that do not occur regularly.
+5. asset-valuation adjustments: a temporal expression indicating adjustments made to the value of assets.
+6. unusual: a temporal expression indicating something that is not typical or expected.
+7. a year earlier: a temporal expression indicating the previous year.
+8. a year: a temporal expression indicating a period of one year.
+9. 8%: a temporal expression indicating a percentage change.
+10. $85.7 million: a temporal expression indicating the amount of revenue.
+11. $93.3 million: a temporal expression indicating the previous year's revenue.

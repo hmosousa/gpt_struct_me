@@ -1,0 +1,10 @@
+[
+"48 anos",
+"hoje",
+"hora",
+"17 horas",
+"dias",
+"semanas",
+"meses",
+"anos"
+]

@@ -1,0 +1,6 @@
+
+["said", "expects", "charge", "sell", "division", "agreed", "offset", "after-tax", "gain", "pact", "earned", "revenue", "explore", "options", "stake", "subject", "adjustments", "payments", "unit", "produces", "sales", "fiscal", "operating", "loss"]
+
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,1 @@
+[["bought", "OCCURRENCE"], ["told", "REPORTING"], ["bought", "OCCURRENCE"], ["fight", "OCCURRENCE"], ["launched", "OCCURRENCE"], ["suggested", "REPORTING"], ["buy", "INTENTIONAL_ACTION"], ["opened", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["created", "OCCURRENCE"], ["valued", "PERCEPTION"]]

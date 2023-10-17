@@ -1,0 +1,5 @@
+["em casa de motorista de Maradona", "apartamento de Maximiliano Trimarchi", "procuradoria-geral de San Isidro", "Leopoldo Luque", "Agustina Cosachov", "60 anos", "dezembro", "novembro", "início de novembro", "final de novembro"]
+
+
+Note:
+The output is a list of time expressions in the input text. The time expressions are highlighted in bold.

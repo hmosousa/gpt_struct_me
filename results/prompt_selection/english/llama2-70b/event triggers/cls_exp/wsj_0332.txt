@@ -1,0 +1,1 @@
+[["offer", "OCCURRENCE"], ["acquire", "I_ACTION"], ["restructure", "I_ACTION"], ["addition", "ASPECTUAL"], ["seek", "I_STATE"], ["already", "ASPECTUAL"], ["accepted", "REPORTING"], ["controlling", "PERCEPTION"], ["eventually", "ASPECTUAL"], ["fund", "I_ACTION"], ["make", "I_ACTION"]]

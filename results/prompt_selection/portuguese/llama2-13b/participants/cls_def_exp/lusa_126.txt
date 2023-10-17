@@ -1,0 +1,15 @@
+[["GNR", "Org"], ["detém", "Verb"], ["dois homens", "Per"], ["tráfico de droga", "Verb"], ["em Sines", "Loc"], ["A GNR", "Org"], ["deteve", "Verb"], ["dois homens", "Per"], ["com idades", "Other"], ["entre os 34 e os 43 anos", "Other"], ["por tráfico de droga", "Verb"], ["em Sines", "Loc"], ["no distrito de Setúbal", "Loc"], ["tendo apreendido", "Verb"], ["1.673 doses de estupefacientes", "Obj"], ["divulgou", "Verb"], ["hoje", "Other"], ["aquela força de segurança", "Org"], ["indicou", "Verb"], ["que", "Other"], ["a detenção", "Verb"], ["dos dois suspeitos", "Per"], ["foi efetuada", "Verb"], ["no sábado", "Other"], ["no decorrer", "Other"], ["de uma ação de patrulhamento", "Verb"], ["num local", "Other"], ["ja referenciado", "Other"], ["por tráfico de estupefacientes", "Verb"], ["no concelho de Sines", "Loc"], ["“Após verificarem", "Other"], ["movimentações suspeitas", "Other"], ["em local", "Other"], ["ja referenciado", "Other"], ["por tráfico de estupefacientes", "Verb"], ["os militares", "Per"], ["detiveram", "Verb"], ["os dois suspeitos", "Per"], ["quando", "Other"], ["estes se preparavam", "Other"], ["para efetuar", "Other"], ["uma transação", "Other"], ["Na operação", "Other"], ["foram apreendidas", "Verb"], ["1.570 doses de heroína", "Obj"], ["103 doses de cocaína", "Obj"], ["844 euros", "Obj"], ["em numerário", "Other"], ["um veículo", "Obj"], ["e quatro telemóveis", "Obj"], ["Os detidos", "Per"], ["vão ser presentes", "Verb"], ["ao Tribunal Judicial", "Org"], ["de Santiago do Cacém", "Loc"], ["para primeiro interrogatório judicial", "Verb"], ["e aplicação", "Verb"], ["de eventuais medidas de coação", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém dois homens por tráfico de droga em Sines
+A GNR deteve dois homens, com idades entre os 34 e os 43 anos, por tráfico de droga, em Sines, no distrito de Setúbal, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção dos dois suspeitos foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
+“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram os dois suspeitos quando estes se preparavam para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR.
+Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis.
+Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."
+
+Output:
+[["GNR", "Org"], ["detém

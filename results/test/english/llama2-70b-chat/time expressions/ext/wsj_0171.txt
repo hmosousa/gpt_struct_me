@@ -1,0 +1,1 @@
+["third-quarter", "a year ago", "1990", "quarter", "year ago"]

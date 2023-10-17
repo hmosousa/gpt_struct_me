@@ -1,0 +1,3 @@
+["Thursday", "Friday", "Thursday", "Friday", "next week", "nearly two months", "1990", "10-hour", "over a week", "Friday", "Thursday", "Feb. 23", "Jan. 13", "Previously", "daily", "03/06/1998 13:19:00"]
+
+Please note that the list of time expressions contains duplicates, as there are multiple instances of the same time expression in the text.

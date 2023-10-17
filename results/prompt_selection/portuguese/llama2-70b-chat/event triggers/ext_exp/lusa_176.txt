@@ -1,0 +1,1 @@
+["morreu", "ciclomotor", "colhido", "veículo ligeiro", "Estrada Nacional", "Mitrena", "Setúbal", "PSP", "Proteção Civil", "Comando Distrital de Operações de Socorro", "CDOS", "Setúbal", "Hospital de São Bernardo", "Medicina legal", "alerta", "bombeiros", "Palmela", "Sapadores", "VMER", "PSP", "veículos"]

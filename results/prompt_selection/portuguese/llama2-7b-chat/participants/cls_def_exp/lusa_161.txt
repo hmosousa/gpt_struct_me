@@ -1,0 +1,1 @@
+[["um homem", "Per"], ["ex-companheira", "Per"], ["tiro", "Other"], ["Vila Nova de Gaia", "Loc"], ["GNR", "Org"], ["Rua da Figueirinha", "Loc"], ["Grijó", "Loc"], ["distrito do Porto", "Loc"], ["Polícia Judiciária", "Org"]]

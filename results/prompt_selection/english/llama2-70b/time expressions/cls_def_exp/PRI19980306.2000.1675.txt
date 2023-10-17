@@ -1,0 +1,1 @@
+[["Pamela McCall", "PERSON"], ["London", "LOCATION"], ["Kosovo", "LOCATION"], ["Serbian", "ORGANIZATION"], ["BBC", "ORGANIZATION"], ["Karyn Coleman", "PERSON"], ["Kosovo", "LOCATION"], ["Belgrade", "LOCATION"], ["Serbia", "LOCATION"]]

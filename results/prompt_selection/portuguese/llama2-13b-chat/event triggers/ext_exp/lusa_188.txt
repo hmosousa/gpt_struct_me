@@ -1,0 +1,1 @@
+[ "morre", "acidente", "trabalho", "Mogadouro", "vítima", "ferimentos", "falecer", "ambulância", "hospital", "referência", "alerta", "socorro", "envolvido", "meios", "bombeiros", "SIV", "Viatura", "INEM", "helicóptero", "GNR" ]

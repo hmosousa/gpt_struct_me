@@ -1,0 +1,52 @@
+["hoje", "tarde", "15:00", "30 nov 2020"]
+
+Note:
+The input text may contain other temporal expressions that are not explicitly mentioned in the example, such as "ontem" (yesterday), "amanhã" (tomorrow), "hoje à noite" (tonight), "depois" (later), "em breve" (shortly), "em seguida" (next), "em pouco tempo" (shortly), "em algum momento" (at some point), "em algum lugar" (somewhere), "em alguma altura" (at some height), "em algum tempo" (at some time), "em alguma época" (at some time), "em alguma estação" (at some station), "em algum lugar" (somewhere), "em alguma altura" (at some height), "em algum tempo" (at some time), "em alguma época" (at some time), "em alguma estação" (at some station).
+
+The output should be a JSON-parseable list of strings, where each string represents a temporal expression found in the input text.
+
+The task is to write a program that takes the input text and produces the output list of temporal expressions.
+
+Note that the input text may contain other temporal expressions that are not explicitly mentioned in the example, so the program should be able to handle those cases as well.
+
+The program should be written in Python, and the output should be a JSON-parseable list of strings.
+
+The input text is given as a string, and the output should be a list of strings, where each string represents a temporal expression found in the input text.
+
+The program should be able to handle different types of temporal expressions, such as dates, times, durations, and periods, and should be able to extract them from the input text accurately.
+
+The program should also be able to handle cases where the input text contains multiple temporal expressions, and should be able to extract all of them correctly.
+
+The output should be a JSON-parseable list of strings, which means that the list should be enclosed in square brackets and each element in the list should be a string enclosed in double quotes.
+
+For example, the output for the input text "Homem invade instalações do Estádio da Luz com automóvel" could be:
+
+["hoje", "tarde", "15:00", "30 nov 2020"]
+
+The program should be able to handle different types of input texts, and should be able to extract the temporal expressions accurately.
+
+The program should also be able to handle cases where the input text contains errors or inconsistencies, and should be able to handle those cases gracefully.
+
+The program should be written in Python, and should use a combination of natural language processing (NLP) techniques and regular expressions to extract the temporal expressions from the input text.
+
+The program should be able to handle different types of temporal expressions, and should be able to extract them accurately from the input text.
+
+The program should also be able to handle cases where the input text contains multiple temporal expressions, and should be able to extract all of them correctly.
+
+The output should be a JSON-parseable list of strings, which means that the list should be enclosed in square brackets and each element in the list should be a string enclosed in double quotes.
+
+The program should be able to handle different types of input texts, and should be able to extract the temporal expressions accurately.
+
+The program should also be able to handle cases where the input text contains errors or inconsistencies, and should be able to handle those cases gracefully.
+
+The program should be written in Python, and should use a combination of natural language processing (NLP) techniques and regular expressions to extract the temporal expressions from the input text.
+
+The program should be able to handle different types of temporal expressions, and should be able to extract them accurately from the input text.
+
+The program should also be able to handle cases where the input text contains multiple temporal expressions, and should be able to extract all of them correctly.
+
+The output should be a JSON-parseable list of strings, which means that the list should be enclosed in square brackets and each element in the list should be a string enclosed in double quotes.
+
+The program should be able to handle different types of input texts, and should be able to extract the temporal expressions accurately.
+
+The program should also be able to handle cases where the input text contains errors or

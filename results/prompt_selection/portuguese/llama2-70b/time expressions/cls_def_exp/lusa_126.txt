@@ -1,0 +1,1 @@
+[["sábado", "Date"], ["concelho de Sines", "Set"]]

@@ -1,0 +1,24 @@
+[
+["Ricardo Pinheiro", "Person"],
+["José Mendes", "Person"],
+["José Fernandes Gomes Mendes", "Person"],
+["Nelson de Sousa", "Person"],
+["Câmara de Campo Maior", "Organization"],
+["Portalegre", "Location"],
+["Presidência da República", "Organization"],
+["Palácio de Belém", "Location"]
+]
+
+Explanation:
+
+* Ricardo Pinheiro, José Mendes, and José Fernandes Gomes Mendes are people.
+* Câmara de Campo Maior and Portalegre are organizations.
+* Presidência da República and Palácio de Belém are locations.
+* Nelson de Sousa is a person and the minister of Planeamento.
+
+Note:
+
+* In Portuguese, the word "governo" means "government" and "secretário de Estado" means "state secretary".
+* The word "substitui" means "substitute" and "exoneração" means "exoneration".
+* The word "nomeação" means "appointment".
+* The word "posse" means "possession" or "taking possession".

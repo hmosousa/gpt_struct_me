@@ -1,0 +1,43 @@
+[
+{
+"entity": "GNR",
+"class": "State"
+},
+{
+"entity": "two homens",
+"class": "Occurrence"
+},
+{
+"entity": "Sines",
+"class": "Location"
+},
+{
+"entity": "Setúbal",
+"class": "Location"
+},
+{
+"entity": "patrol",
+"class": "Action"
+},
+{
+"entity": "transação",
+"class": "Action"
+},
+{
+"entity": "aprehenção",
+"class": "Event"
+},
+{
+"entity": "Tribunal Judicial de Santiago do Cacém",
+"class": "Location"
+},
+{
+"entity": "first interrogatory judicial",
+"class": "Event"
+},
+{
+"entity": "coercion",
+"class": "Event"
+}
+]
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,26 @@
+[
+["PSP", "Organization"],
+["homem", "Person"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["arma de fogo", "Object"],
+["tablet", "Object"],
+["coluna de som", "Object"],
+["dinheiro", "Object"],
+["Esquadra de Intervenção e Fiscalização Policial", "Organization"],
+["Equipas de Prevenção e Reação Imediata", "Organization"]
+]
+
+Explanation:
+
+* PSP is an organization.
+* The man is a person.
+* Heroína and cocaína are objects.
+* The gun, tablet, and speakers are objects.
+* The money is an object.
+* The Esquadra de Intervenção e Fiscalização Policial and Equipas de Prevenção e Reação Imediata are organizations.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are in the first column and the classes are in the second column.

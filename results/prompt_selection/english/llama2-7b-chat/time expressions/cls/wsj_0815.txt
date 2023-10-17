@@ -1,0 +1,14 @@
+[
+["Di Giorgio Corp.", "Date"],
+["Di Giorgio Corp.", "Time"],
+["Di Giorgio Corp.", "Duration"],
+["Robert Mellor", "Set"]
+]
+
+Explanation:
+
+* "Di Giorgio Corp." is a date expression, as it refers to a specific company and its ongoing talks with potential buyers.
+* "Di Giorgio Corp." is a time expression, as it refers to a specific company and its ongoing talks with potential buyers.
+* "certain units" is a duration expression, as it refers to a specific amount of time (units) being discussed.
+* "individual units" is a set expression, as it refers to a specific collection of items (units) being discussed.
+* "Robert Mellor" is a set expression, as it refers to a specific person involved in the discussion.

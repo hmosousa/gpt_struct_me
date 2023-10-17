@@ -1,0 +1,17 @@
+[["homem", "I_Action"], ["morreu", "State"], ["vítima", "Occurrence"], ["acidente", "Occurrence"], ["trabalho", "State"], ["localidade", "Occurrence"], ["Vilarinhos dos Galegos", "Occurrence"], ["Concelho de Mogadouro", "Occurrence"], ["distrito de Bragança", "Occurrence"], ["fonte", "Reporting"], ["bombeiros", "I_Action"], ["explicou", "Reporting"], ["envolve", "Occurrence"], ["queda", "Occurrence"], ["altura", "Occurrence"], ["trabalhava", "Occurrence"], ["obra", "State"], ["construção civil", "Occurrence"], ["vítima", "Occurrence"], ["acabaria", "Occurrence"], ["resistir", "Occurrence"], ["ferimentos", "Occurrence"], ["falecer", "Occurrence"], ["transportada", "Occurrence"], ["campo de futebol", "Occurrence"], ["helitransportada", "Occurrence"], ["hospital de referência", "Occurrence"], ["alerta", "Occurrence"], ["dado", "Occurrence"], ["meios", "Occurrence"], ["bombeiros", "I_Action"], ["envolvido", "Occurrence"], ["ambulância", "Occurrence"], ["Suporte Imediato de Vida", "Occurrence"], ["Viatura Medica de Emergência e Reanimação", "Occurrence"], ["Instituto Nacional e Emergência Médica", "Occurrence"], ["acionado", "Occurrence"], ["helicóptero", "Occurrence"], ["INEM", "Occurrence"], ["estacionado", "Occurrence"], ["Macedo de Cavaleiros", "Occurrence"], ["GNR", "I_Action"], ["tomou conta", "Occurrence"], ["ocorrência", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque anunciam que o número de mortes por covid-19 ultrapassa 20.000
+Autoridades de Nova Iorque anunciaram hoje que o número de mortes por covid-19 ultrapassou 20.000, um número que não se alcançou em nenhum outro estado americano.
+A cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, é o epicentro da pandemia nos Estados Unidos, com mais de 10.000 mortes.
+A cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, é o epicentro da pandemia nos Estados Unidos, com mais de 10.000 mortes.
+Autoridades de Nova Iorque anunciaram hoje que o número de mortes por covid-19 ultrapassou 20.000, um número que não se alcançou em nenhum outro estado americano.
+A cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, é o epicentro da pandemia nos Estados Unidos, com mais de 10.000 mortes.
+Autoridades de Nova Iorque anunciaram hoje que o número de mortes por covid-19 ultrapassou 20.000, um número que não se alcançou em nenhum outro estado americano.
+A cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, é o epicentro da pandemia nos Estados Unidos, com mais de 10.000 mortes.
+Autoridades de Nova Iorque anunciaram hoje que o número de mortes por covid-19 ultrapassou 20.000, um número que não se alcançou em nenhum outro estado americano.
+A cidade de Nova Iorque, que tem mais de 8 milhões de habitantes, é o epicentro da pandemia nos Estados Unidos, com mais de 10.000 mortes.
+Autoridades de Nova Iorque anunciaram hoje que o número de mortes por covid

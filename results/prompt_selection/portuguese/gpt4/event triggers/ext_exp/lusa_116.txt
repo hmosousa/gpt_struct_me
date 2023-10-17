@@ -1,0 +1,1 @@
+["ficou", "estado grave", "atropelado", "autocarro", "assistido", "transportado", "acidente", "ocorreu", "prestar assistência", "esteve"]

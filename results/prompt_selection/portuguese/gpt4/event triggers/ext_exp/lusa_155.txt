@@ -1,0 +1,1 @@
+["ferido", "gravidade", "agressão", "garrafa", "ficou", "ferido", "agredido", "transportada", "estado de coma", "agressão", "efetuada", "embriagada", "fuga", "conduzindo", "agressão", "motivada", "não querer", "consumir", "bebidas alcoólicas", "proibido", "consumo", "álcool", "sofreram", "ferimentos", "transportadas", "ambulância", "meios próprios", "mobilizados", "bombeiros"]

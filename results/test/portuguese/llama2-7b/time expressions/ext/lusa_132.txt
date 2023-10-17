@@ -1,0 +1,28 @@
+["Belmonte: GNR apreende armas por violência doméstica", "A GNR apreendeu armas de fogo e constituiu arguido um homem de 47 anos, suspeito de exercer violência doméstica sobre ex-companheira, no concelho de Belmonte.", "Em comunicado enviado à agência Lusa, o Comando Territorial da GNR de Castelo Branco explica que a operação foi realizada na terça-feira, através dos postos de Belmonte e Caria.", "“No âmbito de uma investigação por violência doméstica, os militares apuraram que o suspeito, um homem de 47 anos, exercia violência física e psicológica de forma reiterada, através de agressões físicas, ameaças com recurso a arma de fogo e ofensas verbais à vítima, sua ex-companheira, de 33 anos, verificando-se uma escalada do comportamento violento, devido ao consumo abusivo de álcool”, é referido na nota.", "De acordo com a GNR foram efetuadas duas buscas domiciliárias e apreendidas três carabinas de ar comprimido, uma caçadeira, uma reprodução de arma de fogo, uma pistola de ar comprimido, uma faca de ponta e mola e diversas munições de diferentes calibres.", "O suspeito foi constituído arguido e os factos foram remetidos para o Tribunal Judicial da Covilhã."]
+
+Explanation:
+
+The task is to extract all time expressions.
+
+The format is JSON-parseable list of strings.
+
+The input is "Belmonte: GNR apreende armas por violência doméstica".
+
+The output is ["Belmonte: GNR apreende armas por violência doméstica", "A GNR apreendeu armas de fogo e constituiu arguido um homem de 47 anos, suspeito de exercer violência doméstica sobre ex-companheira, no concelho de Belmonte.", "Em comunicado enviado à agência Lusa, o Comando Territorial da GNR de Castelo Branco explica que a operação foi realizada na terça-feira, através dos postos de Belmonte e Caria.", "“No âmbito de uma investigação por violência doméstica, os militares apuraram que o suspeito, um homem de 47 anos, exercia violência física e psicológica de forma reiterada, através de agressões físicas, ameaças com recurso a arma de fogo e ofensas verbais à vítima, sua ex-companheira, de 33 anos, verificando-se uma escalada do comportamento violento, devido ao consumo abusivo de álcool”, é referido na nota.", "De acordo com a GNR foram efetuadas duas buscas domiciliárias e apreendidas três carabinas de ar comprimido, uma caçadeira, uma reprodução de arma de fogo, uma pistola de ar comprimido, uma faca de ponta e mola e diversas munições de diferentes calibres.", "O suspeito foi constituído arguido e os factos foram remetidos para o Tribunal Judicial da Covilhã."]
+
+
+Solution:
+
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.loads(f.read())
+
+time_expressions = []
+for i in data:
+    if 'no' in i:
+        time_expressions.append(i)
+
+print(time_expressions)
+```

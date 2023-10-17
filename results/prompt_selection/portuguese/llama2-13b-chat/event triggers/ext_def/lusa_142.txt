@@ -1,0 +1,11 @@
+["suspeita de tráfico de droga", "apreender 12.300 doses de haxixe", "detida por militares", "primeiro interrogatório", "aplicação de medidas de coação", "comportamento nervoso", "busca à viatura", "revisão à mulher", "posse de droga"]
+
+Note:
+
+* "suspeita de tráfico de droga" is a single event trigger, as it refers to the suspect's action or state.
+* "apreender 12.300 doses de haxixe" is a single event trigger, as it refers to the action of seizing the drugs.
+* "detida por militares" is a single event trigger, as it refers to the action of detaining the suspect.
+* "primeiro interrogatório" and "aplicação de medidas de coação" are both event triggers, as they refer to the events of the first interrogation and the application of coercive measures, respectively.
+* "comportamento nervoso" is an event trigger, as it refers to the suspect's state or behavior.
+* "busca à viatura" and "revisão à mulher" are both event triggers, as they refer to the actions of searching the vehicle and the suspect, respectively.
+* "posse de droga" is an event trigger, as it refers to the state of the suspect possessing drugs.

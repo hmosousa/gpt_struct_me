@@ -1,0 +1,1 @@
+["gunfire", "offensive", "fleeing", "operation", "over", "attack", "planned", "conflict"]

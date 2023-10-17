@@ -1,0 +1,5 @@
+[
+"27 de novembro",
+"hoje",
+"dia 27 de novembro"
+]

@@ -1,0 +1,7 @@
+	["fazem", "buscas", "apartamento", "motorista", "Diego", "Maradona", "procuradoria-geral", "San", "Isidro", "polícia", "perícias", "telemóveis", "Leopoldo", "Luque", "psquiatra", "Agustina", "Cosachov", "inquérito", "negligência", "medical", "assistência", "antigo", "futebolista", "justiça", "abriu", "dias", "morreu", "anos", "determinar", "houve"]
+
+
+Note:
+
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event or action. In this task, we are looking for words or phrases that signal the start of an event or action, such as "pediu", "desculpa", "erros", "levaram", "morreram", "fraco controlo", "desencadearam", "infeções", "estado em grande parte livre", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", etc.
+The output is a JSON-parseable list of strings, where each string is an event trigger.

@@ -1,0 +1,1 @@
+[["Thursday", "DATE"], ["over the last five years", "DURATION"], ["last year", "DATE"], ["more than 60 percent", "SET"], ["since 1993", "DATE"], ["Tuesday", "DATE"]]

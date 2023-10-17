@@ -1,0 +1,10 @@
+[
+  ["GNR", "State"],
+  ["GNR", "Occurrence"],
+  ["GNR", "Reporting"],
+  ["GNR", "Perception"],
+  ["GNR", "Aspectual"],
+  ["GNR", "Intensional Action"],
+  ["GNR", "Intensional State"]
+]
+

@@ -1,0 +1,16 @@
+[["hoje", "Time"], ["sábado", "Date"], ["09:56", "Time"], ["desde sábado", "Duration"], ["30 nov 2020", "Date"], ["hoje", "Time"], ["30 nov 2020", "Date"]]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following resources to help you with the task:
+
+* Natural Language Toolkit (NLTK)
+* spaCy
+* Stanford CoreNLP
+* OpenNLP
+
+You can also use online resources such as language models and dictionaries to help you with the task.
+
+Note that the input text is in Portuguese, so you may need to use resources that are specifically designed for the Portuguese language.

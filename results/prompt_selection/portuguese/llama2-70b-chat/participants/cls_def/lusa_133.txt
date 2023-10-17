@@ -1,0 +1,22 @@
+[
+["GNR", "Organization"],
+["A GNR", "Organization"],
+["Gafanha da Nazaré", "Location"],
+["Guarda", "Organization"],
+["77 quilos de atum-rabilho", "Object"],
+["313 quilos de atum-rabilho", "Object"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"],
+["auto de contraordenação", "Object"],
+["pescado apreendido", "Object"],
+["instituição de solidariedade social", "Organization"]
+]
+
+Note:
+The input text is in Portuguese.
+The output should be in English.
+The classes used are the ones provided in the task description.
+The entities and classes should be in lowercase.
+The output should be a JSON-parseable list.
+The entities and classes should be separated by a comma.
+The output should not have any duplicates.

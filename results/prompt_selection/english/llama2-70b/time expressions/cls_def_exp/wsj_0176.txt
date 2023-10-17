@@ -1,0 +1,1 @@
+[["Crum & Forster", "ORGANIZATION"], ["Hugo", "PERSON"], ["California", "LOCATION"], ["$4 million", "MONEY"], ["$492 million", "MONEY"], ["$12.97 billion", "MONEY"]]

@@ -1,0 +1,9 @@
+[
+"year ended March 31",
+"10% of its common stock outstanding from time to time"
+]
+
+Explanation:
+
+* "year ended March 31" is a time expression because it describes a specific point in the past (March 31) and a duration of time (a year).
+* "10% of its common stock outstanding from time to time" is a time expression because it describes a duration of time (from time to time) and a frequency (10%).

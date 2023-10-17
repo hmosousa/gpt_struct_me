@@ -1,0 +1,48 @@
+[
+["Dois homens", "Person"],
+["de 22 e 33 anos", "Person"],
+["ficaram feridos", "Person"],
+["um deles com gravidade", "Person"],
+["na terça-feira à noite", "Location"],
+["na sequência de uma desordem", "Event"],
+["no Bairro do Casal dos Machados", "Location"],
+["em Lisboa", "Location"],
+["de acordo com a fonte", "Organization"],
+["a desordem", "Event"],
+["envolveu várias pessoas e armas de fogo", "Event"],
+["terá começado junto às bombas de gasolina da Avenida Infante D. Henrique", "Location"],
+["e terminou no Largo Maria Judite de Carvalho", "Location"],
+["no Casal dos Machados", "Location"],
+["na freguesia do Parque das Nações", "Location"],
+["Na sequência da desordem", "Event"],
+["um homem de 33 anos ficou ferido com gravidade", "Person"],
+["e foi transportado de ambulância ao Hospital de Santa Maria", "Event"],
+["O ferido ligeiro, de 22 anos", "Person"],
+["deslocou-se ao mesmo hospital pelos próprios meios", "Event"],
+["No local", "Location"],
+["segundo a PSP", "Organization"],
+["foi encontrado um cartucho de arma de fogo", "Object"],
+["Três viaturas ficaram danificadas devido também a disparos de arma de fogo", "Object"],
+["O alerta para a desordem foi dado às 21:49", "Event"]
+]
+
+Explanation:
+
+* "Dois homens" and "de 22 e 33 anos" are both classified as "Person" because they refer to individuals.
+* "ficaram feridos" is also classified as "Person" because it is a passive construction that implies the individuals were injured.
+* "um deles com gravidade" is classified as "Person" because it refers to one of the individuals who was injured.
+* "na terça-feira à noite" is classified as "Location" because it refers to a specific time and place.
+* "na sequência de uma desordem" is classified as "Event" because it refers to a specific occurrence.
+* "no Bairro do Casal dos Machados" and "em Lisboa" are both classified as "Location" because they refer to specific places.
+* "de acordo com a fonte" is classified as "Organization" because it refers to a specific source of information.
+* "a desordem" is classified as "Event" because it refers to a specific occurrence.
+* "envolveu várias pessoas e armas de fogo" is classified as "Event" because it refers to a specific occurrence that involved multiple people and weapons.
+* "terá começado junto às bombas de gasolina da Avenida Infante D. Henrique" is classified as "Location" because it refers to a specific place.
+* "e terminou no Largo Maria Judite de Carvalho" is classified as "Location" because it refers to a specific place.
+* "no Casal dos Machados" and "na freguesia do Parque das Nações" are both classified as "Location" because they refer to specific places.
+* "Na sequência da desordem" is classified as "Event" because it refers to a specific occurrence that happened after the previous event.
+* "um homem de 33 anos ficou ferido com gravidade" is classified as "Person" because it refers to an individual who was injured.
+* "e foi transportado de ambulância ao Hospital de Santa Maria" is classified as "Event" because it refers to a specific occurrence that happened after the previous event.
+* "O ferido ligeiro, de 22 anos" is classified as "Person" because it refers to an individual who was injured.
+* "deslocou-se ao mesmo hospital pelos próprios meios" is classified as "Event" because it refers to a specific occurrence that happened after the previous event.
+* "No local" is classified as "Location" because it refers to

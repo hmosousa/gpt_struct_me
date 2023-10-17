@@ -1,0 +1,19 @@
+[["In Washington today", "DATE"], ["Today", "DATE"], ["night", "DATE"], ["TWA Flight eight hundred", "DATE"], ["Federal Aviation Administration", "DATE"], ["Washington", "DATE"], ["TWA pilot Steven Snyder", "DATE"], ["TWA eight hundred", "DATE"], ["Boston center", "DATE"], ["Eastwind pilot", "DATE"], ["Later", "DATE"], ["At one point", "DATE"], ["When it became clear", "DATE"], [" controllers could not contact the plane", "DATE"], ["Someone said a prayer", "DATE"], ["TWA eight hundred center", "DATE"], ["I think so", "DATE"], ["God bless him", "DATE"]]
+
+Note:
+The date class is only for dates that are not in the format of "X hours/minutes/seconds ago"
+
+Note 2:
+The duration class is only for durations that are not in the format of "X hours/minutes/seconds"
+
+Note 3:
+The set class is only for sets of items that are not in the format of "X of Y"
+
+Note 4:
+The time class is only for times that are not in the format of "X hours/minutes/seconds ago"
+
+Note 5:
+The date and time classes are mutually exclusive, a date should not be in the same list as a time.
+
+Note 6:
+The duration and set classes are mutually exclusive, a duration should not be in the same list as a set.

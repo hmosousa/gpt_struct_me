@@ -1,0 +1,10 @@
+[
+  ["Total Assets Protection Inc.", "State"],
+  ["Total Assets Protection Inc.", "Occurrence"],
+  ["Total Assets Protection Inc.", "Reporting"],
+  ["Total Assets Protection Inc.", "Perception"],
+  ["Total Assets Protection Inc.", "Aspectual"],
+  ["Total Assets Protection Inc.", "Intensional Action"],
+  ["Total Assets Protection Inc.", "Intensional State"]
+]
+

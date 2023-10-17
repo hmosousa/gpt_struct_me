@@ -1,0 +1,14 @@
+[["um jovem de 14 anos", "Per"], ["futuro grave", "Other"], ["ter sido atropelado por um autocarro", "Other"], ["na Vila das Aves", "Loc"], ["concelho de Santo Tirso", "Loc"], ["dizia à Lusa fonte da Proteção Civil", "Org"], ["o jovem", "Per"], ["ter sido assistido no local", "Other"], ["foi transportado pelos Bombeiros", "Org"], ["para o Hospital São João", "Loc"], ["no Porto", "Loc"], ["acrescentou a fonte", "Org"], ["o acidente ocorreu pela 18:16", "Other"], ["na Rua Luís Gonzaga Mendes de Carvalho", "Loc"], ["prestar assistência", "Org"], ["além dos Bombeiros da Vila das Aves", "Org"], ["esteve", "Other"], ["a Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Org"], ["a Ambulância de Suporte Imediato de Vida de Santo Tirso", "Org"], ["e a GNR local", "Org"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, including people, organizations, locations, and objects.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

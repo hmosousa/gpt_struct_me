@@ -1,1 +1,0 @@
-[["GNR", "State"], ["dois homens", "Occurrence"], ["tráfico de droga", "Reporting"], ["Sines", "Perception"], ["deteve", "Aspectual"], ["apreendido", "Intensional Action"], ["detenção", "Intensional State"]]

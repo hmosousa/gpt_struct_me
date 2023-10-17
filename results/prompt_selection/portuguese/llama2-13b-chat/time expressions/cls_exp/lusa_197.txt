@@ -1,0 +1,4 @@
+[["derrubou", "Action"], ["poste de iluminação", "Noun"], ["na Rua da Constituição", "Location"], ["no Porto", "Location"], ["hoje", "Time"], ["acidente", "Event"], ["com um camião", "Prepositional Phrase"], ["atinguindo o homem", "Action"], ["que circulava na rua", "Prepositional Phrase"], ["e acabou por morrer", "Action"], ["A estrutura atingiu ainda", "Action"], ["o funcionário de bombas de gasolina", "Noun"], ["que sofreu ferimentos ligeiros", "Noun"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

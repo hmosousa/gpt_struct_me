@@ -1,0 +1,28 @@
+[
+"air traffic control tapes",
+"TWA Flight eight hundred",
+"exploded",
+"moment",
+"ABC's Lisa Stark",
+"last conversation",
+"TWA pilot Steven Snyder",
+"climb maintain one five thousand",
+"heavy climb",
+"leavin- three thousand",
+"explanation",
+"nearby flight",
+"explosion",
+"sixteen thousand feet",
+"big small",
+"smoke",
+"controllers",
+"contact",
+"prayer",
+"God bless him",
+"Lisa Stark",
+"ABC news",
+"Washington"
+]
+
+Note:
+The output is a list of all the event triggers in the input text. An event trigger is a word or phrase that indicates an event or action is happening or has happened. In this case, the event triggers are the words and phrases that indicate specific events or actions, such as "exploded", "moment", "last conversation", "climb", "leavin-", "explosion", "sixteen thousand feet", "big small", "smoke", "controllers", "contact", "prayer", and "God bless him". These words and phrases are used to identify the specific events or actions that are taking place in the input text.

@@ -1,0 +1,30 @@
+[["um homem", "Per"], ["34 anos", "Other"], ["funcionário", "Per"], ["Transportadora J Amaral", "Org"], ["Estarreja", "Loc"], ["um camião", "Fac"], ["a cisterna", "Fac"], ["desaparecido", "Other"], ["sábado", "Loc"], ["Joaquim Rebelo", "Per"], ["Bombeiros de Estarreja", "Org"], ["a cisterna", "Fac"], ["aberta", "Other"], ["a Delegada de Saúde", "Per"], ["a Polícia Judiciária", "Org"], ["a ocorrência", "Other"], ["a Viatura Médica de Emergência e Reanimação de Aveiro", "Org"], ["o transporte", "Other"], ["o cadáver", "Per"], ["o Hospital Infante D. Pedro", "Fac"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The task is to extract and classify all participants in the given text. The output should be in the format of a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+The classes are:
+
+* Person (Per)
+* Organization (Org)
+* Object (Obj)
+* Location (Loc)
+* Nature (Nat)
+* Facility (Fac)
+* Other (Other)
+
+Note that some entities may belong to more than one class. For example, a hospital may be both a facility (Fac) and a location (Loc). In such cases, the entity should be listed multiple times, once for each relevant class.
+
+The input text is given in Portuguese, and the task is to extract and classify all participants in the text, regardless of their language. The output should also be in Portuguese.
+
+The input text is:
+"Homem encontrado morto em cisterna de camião em Estarreja
+Um homem de 34 anos, funcionário da Transportadora J Amaral, em Estarreja, foi hoje encontrado morto no interior da cisterna de um camião, disse à Lusa fonte da GNR de Aveiro.
+O alerta foi dado pelas 09:56 e o homem, que alegadamente estaria a fazer a manutenção da cisterna, encontrava-se desaparecido desde sábado, acrescentou à Lusa o comandante dos Bombeiros de Estarreja, Joaquim Rebelo.
+A cisterna onde o funcionário da transportadora estava a trabalhar encontrava-se aberta, acrescentou o graduado, que não conseguiu determinar a causa da morte.
+Ainda segundo a fonte da GNR compareceu no local a Delegada de Saúde e a Polícia Judiciária, que tomou conta da ocorrência.
+No local esteve também a Viatura Médica de Emergência e Reanimação de Aveiro, que fez o transporte do cadáver para o Hospital Infante D. Pedro, acrescentou a fonte dos bombeiros."
+
+The expected output is a JSON-parseable list with the extracted and classified participants, in the format specified above.

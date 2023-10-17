@@ -1,0 +1,20 @@
+
+[
+"next Thursday",
+"yesterday",
+"last week",
+"three days later",
+"the day before",
+"the 1980s",
+"the 1987 crash",
+"this month",
+"the past",
+"the future",
+"the 1980s",
+"the 1987 crash",
+"this month",
+"the past",
+"the future"
+]
+
+Note: All time expressions are in lowercase, as they are not proper nouns.

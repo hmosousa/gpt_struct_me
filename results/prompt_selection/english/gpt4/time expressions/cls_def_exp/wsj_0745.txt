@@ -1,0 +1,1 @@
+[["last week", "DATE"], ["yesterday", "DATE"], ["Tuesday", "DATE"], ["yesterday", "DATE"], ["Dec. 31, 1990", "DATE"], ["the next 14 months", "DURATION"], ["1984", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"]]

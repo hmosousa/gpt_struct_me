@@ -1,0 +1,4 @@
+	["Mulher atropelada", "durante protesto", "de mariscadores", "na Murtosa", "distrito de Aveiro", "Hoje", "ao cais", "Torreira", "Caso", "ocorreu", "12:50", "Longo", "Cais", "Tentaram", "evitar", "que", "saísse", "de lá", "incendiou-se", "um bocadinho", "O senhor", "forçou", "a saída", "com a viatura", "atropelando", "uma senhora", "Ferimentos", "ligheiros", "Transportou", "para", "Hospital", "de Aveiro", "GNR", "Referiu", "que", "O condutor", "se colocou", "em fuga", "Mas", "Já", "foi", "identificado", "Mariscadores", "Torreira", "Protesto", "Há", "Mes", "Devido", "Do", "Facto", "De", "Não", "Poderem", "Trabalhar", "Percentagens", "Excessivas", "Aguas", "Ria", "Aveiro"]
+
+Format:
+JSON-parseable list of strings.

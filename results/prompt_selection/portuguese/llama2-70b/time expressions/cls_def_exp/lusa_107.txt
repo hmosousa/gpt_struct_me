@@ -1,0 +1,1 @@
+[["Mulher", "Set"], ["44 anos", "Duration"], ["hoje", "Date"], ["dezenas", "Set"], ["12:50", "Time"], ["Torreira", "Location"], ["homem", "Set"], ["bivalves", "Set"], ["situação", "Set"], ["senhor", "Set"], ["viatura", "Set"], ["senhora", "Set"], ["ferimentos ligeiros", "Set"], ["Hospital de Aveiro", "Location"], ["fuga", "Set"], ["semana", "Duration"]]

@@ -1,0 +1,15 @@
+[["Washington", "LOCATION"], ["today", "DATE"], ["last conversation", "EVENT"], ["a minute and a half later", "DURATION"], ["explosion", "EVENT"], ["sixteen thousand feet", "LENGTH"], ["just went down", "EVENT"], ["TWA eight hundred", "ENTITY"], ["center", "ENTITY"], ["ident", "EVENT"], ["no response", "EVENT"], ["Eastwind pilot", "ENTITY"], ["two fireballs", "EVENT"], ["big small", "ADJECTIVE"], ["smoke", "NOUN"], ["coming up", "VERB"], [" controllers could not contact the plane", "EVENT"], ["prayer", "EVENT"], ["TWA eight hundred center", "ENTITY"], ["I think so", "THINKING"], ["God bless him", "THINKING"], ["Lisa Stark", "ENTITY"], ["ABC news", "ORGANIZATION"], ["Washington", "LOCATION"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first is the entity (e.g. "TWA eight hundred") and the second is the class (e.g. "ENTITY"). The classes are:
+
+* DATE: represents a date or time period
+* DURATION: represents a duration or amount of time
+* EVENT: represents an event or happening
+* LENGTH: represents a length or distance
+* LOCATION: represents a location or place
+* THINKING: represents a thought or opinion
+* NOUN: represents a noun or object
+* VERB: represents a verb or action
+
+Your task is to extract and classify all time expressions in the input text. The time expressions can be in the form of dates, durations, or times of day. You should output a list of tuples, where each tuple contains two strings: the first is the entity (e.g. "Thursday") and the second is the class (e.g. "DATE").

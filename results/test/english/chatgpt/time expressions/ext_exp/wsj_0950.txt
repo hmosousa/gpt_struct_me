@@ -1,0 +1,1 @@
+["third quarter", "this morning", "yesterday", "nine months", "third quarter", "nine months", "nine months"]

@@ -1,0 +1,5 @@
+["in December", "in December", "at closing", "in December", "in December"]
+Explanation:
+* "in December" appears twice, indicating two separate time expressions.
+* "at closing" is a time expression indicating a specific point in time.
+* The other three instances of "in December" are also time expressions, indicating a time period.

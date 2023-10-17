@@ -1,0 +1,1 @@
+[["raised", "OCCURRENCE"], ["said", "REPORTING"], ["prepared", "I_STATE"], ["identified", "STATE"], ["said", "REPORTING"], ["remains", "STATE"], ["were", "STATE"], ["acceptances", "STATE"], ["scheduled", "STATE"], ["raises", "OCCURRENCE"], ["derived", "OCCURRENCE"]]

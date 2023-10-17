@@ -1,0 +1,19 @@
+["Homem morto a tiro no Barreiro", "atirador em fuga", "Um homem", "morto", "a tiro", "no Barreiro", "baleado", "com dois tiros", "de caçadeira", "o atirador", "em fuga", "dizia", "à agência Lusa", "fonte", "da Direção Nacional", "da Polícia de Segurança Pública", "PSP", "a mesma", "indicou", "que", "o incidente", "ocorreu", "às 20:20", "de hoje", "não", "adiantando", "mais", "informações", "sobre", "as circunstâncias", "do tiroteio", "Disse", "que", "tratando-se", "de um", "suspeita", "de homicídio", "envolvendo", "armas de fogo", "a ocorrência", "está", "a ser", "acompanhada", "pela Polícia Judiciária”, "responsável", "pelo investigação", "do caso."]
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+["Homem morto a tiro no Barreiro", "atirador em fuga", "Um homem", "morto", "a tiro", "no Barreiro", "baleado", "com dois tiros", "de caçadeira", "o atirador", "em fuga", "dizia", "à agência Lusa", "fonte", "da Direção Nacional", "da Polícia de Segurança Pública", "PSP", "a mesma", "indicou", "que", "o incidente", "ocorreu", "às 20:20", "de hoje", "não", "adiantando", "mais", "informações", "sobre", "as circunstâncias", "do tiroteio", "Disse", "que", "tratando-se", "de um", "suspeita", "de homicídio", "envolvendo", "armas de fogo", "a ocorrência", "está", "a ser", "acompanhada", "pela Polícia Judiciária”, "responsável", "pelo investigação", "do caso."]
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+["Homem morto a tiro no Barreiro", "atirador em fuga", "Um homem", "morto", "a tiro", "no Barreiro", "baleado

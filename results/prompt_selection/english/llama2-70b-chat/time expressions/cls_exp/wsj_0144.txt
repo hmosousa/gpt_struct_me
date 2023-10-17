@@ -1,0 +1,8 @@
+[["Travelers Corp.", "DATE"], ["third-quarter", "DATE"], ["Hurricane Hugo", "DATE"], ["$40 million", "AMOUNT"], ["$94.2 million", "AMOUNT"], ["$31 million", "AMOUNT"], ["$3 billion", "AMOUNT"], ["$10 million", "AMOUNT"], ["less than $10 million", "AMOUNT"], ["$7.2 million", "AMOUNT"], ["$6.1 million", "AMOUNT"], ["$24 million", "AMOUNT"], ["$3 million", "AMOUNT"], ["$415 million", "AMOUNT"], ["1988", "DATE"], ["1988 second quarter", "DATE"]]
+
+Note:
+The date class is used for any date that is not a specific time.
+The time class is used for any specific time of day.
+The duration class is used for any amount of time that is not a specific time of day.
+The amount class is used for any monetary value.
+The set class is used for any group of items that are related by a common characteristic.

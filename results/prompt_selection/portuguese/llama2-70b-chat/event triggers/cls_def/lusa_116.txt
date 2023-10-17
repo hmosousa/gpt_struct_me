@@ -1,0 +1,21 @@
+[
+["Jovem de 14 anos", "State"],
+["ficou", "Aspectual"],
+["atropelado", "Occurrence"],
+["por um autocarro", "Reporting"],
+["na Vila das Aves", "Location"],
+["concelho de Santo Tirso", "Location"],
+["hoje", "Intensional State"],
+["pelo Hospital São João", "Location"],
+["no Porto", "Location"],
+["18:16", "Time"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
+["prestar assistência", "Intensional Action"],
+["Bombeiros da Vila das Aves", "Agent"],
+["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Agent"],
+["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Agent"],
+["GNR local", "Agent"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classcan be one of the following: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, or Intensional State. The entity can be a person, place, object, or event, and the class describes the role or function of that entity in the sentence.

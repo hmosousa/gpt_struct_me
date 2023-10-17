@@ -1,0 +1,20 @@
+["preso", "preventivamente", "Penafiel", "obrigar", "companheira", "prostituir-se", "juiz", "instrução", "ordenou", "prisão", "preventiva", "homem", "47", "anos", "idade", "Ministério", "Público", "Penafiel", "indiciou", "obrigar", "mulher", "vivia", "comunhão", "de", "vida", "só", "com", "arguido", "sujeitava", "exploração", "via", "pública", "ficando", "proveitos", "obtidos", "desse", "prática", "sendo", "submetida", "fugiu", "algumas", "situada", "suspeito", "obrigada", "convencida", "voltar", "junto", "promessa", "receber", "produto", "estupefaciente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indicou", "prática", "tráfico", "de", "pessoas", "exploração", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial e a vida de pessoas em todo o mundo, segundo a Organização Mundial da Saúde (OMS).
+A OMS informou hoje que, em 18 de março, 100 milhões de pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS também informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000 pessoas estavam em quarentena em todo o mundo, em resposta à pandemia de covid-19.
+A OMS informou que, em 18 de março, 160.000

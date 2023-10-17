@@ -1,0 +1,11 @@
+[["General Motors Corp.", "ENTITY"], ["U.S. antitrust clearance", "DATE"], ["Jaguar PLC", "ENTITY"], ["15%", "DURATION"], ["Ford Motor Co.", "ENTITY"], ["Tuesday", "DATE"], ["Dec. 31, 1990", "DATE"], ["British Petroleum Co.", "ENTITY"], ["Britoil PLC", "ENTITY"], ["10 House of Commons members", "SET"], ["2 House of Lords members", "SET"], ["Roger Smith", "PERSON"], ["Margaret Thatcher", "PERSON"]]
+
+
+Note:
+
+* The input text is a news article about General Motors Corp. (GM) seeking to acquire a significant stake in Jaguar PLC, and the possible implications of this move for Ford Motor Co. (Ford).
+* The article mentions various dates and times, including the date of the article (March 6, 1998) and the time of day (13:19:00).
+* The entities mentioned in the article include General Motors Corp., Jaguar PLC, Ford Motor Co., and British Petroleum Co. (BP).
+* The article also mentions various political figures, including Prime Minister Margaret Thatcher and Jaguar Chairman Sir John Egan.
+* The article includes several time expressions, including "next week", "over a week", "in late trading", and "on Dec. 31, 1990".
+* The article also includes several classifications, including "ENTITY", "DATE", "SET", and "PERSON".

@@ -1,0 +1,34 @@
+[["Pulseira", "State"], ["eletrônica", "State"], ["homem", "State"], ["detido", "Occurrence"], ["Penafiel", "State"], ["suspeito", "State"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["ex-companheira", "State"], ["GNR", "State"], ["comunicado", "Reporting"], ["suspeito", "State"], ["não aceitou", "Intensional State"], ["perseguiu", "Occurrence"], ["residência", "State"], ["local de trabalho", "State"], ["botão de pânico", "State"], ["proibido", "State"], ["contactar", "Intensional Action"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.
+
+Note:
+It's not necessary to understand the meaning of the text, just to extract and classify the event triggers.
+
+The event triggers are:
+
+* Pulseira eletrônica
+* Homem detido
+* Violência física
+* Injúrias
+* Ameaças de morte
+* Separação
+* Perseguição
+* Residência
+* Local de trabalho
+* Botão de pânico
+* Proibição de contactar
+
+The classes are:
+
+* State
+* Occurrence
+* Reporting
+* Intensional Action
+* Intensional State
+* Aspectual
+
+Please provide the output in the format specified above.

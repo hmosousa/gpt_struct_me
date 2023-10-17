@@ -1,0 +1,1 @@
+[["Washington", "LOCATION"], ["today", "DATE"], ["night", "TIME"], ["plane", "VEHICLE"], ["Steven Snyder", "PERSON"], ["minute", "DURATION"], ["sixteen thousand feet", "DISTANCE"], ["two fireballs", "SET"], ["water", "LOCATION"]]

@@ -1,0 +1,8 @@
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* "GNR" is a participant, but it is not included in the list.
+* The list only includes participants that are mentioned in the text, and does not include participants that are implied or inferred.
+* The list is in the format of a JSON-parseable list of strings.

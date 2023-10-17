@@ -1,0 +1,7 @@
+[["2017", "Time"], ["2017", "Time"], ["atualidade", "Time"], ["algumas vezes", "Duration"], ["setembro", "Time"], ["final do ano", "Time"]]
+
+Note:
+The input text is in Portuguese.
+
+Note:
+The output format is a JSON-parseable list.

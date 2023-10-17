@@ -1,0 +1,5 @@
+["Aug. 9", "12 Canadian cents a share", "C$2.3 million", "C$348.2 million", "C$307.2 million", "fiscal-first quarter", "Sept. 30"]
+
+Format:
+JSON-parseable list of strings.
+

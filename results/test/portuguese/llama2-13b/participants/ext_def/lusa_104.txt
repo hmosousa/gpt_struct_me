@@ -1,0 +1,23 @@
+["Três mortos em ataque de hipopótamo durante travessia de rio na província angolana do Bié", "Três pessoas morreram no município de Camacupa, província angolana do Bié, na sequência de um ataque de um hipopótamo, noticiou hoje a rádio pública.", "O incidente registou-se no momento da travessia do rio Kwanza, quando a embarcação artesanal, com oito pessoas a bordo, sofreu o ataque daquele mamífero.", "Segundo um dos sobreviventes, o ataque deu-se ao princípio da noite de domingo, quando os camponeses saíram das lavras, salientando que entre os mortos encontra-se uma criança cujo corpo se encontra desaparecido.", "O administrador comunal da Muinha, Baptista Sambango, disse que o incidente foi dado a conhecer ao administrador municipal, frisando que pela dimensão do rio é necessário que se construa uma ponte para a travessia da população."]
+
+Explanation:
+The participants in this text are the individuals, groups, or organizations involved in or affected by the events described. They can be identified by their actions, roles, or relationships to other entities in the text.
+
+Example:
+"Três mortos em ataque de hipopótamo durante travessia de rio na província angolana do Bié
+Três pessoas morreram no município de Camacupa, província angolana do Bié, na sequência de um ataque de um hipopótamo, noticiou hoje a rádio pública.
+O incidente registou-se no momento da travessia do rio Kwanza, quando a embarcação artesanal, com oito pessoas a bordo, sofreu o ataque daquele mamífero.
+Segundo um dos sobreviventes, o ataque deu-se ao princípio da noite de domingo, quando os camponeses saíram das lavras, salientando que entre os mortos encontra-se uma criança cujo corpo se encontra desaparecido.
+O administrador comunal da Muinha, Baptista Sambango, disse que o incidente foi dado a conhecer ao administrador municipal, frisando que pela dimensão do rio é necessário que se construa uma ponte para a travessia da população."
+
+Output:
+["Três mortos em ataque de hipopótamo durante travessia de rio na província angolana do Bié", "Três pessoas morreram no município de Camacupa, província angolana do Bié, na sequência de um ataque de um hipopótamo, noticiou hoje a rádio pública.", "O incidente registou-se no momento da travessia do rio Kwanza, quando a embarcação artesanal, com oito pessoas a bordo, sofreu o ataque daquele mamífero.", "Segundo um dos sobreviventes, o ataque deu-se ao princípio da noite de domingo, quando os camponeses saíram das lavras, salientando que entre os mortos encontra-se uma criança cujo corpo se encontra desaparecido.", "O administrador comunal da Muinha, Baptista Sambango, disse que o incidente foi dado a conhecer ao administrador municipal, frisando que pela dimensão do rio é necessário que se construa uma ponte para a travessia da população."]
+
+Hints:
+- Participants can be identified by their actions, roles, or relationships to other entities in the text.
+- Participants can be explicitly mentioned or inferred from the context.
+- Participants can take on a variety of roles, such as actors, agents, patients, victims, or observers.
+- Participants can be identified based on their relevance and significance to the situation.
+- Participants can be identified based on their actions and interactions.
+- Participants can be identified based on their relationships to other entities in the text.
+- Participants can be identified based

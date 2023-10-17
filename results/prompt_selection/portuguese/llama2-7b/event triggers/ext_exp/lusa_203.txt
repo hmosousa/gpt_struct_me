@@ -1,0 +1,29 @@
+["mata", "sete", "pessoas", "fere", "sete", "com", "facas", "nordeste", "China", "least", "seven", "people", "killed", "others", "seven", "injured", "attack", "door", "sauna", "spa", "suspect", "identified", "media", "Yang", "detained", "motive", "unknown", "Chinese", "law", "prohibits", "sale", "possession", "firearms", "mass", "attacks", "usually", "knives", "explosives", "case", "homes", "authors", "similar", "past", "described", "mentally", "ill", "society", "previously", "injured", "39", "children", "park", "Guangxi", "June", "2018", "man", "killed", "others", "injured", "knife", "attack", "center", "Beijing"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena na China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena, numa medida que se estendeu para mais de 100 cidades.
+A medida foi tomada para evitar a propagação do novo coronavírus, que já matou mais de 1.000 pessoas na China.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1.018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada após a China anunciar que o número de casos de covid-19 havia aumentado para 42.638, com 1018 mortes.
+A China também anunciou que 1.287 pessoas estavam em estado grave.
+A China já havia fechado 56 cidades e 50 milhões de pessoas estavam em quarentena.
+A medida foi tomada

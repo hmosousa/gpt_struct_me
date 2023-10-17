@@ -1,0 +1,20 @@
+[
+["expects to report", "Intensional Action"],
+["sale", "Occurrence"],
+["agreed to sell", "Intensional Action"],
+["charge", "State"],
+["offset", "Occurrence"],
+["gain", "State"],
+["sell", "Intensional Action"],
+["earned", "Occurrence"],
+["sale", "Occurrence"],
+["Revenue", "State"],
+["continues to explore", "Intensional Action"],
+["sale", "Occurrence"],
+["subject to audit adjustments", "State"],
+["provides for potential payments", "Intensional Action"],
+["depending on the plant's shipping levels", "State"],
+["produces", "Occurrence"],
+["had sales", "Occurrence"],
+["operating loss", "State"]
+]

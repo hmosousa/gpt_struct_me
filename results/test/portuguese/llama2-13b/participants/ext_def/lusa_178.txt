@@ -1,0 +1,1 @@
+["Homem de 61 anos", "Marvão", "Portalegre", "Estrada Municipal 524", "Proteção Civil", "GNR", "VMER", "hospital de Portalegre", "Beirã", "Bica", "Medicina Legal", "bombeiros", "corporação de Marvão", "GNR", "VMER", "hospital de Portalegre", "Beirã", "Bica", "Medicina Legal", "bombeiros", "corporação de Marvão"]

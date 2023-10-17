@@ -1,0 +1,18 @@
+[
+"incêndio",
+"mortos",
+"estado crítico",
+"Hong Kong",
+"vítimas",
+"homens",
+"mulheres",
+"criança",
+"hospitalizados",
+"estado grave",
+"reunião familiar",
+"restaurante sem licença",
+"nepalesa",
+"bombeiros",
+"medidas de segurança",
+"janela da casa de banho"
+]

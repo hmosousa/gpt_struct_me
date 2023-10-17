@@ -1,0 +1,10 @@
+[
+  ["Corpo de homem", "Occurrence"],
+  ["Corpo de homem", "State"],
+  ["Corpo de homem", "Reporting"],
+  ["Corpo de homem", "Perception"],
+  ["Corpo de homem", "Aspectual"],
+  ["Corpo de homem", "Intensional Action"],
+  ["Corpo de homem", "Intensional State"]
+]
+

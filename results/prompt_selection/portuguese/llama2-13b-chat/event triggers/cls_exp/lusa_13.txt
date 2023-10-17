@@ -1,0 +1,20 @@
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["aprender", "Reporting"], ["realizaram", "I_Action"], ["hoje", "Aspectual"], ["apartamento", "Location"], ["de", "Preposition"], ["Maximiliano Trimarchi", "Entity"], ["motorista", "Entity"], ["de", "Preposition"], ["Diego Maradona", "Entity"], ["ocorrida", "Occurrence"], ["em", "Preposition"], ["25 de novembro", "Date"], ["em", "Preposition"], ["San André", "Location"], ["na", "Preposition"], ["provincia", "Location"], ["de", "Preposition"], ["Buenos Aires", "Location"], ["a", "Preposition"], ["polícia", "Entity"], ["já", "Adverb"], ["realizou", "I_Action"], ["perícias", "Occurrence"], ["aos", "Preposition"], ["telemóveis", "Entity"], ["de", "Preposition"], ["Leopoldo Luque", "Entity"], ["médico", "Entity"], ["de", "Preposition"], ["Maradona", "Entity"], ["participou", "I_Action"], ["na", "Preposition"], ["operação", "Occurrence"], ["a", "Preposition"], ["um", "Determiner"], ["hematoma", "Entity"], ["subdural", "Entity"], ["a", "Preposition"], ["início", "Date"], ["de", "Preposition"], ["novembro", "Month"], ["dois", "Determiner"], ["dias", "Duration"], ["após", "Preposition"], ["a", "Preposition"], ["morte", "Occurrence"], ["de", "Preposition"], ["Maradona", "Entity"], ["abriu", "I_Action"], ["inquérito", "Occurrence"], ["para", "Preposition"], ["determinar", "I_Action"], ["se", "Pronoun"], ["houve", "Occurrence"], ["negligência", "Entity"], ["médica", "Entity"], ["na", "Preposition"], ["assistência", "Occurrence"], ["ao", "Preposition"], ["antigo", "Adjective"], ["futebolista", "Entity"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Maximiliano Trimarchi") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions and events
+* Occurrence: events and happenings
+* Reporting: reporting and mentioning
+* Aspectual: aspects and features
+* Intensional Action: intentional actions
+* Intensional State: intentional states
+* Location: locations and places
+* Date: dates and times
+* Month: months
+* Duration: durations and periods of time
+* Preposition: prepositions and phrases
+* Determiner: determiners and quantifiers
+* Entity: entities and objects
+
+The input text is a news article about the investigation into the death of Diego Maradona, and the output is a list of tuples, where each tuple contains the entity and the class of the entity in the input text.

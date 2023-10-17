@@ -1,0 +1,38 @@
+[["GNR", "Org"], ["Aveiro", "Loc"], ["390 quilogramas", "Other"], ["atum-rabilho", "Other"], ["cuja", "Other"], ["captura", "Other"], ["interdita", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["porto", "Fac"], ["pesca costeira", "Fac"], ["Gafanha da Nazaré", "Loc"], ["A", "Other"], ["ação", "Other"], ["fiscalização", "Other"], ["controle", "Other"], ["cumprimento", "Other"], ["regras", "Other"], ["descarga", "Other"], ["transporte", "Other"], ["comercialização", "Other"], ["regime", "Other"], ["primeira venda", "Other"], ["pescado fresco", "Other"], ["militares", "Org"], ["veículo", "Other"], ["77 quilos", "Other"], ["embarcação", "Fac"], ["313 quilos", "Other"], ["mestre", "Per"], ["condutor", "Per"], ["auto de contraordenação", "Other"], ["facto", "Other"], ["transporte", "Other"], ["captura", "Other"], ["espécie", "Other"], ["infração", "Other"], ["coima", "Other"], ["37.500 euros", "Other"], ["pescado", "Other"], ["apreendido", "Other"], ["controle higiossanitário", "Other"], ["próprio", "Other"], ["consumo", "Other"], ["instituição", "Org"], ["solidariedade social", "Other"]]
+
+Note:
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note that the task is not to identify the relationships between entities, but rather to classify each entity independently. For example, in the first input, "o Ministério do Interior" is classified as an organization, and "a Geórgia" is classified as a location.
+
+Also, note that the task is not to extract all possible entities from the text, but rather to classify the entities that are mentioned as participants in the text. For example, in the first input, "a televisão" is not classified as a participant, since it is not mentioned as a participant in the text.
+
+The classes used in the output are:
+
+* Per: Person
+* Org: Organization
+* Obj: Object
+* Loc: Location
+* Nature: Nature
+* Fac: Facility
+* Other: Other
+
+The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class. For example:
+
+[
+["John Doe", "Per"],
+["Acme Inc.", "Org"],
+["the sun", "Nature"],
+["the moon", "Nature"],
+["the earth", "Loc"],
+["a tree", "Obj"],
+["a bird", "Per"],
+["a car", "Obj"],
+["a house", "Fac"],
+["a book", "Obj"],
+["a pen", "Obj"]
+]
+
+The input and output files are in the format of plain text. The input file contains the text to be processed, and the output file contains the classified entities.
+
+The task is to write a program that takes the input file as input and produces the output file as output. The program should be written in Python.

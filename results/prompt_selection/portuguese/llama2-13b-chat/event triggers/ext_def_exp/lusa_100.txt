@@ -1,0 +1,4 @@
+[ "colocado", "suspeito", "violência", "injúrias", "ameaças", "morte", "ex-companheira", "informou", "fonte", "GNR", "perseguir", "residência", "trabalho", "botão", "pânico", "teleassistência", "proibido", "contactar" ]
+
+Note:
+The output should be a list of strings, where each string represents a single event trigger. The events are extracted based on the given definition and the input text. The output should be in JSON-parseable format.

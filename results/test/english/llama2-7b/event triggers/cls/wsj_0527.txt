@@ -1,0 +1,10 @@
+[
+  ["Crossland Savings Bank", "State"],
+  ["Crossland Savings Bank", "Occurrence"],
+  ["Crossland Savings Bank", "Reporting"],
+  ["Crossland Savings Bank", "Perception"],
+  ["Crossland Savings Bank", "Aspectual"],
+  ["Crossland Savings Bank", "Intensional Action"],
+  ["Crossland Savings Bank", "Intensional State"]
+]
+

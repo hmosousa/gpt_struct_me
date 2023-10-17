@@ -1,0 +1,5 @@
+
+[["Thursday", "DATE"], ["Friday", "DATE"], ["Tuesday", "DATE"], ["1984", "DATE"], ["1990", "DATE"], ["1988", "DATE"], ["nearly two months", "DURATION"], ["10-hour", "DURATION"], ["over a week", "DURATION"], ["daily", "SET"], ["13:19:00", "TIME"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

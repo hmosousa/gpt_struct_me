@@ -1,0 +1,3 @@
+	["encontrado", "corpo", "homem", "zona", "rochosa", "costa", "Terceira", "desconhecendo-se", "causas", "morte", "anunciou", "Autoridade", "Marítima", "Comando-Local", "Polícia", "Marítima", "Angra", "Heroísmo", "piquete", "Polícia", "de", "saúde", "delegado", "transportado", "Hospital", "autopsiado", "apurar", "causas", "morte"]
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text.

@@ -1,0 +1,12 @@
+[
+"third-quarter",
+"year-ago period",
+"last year",
+"fourth quarter",
+"first two quarters of 1990",
+"coming quarters",
+"third quarter of 1990",
+"year-ago quarter",
+"fiscal second-quarter",
+"quarter ended Sept. 30"
+]

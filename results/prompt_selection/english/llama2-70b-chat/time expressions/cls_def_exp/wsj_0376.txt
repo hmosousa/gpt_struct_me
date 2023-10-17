@@ -1,0 +1,5 @@
+[["next year's first quarter", "DATE"], ["15 pence", "DURATION"], ["362 pence", "DATE"], ["#1.44 billion", "DATE"], ["March 31", "DATE"], ["5% to 10%", "DURATION"], ["last year", "DATE"], ["Thursday", "DATE"], ["Friday", "DATE"], ["#4 billion", "DATE"], ["#980 million", "DATE"], ["#50 million", "DATE"], ["#300 million", "DATE"], ["#400 million", "DATE"]]
+
+Please review the input and output and let me know if you have any questions.
+
+I'm ready when you are!

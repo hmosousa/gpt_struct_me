@@ -1,0 +1,20 @@
+["Dominion Textile Inc.", "State"], ["holders", "Occurrence"], ["adopted", "Reporting"], ["shareholder-rights plan", "Aspectual"], ["annual meeting", "Intensional State"], ["so-called poison pill", "Perception"], ["took effect", "Action"], ["Aug. 9", "State"], ["pending ratification", "Intensional Action"], ["holders", "Occurrence"], ["Rights", "State"], ["attached", "State"], ["company's common shares", "State"], ["were issued", "Reporting"], ["hostile bidder", "Occurrence"], ["acquires", "Action"], ["more than 20%", "State"], ["shares outstanding", "State"], ["Once triggered", "State"], ["the rights", "State"], ["allow holders", "State"], ["buy additional shares", "Action"], ["50%", "State"], ["then current market price", "State"], ["at the board's discretion", "State"], ["receive securities or assets", "Action"], ["Separately", "State"], ["Dominion Textile posted net income", "Reporting"], ["4.7 million Canadian dollars ($4 million)", "State"], ["12 Canadian cents a share", "State"], ["for the fiscal-first quarter ended Sept. 30", "State"], ["The company had a net loss of C$2.3 million, or 14 Canadian cents a share, a year ago.", "Reporting"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import defaultdict
+
+# Load the data from the file
+with open('data/events.json', 'r') as f:
+   events = json.load(f)
+
+# Initialize the dictionary to store the results
+results = {}
+
+# Loop through each sentence in the dataset
+for i, (sentence, gold) in enumerate(zip(events['sentences

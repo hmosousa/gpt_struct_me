@@ -1,1 +1,0 @@
-["Homem", "proprietário de um restaurante", "mulher", "pessoas", "bombeiros"]

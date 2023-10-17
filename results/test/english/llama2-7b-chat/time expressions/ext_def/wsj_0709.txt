@@ -1,0 +1,11 @@
+[
+"in mid-November",
+"second quarter",
+"December",
+"comparable year-ago quarter",
+"Oct. 31",
+"mid-November",
+"third quarter",
+"calendar year",
+"comparable year-ago quarter"
+]

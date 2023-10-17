@@ -1,0 +1,7 @@
+[
+"setembro de 2019",
+"2019"
+]
+
+Explanation:
+The task is to extract all time expressions from the given text. The output should be a JSON-parseable list of strings, where each string represents a time expression. In this case, there are two time expressions: "setembro de 2019" and "2019".

@@ -1,0 +1,9 @@
+[
+"Homem ferido com gravidade após cair de andaime",
+"Um homem de 60 anos ficou em estado grave após ter caído de um andaime",
+"O homem foi transportado em estado grave para o hospital de Braga",
+"O acidente de trabalho ocorreu numa obra de construção civil na freguesia de Ribeira",
+"O alerta foi dado cerca das 10:33",
+"Além da SIV, compareceram ao local dois operacionais e uma viatura dos bombeiros",
+"A Viatura de Emergência Médica (VMER) de Viana do Castelo e a GNR também compareceram ao local"
+]

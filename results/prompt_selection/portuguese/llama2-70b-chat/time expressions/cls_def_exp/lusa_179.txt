@@ -1,0 +1,15 @@
+[["2017", "Time"], ["atualidade", "Time"], ["algumas vezes", "Duration"], ["hoje", "Date"]]
+
+Note:
+The input text is in Portuguese.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The classes are:
+
+* Date: Representing a specific point in time, such as a date.
+* Time: Representing a time period, such as a year, month, week, day, hour, minute, or second.
+* Duration: Representing a period of time, such as "less than a week" or "several times".
+* Set: Representing a set of time, such as "last week" or "next month".

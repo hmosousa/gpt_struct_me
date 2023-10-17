@@ -1,0 +1,1 @@
+[["Thursday evening", "TIME"], ["around 7:15 p.m.", "TIME"], ["a few years ago", "DURATION"]]

@@ -1,0 +1,1 @@
+[["homem", "Person"], ["morto", "Time"], ["tir", "Duration"], ["Barreiro", "Location"], ["20:20", "Time"], ["incidento", "Set"], ["PSP", "Organization"]]

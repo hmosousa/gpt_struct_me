@@ -1,0 +1,32 @@
+
+[
+  {
+    "entity": "General Motors Corp.",
+    "class": "State"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Perception"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "General Motors Corp.",
+    "class": "Intensional State"
+  }
+]
+

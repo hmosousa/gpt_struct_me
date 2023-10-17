@@ -1,0 +1,2 @@
+
+["bid", "said", "offer", "value", "accepted", "give", "controlling", "considering", "merger", "fund", "takeover", "restructuring", "addition", "further", "seek", "making", "public", "share", "offering"]

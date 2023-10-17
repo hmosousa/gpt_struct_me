@@ -1,0 +1,6 @@
+[["Trustcorp Inc.", "ORGANIZATION"], ["Society Bank amp Trust", "ORGANIZATION"], ["June", "DATE"], ["year end", "DATE"], ["12.4 million", "QUANTITY"], ["$450 million", "QUANTITY"]]
+
+Note:
+The output format is a JSON-parseable list.
+
+Please provide your solution in a JSON-parseable list.

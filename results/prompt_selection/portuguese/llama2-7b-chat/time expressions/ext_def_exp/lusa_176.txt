@@ -1,0 +1,16 @@
+["em Setúbal", "Setúbal", "Estrada Nacional 10-8", "Mitrena", "06:55", "Palmela", "Sapadores", "PSP", "Lusa", "Hospital de São Bernardo", "VMER"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression. The time expressions are:
+* "em Setúbal" (meaning "in Setúbal")
+* "Setúbal" (the name of the location where the event occurred)
+* "Estrada Nacional 10-8" (the name of the road where the event occurred)
+* "Mitrena" (the location where the event occurred)
+* "06:55" (the time at which the alert was given)
+* "Palmela" (the location of one of the corporations involved in the response)
+* "Sapadores" (the location of one of the corporations involved in the response)
+* "PSP" (the name of the police force involved in the response)
+* "Lusa" (the name of the news agency involved in the report)
+* "Hospital de São Bernardo" (the name of the hospital where the body was taken for medical examination)
+* "VMER" (the name of the medical emergency and resuscitation vehicle involved in the response)

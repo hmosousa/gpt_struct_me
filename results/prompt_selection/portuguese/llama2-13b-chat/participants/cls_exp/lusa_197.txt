@@ -1,0 +1,9 @@
+[["um homem de 52 anos", "Per"], ["um outro", "Per"], ["sofreu ferimentos ligeiros", "Per"], ["o poste de iluminação", "Obj"], ["a Rua da Constituição", "Loc"], ["no Porto", "Loc"], ["uma grua", "Obj"], ["do camião", "Obj"], ["o homem", "Per"], ["circulava na rua", "Per"], ["acabou por morrer", "Per"], ["a vítima", "Per"], ["foi transportada com vida", "Per"], ["para o Hospital de Santo António", "Loc"], ["as bombas de gasolina", "Obj"], ["sofreu ferimentos ligeiros", "Per"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Other" stands for "Other" (e.g. "uma granada de mão" is "Other" because it is not a person, object, location, or facility)

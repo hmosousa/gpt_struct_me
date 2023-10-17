@@ -1,0 +1,13 @@
+[
+["Trustcorp Inc.", "Date"],
+["Society Corp.", "Date"],
+["12.4 million", "Duration"],
+["450 million", "Duration"],
+["year end", "Date"]
+]
+
+Note:
+The date class should include any date-like expressions, such as years, months, days of the week, etc.
+The time class should include any time-like expressions, such as hours, minutes, seconds, etc.
+The duration class should include any expressions that represent a length of time, such as years, months, weeks, days, hours, minutes, seconds, etc.
+The set class should include any expressions that represent a specific point in time, such as a date and/or time.

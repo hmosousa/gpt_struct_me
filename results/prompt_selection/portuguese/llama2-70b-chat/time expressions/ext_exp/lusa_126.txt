@@ -1,0 +1,51 @@
+["sábado", "sábado", "30 nov 2020", "1.673", "1.570", "103", "844", "4"]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following code to extract time expressions:
+
+import re
+
+time_expressions = re.findall(r'\d{1,2}[/|-]\d{1,2}[/|-]\d{4}', text)
+
+This code uses regular expressions to find all sequences of one to two digits, followed by either a forward slash, a hyphen, or a backslash, followed by one to two digits, followed by either a forward slash, a hyphen, or a backslash, followed by four digits.
+
+You can then use a list comprehension to extract the time expressions from the match list.
+
+Example:
+
+time_expressions = [time for time in time_expressions if len(time) == 10]
+
+This will extract all time expressions that have a length of 10 characters.
+
+You can then use the datetime module to parse the time expressions and convert them to a datetime object.
+
+Example:
+
+import datetime
+
+datetime.strptime(time, '%d/%m/%Y')
+
+This will convert the time expression '10/11/2020' to a datetime object.
+
+You can then use the datetime object to extract the year, month, and day.
+
+Example:
+
+datetime.strptime(time, '%d/%m/%Y').year
+datetime.strptime(time, '%d/%m/%Y').month
+datetime.strptime(time, '%d/%m/%Y').day
+
+This will extract the year, month, and day from the datetime object.
+
+You can then use the extracted values to create a JSON-parseable list of strings.
+
+Example:
+
+['10/11/2020', '10', '11', '2020']
+
+This will create a JSON-parseable list of strings that contains the original time expression, the year, month, and day.
+
+You can then use this list as the output for the task.

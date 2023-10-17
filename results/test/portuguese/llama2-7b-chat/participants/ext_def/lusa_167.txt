@@ -1,0 +1,11 @@
+[
+"Homem",
+"Carlos Lima",
+"Comando dos Bombeiros",
+"Lusa",
+"Freguesia de Ribeira",
+"CDOS",
+"SIV",
+"Viatura de Emergência Médica",
+"GNR"
+]

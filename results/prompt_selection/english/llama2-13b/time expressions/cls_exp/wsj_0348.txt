@@ -1,0 +1,28 @@
+[["Ogden Projects Inc.", "COMPANY"], ["Ogden Corp.", "COMPANY"], ["$6.6 million", "MONEY"], ["$1.1 million", "MONEY"], ["$101.7 million", "MONEY"], ["$39.5 million", "MONEY"], ["$26.875", "MONEY"], ["$14", "MONEY"], ["$27.1 million", "MONEY"], ["$13.5 million", "MONEY"], ["$378.1 million", "MONEY"], ["$283.8 million", "MONEY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of IBM Corp. stock, a move that could raise as much as $10 billion for the Treasury.
+The sale would be the largest ever by the government, which has been selling off its IBM stock in small chunks since 1986.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price of $100.25 a share yesterday.
+The government's stake in IBM is worth about $10 billion, based on the stock's closing price

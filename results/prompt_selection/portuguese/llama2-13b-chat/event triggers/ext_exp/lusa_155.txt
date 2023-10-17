@@ -1,0 +1,6 @@
+[ "ferido", "gravidade", "agressão", "garrafa", "restaurante", "Cajados", "Palmela", "Setúbal", "hospital", "São Bernardo", "agressão", "mulher", "embriagada", "fugida", "automóvel", "motivada", "proibido", "álcool", "via pública", "ferimentos", "ligeiros", "ambulância", "meios próprios", "bombeiros", "corporação", "Águas de Moura"]
+
+Note:
+The task is to extract all the event triggers from the text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "agressão" (assault), "ferido" (wounded), "gravidade" (gravity), "hospital" (hospital), "motivada" (motivated), etc.
+
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.

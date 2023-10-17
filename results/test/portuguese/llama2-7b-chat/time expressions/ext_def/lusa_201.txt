@@ -1,0 +1,27 @@
+["hoje", "segunda", "deste", "quartos", "dormir", "sem vida", "sem vida no interior", "apurar", "causas", "incêndio", "deflagrou", "gases", "fumo", "sinais", "fogo", "chamas", "vítima", "morto", "morte", "possível", "inalação", "gases", "fumo", "sinais", "fogo", "chamas", "Ribeira Brava", "Madeira", "Ponta do Sol", "Bombeiros Voluntários", "Roberto Gonçalves", "Câmara Municipal", "Ricardo Nascimento"]
+Note:
+The output list contains all the time expressions found in the input text, including:
+* "hoje" (today)
+* "segunda" (second)
+* "deste" (of this)
+* "quartos" (rooms)
+* "dormir" (to sleep)
+* "sem vida" (without life)
+* "sem vida no interior" (without life inside)
+* "apurar" (to investigate)
+* "causas" (causes)
+* "incêndio" (fire)
+* "deflagrou" (flashed)
+* "gases" (gases)
+* "fumo" (smoke)
+* "sinais" (signs)
+* "fogo" (fire)
+* "chamas" (flames)
+* "Ribeira Brava" (Ribeira Brava)
+* "Madeira" (Madeira)
+* "Ponta do Sol" (Ponta do Sol)
+* "Bombeiros Voluntários" (Volunteer Firefighters)
+* "Roberto Gonçalves" (Roberto Gonçalves)
+* "Câmara Municipal" (Municipal Council)
+* "Ricardo Nascimento" (Ricardo Nascimento)
+"]

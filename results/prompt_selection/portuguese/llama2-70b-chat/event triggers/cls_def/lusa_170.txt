@@ -1,0 +1,28 @@
+[
+["Encontrado corpo de homem", "Occurrence"],
+["corpo de um homem", "State"],
+["a boiar", "Aspectual"],
+["na costa da Terceira", "Location"],
+["desconhecendo-se as causas da morte", "Intensional State"],
+["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Reporting"],
+["Polícia de Segurança Pública (PSP)", "Reporting"],
+["piquete da Polícia Marítima de Angra do Heroísmo", "Reporting"],
+["delegado de saúde", "Reporting"],
+["corpo de um homem, de 62 anos", "State"],
+["já cadáver", "State"],
+["foi retirado do local", "Action"],
+["zona de difícil acesso", "Location"],
+["Hospital de Angra do Heroísmo", "Location"],
+["será autopsiado", "Intensional Action"]
+]
+
+Note:
+
+* Theinput text is in Portuguese.
+* The output should be in English.
+* The classes are not mutually exclusive, an event can be both an Occurrence and a State, for example.
+* The output format is a JSON-parseable list, it can be converted to a JSON object if needed.
+* The task is to classify the events mentioned in the input text, not to generate a new text.
+* The events can be described in different ways, for example, "Encontrado corpo de homem" can be classified as "Occurrence" and "State" because it describes a situation where a dead body was found, which is an occurrence and also a state.
+* The class "Intensional State" refers to a state that is intended or planned, but not necessarily actual.
+* The class "Intensional Action" refers to an action that is intended or planned, but not necessarily actual.

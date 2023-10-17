@@ -1,0 +1,11 @@
+
+["Homem", "morre", "ciclomotor", "conduzia", "ser", "colhido", "veículo", "ligheiro", "Estrada", "Nacional", "10-8", "Mitrena", "Setúbal", "fontes", "PSP", "Proteção", "Civil", "Comando", "Distrital", "Operações", "Socorro", "CDOS", "Lusa", "óbito", "local", "corpo", "encaminhado", "Hospital", "São", "Bernardo", "bombeiros", "veículos", "Palmela", "Sapadores", "VMER", "PSP", "total", "veículos", "apoiatados", "5", "veículos"]
+
+
+Format:
+JSON-parseable list of strings.
+
+
+Note:
+
+The output is a JSON-parseable list of strings, where each string is a participant in the event described in the input text. The list includes the names of the people and organizations involved, as well as the vehicles and equipment used.

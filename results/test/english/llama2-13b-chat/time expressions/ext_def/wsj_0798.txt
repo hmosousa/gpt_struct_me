@@ -1,0 +1,14 @@
+[
+"Nov. 9",
+"Oct. 31",
+"yesterday"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Nov. 9" (specific date)
+* "Oct. 31" (specific date)
+* "yesterday" (specific day of the week, but not a specific date)
+
+The output list contains these time expressions in JSON-parseable format.

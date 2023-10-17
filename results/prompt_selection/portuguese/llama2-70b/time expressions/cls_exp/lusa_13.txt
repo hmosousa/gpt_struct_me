@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["25 de novembro", "Time"], ["San Isidro", "Set"], ["San André", "Set"]]

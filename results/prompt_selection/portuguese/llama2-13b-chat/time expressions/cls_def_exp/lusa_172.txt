@@ -1,0 +1,6 @@
+[["hoje à tarde", "Date"], ["Lagoa", "Location"], ["praia da Estaquinha", "Location"], ["Algarve", "Location"], ["Faro", "Location"], ["pescador", "Occupation"], ["caído ao mar", "Action"], ["Estação Salva-vidas de Ferragudo", "Organization"], ["marina de Portimão", "Location"], ["delegada de saúde de Lagoa", "Person"], ["gabinete de medicina legal de Portimão", "Location"], ["Polícia Marítima de Portimão", "Organization"]]
+
+Note:
+- The output should be in JSON-parseable list.
+- The first element of each list is the entity (e.g. "hoje à tarde") and the second is the class (e.g. "Date").
+- The classes are: Date, Time, Duration, and Set.

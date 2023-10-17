@@ -1,0 +1,15 @@
+[
+"hoje",
+"na Estrada Nacional 17",
+"em Celorico da Beira",
+"no distrito da Guarda",
+"na sequência do despiste do motociclo",
+"alguns metros antes da localidade de Cortiço da Serra",
+"Celorico da Beira",
+"Cortiço da Serra",
+"cinco viaturas",
+"dez elementos",
+"Bombeiros Voluntários de Celorico da Beira",
+"da VMER da Guarda",
+"da GNR"
+]

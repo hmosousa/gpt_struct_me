@@ -1,0 +1,72 @@
+[
+["Sunday", "Date"],
+["Friday", "Date"],
+["1978", "Date"],
+["1985", "Date"],
+["last week", "Duration"],
+["last year", "Duration"],
+["two years", "Duration"],
+["three soldiers", "Set"],
+["six others", "Set"],
+["200 Israeli soldiers", "Set"],
+["73 soldiers", "Set"],
+["two military helicopters", "Set"],
+["February", "Date"],
+["last February", "Date"],
+["two top aides", "Set"],
+["nearly 200 Israeli soldiers", "Set"],
+["Hezbollah fighters", "Set"],
+["soldiers' lives", "Set"],
+["Israeli government", "Set"],
+["Israeli officials", "Set"],
+["Israeli soldiers", "Set"],
+["Lebanese government", "Set"],
+["Lebanese army", "Set"],
+["U.N. forces", "Set"],
+["U.N. resolution 425", "Set"],
+["Israel's unconditional withdrawal", "Set"],
+["Israel's northern frontier", "Set"],
+["Israel's position", "Set"],
+["Israel's political goals", "Set"],
+["Israel's top official", "Set"],
+["Israel's Channel One", "Set"],
+["Israeli grassroots movement", "Set"],
+["Israeli withdrawal", "Set"]
+]
+
+Explanation:
+The output is a list of 21 items, each consisting of a temporal expression and its corresponding class.
+
+* "Sunday" is classified as a "Date".
+* "Friday" is classified as a "Date".
+* "1978" is classified as a "Date".
+* "1985" is classified as a "Date".
+* "last week" is classified as a "Duration".
+* "last year" is classified as a "Duration".
+* "two years" is classified as a "Duration".
+* "three soldiers" is classified as a "Set".
+* "six others" is classified as a "Set".
+* "200 Israeli soldiers" is classified as a "Set".
+* "73 soldiers" is classified as a "Set".
+* "two military helicopters" is classified as a "Set".
+* "February" is classified as a "Date".
+* "last February" is classified as a "Date".
+* "two top aides" is classified as a "Set".
+* "nearly 200 Israeli soldiers" is classified as a "Set".
+* "Hezbollah fighters" is classified as a "Set".
+* "soldiers' lives" is classified as a "Set".
+* "Israeli government" is classified as a "Set".
+* "Israeli officials" is classified as a "Set".
+* "Israeli soldiers" is classified as a "Set".
+* "Lebanese government" is classified as a "Set".
+* "Lebanese army" is classified as a "Set".
+* "U.N. forces" is classified as a "Set".
+* "U.N. resolution 425" is classified as a "Set".
+* "Israel's unconditional withdrawal" is classified as a "Set".
+* "Israel's northern frontier" is classified as a "Set".
+* "Israel's position" is classified as a "Set".
+* "Israel's political goals" is classified as a "Set".
+* "Israel's top official" is classified as a "Set".
+* "Israel's Channel One" is classified as a "Set".
+* "Israeli grassroots movement" is classified as a "Set".
+* "Israeli withdrawal" is classified as a "Set".

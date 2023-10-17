@@ -1,0 +1,10 @@
+[
+"fourth-quarter",
+"year earlier",
+"latest period",
+"year ended Sept. 30",
+"this year",
+"full year",
+"next year",
+"over the next year or so"
+]

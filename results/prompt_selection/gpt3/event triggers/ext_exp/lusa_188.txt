@@ -1,1 +1,0 @@
-["acidente de trabalho", "queda em altura", "falecer", "alerta", "operações de socorro", "acionado o helicóptero", "tomou conta da ocorrência"]

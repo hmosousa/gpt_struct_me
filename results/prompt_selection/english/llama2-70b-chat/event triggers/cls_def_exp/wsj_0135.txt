@@ -1,0 +1,6 @@
+[["said", "REPORTING"], ["expects", "I_ACTION"], ["fall", "OCCURRENCE"], ["below", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["expects", "I_ACTION"], ["post", "OCCURRENCE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["company", "OCCURRENCE"], ["industrial", "OCCURRENCE"], ["unit", "OCCURRENCE"], ["faces", "OCCURRENCE"], ["margin", "OCCURRENCE"], ["pressures", "OCCURRENCE"], ["lower", "OCCURRENCE"], ["demand", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["trading", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+Please extract and classify all event triggers in the given text.

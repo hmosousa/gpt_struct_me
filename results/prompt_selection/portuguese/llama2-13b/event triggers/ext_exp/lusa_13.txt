@@ -1,0 +1,32 @@
+["autoridades", "judiciais", "fazem", "buscas", "casa", "motorista", "Maradona", "Autoridades", "judiciais", "argentinas", "realizaram", "hoje", "buscas", "apartamento", "Maximiliano", "Trimarchi", "motorista", "Diego", "Maradona", "ocorrida", "25", "novembro", "comunicado", "procuradoria", "geral", "San", "Isidro", "refere", "buscas", "apreendido", "telemóvel", "motorista", "polícia", "realizou", "perícias", "telemóveis", "Leopoldo", "Luque", "médico", "Maradona", "participou", "operação", "hematoma", "subdural", "início", "novembro", "justiça", "argentina", "abriu", "inquérito", "determinar", "negligência", "medical", "assistência", "antigo", "futebolista"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Brasil registra 1.000 mortes em 24 horas
+O Brasil registou 1.000 mortes por covid-19 em 24 horas, segundo dados do Ministério da Saúde.
+O número de mortes é o maior desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia."
+
+Output:
+["Brasil", "registra", "mortes", "horas", "Brasil", "registou", "1.000", "mortes", "covid", "19", "24", "horas", "dados", "Ministério", "Saúde", "Brasil", "registra", "170.000", "mortes", "covid", "19", "início", "pandemia", "Brasil", "segundo", "país", "mortes", "covid", "19", "atrás", "Estados", "Unidos", "Brasil", "registra", "6.300.000", "casos", "covid", "19", "início", "pandemia"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Brasil registra 1.000 mortes em 24 horas
+O Brasil registou 1.000 mortes por covid-19 em 24 horas, segundo dados do Ministério da Saúde.
+O número de mortes é o maior desde o início da pandemia.
+O Brasil registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia.
+O país registra 170.000 mortes por covid-19 desde o início da pandemia.
+O Brasil é o segundo país com mais mortes por covid-19, atrás dos Estados Unidos.
+O Brasil registra 6.300.000 casos de covid-19 desde o início da pandemia."

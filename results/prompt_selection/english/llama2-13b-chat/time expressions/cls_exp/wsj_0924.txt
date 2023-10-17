@@ -1,0 +1,1 @@
+[["Dominion Textile Inc.", "ORGANIZATION"], ["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["12 Canadian cents", "AMOUNT"], ["C$348.2 million", "AMOUNT"], ["C$307.2 million", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents", "AMOUNT"]]

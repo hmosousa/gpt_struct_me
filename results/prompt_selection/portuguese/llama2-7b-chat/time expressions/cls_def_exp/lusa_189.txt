@@ -1,0 +1,12 @@
+[["homem", "Person"], ["morto", "Date"], ["tiro", "Time"], ["Barreiro", "Location"], ["atirador", "Person"], ["em fuga", "Duration"], ["20:20", "Time"], ["incidente", "Event"]]
+
+Expected output:
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with time expressions.
+* The task is to extract and classify all time expressions in the input text.
+* The classes are: Date, Time, Duration, and Set.
+* The definition of temporal expressions is provided in the task description.
+* The example input and output demonstrate how to extract and classify time expressions in a news article.

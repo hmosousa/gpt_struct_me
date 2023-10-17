@@ -1,0 +1,15 @@
+[
+"one share of a new preferred stock for each POP common share it doesn't already own",
+"yesterday",
+"$1.76 a year",
+"four common shares for each preferred"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "yesterday" (indicating a specific point in time in the past)
+* "$1.76 a year" (indicating a period of time, specifically one year)
+* "four common shares for each preferred" (indicating a conversion rate, which could be applied at any point in the future)
+
+The output list contains these time expressions in JSON-parseable format.

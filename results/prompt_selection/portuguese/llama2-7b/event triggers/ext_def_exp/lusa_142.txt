@@ -1,0 +1,31 @@
+["detém", "suspeita", "tráfico", "drogas", "apreende", "doses", "haxixe", "Mértola", "GNR", "deteve", "mulher", "36", "anos", "suspeitas", "prática", "crime", "tráfico", "drogas", "apreendeu", "doses", "haxixe", "concelho", "alentejano", "Beja", "militares", "Posto", "Territorial", "Mértola", "segurança", "decorrimento", "ação", "patrulhamento", "estrada", "nacional", "vila", "demonstrou", "comportamento", "nervo", "abordada", "efetuaram", "busca", "apuraram", "apreenderam", "veículo", "telemóvel"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 pessoas já foram vacinadas no Brasil
+A vacinação contra o novo coronavírus já conta com mais de 100.000 pessoas no Brasil, segundo o Ministério da Saúde.
+A informação foi divulgada pelo ministro da Saúde, Eduardo Pazuello, em uma reunião com o presidente Jair Bolsonaro, no Palácio do Planalto, em Brasília.
+"A vacinação já conta com mais de 100.000 pessoas no Brasil", disse Pazuello.
+O ministro também disse que o Brasil já tem 1.200.000 doses de vacinas contra o novo coronavírus, que serão distribuídas em 27 estados e no Distrito Federal.
+"A vacinação já conta com mais de 100.000 pessoas no Brasil", disse Pazuello.
+O ministro também disse que o Brasil já tem 1.200.000 doses de vacinas contra o novo coronavírus, que serão distribuídas em 27 estados e no Distrito Federal."
+
+Output:
+["Covid-19", "100.000", "pessoas", "vacinadas", "Brasil", "vacinação", "contam", "100.000", "pessoas", "Brasil", "informação", "divulgada", "ministro", "Saúde", "Eduardo", "Pazuello", "reunião", "presidente", "Jair", "Bolsonaro", "Palácio", "Planalto", "Brasília", "distribuídas", "estados", "Distrito", "Federal"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100.000 pessoas já foram vacinadas no Brasil
+A vacinação contra o novo coronavírus já conta com mais de 100.000 pessoas no Brasil, segundo o Ministério da Saúde.
+A informação foi divulgada pelo ministro da Saúde, Eduardo Pazuello, em uma reunião com o presidente Jair Bolsonaro, no Palácio do Planalto, em Brasília.
+"A vacinação já conta com mais de 100.000 pessoas no Brasil", disse Pazuello.
+O ministro também disse que o Brasil já tem 1.200.000 doses de vacinas contra o novo coronavírus, que serão distribuídas em 27 estados e no Distrito Federal.
+"A vacinação já conta com mais de 100.000 pessoas no Brasil", disse Pazuello.
+O ministro também disse que o Brasil já tem 1.200.000 doses de vacinas contra o novo coronavírus, que serão distribuídas em 27 estados e no Distrito Federal."
+
+Output:
+["Covid-19", "100.000", "pessoas", "

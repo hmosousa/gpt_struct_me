@@ -1,0 +1,33 @@
+["TWA", "exploded", "climb", "maintain", "leavin", "sixteen", "center", "ident", "hear", "Eastwind", "sir", "blew", "fireballs", "water", "small", "smoke", "coming", "God", "bless", "him", "think", "God", "bless", "him"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The 1999-2000 season was the 100th season of the National Hockey League. The season ended with the New Jersey Devils defeating the Dallas Stars in the Stanley Cup Finals. The season began on October 7, 1999, and ended on June 9, 2000.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was also the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling to make the playoffs.
+
+The 1999-2000 season was the first season in which the NHL used a new rule that allowed a team to replace a player who was injured or suspended with another player. This rule was put in place to help teams that were struggling

@@ -1,0 +1,25 @@
+["preso", "preventivamente", "Penafiel", "obrigar", "companheira", "prostituir-se", "juiz", "indiciou", "obrigar", "mulher", "vivia", "prostituir-se", "homem", "indicação", "MP", "deteve", "levou", "juiz de instrução", "polícia", "revela", "instituição", "acolhimento", "pessoas", "sujeitas", "tipo", "crime", "vivia", "comunhão", "vida", "sujeitava", "exploração", "via pública", "proveitos", "obtidos", "prática", "fugiu", "sujeição", "promessa", "receber", "estupefaciente", "dependente", "cedia", "indica", "MP", "tráfico", "pessoas", "exploração", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+["pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se
+Um juiz de instrução ordenou a prisão preventiva de um homem de 47 anos de idade que o Ministério Público (MP) de Penafiel indiciou por obrigar a mulher com quem vivia a prostituir-se, informou hoje fonte policial.
+Em comunicado, a Polícia Judiciária, que deteve o homem e o levou a juiz de instrução por indicação do MP, revela ainda que a vítima, de 26 anos, foi colocada numa instituição de acolhimento para

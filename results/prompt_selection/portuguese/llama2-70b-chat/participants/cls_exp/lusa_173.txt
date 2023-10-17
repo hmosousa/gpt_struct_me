@@ -1,0 +1,6 @@
+[["um homem", "Per"], ["34 anos", "Other"], ["Um homem", "Per"], ["Transportadora J Amaral", "Org"], ["Estarreja", "Loc"], ["hoje", "Other"], ["morto", "Other"], ["no interior", "Loc"], ["da cisterna", "Fac"], ["um camião", "Obj"], ["o alerta", "Other"], ["pelas 09:56", "Other"], ["desaparecido", "Other"], ["sábado", "Other"], ["a cisterna", "Fac"], ["aberta", "Other"], ["o graduado", "Per"], ["a causa", "Other"], ["da morte", "Other"], ["A Delegada", "Per"], ["de Saúde", "Other"], ["a Polícia", "Org"], ["Judiciária", "Org"], ["o local", "Loc"], ["a Viatura", "Other"], ["Médica", "Other"], ["de Emergência", "Other"], ["Reanimação", "Other"], ["Aveiro", "Loc"], ["o transporte", "Other"], ["do cadáver", "Other"], ["para o Hospital", "Fac"], ["Infante D. Pedro", "Loc"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all participants in the given text.

@@ -1,0 +1,4 @@
+["PJ", "Setúbal", "homem", "suspeito", "balear", "jovem", "coletividade", "quarta-feira", "restaurante", "Alto da Guerra", "polícia", "adiante", "sexagenário", "fugiu", "local", "indiciado", "crimes", "homicídio", "qualificado", "detenção", "arma", "proibida", "omissão", "auxílio", "prisão", "medida", "coção"]
+
+Note:
+The output list contains time expressions in the format of day of the week (e.g. "quarta-feira"), month (e.g. "setembro"), and year (e.g. "30 nov 2020").

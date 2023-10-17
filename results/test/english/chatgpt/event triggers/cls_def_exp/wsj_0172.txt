@@ -1,0 +1,1 @@
+[["completed", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["announced", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["continue", "OCCURRENCE"], ["operate", "OCCURRENCE"], ["adopt", "OCCURRENCE"], ["eliminate", "OCCURRENCE"], ["take", "OCCURRENCE"], ["reduce", "OCCURRENCE"]]

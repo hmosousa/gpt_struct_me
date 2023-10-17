@@ -1,0 +1,43 @@
+[["said", "REPORTING"], ["expects", "I_STATE"], ["below", "OCCURRENCE"], ["recent", "OCCURRENCE"], ["analyst", "OCCURRENCE"], ["estimate", "OCCURRENCE"], ["fall", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["slightly", "OCCURRENCE"], ["above", "OCCURRENCE"], ["fiscal", "OCCURRENCE"], ["1989", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["1.65", "OCCURRENCE"], ["share", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["13.625", "OCCURRENCE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn that is resistant to a common pesticide.
+The Environmental Protection Agency said Thursday that it had approved the sale of the corn, which is engineered to be resistant to the pesticide Bt.
+The corn is made by Monsanto Co. and is called YieldGard.
+The EPA said it had approved the sale of the corn after determining that it would not harm the environment.
+The EPA said it had received more than 100,000 comments on the issue.
+The decision to allow the sale of the corn was made by the EPA's Office of Pesticide Programs.
+The EPA said it had reviewed the comments and determined that the corn would not harm the environment.
+The EPA said it had also determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment.
+The EPA said it had determined that the corn would not harm the health of humans or animals.
+The EPA said it had determined that the corn would not harm the environment

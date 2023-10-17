@@ -1,0 +1,9 @@
+["Linda Sanders was killed", "two would-be robbers emptied their pistols into the store", "the victim was hit several times", "the other customers fled", "the police said it did not appear that anyone else was injured"]
+
+Explanation:
+
+1. "Linda Sanders was killed" - This is an event trigger as it refers to a specific action (death) that occurred.
+2. "two would-be robbers emptied their pistols into the store" - This is an event trigger as it refers to a specific action (shooting) that occurred.
+3. "the victim was hit several times" - This is an event trigger as it refers to a specific action (shooting) that occurred.
+4. "the other customers fled" - This is an event trigger as it refers to a specific action (fleeing) that occurred.
+5. "the police said it did not appear that anyone else was injured" - This is an event trigger as it refers to a specific state (injury) that does not exist.

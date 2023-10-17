@@ -1,0 +1,13 @@
+[
+"2016",
+"2017",
+"2019",
+"2017 e 2019"
+]
+
+Explanation:
+
+* 2016: year when the accused started living with the victim's mother.
+* 2017: year when the abuse began and continued until 2019.
+* 2019: year when the abuse ended.
+* 2017 e 2019: years when the accused had sexual contact with the victim, according to the MP.

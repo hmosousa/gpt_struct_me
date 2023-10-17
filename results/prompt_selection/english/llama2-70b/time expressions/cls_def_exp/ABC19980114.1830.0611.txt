@@ -1,0 +1,1 @@
+[["Washington", "LOCATION"], ["today", "DATE"], ["night", "TIME"], ["plane", "OBJECT"], ["explosion", "EVENT"], ["minute", "DURATION"], ["sixteen thousand feet", "NUMBER"], ["response", "RESPONSE"], ["two fireballs", "SET"], ["water", "LOCATION"]]

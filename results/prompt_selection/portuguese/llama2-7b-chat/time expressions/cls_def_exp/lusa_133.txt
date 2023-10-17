@@ -1,0 +1,1 @@
+[["em Aveiro", "Location"], ["segunda-feira", "Date"], ["390 quilogramas", "Quantity"], ["37.500 euros", "Amount"], ["atum-rabilho", "Entity"], ["GNR", "Entity"], ["Aveiro", "Location"]]

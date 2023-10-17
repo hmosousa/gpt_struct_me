@@ -1,0 +1,1 @@
+["May", "June", "October", "December"]

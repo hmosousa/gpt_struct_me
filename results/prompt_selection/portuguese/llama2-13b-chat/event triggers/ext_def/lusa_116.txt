@@ -1,0 +1,21 @@
+["jovem atropelado", "autocarro", "Vila das Aves", "Santo Tirso", "Hospital São João", "Porto", "Rua Luís Gonzaga Mendes de Carvalho", "Bombeiros", "Viatura Médica de Emergência e Reanimação", "Ambulância de Suporte Imediato de Vida", "GNR"]
+
+Note:
+- The output should be a list of strings, where each string represents an event trigger.
+- The events are:
+	- Jovem atropelado
+	- Autocarro
+	- Vila das Aves
+	- Santo Tirso
+	- Hospital São João
+	- Porto
+	- Rua Luís Gonzaga Mendes de Carvalho
+	- Bombeiros
+	- Viatura Médica de Emergência e Reanimação
+	- Ambulância de Suporte Imediato de Vida
+	- GNR
+
+Hint:
+- Look for words that indicate actions, events or states that take place or hold within a specified period of time.
+- Pay attention to temporal expressions, such as "hoje" (today), "ontem" (yesterday), "agora" (now), "na hora" (at the time), "no local" (at the place), "no hospital" (at the hospital), etc.
+- Use a dictionary or thesaurus to help you identify the correct terms and their meanings.

@@ -1,0 +1,17 @@
+[["Violência doméstica", "Event"], ["Penafiel", "Location"], ["39 anos", "Age"], ["42 anos", "Age"], ["ex-companheira", "Relationship"], ["separação", "Event"], ["perseguiu", "Action"], ["residência", "Location"], ["trabalho", "Location"], ["medida de proteção", "Event"], ["teleassistência", "Event"], ["antecedentes criminais", "Event"]]
+
+Note:
+
+* "Event" is a class that can be used to represent any type of occurrence or happening.
+* "Location" is a class that can be used to represent any type of physical or geographical location.
+* "Age" is a class that can be used to represent any type of age or age range.
+* "Relationship" is a class that can be used to represent any type of relationship or association.
+
+Hint:
+
+* Use the information provided in the input text to identify and extract the time expressions.
+* Use the appropriate class to represent each time expression.
+* Use the information provided in the input text to identify and extract the location expressions.
+* Use the appropriate class to represent each location expression.
+* Use the information provided in the input text to identify and extract the entity expressions.
+* Use the appropriate class to represent each entity expression.

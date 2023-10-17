@@ -1,0 +1,1 @@
+[["set", "OCCURRENCE"], ["buying", "OCCURRENCE"], ["signed", "REPORTING"], ["purchase", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["gives", "OCCURRENCE"], ["value", "STATE"], ["is", "STATE"], ["parent", "STATE"], ["has", "STATE"], ["had", "STATE"], ["completed", "OCCURRENCE"]]

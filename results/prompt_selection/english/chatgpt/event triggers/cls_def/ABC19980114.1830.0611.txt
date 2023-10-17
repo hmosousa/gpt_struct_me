@@ -1,0 +1,21 @@
+[
+  ["released", "Occurrence"],
+  ["went down", "Occurrence"],
+  ["exploded", "Occurrence"],
+  ["miss", "Perception"],
+  ["has", "State"],
+  ["was", "State"],
+  ["calls", "Reporting"],
+  ["saw", "Perception"],
+  ["raise", "Intensional Action"],
+  ["hear", "Perception"],
+  ["asks", "Reporting"],
+  ["blew up", "Occurrence"],
+  ["saw", "Perception"],
+  ["go down", "Occurrence"],
+  ["coming up", "Occurrence"],
+  ["contact", "Intensional Action"],
+  ["said", "Reporting"],
+  ["think", "Perception"],
+  ["bless", "Intensional State"]
+]

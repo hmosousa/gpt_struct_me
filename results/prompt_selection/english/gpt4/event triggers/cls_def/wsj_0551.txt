@@ -1,0 +1,9 @@
+[
+["will become", "Occurrence"],
+["merger", "Occurrence"],
+["is completed", "Aspectual"],
+["agreed", "Reporting"],
+["to buy", "Intensional Action"],
+["transaction", "Occurrence"],
+["is expected to close", "Aspectual"]
+]

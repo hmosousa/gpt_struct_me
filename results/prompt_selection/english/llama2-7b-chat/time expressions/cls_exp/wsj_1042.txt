@@ -1,0 +1,9 @@
+[["one warrant", "SET"], ["three shares", "SET"], ["1.1 million", "SET"], ["90 days", "SET"], ["243,677", "SET"]]
+
+Note:
+
+* Each element in the output list is a list with two strings. The first string is the entity and the second is the class.
+* The input text is a sentence from a news article.
+* The task is to extract and classify all time expressions in the input text.
+* Time expressions are classified into four categories: Date, Time, Duration, and Set.
+* The output list contains all time expressions found in the input text, along with their corresponding class.

@@ -1,0 +1,6 @@
+["hoje", "cerca das 17:55", "30 nov 2020", "VMER", "Vale do Sousa", "Guimarães"]
+
+Note:
+The input text may contain other temporal expressions not listed in the examples, such as "ontem" (yesterday), "amanhã" (tomorrow), "hoje à noite" (tonight), "depois de amanhã" (the day after tomorrow), "em breve" (shortly), "em pouco tempo" (in a little while), "em alguns dias" (in a few days), "em uma semana" (in a week), "em um mês" (in a month), "em um ano" (in a year), etc.
+
+The output should be a list of all temporal expressions found in the input text, in the format of a JSON-parseable list of strings.

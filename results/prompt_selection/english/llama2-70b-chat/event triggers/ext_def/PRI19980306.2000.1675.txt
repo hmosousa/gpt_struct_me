@@ -1,0 +1,13 @@
+["More heavy gunfire in the Serbian province of Kosovo", "people fleeing from the villages", "operation was over", "fearing the forces may also move their operations further afield", "planned", "witnessing the beginnings of a much wider conflict"]
+
+Explanation:
+The output is a list of all the events mentioned in the text. The events are:
+
+* "More heavy gunfire in the Serbian province of Kosovo" - an action event
+* "people fleeing from the villages" - an action event
+* "operation was over" - a state event
+* "fearing the forces may also move their operations further afield" - a mental state event
+* "planned" - a state event
+* "witnessing the beginnings of a much wider conflict" - a mental state event
+
+Note that the events are not necessarily in chronological order, and some events may be mentioned multiple times in the text.

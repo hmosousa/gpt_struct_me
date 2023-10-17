@@ -1,0 +1,17 @@
+[["GNR", "State"], ["apreendeu", "I_Action"], ["390 quilogramas", "Occurrence"], ["atum-rabilho", "State"], ["interdita", "State"], ["coima", "State"], ["37.500 euros", "State"], ["porto", "State"], ["pesca costeira", "State"], ["Gafanha da Nazaré", "State"], ["Aveiro", "State"], ["ação", "Occurrence"], ["fiscalização", "Occurrence"], ["cumprimento", "Occurrence"], ["regras", "State"], ["descarga", "State"], ["transporte", "State"], ["comercialização", "State"], ["regime de primeira venda", "State"], ["pescado fresco", "State"], ["veículo", "State"], ["77 quilos", "Occurrence"], ["embarcação", "State"], ["313 quilos", "Occurrence"], ["condutor", "State"], ["mestre", "State"], ["auto de contraordenação", "Occurrence"], ["facto", "Occurrence"], ["transporte", "State"], ["captura", "State"], ["espécie", "State"], ["infração", "Occurrence"], ["coima", "State"], ["37.500 euros", "State"], ["pescado", "State"], ["apreendido", "Occurrence"], ["controle higiossanitário", "Occurrence"], ["próprio", "State"], ["consumo", "State"], ["instituição de solidariedade social", "State"]]
+
+Please note that the input and output are in Portuguese.
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are the words or phrases that indicate the occurrence of an event, such as "apreendeu" (seized) or "ocorreu" (occurred).
+
+You can use the following classes to classify the event triggers:
+
+* State: Indicates a state or condition, such as "GNR" (National Republican Guard) or "apreendido" (seized).
+* Occurrence: Indicates an event or occurrence, such as "390 quilogramas" (390 kilograms) or "ocorreu" (occurred).
+* Reporting: Indicates a reporting or description of an event, such as "A GNR apreendeu" (The National Republican Guard seized) or "Durante a operação" (During the operation).
+* Perception: Indicates a perception or observation, such as "encontrou" (found) or "constatou" (noticed).
+* Aspectual: Indicates an aspect or feature of an event, such as "interdita" (prohibited) or "punível" (punishable).
+* Intensional Action: Indicates an intentional action, such as "apreender" (to seize) or "elaborar" (to elaborate).
+* Intensional State: Indicates an intentional state or condition, such as "próprio" (proper) or "consumo" (consumption).
+
+Please note that some words or phrases may belong to more than one class, depending on the context in which they are used. Your task is to classify each event trigger in the text according to its most appropriate class.

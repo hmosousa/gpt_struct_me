@@ -1,0 +1,1 @@
+["a year ago", "in the third quarter", "this summer", "yesterday", "seven a year ago"]

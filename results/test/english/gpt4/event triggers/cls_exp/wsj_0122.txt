@@ -1,0 +1,1 @@
+[["merge", "OCCURRENCE"], ["formed", "OCCURRENCE"], ["controls", "OCCURRENCE"], ["agreement", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["closing", "OCCURRENCE"], ["expected", "I_STATE"], ["said", "REPORTING"], ["approved", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["consent", "OCCURRENCE"]]

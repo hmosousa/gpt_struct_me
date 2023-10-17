@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["has", "STATE"], ["issued", "OCCURRENCE"], ["enable", "I_STATE"], ["purchase", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["said", "REPORTING"], ["issued", "OCCURRENCE"]]

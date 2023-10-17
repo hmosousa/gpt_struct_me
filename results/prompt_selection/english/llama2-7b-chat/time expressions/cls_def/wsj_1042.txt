@@ -1,0 +1,13 @@
+[["AVON RENT-A-CAR amp TRUCK Corp.", "Date"], ["AVON RENT-A-CAR amp TRUCK Corp.", "Duration"], ["1.1 million", "Duration"], ["90 days", "Duration"], ["243,677", "Set"]]
+Explanation:
+* "Date" - The dividend was declared on a specific date (90 days after the issue date).
+* "Duration" - The duration of the warrants is 90 days.
+* "1.1 million" - The number of Class C warrants issued.
+* "90 days" - The duration of the warrants is 90 days.
+* "243,677" - The number of additional warrants to be issued to holders of Class A, Class B, and unclassified warrants.
+
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence from a financial news article.
+* The task is to extract and classify all time expressions in the input sentence.
+* The classes are "Date", "Duration", and "Set".

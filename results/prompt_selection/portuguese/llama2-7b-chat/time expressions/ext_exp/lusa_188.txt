@@ -1,0 +1,4 @@
+	["em Mogadouro", "Concelho de Mogadouro", "distrito de Bragança", "Vilarinhos dos Galegos", "17 horas", "Suporte Imediato de Vida", "Viatura Medica de Emergência e Reanimação", "Instituto Nacional e Emergência Médica", "INEM", "GNR de Mogadouro"]
+
+Format:
+JSON-parseable list of strings.

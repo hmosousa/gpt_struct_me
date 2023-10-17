@@ -1,0 +1,13 @@
+[["Encontrado", "Obj"], ["corpo", "Per"], ["de", "Per"], ["um", "Per"], ["homem", "Per"], ["a", "Per"], ["boiar", "Per"], ["junto", "Per"], ["uma", "Per"], ["zona", "Loc"], ["rochosa", "Loc"], ["na", "Loc"], ["costa", "Loc"], ["da", "Loc"], ["Terceira", "Loc"], ["os", "Per"], ["Açores", "Loc"], ["o", "Per"], ["corpo", "Per"], ["de", "Per"], ["um", "Per"], ["homem", "Per"], ["a", "Per"], ["boiar", "Per"], ["junto", "Per"], ["uma", "Per"], ["zona", "Loc"], ["rochosa", "Loc"], ["na", "Loc"], ["costa", "Loc"], ["da", "Loc"], ["Terceira", "Loc"], ["os", "Per"], ["Açores", "Loc"], ["a", "Per"], ["autoridade", "Org"], ["marítima", "Org"], ["anunciou", "Per"], ["hoje", "Per"], ["a", "Per"], ["autoridade", "Org"], ["marítima", "Org"], ["a", "Per"], ["informação", "Per"], ["recebida", "Per"], ["através", "Per"], ["da", "Per"], ["PSP", "Org"], ["e", "Per"], ["o", "Per"], ["piquete", "Org"], ["da", "Per"], ["Polícia", "Org"], ["Marítima", "Org"], ["de", "Per"], ["Angra", "Loc"], ["do", "Loc"], ["Heroísmo", "Loc"], ["e", "Per"], ["o", "Per"], ["delegado", "Per"], ["de", "Per"], ["saúde", "Per"], ["foi", "Per"], ["removido", "Per"], ["do", "Per"], ["local", "Loc"], ["pelos", "Per"], ["Bombeiros", "Org"], ["Voluntários", "Org"], ["da", "Per"], ["Praia", "Loc"], ["da", "Loc"], ["Vitória", "Loc"], ["e", "Per"], ["transportado", "Per"], ["para", "Per"], ["o", "Per"], ["Hospital", "Loc"], ["de", "Per"], ["Angra", "Loc"], ["do", "Loc"], ["Heroísmo", "Loc"], ["será", "Per"], ["autopsiado", "Per"], ["para", "Per"], ["se", "Per"], ["apurar", "Per"], ["as", "Per"], ["causas", "Per"], ["da", "Per"], ["morte", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridade Marítima confirma morte de homem em zona rochosa na costa da Terceira
+A Polícia Marítima de Angra do Heroísmo confirmou hoje a morte de um homem, de 62 anos, que foi encontrado a boiar junto a uma zona rochosa na costa leste da Terceira, nos Açores.
+Segundo um comunicado enviado às redações, a autoridade marítima informou que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".
+O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", já que se encontrava numa "zona de difícil acesso, tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo, onde será autopsiado para se apurar as causas da morte"."
+
+Output:
+[["Autoridade", "Org"], ["Marítima", "Org"], ["confirma", "Per"], ["morte", "Per"], ["de", "Per"], ["um", "Per"], ["homem",

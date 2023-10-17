@@ -1,0 +1,38 @@
+[
+{
+"Jovem",
+"Person"
+},
+{
+"Autocarro",
+"Vehicle"
+},
+{
+"Santo Tirso",
+"Location"
+},
+{
+"Bombeiros",
+"Organization"
+},
+{
+"Vila das Aves",
+"Location"
+},
+{
+"Hospital São João",
+"Facility"
+},
+{
+"Lusa",
+"Media"
+},
+{
+"Proteção Civil",
+"Organization"
+},
+{
+"GNR",
+"Law_Enforcement"
+}
+]

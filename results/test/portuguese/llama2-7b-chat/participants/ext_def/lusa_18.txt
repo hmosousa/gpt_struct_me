@@ -1,0 +1,13 @@
+[
+"Suspeita de fogo posto",
+"Leonel Correia da Silva",
+"Vereador da autarquia de Câmara de Lobos",
+"Autarca",
+"Fogo posto",
+"Casa desabitada",
+"Jardim da Serra",
+"Concelho de Câmara de Lobos",
+"Há suspeitas de fogo posto",
+"Danos provocados pelo fogo são apenas materiais",
+"Bombeiros de Câmara de Lobos"
+]

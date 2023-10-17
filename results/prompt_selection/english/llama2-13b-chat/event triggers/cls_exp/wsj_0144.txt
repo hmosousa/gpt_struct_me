@@ -1,0 +1,15 @@
+[["Travelers Corp.", "ORGANIZATION"], ["Hurricane Hugo", "OCCURRENCE"], ["earnings", "I_STATE"], ["net income", "I_STATE"], ["claims", "OCCURRENCE"], ["results", "OCCURRENCE"], ["revenue", "OCCURRENCE"], ["estimated", "I_STATE"], ["California earthquake", "OCCURRENCE"], ["pre-tax charge", "OCCURRENCE"], ["commercial property/casualty lines", "OCCURRENCE"], ["personal property/casualty business", "OCCURRENCE"], ["employee benefits group", "ORGANIZATION"], ["group health insurance operations", "OCCURRENCE"], ["loss", "I_STATE"], ["year-ago results", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["underperforming real estate and mortgage loans", "OCCURRENCE"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Travelers Corp."), and the second string is the class (e.g. "ORGANIZATION"). The classes are:
+
+* OCCURRENCE: events or occurrences that happen in the world
+* I_STATE: states or conditions of entities
+* I_ACTION: actions taken by entities
+* ASPECTUAL: aspects or features of entities or events
+* REPORTING: reporting or mentioning of events or entities
+* PERCEPTION: perceptions or interpretations of events or entities
+* STATE: states or conditions of entities
+* OCCURRENCE: events or occurrences that happen in the world
+
+Note that some entities may be assigned to multiple classes, depending on the context and the specific event or action being described.

@@ -1,0 +1,12 @@
+[["PJ da Guiné-Bissau", "Org"], ["detém", "Per"], ["homem", "Per"], ["com", "Per"], ["tres", "Per"], ["quilos", "Obj"], ["de", "Per"], ["cocaína", "Obj"], ["no", "Loc"], ["aeroporto", "Loc"], ["que", "Per"], ["tentava", "Per"], ["embarcar", "Per"], ["num", "Loc"], ["voo", "Loc"], ["com", "Per"], ["destino", "Per"], ["a", "Loc"], ["Lisboa", "Loc"], ["anunciou", "Per"], ["aquela", "Per"], ["força", "Org"], ["policial", "Org"], ["em", "Per"], ["comunicado", "Per"], ["segundo", "Per"], ["o", "Per"], ["homem", "Per"], ["um", "Per"], ["cidad\u00f3o", "Per"], ["luso-guineense", "Per"], ["com", "Per"], ["3", "Per"], ["quilogramas", "Obj"], ["de", "Per"], ["coca\u00ednea", "Obj"], ["dissimulada", "Per"], ["na", "Loc"], ["sua", "Loc"], ["cintura", "Loc"], ["e", "Per"], ["foi", "Per"], ["detido", "Per"], ["no", "Loc"], ["aeroporto", "Loc"], ["internacional", "Loc"], ["Osvaldo", "Loc"], ["Vieira", "Loc"], ["em", "Per"], ["Bissau", "Loc"], ["e", "Per"], ["ser\u00e1", "Per"], ["hoje", "Per"], ["presente", "Per"], ["ao", "Per"], ["Minist\u00e9rio", "Org"], ["P\u00e9blico", "Org"], ["no", "Per"], ["in\u00e7cio", "Per"], ["de", "Per"], ["outubro", "Per"], ["a", "Per"], ["PJ", "Org"], ["al\u00e1", "Per"], ["det\u00e9ve", "Per"], ["igualmente", "Per"], ["um", "Per"], ["homem", "Per"], ["por", "Per"], ["alegado", "Per"], ["envolvimento", "Per"], ["na", "Loc"], ["aquisi\u00e7\u00f5o", "Loc"], ["entrega", "Per"], ["e", "Per"], ["facilita\u00e7\u00f5o", "Per"], ["na", "Loc"], ["introdu\u00e7\u00f5o", "Loc"], ["do", "Loc"], ["aeroporto", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"PJ da Guiné-Bissau detém homem com três quilos de cocaína no aeroporto
+A Polícia Judiciária da Guiné-Bissau deteve no sábado um homem na posse de três quilogramas de cocaína, quando tentava embarcar num voo com destino a Lisboa, anunciou aquela força policial, em comunicado.
+Segundo o comunicado, o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura e foi detido no aeroporto internacional Osvaldo Vieira, em Bissau.
+A PJ acrescenta que o homem, com 47 anos de idade, será hoje presente ao Ministério Público.
+No início de outubro, a PJ já tinha detido também no aeroporto Osvaldo Vieira um outro cidadão luso-guineense, com 22 anos de idade, na posse de um quilograma de cocaína, quando se preparava para viajar para Lisboa.
+No âmbito daquela detenção, a PJ deteve igualmente três homens por alegado envolvimento na "aquis

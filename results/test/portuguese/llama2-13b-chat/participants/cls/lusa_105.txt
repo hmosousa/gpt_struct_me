@@ -1,0 +1,18 @@
+[
+["GNR", "Organization"],
+["homem", "Person"],
+["Vila do Conde", "Location"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["Tribunal Judicial de Vila do Conde", "Organization"],
+["Estabelecimento Prisional do Porto", "Location"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* homem is a person.
+* Vila do Conde is a location.
+* heroína and cocaína are objects.
+* Tribunal Judicial de Vila do Conde is an organization.
+* Estabelecimento Prisional do Porto is a location.

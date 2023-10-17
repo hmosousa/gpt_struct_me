@@ -1,0 +1,19 @@
+[
+["Homem de 48 anos", "State"],
+["acidente de trabalho", "Occurrence"],
+["Um homem de 48 morreu", "Reporting"],
+["Trata-se de um acidente que envolve uma queda em altura", "Perception"],
+["O homem de 48 anos trabalhava numa obra de construção civil", "Aspectual"],
+["A vítima acabaria por não resistir aos ferimentos", "Intensional Action"],
+["acabando por falecer", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem de 48 anos" is a State as it describes the age of the victim.
+* "acidente de trabalho" is an Occurrence as it refers to an event that happened at work.
+* "Um homem de 48 morreu" is a Reporting as it reports the death of a man.
+* "Trata-se de um acidente que envolve uma queda em altura" is a Perception as it describes the nature of the accident.
+* "O homem de 48 anos trabalhava numa obra de construção civil" is an Aspectual as it describes the victim's job.
+* "A vítima acabaria por não resistir aos ferimentos" is an Intensional Action as it describes the victim's fate.
+* "acabando por falecer" is an Intensional State as it describes the victim's final state.

@@ -1,1 +1,0 @@
-[["detetado", "Occurrence"], ["alertado", "Occurrence"], ["confirmaram", "Occurrence"], ["retirado", "Occurrence"], ["transportado", "Occurrence"], ["autopsiado", "Occurrence"]]

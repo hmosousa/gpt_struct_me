@@ -1,0 +1,21 @@
+[
+["Homem", "Person"],
+["Veículo ligeiro", "Object"],
+["Estrada Nacional 10-8", "Location"],
+["Mitrena", "Location"],
+["PSP", "Organization"],
+["Proteção Civil", "Organization"],
+["Comando Distrital de Operações de Socorro", "Organization"],
+["Hospital de São Bernardo", "Facility"],
+["São Bernardo", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Veículo ligeiro" is an object.
+* "Estrada Nacional 10-8" and "Mitrena" are locations.
+* "PSP" and "Proteção Civil" are organizations.
+* "Comando Distrital de Operações de Socorro" is an organization.
+* "Hospital de São Bernardo" is a facility.
+* "São Bernardo" is a location.

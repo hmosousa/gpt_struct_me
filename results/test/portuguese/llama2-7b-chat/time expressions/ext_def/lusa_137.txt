@@ -1,0 +1,9 @@
+[
+"this afternoon",
+"since Monday",
+"two kilometers",
+"17:00",
+"last night",
+"this morning",
+"15:40"
+]

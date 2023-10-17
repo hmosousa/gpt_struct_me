@@ -1,0 +1,24 @@
+[
+["GNR", "Organization"],
+["Aveiro", "Location"],
+["atum-rabilho", "Object"],
+["390 quilogramas", "Quantity"],
+["313 quilos", "Quantity"],
+["condutor do veículo", "Person"],
+["mestre da embarcação", "Person"],
+["coima", "Other"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* Aveiro is a location.
+* atum-rabilho is an object.
+* 390 quilogramas and 313 quilos are quantities.
+* condutor do veículo and mestre da embarcação are people.
+* coima is an other.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities and classes were extracted based on the context of the text and the information provided.

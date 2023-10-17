@@ -1,0 +1,7 @@
+[["PJ", "Autoridade"], ["Setúbal", "Local"], ["quarta-feira", "Time"], ["coletividade", "Set"], ["63", "Idade"], ["jovem", "Persona"], ["almoçar", "Activity"], ["arma de fogo", "Object"], ["ferimentos", "Injury"], ["ombro", "Body Part"], ["braço", "Body Part"], ["prisão preventiva", "Penalty"]]
+
+Note:
+* The input text is in Portuguese, and the output is in JSON format, with each element being a list of two strings, where the first string is the entity and the second is the class.
+* The classes are: "Autoridade" (Authority), "Local" (Location), "Time" (Time), "Set" (Set), "Idade" (Age), "Persona" (Person), "Activity" (Activity), "Object" (Object), "Injury" (Injury), "Body Part" (Body Part), and "Penalty" (Penalty).
+* The input text describes an incident where a 63-year-old man was arrested for allegedly shooting a young person in a collective in Setúbal, Portugal, on a Wednesday.
+* The output includes the entities and classes extracted from the text, with each entity represented as a list of two strings, where the first string is the name of the entity and the second string is the class it belongs to.

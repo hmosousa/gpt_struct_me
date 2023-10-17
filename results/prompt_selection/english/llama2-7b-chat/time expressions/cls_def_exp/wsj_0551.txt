@@ -1,0 +1,10 @@
+[["Trustcorp Inc.", "DATE"], ["Society Corp.", "DATE"], ["12.4 million shares of stock", "DURATION"], ["June", "DATE"], ["year end", "DATE"]]
+
+Note:
+
+* The input text is a news article and the output is a list of time expressions.
+* The time expressions are classified into four categories: Date, Time, Duration, and Set.
+* The output list includes the entity and the class of each time expression.
+* The time expressions are represented as lists with two strings, where the first string is the entity and the second string is the class.
+* The input text contains several time expressions, including dates, times, durations, and sets of time.
+* The output list includes all the time expressions found in the input text.

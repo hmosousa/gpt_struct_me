@@ -1,0 +1,15 @@
+[["morre", "I_Action"], ["esfaqueado", "Occurrence"], ["costas", "Location"], ["Lisboa", "Location"], ["informou", "Reporting"], ["PSP", "Organization"], ["Comando Metropolitano de Lisboa", "Organization"], ["Cometlis", "Organization"], ["desentendimento", "Occurrence"], ["arma branca", "Object"], ["tendo", "Reporting"], ["detido", "I_Action"], ["Avenida Almirante Reis", "Location"], ["polícia", "Organization"], ["PJ", "Organization"], ["crime de homicídio", "Occurrence"], ["fitas de segurança", "Object"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "morre", "esfaqueado", "Lisboa") and the second string is the class (e.g. "I_Action", "Occurrence", "Location").
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event. The classes are the categories that the event triggers belong to, based on their semantic meaning.
+
+For example, in the first input text, the event triggers are "Covi-19", "erros", "quarentena", "mortes", "desculpa", "programa", "investigação", "transmissão comunitária". These event triggers can be classified into the following classes:
+
+* "Covi-19" and "quarentena" belong to the class "State" because they describe the current state of the system.
+* "erros" and "mortes" belong to the class "Occurrence" because they describe events that have happened.
+* "desculpa" and "investigação" belong to the class "Reporting" because they describe the act of reporting or investigating.
+* "transmissão comunitária" belongs to the class "Aspectual" because it describes a potential future event.
+
+Your task is to extract and classify all event triggers from the input text, using the same classes as above.

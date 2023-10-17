@@ -1,0 +1,1 @@
+["morto", "tiro", "baleado", "dois tiros", "atirador", "fuga", "disse", "incidente", "ocorreu", "tratando-se", "suspeita", "homicídio", "envolvendo", "armas de fogo", "ocorrência", "acompanhada", "investigação", "caso"]

@@ -1,0 +1,16 @@
+["Homem encontrado morto em ribeira numa aldeia de Tondela",
+"Um homem de 54 anos foi hoje à tarde encontrado morto numa ribeira na aldeia de Fráguas, concelho de Tondela, afirmou à agência Lusa fonte da GNR, salientando que não há suspeitas de crime.
+Segundo fonte do Comando Territorial da GNR de Viseu, o homem terá "caído da berma da via para a ribeira" - uma queda de cerca de dois metros.
+"Poderá, eventualmente, ter havido um acidente. Ainda estamos a tentar perceber o contexto", acrescentou.
+De acordo com a mesma fonte, o óbito foi confirmado no local e o corpo foi transportado para o Instituto Nacional de Medicina Legal.
+Segundo o Comando Distrital de Operações de Socorro de Viseu, no local, estiveram nove operacionais, apoiados por quatro veículos."]
+
+Explanation:
+The time expressions are:
+"Homem encontrado morto em ribeira numa aldeia de Tondela"
+"Um homem de 54 anos foi hoje à tarde encontrado morto numa ribeira na aldeia de Fráguas, concelho de Tondela, afirmou à agência Lusa fonte da GNR, salientando que não há suspeitas de crime.
+Segundo fonte do Comando Territorial da GNR de Viseu, o homem terá "caído da berma da via para a ribeira" - uma queda de cerca de dois metros.
+"Poderá, eventualmente, ter havido um acidente. Ainda estamos a tentar perceber o contexto", acrescentou.
+De acordo com a mesma fonte, o óbito foi confirmado no local e o corpo foi transportado para o Instituto Nacional de Medicina Legal.
+Segundo o Comando Distrital de Operações de Socorro de Viseu, no local, estiveram nove operacionais, apoiados por quatro veículos."
+

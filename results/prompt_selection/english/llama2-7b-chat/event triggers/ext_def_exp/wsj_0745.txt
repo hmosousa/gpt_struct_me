@@ -1,0 +1,3 @@
+	["wants", "first", "salvo", "control", "officials", "level", "bid", "ventures", "restriction", "agree", "meeting", "probably", "give", "hostile", "settle", "independent", "tour", "answers", "smothered", "thinking", "Politics", "proceed", "request", "unlocks"]
+
+Note: This output is in JSON format, which is a lightweight data interchange format. It is easy for humans to read and write, and for machines to parse and generate.

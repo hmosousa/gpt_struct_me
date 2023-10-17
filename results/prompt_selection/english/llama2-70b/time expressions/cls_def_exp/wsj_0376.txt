@@ -1,0 +1,1 @@
+[["#473", "NUMBER"], ["next year's first quarter", "DATE"], ["15 pence", "NUMBER"], ["362 pence", "NUMBER"], ["about #1.44 billion", "NUMBER"], ["#4 billion", "NUMBER"], ["#980 million", "NUMBER"], ["March 31", "DATE"]]

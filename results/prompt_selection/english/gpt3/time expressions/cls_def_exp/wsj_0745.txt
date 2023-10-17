@@ -1,0 +1,1 @@
+[["last week", "DATE"], ["Tuesday's", "DATE"], ["Tuesday", "DATE"], ["Thursday", "DATE"], ["Wednesday", "DATE"], ["Thursday", "DATE"], ["Tuesday", "DATE"], ["14 months", "DURATION"], ["Dec. 31, 1990", "DATE"], ["1984", "DATE"], ["1988", "DATE"], ["2.5 billion", "DURATION"], ["4 billion", "DURATION"]]

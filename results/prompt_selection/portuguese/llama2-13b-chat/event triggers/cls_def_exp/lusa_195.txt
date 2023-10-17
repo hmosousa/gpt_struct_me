@@ -1,0 +1,36 @@
+[["detém", "I_Action"], ["homem", "Entity"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "Entity"], ["coletividade", "Entity"], ["Setúbal", "Location"], ["polícia", "Entity"], ["judiciária", "Entity"], ["PJ", "Entity"], ["disparou", "Occurrence"], ["arma", "Entity"], ["fogo", "Occurrence"], ["ferimentos", "Occurrence"], ["consideráveis", "Adjective"], ["ombro", "Noun"], ["braço", "Noun"], ["detido", "Entity"], ["fugiu", "Occurrence"], ["local", "Location"], ["indiciado", "I_Action"], ["crimes", "Noun"], ["homicídio", "Noun"], ["qualificado", "Adjective"], ["tentada", "Adjective"], ["detenção", "I_Action"], ["prisão", "Noun"], ["preventiva", "Adjective"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "homem", "jovem", "coletividade") and the second string is the class (e.g. "I_Action", "State", "Occurrence").
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action.
+
+For example, in the first input text, the event triggers are:
+
+* "pediu" (I_Action)
+* "desculpa" (State)
+* "erros" (Occurrence)
+* "levaram" (Occurrence)
+* "mortes" (Occurrence)
+* "quarentena" (State)
+* "divulgação" (Occurrence)
+* "explicou" (Reporting)
+
+In the second input text, the event triggers are:
+
+* "detém" (I_Action)
+* "homem" (Entity)
+* "suspeito" (State)
+* "balear" (Occurrence)
+* "jovem" (Entity)
+* "coletividade" (Entity)
+* "Setúbal" (Location)
+* "polícia" (Entity)
+* "judiciária" (Entity)
+* "PJ" (Entity)
+* "disparou" (Occurrence)
+* "arma" (Entity)
+* "fogo" (Occurrence)
+* "ferimentos" (Occurrence)
+
+Your task is to extract and classify all event triggers from the input text, using the classes you were given (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State).

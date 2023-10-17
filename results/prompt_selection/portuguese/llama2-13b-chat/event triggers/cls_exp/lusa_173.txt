@@ -1,0 +1,11 @@
+[["encontrado", "I_Action"], ["morto", "State"], ["cisterna", "Location"], ["camião", "Location"], ["fazendo", "Occurrence"], ["desaparecido", "Occurrence"], ["sábado", "Date"], ["graduado", "Person"], ["conseguiu", "Reporting"], ["determinar", "Occurrence"], ["causa", "Occurrence"], ["compareceu", "Reporting"], ["Delegada", "Person"], ["Polícia", "Organization"], ["Judiciária", "Organization"], ["tomou", "I_Action"], ["controle", "State"], ["local", "Location"], ["esteve", "Reporting"], ["Viatura", "Organization"], ["Médica", "Organization"], ["Emergência", "Occurrence"], ["Reanimação", "Occurrence"], ["transporte", "I_Action"], ["cadáver", "State"], ["Hospital", "Location"], ["Infante", "Person"], ["D. Pedro", "Person"]]
+
+Note:
+The classes are the same as in the previous task.
+
+Hint:
+The input text is a news article about a man found dead in a truck's tank in Estarreja.
+
+Please help me with this task. I'm having trouble understanding how to classify the event triggers.
+
+Thank you!

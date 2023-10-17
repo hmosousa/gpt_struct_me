@@ -1,0 +1,33 @@
+[
+["Travelers Corp.", "State"],
+["Hurricane Hugo", "Occurrence"],
+["California earthquake", "Occurrence"],
+["third-quarter", "Aspectual"],
+["earnings", "Intensional Action"],
+["commercial property/casualty lines", "Intensional Action"],
+["personal property/casualty business", "Intensional Action"],
+["group health insurance operations", "Intensional State"],
+["first nine months", "Aspectual"],
+["1988 period", "Aspectual"]
+]
+
+Explanation:
+
+1. Travelers Corp. - State (class)
+2. Hurricane Hugo - Occurrence (class)
+3. California earthquake - Occurrence (class)
+4. third-quarter - Aspectual (class)
+5. earnings - Intensional Action (class)
+6. commercial property/casualty lines - Intensional Action (class)
+7. personal property/casualty business - Intensional Action (class)
+8. group health insurance operations - Intensional State (class)
+9. first nine months - Aspectual (class)
+10. 1988 period - Aspectual (class)
+
+Note:
+
+* State: refers to a situation or condition that holds over a period of time.
+* Occurrence: refers to an event or incident that happens at a specific point in time.
+* Aspectual: refers to a situation or condition that is true or holds at a specific point in time.
+* Intensional Action: refers to an action or event that is performed or happens with a specific goal or intention.
+* Intensional State: refers to a state or condition that is true or holds at a specific point in time, and is often the result of an action or event.

@@ -1,0 +1,1 @@
+[["em segunda-feira", "Date"], ["390 quilogramas", "Duration"], ["37.500 euros", "Time"], ["2020", "Date"], ["atum-rabilho", "Time"], ["GNR", "Organization"], ["Aveiro", "Location"]]

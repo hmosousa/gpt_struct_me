@@ -1,0 +1,16 @@
+[
+["hoje", "Date"],
+["06:55", "Time"],
+["34 anos", "Duration"],
+["uma VMER", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "hoje" (today) is a date expression and should be classified as such.
+* "06:55" (6:55 AM) is a time expression and should be classified as such.
+* "34 anos" (34 years) is a duration expression and should be classified as such.
+* "uma VMER" (a medical emergency and reanimation vehicle) is a set expression and should be classified as such.
+
+The output should be a JSON-parseable list with four elements, each containing the temporal expression and its corresponding class.

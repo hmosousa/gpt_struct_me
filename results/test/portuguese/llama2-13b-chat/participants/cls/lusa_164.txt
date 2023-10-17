@@ -1,0 +1,31 @@
+[
+["PJ", "Organization"],
+["homem de Penafiel", "Person"],
+["mulher", "Person"],
+["facada", "Object"],
+["madrugada", "Object"],
+["Diretoria do Norte", "Organization"],
+["GNR", "Organization"],
+["vítima", "Person"],
+["concelho de Penafiel", "Location"],
+["distrito do Porto", "Location"],
+["meios de socorro", "Object"],
+["manobras", "Object"],
+["óbito", "Object"]
+]
+
+Explanation:
+
+* PJ is an organization, so it is classified as "Organization".
+* homem de Penafiel is a person, so it is classified as "Person".
+* mulher is a person, so it is classified as "Person".
+* facada is an object, so it is classified as "Object".
+* madrugada is an object, so it is classified as "Object".
+* Diretoria do Norte is an organization, so it is classified as "Organization".
+* GNR is an organization, so it is classified as "Organization".
+* vítima is a person, so it is classified as "Person".
+* concelho de Penafiel is a location, so it is classified as "Location".
+* distrito do Porto is a location, so it is classified as "Location".
+* meios de socorro is an object, so it is classified as "Object".
+* manobras is an object, so it is classified as "Object".
+*óbito is an object, so it is classified as "Object".

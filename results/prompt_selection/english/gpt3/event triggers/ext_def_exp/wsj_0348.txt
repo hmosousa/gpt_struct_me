@@ -1,0 +1,1 @@
+["jumped", "said", "soared", "closed", "began", "said", "up", "reported", "more", "twice", "rose"]

@@ -1,0 +1,19 @@
+[
+["GNR de Leiria", "State"],
+["descarga ilegal de efluentes suinícolas", "Occurrence"],
+["Ação de patrulhamento", "Reporting"],
+["efluentes pecuários a escorrer livremente para o solo", "Perception"],
+["exploração agropecuária", "Aspectual"],
+["elaboração de um auto de contraordenação", "Intensional Action"],
+["punível com uma coima no valor máximo de 144 mil euros", "Intensional State"]
+]
+
+Explanation:
+
+* "GNR de Leiria" is a State entity, as it refers to a specific organization.
+* "descarga ilegal de efluentes suinícolas" is an Occurrence entity, as it refers to a specific event or situation.
+* "Ação de patrulhamento" is a Reporting entity, as it refers to an action taken by the GNR.
+* "efluentes pecuários a escorrer livremente para o solo" is a Perception entity, as it refers to a sensory perception of the environment.
+* "exploração agropecuária" is an Aspectual entity, as it refers to a particular aspect or feature of the situation.
+* "elaboração de um auto de contraordenação" is an Intensional Action entity, as it refers to an action that was taken in order to address the situation.
+* "punível com uma coima no valor máximo de 144 mil euros" is an Intensional State entity, as it refers to a potential outcome or consequence of the situation.

@@ -1,0 +1,1 @@
+[["sold", "OCCURRENCE"], ["represents", "OCCURRENCE"], ["operates", "OCCURRENCE"], ["lent", "OCCURRENCE"], ["convertible", "STATE"], ["extended", "OCCURRENCE"], ["increase", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["increased", "OCCURRENCE"], ["said", "REPORTING"]]

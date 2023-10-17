@@ -1,0 +1,22 @@
+[
+["GNR", "Organization"],
+["25 cães", "Object"],
+["Seia", "Location"],
+["homem", "Person"],
+["58 anos", "Person"],
+["crime de maus-tratos a animais de companhia", "Nature"],
+["Núcleo de Investigação de Crimes e Contraordenações Ambientais (NICCOA)", "Organization"],
+["Núcleo de Proteção Ambiental (NPA)", "Organization"],
+["Veterinário Municipal de Seia", "Organization"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* 25 cães is an object.
+* Seia is a location.
+* homem is a person.
+* 58 anos is a person.
+* crime de maus-tratos a animais de companhia is a nature.
+* Núcleo de Investigação de Crimes e Contraordenações Ambientais (NICCOA) and Núcleo de Proteção Ambiental (NPA) are organizations.
+* Veterinário Municipal de Seia is an organization.

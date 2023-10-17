@@ -1,1 +1,0 @@
-[["encontrado", "Occurrence"], ["boiar", "State"], ["revelou", "Reporting"], ["caído", "State"], ["praticava", "Intensional Action"], ["dado", "State"], ["ativada", "State"], ["procedeu", "Intensional Action"], ["transportando", "Intensional Action"], ["declarado", "State"], ["transportado", "Intensional Action"], ["tomou", "Intensional Action"]]

@@ -1,0 +1,1 @@
+[["Pelo menos", "Other"], ["sete pessoas", "Per"], ["mortas", "Obj"], ["outras sete", "Per"], ["feridas", "Obj"], ["num ataque", "Org"], ["com uma faca", "Fac"], ["no nordeste da China", "Loc"], ["noticiaram hoje", "Verb"], ["os meios de comunicação estatais.", "Adv"]]

@@ -1,0 +1,15 @@
+["Desabamento de casa mata pelo menos oito pessoas na Índia", "chuvas sem precedentes", "graves inundações", "muro caído sobre uma casa vizinha", "casa desabou com o impacto", "forte chuva em Hyderabad", "inundações em áreas baixas da cidade", "autoridades usaram barcos para retirar pessoas", "severas inundações", "pessoas morreram na Índia", "Bangladesh e Nepal", "milhões foram deslocadas das suas casas"]
+
+Note:
+
+* "Desabamento de casa" é um evento, pois é uma ocorrência que aconteceu em um determinado momento.
+* "chuvas sem precedentes" é um evento, pois é uma condição que ocorreu pela primeira vez.
+* "graves inundações" é um evento, pois é uma condição que causou danos e perda de vida.
+* "muro caído sobre uma casa vizinha" é um evento, pois é uma ação que ocorreu e causou danos.
+* "casa desabou com o impacto" é um evento, pois é uma condição que ocorreu como resultado da ação do muro.
+* "forte chuva em Hyderabad" é um evento, pois é uma condição que ocorreu em um determinado momento e lugar.
+* "inundações em áreas baixas da cidade" é um evento, pois é uma condição que ocorreu em um determinado momento e lugar e causou danos.
+* "autoridades usaram barcos para retirar pessoas" é um evento, pois é uma ação que ocorreu em um determinado momento e lugar.
+* "severas inundações" é um evento, pois é uma condição que ocorreu em um determinado momento e lugar e causou danos e perda de vida.
+* "pessoas morreram na Índia", "Bangladesh e Nepal" são eventos, pois são condições que ocorreram em um determinado momento e lugar e causaram perda de vida.
+* "milhões foram deslocadas das suas casas" é um evento, pois é uma condição que ocorreu em um determinado momento e lugar e causou mudanças na vida das pessoas.

@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["pessoas", "Person"],
+["Yang", "Person"],
+["sauna", "Location"],
+["balneário", "Location"],
+["meios de comunicação estatais", "Organization"],
+["Liaoning", "Location"],
+["Guangxi", "Location"],
+["Pequim", "Location"],
+["segurança", "Person"],
+["escola", "Location"],
+["condenado", "Person"]
+]
+
+Explanation:
+
+1. "Homem" and "pessoas" are both classified as "Person".
+2. "Yang" is classified as "Person".
+3. "sauna" and "balneário" are both classified as "Location".
+4. "meios de comunicação estatais" is classified as "Organization".
+5. "Liaoning", "Guangxi", and "Pequim" are all classified as "Location".
+6. "segurança" is classified as "Person".
+7. "escola" is classified as "Location".
+8. "condenado" is classified as "Person".

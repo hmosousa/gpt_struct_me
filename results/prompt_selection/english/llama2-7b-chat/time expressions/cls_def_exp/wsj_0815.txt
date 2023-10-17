@@ -1,0 +1,5 @@
+[["Di Giorgio Corp", "ORGANIZATION"], ["certain units", "SET"], ["$32-a-share", "MONEY"], ["DIG Acquisition Corp", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"], ["Robert Mellor", "PERSON"], ["individual units", "SET"]]
+
+
+
+

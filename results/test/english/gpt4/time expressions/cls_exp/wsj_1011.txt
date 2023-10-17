@@ -1,0 +1,1 @@
+[["the fiscal first quarter", "DATE"], ["last spring", "DATE"], ["the quarter ended Sept. 30", "DATE"], ["a year earlier", "DATE"], ["During the quarter", "SET"], ["14% in the quarter", "DURATION"], ["now", "DATE"], ["third-quarter", "DATE"], ["a year earlier", "DATE"], ["Year-earlier", "DATE"], ["For the nine months", "DURATION"], ["a year earlier", "DATE"]]

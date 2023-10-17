@@ -1,0 +1,13 @@
+["after", "hoje", "depois", "em Matosinhos", "no distrito do Porto", "após cair", "do telhado", "que estava a limpar", "cerca das 15:30", "na Rua Augusto Gil", "de sete metros"]
+Explanation:
+* "after" - 1 time expression
+* "hoje" - 1 time expression
+* "depois" - 1 time expression
+* "em Matosinhos" - 1 time expression
+* "no distrito do Porto" - 1 time expression
+* "após cair" - 1 time expression
+* "do telhado" - 1 time expression
+* "que estava a limpar" - 1 time expression
+* "cerca das 15:30" - 1 time expression
+* "na Rua Augusto Gil" - 1 time expression
+* "de sete metros" - 1 time expression

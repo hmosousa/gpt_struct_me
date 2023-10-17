@@ -1,0 +1,4 @@
+
+JSON-parseable list of strings:
+
+["bid", "share", "valuables", "acceptances", "stake", "merger", "subsidiary", "acquisition", "restructuring", "businesses", "offering"]

@@ -1,0 +1,11 @@
+["Elco Industries Inc.", "June 30, 1990", "1989", "fiscal year", "1990", "Rockford", "Illinois", "current fiscal year", "sales", "margin pressures", "lower demand", "$1.65 a share", "$7.8 million", "1989", "stock", "over-the-counter trading", "yesterday"]
+
+Format:
+JSON-parseable list of strings.
+
+Note:
+
+* Time expressions are in the format of "X months/years ago", "next X", "X days/hours/minutes ago", etc.
+* The input text may contain multiple time expressions, separated by commas.
+* Each time expression is a string, and may contain additional information such as dates, times, or numbers.
+* The output is a JSON-parseable list of strings, where each string represents a time expression found in the input text.

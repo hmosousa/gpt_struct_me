@@ -1,0 +1,34 @@
+[
+{
+"entity": "ciclomotor",
+"class": "Occurrence"
+},
+{
+"entity": "veículo ligeiro",
+"class": "Object"
+},
+{
+"entity": "homem",
+"class": "Person"
+},
+{
+"entity": "PSP",
+"class": "Organization"
+},
+{
+"entity": "Proteção Civil",
+"class": "Organization"
+},
+{
+"entity": "Mitrena",
+"class": "Location"
+},
+{
+"entity": "Hospital de São Bernardo",
+"class": "Location"
+},
+{
+"entity": "servico de Medicina legal",
+"class": "Location"
+}
+]

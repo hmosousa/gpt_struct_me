@@ -1,0 +1,21 @@
+[
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Person"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Organization"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Object"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Location"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Nature"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Facility"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Other"]
+]
+
+Expected Output:
+[
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Person"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Organization"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Object"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Location"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Nature"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Facility"],
+  ["Corpo de homem encontrado a boiar no mar em Lagoa, no Algarve", "Other"]
+]
+

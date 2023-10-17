@@ -1,0 +1,4 @@
+["1990", "1989", "June 30", "fiscal year", "recent", "current", "yesterday"]
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,34 @@
+[["Trustcorp", "I_STATE"], ["Society", "I_STATE"], ["Corp", "I_STATE"], ["Cleveland", "I_STATE"], ["merger", "OCCURRENCE"], ["completed", "OCCURRENCE"], ["Society", "I_STATE"], ["Corp", "I_STATE"], ["agreed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["Trustcorp", "I_STATE"], ["Society", "I_STATE"], ["Corp", "I_STATE"], ["market", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["year", "OCCURRENCE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the collapse of the Enron Corp.
+The settlement, announced Monday, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement, which still must be approved by a federal judge, is the largest ever in a securities class-action lawsuit.
+The settlement,

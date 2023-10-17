@@ -1,0 +1,4 @@
+[["Jan. 13", "DATE"], ["next year's first quarter", "DATE"], ["March 31", "DATE"], ["5% to 10%", "DURATION"], ["Friday", "DATE"], ["15 pence", "AMOUNT"], ["362 pence", "AMOUNT"], ["#1.44 billion", "AMOUNT"], ["#4 billion", "AMOUNT"], ["Australian financier", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir James Goldsmith", "PERSON"], ["Julia Blake", "PERSON"], ["Courtaulds Textiles", "ORGANIZATION"], ["B.A.T Industries PLC", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

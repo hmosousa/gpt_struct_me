@@ -1,0 +1,46 @@
+[
+["Aprrendidas", "Occurrence"],
+["quase quatro toneladas de haxixe", "State"],
+["no rio Guadiana", "Location"],
+["GNR", "Reporting"],
+["madrugada", "Aspectual"],
+["hoje", "Intensional State"],
+["A Unidade de Controlo Costeiro", "Intensional Action"],
+["apreenderam", "Intensional Action"],
+["115 fardos de haxixe", "State"],
+["3.785 quilos", "State"],
+["uma embarcação de alta velocidade", "State"],
+["perto da foz do rio Guadiana", "Location"],
+["comportamento suspeito", "Perception"],
+["intercetada", "Occurrence"],
+["Foz de Odeleite", "Location"],
+["militares da GNR", "Reporting"],
+["suspeitos", "Perception"],
+["encetaram fuga", "Intensional Action"],
+["território espanhol", "Location"],
+["informaram as autoridades policiais espanholas", "Reporting"],
+["SIVICC", "Reporting"],
+["âmbito de uma ação de vigilância e patrulhamento da costa", "Occurrence"],
+["Polícia Judiciária (PJ)", "Reporting"]
+]
+
+Note:
+The input text is in Portuguese, and the output should be in English.
+
+This task is a classification task, where the goal is to classify each entity in the input text into one of the seven classes: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+
+The input text is a news article about the seizure of drugs by the GNR (Portuguese military police) in the Guadiana River. The article mentions the quantity of drugs seized, the location of the seizure, the actions of the GNR, and the suspects' escape into Spanish territory.
+
+The output should be a list of pairs, where each pair consists of an entity (a word or phrase) and its corresponding class. For example, "Aprrendidas" should be classified as "Occurrence", "quase quatro toneladas de haxixe" as "State", and "GNR" as "Reporting".
+
+The classes are defined as follows:
+
+* State: refers to a state of being or a condition.
+* Occurrence: refers to an event or a happening.
+* Reporting: refers to the act of reporting or describing an event.
+* Perception: refers to the way something is perceived or understood.
+* Aspectual: refers to a particular aspect or feature of something.
+* Intensional Action: refers to an action that is intended or planned.
+* Intensional State: refers to a state that is intended or planned.
+
+The task requires identifying the entities in the input text and classifying them into the appropriate class based on their meaning and context.

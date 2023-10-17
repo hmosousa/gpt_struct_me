@@ -1,1 +1,0 @@
-["homem", "mulher", "Ministério Público", "Polícia Judiciária", "arguido", "vítima", "instituição de acolhimento", "MP", "PJ"]

@@ -1,0 +1,37 @@
+[
+["Homem", "Person"],
+["Terceira", "Location"],
+["Açores", "Location"],
+["Polícia Marítima", "Organization"],
+["Polícia de Segurança Pública", "Organization"],
+["Praia da Vitória", "Location"],
+["Hospital de Angra do Heroísmo", "Facility"],
+["Bombeiros Voluntários", "Organization"]
+]
+
+Explanation:
+The input text mentions several entities and locations. The entities are:
+
+* Homem (man)
+* Terceira (an island in the Azores)
+* Açores (an archipelago in the Atlantic Ocean)
+* Polícia Marítima (Maritime Police)
+* Polícia de Segurança Pública (Public Security Police)
+* Praia da Vitória (a beach in the Azores)
+* Hospital de Angra do Heroísmo (a hospital in the Azores)
+* Bombeiros Voluntários (Volunteer Firefighters)
+
+The locations are:
+
+* Terceira
+* Açores
+* Praia da Vitória
+* Hospital de Angra do Heroísmo
+
+The classes are:
+
+* Person (for the man who was found dead)
+* Location (for the places mentioned)
+* Organization (for the police forces and the hospital)
+* Facility (for the hospital)
+* Other (for the volunteer firefighters, as they don't fit into any of the other categories)

@@ -1,0 +1,9 @@
+[
+"Homem",
+"Mulher",
+"Ministério Público",
+"Polícia Judiciária",
+"Juiz de instrução",
+"Vítima",
+"Arguido"
+]

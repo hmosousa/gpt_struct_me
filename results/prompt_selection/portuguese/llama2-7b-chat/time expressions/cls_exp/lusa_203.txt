@@ -1,0 +1,4 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Note:
+The output is a list of time expressions, where each element is a list with two strings. The first string is the entity, and the second string is the class. The classes are: Date, Time, Duration, and Set.

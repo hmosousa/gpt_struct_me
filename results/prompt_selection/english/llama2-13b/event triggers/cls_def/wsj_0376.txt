@@ -1,0 +1,9 @@
+[
+  ["Courtaulds PLC", "State"],
+  ["Courtaulds PLC", "Occurrence"],
+  ["Courtaulds PLC", "Reporting"],
+  ["Courtaulds PLC", "Perception"],
+  ["Courtaulds PLC", "Aspectual"],
+  ["Courtaulds PLC", "Intensional Action"],
+  ["Courtaulds PLC", "Intensional State"]
+]

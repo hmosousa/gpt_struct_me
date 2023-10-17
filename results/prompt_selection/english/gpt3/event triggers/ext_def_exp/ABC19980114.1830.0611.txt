@@ -1,0 +1,1 @@
+["released", "hint", "calls", "explosion", "raise", "response", "details", "blew", "fireballs", "smoke", "clear", "prayer", "said"]

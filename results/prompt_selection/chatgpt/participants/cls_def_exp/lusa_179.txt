@@ -1,1 +1,0 @@
-[["Homem", "Person"], ["Penafiel", "Location"], ["Ministério Público", "Organization"], ["Polícia Judiciária", "Organization"], ["vítima", "Person"], ["instituição de acolhimento", "Facility"], ["mulher", "Person"], ["arguido", "Person"], ["PJ", "Organization"], ["suspeito", "Person"], ["MP", "Organization"], ["comarca de Porto-Este", "Location"]]

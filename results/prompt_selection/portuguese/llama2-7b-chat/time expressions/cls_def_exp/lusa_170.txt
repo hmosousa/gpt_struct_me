@@ -1,0 +1,1 @@
+[["Encontrado corpo de homem", "Object"], ["em zona rochosa", "Location"], ["na costa da Terceira", "Location"], ["segunda-feira", "Date"], ["desconhecendo-se as causas da morte", "Time"], ["Autoridade Marítima", "Organization"], ["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"], ["Polícia de Segurança Pública", "Organization"]]

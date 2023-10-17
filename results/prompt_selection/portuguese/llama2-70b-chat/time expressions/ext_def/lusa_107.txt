@@ -1,0 +1,12 @@
+["hoje", "12:50", "hora", "dezenas", "uma semana"]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "hoje" (today)
+* "12:50" (12:50 PM)
+* "hora" (hour)
+* "dezenas" (dozens)
+* "uma semana" (a week)
+
+These expressions convey information about the time of day, date, and duration of events described in the text. Therefore, they are classified as temporal expressions.

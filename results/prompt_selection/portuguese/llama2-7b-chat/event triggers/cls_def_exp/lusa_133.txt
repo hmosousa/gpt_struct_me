@@ -1,0 +1,12 @@
+	[["apreende", "I_Action"], ["390 quilogramas", "Aspectual"], ["atum-rabilho", "State"], ["captura", "Occurrence"], ["interdita", "State"], ["coima", "Aspectual"], ["37.500 euros", "Aspectual"], ["porto", "State"], ["Gafanha da Nazaré", "State"], ["Aveiro", "State"], ["comunicado", "Reporting"], ["Guarda", "I_Action"], ["militares", "I_Action"], ["encontraram", "Occurrence"], ["veículo", "I_Action"], ["77 quilos", "Aspectual"], ["interior", "Aspectual"], ["313 quilos", "Aspectual"], ["embarcção", "I_Action"], ["mestre", "I_Action"], ["auto de contraordenação", "Aspectual"], ["infração", "Aspectual"], ["punível", "Aspectual"], ["coima", "Aspectual"], ["instituição", "State"], ["solidariedade social", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article and the output is the classification of the event triggers.
+* The classes are: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+* The events are: apreende (I_Action), found (Occurrence), captured (Occurrence), interdita (State), coima (Aspectual), donated (State), etc.
+* The classes are used to identify the type of event and to classify the events in the input text.
+* The output can be used to analyze the text and to identify the main events and their characteristics.
+* The classes can be used to improve the understanding of the text and to provide more information about the events and their context.

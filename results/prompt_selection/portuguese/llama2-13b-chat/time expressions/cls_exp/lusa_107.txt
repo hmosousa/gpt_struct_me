@@ -1,0 +1,1 @@
+[["atropelada", "Event"], ["12:50", "Time"], ["Torreira", "Location"], ["uma mulher de 44 anos", "Person"], ["gravidade", "Modifier"], ["mariscadores", "Entity"], ["protesto", "Event"], ["GNR", "Entity"], ["Lusa", "Entity"], ["há mais de uma semana", "Duration"]]

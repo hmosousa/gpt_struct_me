@@ -1,0 +1,12 @@
+[["AVON RENT-A-CAR amp TRUCK Corp.", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["dividend", "OCCURRENCE"], ["one", "OCCURRENCE"], ["warrant", "OCCURRENCE"], ["three", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["outstanding", "STATE"], ["based", "OCCURRENCE"], ["Santa Monica", "LOCATION"], ["Calif.", "LOCATION"], ["issued", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["purchase", "OCCURRENCE"], ["$5.50", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["warrants", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["rate", "OCCURRENCE"]]
+
+Note:
+The output is a list of tuples, where each tuple contains the entity and the class label. The classes are:
+
+* OCCURRENCE: Events or actions that happen or are performed.
+* STATE: Properties or characteristics of entities.
+* REPORTING: Information or statements that are reported or communicated.
+* PERCEPTION: Perceptions or interpretations of events or information.
+* ASPECTUAL: Aspects or features of entities or events.
+* INTENSIONAL ACTION: Actions or events that are intended or planned.
+* INTENSIONAL STATE: States or properties that are intended or planned.

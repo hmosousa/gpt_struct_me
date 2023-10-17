@@ -1,0 +1,4 @@
+	["em Penafiel", "Penafiel", "Penafiel", "2017", "atualidade", "2017", "2020", "Porto-Este", "tráfico de pessoas para exploração sexual", "sequestro", "violação"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a time expression extracted from the input text. The time expressions are in the format of "x semana(es)", "x dia(es)", "x mês(es)", "x ano(es)", etc.

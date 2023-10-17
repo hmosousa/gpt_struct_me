@@ -1,0 +1,18 @@
+[
+["Homem", "Person"],
+["companheira", "Person"],
+["vítima", "Person"],
+["Polícia Judiciária", "Organization"],
+["Ministério Público", "Organization"],
+["juiz de instrução", "Organization"],
+["instituição de acolhimento", "Location"],
+["produto estupefaciente", "Object"]
+]
+
+Explanation:
+
+* "Homem" and "companheira" are both classified as "Person" because they are individuals involved in the event.
+* "vítima" is classified as "Person" because she is a human being who was exploited and suffered harm.
+* "Polícia Judiciária", "Ministério Público", and "juiz de instrução" are all classified as "Organization" because they are institutions or entities involved in the legal system.
+* "instituição de acolhimento" is classified as "Location" because it is a physical place where the victim was taken.
+* "produto estupefaciente" is classified as "Object" because it is a physical item that was used to manipulate the victim.

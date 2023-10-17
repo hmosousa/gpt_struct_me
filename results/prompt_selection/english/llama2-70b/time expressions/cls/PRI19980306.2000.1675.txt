@@ -1,0 +1,48 @@
+["1998", "date"], ["20th century", "duration"]
+"""
+import re
+from datetime import date
+
+def extract_time(text):
+   """
+   Extract time expressions from text
+   
+   Parameters
+   ----------
+       text : str
+           Text to be processed
+       
+   Returns
+   -------
+       list of tuples (str, str)
+           
+   """
+   # Regex for dates
+   regex = r"\d{4}"
+   matches = re.findall(regex, text)
+   if len(matches) > 0:
+       return [(match, 'date') for match in matches]
+   else:
+       return []
+
+def classify_time(text):
+   """
+   Classify extracted times
+   
+   Parameters
+   ----------
+       text : str
+           Text to be processed
+       
+   Returns
+   -------
+       list of tuples (str, str)
+           
+   """
+   # Regex for dates
+   regex = r"\d{4}"
+   matches = re.findall(regex, text)
+   if len(matches) > 0:
+       return [(match, 'date') for match in matches]
+   else:
+       return []

@@ -1,0 +1,1 @@
+[["named", "REPORTING"], ["appointed", "REPORTING"], ["succeeded", "REPORTING"], ["posted", "REPORTING"], ["include", "REPORTING"], ["terminated", "REPORTING"], ["hit", "REPORTING"], ["closed", "REPORTING"]]

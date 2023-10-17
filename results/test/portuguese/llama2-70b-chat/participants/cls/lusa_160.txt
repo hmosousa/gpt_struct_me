@@ -1,0 +1,22 @@
+[
+["Ministério Público", "Organization"],
+["homem", "Person"],
+["filha da companheira", "Person"],
+["Braga", "Location"],
+["Amares", "Location"],
+["Procuradoria-Geral Distrital do Porto", "Organization"],
+["2017", "Nature"],
+["2016", "Nature"],
+["2019", "Nature"]
+]
+
+Explanation:
+
+* Ministério Público is an organization, so it's classified as "Organization".
+* homem is a person, so it's classified as "Person".
+* filha da companheira is a person, so it's classified as "Person".
+* Braga and Amares are locations, so they're classified as "Location".
+* Procuradoria-Geral Distrital do Porto is an organization, so it's classified as "Organization".
+* 2017, 2016, and 2019 are natures, so they're classified as "Nature".
+
+Note that the classes used in this task are not exhaustive, and you may encounter other classes in real-world data.

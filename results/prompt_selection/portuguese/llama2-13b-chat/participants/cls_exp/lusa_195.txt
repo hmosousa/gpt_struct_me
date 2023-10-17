@@ -1,0 +1,11 @@
+[["um homem suspeito", "Per"], ["de balear jovem", "Per"], ["em coletividade de Setúbal", "Loc"], ["A Polícia Judiciária", "Org"], ["de Setúbal", "Loc"], ["deteteve", "Verb"], ["um homem de 63 anos", "Per"], ["segundo", "Other"], ["um comunicado", "Obj"], ["da PJ", "Org"], ["o presumível agressor", "Per"], ["terá disparado", "Verb"], ["sobre", "Pre"], ["a vítima", "Per"], ["na sequência", "Pre"], ["de um conflito", "Other"], ["com um grupo", "Other"], ["de convivas", "Other"], ["que se encontrava", "Pre"], ["a almoçar", "Other"], ["na coletividade", "Loc"], ["no Alto da Guerra", "Loc"], ["A polícia adianta", "Verb"], ["que", "Other"], ["o sexagenário", "Per"], ["acabou por alvejar", "Verb"], ["um jovem", "Per"], ["do grupo", "Other"], ["com um disparo", "Verb"], ["de arma de fogo", "Obj"], ["provoquando-lhe", "Verb"], ["ferimentos", "Other"], ["consideráveis", "Adj"], ["num ombro", "Other"], ["e braço", "Other"], ["O detido", "Per"], ["que fugiu", "Verb"], ["do local", "Loc"], ["está indiciado", "Verb"], ["pelo crime", "Other"], ["de homicídio qualificado", "Other"], ["na forma tentada", "Adj"], ["detenção de arma proibida", "Other"], ["e omissão de auxílio", "Other"]]
+
+Note:
+
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Loc" stands for "location"
+* "Other" stands for "other"
+* "Obj" stands for "object"
+* "Adj" stands for "adjective"
+* "Verb" stands for "verb"

@@ -1,0 +1,21 @@
+[
+["KLM", "Organization"],
+["Wopke Hoekstra", "Person"],
+["AFP", "Organization"],
+["pilotos", "Person"],
+["sindicato", "Organization"],
+["despesas", "Object"],
+["postos de trabalho", "Object"],
+["baixas salariais", "Object"],
+["Europa", "Location"]
+]
+
+Explanation:
+
+* KLM is an organization.
+* Wopke Hoekstra is a person.
+* AFP is an organization.
+* pilotos is a person.
+* sindicato is an organization.
+* despesas, postos de trabalho, baixas salariais are objects.
+* Europa is a location.

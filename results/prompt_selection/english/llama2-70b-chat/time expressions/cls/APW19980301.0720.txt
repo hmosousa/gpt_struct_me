@@ -1,0 +1,10 @@
+[
+["Sunday", "Date"],
+["Friday", "Date"],
+["1978", "Date"],
+["1985", "Date"],
+["last week", "Duration"],
+["last year", "Duration"],
+["February", "Date"],
+["two years", "Duration"]
+]

@@ -1,0 +1,44 @@
+[
+{
+"entity": "Homem",
+"class": "State"
+},
+{
+"entity": "Garrafa",
+"class": "Object"
+},
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Restaurante",
+"class": "Location"
+},
+{
+"entity": "Hospital",
+"class": "Location"
+},
+{
+"entity": "Automóvel",
+"class": "Object"
+},
+{
+"entity": "Vítima",
+"class": "Person"
+},
+{
+"entity": "Guarda",
+"class": "Organization"
+},
+{
+"entity": "Comando Distrital de Operações de Socorro",
+"class": "Organization"
+}
+]
+Note:
+* "entity" is the name of the entity (person, place, thing, etc.)
+* "class" is the category or class of the entity (person, place, thing, etc.)
+* The output is a list of JSON objects, where eachobject represents a single entity and its corresponding class.
+* The output is organized in a hierarchical manner, with the top-level objects representing the entities, and the nested objects representing the classes.
+* The classes are: State, Object, Person, Location, Organization.

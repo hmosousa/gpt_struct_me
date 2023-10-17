@@ -1,0 +1,8 @@
+["on Nov. 16", "March 1", "2011", "Friday", "last Monday"]
+
+Explanation:
+* "on Nov. 16" is a time expression representing a specific point in time (November 16th).
+* "March 1" is a time expression representing a specific point in time (March 1st).
+* "2011" is a time expression representing a year.
+* "Friday" is a time expression representing a specific day of the week (Friday).
+* "last Monday" is a time expression representing a specific day of the week (Monday, in the past).

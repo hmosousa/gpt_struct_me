@@ -1,0 +1,14 @@
+["heavy gunfire", "offensive", "people fleeing", "official Serb sources", "operation", "future", "much wider conflict"]
+
+Explanation:
+The task is to extract all event triggers from the given text. An event trigger is a word, phrase or expression that indicates the occurrence of an event. In this text, the following words and phrases are event triggers:
+
+* "heavy gunfire" (indicates the event of shooting)
+* "offensive" (indicates the event of an attack)
+* "people fleeing" (indicates the event of people leaving their homes)
+* "official Serb sources" (indicates the event of a statement or announcement being made)
+* "operation" (indicates the event of an action or activity being carried out)
+* "future" (indicates the event of something that will happen in the future)
+* "much wider conflict" (indicates the event of a larger and more extensive conflict)
+
+Note that some event triggers may be implied rather than explicitly stated, and some events may be inferred from the context rather than being explicitly mentioned.

@@ -1,0 +1,17 @@
+[["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["a apartamento", "Loc"], ["as autoridades", "Org"], ["a investigação", "Other"], ["a negligência", "Other"], ["a morte", "Other"], ["o ex-futebolista", "Other"], ["o telemóvel", "Obj"], ["a procuradoria-geral", "Org"], ["San Isidro", "Loc"], ["as buscas", "Other"], ["Leopoldo Luque", "Per"], ["Agustina Cosachov", "Per"], ["o hematoma subdural", "Obj"], ["a psiquiatra", "Per"], ["a justiça argentina", "Org"], ["o inquérito", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+* "Obj" stands for "Object"
+
+Hint:
+
+* Use a dictionary to keep track of the entities and classes
+* Each entity should be associated with a class
+* Use the entity and class to create a list of tuples
+
+Please let me know if you need any further clarification or assistance.

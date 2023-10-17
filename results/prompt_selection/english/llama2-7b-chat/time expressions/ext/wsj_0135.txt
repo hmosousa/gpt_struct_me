@@ -1,0 +1,19 @@
+[
+"year ending June 30, 1990",
+"current fiscal year",
+"fiscal 1989",
+"1990",
+"1989",
+"current year",
+"fiscal year",
+"1990",
+"1989"
+]
+Explanation:
+The time expressions in the given text are:
+* "year ending June 30, 1990"
+* "current fiscal year"
+* "fiscal 1989"
+* "1990"
+* "1989"
+These are the time expressions that can be found in the given text.

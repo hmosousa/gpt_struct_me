@@ -1,0 +1,30 @@
+["Encontrado", "um homem", "a boiar", "uma zona rochosa", "a costa leste", "a Terceira", "os Açores", "a Autoridade Marítima", "a Polícia Marítima", "Angra do Heroísmo", "a PSP", "a Polícia Marítima", "a Praia da Vitória", "a equipa", "os Bombeiros Voluntários", "a Hospital de Angra do Heroísmo", "a autopsiado", "as causas", "a morte"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é assassinado em casa de sua mãe
+Um homem de 20 anos foi assassinado a tiros na casa da sua mãe, em Vila Nova de Gaia, no Porto, no domingo à noite.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do quarto onde dormia, com um tiro na cabeça, segundo o Jornal de Notícias.
+O homem foi encontrado morto no chão do

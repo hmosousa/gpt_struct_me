@@ -1,0 +1,22 @@
+[
+["GNR", "Date"],
+["sábado", "Time"],
+["1.673", "Duration"],
+["1.570", "Duration"],
+["103", "Duration"],
+["844", "Duration"],
+["quatro", "Set"]
+]
+
+Explanation:
+The input text contains several time expressions:
+
+* "GNR detém" (GNR detains) - This is a date expression, as it refers to a specific event that occurred on a particular date.
+* "sábado" (Saturday) - This is a time expression, as it refers to a specific day of the week.
+* "1.673 doses de estupefacientes" (1.673 doses of narcotics) - This is a duration expression, as it refers to a quantity of something that was seized over a period of time.
+* "1.570 doses de heroína" (1.570 doses of heroin) - This is a duration expression, as it refers to a quantity of something that was seized over aperiod of time.
+* "103 doses de cocaína" (103 doses of cocaine) - This is a duration expression, as it refers to a quantity of something that was seized over a period of time.
+* "844 euros em numerário" (844 euros in cash) - This is a duration expression, as it refers to a quantity of money that was seized over a period of time.
+* "quatro telemóveis" (four mobile phones) - This is a set expression, as it refers to a collection of items that were seized.
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity (GNR, sábado, 1.673, etc.) and the second string is the class (Date, Time, Duration, Set).

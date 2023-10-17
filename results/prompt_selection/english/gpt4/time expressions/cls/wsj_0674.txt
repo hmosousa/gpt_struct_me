@@ -1,0 +1,8 @@
+[
+["Aug. 31", "Date"],
+["1988", "Date"],
+["this year", "Date"],
+["last year", "Date"],
+["annual", "Set"],
+["fourth-quarter", "Date"]
+]

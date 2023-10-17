@@ -1,0 +1,13 @@
+[["hoje à tarde", "Time"], ["60 e 70 anos", "Duration"], ["Estaquinha", "Date"], ["Algarve", "Date"], ["Faro", "Date"], ["Portimão", "Date"], ["hoje", "Time"], ["30 nov 2020", "Date"]]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following resources to help you with the task:
+
+* Portuguese date and time expressions
+* Regular expressions for date and time
+* Natural language processing libraries for Portuguese
+
+Note that the input text may contain other entities such as locations, organizations, and people, but your task is to extract and classify only time expressions.

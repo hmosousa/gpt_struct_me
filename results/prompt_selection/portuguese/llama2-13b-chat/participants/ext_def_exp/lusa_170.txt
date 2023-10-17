@@ -1,0 +1,10 @@
+
+Please provide the list of participants in the given text.
+
+Note:
+
+* Participants can be individuals, groups, or organizations.
+* Participants can have different roles or positions, such as actors, victims, witnesses, or perpetrators.
+* Participants can be mentioned explicitly or inferred from the context.
+
+Please provide the list of participants in the given text.

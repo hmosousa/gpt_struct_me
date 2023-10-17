@@ -1,0 +1,29 @@
+[
+["Grua de camião", "Object"],
+["poste de iluminação", "Object"],
+["homem de 52 anos", "Person"],
+["Um homem de 52 anos", "Person"],
+["outro", "Person"],
+["Rua da Constituição", "Location"],
+["Porto", "Location"],
+["PSP", "Organization"],
+["Comando Metropolitano da PSP do Porto", "Organization"],
+["Hospital de Santo António", "Facility"],
+["bombas de gasolina", "Object"],
+["funcionário", "Person"]
+]
+
+Note:
+The task is to extract and classify all participants in the given text. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* Person: A person or group of people
+* Organization: A company, institution, or organization
+* Object: A physical object or entity
+* Location: A place or location
+* Nature: A natural entity, such as a tree, animal, or mountain
+* Facility: A man-made structure or entity, such as a building, road, or vehicle
+* Other: Any other entity that does not fit into the above categories
+
+The input text is in Portuguese, and the task is to extract and classify all participants in the text. The output should be in English.

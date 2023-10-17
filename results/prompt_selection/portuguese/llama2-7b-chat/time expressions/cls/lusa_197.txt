@@ -1,0 +1,40 @@
+[
+{
+"entity": "Grua",
+"class": "Vehicle"
+},
+{
+"entity": "caminho",
+"class": "Location"
+},
+{
+"entity": "poste",
+"class": "Structure"
+},
+{
+"entity": "homem",
+"class": "Person"
+},
+{
+"entity": "Rua",
+"class": "Location"
+},
+{
+"entity": "iluminação",
+"class": "Object"
+},
+{
+"entity": "Hospital",
+"class": "Location"
+},
+{
+"entity": "fim",
+"class": "Event"
+}
+]
+Note:
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with time expressions.
+* The task is to extract and classify all time expressions in the input sentence.
+* The classes are: Date, Time, Duration, and Set.
+* The format of theoutput is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

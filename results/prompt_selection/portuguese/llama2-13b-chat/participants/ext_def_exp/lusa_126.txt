@@ -1,0 +1,9 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* Participants are individuals, groups, or entities that are directly or indirectly involved in an event or situation.
+* Participants can take on different roles, such as actors, agents, patients, victims, or observers.
+* Participants can be explicitly mentioned or inferred from the context.
+* Participants can be identified based on their relevance and significance to the situation.

@@ -1,0 +1,1 @@
+[["em Penafiel", "Location"], ["obrigar", "Action"], ["2017", "Date"], ["2020", "Date"], ["Penafiel", "Location"], ["Porto-Este", "Location"], ["tráfico de pessoas", "Crime"], ["sequestro", "Crime"], ["violação", "Crime"]]

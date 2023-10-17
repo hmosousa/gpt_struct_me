@@ -1,0 +1,13 @@
+["48", "hoje", "Vilarinhos dos Galegos", "Concelho de Mogadouro", "distrito de Bragança", "17 horas", "Mogadouro", "Suporte Imediato de Vida", "Instituto Nacional e Emergência Médica", "Macedo de Cavaleiros"]
+
+Note:
+The output is a list of strings, where each string represents a time expression. The time expressions are:
+* "em menos de uma semana" (in less than a week)
+* "hoje" (today)
+* "sábado" (Saturday)
+* "setembro" (September)
+* "final do ano" (end of the year)
+* "menos de uma semana" (less than a week)
+* "30 nov 2020" (November 30, 2020)
+* "época de veda" (fishing ban period)
+* "épocas de veda" (fishing ban periods)

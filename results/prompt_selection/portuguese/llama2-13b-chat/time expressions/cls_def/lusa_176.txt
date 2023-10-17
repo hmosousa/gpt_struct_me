@@ -1,0 +1,47 @@
+[
+["Homem", "Date"],
+["morre", "Time"],
+["após", "Duration"],
+["ciclomotor", "Set"],
+["que", "Set"],
+["conduzia", "Set"],
+["ser", "Set"],
+["colhido", "Duration"],
+["por", "Duration"],
+["veículo", "Set"],
+["ligeiro", "Set"],
+["na", "Set"],
+["Estrada", "Set"],
+["Nacional", "Set"],
+["10-8", "Duration"],
+["na", "Set"],
+["zona", "Set"],
+["da", "Set"],
+["Mitrena", "Set"],
+["em", "Set"],
+["Setúbal", "Date"]
+]
+
+Explanation:
+
+* "Homem" is a noun and its class is "Date" because it refers to a person who died.
+* "morre" is a verb and its class is "Time" because it indicates the time of death.
+* "após" is a preposition and its class is "Duration"because it indicates the time elapsed after the event.
+* "ciclomotor" is a noun and its class is "Set" because it refers to a specific type of vehicle.
+* "que" is a pronoun and its class is "Set" because it refers back to the subject "ciclomotor".
+* "conduzia" is a verb and its class is "Set" because it indicates the action of the subject "ciclomotor".
+* "ser" is a verb and its class is "Set" because it indicates the state of being.
+* "colhido" is a verb and its class is "Duration" because it indicates the time elapsed during the event.
+* "por" is a preposition and its class is "Duration" because it indicates the time elapsed during the event.
+* "veículo" is a noun and its class is "Set" because it refers to a specific type of vehicle.
+* "ligeiro" is an adjective and its class is "Set" because it describes the noun "veículo".
+* "na" is a preposition and its classis "Set" because it indicates the location of the event.
+* "Estrada" is a noun and its class is "Set" because it refers to a specific type of road.
+* "Nacional" is an adjective and its class is "Set" because it describes the noun "Estrada".
+* "10-8" is a number and its class is "Duration" because it indicates the distance of the road.
+* "na" is a preposition and its class is "Set" because it indicates the location of the event.
+* "zona" is a noun and its class is "Set" because it refers to a specific type of location.
+* "da" is a preposition and its class is "Set" because it indicates the location of the event.
+* "Mitrena" is a noun and its class is "Set" because it refers to a specific type of location.
+* "em" is a preposition and its class is "Set" because it indicates the location of the event.
+* "Setúbal" is a noun and its class is "Date" because it refers to a

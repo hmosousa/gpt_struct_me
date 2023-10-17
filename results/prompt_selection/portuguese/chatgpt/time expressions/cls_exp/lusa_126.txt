@@ -1,0 +1,1 @@
+[["sábado", "Date"], ["1.673 doses", "Set"], ["em comunicado", "Time"], ["no sábado", "Date"], ["no decorrer de uma ação", "Time"], ["no concelho de Sines", "Time"], ["1.570 doses", "Set"], ["103 doses", "Set"], ["844 euros", "Set"], ["quatro telemóveis", "Set"], ["ao Tribunal Judicial de Santiago do Cacém", "Time"]]

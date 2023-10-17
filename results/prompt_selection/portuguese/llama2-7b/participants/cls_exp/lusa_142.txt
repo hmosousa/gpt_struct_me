@@ -1,0 +1,14 @@
+[["GNR", "Org"], ["detém", "Per"], ["suspeita", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["apreende", "Per"], ["12.300", "Num"], ["doses", "Per"], ["de", "Per"], ["haxixe", "Per"], ["em", "Loc"], ["Mértola", "Loc"], ["a", "Loc"], ["GNR", "Org"], ["deteve", "Per"], ["uma", "Per"], ["mulher", "Per"], ["de", "Per"], ["36", "Num"], ["anos", "Per"], ["por", "Per"], ["suspeitas", "Per"], ["do", "Per"], ["crime", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["apreendeu", "Per"], ["12.300", "Num"], ["doses", "Per"], ["de", "Per"], ["haxixe", "Per"], ["no", "Loc"], ["concelho", "Loc"], ["alentejano", "Loc"], ["de", "Loc"], ["Beja", "Loc"], ["o", "Loc"], ["Tribunal", "Org"], ["Judicial", "Org"], ["de", "Org"], ["Beja", "Loc"], ["para", "Loc"], ["primeiro", "Per"], ["interrogatório", "Per"], ["e", "Per"], ["eventual", "Per"], ["aplicação", "Per"], ["de", "Per"], ["medidas", "Per"], ["de", "Per"], ["coação", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"A GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
+A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
+A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.
+Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, "demonstrou um comportamento nervoso", após ter sido abordada por militares da GNR.
+Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
+
+Output:
+[["A GNR", "Org"], ["detém", "Per"], ["suspeita", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["apreende", "Per"], ["12.300", "Num"], ["doses", "Per"], ["de", "Per"], ["haxixe", "Per"], ["em", "Loc"], ["Mértola", "Loc"], ["a", "Loc"], ["GNR", "Org"], ["deteve", "Per"], ["uma", "Per"], ["mulher", "Per"], ["de", "Per"], ["36", "Num"], ["anos", "Per"], ["por", "Per"], ["suspeitas", "Per"], ["do", "Per"], ["crime", "Per"], ["de", "Per"], ["tráfico", "Per"], ["de", "Per"], ["droga", "Per"], ["apreendeu", "Per"], ["

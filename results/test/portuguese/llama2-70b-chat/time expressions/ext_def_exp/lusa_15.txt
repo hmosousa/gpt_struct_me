@@ -1,0 +1,1 @@
+["hoje", "pelo menos", "20 anos", "este ano", "junho"]

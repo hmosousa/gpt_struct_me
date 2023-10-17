@@ -1,0 +1,142 @@
+[["third-quarter", "DATE"], ["11%", "NUMBER"], ["$40 million", "AMOUNT"], ["$94.2 million", "AMOUNT"], ["89 cents", "AMOUNT"], ["$31 million", "AMOUNT"], ["$3 billion", "AMOUNT"], ["$10 million", "AMOUNT"], ["less than $10 million", "AMOUNT"], ["59%", "NUMBER"], ["$7.2 million", "AMOUNT"], ["$6.1 million", "AMOUNT"], ["$24 million", "AMOUNT"], ["$3 million", "AMOUNT"], ["$306 million", "AMOUNT"], ["$195 million", "AMOUNT"], ["$415 million", "AMOUNT"]]
+
+Note:
+The input text may contain multiple time expressions in a single sentence.
+
+Note:
+The input text may contain time expressions in different formats.
+
+Note:
+The input text may contain time expressions with imprecise dates.
+
+Note:
+The input text may contain time expressions with ambiguous dates.
+
+Note:
+The input text may contain time expressions with redundant information.
+
+Note:
+The input text may contain time expressions with unnecessary information.
+
+Note:
+The input text may contain time expressions with contradictory information.
+
+Note:
+The input text may contain time expressions with unclear temporal relationships.
+
+Note:
+The input text may contain time expressions with unspecified temporal relationships.
+
+Note:
+The input text may contain time expressions with vague temporal relationships.
+
+Note:
+The input text may contain time expressions with complex temporal relationships.
+
+Note:
+The input text may contain time expressions with multiple temporal relationships.
+
+Note:
+The input text may contain time expressions with nested temporal relationships.
+
+Note:
+The input text may contain time expressions with overlapping temporal relationships.
+
+Note:
+The input text may contain time expressions with conflicting temporal relationships.
+
+Note:
+The input text may contain time expressions with ambiguous temporal relationships.
+
+Note:
+The input text may contain time expressions with redundant temporal relationships.
+
+Note:
+The input text may contain time expressions with unnecessary temporal relationships.
+
+Note:
+The input text may contain time expressions with contradictory temporal relationships.
+
+Note:
+The input text may contain time expressions with unclear temporal relationships.
+
+Note:
+The input text may contain time expressions with unspecified temporal relationships.
+
+Note:
+The input text may contain time expressions with vague temporal relationships.
+
+Note:
+The input text may contain time expressions with complex temporal relationships.
+
+Note:
+The input text may contain time expressions with multiple temporal relationships.
+
+Note:
+The input text may contain time expressions with nested temporal relationships.
+
+Note:
+The input text may contain time expressions with overlapping temporal relationships.
+
+Note:
+The input text may contain time expressions with conflicting temporal relationships.
+
+Note:
+The input text may contain time expressions with ambiguous temporal relationships.
+
+Note:
+The input text may contain time expressions with redundant temporal relationships.
+
+Note:
+The input text may contain time expressions with unnecessary temporal relationships.
+
+Note:
+The input text may contain time expressions with contradictory temporal relationships.
+
+Note:
+The input text may contain time expressions with unclear temporal relationships.
+
+Note:
+The input text may contain time expressions with unspecified temporal relationships.
+
+Note:
+The input text may contain time expressions with vague temporal relationships.
+
+Note:
+The input text may contain time expressions with complex temporal relationships.
+
+Note:
+The input text may contain time expressions with multiple temporal relationships.
+
+Note:
+The input text may contain time expressions with nested temporal relationships.
+
+Note:
+The input text may contain time expressions with overlapping temporal relationships.
+
+Note:
+The input text may contain time expressions with conflicting temporal relationships.
+
+Note:
+The input text may contain time expressions with ambiguous temporal relationships.
+
+Note:
+The input text may contain time expressions with redundant temporal relationships.
+
+Note:
+The input text may contain time expressions with unnecessary temporal relationships.
+
+Note:
+The input text may contain time expressions with contradictory temporal relationships.
+
+Note:
+The input text may contain time expressions with unclear temporal relationships.
+
+Note:
+The input text may contain time expressions with unspecified temporal relationships.
+
+Note:
+The input text may contain time expressions with vague temporal relationships.
+
+Note:
+The input text

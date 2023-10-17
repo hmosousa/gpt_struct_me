@@ -1,0 +1,16 @@
+[["Um homem morreu", "Per"], ["hoje", "Per"], ["em", "Loc"], ["Jesufrei", "Loc"], ["Vila Nova de Famalicão", "Loc"], ["ap\u00e9s ter caído", "Per"], ["de um telhado", "Loc"], ["diz fonte", "Org"], ["do Comando Distrital", "Org"], ["de Opera\u00e7\u00f5es de Socorro", "Org"], ["de Braga", "Loc"], ["segundo", "Per"], ["a fonte", "Org"], ["a v\u00edtima", "Per"], ["teria entre", "Per"], ["60 e 65 anos", "Per"], ["e estava", "Per"], ["a trabalhar", "Per"], ["no telhado", "Loc"], ["Ter\u00e1", "Per"], ["sofrido", "Per"], ["uma queda", "Per"], ["de cerca", "Per"], ["de oito metros", "Per"], ["de altura", "Per"], ["o alerta", "Per"], ["foi dado", "Per"], ["pelas", "Per"], ["15:30", "Per"], ["o óbito", "Per"], ["foi declarado", "Per"], ["no local", "Loc"], ["Para", "Per"], ["o socorro", "Org"], ["foi mobilizada", "Per"], ["uma viatura médica", "Loc"], ["de emergência", "Per"], ["e reanimação", "Per"], ["(VMER)", "Per"], ["além", "Per"], ["dos bombeiros", "Org"], ["num total", "Per"], ["de seis homens", "Per"], ["e três viaturas", "Per"], ["a GNR", "Org"], ["tomou conta", "Per"], ["da ocorr\u00eancia", "Loc"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morreu ao cair de um telhado em que trabalhava em Famalicão
+Um homem morreu hoje em Jesufrei, Vila Nova de Famalicão, após ter caído de um telhado, disse fonte do Comando Distrital de Operações de Socorro de Braga.
+Segundo a fonte, a vítima teria entre 60 e 65 anos e estava a trabalhar no telhado.
+Terá sofrido uma queda de cerca de oito metros de altura.
+O alerta foi dado pelas 15:30, tendo o óbito sido declarado no local.
+Para o socorro, foi mobilizada uma viatura médica de emergência e reanimação (VMER), além dos bombeiros, num total de seis homens e três viaturas.
+A GNR tomou conta da ocorrência."
+
+Output:
+[["Um homem morreu", "Per"], ["hoje", "Per"], ["em", "Loc"], ["Jesufrei", "Loc"], ["Vila Nova de Famalicão", "Loc"], ["ap\u00e9s ter caído", "Per"], ["de um telhado", "Loc"], ["diz fonte", "Org"], ["do Comando Distrital", "Org"], ["de Opera\u00e7\u00f5es de Socorro", "Org"], ["de Braga", "Loc"], ["segundo", "Per"], ["a fonte", "Org"], ["a v\u00edtima", "Per"], ["teria entre", "Per"], ["60 e 65 anos", "Per"], ["e estava", "Per"], ["a trabalhar", "Per"], ["no telhado", "Loc"], ["Ter\u00e1", "Per"], ["sofrido", "Per"], ["uma queda", "Per"], ["de cerca", "Per"], ["de oito metros", "Per"], ["de altura", "Per"], ["o alerta", "Per"], ["foi dado", "Per"], ["pelas", "Per"], ["15:

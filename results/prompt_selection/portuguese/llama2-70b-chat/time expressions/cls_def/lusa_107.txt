@@ -1,0 +1,20 @@
+[
+["Mulher atropelada", "Date"],
+["hoje", "Date"],
+["12:50", "Time"],
+["Torreira", "Set"],
+["uma semana", "Duration"],
+["não poderem trabalhar", "Duration"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories. Here's a breakdown of each expression and its corresponding class:
+
+1. "Mulher atropelada" - Date (specific point in time)
+2. "hoje" - Date (specific point in time)
+3. "12:50" - Time (specific time)
+4. "Torreira" - Set (specific location)
+5. "uma semana" - Duration (time period)
+6. "não poderem trabalhar" - Duration (time period)
+
+The output is a JSON-parseable list where each element is a list with two strings: the first string is the entity (the temporal expression), and the second string is the class (Date, Time, Duration,or Set).

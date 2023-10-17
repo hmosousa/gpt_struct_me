@@ -1,0 +1,1 @@
+["homem", "poste", "camão", "acidentes"]

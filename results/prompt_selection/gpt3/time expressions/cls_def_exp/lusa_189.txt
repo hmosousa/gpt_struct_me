@@ -1,1 +1,0 @@
-[["20:20", "Time"], ["hoje", "Date"], ["hoje", "Time"]]

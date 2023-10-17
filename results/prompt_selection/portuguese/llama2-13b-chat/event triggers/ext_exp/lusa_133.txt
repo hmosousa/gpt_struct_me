@@ -1,0 +1,4 @@
+[ "apreendeu", "atum-rabilho", "captura", "interdita", "coima", "37.500 euros", "GNR", "fiscalização", "regras", "descarga", "transporte", "comercialização", "primeira venda", "pescado fresco", "embarcação", "pesca", "identificados", "mestre", "auto de contraordenação", "infração", "punível", "consumo", "doado", "instituição de solidariedade social"]
+
+Note:
+The task is to extract all the event triggers (actions, events, or occurrences) from the text. The output should be a JSON-parseable list of strings, where each string represents an event trigger.

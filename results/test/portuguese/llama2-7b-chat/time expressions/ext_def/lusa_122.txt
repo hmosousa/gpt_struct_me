@@ -1,0 +1,29 @@
+[
+"em estado grave",
+"em coma induzido",
+"depois de ter sofrido",
+"segundo informações",
+"estabelecido",
+"em coma induzido",
+"no mesmo",
+"agradecemos",
+"dos profissionais de saúde",
+"e a todos",
+"que endereçaram",
+"mensagens",
+"clubs",
+"atletas",
+"instituições",
+"adeptos",
+"que se juntaram",
+"a nós",
+"numa gigantesca",
+"demonstração de apreço",
+"pela vida humana",
+"em nome do Alverca Futebol SAD",
+"em nome do atleta e seus familiares",
+"finalizou o comunicado",
+"da SAD alverquense"
+]
+Explanation:
+The output is a list of time expressions extracted from the given text. Each element in the list is a string representing a time expression, such as "em estado grave" or "no mesmo". The time expressions are highlighted in bold.

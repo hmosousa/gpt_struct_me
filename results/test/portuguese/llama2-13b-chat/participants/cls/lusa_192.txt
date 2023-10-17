@@ -1,0 +1,24 @@
+[
+["homem", "Person"],
+["Tribunal de Viana do Castelo", "Organization"],
+["cidade", "Location"],
+["2013", "Year"],
+["prisão preventiva", "Facility"],
+["magistrada", "Person"],
+["indemnização", "Other"]
+]
+
+Explanation:
+
+* "homem" is a person
+* "Tribunal de Viana do Castelo" is an organization
+* "cidade" is a location
+* "2013" is a year
+* "prisão preventiva" is a facility
+* "magistrada" is a person
+* "indemnização" is an other
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The classes are: Person, Organization, Location, Year, Facility, Person, and Other.

@@ -1,0 +1,4 @@
+["Oct. 23", "20th century", "10 most significant events", "two years ago", "1990", "daily", "share certificates", "constant $1 pershare pricing"]
+
+Hint:
+There are several types of time expressions in the text, including dates, times, and time periods. Look for words like "Friday", "Thursday", "10-hour", "daily", "over a week", "Feb. 23", "next week", "two months", and "1990".

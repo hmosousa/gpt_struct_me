@@ -1,0 +1,1 @@
+[["na passada quarta-feira", "Duration"], ["Alto da Guerra", "Location"], ["sexta-feira", "Date"], ["primeiro interrogatório judicial", "Event"], ["homicídio qualificado na forma tentada", "Crime"], ["detenção de arma proibida", "Crime"], ["omissão de auxílio", "Crime"]]

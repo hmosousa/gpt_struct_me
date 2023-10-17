@@ -1,0 +1,1 @@
+["detém", "suspeito", "balear", "deteve", "baleado", "anunciado", "disparado", "conflito", "encontrava", "almoçar", "alvejar", "disparo", "provocando", "ferimentos", "fugiu", "indiciado", "crimes", "homicídio qualificado", "detenção", "arma proibida", "omissão", "auxílio", "presente", "interrogatório judicial", "aplicada", "medida", "coação", "prisão preventiva"]

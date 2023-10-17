@@ -1,0 +1,1 @@
+["domingo", "s\u00e1bado"]

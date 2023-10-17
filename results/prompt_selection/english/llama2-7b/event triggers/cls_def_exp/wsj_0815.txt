@@ -1,0 +1,28 @@
+[["Di", "State"], ["Giorgio", "State"], ["Corp", "State"], ["said", "Reporting"], ["it's", "State"], ["continuing", "State"], ["talks", "State"], ["with", "State"], ["potential", "State"], ["buyers", "State"], ["of", "State"], ["certain", "State"], ["units", "State"], ["but", "State"], ["has", "State"], ["reached", "State"], ["no", "State"], ["agreement", "State"], ["on", "State"], ["any", "State"], ["deals", "State"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices.
+The SEC letter, dated June 29, asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The letter also asked for more information about the company's accounting for its investment in a joint venture with a company called Cable & Wireless.
+The company said it has received a letter from the U.S. Securities and Exchange Commission asking for more information about the company's accounting practices

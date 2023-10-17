@@ -1,0 +1,4 @@
+[["Jan. 13", "DATE"], ["Sunday", "DATE"], ["1978", "DATE"], ["Friday", "DATE"], ["nearly two years", "DURATION"], ["1985", "DATE"], ["last week", "DATE"], ["39", "NUMBER"], ["two months", "DURATION"], ["Feb. 23", "DATE"], ["last February", "DATE"], ["1990", "DATE"], ["Thursday", "DATE"], ["Previously", "DATE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

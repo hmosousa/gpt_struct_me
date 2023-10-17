@@ -1,0 +1,28 @@
+[
+["Di Giorgio Corp.", "Date"],
+["continuing talks", "Duration"],
+["no agreement", "Duration"],
+["$32-a-share", "Set"],
+["DIG Acquisition Corp.", "Date"],
+["Rose Partners Limited Partnership", "Date"],
+["Robert Mellor", "Date"],
+["executive vice president", "Date"],
+["more money", "Set"],
+["others", "Set"]
+]
+
+Explanation:
+The output is a list of pairs, where each pair contains a time expression and its corresponding class.
+
+* "Di Giorgio Corp." is a date expression and is classified as such.
+* "continuing talks" is a duration expression and is classified as such.
+* "no agreement" is also a duration expression and is classified as such.
+* "$32-a-share" is a set expression and is classified as such.
+* "DIG Acquisition Corp." is a date expression and is classified as such.
+* "Rose Partners Limited Partnership" is also a date expression and is classified as such.
+* "Robert Mellor" is a date expression and is classified as such.
+* "executive vice president" is also a date expression and is classified as such.
+* "more money" is a set expression and is classified as such.
+* "others" is also a set expression and is classified as such.
+
+Note that some of the expressions in the input text may not be explicitly stated as dates or times, but they can still be classified as such based on their context and meaning.

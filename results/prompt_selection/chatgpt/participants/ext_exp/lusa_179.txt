@@ -1,1 +1,0 @@
-["Homem", "companheira", "juiz de instrução", "Ministério Público", "Polícia Judiciária", "vítima", "arguido", "PJ", "suspeito", "MP"]

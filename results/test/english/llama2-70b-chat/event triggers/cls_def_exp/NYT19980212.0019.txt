@@ -1,0 +1,10 @@
+[["Linda Sanders", "PERSON"], ["Thursday evening", "OCCURRENCE"], ["Brooklyn", "STATE"], ["woman", "PERSON"], ["watching", "PERCEPTION"], ["clothes dry", "OCCURRENCE"], ["laundromat", "STATE"], ["killed", "OCCURRENCE"], ["two would-be robbers", "PERSON"], ["emptied", "OCCURRENCE"], ["pistols", "OCCURRENCE"], ["store", "STATE"], ["police", "ORGANIZATION"], ["detectives", "ORGANIZATION"], ["panicked", "OCCURRENCE"], ["intended", "I_STATE"], ["rob", "OCCURRENCE"], ["place", "STATE"], ["firing", "OCCURRENCE"], ["Ms. Sanders", "PERSON"], ["hit", "OCCURRENCE"], ["several times", "OCCURRENCE"], ["pronounced", "OCCURRENCE"], ["dead", "STATE"], ["scene", "STATE"], ["other customers", "PERSON"], ["fled", "OCCURRENCE"], ["no money", "OCCURRENCE"], ["victim", "PERSON"], ["establishment", "STATE"], ["Detective Joseph Pentangelo", "PERSON"], ["Police Department spokesman", "ORGANIZATION"], ["Victor Miranda", "PERSON"], ["lives", "OCCURRENCE"], ["Ms. Sanders' apartment building", "STATE"], ["few years ago", "OCCURRENCE"], ["removed", "OCCURRENCE"], ["laundry machines", "OCCURRENCE"], ["room", "STATE"], ["management offices", "STATE"]]
+
+Please provide the extracted and classified event triggers in the format of a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+
+* The event triggers are the entities that are related to the occurrence of an event.
+* The classes are the categories that describe the event triggers.
+* The classes should be mutually exclusive and exhaustive.
+* The event triggers and classes should be in the format of a JSON-parseable list.

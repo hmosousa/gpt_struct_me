@@ -1,0 +1,10 @@
+[
+"Travelers Corp. third-quarter net income rose 11%",
+"Hurricane Hugo reduced results $40 million",
+"California earthquake will result in a fourth-quarter pre-tax charge of less than $10 million",
+"Earnings from commercial property/casualty lines fell 59%",
+"Lost $7.2 million in its personal property/casualty business",
+"Employee benefits group posted earnings of $24 million",
+"Net was $306 million in the first nine months",
+"Year-ago results included a $415 million charge in the 1988 second quarter for underperforming real estate and mortgage loans"
+]

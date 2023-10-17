@@ -1,0 +1,1 @@
+[["segunda-feira", "Date"], ["12.300 doses de haxixe", "Quantity"], ["Estrada Nacional 122", "Location"], ["Mértola", "Location"], ["Beja", "Location"], ["Tribunal Judicial de Beja", "Location"], ["GNR", "Organization"], ["prática do crime de tráfico de droga", "Time"], ["tráfico de droga", "Time"]]

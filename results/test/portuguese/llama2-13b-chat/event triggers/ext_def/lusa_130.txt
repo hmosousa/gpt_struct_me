@@ -1,0 +1,19 @@
+["cultivo", "tráfico", "droga", "estupefacientes", "canábis", "liamba", "cabeças", "balança", "moinho"]
+
+Explanation:
+
+* "cultivo" is an event trigger because it refers to the action of cultivating drugs.
+* "tráfico" is an event trigger because it refers to the action of trafficking drugs.
+* "droga" is an event trigger because it refers to the state of being a drug.
+* "estupefacientes" is an event trigger because it refers to the state of being a drug.
+* "canábis" is an event trigger because it refers to the specific type of drug.
+* "liamba" is an event trigger because it refers to the specific type of drug.
+* "cabeças" is an event trigger because it refers to the quantity of drugs.
+* "balança" is an event trigger because it refers to a tool used to measure the quantity of drugs.
+* "moinho" is an event trigger because it refers to a tool used to process the drugs.
+
+Note:
+
+* The output is a JSON-parseable list of strings, where each string represents an event trigger.
+* The event triggers are extracted based on their relevance to the text and their potential to advance the plot or develop characters.
+* The output does not include all possible event triggers that could be extracted from the text, but rather the most relevant ones that are directly related to the plot and characters.

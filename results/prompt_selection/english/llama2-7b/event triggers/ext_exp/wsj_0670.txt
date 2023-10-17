@@ -1,0 +1,37 @@
+["National", "said", "expects", "charge", "million", "related", "sale", "aluminum", "division", "company", "agreed", "million", "pact", "rolling", "year-ago", "earned", "revenue", "explore", "sale", "stake", "smelter", "subject", "audit", "payments", "depending", "building", "construction", "fiscal", "loss", "bare", "painted", "custom", "products", "industries", "operating"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1993 crash of TWA Flight 800, which killed 230 people.
+The settlement, announced Monday, ends a 10-year legal battle over the cause of the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to properly investigate the crash.
+The lawsuit alleged that the government had failed to properly investigate the crash.
+The government had argued that the crash was caused by a mechanical failure.
+But New York Attorney General Eliot Spitzer said the settlement was a victory for the families of the victims.
+``This settlement is a victory for the families of the victims of TWA Flight 800,'' Spitzer said. ``It is a victory for the people of New York.''
+The settlement ends a lawsuit filed by New York in 1997, which alleged that the government had failed to

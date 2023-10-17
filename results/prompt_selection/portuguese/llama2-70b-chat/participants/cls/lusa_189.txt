@@ -1,0 +1,31 @@
+[
+["Homem", "Person"],
+["Barreiro", "Location"],
+["atirador", "Person"],
+["caçadeira", "Object"],
+["Direção Nacional da Polícia de Segurança Pública", "Organization"],
+["PSP", "Organization"],
+["Polícia Judiciária", "Organization"],
+["investigação", "Other"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different language and a different set of classes. As before, the goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person or group of people, including their names, titles, and roles.
+* Organization: A company, institution, or organization, including their names and acronyms.
+* Object: A physical object or entity, including animals, vehicles, buildings, and other tangible things.
+* Location: A geographical location, including cities, countries, and other places.
+* Nature: A natural entity, such as a mountain, river, or forest.
+* Facility: A man-made structure or facility, such as a hospital, school, or stadium.
+* Other: Any entity that does not fit into the above categories, such as an event, a concept, or a feeling.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.
+
+For example, in the given input text, "Homem" (Man) would be classified as "Person", and "Barreiro" (Barreiro) would be classified as "Location". "Atirador" (Shooter) would also be classified as "Person", and "caçadeira" (Shotgun) would be classified as "Object". "Direção Nacional da Polícia de Segurança Pública" (National Directorate of Public Security Police) would be classified as "Organization", and "PSP" (Public Security Police) would also be classified as "Organization". "Polícia Judiciária" (Judicial Police) would be classified as "Organization", and "investigação" (Investigation) would be classified as "Other".
+
+Note that the input text is in Portuguese, so you may need to use a Portuguese language model or dictionary to accurately classify the entities.

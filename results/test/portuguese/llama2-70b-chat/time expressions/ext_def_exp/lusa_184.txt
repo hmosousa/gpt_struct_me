@@ -1,0 +1,25 @@
+["hoje", "15:30", "60 e 65 anos", "cerca de oito metros de altura", "VMER", "30 nov 2020"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+Note:
+
+* You can use the following regular expressions to match time expressions:
+	+ "(\d{1,2}/\d{1,2}/\d{4})" (date in the format "dd/mm/yyyy")
+	+ "(\d{1,2}:\d{1,2})" (time in the format "hh:mm")
+	+ "(\d{1,2} dias/semanas/meses/anos)" (time period in the format "x days/weeks/months/years")
+	+ "em menos de (\d{1,2} dias/semanas/meses/anos)" (time period in the format "less than x days/weeks/months/years")
+	+ "cerca de (\d{1,2} metros/km)" (approximate distance in the format "about x meters/km")
+	+ "(\d{1,2} metros/km)" (exact distance in the format "x meters/km")
+	+ "(\d{1,2}°C)" (temperature in the format "x°C")
+
+You can use these regular expressions to extract time expressions from the input text.
+
+Note:
+
+* The input text is in Portuguese, so you may need to adjust the regular expressions to match the language.
+* You can use any programming language or tool to extract the time expressions.
+* You can output the time expressions in any format, as long as they are JSON-parseable.

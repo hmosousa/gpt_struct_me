@@ -1,0 +1,29 @@
+["Elco", "expects", "analyst", "estimate", "1.65", "share", "Rockford", "Ill.", "maker", "fasteners", "also", "sales", "year", "slightly", "1989", "margin", "pressures", "demand", "1989", "earned", "million", "share", "company", "stock", "trading", "yesterday"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is expected to announce today that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.
+The Justice Department is expected to announce that it will not seek to block the merger of the two largest U.S. airlines, American Airlines and Piedmont Airlines.

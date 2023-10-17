@@ -1,0 +1,1 @@
+[["Dominion Textile Inc. holders", "State"], ["shareholder-rights plan", "Occurrence"], ["poison pill", "Reporting"], ["20% of the shares outstanding", "Perception"], ["rights", "Aspectual"], ["buy additional shares", "Intensional Action"], ["fiscal-first quarter ended Sept. 30", "Intensional State"]]

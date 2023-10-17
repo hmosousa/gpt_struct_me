@@ -1,0 +1,9 @@
+[
+"mais de sete toneladas",
+"37.400 euros",
+"50 anos",
+"37.500 euros",
+"quinta-feira",
+"2,5 centímetros",
+"7.400 quilogramas"
+]

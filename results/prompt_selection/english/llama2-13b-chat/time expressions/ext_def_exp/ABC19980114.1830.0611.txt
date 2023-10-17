@@ -1,0 +1,4 @@
+["Washington", "today", "last", "minute", "a minute and a half", "sixteen thousand feet", "just went down", "center", "no response", "Later", "Eastwind", "big small", "coming up", "that", "him", "I think so", "God bless him"]
+
+Format:
+JSON-parseable list of strings.

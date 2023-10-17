@@ -1,0 +1,1 @@
+[["47 anos", "Duration"], ["hoje", "Date"], ["26 anos", "Duration"], ["desde 2017", "Time"], ["Desde essa altura", "Time"], ["até a atualidade", "Time"]]

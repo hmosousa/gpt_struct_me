@@ -1,0 +1,19 @@
+[["one warrant", "DATE"], ["three shares", "SET"], ["3.3 million", "NUMBER"], ["1.1 million", "NUMBER"], ["Class C warrants", "DATE"], ["$5.50", "NUMBER"], ["90 days", "DURATION"], ["243,677", "NUMBER"], ["Class A", "DATE"], ["Class B", "DATE"], ["unclassified warrants", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The input format is a plain text.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text is given as a plain text.
+
+Note:
+The output should be a JSON-parseable list.

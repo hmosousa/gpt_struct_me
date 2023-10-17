@@ -1,0 +1,19 @@
+[["um homem", "Per"], ["47 anos de idade", "Other"], ["uma mulher", "Per"], ["26 anos", "Other"], ["instituição de acolhimento", "Fac"], ["pessoas sujeitas", "Other"], ["esse tipo de crime", "Other"], ["exploração sexual", "Other"], ["na via pública", "Loc"], ["os proveitos", "Obj"], ["a vítima", "Per"], ["fugiu algumas vezes", "Other"], ["submetida", "Other"], ["localizada", "Other"], ["obrigada ou convencida", "Other"], ["promessa", "Other"], ["receber produto estupefaciente", "Other"], ["do qual é dependente", "Other"], ["o arguido", "Per"], ["lhe cedia", "Other"], ["o MP", "Org"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"], ["tráfico de pessoas", "Other"], ["para exploração sexual", "Other"], ["sequestro", "Other"], ["violação", "Other"]]
+
+Note:
+In this task, you will be given a list of entities and their corresponding classes. Your task is to classify each entity in the input text into the appropriate class. The classes are:
+
+* Person (Per)
+* Organization (Org)
+* Object (Obj)
+* Location (Loc)
+* Nature (Other)
+* Facility (Fac)
+
+The input text is a news article about a man who was arrested for forcing his partner to prostitute herself. The text includes information about the man, the woman, the police, and the location where the events took place.
+
+Your output should be a list of entities and their corresponding classes, where each entity is a string and the class is a string. For example:
+
+[["um homem", "Per"], ["a mulher", "Per"], ["a polícia", "Org"], ["a instituição de acolhimento", "Fac"]]
+
+Note that some entities may belong to multiple classes (e.g. "a instituição de acolhimento" could also be classified as a "Location"). Your task is to choose the most appropriate class for each entity.

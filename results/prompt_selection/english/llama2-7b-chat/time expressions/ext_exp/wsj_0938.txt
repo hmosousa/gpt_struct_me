@@ -1,0 +1,4 @@
+["Cineplex Odeon Corp.", "Garth Drabinsky", "Myron Gottlieb", "Sandra Kolber", "MCA Inc.", "Charles Bronfman", "Jeffery Logsdon", "Rank Organisation PLC", "Michael Gifford", "Pierre Panet-Raymond"]
+
+Format:
+JSON-parseable list of strings.

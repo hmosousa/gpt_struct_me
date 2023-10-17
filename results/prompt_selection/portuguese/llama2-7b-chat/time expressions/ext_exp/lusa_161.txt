@@ -1,0 +1,4 @@
+["hoje", "em Vila Nova de Gaia", "cerca das 10:30", "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "distrito do Porto", "62 anos", "20 anos", "10 anos", "Polícia Judiciária"]
+
+Format:
+JSON-parseable list of strings.

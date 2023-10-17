@@ -1,0 +1,1 @@
+[["hoje", "Date"], ["Estrada Nacional 10-8", "Set"], ["zona da Mitrena", "Set"], ["Setúbal", "Set"], ["Setúbal", "Set"], ["Setúbal", "Set"], ["Setúbal", "Set"]]

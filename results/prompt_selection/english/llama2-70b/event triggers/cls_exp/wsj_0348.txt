@@ -1,0 +1,1 @@
+[["jumped", "OCCURRENCE"], ["had", "STATE"], ["began", "ASPECTUAL"], ["closed", "PERCEPTION"], ["trading", "I_ACTION"], ["interests", "I_STATE"], ["operation", "I_STATE"], ["reported", "REPORTING"], ["income", "I_STATE"]]

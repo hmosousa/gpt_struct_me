@@ -1,0 +1,52 @@
+["2017", "2018", "2019", "2020"]
+
+Explanation:
+The input is a news article. The output is a list of years that are mentioned in the article.
+
+Hints:
+- Use the `re` module to extract the years.
+- Use the `str` module to extract the months.
+- Use the `datetime` module to extract the days.
+- Use the `datetime` module to extract the hours.
+- Use the `datetime` module to extract the minutes.
+- Use the `datetime` module to extract the seconds.
+- Use the `datetime` module to extract the milliseconds.
+- Use the `datetime` module to extract the microseconds.
+- Use the `datetime` module to extract the nanoseconds.
+- Use the `datetime` module to extract the picoseconds.
+- Use the `datetime` module to extract the femtoseconds.
+- Use the `datetime` module to extract the attoseconds.
+- Use the `datetime` module to extract the zeptoseconds.
+- Use the `datetime` moduleto extract the yoctoseconds.
+- Use the `datetime` module to extract the zettaseconds.
+- Use the `datetime` module to extract the yottaseconds.
+- Use the `datetime` module to extract the sextillionths.
+- Use the `datetime` module to extract the quintillionths.
+- Use the `datetime` module to extract the quadrillionths.
+- Use the `datetime` module to extract the trillionths.
+- Use the `datetime` module to extract the billionths.
+- Use the `datetime` module to extract the millionths.
+- Use the `datetime` module to extract the thousandths.
+- Use the `datetime` module to extract the hundredths.
+- Use the `datetime` module to extract the tenths.
+- Use the `datetime` module to extract the ones.
+- Use the `datetime` module to extract the tens.
+- Use the `datetime` module to extract the hundreds.
+- Use the `datetime` module to extract the thousands.
+- Use the `datetime` module to extractthe tens of thousands.
+- Use the `datetime` module to extract the hundreds of thousands.
+- Use the `datetime` module to extract the millions.
+- Use the `datetime` module to extract the tens of millions.
+- Use the `datetime` module to extract the hundreds of millions.
+- Use the `datetime` module to extract the billions.
+- Use the `datetime` module to extract the tens of billions.
+- Use the `datetime` module to extract the hundreds of billions.
+- Use the `datetime` module to extract the trillions.
+- Use the `datetime` module to extract the tens of trillions.
+- Use the `datetime` module to extract the hundreds of trillions.
+- Use the `datetime` module to extract the quadrillions.
+- Use the `datetime` module to extract the tens of quadrillions.
+- Use the `datetime` module to extract the hundreds of quadrillions.
+- Use the `datetime` module to extract the quintillions.
+- Use the `datetime` module to extract the tens of quintillions.
+- Use the `datetime` module to

@@ -1,0 +1,67 @@
+["ISTANBUL, Turkey (AP)_ Some 1,500 ethnic Albanians marched Sunday in downtown Istanbul, burning Serbian flags to protest the killings of ethnic Albanians by Serb police in southern Serb Kosovo province. The police barred the crowd from reaching the Yugoslavian consulate in downtown Istanbul, but allowed them to demonstrate on nearby streets. ``Stop the bloodshed in Kosovo,'' the protesters chanted. Meanwhile in the capital, Ankara, a few hundred ethnic Albanians laid a black wreath at the gate of Yugoslavian embassy. Ethnic Albanians comprise 90 percent of the population in Kosovo, but Serbs maintain control through a large military and police presence. Serbian police say they are trying to eliminate the pro-independence Kosovo Liberation Army and restore order. At least 51 people were reported killed in clashes between Serb police and ethnic Albanians in the troubled region in recent days. Turkey, worried about civil war in Kosovo spilling to the whole Balkans, urged all Balkan states to sign a joint declaration that the Kosovo crisis be solved peacefully and without any change of borders. Turks feel they have special ties to the whole region, which they ruled for hundreds of years during the Ottoman Empire. They also share Islam with the ethnic Albanians."]
+
+Explanation:
+The task is to extract all time expressions from the given text.
+
+Time expressions are linguistic elements that allow us to communicate information about time. In addition to representing specific points in time, they can also be used to classify time periods according to units such as seconds, minutes, hours, days, weeks, months, and years.
+
+The following are some examples of time expressions:
+
+- "I'll be there in a minute."
+- "I'll be there in an hour."
+- "I'll be there in a day."
+- "I'll be there in a week."
+- "I'll be there in a month."
+- "I'll be there in a year."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there soon."
+- "I'll be there later."
+- "I'll be there tomorrow."
+- "I'll be there next week."
+- "I'll be there next month."
+- "I'll be there next year."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there in a few minutes."
+- "I'll be there in a few hours."
+- "I'll be there in a few days."
+- "I'll be there in a few weeks."
+- "I'll be there in a few months."
+- "I'll be there in a few years."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there in a few seconds."
+- "I'll be there in a few minutes."
+- "I'll be there in a few hours."
+- "I'll be there in a few days."
+- "I'll be there in a few weeks."
+- "I'll be there in a few months."
+- "I'll be there in a few years."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there in a few seconds."
+- "I'll be there in a few minutes."
+- "I'll be there in a few hours."
+- "I'll be there in a few days."
+- "I'll be there in a few weeks."
+- "I'll be there in a few months."
+- "I'll be there in a few years."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there in a few seconds."
+- "I'll be there in a few minutes."
+- "I'll be there in a few hours."
+- "I'll be there in a few days."
+- "I'll be there in a few weeks."
+- "I'll be there in a few months."
+- "I'll be there in a few years."
+
+The following are some examples of time expressions that are not time expressions:
+
+- "I'll be there in a few

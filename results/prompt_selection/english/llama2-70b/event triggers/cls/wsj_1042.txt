@@ -1,0 +1,48 @@
+[['Avon', 'Occurrence'], ['Rent-a-car', 'Occurrence'], ['Truck', 'Occurrence'], ['Corporation', 'Reporting'], ['Santa Monica', 'Aspectual'], ['California', 'Aspectual']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import defaultdict
+
+# Load the Penn Treebank tagger
+parser = ChunkParserI()
+
+# Create a list of all possible classes
+classes = ["State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Intensional State"]
+
+# Initialize the dictionary that will store the results
+results = {}
+for c in classes:
+   results[c] = []
+
+# Read the input file into a string
+with open("input/event_triggers.txt") as f:
+   text = f.read().lower()
+
+# Tokenize the text and remove punctuation
+tokens = [t for t in word_tokenize(text) if not t in stopwords.words('english')]
+
+# Stem tokens using the Porter stemming algorithm
+stems = [PorterStemmer().stem(w) for w in tokens]
+
+# Tag each token with its part-of-speech
+tags = pos_tag(stems)
+
+# Parse the tags to create chunks
+chunks = parser.parse(tags)
+
+# Iterate through the chunks, extracting entities and classifying them
+for chunk in chunks:
+   # If this is an NP (noun phrase), then it's probably an entity
+   if type(chunk).__name__ == 'Tree':
+       # Get the head of the tree
+       head = chunk[0][1].split('/')[2]
+
+       # Check whether the head is a verb or noun
+       if head in ['VB', 'NN']:
+           # Ext

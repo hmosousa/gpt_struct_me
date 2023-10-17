@@ -1,1 +1,0 @@
-["Homem encontrado morto", "alerta foi dado", "homem desaparecido", "causa da morte", "compareceu no local", "tomou conta da ocorrência", "transporte do cadáver"]

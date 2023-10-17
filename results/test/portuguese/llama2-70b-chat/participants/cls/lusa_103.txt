@@ -1,0 +1,40 @@
+[
+["homem", "Person"],
+["México", "Location"],
+["mãe", "Person"],
+["filhos", "Person"],
+["gabinete", "Organization"],
+["Sonora", "Location"],
+["Hidalgo", "Location"],
+["polícia", "Organization"],
+["avô", "Person"],
+["mulher", "Person"],
+["vingança", "Nature"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are defined in the task description.
+
+Explanation:
+The input text describes a news story about a man who killed his three children to avenge his wife. The output list contains 10 pairs, where each pair consists of an entity and its corresponding class.
+
+* "homem" (man) is classified as "Person"
+* "México" (Mexico) is classified as "Location"
+* "mãe" (mother) is classified as "Person"
+* "filhos" (sons) is classified as "Person"
+* "gabinete" (office) is classified as "Organization"
+* "Sonora" (Sonora) is classified as "Location"
+* "Hidalgo" (Hidalgo) is classified as "Location"
+* "polícia" (police) is classified as "Organization"
+* "avô" (grandfather) is classified as "Person"
+* "mulher" (woman) is classified as "Person"
+* "vingança" (revenge) is classified as "Nature"
+
+The classes used in this task are:
+
+* Person: refers to a human being, such as the man who killed his children, the mother, the sons, the grandfather, and the woman.
+* Location: refers to a geographical location, such as Mexico, Sonora, Hidalgo.
+* Organization: refers to a group or entity that is involved in the story, such as the office of the prosecutors, the police.
+* Nature: refers to the motivation or reason behind the action, such as revenge.
+
+It's worth noting that the classes used in this task are not exhaustive and may vary depending on the specific task and the desired level of granularity.

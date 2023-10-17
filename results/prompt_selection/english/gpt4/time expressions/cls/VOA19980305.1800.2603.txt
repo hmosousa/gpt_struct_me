@@ -1,0 +1,6 @@
+[
+["this coming Sunday, March eighth", "Date"],
+["twenty years", "Duration"],
+["the past twenty years", "Duration"],
+["today", "Date"]
+]

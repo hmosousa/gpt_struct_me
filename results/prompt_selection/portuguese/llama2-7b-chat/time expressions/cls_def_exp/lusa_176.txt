@@ -1,0 +1,1 @@
+[["em Setúbal", "Location"], ["06:55", "Time"], ["Mitrena", "Location"], ["Palmela", "Location"], ["Sapadores", "Location"], ["PSP", "Organization"], ["VMER", "Organization"]]

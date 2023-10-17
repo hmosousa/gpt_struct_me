@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["expects", "I_STATE"], ["fall", "OCCURRENCE"], ["post", "OCCURRENCE"], ["said", "REPORTING"], ["continues", "ASPECTUAL"], ["face", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["trading", "OCCURRENCE"]]

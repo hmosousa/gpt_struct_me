@@ -1,0 +1,1 @@
+[["yesterday", "DATE"], ["23-year", "DURATION"], ["yesterday", "DATE"], ["almost instantly", "TIME"], ["yesterday", "DATE"], ["Friday", "DATE"], ["yesterday", "DATE"], ["yesterday", "DATE"], ["over the weekend", "DATE"], ["the end of the month", "DATE"], ["within a few days", "DATE"], ["since March", "DATE"]]

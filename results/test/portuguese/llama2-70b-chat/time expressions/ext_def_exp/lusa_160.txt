@@ -1,0 +1,10 @@
+["em 2016", "em 2017", "em 2019", "05 de outubro"]
+
+Note:
+
+* The input text may contain other temporal expressions not listed in the example.
+* The input text may contain irrelevant information.
+* The output should only include temporal expressions that are relevant to the context.
+* The output should be a JSON-parseable list of strings.
+
+Please provide a JSON-parseable list of strings that represents all temporal expressions in the input text.

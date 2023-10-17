@@ -1,0 +1,12 @@
+[
+"hoje à tarde",
+"entre 60 e 70 anos",
+"hoje",
+"dois dias atrás",
+"alegadamente",
+"dado o alerta",
+"recolhido",
+"transportado",
+"declarado",
+"gabinete de medicina legal"
+]

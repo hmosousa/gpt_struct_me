@@ -1,0 +1,19 @@
+[
+["Xerox Corp.", "State"],
+["Xerox Corp.", "Occurrence"],
+["Crum amp Forster", "Reporting"],
+["Crum amp Forster", "Perception"],
+["Xerox Corp.", "Aspectual"],
+["Xerox Corp.", "Intensional Action"],
+["Crum amp Forster", "Intensional State"]
+]
+
+Explanation:
+
+* Xerox Corp. is the entity and "State" is the class because the article reports on the company's financial situation.
+* Xerox Corp. is also the entity and "Occurrence" is the class because the article reports on a layoff.
+* Crum amp Forster is the entity and "Reporting" is the class because the article reports on the company's financial results.
+* Crum amp Forster is also the entity and "Perception" is the class because the article reports on the company's financial performance.
+* Xerox Corp. is the entity and "Aspectual" is the class because the article reports on the company's financial situation in a general sense.
+* Xerox Corp. is also the entity and "Intensional Action" is the class because the article reports on the company's decision to centralize staff functions.
+* Crum amp Forster is the entity and "Intensional State" is the class because the article reports on the company's financial results in a specific context.

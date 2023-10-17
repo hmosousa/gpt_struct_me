@@ -1,0 +1,7 @@
+[["homem", "I_Action"], ["encontrado", "Occurrence"], ["boiar", "Occurrence"], ["mar", "State"], ["praia", "State"], ["Estaquinha", "Location"], ["Lagoa", "Location"], ["Algarve", "Location"], ["Autoridade Marítima", "Organization"], ["pescador", "I_Action"], ["caído", "Occurrence"], ["arriba", "Location"], ["praia de Lagoa", "Location"], ["distrito de Faro", "Location"], ["Estação Salva-vidas de Ferragudo", "Organization"], ["recolha", "I_Action"], ["transportando", "I_Action"], ["gabinete de medicina legal de Portimão", "Location"], ["Polícia Marítima de Portimão", "Organization"], ["tomou conta", "I_Action"]]
+
+Note:
+The classes are the same as in the previous example.
+
+Hint:
+You can use the same approach as in the previous example, but pay attention to the fact that some of the entities in this text are locations, and some are actions.

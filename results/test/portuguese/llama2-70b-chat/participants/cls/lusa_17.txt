@@ -1,0 +1,31 @@
+[
+["Dirigente da Casa Branca", "Person"],
+["Síria", "Location"],
+["Um dirigente da Casa Branca", "Person"],
+["Wall Street Journal", "Organization"],
+["Associated Press", "Organization"],
+["Kash Patel", "Person"],
+["Austin Tice", "Person"],
+["Texas", "Location"],
+["Majd Kamalmaz", "Person"],
+["Virgínia", "Location"],
+["Damasco", "Location"],
+["Regime de Damasco", "Organization"],
+["Embaixada norte-americana", "Facility"],
+["Embaixador", "Person"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+
+This task is a classification task, where the goal is to classify each participant in the text into one of the predefined classes. The classes are:
+
+* Person: A human being, such as a politician, a journalist, or a citizen.
+* Organization: A group or entity that is not a human being, such as a company, a government, or a media outlet.
+* Object: A physical object or a concept, such as a book, a car, or a law.
+* Location: A geographical location, such as a country, a city, or a building.
+* Nature: A natural entity, such as a river, a mountain, or a forest.
+* Facility: A man-made structure or entity, such as a hospital, a school, or a prison.
+* Other: Any entity that does not fit into the above categories, such as an animal, a fictional character, or a abstract concept.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.

@@ -1,0 +1,3 @@
+[ "recognized", "money-fund", "concept", "significant", "events", "past", "century", "Journal", "listed", "creation", "money", "fund", "world", "finance", "20th", "century", "Reserve", "America", "first", "money", "fund", "named", "creators", "money-fund", "Harry", "Brown", "innovated", "telephone", "redemptions", "daily", "dividends", "total", "elimination", "share", "certificates", "constant", "1", "pershare", "pricing", "painfully", "thought", "out", "result", "SEC", "BRUCE", "BENT", "President", "The", "Reserve", "Fund", "New", "York"]
+
+Please note that the output should be in JSON-parseable list of strings.

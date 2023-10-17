@@ -1,0 +1,30 @@
+[
+["Homem", "State"],
+["ciclomotor", "Occurrence"],
+["veículo ligeiro", "Reporting"],
+["Estrada Nacional 10-8", "Perception"],
+["Mitrena", "Aspectual"],
+["PSP", "Intensional Action"],
+["Proteção Civil", "Intensional Action"],
+["Comando Distrital de Operações de Socorro", "Intensional Action"],
+["Hospital de São Bernardo", "Intensional Action"],
+["bombeiros", "Intensional Action"],
+["veículos", "Intensional Action"],
+["Palmela", "Intensional Action"],
+["Sapadores de Setúbal", "Intensional Action"],
+["viatura médica de emergência e reanimação", "Intensional Action"]
+]
+
+Explanation:
+
+* "Homem" is a State, as it describes the condition of the person.
+* "ciclomotor" is an Occurrence, as it describes the event that happened.
+* "veículo ligeiro" is aReporting, as it describes the vehicle that was involved in the event.
+* "Estrada Nacional 10-8" is a Perception, as it describes the location where the event happened.
+* "Mitrena" is an Aspectual, as it describes the location where the event happened.
+* "PSP" and "Proteção Civil" are Intensional Actions, as they describe the actions taken by the authorities.
+* "Comando Distrital de Operações de Socorro" is an Intensional Action, as it describes the action taken by the authorities.
+* "Hospital de São Bernardo" is an Intensional Action, as it describes the action taken by the authorities.
+* "bombeiros" and "veículos" are Intensional Actions, as they describe the actions taken by the authorities.
+* "Palmela" and "Sapadores de Setúbal" are Intensional Actions, as they describe the actions taken by the authorities.
+* "viatura médica de emergência e reanimação" is an Intensional Action, as it describes the action taken by the authorities.

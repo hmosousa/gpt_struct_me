@@ -1,0 +1,1 @@
+[["Penafiel", "Location"], ["47 anos de idade", "Age"], ["26 anos", "Age"], ["2017", "Date"], ["atualidade", "Time"]]

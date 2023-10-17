@@ -1,0 +1,27 @@
+[
+["PJ", "State"],
+["homem de Penafiel", "Occurrence"],
+["matou a mulher à facada", "Action"],
+["motivos fúteis", "Aspectual"],
+["Diretoria do Norte da PJ", "Reporting"],
+["GNR", "State"],
+["não estava clara a motivação", "Intensional State"],
+["72 anos", "State"],
+["sem antecedentes criminais", "State"],
+["trabalhador da construção civil", "State"],
+["vai ser presente à autoridade judiciária", "Intensional Action"]
+]
+
+Explanation:
+
+* "PJ" is a State entity, as it refers to the organization that detained the man.
+* "homem de Penafiel" is an Occurrence entity, as it refers to the man who was detained.
+* "matou a mulher à facada" is an Action entity, as it describes the man's actions.
+* "motivos fúteis" is an Aspectual entity, as it refers to the reason behind the man's actions.
+* "Diretoria do Norte da PJ" is a Reporting entity, as it is the organization that announced the man's detention.
+* "GNR" is a State entity, as it refers to the military police that arrived at the crime scene.
+* "não estava clara a motivação" is an Intensional State entity, as it describes the uncertainty of the man's motives.
+* "72 anos" is a State entity, as it refers to the man's age.
+* "sem antecedentes criminais" is a State entity, as it refers to the man's criminal record.
+* "trabalhador da construção civil" is a State entity, as it refers to the man's occupation.
+* "vai ser presente à autoridade judiciária" is an Intensional Action entity, as it describes the man's future action of being present at the judiciary.

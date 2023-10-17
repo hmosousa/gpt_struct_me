@@ -1,0 +1,1 @@
+[["hoje à tarde", "Time"], ["quando praticava pesca lúdica", "Time"], ["alerta", "Time"], ["Estação Salva-vidas de Ferragudo", "Set"], ["Portimão", "Set"], ["gabinete de medicina legal de Portimão", "Set"], ["Polícia Marítima de Portimão", "Set"]]

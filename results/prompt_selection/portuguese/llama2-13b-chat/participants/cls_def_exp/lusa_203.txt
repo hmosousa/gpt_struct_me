@@ -1,0 +1,13 @@
+[["Yang", "Per"], ["sete pessoas", "Per"], ["outras sete", "Per"], ["uma faca", "Obj"], ["na cidade de Kaiyuan", "Loc"], ["na província de Liaoning", "Loc"], ["perpetrado", "Per"], ["à porta de uma sauna e de um balneário", "Loc"], ["o suspeito", "Per"], ["foi detido", "Per"], ["o motivo do ataque", "Other"], ["A lei chinesa", "Org"], ["restringe", "Per"], ["a venda e posse de armas de fogo", "Other"], ["e os ataques em massa", "Other"], ["são geralmente realizados com facas ou explosivos caseiros", "Other"], ["Autores de ataques semelhantes", "Other"], ["realizados no passado", "Other"], ["foram descritos", "Per"], ["como doentes mentais", "Other"], ["ou por terem rancor contra a sociedade", "Other"], ["Em ataques anteriores", "Other"], ["um segurança de uma escola", "Per"], ["empunhando uma faca", "Obj"], ["feriu", "Per"], ["pelo menos 39 pessoas", "Per"], ["num jardim de infância", "Loc"], ["na região sul de Guangxi", "Loc"], ["em junho deste ano", "Other"], ["tendo sido condenado à morte", "Other"], ["Em 2018", "Other"], ["um homem", "Per"], ["matou", "Per"], ["uma pessoa", "Per"], ["e feriu", "Per"], ["12 também", "Per"], ["num ataque com uma faca", "Other"], ["num centro comercial em Pequim", "Loc"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Yang") and the second string is the class (e.g. "Per"). The classes are:
+
+* Per: Person
+* Obj: Object
+* Other: Other
+* Org: Organization
+* Loc: Location
+* Fac: Facility
+
+The output is in JSON-parseable format, with each tuple represented as a dictionary with two keys: "entity" and "class".

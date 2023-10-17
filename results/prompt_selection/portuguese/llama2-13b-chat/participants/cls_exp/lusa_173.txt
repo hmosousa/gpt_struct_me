@@ -1,0 +1,12 @@
+[["um homem", "Per"], ["de 34 anos", "Per"], ["um funcionário", "Per"], ["da Transportadora J Amaral", "Org"], ["em Estarreja", "Loc"], ["foi hoje encontrado morto", "Other"], ["no interior da cisterna", "Loc"], ["de um camião", "Obj"], ["disse à Lusa", "Org"], ["fonte da GNR de Aveiro", "Org"], ["o alerta", "Other"], ["foi dado pelas 09:56", "Other"], ["encontrava-se desaparecido", "Other"], ["desde sábado", "Other"], ["acrescentou à Lusa", "Org"], ["o comandante dos Bombeiros", "Org"], ["de Estarreja", "Loc"], ["Joaquim Rebelo", "Per"], ["a cisterna", "Fac"], ["onde", "Loc"], ["o funcionário", "Per"], ["estava a trabalhar", "Other"], ["encontrava-se aberta", "Other"], ["acrescentou", "Org"], ["o graduado", "Per"], ["que", "Other"], ["não conseguiu determinar", "Other"], ["a causa da morte", "Other"], ["Ainda", "Other"], ["segundo", "Other"], ["a fonte da GNR", "Org"], ["compareceu no local", "Other"], ["a Delegada de Saúde", "Org"], ["e a Polícia Judiciária", "Org"], ["que", "Other"], ["tomou conta da ocorrência", "Other"], ["No local", "Loc"], ["esteve também", "Other"], ["a Viatura Médica", "Org"], ["de Emergência e Reanimação", "Other"], ["de Aveiro", "Loc"], ["que", "Other"], ["fez o transporte", "Other"], ["do cadáver", "Other"], ["para o Hospital", "Other"], ["Infante D. Pedro", "Loc"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Org: Organization
+* Fac: Facility
+* Loc: Location
+* Other: Other
+
+The task is to extract and classify all participants in the input text. The participants are the entities mentioned in the text, and the classes are the categories they belong to.

@@ -1,0 +1,7 @@
+[["derrubou", "I_Action"], ["poste de iluminação", "State"], ["matou", "Occurrence"], ["homem de 52 anos", "Occurrence"], ["morreu", "Occurrence"], ["acidente", "Occurrence"], ["camião", "I_Action"], ["atingiu", "I_Action"], ["circulava", "State"], ["vítima", "Occurrence"], ["transportada", "I_Action"], ["hospital", "State"], ["sofreu", "Occurrence"], ["ferimentos ligeiros", "Occurrence"], ["estructura", "State"], ["bombas de gasolina", "State"], ["acidente", "Occurrence"], ["ocorreu", "Aspectual"], ["07:50", "Aspectual"]]
+
+Note:
+- "I_Action" refers to intensional action.
+- "I_State" refers to intensional state.
+- "Occurrence" refers to occurrence.
+- "State" refers to state.

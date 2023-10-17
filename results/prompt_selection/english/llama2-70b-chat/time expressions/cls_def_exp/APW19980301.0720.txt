@@ -1,0 +1,3 @@
+[["Sunday", "DATE"], ["Friday", "DATE"], ["1978", "DATE"], ["Friday", "DATE"], ["last week", "DATE"], ["1985", "DATE"], ["last year", "DATE"], ["February", "DATE"], ["last week", "DATE"], ["two years", "DURATION"], ["six weeks ago", "DATE"]]
+
+Please extract and classify all time expressions in the given text.

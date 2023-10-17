@@ -1,0 +1,4 @@
+["Xerox Corp.", "Crum amp Forster", "300", "25%", "early this week", "cost-cutting move", "after-tax charge", "less than $4 million", "three quarters", "first nine months", "earned $492 million", "revenue of $12.97 billion", "financial-services operations", "capital gains", "Hurricane Hugo payments", "reserves set up to cover future payments", "pricing has been cutthroat", "natural disasters", "Hurricane Hugo", "California earthquake"]
+
+Format:
+JSON-parseable list of strings.

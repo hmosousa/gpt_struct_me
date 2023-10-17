@@ -1,0 +1,14 @@
+[
+"Tuesday",
+"this month",
+"Monday"
+]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "Tuesday deadline" (day of the week and date)
+* "this month" (month and year)
+* "Monday" (day of the week)
+
+Each time expression is extracted as a separate string and added to the list of output strings.

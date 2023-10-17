@@ -1,0 +1,4 @@
+["well into the future", "less than one hour", "meanwhile", "in a bit of television diplomacy", "thursday", "nobody", "one contrary view", "philadelphia", "later in the day", "the state department"]
+Note:
+* Time expressions are highlighted in bold.
+* The list includes all time expressions found in the given text.

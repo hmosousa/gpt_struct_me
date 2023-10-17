@@ -1,0 +1,15 @@
+["39 anos", "42 anos", "hoje", "30 nov 2020", "GNR", "separação", "pânico", "teleassistência", "mesma natureza"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+The format of the output should be a JSON-parseable list of strings.
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+The format of the output should be a JSON-parseable list of strings.

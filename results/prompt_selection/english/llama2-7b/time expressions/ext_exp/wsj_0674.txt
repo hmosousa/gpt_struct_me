@@ -1,0 +1,20 @@
+["Jim Pattison Industries Ltd.", "Innopac Inc.", "Toronto", "McDonald's Corp.", "Leominster", "Mass."]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the 1993 bombing of the World Trade Center, the Justice Department said Friday.
+The settlement, which was approved by a federal judge in Manhattan, resolves a lawsuit filed by New York in 1993, shortly after the bombing, which killed six people and injured more than 1,000.
+The lawsuit alleged that the government had failed to protect the World Trade Center from terrorist attacks.
+The settlement, which was announced by the Justice Department, is the largest ever paid by the federal government in a terrorism case.
+The government has paid out more than $1.5 billion in settlements and judgments in terrorism cases since 1993, the Justice Department said.
+The settlement is the latest in a series of payouts by the government to settle lawsuits over the 1993 bombing.
+In 1998, the government agreed to pay $650 million to settle a lawsuit brought by the families of the victims.
+In 2001, the government agreed to pay $1.1 billion to settle a lawsuit brought by the families of the victims of the 1993 bombing.
+The settlement is the latest in a series of payouts by the government to settle lawsuits over the 1993 bombing.
+In 1998, the government agreed to pay $650 million to settle a lawsuit brought by the families of the victims.
+In 2001, the government agreed to pay $1.1 billion to settle a lawsuit brought by the families of the victims of the 1993 bombing."
+
+Output:
+["New York", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "1998", "2001", "1993", "19

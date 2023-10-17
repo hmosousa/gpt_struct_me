@@ -1,0 +1,6 @@
+[
+"terça-feira",
+"33 anos",
+"47 anos",
+"consumo abusivo de álcool"
+]

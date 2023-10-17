@@ -1,0 +1,23 @@
+[
+"3 dias",
+"57 anos",
+"33 anos",
+"1 episódio",
+"mais recente",
+"antes de hoje",
+"hoje",
+"dois antecedentes criminais"
+]
+
+Explanation:
+
+* 3 dias: the duration of the imprisonment
+* 57 anos: the age of the mother
+* 33 anos: the age of the son
+* 1 episódio: the number of episodes of violence
+* mais recente: the most recent episode of violence
+* antes de hoje: before today
+* hoje: today
+* dois antecedentes criminais: two criminal precedents
+
+Note: The list of time expressions is not exhaustive, but it includes all the relevant expressions found in the text.

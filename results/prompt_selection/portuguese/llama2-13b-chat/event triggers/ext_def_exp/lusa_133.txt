@@ -1,0 +1,166 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of an array of objects, where each object represents a single event trigger.
+* Each object should have the following properties:
+	+ "text": the text of the event trigger (e.g. "pediu", "desculpa", "erros", etc.)
+	+ "type": the type of event trigger (e.g. "verb", "noun", "adjective", etc.)
+	+ "pos": the part of speech of the event trigger (e.g. "verb", "noun", "adjective", etc.)
+
+Example output:
+
+[
+{
+"text": "pediu",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "erros",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "levaram",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "mortes",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "divulgação",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "explicou",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "implementado",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "investigação",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "Quero",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "pedir",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "erros",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "cometidos",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "disse",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "fraco controlo",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "desencadearam",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "infeções",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "estado em grande parte livre",
+"type": "adjective",
+"pos": "adjective"
+},
+{
+"text": "morreram",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "fornece",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "segurança",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "feito",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "registada",
+"type": "verb",
+"pos": "verb"
+},
+{
+"text": "caso",
+"type": "noun",
+"pos": "noun"
+},
+{
+"text": "transmissão comunitária",
+"type": "noun",
+"pos": "noun"
+},
+{
+"

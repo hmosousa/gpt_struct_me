@@ -1,0 +1,1 @@
+[["making", "OCCURRENCE"], ["resolving", "OCCURRENCE"], ["standoff", "STATE"], ["says", "REPORTING"], ["verge", "STATE"], ["added", "REPORTING"], ["wrapped", "OCCURRENCE"], ["meeting", "OCCURRENCE"], ["expected", "I_STATE"], ["meet", "I_ACTION"], ["proposal", "OCCURRENCE"], ["open", "OCCURRENCE"], ["insists", "I_STATE"], ["allow", "I_ACTION"], ["access", "OCCURRENCE"]]

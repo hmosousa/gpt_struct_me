@@ -1,0 +1,1 @@
+["announced", "borrowed", "forced", "acknowledged", "estimated", "estimate", "valued", "extended", "expect", "escalate", "sweeten", "added", "agreed", "surprised", "scaled", "speculated", "hint"]

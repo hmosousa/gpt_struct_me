@@ -1,0 +1,17 @@
+[["after", "Duration"], ["34", "Age"], ["06:55", "Time"], ["Palmela", "Location"], ["Sapadores", "Location"], ["Setúbal", "Location"], ["Hospital de São Bernardo", "Location"], ["Lusa", "Source"], ["PSP", "Source"], ["Proteção Civil", "Source"]]
+Explanation:
+* "after" is a duration expression, indicating that the event occurred after a specific time.
+* "34" is an age expression, indicating the age of the person who died.
+* "06:55" is a time expression, indicating the time at which the event occurred.
+* "Palmela" and "Sapadores" are location expressions, indicating the locations where the event occurred.
+* "Setúbal" is a location expression, indicating the location where the event occurred.
+* "Hospital de São Bernardo" is a location expression, indicating the location where the body was taken.
+* "Lusa" and "PSP" are source expressions, indicating the sources of the information.
+* "Proteção Civil"is a source expression, indicating the source of the information.
+
+Note:
+
+* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+* The input is a sentence from a news article, and the output is a list of time expressions extracted from the sentence.
+* The classes are defined as follows:
+																																																																																																																																																																																																																																																																																																																																																																																																																										

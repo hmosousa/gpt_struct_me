@@ -1,0 +1,4 @@
+[["Courtaulds", "DATE"], ["next year", "DATE"], ["first quarter", "DATE"], ["300 million", "NUMBER"], ["400 million", "NUMBER"], ["15 pence", "NUMBER"], ["362 pence", "NUMBER"], ["1.44 billion", "NUMBER"], ["5%", "PERCENTAGE"], ["10%", "PERCENTAGE"], ["March 31", "DATE"], ["last year", "DATE"], ["Australian", "NATIONALITY"], ["Kerry Packer", "PERSON"], ["Julia Blake", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

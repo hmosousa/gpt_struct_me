@@ -1,0 +1,9 @@
+["hoje", "através de uma nota divulgada no portal da Presidência da República", "a partir de 20:30", "pelas 20:30", "hoje", "nas últimas eleições legislativas"]
+
+Note:
+
+* The input text may contain other temporal expressions not listed in the example.
+* The output format is a JSON-parseable list of strings.
+* The task is case-insensitive, so "hoje" and "today" are considered the same.
+
+Please provide a JSON-parseable list of strings representing all temporal expressions in the input text.

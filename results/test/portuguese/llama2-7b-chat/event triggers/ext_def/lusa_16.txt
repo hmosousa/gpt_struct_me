@@ -1,0 +1,16 @@
+[
+"sofre",
+"incêndio",
+"quebradas",
+"membros",
+"terceiro grau",
+"Arcozelo",
+"Vila Nova de Gaia",
+"Lusa",
+"Sapadores",
+"chamas",
+"cozinha",
+"Centro Hospitalar",
+"Vila Nova de Gaia/Espinho",
+"extinto"
+]

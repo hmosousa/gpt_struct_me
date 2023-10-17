@@ -1,0 +1,16 @@
+[
+  ["Person", "Jovem de 14 anos"],
+  ["Organization", "Proteção Civil"],
+  ["Organization", "Bombeiros da Vila das Aves"],
+  ["Organization", "Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão"],
+  ["Organization", "Ambulância de Suporte Imediato de Vida de Santo Tirso"],
+  ["Organization", "GNR"],
+  ["Location", "Vila das Aves"],
+  ["Location", "Hospital São João"],
+  ["Object", "Autocarro"],
+  ["Nature", "Acidente"],
+  ["Facility", "Rua Luís Gonzaga Mendes de Carvalho"],
+  ["Other", "Lusa"],
+  ["Other", "Vila Nova de Famalicão"],
+  ["Other", "Santo Tirso"]
+]

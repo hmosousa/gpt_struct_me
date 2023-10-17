@@ -1,0 +1,1 @@
+[["says", "REPORTING"], ["meet", "OCCURRENCE"], ["suggested", "I_STATE"], ["expects", "I_STATE"], ["called", "REPORTING"], ["taking", "OCCURRENCE"]]

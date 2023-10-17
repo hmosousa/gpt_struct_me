@@ -1,0 +1,9 @@
+[["said", "REPORTING"], ["jumped", "OCCURRENCE"], ["had", "OCCURRENCE"], ["soared", "OCCURRENCE"], ["began", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["began", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["meanwhile", "ASPECTUAL"], ["reported", "REPORTING"], ["more", "OCCURRENCE"], ["than", "OCCURRENCE"], ["twice", "OCCURRENCE"], ["rose", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some triggers may belong to multiple classes.
+
+This task is an extraction task.
+
+Note:
+Please provide your output in the specified format.

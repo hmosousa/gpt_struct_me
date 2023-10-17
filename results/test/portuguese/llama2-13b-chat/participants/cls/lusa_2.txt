@@ -1,0 +1,26 @@
+[
+["Homem", "Person"],
+["Organização", "PSP"],
+["Arma de fogo", "Object"],
+["Mem Martins", "Location"],
+["Sintra", "Location"],
+["Lisboa", "Location"],
+["Hospital Professor Doutor Fernando Fonseca", "Facility"],
+["Amadora-Sintra", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Organização" is an organization (PSP).
+* "Arma de fogo" is an object.
+* "Mem Martins" and "Sintra" are locations.
+* "Lisboa" is a location.
+* "Hospital Professor Doutor Fernando Fonseca" is a facility.
+* "Amadora-Sintra" is a location.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are extracted from the text using named entity recognition (NER) techniques.
+* The classes are predefined categories that the entities are grouped into.

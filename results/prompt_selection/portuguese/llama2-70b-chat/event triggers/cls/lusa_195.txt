@@ -1,0 +1,42 @@
+[
+["PJ", "State"],
+["homem", "Occurrence"],
+["balear", "Action"],
+["jovem", "Occurrence"],
+["restaurante", "Aspectual"],
+["coletividade", "Aspectual"],
+["conflito", "Intensional Action"],
+["disparo", "Action"],
+["arma", "Intensional State"],
+["ferimentos", "Occurrence"],
+["detido", "State"],
+["crimes", "Intensional Action"],
+["homicídio", "Intensional State"],
+["tentativa", "Aspectual"],
+["detenção", "Intensional Action"],
+["omissão", "Intensional Action"],
+["auxílio", "Intensional State"],
+["interrogatório", "Intensional Action"],
+["coação", "Intensional State"],
+["prisão", "Intensional State"]
+]
+
+Explanation:
+
+* "PJ" is a State entity, as it refers to the Polícia Judiciária, a state law enforcement agency.
+* "homem" is an Occurrence entity, as it refers to a man who was detained.
+* "balear" is an Action entity, as it refers to the action of shooting.
+* "jovem" is an Occurrence entity, as it refers to the young person who was shot.
+* "restaurante" and "coletividade" are Aspectual entities, as they refer to the location where the event occurred.
+* "conflito" is an Intensional Action entity, as it refers to the conflict that led to the shooting.
+* "disparo" is an Action entity, as it refers to the action of shooting.
+* "arma" is an Intensional State entity, as it refers to the weapon used in the shooting.
+* "ferimentos" is an Occurrence entity, as it refers to the injuries sustained by the young person.
+* "detido" is a State entity, as it refers to the man who was detained.
+* "crimes" is an Intensional Action entity, as it refers to the crimes that the man is suspected of committing.
+* "homicídio" is an Intensional State entity, as it refers to the suspected crime of homicide.
+* "tentativa" is an Aspectual entity, as it refers to the attempted crime.
+* "detenção" and "omissão" are Intensional Action entities, as they refer to the actions of detaining and omitting aid.
+* "auxílio" is an Intensional State entity, as it refers to the aid that was omitted.
+* "interrogatório" is an Intensional Action entity, as it refers to the interrogation that the man underwent.
+* "coação" and "prisão" are Intensional State entities, as they refer to the coercion and imprisonment that the man is facing.

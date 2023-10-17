@@ -1,0 +1,1 @@
+[["Nov. 16", "DATE"], ["March 1, 2011", "DATE"], ["Friday", "SET"], ["last Monday", "DATE"]]

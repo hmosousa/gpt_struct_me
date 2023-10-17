@@ -1,0 +1,1 @@
+["Sunday", "recent days", "hours", "days", "weeks", "months", "years"]

@@ -1,0 +1,38 @@
+[
+{
+"entity": "Homem",
+"class": "Aspectual"
+},
+{
+"entity": "Mulher",
+"class": "Aspectual"
+},
+{
+"entity": "Ministério Público",
+"class": "Intensional Action"
+},
+{
+"entity": "Polícia Judiciária",
+"class": "Intensional Action"
+},
+{
+"entity": "Juiz de Instrução",
+"class": "Intensional Action"
+},
+{
+"entity": "Observador",
+"class": "Perception"
+},
+{
+"entity": "Produto Estupefaciente",
+"class": "Aspectual"
+}
+]
+Note:
+* "Aspectual" class represents entities related to the aspect of the event (e.g. the person who committed the crime, the victim, the crime itself)
+* "Intensional Action" class represents entities related to the intention of the action (e.g. the prosecutor, the police, the judge)
+* "Perception" classrepresents entities related to the perception of the event (e.g. the observer)
+* "State" class represents entities related to the state of the event (e.g. the crime scene)
+* "Occurrence" class represents entities related to the occurrence of the event (e.g. the time and place where the crime happened)
+* "Reporting" class represents entities related to the reporting of the event (e.g. the media)
+* "Observador" class represents entities related to the observation of the event (e.g. the witness)

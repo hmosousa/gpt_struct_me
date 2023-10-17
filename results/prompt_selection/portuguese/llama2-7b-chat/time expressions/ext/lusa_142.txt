@@ -1,0 +1,15 @@
+[
+"detém",
+"apresende",
+"12.300",
+"doses",
+"haxixe",
+"suspeitas",
+"prática",
+"crime",
+"trafico",
+"drog",
+"aplicação",
+"medidas",
+"coação"
+]

@@ -1,0 +1,10 @@
+[["corpo", "Ob"], ["Autoridade Marítima", "Or"], ["homem", "Per"], ["pescador", "Or"], ["mar", "Loc"], ["praia", "Loc"], ["Estaquinha", "Loc"], ["Faro", "Loc"], ["distrito", "Other"], ["Estação Salva-vidas", "Or"], ["Ferragudo", "Loc"], ["gabinete de medicina legal", "Or"], ["Portimão", "Loc"], ["polícia marítima", "Or"], ["gabinete", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with entities and classes marked.
+* The output is the list of entities and their corresponding classes.
+* The classes are: Person, Organization, Location, Nature, Facility, and Other.
+* The entities are: homem, Autoridade Marítima, pescador, mar, praia, Estaquinha, Faro, distrito, Estação Salva-vidas, Ferragudo, gabinete de medicina legal, Portimão, polícia marítima, and Other.

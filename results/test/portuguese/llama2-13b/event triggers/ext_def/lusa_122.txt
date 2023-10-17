@@ -1,0 +1,4 @@
+"paragem cardiorrespiratória"
+
+Explanation:
+The event "paragem cardiorrespiratória" is extracted from the text.

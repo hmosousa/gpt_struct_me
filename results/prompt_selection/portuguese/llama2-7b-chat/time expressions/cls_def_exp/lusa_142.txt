@@ -1,0 +1,1 @@
+[["em menos de uma semana", "Duration"], ["segunda-feira", "Date"], ["Mértola", "Location"], ["Beja", "Location"], ["30 nov 2020", "Date"], ["crime de tráfico de droga", "Time"], ["12.300 doses de haxixe", "Quantity"]]

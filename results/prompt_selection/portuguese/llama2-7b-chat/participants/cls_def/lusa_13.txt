@@ -1,0 +1,26 @@
+[
+{
+"entity": "Autoridades judiciais",
+"class": "Organization"
+},
+{
+"entity": "Maximiliano Trimarchi",
+"class": "Person"
+},
+{
+"entity": "Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "Leopoldo Luque",
+"class": "Person"
+},
+{
+"entity": "Agustina Cosachov",
+"class": "Person"
+},
+{
+"entity": "Polícia",
+"class": "Organization"
+}
+]

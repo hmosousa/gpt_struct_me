@@ -1,0 +1,11 @@
+[
+"segunda-feira",
+"12:00 locais",
+"13:00 em Lisboa",
+"62 anos",
+"corpo",
+"already cadáver",
+"local",
+"zona de difícil acesso",
+"Hospital de Angra do Heroísmo"
+]

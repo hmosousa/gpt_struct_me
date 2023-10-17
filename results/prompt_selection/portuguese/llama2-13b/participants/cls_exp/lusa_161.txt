@@ -1,0 +1,15 @@
+[["Um homem", "Per"], ["matou", "Verb"], ["hoje", "Adv"], ["com um disparo de arma de fogo", "Obj"], ["a ex-companheira", "Obj"], ["em Vila Nova de Gaia", "Loc"], ["e foi detido", "Verb"], ["numa altura", "Adv"], ["em que estaria", "Verb"], ["a tentar", "Verb"], ["o suicídio", "Verb"], ["com a mesma arma", "Obj"], ["diz", "Verb"], ["fonte da GNR", "Org"], ["à agência Lusa", "Org"], ["que o crime", "Obj"], ["ocorreu", "Verb"], ["cerca das 10:30", "Adv"], ["na Rua da Figueirinha", "Loc"], ["em Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["e que o homem", "Obj"], ["tem 62 anos", "Obj"], ["A vítima", "Obj"], ["era 20 anos mais nova", "Obj"], ["A fonte", "Obj"], ["admite", "Verb"], ["que o homem", "Obj"], ["tenha cometido", "Verb"], ["o crime", "Obj"], ["em retaliação", "Obj"], ["por a mulher", "Obj"], ["ter optado", "Verb"], ["por terminar", "Verb"], ["a relação", "Obj"], ["que ambos", "Obj"], ["mantiveram", "Verb"], ["durante 10 anos", "Obj"], ["O caso", "Obj"], ["passou", "Verb"], ["para a alçada", "Obj"], ["da Polícia Judiciária", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem mata ex-companheira com tiro em Vila Nova de Gaia
+Um homem matou hoje com um disparo de arma de fogo a ex-companheira em Vila Nova de Gaia e foi detido numa altura em que estaria a tentar o suicídio com a mesma arma, disse fonte da GNR.
+Fonte do Comando Territorial da GNR do Porto referiu à agência Lusa que o crime ocorreu cerca das 10:30 na Rua da Figueirinha, em Grijó, Vila Nova de Gaia, distrito do Porto, e que o homem tem 62 anos.
+A vítima era 20 anos mais nova.
+A fonte admitiu que o homem tenha cometido o crime em retaliação por a mulher ter optado por terminar a relação que ambos mantiveram durante 10 anos.
+O caso passou para a alçada da Polícia Judiciária."
+
+Output:
+[["Um homem", "Per"], ["matou", "Verb"], ["hoje", "Adv"], ["com um disparo de arma de fogo", "Obj"], ["a ex-companheira", "Obj"], ["em Vila Nova de Gaia", "Loc"], ["e foi detido", "Verb"], ["numa altura", "Adv"], ["em que estaria", "Verb"], ["a tentar", "Verb"], ["o suicídio", "Verb"], ["com a mesma arma", "Obj"], ["diz", "Verb"], ["fonte da GNR", "Org"], ["à agência Lusa", "Org"], ["que o crime", "Obj"], ["ocorreu", "Verb"], ["cerca das 10:30", "Adv"], ["na Rua da Figueirinha", "Loc"], ["em Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["e que o homem", "Obj"], ["tem 62 anos", "Obj"], ["A vítima", "Obj"], ["era 20 anos mais nova", "Obj"], ["A fonte", "Obj"], ["admite", "Verb"], ["que o homem", "Obj"], ["ten

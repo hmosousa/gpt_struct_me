@@ -1,0 +1,4 @@
+["Thursday", "Friday", "unsolicited", "$32-a-share", "DIG Acquisition Corp.", "Rose Partners Limited Partnership", "Robert Mellor", "Thursday", "Friday"]
+
+Format:
+JSON-parseable list of strings.

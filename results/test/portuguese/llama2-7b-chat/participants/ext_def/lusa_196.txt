@@ -1,0 +1,13 @@
+[
+"Homem baleado",
+"Vila Nova de Gaia",
+"autor do disparo",
+"fugiu",
+"vítima",
+"hospital Santos Silva",
+"distrito do Porto",
+"ferido ligeiro",
+"Polícia Judiciária",
+"autoridades",
+"crime"
+]

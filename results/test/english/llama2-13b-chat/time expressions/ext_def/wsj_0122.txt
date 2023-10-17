@@ -1,0 +1,8 @@
+["December", "December", "3,500", "3,500", "a share", "at closing"]
+
+Explanation:
+
+* "December" is a time expression indicating the month in which the merger is expected to close.
+* "3,500" is a numerical value that represents the amount of money that shareholders other than the Underwood family will receive per share at closing.
+* "a share" is a time expression indicating that the amount is per share.
+* "at closing" is a time expression indicating that the transaction will be completed at the time of closing.

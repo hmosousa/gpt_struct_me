@@ -1,0 +1,8 @@
+["o automóvel atropelou várias pessoas", "as pessoas foram atropeladas", "o incidente provocou vários feridos", "os feridos foram transportados para hospitais", "o condutor do automóvel foi detido", "o incidente ocorreu pelas 16:00 locais"]
+
+Note:
+
+* "Automóvel" and "pessoas" are both singular nouns, so the verb forms should be in the singular form as well.
+* "Várias" is an indefinite adjective that modifies the noun "pessoas" and "feridos", so the verb forms should be in the plural form.
+* "O incidente" is a singular noun, so the verb form should be in the singular form.
+* "Pelas 16:00 locais" is a prepositional phrase that modifies the verb "ocorreu", so the verb form should be in the singular form as well.

@@ -1,0 +1,18 @@
+["year-end", "seconds", "minutes", "hours", "days", "weeks", "months", "years"]
+
+Explanation:
+
+* year-end: a time period expressed as the end of a year
+* seconds: a unit of time equal to 1/60 of a minute
+* minutes: a unit of time equal to 1/60 of an hour
+* hours: a unit of time equal to 24 minutes
+* days: a unit of time equal to 24 hours
+* weeks: a unit of time equal to 7 days
+* months: a unit of time equal to 30 days (or 31 days in some months)
+* years: a unit of time equal to 12 months
+
+Note:
+
+* The input text contains two time expressions: "year-end" and "by year-end".
+* The output list includes all the units of time that are relevant to the input text, including seconds, minutes, hours, days, weeks, months, and years.
+* The output list is in JSON-parseable format, with each element enclosed in double quotes.

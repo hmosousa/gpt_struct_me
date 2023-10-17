@@ -1,0 +1,7 @@
+[
+"mulher de 44 anos",
+"homem que transportava bivalves",
+"pescadores",
+"senhora",
+"condutor"
+]

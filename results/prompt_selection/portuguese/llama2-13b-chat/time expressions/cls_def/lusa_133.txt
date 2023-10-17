@@ -1,0 +1,33 @@
+[
+["GNR", "Date"],
+["apreende", "Time"],
+["390 quilogramas de atum-rabilho", "Quantity"],
+["cuja captura está interdita", "Duration"],
+["podendo levar a uma coima até 37.500 euros", "Set"],
+["na segunda-feira", "Date"],
+["durante uma ação de fiscalização", "Time"],
+["num veículo", "Location"],
+["77 quilos de atum-rabilho", "Quantity"],
+["acabando no seguimento das posteriores diligências por localizar 'a embarcação de pesca responsável'", "Duration"],
+["tendo ainda no seu interior 313 quilos de atum-rabilho", "Quantity"],
+["foram identificados o condutor do veículo e o mestre da embarcação", "Action"],
+["e elaborado o 'auto de contraordenação' pelo facto de estar interdito o transporte e a captura desta espécie","Action"],
+["o pescado apreendido, após ter sido sujeito a um controlo higiossanitário, foi considerado próprio para consumo e doado a uma instituição de solidariedade social", "Action"]
+]
+
+Explanation:
+
+* "GNR" is an entity and "Date" is the class.
+* "apreende" is an entity and "Time" is the class.
+* "390 quilogramas de atum-rabilho" is an entity and "Quantity" is the class.
+* "cuja captura está interdita" is an entity and "Duration" is the class.
+* "podendo levar a uma coima até 37.500 euros" is an entity and "Set" is the class.
+* "na segunda-feira" is an entity and "Date" is the class.
+* "durante uma ação de fiscalização" is an entity and "Time" is the class.
+* "num veículo" is an entity and "Location" is the class.
+* "77 quilos de atum-rabilho" is an entity and "Quantity" is the class.
+* "acabando no seguimento das posteriores diligências por localizar 'a embarcação de pesca responsável'" is an entity and "Duration" is the class.
+* "tendo ainda no seu interior 313 quilos de atum-rabilho" is an entity and "Quantity" is the class.
+* "foram identificados o condutor do veículo e o mestre da embarcação" is an entity and "Action" is the class.
+* "e elaborado o 'auto de contraordenação' pelo facto de estar interdito o transporte e a captura desta espécie" is an entity and "Action" is the class.
+* "o pescado apreendido, após ter sido sujeito a um controlo higiossanitário, foi considerado próprio para consumo e doado a uma instituição de solidariedade social" is an entity and "Action" is the class.

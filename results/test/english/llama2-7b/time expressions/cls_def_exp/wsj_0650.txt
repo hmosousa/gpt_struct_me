@@ -1,0 +1,36 @@
+	[["Sun Microsystems Inc.", "COMPANY"], ["$125 million", "MONEY"], ["Oct. 15, 1999", "DATE"], ["$849", "MONEY"], ["$25", "MONEY"], ["Goldman, Sachs amp Co.", "BANK"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government said it will seek to block the sale of a 20 percent stake in the French bank Societe Generale to a group of investors led by the Saudi Arabian government.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S. embargo against Iraq.
+The Treasury Department said it will seek to block the sale because it would violate the U.S

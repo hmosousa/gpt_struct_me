@@ -1,0 +1,6 @@
+[["maximiliano trimarchi", "I_State"], ["apartamento", "State"], ["diego maradona", "I_State"], ["investigação", "Occurrence"], ["alegada negligência", "Occurrence"], ["morte", "Occurrence"], ["ex-futebolista", "I_State"], ["argentino", "I_State"], ["procuradoria-geral", "I_State"], ["san isidro", "I_State"], ["comunicado", "Reporting"], ["buscas", "Occurrence"], ["telemóvel", "State"], ["saber", "Reporting"], ["trimarchi", "I_State"], ["juntos", "Occurrence"], ["maradona", "I_State"], ["casa", "State"], ["san andré", "I_State"], ["província de buenos aires", "I_State"], ["polícia", "I_State"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["leopoldo luque", "I_State"], ["médico", "I_State"], ["hematoma subdural", "Occurrence"], ["novembro", "State"], ["psiquiatra", "I_State"], ["agustina cosachov", "I_State"], ["inquérito", "Occurrence"], ["justiça argentina", "I_State"], ["abriu", "Aspectual"], ["determinar", "I_Action"], ["negligência médica", "Occurrence"], ["assistência", "State"], ["antigo futebolista", "I_State"]]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+
+Please, extract and classify all event triggers in the given text.

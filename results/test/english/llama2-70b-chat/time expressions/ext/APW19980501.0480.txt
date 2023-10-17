@@ -1,0 +1,16 @@
+[
+"in a more opportune time",
+"the coming of age for the Internet",
+"the global network of computers",
+"extending its embrace to include every nook and cranny of the nation",
+"opening doors to not only a diverse range of information sources but also an exhaustive list of possibilities to create new applications which add value to people's lives",
+"through intranet and extranet solutions",
+"strategic planning which incorporates both business and technology plans that are complementary",
+"mission-critical, decision support functions in organisations",
+"improve communications and collaboration at all levels in an organisation",
+"respectively link the network to other companies' for extended business purposes through extranets",
+"security issues such as firewalls and encryption as well as access and control procedures, and the trust levels that enterprises have with each other will emerge and there will be a need to address them",
+"the art of socialising is also experiencing a change where Net/virtual relationships are fast overtaking or becoming parallel with the normal human relationships",
+"the future",
+"how we use it"
+]

@@ -1,0 +1,1 @@
+[["the night", "DURATION"], ["the Federal Aviation Administration released air traffic control tapes", "DATE"], ["TWA Flight eight hundred went down", "DATE"], ["one five thousand", "TIME"], ["a minute and a half later", "DURATION"], ["sixteen thousand feet", "TIME"], ["two fireballs", "TIME"], ["one point", "TIME"], ["God bless him", "TIME"]]

@@ -1,0 +1,42 @@
+[
+"Violência doméstica",
+"Homem de Amarante",
+"Mulher de Amarante",
+"Filha",
+"GNR",
+"Tribunal de Instrução Criminal",
+"Penafiel",
+"Alcoólicas",
+"Vítima",
+"Filtra",
+"Residência",
+"Familiares",
+"Tribunal de Instrução Criminal",
+"Proibição",
+"Controle de movimentos",
+"Pulseira eletrónica"
+]
+Expected output:
+[
+"Violência doméstica",
+"Homem de Amarante",
+"Mulher de Amarante",
+"Filha",
+"GNR",
+"Tribunal de Instrução Criminal",
+"Penafiel",
+"Alcoólicas",
+"Vítima",
+"Filtra",
+"Residência",
+"Familiares",
+"Tribunal de Instrução Criminal",
+"Proibição",
+"Controle de movimentos",
+"Pulseira eletrónica"
+"Homem de Amarante"
+"Mulher de Amarante"
+"Filha"
+]
+Note:
+The output list may not be exhaustive, as there may be other participants mentioned in the input text that are not included in the output.

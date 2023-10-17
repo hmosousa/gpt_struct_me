@@ -1,0 +1,1 @@
+[["Friday", "DATE"], ["nearly two months", "DURATION"], ["Thursday", "DATE"], ["over a week", "DURATION"], ["Jan. 13", "DATE"], ["Friday", "DATE"], ["Feb. 23", "DATE"], ["Thursday", "DATE"], ["the foreseeable future", "DURATION"], ["Thursday", "DATE"], ["58", "DATE"], ["Friday", "DATE"], ["next week", "SET"], ["1990", "DATE"]]

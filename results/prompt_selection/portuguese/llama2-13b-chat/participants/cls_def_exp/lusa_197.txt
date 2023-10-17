@@ -1,0 +1,4 @@
+[["um homem de 52 anos", "Per"], ["um outro", "Per"], ["ferimentos ligeiros", "Other"], ["o poste de iluminação", "Fac"], ["a Rua da Constituição", "Loc"], ["o Porto", "Loc"], ["uma grua", "Obj"], ["um camião", "Obj"], ["a PSP", "Org"], ["a fonte", "Per"], ["as Relações Públicas", "Org"], ["do Comando Metropolitano", "Org"], ["do Porto", "Loc"], ["o Hospital de Santo António", "Loc"], ["morreu", "Per"], ["acabou por", "Per"], ["sofreu", "Per"], ["ferimentos", "Other"], ["as bombas de gasolina", "Other"]]
+
+Note:
+The classes are based on the information provided in the input text and may not reflect the actual relationships or categories of the entities.

@@ -1,0 +1,21 @@
+["atropelada", "durante", "protesto", "mariscadores", "Murtosa", "distrito", "Aveiro", "protesto", "com", "dezenas", "mariscadores", "informaram", "Bombeiros", "GNR", "ocorreu", "12:50", "caminho", "Torreira", "situação", "incendiou-se", "bocadinho", "senhor", "forçou", "saída", "viatura", "atropelou", "mulher", "ferimentos", "ligeiros", "transportada", "Hospital", "Aveiro", "identificado", "mariscadores", "Torreira", "protesto", "mais", "semana", "devido", "detetadas", "percentagens", "excessivas", "coliformes", "fecais", "águas", "ria", "Aveiro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo está a aumentar a pressão sobre a economia mundial, que já está a sofrer com a pandemia de covid-19.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a reabrir o seu mercado interno, mas a Europa e os Estados Unidos estão a colocar em prática medidas de contenção que podem levar a uma recessão.
+A China, onde a pandemia começou, está a

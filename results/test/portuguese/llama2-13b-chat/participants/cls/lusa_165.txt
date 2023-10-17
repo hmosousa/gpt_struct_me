@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["Estádio da Luz", "Location"],
+["Lisboa", "Location"],
+["PSP", "Organization"],
+["Cometlis", "Organization"],
+["Rádio Renascença", "Organization"],
+["automóvel", "Object"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Estádio da Luz" is a location.
+* "Lisboa" is a location.
+* "PSP" is an organization.
+* "Cometlis" is an organization.
+* "Rádio Renascença" is an organization.
+* "automóvel" is an object.
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The entities are extracted from the text using named entity recognition techniques.
+* The classes are assigned based on the type of entity (person, organization, location, object, etc.).

@@ -1,0 +1,11 @@
+[
+"12.300",
+"seconda-feira",
+"segunda-feira",
+"36",
+"Mértola",
+"Beja",
+"Estrada Nacional 122",
+"veículo",
+"telemóvel"
+]

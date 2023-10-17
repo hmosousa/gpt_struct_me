@@ -1,0 +1,9 @@
+[
+"homem",
+"ex-companheira",
+"homem",
+"vítima",
+"GNR",
+"Comando Territorial da GNR do Porto",
+"Polícia Judiciária"
+]

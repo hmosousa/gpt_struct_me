@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["34 anos", "Other"], ["morreu", "Per"], ["hoje", "Other"], ["o ciclomotor", "Obj"], ["que conduzia", "Per"], ["ter sido colhido", "Other"], ["por um veículo ligeiro", "Other"], ["na Estrada Nacional 10-8", "Loc"], ["na zona da Mitrena", "Loc"], ["em Setúbal", "Loc"], ["disseram fontes", "Org"], ["da PSP e Proteção Civil", "Org"], ["Fonte do Comando Distrital de Operações de Socorro", "Org"], ["de Setúbal", "Loc"], ["indicou à agência Lusa", "Org"], ["que o óbito", "Other"], ["do homem", "Per"], ["foi declarado", "Other"], ["no local", "Loc"], ["tendo o corpo", "Other"], ["been encaminhado", "Other"], ["para o serviço de Medicina legal", "Other"], ["do Hospital de São Bernardo", "Other"], ["em Setúbal", "Loc"], ["O alerta", "Other"], ["de acordo com o CDOS", "Org"], ["foi dado", "Other"], ["às 06:55", "Other"], ["tendo sido mobilizados", "Other"], ["bombeiros", "Org"], ["e veículos", "Org"], ["das corporações", "Org"], ["de Palmela e Sapadores", "Org"], ["de Setúbal", "Loc"], ["e uma viatura médica", "Other"], ["de emergência e reanimação", "Other"], ["VMER", "Other"], ["além da PSP", "Org"], ["num total de 16 elementos", "Other"], ["apoiados por cinco veículos", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Loc" stands for "Location"
+* "Fac" stands for "Facility"
+* "Org" stands for "Organization"

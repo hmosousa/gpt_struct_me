@@ -1,0 +1,1 @@
+["become", "completed", "said", "agreed", "buy", "expected", "close"]

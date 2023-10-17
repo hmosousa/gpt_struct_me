@@ -1,0 +1,2 @@
+[["CNW Corp.", "State"], ["CNW Corp.", "Occurrence"], ["CNW Corp.", "Reporting"], ["CNW Corp.", "Perception"], ["CNW Corp.", "Aspectual"], ["CNW Corp.", "Intensional Action"], ["CNW Corp.", "Intensional State"]]
+

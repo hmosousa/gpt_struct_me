@@ -1,0 +1,5 @@
+[["year ending June 30, 1990", "DATE"], ["$1.65 a share", "MONEY"], ["fiscal 1989", "DATE"], ["$155 million", "MONEY"], ["Elco Industries Inc.", "ORGANIZATION"], ["Rockford", "LOCATION"], ["Ill.", "LOCATION"], ["1989", "DATE"], ["$7.8 million", "MONEY"]]
+
+
+
+

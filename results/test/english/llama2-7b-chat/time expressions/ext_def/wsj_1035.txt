@@ -1,0 +1,20 @@
+[
+"a year ago",
+"a year",
+"yesterday",
+"third-quarter",
+"third quarter",
+"last year",
+"last quarter",
+"last quarter",
+"22 cents a share",
+"86 cents a share",
+"43%",
+"704.4 million",
+"$32.3 million",
+"$7.4 million",
+"intense",
+"slim",
+"25 cents",
+"$30.25"
+]

@@ -1,1 +1,0 @@
-[["Homem", "Person"], ["ex-companheira", "Person"], ["Vila Nova de Gaia", "Location"], ["arma de fogo", "Object"], ["fonte", "Organization"], ["GNR", "Organization"], ["Comando Territorial da GNR do Porto", "Organization"], ["Rua da Figueirinha", "Location"], ["Grijó", "Location"], ["Porto", "Location"], ["Polícia Judiciária", "Organization"]]

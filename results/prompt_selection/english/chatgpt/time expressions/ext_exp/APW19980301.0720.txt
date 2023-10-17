@@ -1,0 +1,1 @@
+["Sunday", "Sunday", "1978", "Friday", "Sunday", "1985", "last year", "last February", "Sunday", "last week", "Sunday", "six weeks ago"]

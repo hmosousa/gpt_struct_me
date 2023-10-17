@@ -1,0 +1,1 @@
+[["cut", "OCCURRENCE"], ["payable", "STATE"], ["reported", "REPORTING"], ["adopted", "OCCURRENCE"], ["loss", "STATE"], ["cut", "OCCURRENCE"]]

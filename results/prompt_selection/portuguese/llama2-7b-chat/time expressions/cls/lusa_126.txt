@@ -1,0 +1,6 @@
+[["GNR", "Date"], ["GNR", "Time"], ["GNR", "Duration"], ["GNR", "Set"]]
+Explanation:
+* "GNR" is the entity, and the class is "Date" because the text mentions the date of the operation.
+* "GNR" is the entity, and the class is "Time" because the text mentions the time of the operation.
+* "GNR" is the entity, and the class is "Duration" because the text mentions the duration of the operation.
+* "GNR" is the entity, and the class is "Set" because the text mentions the location of the operation.

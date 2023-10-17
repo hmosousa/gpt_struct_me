@@ -1,0 +1,10 @@
+[["um homem", "Per"], ["34 anos", "Age"], ["Estrada Nacional 10-8", "Loc"], ["Mitrena", "Loc"], ["Setúbal", "Loc"], ["PSP", "Org"], ["Proteção Civil", "Org"], ["CDOS", "Org"], ["Hospital de São Bernardo", "Fac"], ["Serviço de Medicina legal", "Fac"], ["bombeiros", "Org"], ["veículos", "Org"], ["Palmela", "Loc"], ["Sapadores", "Loc"], ["VMER", "Org"], ["PSP", "Org"]]
+
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities (people, places, organizations) and classes (age, location, organization).
+* The task is to extract and classify all the participants (people, organizations, locations) in the sentence.
+* The output is a list of all the participants, classified by their type (person, organization, location, etc.).

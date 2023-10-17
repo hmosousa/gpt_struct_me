@@ -1,0 +1,26 @@
+[
+{
+"entity": "Corpo de homem",
+"class": "Person"
+},
+{
+"entity": "Autoridade Marítima",
+"class": "Organization"
+},
+{
+"entity": "Estação Salva-vidas de Ferragudo",
+"class": "Facility"
+},
+{
+"entity": "Polícia Marítima de Portimão",
+"class": "Organization"
+}
+]
+
+Explanation:
+The output list contains 4 participants:
+1. Corpo de homem (Person)
+2. Autoridade Marítima (Organization)
+3. Estação Salva-vidas de Ferragudo (Facility)
+4. Polícia Marítima de Portimão (Organization)
+Each participant is represented as a JSON object with two strings: "entity" and "class". The "entity" string is the name of the participant, and the "class" string is the class of the participant (Person, Organization, Facility, or Other).

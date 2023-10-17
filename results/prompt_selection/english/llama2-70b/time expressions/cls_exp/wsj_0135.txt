@@ -1,0 +1,1 @@
+[["June 30, 1990", "DATE"], ["$1.65", "MONEY"], ["fiscal 1989", "SET"], ["slightly above", "SET"], ["$155 million", "MONEY"], ["$1.125", "MONEY"], ["$13.625", "MONEY"]]

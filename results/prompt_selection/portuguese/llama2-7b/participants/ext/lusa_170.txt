@@ -1,0 +1,13 @@
+"Encontrado corpo de homem em zona rochosa na costa da Terceira
+O corpo de um homem "a boiar junto a uma zona rochosa na costa leste da Terceira", nos Açores, foi detetado na segunda-feira, desconhecendo-se as causas da morte, anunciou hoje a Autoridade Marítima.
+Segundo um comunicado enviado às redações, o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado pelas 12:00 locais (13:00 em Lisboa) de segunda-feira para "a presença do corpo de um homem a boiar” numa área de domínio público marítimo.
+A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP) e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".
+O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", já que se encontrava numa "zona de difícil acesso, tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo, onde será autopsiado para se apurar as causas da morte"."
+
+Expected output:
+"Encontrado corpo de homem em zona rochosa na costa da Terceira
+O corpo de um homem "a boiar junto a uma zona rochosa na costa leste da Terceira", nos Açores, foi detetado na segunda-feira, desconhecendo-se as causas da morte, anunciou hoje a Autoridade Marítima.
+Segundo um comunicado enviado às redações, o Comando-Local da Polícia Marítima de Angra do Heroísmo foi alertado pelas 12:00 locais (13:00 em Lisboa) de segunda-feira para "a presença do corpo de um homem a boiar” numa área de domínio público marítimo.
+A autoridade adiantou ainda que a informação foi recebida através da Polícia de Segurança Pública (PSP) e que o piquete da Polícia Marítima de Angra do Heroísmo e o delegado de saúde foram ao local, onde confirmaram "a presença do corpo de um homem, de 62 anos, já cadáver".
+O corpo "foi retirado do local pela equipa de grande ângulo dos Bombeiros Voluntários da Praia da Vitória", já que se encontrava numa "zona de difícil acesso, tendo sido posteriormente transportado para o Hospital de Angra do Heroísmo, onde será autopsiado para se apurar as causas da morte"."
+

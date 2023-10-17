@@ -1,0 +1,1 @@
+["a year ago", "yesterday", "within 18 months"]

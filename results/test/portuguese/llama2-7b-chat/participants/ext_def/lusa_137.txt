@@ -1,0 +1,11 @@
+[
+"GNR",
+"idosa",
+"Sabroso",
+"Vila Real",
+"Unidade de Vila Real do Centro Hospitalar de Trás-os-Montes e Alto Douro",
+"UEPS",
+"Autoridade Nacional de Emergência e Proteção Civil"
+"29 operacionais",
+"9 viaturas"
+] 

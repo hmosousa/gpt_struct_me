@@ -1,0 +1,48 @@
+	[["Integra-A Hotel amp Restaurant Co.", "COMPANY"], ["13.5% bonds due 1993", "SECURITY"], ["23.5 common shares", "SECURITY"], ["Hallwood Group Inc.", "COMPANY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of 100 million barrels of oil from the Strategic Petroleum Reserve to help ease the gulf crisis, a senior administration official said today.
+The plan, which would be implemented if the crisis continues, would be a ``significant'' release of oil from the reserve, the official said.
+The official said the plan would be presented to the White House Cabinet Committee on Economic Policy, which is chaired by Treasury Secretary Nicholas Brady.
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''
+The official said the plan would be presented to the committee ``in the next few days.''

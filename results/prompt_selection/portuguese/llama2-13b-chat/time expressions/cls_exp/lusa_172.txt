@@ -1,0 +1,15 @@
+[["hoje à tarde", "Time"], ["Lagoa", "Location"], ["Algarve", "Location"], ["praia da Estaquinha", "Location"], ["Faro", "Location"], ["pescador", "Occupation"], ["caído ao mar", "Action"], ["avistamento de um corpo a boiar no mar", "Action"], ["Estação Salva-vidas de Ferragudo", "Organization"], ["marina de Portimão", "Location"], ["delegada de saúde de Lagoa", "Person"], ["gabinete de medicina legal de Portimão", "Location"], ["Polícia Marítima de Portimão", "Organization"]]
+
+Note:
+- "hoje à tarde" is considered a time expression because it is a specific time of the day.
+- "em menos de uma semana" is considered a duration expression because it is a specific time period.
+- "setembro" is considered a time expression because it is a specific month.
+- "final do ano" is considered a time expression because it is a specific time period.
+- "Lagoa" and "Algarve" are considered location expressions because they are specific places.
+- "praia da Estaquinha" and "Faro" are considered location expressions because they are specific places.
+- "pescador" is considered an occupation expression because it is a specific profession.
+- "caído ao mar" is considered an action expression because it is a specific action.
+- "avistamento de um corpo a boiar no mar" is considered an action expression because it is a specific action.
+- "Estação Salva-vidas de Ferragudo" and "marina de Portimão" are considered organization expressions because they are specific places.
+- "delegada de saúde de Lagoa" and "gabinete de medicina legal de Portimão" are considered person expressions because they are specific individuals.
+- "Polícia Marítima de Portimão" is considered an organization expression because it is a specific place.

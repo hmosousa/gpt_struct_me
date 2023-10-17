@@ -1,0 +1,17 @@
+[["apreende", "I_Action"], ["390", "Occurrence"], ["quilogramas", "Occurrence"], ["atum-rabilho", "State"], ["captura", "State"], ["interdita", "State"], ["levar", "I_Action"], ["coima", "State"], ["37.500", "Occurrence"], ["euros", "State"], ["porto", "State"], ["pesca", "State"], ["costeira", "State"], ["Gafanha", "State"], ["Nazaré", "State"], ["Aveiro", "State"], ["revelou", "Reporting"], ["hoje", "Occurrence"], ["em", "State"], ["comunicado", "State"], ["a", "State"], ["Guarda", "State"], ["a", "State"], ["apreensão", "State"], ["ocorreu", "Reporting"], ["na", "State"], ["segunda-feira", "Occurrence"], ["durante", "Reporting"], ["uma", "Occurrence"], ["ação", "State"], ["de", "State"], ["fiscalização", "State"], ["com", "State"], ["cumprimento", "State"], ["regras", "State"], ["descarga", "State"], ["transporte", "State"], ["comercialização", "State"], ["regime", "State"], ["primeira", "State"], ["venda", "State"], ["fresco", "State"], ["refere", "Reporting"], ["a", "State"], ["nota", "State"], ["imprensa", "State"], ["diligências", "State"], ["localizar", "Reporting"], ["a", "State"], ["embarcação", "State"], ["responsável", "State"], ["mestre", "State"], ["doado", "State"], ["instituição", "State"], ["solidariedade", "State"], ["social", "State"], ["após", "State"], ["ter", "State"], ["suficiente", "State"], ["controle", "State"], ["higiossanitário", "State"], ["considerado", "State"], ["propio", "State"], ["para", "State"], ["consumo", "State"], ["do", "State"], ["instituição", "State"], ["solidariedade", "State"], ["social", "State"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas já foram infectadas pelo novo coronavírus
+A pandemia de covid-19 já conta com mais de 100 milhões de casos confirmados, segundo dados divulgados hoje pela Organização Mundial da Saúde (OMS).
+A agência de saúde mundial informou que, em 24 de julho, havia 100.4 milhões de casos confirmados de covid-19, o novo coronavírus que causou a pandêmia.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A agência de saúde mundial informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24 de julho, havia 500.000 mortes confirmadas pelo novo coronavírus.
+A OMS também informou que, em 24

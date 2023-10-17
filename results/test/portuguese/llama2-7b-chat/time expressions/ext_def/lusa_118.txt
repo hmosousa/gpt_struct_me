@@ -1,0 +1,12 @@
+[
+"hoje",
+"ontem",
+"depois",
+"amanhã",
+"18 a 20 de dezembro",
+"hoje de manhã",
+"toda a agenda pública",
+"distância",
+"toda a atividade executiva",
+"distância"
+]

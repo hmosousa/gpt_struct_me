@@ -1,0 +1,27 @@
+[
+["this week", "Date"],
+["three quarters", "Duration"],
+["first nine months", "Date"],
+["$492 million", "Amount"],
+["$4.55 a share", "Amount"],
+["$12.97 billion", "Amount"],
+["Hurricane Hugo", "Date"],
+["future payments", "Duration"],
+["recent quarters", "Duration"],
+["natural disasters", "Duration"]
+]
+
+Explanation:
+The output is a list of temporal expressions extracted from the input text. Each element in the list consists of a string representing the entity (the actual text) and a string representing the class (the type of temporal expression).
+
+The classes used in this task are:
+
+* Date: A specific point in time, such as a day, month, or year.
+* Time: A specific time of day, such as hours, minutes, or seconds.
+* Duration: A period of time, such as a number of days, weeks, months, or years.
+* Amount: A quantity of money or other measure.
+* Set: A group of items or a specific number of items, such as "300 people" or "25% of the staff".
+
+In the example output, "this week" is classified as a Date, "three quarters" is classified as a Duration, and "$492 million" is classified as an Amount. Similarly, "Hurricane Hugo" is classified as a Date, and "future payments" is classified as a Duration.
+
+Note that some temporal expressions may be ambiguous or have multiple possible classes. For example, "recent quarters" could be classified as either a Duration or a Date, depending on the context in which it is used.

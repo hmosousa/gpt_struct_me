@@ -1,0 +1,16 @@
+[
+"merger",
+"completed",
+"Society Corp.",
+"bank",
+"buy",
+"stock",
+"market value",
+"about",
+"450 million",
+"transaction",
+"close",
+"year end"
+]
+
+Please provide the output in JSON format.

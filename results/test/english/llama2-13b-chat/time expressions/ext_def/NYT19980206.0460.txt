@@ -1,0 +1,15 @@
+[
+"January",
+"last month",
+"third consecutive month",
+"quarter-century low",
+"a year earlier",
+"last fall",
+"four months",
+"three months",
+"first nine months of 1997",
+"short, sharp drop",
+"last few months",
+"long-term interest rates",
+"heavy investing"
+]

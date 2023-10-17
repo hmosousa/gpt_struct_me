@@ -1,0 +1,28 @@
+[
+["Corpo de homem", "Person"],
+["pescador", "Person"],
+["Autoridade Marítima", "Organization"],
+["Estaquinha", "Location"],
+["Algarve", "Location"],
+["Faro", "Location"],
+["Estação Salva-vidas de Ferragudo", "Facility"],
+["marina de Portimão", "Location"],
+["delegada de saúde de Lagoa", "Person"],
+["gabinete de medicina legal de Portimão", "Facility"],
+["Polícia Marítima de Portimão", "Organization"]
+]
+
+Note:
+The input text is in Portuguese. The output should be in English.
+
+This task is a classification task, where the goal is to classify each participant mentioned in the input text into one of the predefined classes. The classes are:
+
+* Person: A person or group of people, such as a victim, actor, or observer.
+* Organization: A group or entity that is involved in the situation, such as a company, government agency, or non-profit organization.
+* Object: A physical object or entity that is involved in the situation, such as a boat, car, or building.
+* Location: A physical location where the situation occurred or is taking place, such as a city, country, or landmark.
+* Nature: A natural entity or phenomenon that is involved in the situation, such as a storm, earthquake, or wildfire.
+* Facility: A man-made structure or entity that is involved in the situation, such as a hospital, school, or prison.
+* Other: Any other entity or concept that does not fit into one of the above categories.
+
+The input text is in Portuguese, so the model should be able to handle language translation as well. The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second string is the class.

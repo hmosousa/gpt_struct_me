@@ -1,0 +1,21 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+
+In this input, we have the following time expressions:
+
+* "em menos de uma semana" (Duration)
+* "sábado" (Date)
+* "setembro" (Time)
+* "final do ano" (Time)
+
+These time expressions are classified as follows:
+
+
+* "em menos de uma semana" is classified as Duration, because it refers to a period of time shorter than a week.
+* "sábado" is classified as Date, because it refers to a specific day of the week.
+* "setembro" is classified as Time, because it refers to a month.
+* "final do ano" is classified as Time, because it refers to the end of the year.
+
+
+Note that the input also contains other linguistic elements that are not time expressions, such as "garrafa", "restaurante", "proprietário", "estabelecimento", "alcoólicas", "via pública", "Comando Distrital de Operações de Socorro", "bombeiros", and "corporação de Águas de Moura". These elements are not included in the output.

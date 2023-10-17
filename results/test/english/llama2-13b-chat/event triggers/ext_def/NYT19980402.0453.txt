@@ -1,0 +1,1 @@
+["murdered", "killings", "pattern", "cases", "suspects", "arrests", "victims", "death", "evidence", "conclusions", "serial killer"]

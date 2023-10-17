@@ -1,0 +1,9 @@
+[
+"quase quatro toneladas",
+"madrugada",
+"3.785 quilos",
+"foz do rio Guadiana",
+"fogo de alta velocidade",
+"território espanhol",
+"ajuda do Sistema Integrado de Vigilância"
+]

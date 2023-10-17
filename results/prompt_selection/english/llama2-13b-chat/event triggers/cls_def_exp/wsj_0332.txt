@@ -1,0 +1,4 @@
+[["Orkem S.A.", "State"], ["Coates Brothers PLC", "State"], ["Orkem Coatings U.K. Ltd.", "State"], ["France", "State"], ["U.K.", "State"], ["Orkem", "Intensional Action"], ["Coates", "Intensional Action"], ["acceptances", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["restructuring", "OCCURRENCE"], ["addition", "OCCURRENCE"], ["public share offering", "OCCURRENCE"]]
+
+Note:
+In the output, the first element of each list is the entity and the second is the class. The classes are: State, Intensional Action, Occurrence, and Aspectual.

@@ -1,0 +1,5 @@
+["PJ", "Setúbal", "quarta-feira", "coletividade", "Alto da Guerra", "sexagenário", "jovem", "grupo", "arma de fogo", "ferimentos", "ombro", "braço", "medida de coação", "prisão preventiva"]
+
+
+Note:
+The output list contains time expressions in the format of day of the week (e.g. "quarta-feira"), month (e.g. "setembro"), and year (e.g. "30 nov 2020").

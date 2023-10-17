@@ -1,0 +1,39 @@
+[["Dominion Textile Inc.", "STATE"], ["holders", "OCCURRENCE"], ["adopted", "OCCURRENCE"], ["shareholder-rights", "OCCURRENCE"], ["so-called", "OCCURRENCE"], ["triggered", "OCCURRENCE"], ["rights", "OCCURRENCE"], ["attached", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["hostile", "OCCURRENCE"], ["bidder", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["triggered", "OCCURRENCE"], ["securities", "OCCURRENCE"], ["assets", "OCCURRENCE"], ["separately", "OCCURRENCE"], ["posted", "OCCURRENCE"], ["net", "OCCURRENCE"], ["income", "OCCURRENCE"], ["loss", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["comparable", "OCCURRENCE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. Supreme Court on Monday refused to hear an appeal by a group of investors who claimed that the Securities and Exchange Commission had failed to protect them from fraud.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it had no such duty.
+The investors had claimed that the SEC had a duty to protect them from fraud by companies that were publicly traded.
+The SEC had argued that it

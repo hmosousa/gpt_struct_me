@@ -1,0 +1,1 @@
+[["2017", "Time"], ["até a atualidade", "Duration"], ["algumas vezes", "Duration"], ["desde essa altura", "Duration"]]

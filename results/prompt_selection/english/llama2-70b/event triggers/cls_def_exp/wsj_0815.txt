@@ -1,0 +1,1 @@
+[["Corp.", "ORGANIZATION"], ["buyers", "PERSON"], ["agreement", "OCCURRENCE"], ["deals", "OCCURRENCE"], ["wholesaler", "OCCURRENCE"], ["maker", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["DIG", "ORGANIZATION"], ["vehicle", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["Mellor", "PERSON"], ["company", "ORGANIZATION"], ["money", "OCCURRENCE"]]

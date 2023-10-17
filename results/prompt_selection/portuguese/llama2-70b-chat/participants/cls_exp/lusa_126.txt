@@ -1,0 +1,6 @@
+[["GNR", "Org"], ["dois homens", "Per"], ["tráfico de droga", "Other"], ["Sines", "Loc"], ["distrito de Setúbal", "Loc"], ["1.673 doses", "Other"], ["estupefacientes", "Other"], ["comunicado", "Obj"], ["Guarda Nacional Republicana", "Org"], ["GNR", "Org"], ["sábado", "Other"], ["decorrer", "Other"], ["ação de patrulhamento", "Other"], ["local", "Loc"], ["referenciado", "Other"], ["tráfico de estupefacientes", "Other"], ["militares", "Org"], ["suspeitos", "Per"], ["transação", "Other"], ["comando territorial", "Org"], ["Setúbal", "Loc"], ["GNR", "Org"], ["Tribunal Judicial", "Org"], ["Santiago do Cacém", "Loc"], ["primeiro interrogatório judicial", "Other"], ["eventuais medidas de coação", "Other"]]
+
+Note:
+The task is to extract and classify all participants in the given text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The input text is in Portuguese.

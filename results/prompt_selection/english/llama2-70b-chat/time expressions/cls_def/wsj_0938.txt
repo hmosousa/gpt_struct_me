@@ -1,0 +1,32 @@
+[
+["Nov. 22", "Date"],
+["last April", "Date"],
+["last May", "Date"],
+["yesterday", "Date"],
+["$780.6 million", "Amount"],
+["$666 million", "Amount"],
+["C$16.40", "Amount"],
+["C$8.5 million", "Amount"],
+["C$17.50", "Amount"],
+["$57 million", "Amount"],
+["$100 million", "Amount"],
+["two years", "Duration"],
+["18-screen", "Set"],
+["51%", "Set"],
+["$11", "Amount"],
+["C$12.875", "Amount"],
+["1 million", "Set"],
+["well below", "Set"]
+]
+
+Explanation:
+The output is a list of 15 elements, where each element is a list containing two strings. The first string represents the entity, and the second string represents the class.
+
+The classes are:
+
+* Date: Represents a specific point in time, such as "Nov. 22" or "last April".
+* Amount: Represents a quantity of money, such as "$780.6 million" or "C$16.40".
+* Duration: Represents a period of time, such as "two years".
+* Set: Represents a collection of items, such as "18-screen" or "51%".
+
+The entities in the text that match these classes are extracted and listed in the output, along with their corresponding class labels.

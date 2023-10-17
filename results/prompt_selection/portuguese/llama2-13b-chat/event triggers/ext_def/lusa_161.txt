@@ -1,0 +1,12 @@
+["Homem mata ex-companheira com tiro em Vila Nova de Gaia", "Tiro em Vila Nova de Gaia", "Mata ex-companheira", "Suicídio", "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "Distrito do Porto", "62 anos", "20 anos mais nova", "Retaliação", "Terminar relação"]
+
+Note:
+- "Homem mata ex-companheira" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
+- "Tiro em Vila Nova de Gaia" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
+- "Mata ex-companheira" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
+- "Suicídio" é um evento, pois é uma ação que ocorreu e tem relevância temporal.
+- "Rua da Figueirinha" e "Grijó" são locais onde os eventos ocorreram.
+- "Vila Nova de Gaia" e "Distrito do Porto" são locais onde os eventos ocorreram.
+- "62 anos" e "20 anos mais nova" são informações sobre a idade dos envolvidos.
+- "Retaliação" é uma razão que leu à comissão do crime.
+- "Terminar relação" é uma razão que leu à comissão do crime.

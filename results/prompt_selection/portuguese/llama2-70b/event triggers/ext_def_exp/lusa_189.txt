@@ -1,0 +1,1 @@
+["tirou", "baleado", "caçadeira", "atirador", "fuga", "incidente", "ocorreu", "tiroteio", "homicídio", "armas de fogo", "investigação"]

@@ -1,0 +1,4 @@
+[["Courtaulds PLC", "ORGANIZATION"], ["next year's first quarter", "DATE"], ["#300 million", "AMOUNT"], ["#400 million", "AMOUNT"], ["15 pence", "AMOUNT"], ["362 pence", "AMOUNT"], ["#1.44 billion", "AMOUNT"], ["B.A.T Industries PLC", "ORGANIZATION"], ["#4 billion", "AMOUNT"], ["Anglo-French", "NATIONALITY"], ["Sir James Goldsmith", "PERSON"], ["March 31", "DATE"], ["5%", "PERCENTAGE"], ["10%", "PERCENTAGE"], ["Kerry Packer", "PERSON"], ["Julia Blake", "PERSON"], ["Barclays de Zoete Wedd", "ORGANIZATION"], ["Sir Christopher Hogg", "PERSON"]]
+
+Note:
+The input text is in British English, so the currency is in pounds (#) instead of dollars ($).

@@ -1,0 +1,22 @@
+[
+"GNR",
+"quatro suspeitos",
+"assaltos",
+"drogas",
+"Alto Minho",
+"Viana do Castelo",
+"comando",
+"Arcos de Valdevez",
+"Paredes de Coura",
+"Ponte da Barca",
+"Ponte de Lima",
+"Vila Verde",
+"Braga",
+"heroína",
+"cocaína",
+"haxixe",
+"telemóveis",
+"computadores",
+"máquina fotográfica",
+"aparelho GPS"
+]

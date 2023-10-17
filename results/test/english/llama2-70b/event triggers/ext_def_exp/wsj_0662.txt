@@ -1,0 +1,1 @@
+["agreed", "pay", "acquire", "trading", "quoted", "transaction", "total", "value", "holding", "imports", "items", "president", "chief", "executive", "holds", "distributes", "rents", "equipment", "prints", "promotional", "ads", "retailers", "average", "shares", "outstanding", "subject", "approval", "panel", "disinterested", "directors"]

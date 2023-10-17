@@ -1,0 +1,51 @@
+[
+["Homem", "State"],
+["31 anos", "Aspectual"],
+["cortava árvore", "Intensional Action"],
+["caiu numa ravina", "Occurrence"],
+["queda da árvore", "Reporting"],
+["atingida", "Perception"],
+["resgatada", "Intensional Action"],
+["ambulância", "State"],
+["viatura de desencarceramento", "State"],
+["viatura de resgate em grande ângulo", "State"],
+["equipa da VMER", "State"],
+["Hospital de Guimarães", "State"],
+["GNR", "State"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to the current state of something or someone
+* Occurrence: refers to an event or a situation that is happening or has happened
+* Reporting: refers to the act of reporting or describing an event or situation
+* Perception: refers to the way something is perceived or understood
+* Intensional Action: refers to an action that is intended or planned
+* Aspectual: refers to a characteristic or aspect of something
+
+In this task, you are given a text in Portuguese and you must extract and classify all event triggers, which are the words or phrases that indicate the occurrence of an event or a change in state. The event triggers should be classified into the corresponding class (State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, or Intensional State).
+
+The input text is: "Homem ferido com gravidade quando cortava árvore em Felgueiras"
+
+The output should be a list of pairs, where each pair contains the entity and its corresponding class. For example:
+
+[
+["Homem", "State"],
+["31 anos", "Aspectual"],
+["cortava árvore", "Intensional Action"],
+["caiu numa ravina", "Occurrence"],
+["queda da árvore", "Reporting"],
+["atingida", "Perception"],
+["resgatada", "Intensional Action"],
+["ambulância", "State"],
+["viatura de desencarceramento", "State"],
+["viatura de resgate em grande ângulo", "State"],
+["equipa da VMER", "State"],
+["Hospital de Guimarães", "State"],
+["GNR", "State"]
+]
+
+The entity "Homem" should be classified as "State" because it refers to the current state of the person. The entity "31 anos" should be classified as "Aspectual" because it refers to a characteristic or aspect of the person. The entity "cortava árvore" should be classified as "Intensional Action" because it refers to an action that is intended or planned. The entity "caiu numa ravina" should be classified as "Occurrence" because it refers to an event or a situation that is happening or has happened. The entity "queda da árvore" should be classified as "Reporting" because it refers to the act of reporting or describing an event or situation. The entity "atingida" should be classified as "Perception" because it refers to the way something is perceived or understood. The entity "resgatada" should be classified as "Intensional Action" because it refers to an action that is intended or planned. The entity "ambulância" should be classified as "State" because it refers to the current state of the ambulance. The entity "viatura de desencarceramento" should be classified as "State" because it refers to the current state of the vehicle. The entity "viatura de resgate em grande ângulo" should be classified as "State" because it refers to the current state of the vehicle. The entity "equipa da VMER" should be classified as "State" because it refers to the current state of the team. The entity "Hospital de Guimarães" should be classified as "State" because it refers to the current state of the hospital. The entity "GNR" should be classified as "State" because it refers to the current state of the GNR.
+
+Note that the classes are not mutually exclusive, and an entity can belong to more than one class.

@@ -1,0 +1,32 @@
+[["motorista de Maradona", "Person"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"], ["apartamento de Maximiliano Trimarchi", "Location"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades argentinas apreendem 100 mil dólares em casa de Maradona
+As autoridades argentinas apreenderam hoje 100 mil dólares em dinheiro em casa de Diego Maradona, o ex-futebolista que morreu há 10 dias, informou a polícia.
+A polícia também apreendeu 100 mil dólares em dinheiro em casa de Leopoldo Luque, médico de Maradona, que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro, informou a polícia.
+Dois dias após a morte de Maradona, de 60 anos, a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista."
+
+Output:
+[["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades argentinas apreendem 100 mil dólares em casa de Maradona
+As autoridades argentinas apreenderam hoje 100 mil dólares em dinheiro em casa de Diego Maradona, o ex-futebolista que morreu há 10 dias, informou a polícia.
+A polícia também apreendeu 100 mil dólares em dinheiro em casa de Leopoldo Luque, médico de Maradona, que participou na operação a um hematoma subdural a que o antigo futebolista foi submetido no início de novembro, informou a polícia.
+Dois dias após a morte de Maradona, de 60 anos, a justiça argentina abriu um inquérito para determinar se houve negligência médica na assistência ao antigo futebolista."
+
+Output:
+[["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"], ["100 mil dólares", "Money"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades argentinas apreendem 100 mil dólares em casa de Maradona
+As autoridades argentinas apreenderam hoje 100 mil dólares em dinheiro em casa

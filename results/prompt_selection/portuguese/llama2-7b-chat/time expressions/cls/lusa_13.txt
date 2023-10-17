@@ -1,0 +1,47 @@
+[
+{
+"entity": "Autoridades judiciais",
+"class": "Date"
+},
+{
+"entity": "Autoridades judiciais argentinas",
+"class": "Date"
+},
+{
+"entity": "buscas",
+"class": "Duration"
+},
+{
+"entity": "apartamento de Maximiliano Trimarchi",
+"class": "Location"
+},
+{
+"entity": "Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "motorista de Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "Leopoldo Luque",
+"class": "Person"
+},
+{
+"entity": "psiquiatra Agustina Cosachov",
+"class": "Person"
+},
+{
+"entity": "inquérito",
+"class": "Set"
+}
+]
+Explanation:
+The task is to extract and classify all time expressions in the given text. The time expressions are:
+* Date: "Autoridades judiciais", "Autoridades judiciais argentinas", "25 de novembro"
+* Duration: "buscas"
+* Location: "apartamento de Maximiliano Trimarchi"
+* Person: "Diego Maradona", "motorista de Diego Maradona", "Leopoldo Luque", "psiquiatra Agustina Cosachov"
+* Set: "inquérito"
+
+Note: The class "Set" is used for the single entity "inquérito".

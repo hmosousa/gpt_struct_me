@@ -1,0 +1,4 @@
+[["Orkem S.A.", "ORGANIZATION"], ["Coates Brothers PLC", "ORGANIZATION"], ["Wednesday", "DATE"], ["last Wednesday", "DATE"], ["12.4%", "PERCENTAGE"], ["53.2%", "PERCENTAGE"], ["#301 million", "MONEY"], ["internal resources", "RESOURCE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

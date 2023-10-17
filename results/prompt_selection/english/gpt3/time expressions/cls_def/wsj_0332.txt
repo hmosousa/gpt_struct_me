@@ -1,0 +1,1 @@
+[["last Wednesday", "Date"], ["#301 million", "Duration"], ["Orkem", "Set"], ["470 pence", "Time"], ["7.43", "Time"], ["59.2%", "Duration"], ["12.4%", "Duration"], ["53.2%", "Duration"]]

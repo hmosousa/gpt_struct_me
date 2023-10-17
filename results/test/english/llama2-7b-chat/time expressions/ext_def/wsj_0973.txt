@@ -1,0 +1,3 @@
+[
+"next year", "1988", "1983", "the past 20 months", "this year", "the 1990s", "near-term", "soon", "1990", "the fourth quarter", "the next few years"
+]

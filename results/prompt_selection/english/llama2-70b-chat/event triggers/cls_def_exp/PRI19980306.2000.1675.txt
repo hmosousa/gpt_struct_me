@@ -1,0 +1,30 @@
+[["Pamela McCall", "REPORTING"], ["Kosovo", "OCCURRENCE"], ["security forces", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["ethnic Albanians", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["offensive", "OCCURRENCE"], ["afraid", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["official Serb sources", "REPORTING"], ["Belgrade", "OCCURRENCE"], ["capital of Serbia", "OCCURRENCE"], ["planned", "I_ACTION"], ["ethnic Albanians", "OCCURRENCE"], ["witnessing", "OCCURRENCE"], ["beginnings", "OCCURRENCE"], ["much wider conflict", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["Pristina", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+Note:
+The input text is a sample and the task is to extract and classify all event triggers in the text.
+
+Note:
+Event triggers are words or phrases that indicate the occurrence of an event.
+
+Note:
+The classes are:
+
+* State: Indicates the state of something.
+* Occurrence: Indicates that something is happening or has happened.
+* Reporting: Indicates that someone is reporting on an event or situation.
+* Perception: Indicates that someone is perceiving or observing an event or situation.
+* Aspectual: Indicates the aspect or nature of an event or situation.
+* Intensional Action: Indicates the intention or purpose behind an action or event.
+* Intensional State: Indicates the state of something that is intended or desired.
+
+Note:
+The output should be a list of tuples, where each tuple contains the entity and its corresponding class.
+
+Note:
+The entities and classes should be in lowercase.
+
+Note:
+The output should be in the format of a JSON-parseable list.

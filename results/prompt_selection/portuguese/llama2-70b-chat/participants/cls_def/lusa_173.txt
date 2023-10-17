@@ -1,0 +1,31 @@
+[
+["Homem", "Person"],
+["Transportadora J Amaral", "Organization"],
+["Estarreja", "Location"],
+["GNR", "Organization"],
+["Lusa", "Organization"],
+["Joaquim Rebelo", "Person"],
+["Bombeiros de Estarreja", "Organization"],
+["Polícia Judiciária", "Organization"],
+["Delegada de Saúde", "Person"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"],
+["Hospital Infante D. Pedro", "Location"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different focus. Here, we need to extract and classify all participants mentioned in the text, including people, organizations, locations, and other entities. The output should be a JSON-parseable list, where each element is a list with two strings: the first string represents the entity, and the second string represents the class.
+
+The classes we need to use are:
+
+* Person: Individuals, such as the 34-year-old man who was found dead.
+* Organization: Groups or companies, such as Transportadora J Amaral, GNR, Lusa, Bombeiros de Estarreja, Polícia Judiciária, and Viatura Médica de Emergência e Reanimação de Aveiro.
+* Location: Places, such as Estarreja, the cisterna (where the man was found dead), and the Hospital Infante D. Pedro.
+* Nature: Natural entities, such as the cisterna.
+* Facility: Buildings or structures, such as the Hospital Infante D. Pedro.
+* Other: Any other entities that don't fit into the above categories, such as the transporte (transport) mentioned in the text.
+
+Note that some entities may fit into more than one category. For example, the "Bombeiros de Estarreja" could be classified as both an organization and a facility, depending on the context.
+
+As before, the input text is in Portuguese, so make sure to use appropriate language models and resources for this task.

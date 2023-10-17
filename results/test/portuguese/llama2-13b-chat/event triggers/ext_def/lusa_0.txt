@@ -1,0 +1,11 @@
+["festa ilegal", "50 pessoas", "bar em Corotelo", "Comando Territorial de Faro da GNR", "posto territorial de São de Alportel", "pandemia de covid-19", "proprietário"]
+
+Explanation:
+
+* "festa ilegal" is an event trigger because it refers to an illegal party that took place.
+* "50 pessoas" is an event trigger because it refers to the number of people who attended the party.
+* "bar em Corotelo" is an event trigger because it refers to the location where the party took place.
+* "Comando Territorial de Faro da GNR" is an event trigger because it refers to the organization that took action against the party.
+* "posto territorial de São de Alportel" is an event trigger because it refers to the specific location where the action took place.
+* "pandemia de covid-19" is an event trigger because it refers to the ongoing pandemic that is relevant to the party.
+* "proprietário" is an event trigger because it refers to the owner of the bar where the party took place.

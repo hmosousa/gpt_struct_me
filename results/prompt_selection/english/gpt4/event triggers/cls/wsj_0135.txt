@@ -1,0 +1,8 @@
+[
+["expects", "Intensional State"],
+["fall", "Occurrence"],
+["post", "Intensional Action"],
+["face", "State"],
+["earned", "Reporting"],
+["fell", "Occurrence"]
+]

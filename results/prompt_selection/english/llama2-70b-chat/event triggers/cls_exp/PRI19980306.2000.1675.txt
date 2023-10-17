@@ -1,0 +1,6 @@
+[["Pamela McCall", "REPORTING"], ["Kosovo", "OCCURRENCE"], ["security forces", "OCCURRENCE"], ["villages", "OCCURRENCE"], ["ethnic Albanians", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["offensive", "OCCURRENCE"], ["afraid", "OCCURRENCE"], ["operation", "OCCURRENCE"], ["official Serb sources", "REPORTING"], ["Belgrade", "OCCURRENCE"], ["capital of Serbia", "OCCURRENCE"], ["planned", "I_ACTION"], ["ethnic Albanians", "OCCURRENCE"], ["witnessing", "OCCURRENCE"], ["beginnings", "OCCURRENCE"], ["much wider conflict", "OCCURRENCE"], ["Karyn Coleman", "REPORTING"], ["Pristina", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some entities may belong to multiple classes.
+
+This task is similar to the Stanford Natural Language Processing Group's task on Event Argument Extraction, but with a different set of classes.

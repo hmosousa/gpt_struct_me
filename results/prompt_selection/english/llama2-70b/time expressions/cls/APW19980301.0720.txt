@@ -1,0 +1,1 @@
+[["JERUSALEM", "Set"], ["AP", "Time"], ["Top", "Date"], ["Israeli", "Duration"], ["officials", "Time"], ["sent", "Time"], ["strong", "Time"], ["new", "Time"], ["signals", "Time"], [".", "Time"]]

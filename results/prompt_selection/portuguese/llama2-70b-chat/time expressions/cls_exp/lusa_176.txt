@@ -1,0 +1,9 @@
+[["hoje", "Date"], ["06:55", "Time"], ["10-8", "Set"], ["34", "Duration"], ["PSP", "Time"], ["Proteção Civil", "Time"], ["VMER", "Time"], ["Palmela", "Time"], ["Sapadores de Setúbal", "Time"]]
+
+Note:
+
+* Dates and times should be in the format "dd/mm/yyyy" and "HH:MM" respectively.
+* Durations should be in the format "X dias/horas/minutos"
+* Sets should be in the format "X-Y" where X and Y are the start and end dates of the set.
+
+Please note that the input text is in Portuguese.

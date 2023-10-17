@@ -1,0 +1,1 @@
+[["told", "REPORTING"], ["laying off", "I_ACTION"], ["going", "ASPECTUAL"], ["result", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["set up", "I_ACTION"], ["cover", "I_ACTION"], ["resulted", "OCCURRENCE"]]

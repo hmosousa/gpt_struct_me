@@ -1,0 +1,7 @@
+["2017", "atualidade", "algumas vezes", "desde essa altura e até a atualidade"]
+
+Note:
+The input text is in Portuguese.
+
+Note 2:
+The output format is a JSON-parseable list of strings.

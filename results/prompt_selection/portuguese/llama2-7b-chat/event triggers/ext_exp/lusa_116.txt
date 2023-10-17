@@ -1,0 +1,8 @@
+
+["Jovem", "14", "anos", "em", "estado", "grave", "após", "ser", "atropelado", "por", "autocarro", "em", "Santo", "Tirso", "dito", "Lusa", "fonte", "Proteção", "Civil", "O", "jovem", "foi", "transportado", "Bombeiros", "Vila", "Aves", "Hospital", "São", "João", "Porto", "18:16", "Rua", "Luís", "Gonzaga", "Mendes", "de", "Carvalho", "No", "local", "prestar", "assistência", "além", "Bombeiros", "Vila", "Aves", "esteve", "Viatura", "Médica", "Emergência", "Reanimação", "Vila", "Nova", "Famalicão", "Ambulância", "Suporte", "Imediato", "Vida", "GNR", "local", "dito", "Lusa", "corporação"]
+
+
+Note:
+
+The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "após", "dito", "foi", "estado", "grave", "houve", "morreu", "pediu", "quero", "registada", "transmissão", etc.
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.

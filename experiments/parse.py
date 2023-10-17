@@ -4,13 +4,26 @@ import json
 import logging
 from pathlib import Path
 
-import fire 
+import fire
+from src.utils import is_json
 
 from constants import ROOT
 
 logging.basicConfig(level=logging.INFO)
 
 RESULTS_PATH = ROOT / "results"
+
+
+def json_loads_section(content: str) -> dict:
+    """Parse a section of a JSON file."""
+    content = content.strip()
+    lines = content.split("\n")
+    running_content = ""
+    while lines:
+        running_content += lines.pop(0)
+        if is_json(running_content):
+            return json.loads(running_content)
+    raise ValueError("Invalid JSON")
 
 
 def read_json(filepath: Path) -> dict:
@@ -21,9 +34,13 @@ def read_json(filepath: Path) -> dict:
         return answer
 
     except json.decoder.JSONDecodeError:
-        logging.info(f"Wasn't able to parse {filepath}")
-        print(filepath)
-        return []
+        try:
+            answer = json_loads_section(content)
+            return answer
+        
+        except ValueError:
+            print(filepath)
+            return []
 
 
 def read_predictions(path: Path):
@@ -35,7 +52,12 @@ def read_predictions(path: Path):
         doc = filepath.stem
 
         answer = read_json(filepath)
+
         if "ext" in template:
+            is_valid = len(answer) and isinstance(answer, list) and isinstance(answer[0], str)
+            if not is_valid:
+                answer = []
+
             predictions.append({
                 "model": model,
                 "entity": entity,
@@ -46,6 +68,14 @@ def read_predictions(path: Path):
             })
 
         else:
+            is_valid = isinstance(answer, list) and \
+                all(isinstance(a, list) for a in answer) and \
+                all(len(a) == 2 for a in answer) and \
+                all(isinstance(a[0], str) for a in answer)
+                
+            if not is_valid:
+                answer = []
+
             entities, classes = list(zip(*answer)) if answer else ([], [])
             predictions.append({
                 "model": model,
@@ -60,9 +90,9 @@ def read_predictions(path: Path):
     return predictions
 
 
-def main(mode: str = "prompt_selection") -> None:
+def main(mode: str = "prompt_selection", language: str = "portuguese") -> None:
     """Run the script."""
-    path = RESULTS_PATH / mode
+    path = RESULTS_PATH / mode / language
 
     predictions = read_predictions(path)
 

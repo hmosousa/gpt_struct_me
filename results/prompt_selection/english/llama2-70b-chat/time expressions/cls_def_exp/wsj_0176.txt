@@ -1,0 +1,25 @@
+[["Xerox Corp.", "DATE"], ["this week", "DATE"], ["300", "NUMBER"], ["25%", "NUMBER"], ["$4 million", "NUMBER"], ["next three quarters", "DURATION"], ["$492 million", "NUMBER"], ["$4.55", "NUMBER"], ["12.97 billion", "NUMBER"], ["Hurricane Hugo", "DATE"], ["California earthquake", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The input is a text.
+
+Note:
+The output is a list of classified time expressions.
+
+Note:
+The classes are: DATE, TIME, DURATION, SET, NUMBER.
+
+Note:
+The input text can contain multiple time expressions.
+
+Note:
+The time expressions can be in different formats.
+
+Note:
+The task is to classify the time expressions, not to extract them.
+
+Note:
+The output should be in the format of a JSON-parseable list.

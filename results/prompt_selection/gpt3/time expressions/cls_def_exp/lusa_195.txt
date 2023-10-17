@@ -1,1 +1,0 @@
-[["quarta-feira", "Date"], ["passada quarta-feira", "Date"], ["Alto da Guerra", "Set"], ["sexagenário", "Duration"], ["primeiro interrogatório judicial", "Time"]]

@@ -1,0 +1,16 @@
+[["hoje", "Time"], ["12:50", "Time"], ["Torreira", "Location"], ["mais de uma semana", "Duration"], ["Aveiro", "Location"], ["setembro", "Time"], ["final do ano", "Time"]]
+
+Note:
+The input text is in Portuguese.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text may contain more than one temporal expression.
+
+Note:
+The task is to extract and classify all time expressions in the input text.

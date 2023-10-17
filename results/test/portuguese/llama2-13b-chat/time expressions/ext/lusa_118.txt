@@ -1,0 +1,19 @@
+[
+"ondem",
+"ayer",
+"esta semana",
+"hasta avaliação",
+"no quadro da preparação",
+"prevista para 18 a 20 de dezembro",
+"hoje de manhã"
+]
+
+Explanation:
+
+* "ondem" is the Portuguese word for "yesterday".
+* "ayer" is the Spanish word for "yesterday".
+* "esta semana" means "this week".
+* "hasta avaliação" means "until assessment".
+* "no quadro da preparação" means "in the framework of preparation".
+* "prevista para 18 a 20 de dezembro" means "scheduled for 18 to 20 December".
+* "hoje de manhã" means "this morning".

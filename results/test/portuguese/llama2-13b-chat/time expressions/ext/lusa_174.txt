@@ -1,0 +1,11 @@
+[
+"um mês",
+"sexta-feira",
+"duas buscas domiciliárias e uma não domiciliária"
+]
+
+Explanation:
+
+* "um mês" is a time expression indicating one month.
+* "sexta-feira" is a time expression indicating Friday.
+* "duas buscas domiciliárias e uma não domiciliária" is a time expression indicating two domestic searches and one non-domestic search, but it does not specify the time frame in which these searches were conducted.

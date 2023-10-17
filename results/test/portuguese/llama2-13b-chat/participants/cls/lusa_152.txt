@@ -1,0 +1,27 @@
+[
+["Sílvia Lutucuta", "Person"],
+["Ministério da Saúde", "Organization"],
+["Hospital Geral", "Object"],
+["Cunene", "Location"],
+["Angola", "Location"],
+["doentes", "Other"],
+["oxigênio", "Other"]
+]
+
+Explanation:
+
+* Sílvia Lutucuta is a person.
+* Ministério da Saúde is an organization.
+* Hospital Geral is an object.
+* Cunene and Angola are locations.
+* doentes is an other entity (it's not a specific class, it's a general term).
+* oxigênio is an other entity (it's not a specific class, it's a general term).
+
+Note:
+
+* In this text, there are no facilities or nature.
+* The classes are based on the information provided in the text and may not be exhaustive.
+
+Please help me with this task.
+
+Thank you!

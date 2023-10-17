@@ -1,0 +1,13 @@
+["March 15, 2007", "52%", "March 15", "52", "March", "2007", "683,000", "6 1/4%", "6,542,000", "9.58", "2007"]
+Explanation:
+* "March 15, 2007" is a specific point in time.
+* "52%" is a percentage that represents a time period.
+* "March 15" is a time period that represents a specific date.
+* "52" is a number that represents a time period.
+* "March" is a time period that represents a specific month.
+* "2007" is a specific year.
+* "683,000" is a number that represents a time period.
+* "6 1/4%" is a percentage that represents a time period.
+* "6,542,000" is a number that represents a time period.
+* "9.58" is a number that represents a time period.
+* "2007" is a specific year.

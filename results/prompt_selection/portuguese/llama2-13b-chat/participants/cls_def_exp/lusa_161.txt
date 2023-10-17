@@ -1,0 +1,16 @@
+[["um homem", "Per"], ["ex-companheira", "Per"], ["com tiro em Vila Nova de Gaia", "Other"], ["uma arma de fogo", "Obj"], ["hoje", "Other"], ["numa altura", "Other"], ["estaria a tentar o suicídio", "Other"], ["com a mesma arma", "Other"], ["Fonte da GNR", "Org"], ["o crime", "Other"], ["ocorreu", "Other"], ["perto das 10:30", "Other"], ["na Rua da Figueirinha", "Loc"], ["em Grijó", "Loc"], ["Vila Nova de Gaia", "Loc"], ["distrito do Porto", "Loc"], ["e que o homem tem 62 anos", "Other"], ["a vítima era 20 anos mais nova", "Other"], ["A fonte admitiu", "Other"], ["que o homem tenha cometido o crime", "Other"], ["em retaliação", "Other"], ["por a mulher ter optado", "Other"], ["por terminar a relação", "Other"], ["que ambos mantiveram durante 10 anos", "Other"], ["O caso passou para a alçada da Polícia Judiciária", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Obj" stands for "Object"
+* "Other" stands for "Other"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+
+Hint:
+
+* The input text contains several entities and classes, including people, objects, locations, and organizations.
+* Some entities may be mentioned multiple times in the text, and some classes may be applicable to multiple entities.
+* Pay attention to the context and the relationships between the entities and classes to accurately classify them.

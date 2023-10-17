@@ -1,0 +1,4 @@
+[["National Intergroup", "ORGANIZATION"], ["R.D. Werner Co.", "ORGANIZATION"], ["$5.3 million", "AMOUNT"], ["$15 million", "AMOUNT"], ["30 million", "AMOUNT"], ["97 cents", "AMOUNT"], ["$22.5 million", "AMOUNT"], ["$778.6 million", "AMOUNT"], ["Hawesville, Ky", "LOCATION"], ["two years", "DURATION"], ["fiscal 1989", "DATE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

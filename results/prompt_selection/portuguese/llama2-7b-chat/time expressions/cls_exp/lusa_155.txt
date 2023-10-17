@@ -1,0 +1,8 @@
+[["em menos de uma semana", "Duration"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Note:
+* The input text is in Portuguese.
+* The output is a JSON-parseable list with time expressions extracted and classified.
+* The list contains two elements for each time expression: the entity and the class.
+* The classes are: Date, Time, Duration, and Set.
+* The time expressions are: "em menos de uma semana", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "época de veda", and "épocas de veda".

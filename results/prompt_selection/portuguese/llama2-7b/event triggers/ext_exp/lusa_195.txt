@@ -1,0 +1,21 @@
+["PJ", "detém", "homem", "suspeito", "balear", "jovem", "coletividade", "Setúbal", "Polícia", "Judiciária", "Setúbal", "deteve", "homem", "suspeito", "ter", "baleado", "jovem", "passada", "quarta-feira", "restaurante", "coletividade", "Alto", "Guerra", "polícia", "adianta", "sexagenário", "acabou", "alvejar", "jovem", "do", "grupo", "com", "disparo", "arma", "fogo", "provocando", "ferimentos", "consideráveis", "ombro", "braço", "detido", "indiciado", "crimes", "homicídio", "qualificado", "forma", "tentada", "omissão", "auxílio", "presente", "interrogatório", "judicial", "aplicada", "medida", "coação", "prisão", "preventiva"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados pela Agência Mundial de Saúde (OMS) hoje.
+A OMS informou que 100.000.000 de pessoas estão em quarentena em 180 países, incluindo 10.000.000 em quarentena em 15 países.
+A OMS também informou que 1.500.000 pessoas estão em quarentena em 10 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1.000.000 pessoas estão em quarentena em 5 países, incluindo 1.000.000 em quarentena em 5 países.
+A OMS informou que 1

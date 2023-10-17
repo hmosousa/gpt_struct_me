@@ -1,0 +1,26 @@
+[
+["International Women's Day", "State"],
+["Afghan women", "Aspectual"],
+["Lisa Schlein", "Reporting"],
+["Homira Atimadi", "Intensional Action"],
+["International Working Group on Afghan Women", "Intensional State"],
+["Taleban government", "State"],
+["women's families", "Aspectual"],
+["Kabul", "Perception"],
+["education", "Aspectual"],
+["work", "Aspectual"],
+["peace and justice", "Intensional State"]
+]
+
+Explanation:
+
+1. "International Women's Day" is a state, as it refers to a specific day that is celebrated.
+2. "Afghan women" is an aspectual entity, as it refers to the women who live in Afghanistan and their experiences.
+3. "Lisa Schlein" is a reporting entity, as she is the journalist who is reporting on the situation.
+4. "Homira Atimadi" is an intensional action entity, as she is taking action to bring attention to the plight of Afghan women.
+5. "International Working Group on Afghan Women" is an intensional state entity, as it is an organization that is working to improve the lives of Afghan women.
+6. "Taleban government" is a state entity, as it is a specific government that is in power in Afghanistan.
+7. "women's families" is an aspectual entity, as it refers to the families of women who are affected by the war.
+8. "Kabul" is a perception entity, as it is a specific city that is being described.
+9. "education" and "work" are both aspectual entities, as they refer to specific aspects of the lives of Afghan women.
+10. "peace and justice" is an intensional state entity, as it is a specific goal that is being sought by the International Working Group on Afghan Women.

@@ -1,0 +1,23 @@
+["morto", "tirado", "Barreiro", "atirador", "fugida", "agência", "Lusa", "fonte", "Direção", "nacional", "polícia", "segurança", "PSP", "incidente", "ocorreu", "20:20", "não", "informações", "circunstâncias", "tiroteio", "suspeita", "homicídio", "armas", "fogo", "ocorrência", "acompanhada", "Polícia", "judiciária", "investigação", "caso"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou 170 mortes e 7.791 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou 170 mortes e 7.791 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou 170 mortes e 7.791 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou 170 mortes e 7.791 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às medidas de contenção do novo coronavírus.
+A China está a ser atingida por uma onda de casos de covid-19, o novo coronavírus, que já causou 170 mortes e 7.791 infecções.
+A maioria dos casos está na província de Hubei, onde a capital, Wuhan, está em quarentena total desde 23 de janeiro.
+A China anunciou hoje que 100 milhões de pessoas estão em quarentena em 29 províncias e regiões, incluindo a capital, Pequim, devido às med

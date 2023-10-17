@@ -1,0 +1,7 @@
+[["Yang", "Perpetrator"], ["Kaiyuan", "Location"], ["Liaoning", "Location"], ["sete", "Number"], ["sete", "Number"], ["39", "Number"], ["junho", "Time"], ["2018", "Time"], ["Pequim", "Location"]]
+
+Note:
+The dates and times in the input text are in Portuguese and Chinese, and the times are in the format of "X de Y" (X days of Y), where Y is a month.
+
+Hint:
+You can use the NLTK library to tokenize the text and the spaCy library to perform part-of-speech tagging and named entity recognition.

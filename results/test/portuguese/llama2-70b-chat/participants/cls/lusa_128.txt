@@ -1,0 +1,40 @@
+[
+["GNR", "Organization"],
+["Guarda", "Organization"],
+["Felgueiras", "Location"],
+["Porto", "Location"],
+["mulher", "Person"],
+["homem", "Person"],
+["caçadeira", "Object"],
+["pistola", "Object"],
+["armas de ar comprimido", "Object"],
+["coldre", "Object"],
+["munições", "Object"],
+["Tribunal Judicial de Felgueiras", "Facility"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and classes. Your goal is to extract and classify all participants in the text, which can be a person, organization, object, location, nature, facility, or other. The output should be a JSON-parseable list where each element is a list with two strings, the first being the entity and the second being the class.
+
+The input text is in Portuguese, so you may need to use a Portuguese language model or dictionary to accurately classify the entities.
+
+Here's a sample output for this task:
+
+[
+["GNR", "Organization"],
+["Guarda", "Organization"],
+["Felgueiras", "Location"],
+["Porto", "Location"],
+["mulher", "Person"],
+["homem", "Person"],
+["caçadeira", "Object"],
+["pistola", "Object"],
+["armas de ar comprimido", "Object"],
+["coldre", "Object"],
+["munições", "Object"],
+["Tribunal Judicial de Felgueiras", "Facility"]
+]
+
+The output list contains 11 elements, each representing a participant in the text. The first element is ["GNR", "Organization"], indicating that the GNR is an organization. The second element is ["Guarda", "Organization"], which is another name for the GNR, also classified as an organization. The third element is ["Felgueiras", "Location"], indicating that Felgueiras is a location. The fourth element is ["Porto", "Location"], indicating that Porto is also a location. The fifth element is ["mulher", "Person"], indicating that the victim is a person. The sixth element is ["homem", "Person"], indicating that the perpetrator is also a person. The seventh element is ["caçadeira", "Object"], indicating that a caçadeira (shotgun) is an object. The eighth element is ["pistola", "Object"], indicating that a pistol is also an object. The ninth element is ["armas de ar comprimido", "Object"], indicating that air guns are also objects. The tenth element is ["coldre", "Object"], indicating that a holster is an object. The eleventh element is ["munições", "Object"], indicating that ammunition is also an object. Finally, the twelfth element is ["Tribunal Judicial de Felgueiras", "Facility"], indicating that the Tribunal Judicial de Felgueiras is a facility.

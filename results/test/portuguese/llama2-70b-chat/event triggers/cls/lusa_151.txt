@@ -1,0 +1,19 @@
+[
+["Governo de Jacarta", "State"],
+["FPI", "Occurrence"],
+["Mohammad Mahfud", "Reporting"],
+["Rizieg Shihab", "Perception"],
+["Frente de Defesa Islâmica", "Aspectual"],
+["implementação da lei islâmica", "Intensional Action"],
+["missões humanitárias e de caridade", "Intensional State"]
+]
+
+Explanation:
+
+* "Governo de Jacarta" is classified as "State" because it refers to the government of Jakarta, which is a state entity.
+* "FPI" is classified as "Occurrence" because it refers to an event or occurrence (the illegalization of the FPI group).
+* "Mohammad Mahfud" is classified as "Reporting" because he is a government minister who is reporting on the situation.
+* "Rizieg Shihab" is classified as "Perception" because he is the leader of the FPI group and his actions and intentions are being perceived by others.
+* "Frente de Defesa Islâmica" is classified as "Aspectual" because it refers to the FPI group's aspect or nature as a radical Islamic group.
+* "implementação da lei islâmica" is classified as "Intensional Action" because it refers to the FPI group's intention to implement Islamic law.
+* "missões humanitárias e de caridade" is classified as "Intensional State" because it refers to the FPI group's intention to expand its influence through humanitarian and charitable missions.

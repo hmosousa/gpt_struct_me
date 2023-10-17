@@ -1,0 +1,14 @@
+[
+"GNR",
+"2 homens",
+"34-43 anos",
+"tráfico de droga",
+"Sines",
+"Setúbal",
+"1.673 doses de estupefacientes",
+"1.570 doses de heroína",
+"103 doses de cocaína",
+"8444 euros em numerário",
+"um veículo",
+"quatro telemóveis"
+]

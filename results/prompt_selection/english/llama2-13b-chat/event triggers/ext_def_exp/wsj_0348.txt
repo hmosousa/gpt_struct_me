@@ -1,0 +1,3 @@
+["Ogden Projects Inc.", "net income", "jumped", "18 cents a share", "third quarter", "Fairfield", "New Jersey", "Ogden Corp.", "New York", "net of", "four cents a share", "year ago", "revenue", "soared", "101.7 million", "39.5 million", "shares", "trading", "New York Stock Exchange", "August", "closed", "down", "75 cents", "beginning", "summer", "14 apiece", "facilities", "operation", "seven", "year", "earlier", "revenue", "rose", "33%", "283.8 million"]
+
+Please note that the output should be in JSON-parseable list of strings.

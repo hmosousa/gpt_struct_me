@@ -1,0 +1,8 @@
+["Três mortos em ataque de hipopótamo durante travessia de rio na província angolana do Bié", "Três pessoas morreram no município de Camacupa, província angolana do Bié, na sequência de um ataque de um hipopótamo, noticiou hoje a rádio pública.", "O incidente registou-se no momento da travessia do rio Kwanza, quando a embarcação artesanal, com oito pessoas a bordo, sofreu o ataque daquele mamífero.", "Segundo um dos sobreviventes, o ataque deu-se ao princípio da noite de domingo, quando os camponeses saíram das lavras, salientando que entre os mortos encontra-se uma criança cujo corpo se encontra desaparecido.", "O administrador comunal da Muinha, Baptista Sambango, disse que o incidente foi dado a conhecer ao administrador municipal, frisando que pela dimensão do rio é necessário que se construa uma ponte para a travessia da população."]
+
+Explanation:
+
+- The first task is to extract all time expressions.
+- The second task is to extract all time expressions and their time values.
+
+

@@ -1,0 +1,12 @@
+[
+"about",
+"or",
+"a",
+"second",
+"minutes",
+"hours",
+"days",
+"weeks",
+"months",
+"years"
+]

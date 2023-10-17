@@ -1,0 +1,12 @@
+[
+"dia de Natal",
+"um homem de 26 anos",
+"dias de Natal",
+"26 anos",
+"mãe de 46 anos",
+"irmã de 12 anos",
+"anos",
+"prisão preventiva",
+"Tribunal Judicial de Seia",
+"medida de coação de prisão preventiva"
+]

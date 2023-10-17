@@ -1,0 +1,14 @@
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico", "Occurrence"], ["apreende", "I_Action"], ["12.300 doses", "Occurrence"], ["haxixe", "Occurrence"], ["Mértola", "Occurrence"], ["deteve", "I_Action"], ["mulher", "State"], ["36 anos", "Occurrence"], ["prática", "Occurrence"], ["crime", "Occurrence"], ["tráfico", "Occurrence"], ["apreendeu", "I_Action"], ["12.300 doses", "Occurrence"], ["haxixe", "Occurrence"], ["concelho alentejano", "Occurrence"], ["Beja", "Occurrence"], ["divulgado", "Occurrence"], ["militares", "State"], ["Posto Territorial", "Occurrence"], ["Mértola", "Occurrence"], ["segunda-feira", "Occurrence"], ["eventual", "Occurrence"], ["aplicação", "Occurrence"], ["medidas de coação", "Occurrence"], ["refere", "Reporting"], ["força de segurança", "State"], ["decorrente", "Occurrence"], ["ação de patrulhamento", "Occurrence"], ["Estrada Nacional", "Occurrence"], ["vila de Mértola", "Occurrence"], ["comportamento nervoso", "Occurrence"], ["abordada", "Occurrence"], ["militares", "State"], ["efetuaram", "I_Action"], ["busca", "Occurrence"], ["revista", "Occurrence"], ["apurar", "Occurrence"], ["apreender", "I_Action"], ["12.300 doses", "Occurrence"], ["veículo", "Occurrence"], ["telemóvel", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
+A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
+A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.
+Segundo a força de segurança, no decorrer de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, "demonstrou um comportamento nervoso", após ter sido abordada por militares da GNR.
+Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
+
+Output:
+[["detém", "I_Action"], ["suspeita", "State"], ["tráfico", "Occurrence"], ["apreende", "I_Action"], ["12.300 doses", "Occurrence"], ["haxixe", "Occurrence"], ["Mértola", "Occurrence"], ["deteve", "I_Action"], ["mulher", "State"], ["36 anos", "Occurrence"], ["prática", "Occurrence"], ["crime", "Occurrence"], ["tráfico", "Occurrence"], ["apreendeu", "I_Action"], ["12.300 doses", "Occurrence"], ["haxixe", "Occurrence"], ["concelho alentejano", "Occurrence"], ["Beja", "Occurrence"], ["divulgado", "Occurrence"], ["militares", "State"], ["Posto Territorial", "Occurrence"], ["Mért

@@ -1,0 +1,1 @@
+[["last week", "Date"], ["Tuesday's", "Date"], ["five pence", "Time"], ["eight U.S. cents", "Time"], ["near-record 720 pence", "Time"], ["$11.60", "Time"], ["Tuesday", "Date"], ["four", "Duration"], ["14 months", "Duration"], ["15%", "Set"], ["30%", "Set"], ["12.45%", "Set"], ["100%", "Set"], ["2.5 billion", "Time"], ["$4 billion", "Time"]]

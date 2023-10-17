@@ -1,0 +1,10 @@
+[
+  ["Integra-A Hotel amp Restaurant Co.", "State"],
+  ["Integra-A Hotel amp Restaurant Co.", "Occurrence"],
+  ["Integra-A Hotel amp Restaurant Co.", "Reporting"],
+  ["Integra-A Hotel amp Restaurant Co.", "Perception"],
+  ["Integra-A Hotel amp Restaurant Co.", "Aspectual"],
+  ["Integra-A Hotel amp Restaurant Co.", "Intensional Action"],
+  ["Integra-A Hotel amp Restaurant Co.", "Intensional State"]
+]
+

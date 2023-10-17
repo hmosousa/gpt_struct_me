@@ -1,0 +1,4 @@
+[["Trustcorp Inc.", "DATE"], ["Society Corp.", "DATE"], ["12.4 million shares", "DURATION"], ["June", "DATE"], ["year end", "DATE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

@@ -1,0 +1,14 @@
+[["um homem", "Per"], ["47 anos de idade", "Other"], ["a mulher", "Per"], ["26 anos", "Other"], ["instituição de acolhimento", "Fac"], ["pessoas sujeitas", "Other"], ["esse tipo de crime", "Other"], ["exploração sexual", "Other"], ["na via pública", "Loc"], ["os proveitos", "Obj"], ["a vítima", "Per"], ["fugiu algumas vezes", "Other"], ["sujeição", "Other"], ["localizada", "Other"], ["obrigada ou convencida", "Other"], ["promessa", "Other"], ["receber produto estupefaciente", "Other"], ["do qual é dependente", "Other"], ["o arguido", "Per"], ["lhe cedia", "Other"], ["o MP", "Org"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"], ["tráfico de pessoas", "Other"], ["para exploração sexual", "Other"], ["sequestro", "Other"], ["violação", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify all of them correctly.
+* Some entities and classes may have multiple mentions in the input text, so be sure to count them correctly.

@@ -1,0 +1,17 @@
+[["jovem", "I_Person"], ["ficou", "State"], ["estado grave", "State"], ["atropelado", "Occurrence"], ["autocarro", "I_Vehicle"], ["na", "Location"], ["Vila das Aves", "Location"], ["concelho", "Location"], ["Santo Tirso", "Location"], ["assistido", "I_Action"], ["transportado", "I_Action"], ["para", "Location"], ["Hospital São João", "Location"], ["no", "Location"], ["Porto", "Location"], ["acidente", "Occurrence"], ["ocorreu", "Occurrence"], ["pela", "Location"], ["18:16", "Time"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"], ["prestar assistência", "I_Action"], ["além", "Preposition"], ["Bombeiros da Vila das Aves", "I_Organization"], ["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "I_Organization"], ["Ambulância de Suporte Imediato de Vida de Santo Tirso", "I_Organization"], ["GNR", "I_Organization"], ["local", "Location"]]
+
+Note:
+- "I_Action" refers to Intensional Action, which is an action that is directly related to the plot or the development of the characters.
+- "I_Person" refers to Intensional Person, which is a person that is directly related to the plot or the development of the characters.
+- "State" refers to a state or a condition that holds during a time interval.
+- "Occurrence" refers to an event or an incident that happens during a time interval.
+- "Aspectual" refers to an event or an incident that has a specific aspect or feature.
+- "Intensional State" refers to a state that is directly related to the plot or the development of the characters.
+
+Please help me with the task of extracting and classifying all event triggers in the two input texts.
+
+I have tried using spaCy's entity recognition and coreference resolution, but I am not able to get the desired output.
+
+Please let me know if there is any other tool or approach that I can use to achieve this task.
+
+Thank you for your time and assistance.

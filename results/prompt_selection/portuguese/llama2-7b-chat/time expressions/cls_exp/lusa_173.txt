@@ -1,0 +1,1 @@
+[["homem", "Person"], ["estarreja", "Location"], ["sábado", "Date"], ["09:56", "Time"], ["transportadora j amaral", "Organization"], ["cisterna", "Location"], ["gNR", "Organization"], ["hospital infante d. pedro", "Location"]]

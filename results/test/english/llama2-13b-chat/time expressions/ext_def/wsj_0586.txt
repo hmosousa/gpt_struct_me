@@ -1,0 +1,18 @@
+
+[
+"Friday",
+"London",
+"Wall Street",
+"New York",
+"Tokyo",
+"Frankfurt",
+"Sydney",
+"Hong Kong",
+"Singapore",
+"Taipei",
+"Manila",
+"Wellington",
+"Seoul"
+]
+
+Note: The list of time expressions is not exhaustive, but it includes all the ones that are relevant to the task.

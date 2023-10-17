@@ -1,0 +1,3 @@
+[["Jan. 13", "DATE"], ["Thursday", "DATE"], ["daily", "SET"], ["Thursday", "DATE"], ["1990", "DATE"], ["over a week", "DURATION"], ["Feb. 23", "DATE"], ["next week", "DATE"], ["Thursday", "DATE"], ["nearly two months", "DURATION"], ["Friday", "DATE"], ["Previously", "DATE"]]
+
+Please note that the output is a list of all time expressions found in the text, and it is not a list of dates or times in chronological order. The list includes all types of time expressions, including years, months, weeks, days, hours, minutes, and seconds.

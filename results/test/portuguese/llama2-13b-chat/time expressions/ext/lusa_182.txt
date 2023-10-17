@@ -1,0 +1,5 @@
+[
+"quase diária",
+"mesmos últimos meses",
+"500 metros"
+]

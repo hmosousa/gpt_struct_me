@@ -1,0 +1,7 @@
+[["hoje", "Date"], ["10:30", "Time"], ["Vila Nova de Gaia", "Location"], ["Rua da Figueirinha", "Location"], ["Grijó", "Location"], ["Porto", "Location"], ["62 anos", "Age"], ["20 anos", "Age"], ["10 anos", "Duration"]]
+
+Note:
+- "Date" class includes all temporal expressions that refer to a specific point in time, such as "hoje" (today), "ontem" (yesterday), "quinta-feira" (this Thursday), etc.
+- "Time" class includes all temporal expressions that refer to a specific time of day, such as "10:30" (10:30 AM), "14:00" (2 PM), etc.
+- "Location" class includes all spatial expressions that refer to a specific place or location, such as "Vila Nova de Gaia" (Vila Nova de Gaia), "Rua da Figueirinha" (Rua da Figueirinha), etc.
+- "Duration" class includes all temporal expressions that refer to a specific period of time, such as "10 anos" (10 years), "um mês" (one month), etc.

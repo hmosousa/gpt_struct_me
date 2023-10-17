@@ -1,0 +1,9 @@
+
+[
+"Friday",
+"last May",
+"dlrs 14 billion",
+"dlrs 2.5 billion",
+"1996",
+"An-70 cargo planes"
+]

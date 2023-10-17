@@ -1,0 +1,13 @@
+	[["General Motors Corp.", "ENTITY"], ["Jaguar PLC", "ENTITY"], ["U.S. antitrust clearance", "DATE"], ["$15 million", "MONEY"], ["15%", "DURATION"], ["Tuesday", "DATE"], ["Dec. 31, 1990", "DATE"], ["British lawmakers", "ENTITY"], ["House of Commons", "LOCATION"], ["House of Lords", "LOCATION"], ["Roger Smith", "PERSON"], ["Margaret Thatcher", "PERSON"]]
+
+
+Note:
+
+* The input text is a news article about General Motors Corp. and Jaguar PLC.
+* The output is a JSON-parseable list of entities and their corresponding classes.
+* The entities are listed in the first column, and the classes are listed in the second column.
+* The classes are: ENTITY, DATE, MONEY, DURATION.
+* The ENTITY class represents the name of the entity mentioned in the text, such as "General Motors Corp." or "Jaguar PLC".
+* The DATE class represents any date mentioned in the text, such as "Tuesday" or "Dec. 31, 1990".
+* The MONEY class represents any amount of money mentioned in the text, such as "$15 million".
+* The DURATION class represents any duration of time mentioned in the text, such as "15%".

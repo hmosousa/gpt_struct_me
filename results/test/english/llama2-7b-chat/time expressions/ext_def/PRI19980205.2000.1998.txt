@@ -1,0 +1,7 @@
+["today", "this September", "the year two thousand", "now", "record figures", "worst time", "promise", "eager"]
+Note:
+* Time expressions can be classified into different categories, such as:
+	+ Specific time expressions: represent a specific point in time, such as "today", "this September", "the year two thousand".
+	+ Time periods: represent a time period, such as "hours", "days", "weeks", "months", "years".
+	+ Comparative time expressions: compare two or more points in time, such as "now", "record figures", "worst time".
+	+ Future time expressions: express a future event or time, such as "promise" and "eager".

@@ -1,0 +1,18 @@
+["GNR detém dois homens por tráfico de droga em Sines", "GNR deteve dois homens", "tráfico de droga", "Sines", "distrito de Setúbal", "estupefacientes", "detenção", "suspeitos", "transação", "apreendidas", "heroína", "cocaína", "numerário", "veículo", "telemóveis", "Tribunal Judicial de Santiago do Cacém", "primeiro interrogatório judicial", "medidas de coação"]
+
+Explanation:
+
+* "GNR detém dois homens por tráfico de droga em Sines" is the main trigger event.
+* "GNR deteve dois homens" is a sub-event of the main event.
+* "tráfico de droga" is a sub-event of the main event.
+* "Sines" and "distrito de Setúbal" are locations related to the event.
+* "estupefacientes" is a type of drug related to the event.
+* "detenção" and "suspeitos" are sub-events of the main event.
+* "transação" is a sub-event of the main event.
+* "apreendidas" is a sub-event of the main event.
+* "heroína" and "cocaína" are types of drugs related to the event.
+* "numerário" is a type of currency related to the event.
+* "veículo" is a type of asset related to the event.
+* "telemóveis" is a type of asset related to the event.
+* "Tribunal Judicial de Santiago do Cacém" is a location related to the event.
+* "primeiro interrogatório judicial" and "medidas de coação" are sub-events of the main event.

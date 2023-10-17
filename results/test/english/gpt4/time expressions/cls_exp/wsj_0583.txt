@@ -1,0 +1,1 @@
+[["Friday", "DATE"], ["the year ending tomorrow", "DATE"], ["this year", "DATE"], ["recent years", "DURATION"], ["since 1980", "DURATION"], ["In September", "DATE"], ["Last month", "DATE"], ["the first half", "DURATION"]]

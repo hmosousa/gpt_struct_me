@@ -1,0 +1,1 @@
+[["expects", "I_STATE"], ["report", "OCCURRENCE"], ["said", "REPORTING"], ["includes", "OCCURRENCE"], ["reversal", "OCCURRENCE"], ["posted", "OCCURRENCE"], ["plans", "OCCURRENCE"], ["designs", "OCCURRENCE"]]

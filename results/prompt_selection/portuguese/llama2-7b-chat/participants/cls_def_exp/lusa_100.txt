@@ -1,0 +1,8 @@
+[["um comunicado", "Org"], ["Um homem", "Per"], ["39 anos", "Age"], ["Penafiel", "Loc"], ["distrito do Porto", "Loc"], ["suspeito", "Per"], ["violência física", "Per"], ["injúrias", "Per"], ["ameaças de morte", "Per"], ["ex-companheira", "Per"], ["42 anos", "Age"], ["botão de pânico", "Other"], ["teleassistência", "Other"], ["antecedentes criminais", "Per"], ["ilícitos da mesma natureza", "Per"], ["proibido de contactar a vítima", "Per"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with several entities mentioned, such as people, locations, and organizations.
+* The output is a list of entities and their corresponding classes, which can be used for further analysis or processing.

@@ -1,0 +1,24 @@
+[
+["year ending June 30, 1990", "Date"],
+["recent analyst's estimate", "Duration"],
+["current fiscal year", "Date"],
+["fiscal 1989", "Date"],
+["$155 million", "Duration"],
+["fiscal 1989", "Date"],
+["$7.8 million", "Duration"],
+["$1.125", "Duration"],
+["$13.625", "Duration"]
+]
+
+Note:
+The class "Set" is not used in this example.
+
+I'm having trouble understanding the concept of time expressions and how to classify them. Can you help me with this task?
+
+I've tried to identify the time expressions in the given text and classify them according to the given classes, but I'm not sure if my answers are correct.
+
+Could you please provide me with some guidance or examples of how to identify and classify time expressions?
+
+Additionally, I'm not sure what the format of the output should be. Should it be a list of lists, where each inner list contains the time expression and its corresponding class? Or should it be a JSON object with key-value pairs, where the keys are the time expressions and the values are their corresponding classes?
+
+I would greatly appreciate any help you can offer. Thank you!

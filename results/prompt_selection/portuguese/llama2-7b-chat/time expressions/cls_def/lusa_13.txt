@@ -1,0 +1,38 @@
+[
+{
+"entity": "Autoridades judiciais",
+"class": "Date"
+},
+{
+"entity": "buscas",
+"class": "Time"
+},
+{
+"entity": "apartamento de Maximiliano Trimarchi",
+"class": "Location"
+},
+{
+"entity": "Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "motorista de Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "Leopoldo Luque",
+"class": "Person"
+},
+{
+"entity": "Agustina Cosachov",
+"class": "Person"
+},
+{
+"entity": "justiça argentina",
+"class": "Organization"
+},
+{
+"entity": "inquérito",
+"class": "Set"
+}
+]

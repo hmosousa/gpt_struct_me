@@ -1,0 +1,48 @@
+	[["Magna International Inc.", "COMPANY"], ["chief financial officer", "CLASS"], ["resigned", "CLASS"], ["Frank Stronach", "CLASS"], ["automotive-parts manufacturer", "CLASS"], ["Stephen Akerfeldt", "CLASS"], ["resigned", "CLASS"], ["Magna", "CLASS"], ["controlling shareholder", "CLASS"], ["Manfred Gingl", "CLASS"], ["resigned", "CLASS"], ["resume", "CLASS"], ["personally", "CLASS"], ["assisted", "CLASS"], ["consulting career", "CLASS"], ["Magna as one of his clients", "CLASS"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government is considering a plan to allow the sale of some of its 100 million barrels of oil reserves to help finance the Persian Gulf crisis, a senior administration official said.
+The plan, which would be part of a broader effort to raise money for the war effort, would be presented to Congress in the next few days, the official said.
+The official said the plan would not involve selling oil from the Strategic Petroleum Reserve, the government's emergency stockpile of crude oil.
+The official said the plan would involve selling oil from the government's 100 million barrels of oil reserves, which are held in the U.S. and abroad.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in the next few days.
+The official said the plan would be presented to Congress in

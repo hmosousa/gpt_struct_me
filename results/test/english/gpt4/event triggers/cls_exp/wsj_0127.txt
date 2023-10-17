@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["ended", "ASPECTUAL"], ["slipped", "OCCURRENCE"], ["said", "REPORTING"], ["fell", "OCCURRENCE"], ["were", "STATE"], ["was", "STATE"], ["was", "STATE"], ["fell", "OCCURRENCE"], ["was", "STATE"], ["rose", "OCCURRENCE"], ["is", "STATE"], ["paying", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["were", "STATE"], ["hurt", "OCCURRENCE"], ["said", "REPORTING"]]

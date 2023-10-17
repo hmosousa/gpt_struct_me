@@ -1,0 +1,24 @@
+[
+["Di Giorgio Corp.", "Date"],
+["continuing talks", "Duration"],
+["no agreement", "Duration"],
+["$32-a-share", "Set"],
+["DIG Acquisition Corp.", "Date"],
+["Rose Partners Limited Partnership", "Date"],
+["Robert Mellor", "Date"],
+["more money", "Set"]
+]
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+
+Explanation:
+
+* "Di Giorgio Corp." is a date entity and is classified as such.
+* "continuing talks" is a duration entity and is classified as such.
+* "no agreement" is a duration entity and is classified as such.
+* "$32-a-share" is a set entity and is classified as such.
+* "DIG Acquisition Corp." is a date entity and is classified as such.
+* "Rose Partners Limited Partnership" is a date entity and is classified as such.
+* "Robert Mellor" is a date entity and is classified as such.
+* "more money" is a set entity and is classified as such.

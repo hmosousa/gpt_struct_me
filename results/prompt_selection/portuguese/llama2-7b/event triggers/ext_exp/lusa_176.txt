@@ -1,0 +1,23 @@
+["morreu", "ciclomotor", "conduzia", "ser", "colhido", "veículo", "ligeiro", "Estrada", "nacional", "mitrena", "setúbal", "disseram", "fontes", "psp", "proteção", "civil", "indicou", "agência", "lusa", "óbito", "homem", "declarado", "local", "encaminhado", "medicina", "legal", "hospital", "são", "bernardo", "mobilizados", "bombeiros", "corporações", "palmela", "sapadores", "viatura", "medicina", "reanimação", "vmers", "apoiados", "veículos"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em China
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 100 milhões de pessoas em quarentena, segundo dados oficiais divulgados hoje.
+A China, o país mais afetado pela pandemia de covid-19, tem 10

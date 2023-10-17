@@ -1,0 +1,16 @@
+["homem morto", "tiro no Barreiro", "atirador em fuga", "caçadeira", "polícia de segurança pública", "suspeita de homicídio envolvendo armas de fogo", "polícia judiciária"]
+
+Explanation:
+
+* "homem morto" is an event trigger.
+* "tiro no Barreiro" is an event trigger.
+* "atirador em fuga" is an event trigger.
+* "caçadeira" is an event trigger.
+* "polícia de segurança pública" is an event trigger.
+* "suspeita de homicídio envolvendo armas de fogo" is an event trigger.
+* "polícia judiciária" is an event trigger.
+
+Note:
+
+* The output is a JSON-parseable list of strings, where each string represents an event trigger.
+* The list is ordered based on the appearance of the events in the input text.

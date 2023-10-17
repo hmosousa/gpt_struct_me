@@ -1,0 +1,1 @@
+[["14 anos", "Date"], ["hoje", "Time"], ["18:16", "Time"], ["Vila das Aves", "Location"], ["Santo Tirso", "Location"], ["Porto", "Location"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"]]

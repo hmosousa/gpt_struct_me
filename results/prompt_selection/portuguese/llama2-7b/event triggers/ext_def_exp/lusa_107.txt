@@ -1,0 +1,21 @@
+["atropelada", "durante", "protesto", "mariscadores", "Murtosa", "distrito", "Aveiro", "protesto", "com", "dezenas", "mariscadores", "informaram", "Bombeiros", "GNR", "ocorreu", "12:50", "caminho", "Torreira", "situação", "incendiou-se", "bocadinho", "senhor", "forçou", "saída", "viatura", "atropelou", "mulher", "ferimentos", "ligeiros", "transportada", "Hospital", "Aveiro", "identificado", "mariscadores", "Torreira", "protesto", "mais", "uma", "semana", "devido", "detetadas", "percentagens", "excessivas", "coliformes", "fecais", "águas", "ria", "Aveiro"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de infecções.
+A quarentena de mais de 100 milhões de pessoas em todo o mundo, em resposta à pandemia de covid-19, está a afetar a economia mundial, com a China e a Itália sendo os principais impactados.
+A China, onde a pandemia começou, está a reabrir a economia, mas a Itália está a ser afetada por uma segunda onda de inf

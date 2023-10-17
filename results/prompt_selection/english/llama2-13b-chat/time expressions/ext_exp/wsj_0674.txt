@@ -1,0 +1,4 @@
+["Thursday", "Friday", "13.8 million", "137.8 million", "1988", "1990", "20 Canadian cents", "70 Canadian cents", "C$252 million", "C$291.6 million", "C$1.9 billion", "4.2 million", "Feb. 23", "Jan. 13", "Previously", "daily", "03/06/1998 13:19:00"]
+
+Format:
+JSON-parseable list of strings.

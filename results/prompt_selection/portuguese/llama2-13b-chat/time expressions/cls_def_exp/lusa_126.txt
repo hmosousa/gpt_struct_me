@@ -1,0 +1,1 @@
+[["sábado", "Date"], ["1.673 doses de estupefacientes", "Duration"], ["1.570 doses de heroína", "Duration"], ["103 doses de cocaína", "Duration"], ["844 euros em numerário", "Duration"], ["um veículo", "Duration"], ["quatro telemóveis", "Duration"]]

@@ -1,0 +1,11 @@
+[["Valley Federal Savings amp Loan Association", "OCCURRENCE"], ["$89.9 million", "OCCURRENCE"], ["$70.7 million", "OCCURRENCE"], ["$12.09 a share", "OCCURRENCE"], ["$132,000", "OCCURRENCE"], ["three cents a share", "OCCURRENCE"], ["$62 million", "OCCURRENCE"], ["write-off", "OCCURRENCE"], ["capitalized servicing", "OCCURRENCE"], ["mobile home financing subsidiary", "OCCURRENCE"], ["big drain on earnings", "OCCURRENCE"], ["one-time provision", "OCCURRENCE"], ["substantially eliminate", "OCCURRENCE"], ["all future losses", "OCCURRENCE"], ["$18 million", "OCCURRENCE"], ["real-estate loan reserves", "OCCURRENCE"], ["$9.9 million", "OCCURRENCE"], ["good will", "OCCURRENCE"], ["1990", "OCCURRENCE"], ["regulators", "OCCURRENCE"], ["examined", "OCCURRENCE"], ["new loans", "OCCURRENCE"], ["$6.6 million", "OCCURRENCE"], ["$361.8 million", "OCCURRENCE"], ["year ago", "OCCURRENCE"], ["$3.2 billion", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and entities may belong to multiple classes.
+
+Please provide the list of event triggers extracted from the given text.
+
+Note:
+The input text is a JSON-parseable list.
+
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

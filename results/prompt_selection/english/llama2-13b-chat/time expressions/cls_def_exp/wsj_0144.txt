@@ -1,0 +1,4 @@
+[["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"], ["1988", "DATE"], ["1988 second quarter", "DATE"], ["$415 million", "NUMBER"], ["$306 million", "NUMBER"], ["$195 million", "NUMBER"], ["$7.2 million", "NUMBER"], ["$6.1 million", "NUMBER"], ["$40 million", "NUMBER"], ["$3 billion", "NUMBER"], ["$3.2 billion", "NUMBER"], ["$10 million", "NUMBER"], ["$94.2 million", "NUMBER"], ["$85 million", "NUMBER"], ["$83 cents", "NUMBER"], ["$89 cents", "NUMBER"], ["$31 million", "NUMBER"], ["$10 million", "NUMBER"], ["$24 million", "NUMBER"], ["$3 million", "NUMBER"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

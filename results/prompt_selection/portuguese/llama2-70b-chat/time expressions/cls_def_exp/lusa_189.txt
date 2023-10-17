@@ -1,0 +1,16 @@
+[["hoje", "Date"], ["20:20", "Time"], ["hoje", "Date"]]
+
+Note:
+The input text is in Portuguese.
+
+Hint:
+You can use the following resources to help you with this task:
+
+* Natural Language Toolkit (NLTK)
+* spaCy
+* Stanford CoreNLP
+* OpenNLP
+
+You can also use online resources such as language models and dictionaries to help you identify time expressions.
+
+Note that the input text is in Portuguese, so you may need to use resources that are specifically designed for that language.

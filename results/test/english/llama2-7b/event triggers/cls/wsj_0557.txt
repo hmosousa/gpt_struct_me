@@ -1,0 +1,9 @@
+
+{"State": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Occurrence": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Reporting": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Perception": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Aspectual": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Intensional Action": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."],
+"Intensional State": ["RJR Nabisco Inc. said it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle S.A.'s Nestle Foods unit for $370 million."]}
+

@@ -1,0 +1,1 @@
+[["clashed", "Occurrence"], ["protesting", "Perception"], ["began", "Occurrence"], ["gathering", "Occurrence"], ["draw", "Intensional Action"], ["deployed", "Occurrence"], ["break up", "Intensional Action"], ["believe", "Perception"], ["outcome", "State"], ["face off", "Occurrence"], ["resolve", "State"]]

@@ -1,0 +1,12 @@
+[["atropelada", "I_Action"], ["dezens", "Occurrence"], ["protesto", "State"], ["mariscadores", "Occurrence"], ["Torreira", "State"], ["casi", "Occurrence"], ["saída", "Occurrence"], ["forçou", "Reporting"], ["senhor", "I_State"], ["tentaram", "Reporting"], ["evitar", "Occurrence"], ["incendiou-se", "Occurrence"], ["bocadinho", "Aspectual"], ["identificado", "Occurrence"], ["detetadas", "Occurrence"], ["percentagens", "Occurrence"], ["coliformes", "Occurrence"], ["águas", "State"], ["ria", "State"], ["devido", "State"], ["haviam", "State"], ["já", "Aspectual"], ["identificado", "Occurrence"]]
+
+
+Note:
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+
+
+
+
+

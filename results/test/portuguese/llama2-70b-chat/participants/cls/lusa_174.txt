@@ -1,0 +1,32 @@
+[
+["Homem", "Person"],
+["GNR", "Organization"],
+["Paredes", "Location"],
+["réplica de arma de fogo", "Object"],
+["bastão extensível", "Object"],
+["Núcleo de Investigação Criminal (NIC)", "Facility"],
+["Penafiel", "Location"],
+["Tribunal Judicial de Paredes", "Facility"],
+["antecedentes criminais", "Other"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different input text and a different set of classes. As before, your goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person, including their name, age, and any other relevant information.
+* Organization: A group or organization, such as a company, government agency, or political party.
+* Object: A physical object or a concept, such as a weapon, a building, or an idea.
+* Location: A geographical location, such as a city, country, or landmark.
+* Nature: A natural entity, such as an animal, plant, or natural phenomenon.
+* Facility: A man-made structure or institution, such as a hospital, school, or prison.
+* Other: Any entity that doesn't fit into the above categories, such as a date, time, or abstract concept.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+For example, in the given input text, "Homem" (Man) would be classified as "Person", and "GNR" (National Republican Guard) would be classified as "Organization". "Paredes" (Walls) would be classified as "Location", and "réplica de arma de fogo" (Firearm replica) and "bastão extensível" (Expandable baton) would be classified as "Object". "Núcleo de Investigação Criminal (NIC)" (Criminal Investigation Nucleus) would be classified as "Facility", and "Penafiel" (Penafiel) and "Tribunal Judicial de Paredes" (Paredes Judicial Court) would be classified as "Location". "Antecedentes criminais" (Criminal record) would be classified as "Other".
+
+Note that the input text is in Portuguese, so you may need to use a Portuguese-language model or dictionary to accurately classify the entities.

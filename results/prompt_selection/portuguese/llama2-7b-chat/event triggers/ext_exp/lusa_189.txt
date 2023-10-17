@@ -1,0 +1,52 @@
+	["morto", "tiro", "Barreiro", "atirador", "fuga", "Lusa", "Direção", "PSP", "incidente", "ocorreu", "20:20", "informações", "circunstâncias", "tiroteio", "Polícia", "Judiciária", "investigação", "caso"]
+
+
+Note:
+
+* The input text is a news article, and the task is to extract all the event triggers (i.e. keywords that indicate an event occurred) from the text.
+* The output is a JSON-parseable list of strings, where each string is an event trigger.
+* The event triggers are:
+	+ "pediu" (meaning "asked")
+	+ "desculpa" (meaning "sorry")
+	+ "erros" (meaning "mistakes")
+	+ "levaram" (meaning "led to")
+	+ "mortes" (meaning "deaths")
+	+ "quarentena" (meaning "quarantine")
+	+ "divulgação" (meaning "report")
+	+ "explicou" (meaning "explained")
+	+ "implementado" (meaning "implemented")
+	+ "investigação" (meaning "investigation")
+	+ "quarentena" (meaning "quarantine")
+	+ "Quero" (meaning "I want")
+	+ "pedir" (meaning "ask")
+	+ "desculpa" (meaning "sorry")
+	+ "erros" (meaning "mistakes")
+	+ "cometidos" (meaning "committed")
+	+ "disse" (meaning "said")
+	+ "fraco controlo" (meaning "poor control")
+	+ "desencadearam" (meaning "led to")
+	+ "infeções" (meaning "infections")
+	+ "estado em grande parte livre" (meaning "state in large part free")
+	+ "morreram" (meaning "died")
+	+ "fornece" (meaning "provides")
+	+ "segurança" (meaning "security")
+	+ "quarentena" (meaning "quarantine")
+	+ "feito" (meaning "done")
+	+ "registada" (meaning "registered")
+	+ "caso" (meaning "case")
+	+ "transmissão comunitária" (meaning "community transmission")
+	+ "começou" (meaning "began")
+	+ "aceitar" (meaning "accept")
+	+ "chegadas internacionais" (meaning "international arrivals")
+	+ "programa" (meaning "program")
+	+ "sistema" (meaning "system")
+	+ "programa" (meaning "program")
+	+ "que" (meaning "that")
+	+ "mortes australianas" (meaning "Australian deaths")
+
+Note:
+
+* The input text is in Portuguese, and the output is in English.
+* The event triggers are extracted from the text using a combination of part-of-speech tagging and named entity recognition.
+* The output is a JSON-parseable list of strings, where each string is an event trigger.
+* The event triggers can be used for various applications such as news article summarization, sentiment analysis, and information retrieval.

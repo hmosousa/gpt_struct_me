@@ -1,0 +1,30 @@
+[
+{
+"entity": "Autoridades judiciais",
+"class": "State"
+},
+{
+"entity": "Maximiliano Trimarchi",
+"class": "Person"
+},
+{
+"entity": "Diego Maradona",
+"class": "Person"
+},
+{
+"entity": "Leopoldo Luque",
+"class": "Person"
+},
+{
+"entity": "Agustina Cosachov",
+"class": "Person"
+},
+{
+"entity": "Justiça argentina",
+"class": "Organization"
+},
+{
+"entity": "San Isidro",
+"class": "Location"
+}
+]

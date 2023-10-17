@@ -1,0 +1,23 @@
+[['Xerox Corp', 'Occurrence'], ['Crum & Forster', 'Occurrence'], ['employees', 'Reporting'], ['laying off', 'Intensional Action'], ['about 300 people', 'Aspectual'], ['25% of the staff', 'Aspectual'], ['spokeswoman', 'Perception'], ['numerous staff functions', 'State'], ['personal insurance lines', 'State'], ['cost-cutting move', 'State'], ['move', 'Occurrence'], ['result', 'Occurrence'], ['after-tax charge', 'Occurrence'], ['less than $4 million', 'Occurrence'], ['three quarters', 'Occurrence'], ['first nine months', 'Occurrence'], ['$492 million', 'Occurrence'], ['$4.55 a share', 'Occurrence'], ['revenue', 'Occurrence'], ['$12.97 billion', 'Occurrence'], ['earnings', 'Occurrence'], ['financial-services operations', 'Occurrence'], ['actually rose slightly', 'Occurrence'], ['capital gains', 'Occurrence'], ['Hugo payments', 'Occurrence'], ['reserves', 'Occurrence'], ['future payments', 'Occurrence'], ['Property/casualty insurance', 'Occurrence']]
+"""
+import json
+from nltk import word_tokenize, pos_tag
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+# Read in data from file
+with open('data/news_articles.txt') as f:
+   news = [line for line in f if not line.startswith('#') and len(line) > 0]
+
+# Remove punctuation and lowercase all words
+def clean(text):
+   return text.lower().translate({ord(c): None for c in string.punctuation})
+
+# Strip out stopwords
+stoplist = set(stopwords.words("english"))
+
+# Tokenize the sentences into lists of words
+sentences = [[word for word in sentence.split() if word not in stoplist] for sentence in news]
+
+# Create a list of tuples where each tuple

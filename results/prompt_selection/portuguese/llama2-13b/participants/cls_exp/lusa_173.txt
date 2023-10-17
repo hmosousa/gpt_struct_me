@@ -1,0 +1,36 @@
+[["Um homem", "Per"], ["de 34 anos", "Other"], ["funcionário", "Per"], ["da Transportadora J Amaral", "Org"], ["em Estarreja", "Loc"], ["Um homem", "Per"], ["de 34 anos", "Other"], ["funcionário", "Per"], ["da Transportadora J Amaral", "Org"], ["em Estarreja", "Loc"], ["a fazer a manutenção", "Other"], ["da cisterna", "Obj"], ["encontrava-se desaparecido", "Other"], ["sábado", "Other"], ["a cisterna", "Obj"], ["encontrava-se aberta", "Other"], ["a causa da morte", "Other"], ["a Delegada de Saúde", "Org"], ["a Polícia Judiciária", "Org"], ["a Viatura Médica de Emergência", "Org"], ["Reanimação de Aveiro", "Org"], ["o Hospital Infante D. Pedro", "Org"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de um prédio
+Autoridades de Nova Iorque investigam morte de homem que caiu de

@@ -1,0 +1,1 @@
+["third-quarter", "year-earlier", "two weeks ago", "fourth-quarter", "Friday"]

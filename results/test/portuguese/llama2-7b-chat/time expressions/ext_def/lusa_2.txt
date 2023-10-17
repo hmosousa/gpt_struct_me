@@ -1,0 +1,3 @@
+[
+"morre", "em", "desordem", "com", "arma", "de", "fogo", "em", "Mem", "Martins", "em", "Sintra", "no", "distrito", "de", "Lisboa", "na", "sequência", "de", "uma", "desordem", "com", "arma", "de", "fogo", "Um", "homem", "morreu", "e", "outro", "ficou", "ferido", "em", "Sunday", "at", "night", "em", "Algueirão-Mem", "Martins", "em", "Sintra", "Por", "se", "trata", "de", "um", "crime", "de", "homicídio", "a", "investigação", "do", "caso", "encontra-se", "a", "cargo", "da", "Polícia", "Judiciária", "PJ"]
+]

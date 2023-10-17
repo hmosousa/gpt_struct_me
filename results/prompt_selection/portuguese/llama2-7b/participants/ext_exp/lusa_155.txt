@@ -1,0 +1,16 @@
+["Homem ferido", "com gravidade", "após agressão", "com uma garrafa", "num restaurante", "em Palmela", "Um homem", "de 69 anos", "proprietário", "de um restaurante", "em Cajados", "no concelho de Palmela (Setúbal)", "ficou", "ferido", "com gravidade", "após", "ter sido", "agredido", "no seu estabelecimento", "com uma garrafa", "dito", "fonte", "da GNR", "a vítima", "foi", "transportada", "em estado", "de coma", "para o hospital", "de São Bernardo", "em Setúbal", "A mesma", "fonte", "indicou", "à agência", "Lusa", "que", "a agressão", "foi", "efetuada", "hoje à tarde", "por uma mulher", "aparentemente", "embriagada", "que", "se pôs", "em fuga", "conduzindo", "um automóvel", "A agressão", "de acordo", "com a guarda", "foi", "motivada", "por", "o facto", "de", "o proprietário", "do restaurante", "não querer", "que", "a mulher", "estivesse", "a consumir", "bebidas", "alcoólicas", "junto", "ao seu estabelecimento", "por", "ser", "proibido", "o consumo", "de álcool", "na via pública", "De acordo", "com", "fonte", "do Comando", "Distrital", "de Operações", "de Socorro", "(CDOS)", "de Setúbal", "foram", "mobilizados", "para o local", "bombeiros", "da corporação", "de Águas", "de Moura"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem armado faz vários reféns dentro de um banco na Geórgia
+Um homem armado fez hoje à tarde vários reféns, ainda em número incerto, dentro das instalações de um banco na Geórgia, informaram as autoridades desta ex-república soviética.
+O Ministério do Interior da Geórgia não precisou, até ao momento, quantas pessoas foram feitas reféns dentro do banco, localizado na cidade de Zugdidi (região oeste), ou quais são as exigências do agressor.
+A polícia isolou, entretanto, a zona onde fica a sucursal bancária e montou uma operação "para neutralizar o agressor", informou o ministério num comunicado.
+A televisão estatal da Geórgia, a Mtavari TV, noticiou que o sequestrador está armado com uma granada de mão e exige 500.000 dólares (cerca de 420.000 euros) em dinheiro.
+A Mtavari TV conseguiu falar com um dos reféns que indicou que o agressor mantém 19 pessoas dentro das instalações bancárias.
+O canal de televisão também divulgou um vídeo que mostra uma sala com pessoas sentadas no chão e um homem vestido com um uniforme militar, de rosto coberto, e armado com uma espingarda."
+
+Output:
+["Homem armado", "faz vários reféns", "dentro de um banco", "na Geórgia", "Um homem", "armado", "fez", "hoje à tarde", "vários reféns", "em número", "incerto", "dentro", "das instalações", "de um banco", "na Geórgia", "informaram", "as autoridades", "esta ex-república soviética", "O Ministério", "do Interior", "da Geórgia", "não precisou", "tanto", "quantas pessoas", "fizeram reféns", "dentro

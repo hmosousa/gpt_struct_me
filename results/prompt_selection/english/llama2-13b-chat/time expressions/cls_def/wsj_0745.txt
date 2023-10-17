@@ -1,0 +1,12 @@
+[
+["General Motors Corp. wants to buy as much as 15% of Jaguar PLC", "Date"],
+["the No. 1 U.S. auto maker then wrote Jaguar that it intends "to go to that 15%" level once it wins the U.S. clearance to go beyond $15 million", "Time"],
+["the shares have gained nearly 4%", "Duration"],
+["the government retained the single share after selling its stake in Jaguar in 1984", "Date"],
+["the 15% restriction covers any would-be suitor, British or foreign", "Set"],
+["Ford is willing to bid for 100% of Jaguar's shares if both the government and Jaguar shareholders agree to relax the anti-takeover barrier prematurely", "Duration"],
+["the government probably wouldn't give in readily to a hostile foray by Ford", "Set"],
+["the U.S. auto giant paid for 10 House of Commons members and two House of Lords members to fly to Detroit and tour its operations there", "Time"],
+["the Conservatives don't dare jeopardize marginal Tory seats in Coventry", "Set"],
+["Prime Minister Margaret Thatcher might, however, be receptive to any request by Jaguar Chairman Sir John Egan for the restriction's early removal", "Set"]
+]

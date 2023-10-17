@@ -1,0 +1,7 @@
+[
+  ["Date", "2019-06-19"],
+  ["Time", "12:50"],
+  ["Duration", "10 minutes"],
+  ["Set", "Torreira"]
+]
+

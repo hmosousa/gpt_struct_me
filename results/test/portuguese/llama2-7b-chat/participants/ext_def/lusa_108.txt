@@ -1,0 +1,13 @@
+[
+"Agente da polícia",
+"Moçambican",
+"Polícia da República de Moçambique",
+"PRM",
+"Departamento de Proteção dos Recursos Naturais e Meio Ambiente",
+"Magude",
+"Zona protegida",
+"Processos",
+"Disciplinar",
+"Criminal",
+"Comando"
+]

@@ -1,0 +1,3 @@
+[["Homem", "State"], ["encontrado", "Occurrence"], ["morto", "State"], ["cisterna", "State"], ["camião", "State"], ["Estarreja", "State"], ["Transportadora J Amaral", "State"], ["hoje", "Aspectual"], ["encontrado", "Occurrence"], ["morto", "State"], ["desaparecido", "Occurrence"], ["sábado", "State"], ["Bombeiros", "State"], ["Joaquim Rebelo", "Reporting"], ["cisterna", "State"], ["aberta", "State"], ["Deputada de Saúde", "State"], ["Polícia Judiciária", "State"], ["ocorrência", "Occurrence"], ["Viatura Médica de Emergência e Reanimação de Aveiro", "State"], ["transporte", "I_Action"], ["cadáver", "State"], ["Hospital Infante D. Pedro", "State"]]
+
+Please extract and classify all event triggers in the given text.

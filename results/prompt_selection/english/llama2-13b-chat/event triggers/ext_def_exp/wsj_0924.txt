@@ -1,0 +1,101 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of a JSON object, with each string as a key-value pair.
+* The keys should be the event triggers, and the values should be the corresponding descriptions of the events.
+* The list should include all the event triggers that can be identified in the input text, regardless of whether they are explicitly mentioned or implied.
+* The output should be in the format of a JSON object, with each string as a key-value pair.
+
+Example:
+
+Input:
+"The company announced a new product line at the annual meeting."
+
+Output:
+
+{
+"announced": "The company announced a new product line at the annual meeting."
+}
+
+Input:
+"The company's net income was C$4.7 million for the fiscal-first quarter."
+
+Output:
+
+{
+"net income": "The company's net income was C$4.7 million for the fiscal-first quarter."
+}
+
+Input:
+"The company posted net income of 12 Canadian cents a share."
+
+Output:
+
+{
+"posted": "The company posted net income of 12 Canadian cents a share."
+}
+
+Input:
+"The company had a net loss of C$2.3 million a year ago."
+
+Output:
+
+{
+"had": "The company had a net loss of C$2.3 million a year ago."
+}
+
+Input:
+"The company's sales were C$348.2 million compared with C$307.2 a year earlier."
+
+Output:
+
+{
+"sales": "The company's sales were C$348.2 million compared with C$307.2 a year earlier."
+}
+
+Input:
+"The company's board of directors ratified the shareholder-rights plan."
+
+Output:
+
+{
+"ratified": "The company's board of directors ratified the shareholder-rights plan."
+}
+
+Input:
+"The company's shareholders adopted a shareholder-rights plan at the annual meeting."
+
+Output:
+
+{
+"adopted": "The company's shareholders adopted a shareholder-rights plan at the annual meeting."
+}
+
+Input:
+"The company's rights attached to the company's common shares were issued."
+
+Output:
+
+{
+"attached": "The company's rights attached to the company's common shares were issued."
+}
+
+Input:
+"The company's rights allow holders to buy additional shares at 50% of the then current market price."
+
+Output:
+
+{
+"allow": "The company's rights allow holders to buy additional shares at 50% of the then current market price."
+}
+
+Input:
+"The company's rights can be triggered if a hostile bidder acquires more than 20% of the shares outstanding."
+
+Output:
+
+{
+"triggered": "The company's rights can be triggered if a hostile bidder acquires more than 20% of the shares outstanding."
+}

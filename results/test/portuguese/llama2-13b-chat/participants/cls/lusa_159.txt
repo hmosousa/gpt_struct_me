@@ -1,0 +1,47 @@
+[
+["PJ", "Organization"],
+["da Guiné-Bissau", "Location"],
+["homem", "Person"],
+["com três quilos de cocaína", "Object"],
+["no aeroporto", "Location"],
+["A Polícia Judiciária da Guiné-Bissau", "Organization"],
+["segundo o comunicado", "Object"],
+["o homem", "Person"],
+["com 47 anos de idade", "Object"],
+["será hoje presente ao Ministério Público", "Object"],
+["no início de outubro", "Object"],
+["a PJ", "Organization"],
+["detido também no aeroporto Osvaldo Vieira", "Object"],
+["um outro cidadão luso-guineense", "Person"],
+["com 22 anos de idade", "Object"],
+["na posse de um quilograma de cocaína", "Object"],
+["quando se preparava para viajar para Lisboa", "Object"],
+["no âmbito daquela detenção", "Object"],
+["a PJ", "Organization"],
+["deteve igualmente três homens", "Object"],
+["por alegado envolvimento na 'aquisição, entrega e facilitação na introdução' da droga", "Object"]
+]
+
+Explanation:
+
+* PJ is an organization, so it is classified as "Organization".
+* da Guiné-Bissau is a location, so it is classified as "Location".
+* homem is a person, so it is classified as "Person".
+* com três quilos de cocaína is an object, so it is classified as "Object".
+* no aeroporto is a location, so it is classified as "Location".
+* A Polícia Judiciária da Guiné-Bissau is an organization, so it is classified as "Organization".
+* segundo o comunicado is an object, so it is classified as "Object".
+* o homem is a person, so it is classified as "Person".
+* com 47 anos de idade is an object, so it is classified as "Object".
+* será hoje presente ao Ministério Público is an object, so it is classified as "Object".
+* no início de outubro is an object, so it is classified as "Object".
+* a PJ is an organization, so it is classified as "Organization".
+* detido também no aeroporto Osvaldo Vieira is an object, so it is classified as "Object".
+* um outro cidadão luso-guineense is a person, so it is classified as "Person".
+* com 22 anos de idade is an object, so it is classified as "Object".
+* na posse de um quilograma de cocaína is an object, so it is classified as "Object".
+* quando se preparava para viajar para Lisboa is an object, so it is classified as "Object".
+* no âmbito daquela detenção is an object, so it is classified as "Object".
+* a PJ is an organization, so it is classified as "Organization".
+* deteve igualmente três homens is an object, so it is classified as "Object".
+* por alegado envolvimento na 'aquisição, entrega e facilitação na introdução' da droga is an object, so it is classified as "Object".

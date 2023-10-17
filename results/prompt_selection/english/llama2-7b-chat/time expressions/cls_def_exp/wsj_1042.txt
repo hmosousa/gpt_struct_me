@@ -1,0 +1,13 @@
+	[["one warrant", "SET"], ["three shares", "SET"], ["1.1 million", "SET"], ["90 days", "SET"], ["243,677", "SET"]]
+
+
+Note:
+
+* The input text is a news article from The Associated Press.
+* The output is a JSON-parseable list of time expressions.
+* Each element in the list is a pair of strings, where the first string is the time expression and the second string is the class of the time expression.
+* The classes are: Date, Time, Duration, and Set.
+* The time expressions are extracted and classified based on their grammatical structure and meaning.
+* The output list includes time expressions such as "nearly two months", "next week", "daily", "Friday", "Thursday", "03/06/1998 13:19:00", "Feb. 23", "over a week", and "1990".
+* The time expressions are represented as JSON objects, with the entity as the key and the class as the value.
+* The output list can be used for further analysis or processing of the time expressions in the input text.

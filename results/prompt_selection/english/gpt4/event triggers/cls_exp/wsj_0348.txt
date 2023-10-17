@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["jumped", "OCCURRENCE"], ["owned", "STATE"], ["had", "STATE"], ["soared", "OCCURRENCE"], ["began", "ASPECTUAL"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["began", "ASPECTUAL"], ["has", "STATE"], ["up", "OCCURRENCE"], ["reported", "REPORTING"], ["rose", "OCCURRENCE"]]

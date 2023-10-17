@@ -1,0 +1,11 @@
+[["Homem", "State"], ["morre", "Occurrence"], ["esfaqueado", "Occurrence"], ["costas", "State"], ["mercado", "State"], ["Arroios", "State"], ["Lisboa", "State"], ["desentendimento", "Occurrence"], ["esfaqueamento", "Occurrence"], ["terá", "Aspectual"], ["obito", "State"], ["declared", "Reporting"], ["café", "State"], ["pedir", "I_Action"], ["ajuda", "State"], ["fonte", "Reporting"], ["Cometlis", "State"], ["PSP", "State"], ["suspeito", "State"], ["crime", "State"], ["detido", "Occurrence"], ["Avenida", "State"], ["Almirante Reis", "State"], ["tentativa", "Occurrence"], ["fuga", "Occurrence"], ["polícia", "State"], ["PJ", "State"], ["acionada", "Occurrence"], ["local", "State"], ["crime", "State"], ["preservado", "State"], ["forças", "State"], ["policiais", "State"], ["fitas", "State"], ["segurança", "State"]]
+
+Please extract and classify all event triggers in the given text.
+
+Note:
+
+* Event triggers are words or phrases that indicate the occurrence of an event.
+* The classification of event triggers should be based on their semantic meaning.
+* The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+This task is similar to the previous one, but with a different input text.

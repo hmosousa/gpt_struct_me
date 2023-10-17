@@ -1,0 +1,1 @@
+["rains", "landslides", "soil", "water", "houses", "foundations", "evacuation", "shifting ground", "neighborhood", "mansion", "sea", "rains"]

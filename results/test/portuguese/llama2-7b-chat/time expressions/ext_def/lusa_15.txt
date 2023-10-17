@@ -1,0 +1,1 @@
+["at least 8 people", "20 years", "9,6 million people", "550 people", "june"]

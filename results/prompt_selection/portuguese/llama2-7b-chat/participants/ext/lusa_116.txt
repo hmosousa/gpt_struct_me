@@ -1,0 +1,10 @@
+[
+"Jovem de 14 anos",
+"Em estado grave",
+"Santo Tirso",
+"Autocarro",
+"Vila das Aves",
+"Hospital São João",
+"Porto",
+"Rua Luís Gonzaga Mendes de Carvalho"
+]

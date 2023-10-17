@@ -1,0 +1,108 @@
+["June", "year end"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:
+["current quarter"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The company said it will cut 100 jobs in its manufacturing division, which will result in a charge of $2 million in the current quarter. The cuts are part of a restructuring plan aimed at improving profitability, the company said."
+
+Output:

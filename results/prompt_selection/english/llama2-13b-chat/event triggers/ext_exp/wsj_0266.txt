@@ -1,0 +1,7 @@
+["pleased", "noted", "recognized", "significant", "events", "past", "century", "two", "years", "ago", "listed", "creation", "money", "fund", "10", "most", "significant", "world", "finance", "20th", "century", "Reserve", "America's", "first", "money", "fund", "named", "creators", "money-fund", "concept", "Harry", "Brown", "innovated", "telephone", "redemptions", "daily", "dividends", "total", "elimination", "share", "certificates", "constant", "$1", "pershare", "pricing", "painfully", "thought", "out", "result", "SEC", "BRUCE", "R", "BENT", "President", "The", "Reserve", "Fund", "New", "York"]
+
+Hint:
+Look for words that indicate an action or a state of being.
+
+Note:
+This task is a bit more challenging than the previous ones. The text contains many long sentences and complex phrases, and there are many different events and concepts mentioned. You'll need to be careful and thorough in your analysis to extract all the relevant event triggers. Good luck!

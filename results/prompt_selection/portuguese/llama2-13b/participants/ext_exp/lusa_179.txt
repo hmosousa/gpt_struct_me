@@ -1,0 +1,15 @@
+["um juiz de instrução", "um homem de 47 anos de idade", "o Ministério Público (MP)", "Penafiel", "indiciou", "obrigar", "a mulher", "com quem", "vive", "prostituir-se", "informou", "fonte policial", "revela", "a Polícia Judiciária", "deteve", "levou", "juiz de instrução", "indicação", "MP", "revela", "a vítima", "26 anos", "instituição", "acolhimento", "pessoas", "sujeitas", "este tipo", "crime", "vivia", "comunhão", "vida", "2017", "sujeitava", "exploração", "via pública", "proveitos", "obtidos", "dessa prática", "polícia", "fugiu", "sujeição", "promessa", "receber", "produto estupefaciente", "dependente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indica", "crimes", "tráfico", "pessoas", "exploração sexual", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem preso por tentativa de estupro de 13-anos
+Um homem de 23 anos foi preso por tentativa de estupro de uma menina de 13 anos, no concelho de Vila do Conde, informou hoje a Polícia Judiciária.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que ocorreu no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde.
+O homem foi detido no dia 10 de Agosto, às 19h30, no concelho de Vila do Conde, por suspeita de tentativa de estupro de uma menina de 13 anos, que

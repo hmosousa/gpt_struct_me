@@ -1,0 +1,21 @@
+["Thursday", "Friday", "next week", "Jan. 13", "over a week", "Friday", "Thursday", "Previously", "nearly two months", "Thursday", "03/06/1998 13:19:00", "daily", "1990", "10-hour", "Friday", "Feb. 23"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is preparing to sell off its remaining 10% stake in the Chrysler Corp. in a public offering that could raise as much as $1 billion, according to people familiar with the matter.
+The sale, which could be announced as early as next week, would be the final step in the government's 1983 bailout of the nation's third-largest auto maker.
+The government's remaining stake in Chrysler is worth about $1.2 billion, based on the company's current stock price.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's remaining stake in Chrysler is worth about $1.2 billion, based on the company's current stock price.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been shrinking steadily since the company's 1983 bailout. The government sold 20% of its stake in 1984, 20% in 1985 and 10% in 1986.
+The government's stake in Chrysler has been

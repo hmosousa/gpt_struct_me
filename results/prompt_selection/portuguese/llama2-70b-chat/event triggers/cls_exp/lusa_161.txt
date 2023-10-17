@@ -1,0 +1,6 @@
+[["Homem", "State"], ["mata", "I_Action"], ["ex-companheira", "State"], ["tiro", "Occurrence"], ["Vila Nova de Gaia", "State"], ["hoje", "Aspectual"], ["disparo", "Occurrence"], ["arma de fogo", "State"], ["suicídio", "Intensional Action"], ["mesma arma", "State"], ["Fonte", "Reporting"], ["Comando Territorial", "State"], ["GNR", "State"], ["Porto", "State"], ["Rua da Figueirinha", "State"], ["Grijó", "State"], ["Vila Nova de Gaia", "State"], ["distrito", "State"], ["do Porto", "State"], ["62", "State"], ["anos", "State"], ["mulher", "State"], ["ter", "I_Action"], ["optado", "I_Action"], ["relação", "State"], ["mantiveram", "State"], ["10", "State"], ["anos", "State"], ["terminar", "I_Action"], ["caso", "State"], ["Polícia Judiciária", "State"]]
+
+Note:
+The input text is in Portuguese.
+
+Please extract and classify all event triggers in the given text.

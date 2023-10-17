@@ -1,0 +1,7 @@
+["em Penafiel", "district do Porto", "39 anos", "42 anos", "hoje", "antes de 30 nov 2020", "época de veda", "épocas de veda"]
+
+Hint:
+Note that some time expressions can be found in different forms, such as "em menos de uma semana" and "menos de uma semana". Both expressions convey the same meaning, but the second one is more concise.
+
+Note:
+The output should be a JSON-parseable list of strings, where each string represents a time expression found in the input text.

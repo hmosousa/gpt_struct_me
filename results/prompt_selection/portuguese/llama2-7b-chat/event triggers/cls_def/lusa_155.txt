@@ -1,0 +1,44 @@
+[
+{
+"entity": "Homem",
+"class": "State"
+},
+{
+"entity": "Garrafa",
+"class": "Object"
+},
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Automóvel",
+"class": "Object"
+},
+{
+"entity": "Hospital",
+"class": "Place"
+},
+{
+"entity": "Vítima",
+"class": "Person"
+},
+{
+"entity": "Guarda",
+"class": "Organization"
+},
+{
+"entity": "Comando Distrital de Operações de Socorro",
+"class": "Organization"
+},
+{
+"entity": "Ambulância",
+"class": "Place"
+},
+{
+"entity": "Meios próprios",
+"class": "Mode of Transportation"
+}
+]
+Note:
+The output is a list of JSON objects, where each object represents an event trigger and has two fields: "entity" and "class".The "entity" field contains the name of the entity that triggered the event (e.g. "Homem", "Garrafa", "Mulher", etc.), while the "class" field contains the class of the entity (e.g. "State", "Object", "Person", etc.).

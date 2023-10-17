@@ -1,0 +1,6 @@
+[["fazem", "I_Action"], ["buscas", "Occurrence"], ["aprender", "Reporting"], ["realizaram", "I_Action"], ["hoje", "Aspectual"], ["aprender", "Reporting"], ["ordenadas", "Occurrence"], ["saber", "Reporting"], ["Trimarchi", "I_Person"], ["estava", "Reporting"], ["Maradona", "I_Person"], ["morreu", "Occurrence"], ["participou", "I_Action"], ["perícias", "Occurrence"], ["telemóveis", "State"], ["Leopoldo Luque", "I_Person"], ["Agustina Cosachov", "I_Person"], ["dois dias", "Aspectual"], ["morte de Maradona", "Occurrence"], ["justiça argentina", "State"], ["abriu", "I_Action"], ["inquérito", "State"], ["determinar", "I_Action"], ["negligência médica", "Occurrence"], ["assistência", "State"]]
+
+Note:
+The classes are based on the Penn Treebank tag set, but I adapted them to better fit the task at hand.
+
+Please let me know if you need any further clarification or details.

@@ -1,0 +1,10 @@
+[
+"Homem ferido",
+"Agressão",
+"Mulher embriagada",
+"Consumo de álcool",
+"Proibido o consumo de álcool na via pública",
+"Ferimentos ligeiros",
+"Transportadas para o hospital de São Bernardo",
+"Mobilização de bombeiros"
+]

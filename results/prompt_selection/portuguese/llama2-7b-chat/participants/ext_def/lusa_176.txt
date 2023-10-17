@@ -1,0 +1,14 @@
+[
+"Homem",
+"Mitrena",
+"Setúbal",
+"PSP",
+"Proteção Civil",
+"CDOS",
+"Lusa",
+"Hospital de São Bernardo",
+"Palmela",
+"Sapadores",
+"VMER",
+"Estrada Nacional 10-8"
+]

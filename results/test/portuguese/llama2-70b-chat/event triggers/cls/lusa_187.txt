@@ -1,0 +1,60 @@
+[
+["Homem", "State"],
+["atropelamento", "Occurrence"],
+["Um", "Aspectual"],
+["provocou", "Intensional Action"],
+["hoje", "Aspectual"],
+["morto", "State"],
+["ferido", "State"],
+["grave", "Aspectual"],
+["transportado", "Intensional Action"],
+["Hospital", "State"],
+["declarada", "Intensional Action"],
+["cadáver", "State"],
+["local", "State"],
+["Estrada", "State"],
+["freguesia", "State"],
+["GNR", "Reporting"],
+["Santarém", "State"],
+["vítimas", "State"],
+["homens", "State"],
+["30", "Aspectual"],
+["40", "Aspectual"],
+["circulavam", "Intensional Action"],
+["pé", "State"],
+["atropelados", "Intensional Action"],
+["veículo", "State"],
+["ligeiro", "Aspectual"],
+["alerta", "Reporting"],
+["18:14", "Aspectual"],
+["Autoridade", "Reporting"],
+["Emergência", "State"],
+["Proteção", "State"],
+["Civil", "State"],
+["informa", "Intensional Action"],
+["estarem", "Aspectual"],
+["local", "State"],
+["duas", "Aspectual"],
+["horas", "Aspectual"],
+["13", "Aspectual"],
+["operacionais", "State"],
+["cinco", "Aspectual"],
+["viaturas", "State"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Perception: refers to a perception or an observation
+* Aspectual: refers to an aspect or a characteristic
+* Intensional Action: refers to an action or a process
+* Intensional State: refers to a state or a situation that is intended or planned
+
+In this task, you are given a text in Portuguese and you must extract and classify all event triggers, which are the words or phrases that trigger the event or the situation described in the text. The event triggers can be classified into the above-mentioned classes.
+
+For example, in the given text, "Homem morre em atropelamento no Cartaxo" (A man dies in a hit-and-run accident in Cartaxo), "Homem" (man) is a state, "atropelamento" (hit-and-run accident) is an occurrence, and "morre" (dies) is a state. Similarly, "Um atropelamento rodoviário em Reguengo, Cartaxo" (A hit-and-run accident on the road in Reguengo, Cartaxo) is an occurrence, and "provocou" (provoked) is an intensional action.
+
+You must extract and classify all event triggers in the given text and output them in the format specified above.

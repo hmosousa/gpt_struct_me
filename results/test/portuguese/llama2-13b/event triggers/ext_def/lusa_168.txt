@@ -1,0 +1,7 @@
+["agredir", "física", "psicologicamente", "mãe", "Valongo", "violência", "doméstica", "antecedentes", "criminais", "prática", "ameaça", "agravada", "injúrias", "integridade", "física", "maus", "tratos", "proibição", "contacto", "agredi-la", "física", "psicologicamente", "reiterada", "forçando-a", "fornecer", "alimentação", "limpar", "local", "vive", "violência", "mandado", "detenção"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Reference:
+https://www.aclweb.org/anthology/2019.acl-main.100.pdf

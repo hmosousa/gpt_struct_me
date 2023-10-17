@@ -1,0 +1,12 @@
+[["Di Giorgio Corp.", "OCCURRENCE"], ["said", "REPORTING"], ["continuing", "OCCURRENCE"], ["potential", "OCCURRENCE"], ["buyers", "OCCURRENCE"], ["no", "OCCURRENCE"], ["agreement", "OCCURRENCE"], ["units", "OCCURRENCE"], ["seeking", "OCCURRENCE"], ["alternatives", "OCCURRENCE"], ["tender", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["vehicle", "OCCURRENCE"], ["accepting", "OCCURRENCE"], ["more", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["individual", "OCCURRENCE"], ["units", "OCCURRENCE"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity, and the second string is the class label. The class labels are:
+
+* OCCURRENCE: events or actions that occur or take place
+* REPORTING: statements or phrases that report or describe events or actions
+* ASPECTUAL: statements or phrases that describe the aspect or nature of something
+* INTENSIONAL ACTION: statements or phrases that describe an action or event that is intended or planned
+* INTENSIONAL STATE: statements or phrases that describe a state or condition that is intended or planned
+
+In this example, the input text is a news article, and the output is a list of tuples, where each tuple contains the name of the entity (e.g. "Di Giorgio Corp.") and the class label (e.g. "OCCURRENCE") for each entity in the text. The class labels indicate the type of event or action that is taking place in the text.

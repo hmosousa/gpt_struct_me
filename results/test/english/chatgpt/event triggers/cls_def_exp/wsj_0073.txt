@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["planned", "I_STATE"], ["raise", "OCCURRENCE"], ["declared", "OCCURRENCE"], ["begin", "OCCURRENCE"], ["mailing", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["owned", "I_STATE"], ["entitles", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["expire", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["agreed", "OCCURRENCE"], ["owns", "I_STATE"]]

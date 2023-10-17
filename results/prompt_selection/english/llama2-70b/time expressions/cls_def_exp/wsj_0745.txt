@@ -1,0 +1,1 @@
+[["$4 billion", "DURATION"], ["Tuesday", "DATE"], ["Today", "DATE"], ["Friday", "DATE"], ["Thursday", "DATE"], ["December 31st, 1990", "DATE"]]

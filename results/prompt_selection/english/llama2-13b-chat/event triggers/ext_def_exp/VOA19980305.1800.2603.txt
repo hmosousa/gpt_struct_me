@@ -1,0 +1,9 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the order of the events as they appear in the text.
+* Each string should be a verb or a verb phrase that describes the action or state of being of the event.
+* No prepositional phrases or articles should be included in the list.
+* The list should be in the format of a JSON-parseable list of strings.

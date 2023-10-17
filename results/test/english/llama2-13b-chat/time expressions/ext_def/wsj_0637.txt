@@ -1,0 +1,13 @@
+[
+"around Nov. 1",
+"Dec. 31, 1994",
+"1994",
+"the next 12 to 18 months"
+]
+
+Explanation:
+
+* "around Nov. 1" is a temporal expression indicating a time period around a specific date.
+* "Dec. 31, 1994" is a specific date.
+* "1994" is a year.
+* "the next 12 to 18 months" is a time period expressed in terms of months.

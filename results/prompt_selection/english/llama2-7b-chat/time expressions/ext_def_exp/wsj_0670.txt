@@ -1,0 +1,5 @@
+	["$5.3 million", "R.D. Werner Co.", "Greenville, Pa.", "97 cents", "year-ago", "778.6 million", "Hawesville, Ky.", "1989", "fiscal 1989", "building products", "construction industries", "1.5 million"]
+
+Format:
+
+JSON-parseable list of strings.

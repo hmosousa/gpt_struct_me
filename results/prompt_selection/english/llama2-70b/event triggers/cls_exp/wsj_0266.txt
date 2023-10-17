@@ -1,0 +1,1 @@
+[["pleased", "I_STATE"], ["note", "OCCURRENCE"], ["recognized", "OCCURRENCE"], ["significant", "ADJECTIVE"], ["past", "PERCEPTION"], ["creation", "OCCURRENCE"], ["listed", "OCCURRENCE"], ["named", "OCCURRENCE"], ["innovated", "OCCURRENCE"], ["elimination", "OCCURRENCE"], ["pricing", "OCCURRENCE"]]

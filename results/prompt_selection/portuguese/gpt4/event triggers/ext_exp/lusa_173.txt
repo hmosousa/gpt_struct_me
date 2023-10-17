@@ -1,0 +1,1 @@
+["encontrado", "morto", "cisterna", "dado", "fazer", "manutenção", "desaparecido", "trabalhar", "aberta", "conseguiu", "determinar", "causa", "morte", "compareceu", "tomou", "ocorrência", "esteve", "fez", "transporte", "cadáver", "Hospital"]

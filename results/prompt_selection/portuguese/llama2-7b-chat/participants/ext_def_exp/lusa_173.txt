@@ -1,0 +1,5 @@
+["Homem encontrado morto", "cisterna de camião", "Estarreja", "Transportadora J Amaral", "GNR de Aveiro", "Lusa", "Joaquim Rebelo", "Delegada de Saúde", "Polícia Judiciária", "Viatura Médica de Emergência e Reanimação de Aveiro", "Hospital Infante D. Pedro"]
+
+
+Format:
+JSON-parseable list of strings.

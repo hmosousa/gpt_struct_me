@@ -1,0 +1,1 @@
+["jumped", "gained", "grew", "fueled", "helped"]

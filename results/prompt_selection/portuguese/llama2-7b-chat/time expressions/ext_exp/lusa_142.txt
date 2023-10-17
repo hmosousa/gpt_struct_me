@@ -1,0 +1,6 @@
+	["em menos de uma semana", "segunda-feira", "suspeita", "36", "Mértola", "Beja", "Estrada Nacional 122", "veículo", "telemóvel"]
+
+Note:
+	* The output is a JSON-parseable list of strings.
+	* The input is a sentence with time expressions.
+	* The task is to extract all time expressions from the input sentence.

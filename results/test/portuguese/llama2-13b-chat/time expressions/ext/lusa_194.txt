@@ -1,0 +1,9 @@
+[
+"domingo às 21:45",
+"hoje às 01:00"
+]
+
+Explanation:
+
+* "domingo às 21:45" is a time expression indicating the day and time when the alert was given.
+* "hoje às 01:00" is a time expression indicating the current time when the body was taken to the morgue.

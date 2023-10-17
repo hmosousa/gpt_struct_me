@@ -1,0 +1,7 @@
+["under certain circumstances", "about $24.4 million", "certain circumstances", "subject to regulatory approval", "resolution of lawsuits"]
+Explanation:
+* "under certain circumstances" is a temporal expression that refers to a specific condition or situation that must be met in order for something to happen.
+* "about $24.4 million" is a temporal expression that provides an approximate value or amount of money.
+* "certain circumstances" is a temporal expression that refers to a specific set of conditions or situations that must be met in order for something to happen.
+* "subject to regulatory approval" is a temporal expression that indicates that something is dependent on the approval of a regulatory body.
+* "resolution of lawsuits" is a temporal expression that refers to the completion or settlement of legal disputes.

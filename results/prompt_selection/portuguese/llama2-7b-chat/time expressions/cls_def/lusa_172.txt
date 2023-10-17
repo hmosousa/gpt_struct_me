@@ -1,0 +1,15 @@
+[["Corpo de homem", "Date"], ["Corpo de homem", "Time"], ["Corpo de homem", "Duration"], ["Corpo de homem", "Set"]]
+Explanation:
+* "Corpo de homem" is a date expression, as it refers to a specific point in time (the discovery of the body).
+* "Hoje à tarde" is a time expression, as it indicates the time of day when the body was discovered.
+* "Ao mar" is a duration expression, as it indicates the time the body was in the water.
+* "Dois dias" is a duration expression, as it indicates the time the body was in the water.
+* "Depois de ter sido dado o alerta" is a duration expression, as it indicates the time after the alert was given.
+* "Ativada a Estação Salva-vidas" is a duration expression, as it indicates the time the rescue station was activated.
+* "Transportou-o para a marina de Portimão" is a duration expression, as it indicates the time it took to transport the body to the marina.
+* "Tomou conta da ocorrência" is a duration expression, as it indicates the time the police took charge of the incident.
+
+Note:
+* The output is a list of lists, where each inner list contains a single entity and its corresponding class.
+* The entity is the word or phrase that represents the time expression, and the class is the category of time expression that it belongs to.
+* The output is in JSON format, which is a lightweight data interchange format that is easy for humans to read and write, and for machines to parse and generate.

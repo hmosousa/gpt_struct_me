@@ -102,7 +102,6 @@ sagemaker==2.184.0
 schema==0.7.5
 six==1.16.0
 smdebug-rulesconfig==1.0.1
--e git+ssh://git@github.com/hmosousa/gpt_struct_me.git@1f4076c2ed7e2892aa402122a29b9a557c08452d#egg=src
 stack-data==0.6.2
 sympy==1.12
 tblib==1.7.0

@@ -1,0 +1,31 @@
+
+"[
+  {
+    "entity": "State",
+    "class": "State"
+  },
+  {
+    "entity": "Occurrence",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Reporting",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Perception",
+    "class": "Perception"
+  },
+  {
+    "entity": "Aspectual",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Intensional Action",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Intensional State",
+    "class": "Intensional State"
+  }
+]"

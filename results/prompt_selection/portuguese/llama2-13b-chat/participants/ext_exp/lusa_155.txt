@@ -1,0 +1,12 @@
+
+List of strings, where each string is a participant in the event.
+
+Note:
+
+* "uma garrafa" and "outras duas pessoas" are not considered as participants, as they are not human beings.
+* "o proprietário do restaurante" is considered as a participant, as he is a human being.
+* "a mulher" is considered as a participant, as she is a human being.
+* "a vítima" is considered as a participant, as she is a human being.
+
+Format:
+JSON-parseable list of strings.

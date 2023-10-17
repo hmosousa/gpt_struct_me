@@ -1,0 +1,34 @@
+[ "derrubou", "poste", "iluminação", "matou", "homem", "anos", "acidente", "camião", "ferimentos", "ligeiros", "fonte", "PSP", "Rua", "Constituição", "Porto", "vítima", "transportada", "hospital", "Santo António", "morreu", "estructura", "bombas", "gasolina", "sofreu", "ocorreu", "07:50"]
+
+Note:
+- The output should be a list of strings, where each string represents a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON-parseable list of strings, with each string representing a single event trigger.
+- The events should be extracted based on the given input text, and should be in the format of a JSON-parseable list of strings.
+- The events should be in the format of a JSON

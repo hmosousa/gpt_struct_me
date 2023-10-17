@@ -1,0 +1,16 @@
+[["apreendeu", "I_Action"], ["atum-rabilho", "Occurrence"], ["captura", "Occurrence"], ["interdita", "State"], ["coima", "Occurrence"], ["37.500 euros", "Occurrence"], ["porto de pesca costeira", "Location"], ["Gafanha da Nazaré", "Location"], ["Aveiro", "Location"], [" Guarda", "Organization"], ["fiscalização", "Occurrence"], ["regras", "State"], ["descarga", "Occurrence"], ["transporte", "Occurrence"], ["comercialização", "Occurrence"], ["primeira venda", "Occurrence"], ["pescado fresco", "Occurrence"], ["empresaria", "Agent"], ["identificados", "Reporting"], ["condutor", "Agent"], ["mestre", "Agent"], ["auto de contraordenação", "Occurrence"], ["infração", "Occurrence"], ["punível", "State"], ["37.500 euros", "Occurrence"], ["sujeito", "I_Action"], ["controle higiossanitário", "Occurrence"], ["propró", "State"], ["consumo", "Occurrence"], ["doado", "I_Action"], ["instituição de solidariedade social", "Location"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "apreendeu") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: actions and events
+* I_State: states and conditions
+* Occurrence: events and occurrences
+* Reporting: reporting and perception
+* Aspectual: aspectual and temporal information
+* Intensional Action: intentional actions
+* Intensional State: intentional states
+
+Your task is to extract and classify all event triggers from the input text. The event triggers are the words or phrases that indicate the occurrence of an event or action. For example, in the first input text, the event triggers are "pediu", "desculpa", "erros", "levaram", "mortes", "quarentena", "divulgação", "explicou", "implementado", "investigação", "quarentena", "Quero", "pedir", "desculpa", "erros", "cometidos", "disse", "fraco controlo", "quarentena", "desencadearam", "infeções", "estado em grande parte livre", "morreram", "fornece", "segurança", "quarentena", "feito", "registada", "caso", "transmissão comunitária", "começou", "aceitar", "chegadas internacionais", "programa", "sistema", "programa", "que", "mortes australianas", "algo", null.
+
+You need to extract and classify all event triggers from the input text using the classes provided above. The output should be a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "pediu") and the second string is the class (e.g. "I_Action").

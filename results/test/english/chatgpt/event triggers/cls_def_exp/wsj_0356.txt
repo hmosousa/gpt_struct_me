@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["adopted", "OCCURRENCE"], ["protect", "OCCURRENCE"], ["provides", "OCCURRENCE"], ["distribution", "OCCURRENCE"], ["entitles", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["indicated", "REPORTING"], ["stake", "STATE"], ["planned", "OCCURRENCE"], ["seek", "OCCURRENCE"], ["concerned", "STATE"], ["acquire", "OCCURRENCE"]]

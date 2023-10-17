@@ -1,0 +1,4 @@
+
+[ "immediately", "within a few days", "almost instantly", "increasingly", "sooner", "later", "at some point", "in the future", "in the near future", "in the coming days", "in the coming weeks", "in the coming months", "in the coming years" ]
+
+There are 20 time expressions in the text.

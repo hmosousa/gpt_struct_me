@@ -1,0 +1,4 @@
+	["mata", "sete", "pessoas", "fere", "sete", "attaque", "com", "facca", "na", "cidade", "Kaiyuan", "provincia", "Liaoning", "perpetrado", "suspeito", "identificado", "media", "sobrenome", "Yang", "detido", "motivo", "ataque", "desconhecido", "lei", "chinesa", "venda", "posse", "armas", "fogos", "ataques", "massas", "facas", "explosivos", "caseros", "doentes", "mentais", "ranco", "sociedade", "ataques", "anteriores", "segurança", "empunhando", "feriu", "39", "jardim", "infancia", "regio", "sul", "Guangxi", "conde", "morte", "Pequim"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text.

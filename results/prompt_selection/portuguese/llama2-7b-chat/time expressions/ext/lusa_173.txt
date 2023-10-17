@@ -1,0 +1,17 @@
+[
+"found dead",
+"34 years old",
+"functionary of Transportadora J Amaral",
+"09:56",
+"Saturday",
+"disappeared",
+"local",
+"cistern",
+"open",
+"cause of death",
+"health delegate",
+"police judiciary",
+"vehicle medical emergency and resuscitation of Aveiro",
+"transporte cadáver",
+"Hospital Infante D. Pedro"
+]

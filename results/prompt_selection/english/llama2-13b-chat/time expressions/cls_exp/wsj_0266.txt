@@ -1,0 +1,4 @@
+[["Oct. 23", "DATE"], ["two years ago", "DURATION"], ["10 most significant events", "SET"], ["1990", "DATE"], ["1998", "DATE"], ["$1 pershare", "SET"], ["daily", "SET"], ["telephone redemptions", "SET"], ["constant", "SET"], ["Harry Brown", "PERSON"], ["Bruce R. Bent", "PERSON"]]
+
+Note:
+The input text may contain multiple time expressions, and the output should list all of them, with the entity and the class for each one. The classes are: DATE, TIME, DURATION, SET.

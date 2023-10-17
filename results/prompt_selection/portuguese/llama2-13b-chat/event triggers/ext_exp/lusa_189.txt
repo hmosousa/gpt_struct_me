@@ -1,0 +1,10 @@
+[“morto”, “tiro”, “Barreiro”, “atirador”, “fuga”, “homem”, “baleado”, “dois tiros”, “caçadeira”, “incidente”, “ocorreu”, “20:20”, “hoje”, “circunstâncias”, “tiroteio”, “suspeita”, “homicídio”, “armas de fogo”, “polícia judiciária”, “investigação”, “caso”]
+
+Note:
+The task is to extract all the event triggers from the text. An event trigger is a word or phrase that indicates the occurrence of an event. In this case, the event triggers are "morto", "tiro", "Barreiro", "atirador", "fuga", "homem", "baleado", "dois tiros", "caçadeira", "incidente", "ocorreu", "20:20", "hoje", "circunstâncias", "tiroteio", "suspeita", "homicídio", "armas de fogo", "polícia judiciária", "investigação", "caso".
+
+Hint:
+You can use a combination of part-of-speech tagging and named entity recognition to identify the event triggers.
+
+Note:
+The output should be a JSON-parseable list of strings, where each string represents an event trigger.

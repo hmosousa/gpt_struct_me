@@ -1,0 +1,1 @@
+["rose", "reduced", "advanced", "declined"]

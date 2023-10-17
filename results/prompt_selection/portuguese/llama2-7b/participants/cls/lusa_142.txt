@@ -1,0 +1,103 @@
+[
+  ["GNR", "Person"],
+  ["GNR", "Organization"],
+  ["GNR", "Object"],
+  ["GNR", "Location"],
+  ["GNR", "Nature"],
+  ["GNR", "Facility"],
+  ["GNR", "Other"]
+]
+
+
+### Solution
+
+```python
+import json
+import re
+import nltk
+import pandas as pd
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet as wn
+
+def extract_entities(text):
+    # Remove stop words
+    stop_words = set(stopwords.words('portuguese'))
+    text = [word for word in text.lower().split() if word not in stop_words]
+
+    # Tokenize
+    tokens = word_tokenize(text)
+
+    # Lemmatize
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+
+    # Stem
+    stemmed_tokens = [stemmer.stem(token) for stemmer, token in zip(stemmers, lemmatized_tokens)]
+
+    # Remove punctuation
+    tokens = [token for token in stemmed_tokens if token not in punctuation]
+
+    # Remove numbers
+    tokens = [token for token in tokens if not re.match(r'\d+', token)]
+
+    # Remove abbreviations
+    tokens = [token for token in tokens if not re.match(r'[A-Z][a-z]+', token)]
+
+    # Remove capital letters
+    tokens = [token for token in tokens if not re.match(r'[A-Z]+', token)]
+
+    # Remove special characters
+    tokens = [token for token in tokens if not re.match(r'[^a-zA-Z0-9]+', token)]
+
+    # Remove stop words
+    tokens = [token for token in tokens if token not in stop_words]
+
+    # Remove punctuation
+    tokens = [token for token in tokens if not re.match(r'\W', token)]
+
+    # Remove numbers
+    tokens = [token for token in tokens if not re.match(r'\d+', token)]
+
+    # Remove abbreviations
+    tokens = [token for token in tokens if not re.match(r'[A-Z][a-z]+', token)]
+
+    # Remove capital letters
+    tokens = [token for token in tokens if not re.match(r'[A-Z]+', token)]
+
+    # Remove special characters
+    tokens = [token for token in tokens if not re.match(r'[^a-zA-Z0-9]+', token)]
+
+    # Remove stop words
+    tokens = [token for token in tokens if token not in stop_words]
+
+    # Remove punctuation
+    tokens = [token for token in tokens if not re.match(r'\W', token)]
+
+    # Remove numbers
+    tokens = [token for token in tokens if not re.match(r'\d+', token)]
+
+    # Remove abbreviations
+    tokens = [token for token in tokens if not re.match(r'[A-Z][a-z]+', token)]
+
+    # Remove capital letters
+    tokens = [token for token in tokens if not re.match(r'[A-Z]+', token)]
+
+    # Remove special characters
+    tokens = [token for token in tokens if not re.match(r'[^a-zA-Z0-9]+', token)]
+
+    # Remove stop words
+    tokens = [token for token in tokens if token not in stop_words]
+
+    # Remove punctuation
+    tokens = [token for token in tokens if not re.match(r'\W', token)]
+
+    # Remove numbers
+    tokens = [token for token in tokens if not re.match(r'\d+', token)]
+
+    # Remove abbreviations
+    tokens = [token for token in tokens if not re.match(r'[A-Z][a-z]+', token)]
+
+    # Remove capital letters
+    tokens = [token for

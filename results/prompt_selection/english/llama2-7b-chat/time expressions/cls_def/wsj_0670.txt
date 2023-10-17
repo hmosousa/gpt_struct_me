@@ -1,0 +1,22 @@
+[
+{
+"Date": "third quarter",
+"Class": "Date"
+},
+{
+"Time": "year-ago third quarter",
+"Class": "Date"
+},
+{
+"Duration": "97 cents a share",
+"Class": "Time"
+},
+{
+"Duration": "two years",
+"Class": "Duration"
+},
+{
+"Set": "building products and construction industries",
+"Class": "Set"
+}
+]

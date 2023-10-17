@@ -1,0 +1,15 @@
+
+[
+"third quarter",
+"a year ago",
+"the latest quarter",
+"a year earlier",
+"the nine months",
+"the quarter",
+"June 30",
+"Sept. 30",
+"five years",
+"the recently passed thrift-industry bailout legislation",
+"next five years",
+"the future strategy"
+]

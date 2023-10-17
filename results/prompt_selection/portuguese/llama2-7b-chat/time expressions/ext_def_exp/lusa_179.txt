@@ -1,0 +1,4 @@
+	["em Penafiel", "Penafiel", "Penafiel", "2017", "atualidade", "2020", "Ministério Público", "Polícia Judiciária", "Porto-Este", "tráfico de pessoas", "sequestro", "violação"]
+
+Note:
+The output is a JSON-parseable list of strings, where each string represents a time expression extracted from the input text. The time expressions are represented in the format of ISO 8601, which is a standard for representing dates and times in a consistent and unambiguous way.

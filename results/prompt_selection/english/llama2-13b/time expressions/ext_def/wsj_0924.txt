@@ -1,0 +1,4 @@
+["Aug. 9", "Sept. 30", "Oct. 1"]
+
+Explanation:
+The first date is the date the poison pill took effect. The second date is the end of the fiscal quarter. The third date is the date the report was published.

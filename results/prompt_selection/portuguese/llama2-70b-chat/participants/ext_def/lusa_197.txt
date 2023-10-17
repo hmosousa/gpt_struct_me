@@ -1,0 +1,11 @@
+[
+"homem de 52 anos",
+"outro homem",
+"grua de camião",
+"poste de iluminação",
+"vítima",
+"funcionário de bombas de gasolina",
+"PSP",
+"Comando Metropolitano da PSP do Porto",
+"Hospital de Santo António"
+]

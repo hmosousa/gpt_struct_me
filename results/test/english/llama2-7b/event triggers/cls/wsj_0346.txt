@@ -1,0 +1,10 @@
+[
+  ["Cilcorp Inc.", "State"],
+  ["Cilcorp Inc.", "Occurrence"],
+  ["Cilcorp Inc.", "Reporting"],
+  ["Cilcorp Inc.", "Perception"],
+  ["Cilcorp Inc.", "Aspectual"],
+  ["Cilcorp Inc.", "Intensional Action"],
+  ["Cilcorp Inc.", "Intensional State"]
+]
+

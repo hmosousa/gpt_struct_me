@@ -1,0 +1,1 @@
+["GM", "Ford", "purchase", "own", "clearance", "declaration", "bidding", "pushed", "gained", "bidding", "retained", "sold", "deflect", "urging", "convening", "succeed", "give", "relinquished", "takeover", "wooing", "tour", "answered", "smothered", "jeopardize", "back", "privatized", "receptive", "request", "amass", "mount", "hold", "unlocks"]

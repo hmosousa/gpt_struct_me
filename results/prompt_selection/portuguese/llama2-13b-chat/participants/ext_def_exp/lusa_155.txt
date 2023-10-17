@@ -1,0 +1,2 @@
+
+JSON-parseable list of strings.

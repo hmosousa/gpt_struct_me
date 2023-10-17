@@ -1,0 +1,16 @@
+[["Um homem", "Per"], ["de 29 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["depois de ter sido esfaqueado", "Per"], ["nas costas", "Loc"], ["junto ao mercado de Arroios", "Loc"], ["em Lisboa", "Loc"], ["na sequência de um desentendimento", "Per"], ["informou à agência Lusa", "Org"], ["a PSP", "Org"], ["De acordo com o Comando Metropolitano de Lisboa", "Org"], ["(Cometlis)", "Org"], ["o esfaqueamento terá ocorrido", "Per"], ["na rua Ângela Pinto", "Loc"], ["pelas 10:54", "Per"], ["tendo o óbito", "Per"], ["declarado dentro de um café", "Loc"], ["onde a vítima terá ido pedir ajuda", "Per"], ["“Terá sido um desentendimento entre dois indivíduos", "Per"], ["que envolveu uma arma branca", "Per"], ["tendo um deles sido esfaqueado na zona das costas", "Per"], ["”, disse fonte do Cometlis", "Per"], ["Ainda a recolher informações sobre o caso", "Per"], ["a PSP avançou que o suspeito do crime terá sido detido", "Per"], ["na Avenida Almirante Reis", "Loc"], ["após tentativa de fuga", "Per"], ["A polícia referiu que aguarda mais dados", "Per"], ["relativamente ao suspeito", "Per"], ["À Lusa", "Org"], ["fonte da polícia adiantou ainda que a Polícia Judiciária", "Org"], ["(PJ)", "Org"], ["ja foi acionada por se tratar de um crime de homicídio", "Per"], ["Cerca das 14:34", "Per"], ["o local do crime encontrava-se preservado", "Per"], ["pelas forças policiais", "Org"], ["e com fitas de segurança", "Obj"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre após ser esfaqueado nas costas junto ao mercado de Arroios em Lisboa
+Um homem de 29 anos morreu hoje depois de ter sido esfaqueado nas costas junto ao mercado de Arroios, em Lisboa, na sequência de um desentendimento, informou à agência Lusa a PSP.
+De acordo com o Comando Metropolitano de Lisboa (Cometlis), o esfaqueamento terá ocorrido na rua Ângela Pinto, pelas 10:54, tendo o óbito sido declarado dentro de um café, onde a vítima terá ido pedir ajuda.
+“Terá sido um desentendimento entre dois indivíduos que envolveu uma arma branca, tendo um deles sido esfaqueado na zona das costas”, disse fonte do Cometlis.
+Ainda a recolher informações sobre o caso, a PSP avançou que o suspeito do crime terá sido detido na Avenida Almirante Reis após tentativa de fuga. A polícia referiu que aguarda mais dados relativamente ao suspeito.
+À Lusa, fonte da polícia adiantou ainda que a Polícia Judiciária (PJ) já foi acionada por se tratar de um crime de homicídio.
+Cerca das 14:34, o local do crime encontrava-se preservado pelas forças policiais e com fitas de segurança."
+
+Output:
+[["Um homem", "Per"], ["de 29 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["depois de ter sido esfaqueado", "Per"], ["nas costas", "Loc"], ["junto ao mercado de Arroios", "Loc"], ["em Lisboa",

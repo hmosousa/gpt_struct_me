@@ -1,0 +1,1 @@
+[["Avon Rent-a-Car & Truck Corp.", "ORGANIZATION"], ["Santa Monica, Calif.", "LOCATION"], ["$5.50", "MONEY"], ["90 days", "DURATION"]]

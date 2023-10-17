@@ -1,0 +1,6 @@
+[["hoje", "Date"], ["tavera", "Time"], ["em estado de coma", "Duration"], ["setembro", "Time"], ["são bernardo", "Place"], ["outras duas pessoas", "Other"], ["bombeiros da corporação de águas de moura", "Other"]]
+
+Note:
+- "em menos de uma semana" e "menos de uma semana" are the same, just a difference of wording.
+- "épocas de veda" is the plural form of "época de veda"
+- "30 nov 2020" is the date in the format day month year.

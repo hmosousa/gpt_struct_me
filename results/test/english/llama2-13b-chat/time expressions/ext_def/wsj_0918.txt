@@ -1,0 +1,23 @@
+
+[
+"a year ago",
+"third-quarter",
+"quarterly",
+"annualized",
+"the year-earlier period",
+"the latest quarter",
+"the initial higher dividend",
+"pre-split shares",
+"yesterday",
+"Big Board trading",
+"a year earlier",
+"the world-wide market",
+"the petroleum segment",
+"the diversified businesses segment",
+"the fibers segment",
+"the coal segment",
+"the polymers segment",
+"the nine months",
+"the current position",
+"several months before"
+]

@@ -1,0 +1,30 @@
+[
+["homem", "Person"],
+["Penafiel", "Location"],
+["GNR", "Organization"],
+["suspeito", "Person"],
+["ex-companheira", "Person"],
+["mulher", "Person"],
+["botão de pânico", "Object"],
+["teleassistência", "Facility"],
+["homem", "Person"],
+["ilícitos", "Nature"],
+["vítima", "Person"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is a classification task, where the goal is to classify each entity in the text into one of the predefined classes. The classes are:
+
+* Person: A person, such as a human being.
+* Organization: A group of people or an entity that is involved in an activity or event.
+* Object: A physical object or a concept.
+* Location: A place or a location.
+* Nature: A natural phenomenon or a characteristic of something.
+* Facility: A place or a resource that is used for a specific purpose.
+* Other: Anyentity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second string is the class.
+
+In this task, the input text is in Portuguese, and the entities and classes should be identified and classified accordingly. The output should be in the format specified above.

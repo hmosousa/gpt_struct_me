@@ -1,0 +1,37 @@
+[
+["Homem", "Date"],
+["Palmela", "Set"],
+["69 anos", "Duration"],
+["Cajados", "Set"],
+["garrafa", "Time"],
+["agressão", "Event"],
+["estado de coma", "Duration"],
+["hospital de São Bernardo", "Set"],
+["proibido", "Time"],
+["consumo de álcool", "Time"],
+["via pública", "Set"],
+["outras duas pessoas", "Duration"],
+["ferimentos ligeiros", "Duration"],
+["ambulância", "Transport"],
+["meios próprios", "Transport"]
+]
+
+Explanation:
+
+* "Homem" is a noun and belongs to the class "Date".
+* "Palmela" is a noun and belongs to the class "Set".
+* "69 anos" is a noun and belongs to the class "Duration".
+* "Cajados" is a noun and belongs to the class "Set".
+* "garrafa" is a noun and belongs to theclass "Time".
+* "agressão" is a noun and belongs to the class "Event".
+* "estado de coma" is a noun and belongs to the class "Duration".
+* "hospital de São Bernardo" is a noun and belongs to the class "Set".
+* "proibido" is a verb and belongs to the class "Time".
+* "consumo de álcool" is a noun and belongs to the class "Time".
+* "via pública" is a noun and belongs to the class "Set".
+* "outras duas pessoas" is a noun and belongs to the class "Duration".
+* "ferimentos ligeiros" is a noun and belongs to the class "Duration".
+* "ambulância" is a noun and belongs to the class "Transport".
+* "meios próprios" is a noun and belongs to the class "Transport".
+
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

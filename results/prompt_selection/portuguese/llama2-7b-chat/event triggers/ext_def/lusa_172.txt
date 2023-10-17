@@ -1,0 +1,18 @@
+[
+"encontrado",
+"corpo",
+"homem",
+"Lagoa",
+"Algarve",
+"Autoridade Marítima",
+"pescador",
+"mar",
+"praia",
+"Estaquinha",
+"Faro",
+"Estação Salva-vidas",
+"Ferragudo",
+"Portimão",
+"gabinete de medicina legal",
+"Polícia Marítima"
+]

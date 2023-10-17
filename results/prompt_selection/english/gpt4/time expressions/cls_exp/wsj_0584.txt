@@ -1,0 +1,1 @@
+[["Friday", "DATE"], ["shortly before", "DATE"], ["earlier this month", "DATE"], ["1994", "DATE"], ["Over the weekend", "SET"], ["June 1994", "DATE"], ["after five years", "DURATION"], ["five years", "DURATION"], ["1990", "DATE"], ["1991", "DATE"], ["1988", "DATE"], ["1990", "DATE"], ["Friday", "DATE"], ["1995", "DATE"]]

@@ -1,0 +1,21 @@
+["after", "a", "coma", "ferido", "gravidade", "homem", "restaurante", "uma", "vítima"]
+
+Explanation:
+The time expressions are "after", "a", "coma", "ferido", "gravidade", "homem", "restaurante", "uma", "vítima".
+
+Solution:
+
+```python
+import json
+
+with open('input.txt') as f:
+    data = json.loads(f.read())
+
+time_expressions = []
+for sentence in data['sentences']:
+    for word in sentence['words']:
+        if word['type'] == 'time':
+            time_expressions.append(word['value'])
+
+print(time_expressions)
+```

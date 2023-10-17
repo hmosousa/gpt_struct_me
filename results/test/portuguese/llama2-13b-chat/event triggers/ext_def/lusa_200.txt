@@ -1,0 +1,9 @@
+["cortar árvore", "cair em ravina", "queda da árvore", "aterrissar na ravina", "ser atingido pela queda da árvore", "projetado para a ravina", "resgatado pela equipa de grande ângulo", "deslocar para o local", "assistir pela equipa da VMER", "transportar para o hospital"]
+
+Note:
+
+* "cortar árvore" and "aterrissar na ravina" are both event triggers, but "aterrissar na ravina" is a more specific trigger.
+* "ser atingido pela queda da árvore" is an event trigger, but "queda da árvore" is not, as it is not a direct cause of the event.
+* "projetado para a ravina" is an event trigger, but "projetado" is not, as it is not a direct cause of the event.
+* "resgatado pela equipa de grande ângulo" is an event trigger, but "resgatado" is not, as it is not a direct cause of the event.
+* "deslocar para o local" and "assistir pela equipa da VMER" are not event triggers, as they are not direct causes of the event.

@@ -1,0 +1,10 @@
+[
+"homem de 48 anos",
+"José Carrasco",
+"bombeiros de Mogadouro",
+"ambulância de Suporte Imediato de Vida (SIV)",
+"Viatura Medica de Emergência e Reanimação (VMER)",
+"INEM",
+"helicóptero do INEM",
+"GNR de Mogadouro"
+]

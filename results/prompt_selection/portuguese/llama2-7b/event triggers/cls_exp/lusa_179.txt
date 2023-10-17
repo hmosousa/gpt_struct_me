@@ -1,0 +1,17 @@
+[["preso", "I_Action"], ["preventivamente", "State"], ["obrigar", "I_Action"], ["companheira", "State"], ["prostituir-se", "State"], ["juiz", "I_State"], ["ordenou", "Reporting"], ["prisão", "State"], ["preventiva", "State"], ["indiciou", "Reporting"], ["MP", "State"], ["Penafiel", "State"], ["obrigar", "I_Action"], ["mulher", "State"], ["com", "State"], ["vivia", "State"], ["comunhão", "State"], ["de", "State"], ["vítima", "State"], ["sujeita", "State"], ["exploração", "State"], ["prostituição", "State"], ["via", "State"], ["pública", "State"], ["ficando", "State"], ["proveitos", "State"], ["obtidos", "State"], ["desse", "State"], ["prática", "State"], ["suspeito", "State"], ["localizada", "Reporting"], ["suspeito", "State"], ["obrigada", "Reporting"], ["voltar", "Reporting"], ["para", "State"], ["junto", "State"], ["de", "State"], ["suspeito", "State"], ["promessa", "State"], ["produto", "State"], ["estupefaciente", "State"], ["lhe", "State"], ["cedia", "State"], ["crimes", "State"], ["de", "State"], ["traficar", "State"], ["pessoas", "State"], ["exploração", "State"], ["sequestro", "State"], ["violação", "State"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados divulgados hoje pela Organização Mundial de Saúde (OMS).
+A OMS informou que, em 15 de abril, 100 milhões de pessoas estavam em quarentena em 180 países, incluindo 10 milhões de pessoas em quarentena em 15 países.
+A OMS também informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS informou que, em 15 de abril, 1,4 milhão de pessoas estavam em quarentena em 15 países, incluindo 100 milhões de pessoas em quarentena em 180 países.
+A OMS

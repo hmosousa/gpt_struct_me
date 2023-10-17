@@ -1,0 +1,10 @@
+[
+"homem de 34 anos",
+"PSP",
+"Proteção Civil",
+"Comando Distrital de Operações de Socorro (CDOS)",
+"Hospital de São Bernardo",
+"bombeiros",
+"veículos das corporações de Palmela e Sapadores de Setúbal",
+"VMER"
+]

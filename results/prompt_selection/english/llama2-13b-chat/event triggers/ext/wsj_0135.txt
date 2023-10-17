@@ -1,0 +1,8 @@
+["$1.65 a share", "sales slightly above $155 million", "industrial unit faces margin pressures", "lower demand"]
+
+Explanation:
+
+* "$1.65 a share" is an event trigger because it is a specific value that has been estimated by an analyst.
+* "sales slightly above $155 million" is an event trigger because it is a specific value that is expected to be exceeded.
+* "industrial unit faces margin pressures" is an event trigger because it is a specific condition that is affecting the company's performance.
+* "lower demand" is an event trigger because it is a specific condition that is affecting the company's performance.

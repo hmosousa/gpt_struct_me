@@ -1,0 +1,1 @@
+["yesterday", "currently", "after", "at", "12.5 cents", "50 cents", "last", "now", "ago"]

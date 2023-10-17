@@ -1,0 +1,19 @@
+[["um homem", "Per"], ["morto a tiro", "Other"], ["no Barreiro", "Loc"], ["baleado com dois tiros de caçadeira", "Obj"], ["o atirador", "Per"], ["em fuga", "Other"], ["a Direção Nacional da Polícia de Segurança Pública (PSP)", "Org"], ["disse à agência Lusa", "Other"], ["fonte", "Per"], ["as 20:20 de hoje", "Other"], ["não adiantando", "Other"], ["mais informações", "Other"], ["sobre as circunstâncias", "Other"], ["do tiroteio", "Other"], ["Disse apenas", "Other"], ["que tratando-se", "Other"], ["de uma suspeita de homicídio envolvendo armas de fogo", "Other"], ["a ocorrência", "Other"], ["está a ser acompanhada", "Other"], ["pela Polícia Judiciária", "Org"], ["responsável", "Org"], ["pelo investigação", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Org" stands for "Organization"
+* "Loc" stands for "Location"
+* "Other" stands for "Other"
+
+Hint:
+
+* Use a dictionary to keep track of the entities and classes
+* Each element in the output should be a list of two strings: the entity and the class
+* The entities and classes should be in lowercase
+* Use the appropriate class for each entity based on the context
+
+Please help me with this task, I'm having trouble understanding how to approach it.
+
+Thank you!

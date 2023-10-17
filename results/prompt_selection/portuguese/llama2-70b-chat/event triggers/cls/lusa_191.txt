@@ -1,0 +1,39 @@
+[
+["Homem", "State"],
+["morre", "Occurrence"],
+["desentendimento", "Intensional Action"],
+["esfaqueado", "Intensional State"],
+["nas costas", "Aspectual"],
+["junto ao mercado de Arroios", "Location"],
+["Lisboa", "Location"],
+["hoje", "Time"],
+["PSP", "Reporting"],
+["Comando Metropolitano de Lisboa", "Reporting"],
+["Cometlis", "Reporting"],
+["árma branca", "Aspectual"],
+["suspeito do crime", "Intensional State"],
+["detido", "Occurrence"],
+["Avenida Almirante Reis", "Location"],
+["fuga", "Intensional Action"],
+["Polícia Judiciária", "Reporting"],
+["crime de homicídio", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" is a State entity because it refers to a person's death.
+* "morre" is an Occurrence entity because it indicates anevent happening.
+* "desentendimento" is an Intensional Action entity because it refers to the action of someone getting into a fight.
+* "esfaqueado" is an Intensional State entity because it refers to the state of being stabbed.
+* "nas costas" is an Aspectual entity because it describes the location of the stabbing.
+* "junto ao mercado de Arroios" and "Lisboa" are Location entities because they describe the location of the event.
+* "hoje" is a Time entity because it indicates when the event happened.
+* "PSP" and "Comando Metropolitano de Lisboa" are Reporting entities because they are the sources of the information.
+* "Cometlis" is also a Reporting entity because it is the name of the Comando Metropolitano de Lisboa.
+* "árma branca" is an Aspectual entity because it describes the type of weapon used.
+* "suspeito do crime" is an Intensional State entity because it refers to the state of being a suspect in a crime.
+* "detido" is an Occurrence entity because it indicates an event happening.
+* "Avenida Almirante Reis" is a Location entity because it describes the location where the suspect was detained.
+* "fuga" is an Intensional Action entity because it refers to the action of trying to escape.
+* "Polícia Judiciária" is a Reporting entity because it is the name of the police department investigating the crime.
+* "crime de homicídio" is an Intensional State entity because it refers to the state of being a homicide victim.

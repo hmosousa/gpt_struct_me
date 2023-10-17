@@ -1,0 +1,4 @@
+[["agressão", "Occurrence"], ["garrafa", "Object"], ["ferido", "Occurrence"], ["gravidade", "State"], ["hospital", "Location"], ["proprietário", "Agent"], ["restaurante", "Location"], ["consumir", "Action"], ["bebidas alcoólicas", "Object"], ["proibido", "State"], ["via pública", "Location"], ["outras", "Plural"], ["pessoas", "Agent"], ["envolvidas", "Plural"], ["sofreram", "Occurrence"], ["ferimentos", "Occurrence"], ["ligeiros", "State"], ["ambulância", "Object"], ["meios próprios", "Object"], ["mobilizados", "Action"], ["local", "Location"], ["bombeiros", "Agent"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

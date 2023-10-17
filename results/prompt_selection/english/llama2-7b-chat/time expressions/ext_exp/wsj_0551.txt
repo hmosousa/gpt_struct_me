@@ -1,0 +1,4 @@
+["Trustcorp Inc.", "Society Bank amp Trust", "Society Corp.", "Cleveland", "12.4 million shares", "450 million", "year end"]
+
+Format:
+JSON-parseable list of strings.

@@ -1,0 +1,6 @@
+[["homem", "Entity"], ["morto", "Entity"], ["a tiro", "Duration"], ["no Barreiro", "Location"], ["atirador", "Entity"], ["em fuga", "Duration"], ["20:20", "Time"], ["hoje", "Date"], ["incidente", "Event"]]
+
+Note:
+- The output should be in the format of a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+- The input text may contain multiple instances of the same entity or class, and the output should reflect this.
+- The input text may also contain entities or classes that are not relevant to the task at hand, and the output should not include these.

@@ -1,1 +1,0 @@
-[["34 anos", "Duration"], ["hoje", "Date"], ["09:56", "Time"], ["desde sábado", "Date"]]

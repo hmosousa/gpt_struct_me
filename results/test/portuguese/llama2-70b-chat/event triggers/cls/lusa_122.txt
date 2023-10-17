@@ -1,0 +1,19 @@
+[
+["Alex Apolinário", "State"],
+["paragem cardiorrespiratória", "Occurrence"],
+["Hospital de Vila Franca de Xira", "Reporting"],
+["atleta", "Perception"],
+["coma induzido", "Aspectual"],
+["solidariedade", "Intensional Action"],
+["Alverca Futebol SAD", "Intensional State"]
+]
+
+Explanation:
+
+* "Alex Apolinário" is a State entity because it refers to the person's current condition.
+* "paragem cardiorrespiratória" is an Occurrence entity because it refers to an event that happened.
+* "Hospital de Vila Franca de Xira" is a Reporting entity because it is the source of the information.
+* "atleta" is a Perception entity because it is a person's perception of the event.
+* "coma induzido" is an Aspectual entity because it describes the current state of the person.
+* "solidariedade" is an Intensional Action entity because it refers to the act of showing solidarity.
+* "Alverca Futebol SAD" is an Intensional State entity because it refers to the state of the club in relation to the event.

@@ -1,0 +1,39 @@
+[['Penafiel', 'Occurrence'], ['violência física', 'Intensional Action'], ['injúrias', 'Aspectual'], ['ameaças de morte', 'Reporting'], ['ex-companheira', 'Perception'], ['separação', 'State'], ['perseguição', 'Action'], ['residência', 'Location'], ['local de trabalho', 'Location'], ['botão de pânico', 'Object'], ['medidas de proteção', 'Object']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+stop = set(stopwords.words('portuguese'))
+ps = PorterStemmer()
+
+def get_classes():
+   """Returns the list of classes to be used in this task"""
+   return ["State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Intensional State"]
+
+def classify(entity):
+   """Classifies an entity according to its context and returns it as a tuple (entity, class)"""
+   
+   # Get all tokens from the sentence
+   tokens = [word for word in word_tokenize(entity) if not word in stop]
+   # Remove punctuation marks
+   tokens = [t for t in tokens if not t in '.!?;:')']
+   # Stem each token
+   stemmed_tokens = []
+   for token in tokens:
+       stemmed_tokens += ps.stem(token).split(" ")
+   # Tag each token with POS tagging
+   tags = pos_tag(stemmed_tokens)
+   # Count how many times each tag appears
+   counts = Counter([tag[1].lower() for tag in tags])
+   # Check which tag is most frequent
+   max_count = 0
+   max_tag = ""
+   for key, value in counts.items():
+       if value > max_count:
+           max_count = value
+           max_tag = key
+   #

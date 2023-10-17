@@ -1,0 +1,10 @@
+[
+  ["Service Corp. International", "State"],
+  ["Service Corp. International", "Occurrence"],
+  ["Service Corp. International", "Reporting"],
+  ["Service Corp. International", "Perception"],
+  ["Service Corp. International", "Aspectual"],
+  ["Service Corp. International", "Intensional Action"],
+  ["Service Corp. International", "Intensional State"]
+]
+

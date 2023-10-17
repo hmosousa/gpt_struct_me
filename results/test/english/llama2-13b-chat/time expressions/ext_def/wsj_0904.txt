@@ -1,0 +1,8 @@
+[
+"third quarter",
+"a year earlier",
+"the latest quarter",
+"the year-earlier nine months",
+"the next couple of years",
+"Europe and international sales"
+]

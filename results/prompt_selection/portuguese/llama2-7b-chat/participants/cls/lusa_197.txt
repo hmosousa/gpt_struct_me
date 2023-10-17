@@ -1,0 +1,36 @@
+[
+{
+"participant": "Grua de camião",
+"class": "Vehicle"
+},
+{
+"participant": "Poste de iluminação",
+"class": "Object"
+},
+{
+"participant": "Homem de 52 anos",
+"class": "Person"
+},
+{
+"participant": "Funcionário de bombas de gasolina",
+"class": "Person"
+},
+{
+"participant": "Rua da Constituição",
+"class": "Location"
+},
+{
+"participant": "Porto",
+"class": "Location"
+}
+]
+
+Explanation:
+The input text describes an accident involving a truck that derailed a streetlight post, killing a 52-year-old man and injuring another person. The participants in the accident are:
+* Grua de camião (Vehicle)
+* Poste de iluminação (Object)
+* Homem de 52 anos (Person)
+* Funcionáriode bombas de gasolina (Person)
+* Rua da Constituição (Location)
+* Porto (Location)
+The output is a JSON-parseable list of participants, each with two strings: the participant and the class.

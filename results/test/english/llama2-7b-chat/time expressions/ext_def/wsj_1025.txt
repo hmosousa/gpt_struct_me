@@ -1,0 +1,8 @@
+[
+"a year earlier",
+"a year-earlier",
+"second",
+"quarters",
+"current quarter",
+"extremely well"
+]

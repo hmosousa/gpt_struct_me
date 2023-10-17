@@ -1,0 +1,23 @@
+[
+["Jim Pattison Industries Ltd.", "State"],
+["Jim Pattison", "Perception"],
+["Innopac Inc.", "State"],
+["Innopac", "Aspectual"],
+["Martin Fabi", "Intensional State"],
+["Mr. Pattison", "Intensional Action"],
+["Mr. Fabi", "Intensional State"],
+["McDonald's Corp.", "Occurrence"],
+["Mobil Corp.", "Occurrence"]
+]
+
+Explanation:
+
+* "Jim Pattison Industries Ltd." is a State entity, as it is a company that has a certain status or condition.
+* "Jim Pattison" is a Perception entity, as it is a person's name and can be perceived or recognized.
+* "Innopac Inc." is a State entity, as it is a company that has a certain status or condition.
+* "Innopac" is an Aspectual entity, as it is a company that has a certain aspect or feature.
+* "Martin Fabi" is an Intensional State entity, as it is a person's name and can be in a certain state or condition.
+* "Mr. Pattison" is an Intensional Action entity, as it is a person's name and can perform an action.
+* "Mr. Fabi" is an Intensional State entity, as it is a person's name and can be in a certain state or condition.
+* "McDonald's Corp." is an Occurrence entity, as it is a company that exists in a certain context or situation.
+* "Mobil Corp." is an Occurrence entity, as it is a company that exists in a certain context or situation.

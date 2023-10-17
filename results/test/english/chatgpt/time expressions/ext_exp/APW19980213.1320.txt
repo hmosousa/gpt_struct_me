@@ -1,0 +1,1 @@
+["August", "barely a month", "Friday", "March 30", "Thursday", "August 6"]

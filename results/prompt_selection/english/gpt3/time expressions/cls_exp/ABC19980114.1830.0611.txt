@@ -1,0 +1,1 @@
+[["the night", "DURATION"], ["Washington today", "DATE"], ["TWA Flight eight hundred", "SET"], ["one five thousand", "TIME"], ["a minute and a half later", "DURATION"], ["sixteen thousand feet", "TIME"], ["two fireballs", "SET"], ["one point", "TIME"], ["God bless him", "SET"]]

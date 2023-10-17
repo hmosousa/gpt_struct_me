@@ -1,0 +1,1 @@
+[["declared", "OCCURRENCE"], ["said", "REPORTING"], ["dividend", "OCCURRENCE"], ["outstanding", "STATE"], ["issued", "OCCURRENCE"], ["enable", "I_ACTION"], ["purchase", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["said", "REPORTING"], ["issue", "OCCURRENCE"], ["holders", "STATE"], ["will", "I_STATE"], ["exercised", "OCCURRENCE"]]

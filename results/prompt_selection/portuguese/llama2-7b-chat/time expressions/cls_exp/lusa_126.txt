@@ -1,0 +1,1 @@
+[["GNR", "Agency"], ["sábado", "Date"], ["1.673", "Duration"], ["34", "Age"], ["43", "Age"], ["Setúbal", "Location"], ["Sines", "Location"], ["heroína", "Drug"], ["cocaína", "Drug"], ["euros", "Currency"], ["veículo", "Vehicle"], ["quatro", "Number"]]

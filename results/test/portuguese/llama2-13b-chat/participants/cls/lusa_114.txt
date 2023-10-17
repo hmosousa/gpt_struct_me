@@ -1,0 +1,27 @@
+[
+["Luanda Medical Center", "Facility"],
+["hotel Monalisa Residence", "Object"],
+["Torres Eucaliptos", "Object"],
+["Instituto Sapiens", "Object"],
+["Méssene – Investimentos Limitada", "Organization"],
+["Heavy Group – Investimentos Limitada", "Organization"],
+["Universal Sabedoria", "Organization"],
+["LMC", "Organization"],
+["Rua Amílcar Cabral", "Location"],
+["Ingombota", "Location"],
+["Angola", "Location"],
+["PGR", "Organization"],
+["Serviço Nacional de Recuperação de Ativos", "Organization"]
+]
+
+Explanation:
+
+* Luanda Medical Center is a Facility.
+* hotel Monalisa Residence is an Object.
+* Torres Eucaliptos is an Object.
+* Instituto Sapiens is an Object.
+* Méssene – Investimentos Limitada, Heavy Group – Investimentos Limitada, and Universal Sabedoria are Organizations.
+* LMC is an Organization.
+* Rua Amílcar Cabral and Ingombota are Locations.
+* Angola is a Location.
+* PGR and Serviço Nacional de Recuperação de Ativos are Organizations.

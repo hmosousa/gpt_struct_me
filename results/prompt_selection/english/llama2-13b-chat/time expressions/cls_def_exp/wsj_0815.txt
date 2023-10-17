@@ -1,0 +1,4 @@
+[["Di Giorgio Corp.", "ORGANIZATION"], ["Robert Mellor", "PERSON"], ["DIG Acquisition Corp.", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"], ["$32-a-share", "NUMBER"], ["tender offer", "EVENT"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

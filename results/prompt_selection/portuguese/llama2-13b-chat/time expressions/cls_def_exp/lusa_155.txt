@@ -1,0 +1,6 @@
+[["hoje", "Date"], ["tavera", "Time"], ["em estado de coma", "Duration"], ["setembro", "Time"], ["são bernardo", "Place"], ["outras duas pessoas", "Other"], ["bombeiros da corporação de águas de moura", "Other"]]
+
+Note:
+- "em menos de uma semana" e "menos de uma semana" são sinônimos e podem ser tratados como um único período de tempo.
+- "épocas de veda" é um período de tempo que pode ser tratado como uma única entidade.
+- "30 nov 2020" é uma data específica e pode ser tratada como uma única entidade.

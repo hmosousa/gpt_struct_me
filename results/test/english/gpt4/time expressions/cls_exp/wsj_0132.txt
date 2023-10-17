@@ -1,0 +1,1 @@
+[["third quarter", "DATE"], ["a year ago", "DATE"], ["Last year", "DATE"]]

@@ -1,0 +1,5 @@
+["Norwood Partners Limited Partnership of Boston said it may make a tender offer for some or all of Phoenix Technologies Ltd.'s common shares."]
+
+Explanation:
+The first sentence contains an event trigger.
+

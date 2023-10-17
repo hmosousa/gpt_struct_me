@@ -1,0 +1,1 @@
+[["declared", "OCCURRENCE"], ["destroyed", "OCCURRENCE"], ["fashioning", "OCCURRENCE"], ["speak", "OCCURRENCE"], ["coming", "OCCURRENCE"]]

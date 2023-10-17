@@ -1,0 +1,30 @@
+[
+["Homem", "State"],
+["25 anos", "Aspectual"],
+["antecedentes criminais", "Intensional State"],
+["detido", "State"],
+["GNR", "State"],
+["Núcleo de Investigação Criminal (NIC)", "State"],
+["Penafiel", "State"],
+["sexta-feira", "Occurrence"],
+["investigação", "Occurrence"],
+["suspeitas de posse de arma proibida", "Occurrence"],
+["um mês", "Aspectual"],
+["duas buscas domiciliárias e uma não domiciliária", "Occurrence"],
+["apreensão de uma réplica de arma de fogo e de um bastão extensível", "Occurrence"],
+["detido", "State"],
+["Tribunal Judicial de Paredes", "State"]
+]
+
+Note:
+The input text is in Portuguese, but the output should be in English.
+
+This task is a classification task, where the goal is to classify each entity in the input text into one of the seven classes: State, Occurrence, Reporting, Perception, Aspectual, Intensional Action, and Intensional State.
+
+The input text is a news article about a man who was detained by the GNR (National Republican Guard) and accused of possessing a prohibited weapon. The text mentions the man's age, criminal record, and the fact that he was detained and accused. It also mentions the investigation that led to his detention, the search warrants that were executed, and the items that were seized.
+
+The output should be a list of pairs, where each pair consists of an entity (a word or phrase) and its corresponding class. For example, the entity "Homem" (man) should be classified as "State", because it refers to a person's state of being. The entity "25 anos" (25 years) should be classified as "Aspectual", because it describes a temporary aspect of the person's state. The entity "antecedentes criminais" (criminal record) should be classified as "Intensional State", because it refers to a state of being that is the result of a past action or event.
+
+The output should be in JSON format, which is a parseable and easy-to-read format for data exchange. The list of pairs should be surrounded by square brackets and each pair should be separated by a comma. The first element of each pair should be the entity, and the second element should be the class.
+
+This task requires a good understanding of natural language processing and the ability to identify and classify different types of entities in a text. It also requires knowledge of the seven classes and their definitions, as well as the ability to apply them correctly to the entities in the input text.

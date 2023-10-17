@@ -1,0 +1,20 @@
+[
+"March 31",
+"seconds",
+"minutes",
+"hours",
+"days",
+"weeks",
+"months",
+"years"
+]
+
+Explanation:
+
+* "March 31" is a specific point in time.
+* "seconds", "minutes", "hours", "days", "weeks", "months", and "years" are units of time.
+
+Note:
+
+* The input text is a news article and the time expressions are extracted based on their grammatical and semantic context.
+* The output is a JSON-parseable list of strings, where each string represents a time expression.

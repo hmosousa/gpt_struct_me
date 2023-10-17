@@ -1,0 +1,49 @@
+[
+["Cineplex Odeon Corp.", "State"],
+["Garth Drabinsky", "Occurrence"],
+["Myron Gottlieb", "Occurrence"],
+["C$16.40", "Aspectual"],
+["C$8.5 million", "Aspectual"],
+["Nov. 22", "Occurrence"],
+["Sandra Kolber", "Perception"],
+["MCA Inc.", "State"],
+["Charles Bronfman", "State"],
+["Jeffery Logsdon", "Perception"],
+["Crowell, Weedon", "State"],
+["Last April", "Occurrence"],
+["Mr. Drabinsky's new proposal", "Occurrence"],
+["MCA", "State"],
+["Bronfman associates", "State"],
+["$57 million", "Aspectual"],
+["Rank Organisation PLC", "State"],
+["Michael Gifford", "Perception"],
+["$100 million", "Aspectual"],
+["Cineplex shareholders", "State"],
+["Pierre Panet-Raymond", "Perception"],
+["Toronto securities dealer McDermid St. Lawrence Ltd.", "State"],
+["Mr. Panet-Raymond", "Perception"],
+["investors", "State"]
+]
+
+Explanation:
+
+* "Cineplex Odeon Corp." is a State entity because it refers to a company's current status.
+* "Garth Drabinsky" and "Myron Gottlieb" are Occurrence entities because they are involved in an event (considering a bid) that takes place within a specified period of time.
+* "C$16.40" and "C$8.5 million" are Aspectual entities because they describe a monetary amount related to the event.
+* "Nov. 22" is an Occurrence entity because it refers to a specific date when an event may occur.
+* "Sandra Kolber" is a Perception entity because she is a spokeswoman for the independent directors' committee and her statement expresses her opinion.
+* "MCA Inc." and "Charles Bronfman" are State entities because they refer to companies and individuals involved in the event.
+* "Jeffery Logsdon" is a Perception entity because he is an analyst expressing his opinion.
+* "Crowell, Weedon" is a State entity because it refers to a company.
+* "Last April" is an Occurrence entity because it refers to a specific past event.
+* "Mr. Drabinsky's new proposal" is an Occurrence entity because it refers to a recent event.
+* "MCA" and "Bronfman associates" are State entities because they refer to companies and individuals involved in the event.
+* "$57 million" is an Aspectual entity because it describes a monetary amount related to the event.
+* "Rank Organisation PLC" is a State entity because it refers to a company.
+* "Michael Gifford" is a Perception entity because he is the chief executive of Rank Organisation PLC expressing his opinion.
+* "$100 million" is an Aspectual entity because it describes a monetary amount related to the event.
+* "Cineplex shareholders" is a State entity because it refers to a group of people involved in the event.
+* "Pierre Panet-Raymond" is a Perception entity because he is an analyst expressing his opinion.
+* "Toronto securities dealer McDermid St. Lawrence Ltd." is a State entity because it refers to a company.
+* "Mr. Panet-Raymond" is a Perception entity because he is an analyst expressing his opinion.
+* "investors" is a State entity because it refers to a group of people involved in the event.

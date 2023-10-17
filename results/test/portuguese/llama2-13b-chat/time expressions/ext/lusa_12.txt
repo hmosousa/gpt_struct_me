@@ -1,0 +1,11 @@
+[
+"16:05",
+"da tarde",
+"da segunda-feira"
+]
+
+Explanation:
+
+* 16:05: the time when the alert was received
+* da tarde: the time period of the afternoon
+* da segunda-feira: the day and time when the searches will be resumed

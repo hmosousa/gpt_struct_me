@@ -1,0 +1,6 @@
+["morre", "ferido", "desordem", "arma", "fogo", "Mem", "Martins", "Sintra", "Lisboa", "PSP", "Algueirão", "Amadora-Sintra", "Cometlis", "hospital", "ferimentos", "PJ"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+

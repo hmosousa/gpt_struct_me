@@ -1,0 +1,1 @@
+[["Aug. 9", "DATE"], ["fiscal-first quarter", "DATE"], ["Sept. 30", "DATE"], ["C$2.3 million", "DURATION"], ["C$348.2 million", "DURATION"], ["C$307.2", "DURATION"]]

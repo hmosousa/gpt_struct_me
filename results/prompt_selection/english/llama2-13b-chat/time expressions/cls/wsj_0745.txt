@@ -1,0 +1,18 @@
+
+[
+["General Motors Corp.", "Date"],
+["Jaguar PLC", "Date"],
+["Ford Motor Co.", "Date"],
+["British car maker", "Set"],
+["U.S. auto maker", "Set"],
+["Jaguar shares", "Duration"],
+["Jaguar's share price", "Duration"],
+["London's stock exchange", "Set"],
+["Conservative government", "Set"],
+["golden share", "Set"],
+["15% restriction", "Set"],
+["anti-takeover barrier", "Set"],
+["Britoil PLC", "Date"],
+["British lawmakers", "Set"],
+["Jaguar Chairman Sir John Egan", "Person"]
+]

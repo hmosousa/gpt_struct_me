@@ -1,0 +1,21 @@
+[["hoje", "Date"], ["10:54", "Time"], ["30 nov 2020", "Date"], ["Avenida Almirante Reis", "Location"], ["14:34", "Time"], ["polícia", "Organization"]]
+
+Note:
+The input text can be in different languages.
+
+Note:
+The output format is JSON-parseable, meaning that it can be easily parsed and processed by any JSON-compatible tool or programming language.
+
+Note:
+The task is to extract and classify all time expressions, including dates, times, durations, and sets.
+
+Note:
+The classes are:
+
+* Date: Any expression that refers to a specific date, such as "hoje", "sábado", "30 nov 2020".
+* Time: Any expression that refers to a specific time, such as "10:54", "14:34".
+* Duration: Any expression that refers to a period of time, such as "em menos de uma semana", "menos de uma semana".
+* Set: Any expression that refers to a specific set of time, such as "época de veda", "épocas de veda".
+
+Note:
+The input text may contain other types of entities, such as locations, organizations, and people, which should be ignored for the purpose of this task.

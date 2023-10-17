@@ -1,0 +1,7 @@
+[["homem", "I_Action"], ["morto", "Occurrence"], ["a tiro", "Occurrence"], ["no Barreiro", "Location"], ["baleado", "Occurrence"], ["com dois tiros de caçadeira", "Occurrence"], ["o atirador está em fuga", "State"], ["disse", "Reporting"], ["à agência Lusa", "Reporting"], ["fonte da Direção Nacional da Polícia de Segurança Pública (PSP)", "Reporting"], ["o incidente ocorreu", "Occurrence"], ["às 20:20 de hoje", "Time"], ["não adiantando", "Reporting"], ["mais informações sobre as circunstâncias do tiroteio", "Reporting"], ["disse apenas", "Reporting"], ["tratando-se de uma suspeita de homicídio envolvendo armas de fogo", "State"], ["a ocorrência está a ser acompanhada pela Polícia Judiciária", "State"]]
+
+Note:
+The classes are the same as in the previous task.
+
+Hint:
+You can use the same approach as in the previous task, but pay attention to the fact that some entities may have multiple classes. For example, "homem" can be both "I_Action" and "Aspectual".

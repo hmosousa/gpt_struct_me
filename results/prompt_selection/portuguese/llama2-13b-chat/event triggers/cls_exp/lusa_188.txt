@@ -1,0 +1,9 @@
+[["morre", "I_Action"], ["vítima", "Occurrence"], ["acidente", "Occurrence"], ["trabalhava", "Reporting"], ["ferimentos", "Occurrence"], ["falecer", "Occurrence"], ["ambulância", "I_Action"], ["socorro", "I_Action"], ["meios", "I_Action"], ["alerta", "Occurrence"], ["INEM", "I_Action"], ["helicóptero", "I_Action"], ["GNR", "I_Action"]]
+
+Note:
+The classes are the same as the previous task.
+
+Hint:
+The entities in the text are the people, places, and things mentioned in the text. The classes are the events, states, and actions described in the text.
+
+Please let me know if you have any questions or need further clarification.

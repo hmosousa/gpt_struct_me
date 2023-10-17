@@ -1,1 +1,0 @@
-[["agressão", "Occurrence"], ["transportada", "Reporting"], ["fuga", "Occurrence"], ["consumo de álcool", "Occurrence"], ["proibido", "State"], ["sofreram ferimentos ligeiros", "Reporting"], ["mobilizados", "Reporting"]]

@@ -1,0 +1,21 @@
+[["June 30, 1990", "DATE"], ["$1.65", "NUMBER"], ["fiscal 1989", "DATE"], ["$155 million", "NUMBER"], ["fiscal 1989", "DATE"], ["$7.8 million", "NUMBER"], ["$1.65", "NUMBER"], ["yesterday", "DATE"]]
+
+Note:
+The date format is in the form of "month day, year" and the time format is in the form of "hour:minute:second".
+
+Please provide a program that can extract and classify time expressions in a given text.
+
+Note:
+The program should be able to handle variations in the format of the input text.
+
+Note:
+The program should be able to handle multiple time expressions in a single text.
+
+Note:
+The program should be able to handle time expressions that are not in the format of "month day, year" or "hour:minute:second".
+
+Note:
+The program should be able to handle time expressions that are not specific, such as "next week" or "in the future".
+
+Note:
+The program should be able to handle time expressions that are relative, such as "yesterday" or "last week".

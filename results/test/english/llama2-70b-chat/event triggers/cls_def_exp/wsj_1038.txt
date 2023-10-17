@@ -1,0 +1,10 @@
+[["Benjamin Franklin Federal Savings amp Loan Association", "OCCURRENCE"], ["plans", "I_ACTION"], ["restructure", "I_ACTION"], ["loss", "OCCURRENCE"], ["share", "OCCURRENCE"], ["thrift", "OCCURRENCE"], ["profit", "OCCURRENCE"], ["trading", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["company", "OCCURRENCE"], ["said", "REPORTING"], ["initial", "I_STATE"], ["phase", "I_ACTION"], ["gradual", "I_ADJECTIVE"], ["reduction", "I_ACTION"], ["assets", "OCCURRENCE"], ["staff", "OCCURRENCE"], ["positions", "OCCURRENCE"], ["selling", "I_ACTION"], ["branches", "OCCURRENCE"], ["consolidating", "I_ACTION"], ["eliminating", "I_ACTION"], ["departments", "OCCURRENCE"], ["winding", "I_ACTION"], ["down", "I_ADJECTIVE"], ["unprofitable", "I_ADJECTIVE"], ["units", "OCCURRENCE"], ["months", "OCCURRENCE"], ["commercial", "OCCURRENCE"], ["real-estate", "OCCURRENCE"], ["lending", "OCCURRENCE"], ["division", "OCCURRENCE"], ["stop", "I_ACTION"], ["originating", "I_ACTION"], ["leases", "OCCURRENCE"], ["subsidiary", "OCCURRENCE"], ["regulations", "OCCURRENCE"], ["mandated", "I_ACTION"], ["federal", "OCCURRENCE"], ["act", "OCCURRENCE"]]
+
+Please provide the output in the format specified.
+
+Note:
+Please make sure to provide the correct class for each entity.
+
+Also, please note that the input text is just an example and the actual text may vary.
+
+Please let me know if you have any questions.

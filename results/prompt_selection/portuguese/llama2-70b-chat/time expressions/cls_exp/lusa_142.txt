@@ -1,0 +1,10 @@
+[["segunda-feira", "Date"], ["hoje", "Date"], ["hoje", "Date"], ["12.300", "Quantity"], ["122", "Quantity"], ["Mértola", "Location"], ["Beja", "Location"], ["Estrada Nacional", "Location"], ["telemóvel", "Quantity"]]
+
+Note:
+
+* Duration is a class that includes expressions of time that are not specific dates or times, such as "menos de uma semana" (less than a week) or "em cerca de uma hora" (in about an hour).
+* Set is a class that includes expressions of time that refer to a specific period or set of periods, such as "época de veda" (closed season) or "fim do ano" (end of the year).
+* Time is a class that includes expressions of time that are specific to a particular day or period, such as "sábado" (Saturday) or "setembro" (September).
+* Date is a class that includes expressions of time that refer to a specific date, such as "30 nov 2020" (November 30, 2020) or "2020" (2020).
+* Quantity is a class that includes expressions of quantity, such as "12.300" (12,300) or "1" (one).
+* Location is a class that includes expressions of location, such as "Mértola" (Mértola) or "Beja" (Beja).

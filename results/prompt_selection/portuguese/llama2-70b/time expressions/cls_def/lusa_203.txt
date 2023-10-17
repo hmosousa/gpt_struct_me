@@ -1,0 +1,1 @@
+[["sete", "Set"], ["outubro", "Date"], ["dezembro", "Date"]]

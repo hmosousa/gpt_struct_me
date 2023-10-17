@@ -1,0 +1,35 @@
+[
+["Di Giorgio Corp.", "State"],
+["potential buyers", "Occurrence"],
+["certain units", "Aspectual"],
+["DIG Acquisition Corp.", "Intensional Action"],
+["Rose Partners Limited Partnership", "State"],
+["Robert Mellor", "State"],
+["executive vice president", "State"],
+["company", "State"],
+["sale of individual units", "Intensional Action"],
+["others", "Occurrence"],
+["DIG's offer", "Intensional State"]
+]
+
+Explanation:
+
+* "Di Giorgio Corp." is a State entity.
+* "potential buyers" is an Occurrence entity.
+* "certain units" is an Aspectual entity.
+* "DIG Acquisition Corp." is an Intensional Action entity.
+* "Rose Partners Limited Partnership" is a State entity.
+* "Robert Mellor" is a State entity.
+* "executive vice president" is a State entity.
+* "company" is a State entity.
+* "sale of individual units" is an Intensional Action entity.
+* "others" is an Occurrence entity.
+* "DIG's offer" is an Intensional State entity.
+
+Note:
+
+* "Di Giorgio Corp." is mentioned twice in the input text, but it should only be extracted once.
+* "Robert Mellor" is mentioned twice in the input text, but it should only be extracted once.
+* "company" is mentioned twice in the input text, but it should only be extracted once.
+
+This task is a bit tricky because there are some entities that are mentioned multiple times in the input text, but they should only be extracted once. Also, some entities have the same name but are of different classes (e.g. "DIG Acquisition Corp." is an Intensional Action entity, while "DIG's offer" is an Intensional State entity).

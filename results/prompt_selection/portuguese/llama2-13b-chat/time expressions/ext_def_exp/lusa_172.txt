@@ -1,0 +1,4 @@
+["hoje à tarde", "19 de novembro de 2020", "naquela praia de Lagoa", "do distrito de Faro", "depois de ter sido dado o alerta para o avistamento de um corpo a boiar no mar", "até às 17h00", "na Estação Salva-vidas de Ferragudo", "para a marina de Portimão", "no local pela delegada de saúde de Lagoa", "para o gabinete de medicina legal de Portimão"]
+
+Note:
+The input text may contain multiple time expressions with different time units (e.g., "hoje à tarde", "19 de novembro de 2020", "naquela praia de Lagoa", etc.). Your task is to extract all time expressions and return them in a JSON-parseable list of strings.

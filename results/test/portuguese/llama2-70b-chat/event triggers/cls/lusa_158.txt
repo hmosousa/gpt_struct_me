@@ -1,0 +1,37 @@
+[
+["Homem de 48 anos", "State"],
+["colisão automóvel", "Occurrence"],
+["hoje", "Aspectual"],
+["vítima", "Intensional State"],
+["morreu", "Intensional Action"],
+["dois veículos ligeiros", "State"],
+["freguesia de Chorente", "State"],
+["concelho de Barcelos", "State"],
+["Braga", "State"],
+["Comando Distrital de Operações de Socorros", "State"],
+["acidente", "Occurrence"],
+["13:00", "Aspectual"],
+["condutor", "Intensional State"],
+["ferido ligeiro", "Intensional State"],
+["Hospital de Barcelos", "State"],
+["Bombeiros Voluntários de Viatodos", "State"]
+]
+
+Explanation:
+
+* "Homem de 48 anos" is classified as "State" because it describes a person's age.
+* "colisão automóvel" is classified as "Occurrence" because it describes an event.
+* "hoje" is classified as "Aspectual" because it describes a time aspect.
+* "vítima" is classified as "Intensional State" because it describes a person's state of being a victim.
+* "morreu" is classified as "Intensional Action" because it describes a person's action of dying.
+* "dois veículos ligeiros" is classified as "State" because it describes the state of two vehicles.
+* "freguesia de Chorente" is classified as "State" because it describes a location.
+* "concelho de Barcelos" is classified as "State" because it describes a location.
+* "Braga" is classified as "State" because it describes a location.
+* "Comando Distrital de Operações de Socorros" is classified as "State" because it describes an organization.
+* "acidente" is classified as "Occurrence" because it describes an event.
+* "13:00" is classified as "Aspectual" because it describes a time aspect.
+* "condutor" is classified as "Intensional State" because it describes a person's state of being a driver.
+* "ferido ligeiro" is classified as "Intensional State" because it describes a person's state of being slightly injured.
+* "Hospital de Barcelos" is classified as "State" because it describes a location.
+* "Bombeiros Voluntários de Viatodos" is classified as "State" because it describes an organization.

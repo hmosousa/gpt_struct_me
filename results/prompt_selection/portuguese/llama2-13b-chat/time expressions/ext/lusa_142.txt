@@ -1,0 +1,17 @@
+[
+"12.300 doses de haxixe",
+"segunda-feira",
+"hoje",
+"primeiro interrogatório",
+"eventual aplicação de medidas de coação"
+]
+
+Explanation:
+
+* 12.300 doses de haxixe: This is a quantity expression, indicating the number of doses of drugs seized.
+* segunda-feira: This is a day of the week expression, indicating the day on which the events took place.
+* hoje: This is a day of the week expression, indicating the current day.
+* primeiro interrogatório: This is a time expression, indicating the first interrogation of the suspect.
+* eventual aplicação de medidas de coação: This is a time expression, indicating the potential application of coercive measures.
+
+Note that the list of time expressions is not exhaustive, as there may be other time expressions in the text that are not explicitly listed here.

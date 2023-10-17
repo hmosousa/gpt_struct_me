@@ -1,0 +1,15 @@
+[["Três mortos", "Per"], ["em ataque", "Per"], ["de hipopótamo", "Obj"], ["durante", "Per"], ["travessia", "Per"], ["de rio", "Obj"], ["na província", "Loc"], ["angolana", "Loc"], ["do Bié", "Loc"], ["Três pessoas", "Per"], ["morreram", "Per"], ["no município", "Loc"], ["de Camacupa", "Loc"], ["província", "Loc"], ["angolana", "Loc"], ["do Bié", "Loc"], ["o incidente", "Per"], ["registou-se", "Per"], ["no momento", "Per"], ["da travessia", "Per"], ["do rio", "Obj"], ["Kwanza", "Obj"], ["quando", "Per"], ["a embarcação", "Obj"], ["artesanal", "Obj"], ["com oito pessoas", "Per"], ["a bordo", "Per"], ["sofreu", "Per"], ["o ataque", "Per"], ["de um hipopótamo", "Obj"], ["O incidente", "Per"], ["registou-se", "Per"], ["no momento", "Per"], ["da travessia", "Per"], ["do rio", "Obj"], ["Kwanza", "Obj"], ["quando", "Per"], ["a embarcação", "Obj"], ["artesanal", "Obj"], ["com oito pessoas", "Per"], ["a bordo", "Per"], ["sofreu", "Per"], ["o ataque", "Per"], ["de um hipopótamo", "Obj"], ["entre", "Per"], ["os mortos", "Per"], ["encontra-se", "Per"], ["uma criança", "Per"], ["cujo", "Per"], ["corpo", "Obj"], ["se encontra", "Per"], ["desaparecido", "Per"], ["O administrador", "Per"], ["comunal", "Per"], ["da Muinha", "Loc"], ["Baptista Sambango", "Per"], ["frisando", "Per"], ["que", "Per"], ["pela", "Per"], ["dimensão", "Per"], ["do rio", "Obj"], ["é", "Per"], ["necessário", "Per"], ["que", "Per"], ["se", "Per"], ["construa", "Per"], ["uma ponte", "Obj"], ["para", "Per"], ["a travessia", "Per"], ["da população", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque anunciam que a cidade está em alerta vermelho
+Autoridades de Nova Iorque anunciaram hoje que a cidade está em alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta vermelho, devido às condições climáticas extremas que se registam na região.
+A prefeitura de Nova Iorque, em comunicado, informou que a cidade está sob alerta

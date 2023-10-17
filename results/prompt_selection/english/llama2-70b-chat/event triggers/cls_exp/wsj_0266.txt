@@ -1,0 +1,7 @@
+[["pleased", "OCCURRENCE"], ["noted", "REPORTING"], ["recognized", "REPORTING"], ["significant", "OCCURRENCE"], ["past", "OCCURRENCE"], ["century", "OCCURRENCE"], ["listed", "REPORTING"], ["creation", "OCCURRENCE"], ["innovated", "I_ACTION"], ["telephone", "OCCURRENCE"], ["daily", "OCCURRENCE"], ["total", "OCCURRENCE"], ["elimination", "OCCURRENCE"], ["constant", "OCCURRENCE"], ["$1", "OCCURRENCE"], ["pershare", "OCCURRENCE"], ["pricing", "OCCURRENCE"], ["painfully", "OCCURRENCE"], ["thought", "OCCURRENCE"], ["not", "OCCURRENCE"], ["inadvertence", "OCCURRENCE"], ["part", "OCCURRENCE"], ["SEC", "OCCURRENCE"]]
+
+Note:
+The Reserve Fund is a money-fund.
+
+Note:
+The SEC is the Securities and Exchange Commission.

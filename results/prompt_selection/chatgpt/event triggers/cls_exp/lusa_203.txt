@@ -1,1 +1,0 @@
-[["mata", "Occurrence"], ["ferem", "Occurrence"], ["noticiaram", "Reporting"], ["perpetrado", "Occurrence"], ["identificado", "Reporting"], ["detido", "Occurrence"], ["permanece", "State"], ["restringe", "State"], ["realizados", "State"], ["descritos", "State"], ["feriu", "Occurrence"], ["condenado", "State"], ["matou", "Occurrence"], ["feriu", "Occurrence"]]

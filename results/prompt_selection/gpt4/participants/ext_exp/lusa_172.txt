@@ -1,1 +1,0 @@
-["homem", "Autoridade Marítima", "Estação Salva-vidas de Ferragudo", "delegada de saúde de Lagoa", "gabinete de medicina legal de Portimão", "Polícia Marítima de Portimão"]

@@ -1,0 +1,11 @@
+[["um homem", "Per"], ["de 52 anos", "Age"], ["morreu", "Event"], ["e um outro", "Per"], ["sofreu ferimentos ligeiros", "Event"], ["na sequência", "Conj"], ["de um acidente", "Event"], ["com um camião", "Org"], ["que derrubou", "Verb"], ["um poste", "Noun"], ["de eletricidade", "Noun"], ["na Rua da Constituição", "Loc"], ["dessa", "Loc"], ["a fonte", "Org"], ["da PSP", "Org"], ["do Porto", "Loc"], ["dez", "Num"], ["o homem", "Noun"], ["que circulava", "Verb"], ["na rua", "Loc"], ["a estrutura", "Noun"], ["ate", "Conj"], ["o funcionário", "Noun"], ["de umas bombas", "Noun"], ["sofreu ferimentos", "Event"], ["ligeros", "Adj"], ["o acidente", "Event"], ["ocorreu", "Verb"], ["cerca", "Adv"], ["das 07:50", "Time"]]
+
+
+Note:
+
+* The input is a news article in Portuguese, and the output is a JSON-parseable list with entities and their corresponding classes.
+* The entities are marked with a list of strings, where the first string is the entity name, and the second string is the class name.
+* The classes are: Person, Age, Event, Organization, Location, Time, and Other.
+* The entities are: "um homem", "de 52 anos", "morreu", "e um outro", "sofreu ferimentos ligeiros", "na sequência", "de um acidente", "com um camião", "que derrubou", "um poste", "de eletricidade", "na Rua da Constituição", "do Porto".
+* The classes are: Person, Age, Event, Organization, Location, Time, and Other.
+* The output list has 13 elements, where each element is a list with two strings.

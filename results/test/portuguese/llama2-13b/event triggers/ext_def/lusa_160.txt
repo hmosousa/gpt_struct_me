@@ -1,0 +1,8 @@
+["abusar", "acusa", "agravado", "arguido", "Braga", "crianças", "companheira", "filha", "homem", "MP", "passou", "procuradoria", "refere", "sós", "vítima"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+
+Hint:
+The event triggers are the words that are used to describe the event.
+

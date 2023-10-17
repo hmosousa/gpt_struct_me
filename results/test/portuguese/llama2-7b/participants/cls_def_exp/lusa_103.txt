@@ -1,0 +1,16 @@
+[["Detido", "Per"], ["pai", "Per"], ["matou", "Per"], ["filhos", "Per"], ["para", "Per"], ["se", "Per"], ["v\u00e9ngar", "Per"], ["da", "Per"], ["mulher", "Per"], ["no", "Loc"], ["México", "Loc"], ["Um", "Per"], ["homem", "Per"], ["foi", "Per"], ["detido", "Per"], ["no", "Loc"], ["norte", "Loc"], ["do", "Loc"], ["México", "Loc"], ["por", "Per"], ["o", "Per"], ["alegado", "Per"], ["homicídio", "Per"], ["dos", "Per"], ["tres", "Per"], ["filhos", "Per"], ["à", "Per"], ["pancada", "Per"], ["para", "Per"], ["se", "Per"], ["v\u00e9ngar", "Per"], ["da", "Per"], ["mãe", "Per"], ["das", "Per"], ["crianças", "Per"], ["telefonou", "Per"], ["o", "Per"], ["avô", "Per"], ["das", "Per"], ["crianças", "Per"], ["chamou", "Per"], ["a", "Per"], ["polícia", "Per"], ["O", "Per"], ["suspeito", "Per"], ["fugiu", "Per"], ["para", "Per"], ["Sonora", "Loc"], ["onde", "Loc"], ["ocorreram", "Per"], ["as", "Per"], ["mortes", "Per"], ["imediatamente", "Per"], ["detido", "Per"], ["e", "Per"], ["enviado", "Per"], ["para", "Per"], ["Hidalgo", "Loc"], ["onde", "Loc"], ["ocorreram", "Per"], ["as", "Per"], ["mortes", "Per"], ["de", "Per"], ["modo", "Per"], ["a", "Per"], ["grande", "Per"], ["dor", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades mexicanas detenham 10 pessoas em busca de um homem que matou 19 pessoas
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 10 pessoas em busca de um homem que matou 19 pessoas em um ataque armado na cidade de Monterrey, no norte do país, informou o governo estadual.
+A polícia mexicana deteve 

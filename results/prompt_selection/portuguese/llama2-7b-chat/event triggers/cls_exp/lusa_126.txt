@@ -1,0 +1,9 @@
+[["detém", "I_Action"], ["deteve", "State"], ["idos", "Occurrence"], ["apresentar", "Reporting"], ["apresentaram", "Reporting"], ["efetuar", "Occurrence"], ["transação", "Occurrence"], ["verificarem", "Occurrence"], ["movimentações", "Occurrence"], ["suspeitos", "Occurrence"], ["efetuar", "Occurrence"], ["apresentar", "Reporting"], ["Tribunal Judicial", "State"], ["Santiago do Cacém", "Aspectual"], ["medidas de coação", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article and the output is the classification of the event triggers.
+* The classes are: State, Occurrence, Reporting, Aspectual, and Intensional Action.
+* The task is to extract and classify all event triggers from the input text.

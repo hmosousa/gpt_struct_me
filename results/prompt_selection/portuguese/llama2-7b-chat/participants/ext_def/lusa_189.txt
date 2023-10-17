@@ -1,0 +1,10 @@
+[
+"Homem",
+"atirador",
+"Barreiro",
+"PSP",
+"Direção Nacional da Polícia de Segurança Pública",
+"Polícia Judiciária",
+"suspeita de homicídio",
+"armas de fogo"
+]

@@ -1,0 +1,1 @@
+["Homem", "Arroios", "Lisboa", "PSP", "Lusa", "Cometlis", "PJ"]

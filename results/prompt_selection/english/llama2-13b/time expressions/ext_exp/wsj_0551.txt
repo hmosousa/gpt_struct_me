@@ -1,0 +1,62 @@
+["Trustcorp Inc.", "Society Bank amp Trust", "Society Corp.", "June", "year end"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank."
+
+Output:
+["Citicorp", "Treasury Department", "1991", "1991", "1991"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank."
+
+Output:
+["Citicorp", "Treasury Department", "1991", "1991", "1991"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank."
+
+Output:
+["Citicorp", "Treasury Department", "1991", "1991", "1991"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank."
+
+Output:
+["Citicorp", "Treasury Department", "1991", "1991", "1991"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank.
+The Treasury Department has been selling off its stake in Citicorp since 1991, when it bought the stock as part of a $2 billion bailout of the bank."
+
+Output:
+["Citicorp", "Treasury Department", "1991", "1991", "1991"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of

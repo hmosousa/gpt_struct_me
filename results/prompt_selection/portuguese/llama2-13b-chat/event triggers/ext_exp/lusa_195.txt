@@ -1,0 +1,4 @@
+[“detém”, “homem”, “suspeito”, “balear”, “jovem”, “coletividade”, “Setúbal”, “Polícia”, “Judiciária”, “PJ”, “Alto da Guerra”, “sexagenário”, “disparou”, “arma”, “fogo”, “ferimentos”, “ombro”, “braço”, “detido”, “fugiu”, “indiciado”, “crimes”, “homicídio”, “tentada”, “detenção”, “arma”, “proibida”, “omissão”, “auxílio”, “primeiro”, “interrogatório”, “judicial”, “medida”, “coação”, “prisão”, “preventiva”]
+
+Note:
+The output should be a JSON-parseable list of strings, where each string represents a single event trigger. The list should be ordered in the same order as the input text, with each event trigger separated by a comma.

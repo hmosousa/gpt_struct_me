@@ -1,0 +1,13 @@
+[["Hadson Corp.", "ORGANIZATION"], ["said", "REPORTING"], ["expects", "I_STATE"], ["report", "OCCURRENCE"], ["loss", "OCCURRENCE"], ["special", "ADJECTIVE"], ["reserves", "NOUN"], ["low", "ADJECTIVE"], ["natural-gas", "NOUN"], ["prices", "NOUN"], ["record", "OCCURRENCE"], ["defense", "NOUN"], ["group", "NOUN"], ["reserve", "NOUN"], ["charge", "NOUN"], ["related", "ADJECTIVE"], ["problems", "NOUN"], ["contract", "NOUN"], ["overhead", "NOUN"], ["costs", "NOUN"], ["won't", "VERB"], ["reimbursed", "ADJECTIVE"], ["write", "OCCURRENCE"], ["off", "VERB"], ["costs", "NOUN"], ["international", "ADJECTIVE"], ["exploration", "NOUN"], ["leases", "NOUN"], ["where", "ADVERB"], ["exploration", "NOUN"], ["efforts", "NOUN"], ["unsuccessful", "ADJECTIVE"], ["cited", "VERB"], ["interest", "NOUN"], ["costs", "NOUN"], ["amortization", "NOUN"], ["goodwill", "NOUN"], ["factors", "NOUN"], ["loss", "OCCURRENCE"]]
+
+Please provide the extracted and classified event triggers in JSON format.
+
+Note:
+
+* OCCURRENCE: refers to any occurrence, incident, action or state that takes place or holds within a specified period of time.
+* STATE: refers to a situation or condition that exists or prevails in a particular place or time.
+* REPORTING: refers to the act of providing information or describing a situation.
+* PERCEPTION: refers to the way something is perceived or understood.
+* ASPECTUAL: refers to a particular aspect or feature of something.
+* INTENSIONAL ACTION: refers to an action or activity that is intended or planned.
+* INTENSIONAL STATE: refers to a state or condition that is intended or desired.

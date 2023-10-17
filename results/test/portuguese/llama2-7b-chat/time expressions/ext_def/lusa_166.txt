@@ -1,0 +1,16 @@
+[
+"hoje",
+"a tarde",
+"um homem de 54 anos",
+"segundo",
+"segunda",
+"depois de uma queda de cerca de dois metros",
+"eventualmente",
+"no local",
+"dois metros",
+"confirmado",
+"Instituto Nacional de Medicina Legal",
+"local",
+"nove operacionais",
+"quatro veículos"
+]

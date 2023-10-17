@@ -1,0 +1,15 @@
+[
+"Dois feridos", "na terça-feira à noite", "em Lisboa", "de 22 e 33 anos", "com gravidade", "na sequência de uma desordem", "no Bairro do Casal dos Machados", "em Lisboa", "depois de 21:49", "três viaturas danificadas", "devido a disparos de arma de fogo", "na investigação ficou a cargo da Polícia Judiciária"]
+Explanation:
+The output is a list of time expressions extracted from the given text. Each time expression is represented as a JSON-parseable string.
+Note:
+The time expressions in this text are:
+* "na terça-feira à noite" (time of day)
+* "em Lisboa" (location)
+* "de 22 e 33 anos" (age)
+* "com gravidade" (severity)
+* "na sequência de uma desordem" (time of event)
+* "depois de 21:49" (time of event)
+* "três viaturas danificadas" (number of damaged vehicles)
+* "devido a disparos de arma de fogo" (cause of damage)
+* "na investigação ficou a cargo da Polícia Judiciária" (time of investigation)

@@ -1,0 +1,6 @@
+["encontrado morto", "fazendo manutenção", "desaparecido", "abertura da cisterna", "causa da morte", "compareceu no local", "tomou conta da ocorrência", "transporte do cadáver"]
+
+Note:
+- The list of strings is in the order of the appearance of the events in the text.
+- Each string represents one event, and the events are separated by commas.
+- The events are in the format of "verb + object", as in "encontrado morto" (found dead).

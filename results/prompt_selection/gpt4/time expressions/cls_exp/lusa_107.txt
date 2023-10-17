@@ -1,5 +1,0 @@
-[
-["hoje", "Date"],
-["cerca das 12:50", "Time"],
-["há mais de uma semana", "Duration"]
-]

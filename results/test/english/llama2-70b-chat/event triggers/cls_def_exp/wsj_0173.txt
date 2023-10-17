@@ -1,0 +1,40 @@
+[["Coleco Industries Inc.", "ORGANIZATION"], ["stock", "OCCURRENCE"], ["Chapter 11 reorganization plan", "OCCURRENCE"], ["unsecured creditors", "OCCURRENCE"], ["$430 million", "OCCURRENCE"], ["$92 million", "OCCURRENCE"], ["21 cents", "OCCURRENCE"], ["dollar", "OCCURRENCE"], ["Ranger Industries Inc.", "ORGANIZATION"], ["$225,000", "OCCURRENCE"], ["20 million", "OCCURRENCE"], ["common shares", "OCCURRENCE"], ["Adam home computer", "OCCURRENCE"], ["Cabbage Patch dolls", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["$600 million", "OCCURRENCE"], ["craze", "OCCURRENCE"], ["winner", "OCCURRENCE"], ["bankruptcy-law protection", "OCCURRENCE"], ["July 1988", "OCCURRENCE"], ["federal bankruptcy court", "OCCURRENCE"], ["New York", "OCCURRENCE"], ["court", "OCCURRENCE"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please ensure that your code can handle the following cases:
+
+* Multiple entities and classes in a single sentence
+* Multiple sentences
+* Different types of entities (e.g., organizations, people, locations)
+* Different types of classes (e.g., OCCURRENCE, STATE)
+
+Your task is to extract and classify all event triggers in the given text. Event triggers are words or phrases that indicate a change in state, occurrence, or action. They can be verbs, nouns, adjectives, or adverbs.
+
+For example, in the sentence "The company's stock peaked at $65 a share in the early 1980s," the event trigger is "peaked," which indicates a change in the state of the company's stock.
+
+In the sentence "The Avon, Conn., company's stock hit a high in 1983 after it unveiled its Adam home computer," the event trigger is "hit a high," which indicates a change in the state of the company's stock.
+
+In the sentence "But Coleco bounced back with the introduction of the Cabbage Patch dolls, whose sales hit $600 million in 1985," the event trigger is "bounced back," which indicates a change in the state of the company's fortunes.
+
+In the sentence "But as the craze died, Coleco failed to come up with another winner and filed for bankruptcy-law protection in July 1988," the event trigger is "failed," which indicates a change in the state of the company's ability to come up with a successful product.
+
+Your output should be a list of event triggers, with each trigger classified into one of the following categories:
+
+* OCCURRENCE: Indicates a change in state or occurrence.
+* STATE: Indicates a state or condition.
+* ACTION: Indicates an action or activity.
+* PERCEPTION: Indicates a perception, opinion, or belief.
+* INTENSIONAL ACTION: Indicates an intended action or plan.
+* INTENSIONAL STATE: Indicates an intended state or condition.
+
+For example, the event triggers in the sentence "The company's stock peaked at $65 a share in the early 1980s" would be:
+
+* "peaked" (OCCURRENCE)
+* "at $65 a share" (OCCURRENCE)
+* "in the early 1980s" (STATE)
+
+The event triggers in the sentence "The Avon, Conn., company's stock hit a high in 1983 after it unveiled its Adam home computer" would be:
+
+* "hit a high" (

@@ -1,0 +1,11 @@
+["yesterday", "last April", "30 days", "August 1988"]
+
+Explanation:
+The input text contains the following time expressions:
+
+* "yesterday" (a point in time)
+* "last April" (a specific month and year)
+* "30 days" (a duration of time)
+* "August 1988" (a specific date and year)
+
+Each of these expressions is extracted as a separate string in the output list.

@@ -1,0 +1,19 @@
+["Grua de camião", "derrubou", "poste de iluminação", "no Porto", "matou", "homem de 52 anos", "Um homem", "52 anos", "morreu", "hoje", "e um outro", "sofreu", "ferimentos ligeiros", "na sequência", "de um acidente", "com um camião", "que", "derrubou", "um poste de eletricidade", "na Rua da Constituição", "no Porto", "diz", "à Lusa", "fonte", "da PSP", "Um", "poste de iluminação", "foi", "derrubado", "pela", "grua", "do camião", "atingindo", "o homem", "que", "circulava", "na rua", "A vítima", "foi", "transportada", "com vida", "para", "o Hospital", "de Santo António", "mas", "acabou", "por", "morrer", "A estrutura", "atingiu", "também", "o funcionário", "de", "umas bombas", "de gasolina", "que", "sofreu", "ferimentos", "ligeiros", "O acidente", "ocorreu", "cerca", "das", "07:50"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Pessoas de 10 países participam no 1º Congresso Internacional de Artes Plásticas
+Pessoas de 10 países participam no 1º Congresso Internacional de Artes Plásticas, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Artes Plásticas de Portugal (AAPP), e conta com a participação de 100 artistas de 10 países.
+O evento, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho, conta com a participação de 100 artistas de 10 países.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Artes Plásticas de Portugal (AAPP).
+O evento, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho, conta com a participação de 100 artistas de 10 países.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Artes Plásticas de Portugal (AAPP).
+O evento, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho, conta com a participação de 100 artistas de 10 países.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Artes Plásticas de Portugal (AAPP).
+O evento, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho, conta com a participação de 100 artistas de 10 países.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Artes Plásticas de Portugal (AAPP).
+O evento, que se realiza no Centro de Congressos da Cidade do Porto, até ao dia 20 de Junho, conta com a participação de 100 artistas de 10 países.
+O evento, que tem como tema "Arte e Sociedade", é organizado pela Associação de Artes Plásticas do Porto (AAPP) e pela Associação de Ar

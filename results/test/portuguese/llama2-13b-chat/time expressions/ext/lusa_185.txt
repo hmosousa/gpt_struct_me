@@ -1,0 +1,6 @@
+[
+"na manhã de domingo",
+"pela manhã",
+"por volta das 19:30",
+"after da meia-noite"
+]

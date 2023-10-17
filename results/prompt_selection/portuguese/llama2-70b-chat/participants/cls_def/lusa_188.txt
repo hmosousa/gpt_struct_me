@@ -1,0 +1,32 @@
+[
+["Homem de 48 anos", "Person"],
+["Mogadouro", "Location"],
+["Vilarinhos dos Galegos", "Location"],
+["Bragança", "Location"],
+["Lusa", "Organization"],
+["bombeiros", "Organization"],
+["José Carrasco", "Person"],
+["INEM", "Organization"],
+["SIV", "Organization"],
+["VMER", "Organization"],
+["Macedo de Cavaleiros", "Location"],
+["GNR", "Organization"]
+]
+
+Explanation:
+The input text describes a fatal work accident in Mogadouro, Portugal. The participants in this event include:
+
+* The 48-year-old man who died (Person)
+* Mogadouro (Location)
+* Vilarinhos dos Galegos (Location)
+* Bragança (Location)
+* Lusa (Organization) - mentioned as the source of the information
+* Bombeiros (Organization) - involved in the rescue efforts
+* José Carrasco (Person) - the commander of the Mogadouro bombeiros
+* INEM (Organization) - involved in the rescue efforts with their helicopter
+* SIV (Organization) - involved in the rescue efforts
+* VMER (Organization) - involved in the rescue efforts
+* Macedo de Cavaleiros (Location) - where the INEM helicopter was stationed
+* GNR (Organization) - took control of the incident
+
+The output is a list of pairs, where each pair consists of the name of the participant and its corresponding class (Person, Location, Organization, etc.).

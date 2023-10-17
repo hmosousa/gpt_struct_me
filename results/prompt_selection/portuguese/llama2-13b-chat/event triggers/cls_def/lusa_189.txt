@@ -1,0 +1,23 @@
+[
+["Homem", "State"],
+["Morto", "Occurrence"],
+["Tiro", "Occurrence"],
+["Barreiro", "Location"],
+["Atirador", "Entity"],
+["Fuga", "State"]
+]
+
+Explanation:
+
+* Homem: State (the current state of the man)
+* Morto: Occurrence (the event of the man being dead)
+* Tiro: Occurrence (the event of the shot being fired)
+* Barreiro: Location (the location where the event took place)
+* Atirador: Entity (the person who fired the shot)
+* Fuga: State (the current state of the shooter, fleeing)
+
+Note:
+
+* The output is a list of pairs of strings, where each string represents an entity or an event, and the second string represents the class or category of that entity or event.
+* The classes used in this example are State, Occurrence, Location, Entity, and State.
+* The input text is a news article about a man being shot and killed in the Barreiro neighborhood of Lisbon, and the outputlists the entities and events mentioned in the text, classified by category.

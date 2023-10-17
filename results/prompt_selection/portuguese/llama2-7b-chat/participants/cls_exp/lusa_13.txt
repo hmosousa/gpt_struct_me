@@ -1,0 +1,10 @@
+[["Autoridades judiciais", "Org"], ["buscas", "Other"], ["apartamento", "Loc"], ["Maximiliano Trimarchi", "Per"], ["Diego Maradona", "Per"], ["motorista", "Per"], ["telemóvel", "Obj"], ["procuradoria-geral", "Org"], ["San Isidro", "Loc"], ["saber", "Other"], ["Trimarchi", "Per"], ["Luz", "Per"], ["Agustina Cosachov", "Per"], ["psiquiatra", "Per"], ["inquérito", "Other"], ["justiça argentina", "Org"], ["abriu", "Other"], ["determinar", "Other"], ["negligência médica", "Other"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a sentence with several entities and classes.
+* The entities are: "Autoridades judiciais", "Maximiliano Trimarchi", "Diego Maradona", "motorista", "telemóvel", "Leopoldo Luque", "Agustina Cosachov", "psiquiatra".
+* The classes are: "Org", "Loc", "Per", "Other".
+* The output list has 11 elements, each representing a pair of entities and classes.

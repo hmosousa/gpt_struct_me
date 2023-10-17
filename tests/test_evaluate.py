@@ -1,30 +1,7 @@
 from src.evaluate import (
     macro_averaged_f1_score,
-    entity_f1_score,
     exact_match
 )
-
-
-def test_entity_f1_score():
-
-    annt = 'integrar'
-    pred = 'Bens passam a integrar património'
-
-    tp, fp, fn = entity_f1_score(pred, annt)
-    assert tp == 1
-    assert fp == 4
-    assert fn == 0
-
-
-def test_entity_f1_score_punctiation():
-
-    annt = 'integrar'
-    pred = 'Bens passam a integrar, património'
-
-    tp, fp, fn = entity_f1_score(pred, annt)
-    assert tp == 1
-    assert fp == 4
-    assert fn == 0
 
 
 def test_macro_averaged_f1_score():

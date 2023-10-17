@@ -1,0 +1,22 @@
+[
+["Violência doméstica", "Date"],
+["39 anos", "Duration"],
+["42 anos", "Duration"],
+["hoje", "Time"],
+["não aceitou a separação", "Duration"],
+["começou a perseguir", "Duration"],
+["botão de pânico", "Set"],
+["proibido de contactar", "Set"]
+]
+
+Explanation:
+The input text contains several time expressions that can be classified into different categories.
+
+* "Violência doméstica" is a date and can be classified as such.
+* "39 anos" and "42 anos" are durations and can be classified as such.
+* "hoje" is a time and can be classified as such.
+* "não aceitou a separação" and "começou a perseguir" are durations and can be classified as such.
+* "botão de pânico" is a set and can be classified as such.
+* "proibido de contactar" is a set and can beclassified as such.
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

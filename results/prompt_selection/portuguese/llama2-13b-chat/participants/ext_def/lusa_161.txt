@@ -1,0 +1,1 @@
+["homem", "ex-companheira", "GNR", "Lusa", "Rua da Figueirinha", "Grijó", "Vila Nova de Gaia", "Porto"]

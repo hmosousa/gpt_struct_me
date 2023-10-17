@@ -1,0 +1,1 @@
+["said", "completed", "merger", "completed", "buy", "expected", "close"]

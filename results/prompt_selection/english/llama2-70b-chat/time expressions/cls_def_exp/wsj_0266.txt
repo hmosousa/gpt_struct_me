@@ -1,0 +1,61 @@
+[["Oct. 23", "DATE"], ["two years ago", "DURATION"], ["20th century", "DATE"], ["Harry Brown", "PERSON"], ["myself", "PERSON"], ["painfully", "ADV"], ["inadvertence", "NOUN"]]
+
+Input:
+"The company has been in business for 25 years and has 10,000 employees."
+
+Output:
+[["25 years", "DURATION"], ["10,000", "NUMBER"]]
+
+Input:
+"The company will be closed on Dec. 25 and Jan. 1."
+
+Output:
+[["Dec. 25", "DATE"], ["Jan. 1", "DATE"]]
+
+Input:
+"The company has been in business for 25 years and has 10,000 employees. The company will be closed on Dec. 25 and Jan. 1."
+
+Output:
+[["25 years", "DURATION"], ["10,000", "NUMBER"], ["Dec. 25", "DATE"], ["Jan. 1", "DATE"]]
+
+Input:
+"The meeting is scheduled for 2 p.m. on Wednesday."
+
+Output:
+[["2 p.m.", "TIME"], ["Wednesday", "DATE"]]
+
+Input:
+"The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16."
+
+Output:
+[["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"]]
+
+Input:
+"The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16, 1998."
+
+Output:
+[["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"], ["1998", "DATE"]]
+
+Input:
+"The company has been in business for 25 years and has 10,000 employees. The company will be closed on Dec. 25 and Jan. 1. The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16, 1998."
+
+Output:
+[["25 years", "DURATION"], ["10,000", "NUMBER"], ["Dec. 25", "DATE"], ["Jan. 1", "DATE"], ["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"], ["1998", "DATE"]]
+
+Input:
+"The company will be closed on Dec. 25 and Jan. 1. The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16, 1998."
+
+Output:
+[["Dec. 25", "DATE"], ["Jan. 1", "DATE"], ["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"], ["1998", "DATE"]]
+
+Input:
+"The company has been in business for 25 years and has 10,000 employees. The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16, 1998."
+
+Output:
+[["25 years", "DURATION"], ["10,000", "NUMBER"], ["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"], ["1998", "DATE"]]
+
+Input:
+"The company has been in business for 25 years and has 10,000 employees. The company will be closed on Dec. 25 and Jan. 1. The meeting is scheduled for 2 p.m. on Wednesday, Dec. 16, 1998."
+
+Output:
+[["25 years", "DURATION"], ["10,000", "NUMBER"], ["Dec. 25", "DATE"], ["Jan. 1", "DATE"], ["2 p.m.", "TIME"], ["Wednesday", "DATE"], ["Dec. 16", "DATE"], ["1998", "DATE"]

@@ -1,0 +1,6 @@
+["almost double", "barely a month", "Asian financial crisis", "Asian economic crisis", "daily", "flights between", "leave Bombay", "Monday and Tuesday nights", "Thursday from August 6", "nearly 700 seats a week", "extra support", "growing tourism market", "Qantas' India manager", "Khursheed Lam", "Australian Tourist Commission", "greater awareness", "Bombay-based public relations consultant"]
+
+Note:
+* Time expressions are highlighted in bold.
+* The list includes all time expressions found in the given text.
+* The time expressions are represented as JSON-parseable strings.

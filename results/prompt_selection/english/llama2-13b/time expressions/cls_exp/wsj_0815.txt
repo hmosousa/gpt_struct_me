@@ -1,0 +1,39 @@
+[["Di Giorgio Corp.", "ORGANIZATION"], ["Robert Mellor", "PERSON"], ["DIG Acquisition Corp.", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government is considering a plan to sell 100 million shares of its remaining stake in Citicorp, the nation's largest bank, to raise money for the federal budget deficit, according to a published report.
+The New York Times, citing unnamed sources, said the Treasury Department is considering selling the shares in a public offering.
+The government currently owns 100 million shares of Citicorp, or 10 percent of the company. The government acquired the shares in 1991 as part of a $7.6 billion bailout of the bank.
+The government has been selling off its stake in Citicorp since 1994. The government sold 25 million shares in 1994, 25 million shares in 1995 and 25 million shares in 1996.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The Times said the government is considering selling the remaining 100 million shares in a public offering, rather than in a private sale to a single buyer.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million shares in 1997.
+The government is considering the public offering because it would raise more money for the federal budget deficit, the Times said.
+The government is also considering selling the remaining 25 million shares in a public offering, the Times said.
+The government has said it plans to sell the remaining 25 million

@@ -1,0 +1,22 @@
+[["June 30, 1990", "DATE"], ["$1.65", "NUMBER"], ["fiscal 1989", "DATE"], ["$155 million", "NUMBER"], ["fiscal 1989", "DATE"], ["$7.8 million", "NUMBER"], ["$1.65", "NUMBER"], ["yesterday", "DATE"]]
+
+Note:
+The classes are not mutually exclusive, and the same entity can be classified under multiple classes.
+
+Note:
+The input and output are case-sensitive.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The input date format is flexible, and can be in the format of "month day, year", "month, year", or "day month year".
+
+Note:
+The input time format is flexible, and can be in the format of "time", "hours:minutes", or "hours:minutes:seconds".
+
+Note:
+The input duration format is flexible, and can be in the format of "X hours", "X minutes", "X seconds", "X days", "X weeks", "X months", or "X years".
+
+Note:
+The input set format is flexible, and can be in the format of "daily", "weekly", "monthly", or "yearly".

@@ -1,0 +1,3 @@
+[["um juiz de instrução", "Per"], ["a prisão preventiva", "Other"], ["um homem", "Per"], ["a mulher", "Per"], ["o Ministério Público", "Org"], ["Penafiel", "Loc"], ["a Polícia Judiciária", "Org"], ["o MP", "Org"], ["a vítima", "Per"], ["a instituição de acolhimento", "Fac"], ["o arguido", "Per"], ["a exploração sexual", "Other"], ["a prática", "Other"], ["a comarca de Porto-Este", "Loc"], ["Penafiel", "Loc"]]
+
+Please note that the input text is in Portuguese.

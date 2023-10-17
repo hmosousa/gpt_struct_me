@@ -1,0 +1,9 @@
+[
+"13:00",
+"20 anos"
+]
+
+Explanation:
+
+* "13:00" is a time expression indicating 13:00 hours.
+* "20 anos" is a time expression indicating 20 years old.

@@ -1,0 +1,28 @@
+["National", "said", "expects", "charge", "million", "related", "sale", "aluminum", "unit's", "extrusion", "division", "agreed", "sell", "closely", "based", "Greenville", "offset", "after-tax", "gain", "pact", "rolling", "year-ago", "earned", "including", "sale", "steel", "tube", "revenue", "also", "explore", "sale", "stake", "smelter", "Hawesville", "subject", "audit", "adjustments", "closing", "payments", "proceeds", "building", "construction", "fiscal", "sales", "operating", "loss"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the state of New York over the collapse of the WorldCom telecommunications company, the Justice Department said on Thursday.
+The settlement, which is subject to court approval, is the largest ever in a securities class action lawsuit, the Justice Department said.
+The lawsuit was brought by New York Attorney General Eliot Spitzer, who accused WorldCom of fraudulently inflating its earnings by $9 billion.
+The company, which filed for bankruptcy protection in July 2002, was renamed MCI Inc. after it was acquired by Verizon Communications Inc.
+The settlement will be paid by Verizon, which acquired MCI in 2006, the Justice Department said.
+The settlement is the latest in a series of lawsuits brought by state attorneys general against companies accused of accounting fraud.
+The Justice Department said the settlement will resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve claims brought by the state of New Jersey, the city of Newark, N.J., and the state of Pennsylvania, the Justice Department said.
+The settlement will also resolve claims brought by the state of New York, the city of New York, the state of Connecticut, the city of Hartford, Conn., and the state of Illinois.
+The settlement will also resolve

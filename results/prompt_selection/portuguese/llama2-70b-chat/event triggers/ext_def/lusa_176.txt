@@ -1,0 +1,22 @@
+[
+"Homem morre",
+"ciclomotor é colhido por veículo ligeiro",
+"homem morre",
+"óbito é declarado",
+"corpo é encaminhado para Medicina legal",
+"alerta é dado",
+"bombeiros e veículos são mobilizados",
+"VMER é mobilizada",
+"PSP é mobilizada"
+]
+
+Note:
+Please note that the input text is in Portuguese.
+
+This task is a good example of a typical NLP task, where the goal is to extract specific information from a text. In this case, we want to extract all the event triggers, which are the keywords or phrases that indicate an event has occurred or is happening.
+
+The output should be a list of strings, where each string represents an event trigger. The event triggers can be simple words or phrases, and they can be in different forms, such as verb tenses, singular or plural forms, etc.
+
+The input text is in Portuguese, but the task is not specific to any language, and the solution should be able to handle texts indifferent languages.
+
+The expected output for this task is a list of event triggers, which can be used as input for other NLP tasks, such as event extraction, sentiment analysis, or text summarization.

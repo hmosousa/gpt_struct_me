@@ -1,0 +1,8 @@
+[["um homem", "Per"], ["39 anos", "Other"], ["Penafiel", "Loc"], ["um homem", "Per"], ["suspeito", "Per"], ["violência física", "Other"], ["injúrias", "Other"], ["ameaças de morte", "Other"], ["ex-companheira", "Per"], ["42 anos", "Other"], ["GNR", "Org"], ["comunicado", "Other"], ["a autoridade policial", "Org"], ["o suspeito", "Per"], ["não aceitou", "Other"], ["a separação", "Other"], ["começou a perseguir", "Other"], ["a vítima", "Per"], ["na sua residência", "Loc"], ["no local de trabalho", "Loc"], ["a mulher", "Per"], ["já usava", "Other"], ["um botão de pânico", "Other"], ["lhe havia sido aplicado", "Other"], ["por medida de proteção", "Other"], ["teleassistência", "Other"], ["o homem", "Per"], ["antecedentes criminais", "Other"], ["ilícitos", "Other"], ["da mesma natureza", "Other"], ["ficou", "Other"], ["proibido de contactar", "Other"]]
+
+Note:
+The task is to extract and classify all participants in the text. Participants can be people, organizations, objects, locations, natures, facilities, or other entities. The classification must be done according to the provided classes.
+
+The input text is in Portuguese.
+
+The output must be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

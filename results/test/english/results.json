@@ -1,0 +1,236 @@
+[
+    {
+        "model": "llama2-7b",
+        "template": "cls_def_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.01643835616438356,
+            "precision": 0.023591087811271297,
+            "f1": 0.019375672766415497
+        },
+        "relaxed": {
+            "f1": 0.02101184623807935
+        }
+    },
+    {
+        "model": "llama2-7b",
+        "template": "cls",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.013116383641258987
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3552511415525114,
+            "precision": 0.420995670995671,
+            "f1": 0.3853392768697375
+        },
+        "relaxed": {
+            "f1": 0.6436729477786116
+        }
+    },
+    {
+        "model": "gpt3",
+        "template": "cls_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.06179898834396305,
+            "precision": 0.06892322786362522,
+            "f1": 0.0651669758812616
+        },
+        "relaxed": {
+            "f1": 0.17878260870599325
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3095890410958904,
+            "precision": 0.3065099457504521,
+            "f1": 0.30804179918218993
+        },
+        "relaxed": {
+            "f1": 0.46708719057624726
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.02573125137453266,
+            "precision": 0.09133489461358314,
+            "f1": 0.040150995195607414
+        },
+        "relaxed": {
+            "f1": 0.27148903395243484
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "ext",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.37534246575342467,
+            "precision": 0.34193011647254573,
+            "f1": 0.3578580757509795
+        },
+        "relaxed": {
+            "f1": 0.5527463138779475
+        }
+    },
+    {
+        "model": "llama2-70b-chat",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.1491093028370354,
+            "precision": 0.17371252882398155,
+            "f1": 0.1604733727810651
+        },
+        "relaxed": {
+            "f1": 0.1423726525651823
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.1872146118721461,
+            "precision": 0.10945008008542445,
+            "f1": 0.13814016172506738
+        },
+        "relaxed": {
+            "f1": 0.2365997533643322
+        }
+    },
+    {
+        "model": "llama2-7b-chat",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.07807345502529141,
+            "precision": 0.1513859275053305,
+            "f1": 0.10301799187463725
+        },
+        "relaxed": {
+            "f1": 0.24910602827775824
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.37168949771689497,
+            "precision": 0.5590659340659341,
+            "f1": 0.44651673066374103
+        },
+        "relaxed": {
+            "f1": 0.7039272512124142
+        }
+    },
+    {
+        "model": "chatgpt",
+        "template": "cls_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.39124697602815045,
+            "precision": 0.7938420348058902,
+            "f1": 0.5241602828520919
+        },
+        "relaxed": {
+            "f1": 0.7208836698447961
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.0136986301369863,
+            "precision": 0.03978779840848806,
+            "f1": 0.020380434782608692
+        },
+        "relaxed": {
+            "f1": 0.057130663480815684
+        }
+    },
+    {
+        "model": "llama2-13b",
+        "template": "ext_def",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.0200131955135254,
+            "precision": 0.11403508771929824,
+            "f1": 0.034050514499532274
+        },
+        "relaxed": {
+            "f1": 0.13006480395774345
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.1917808219178082,
+            "precision": 0.18041237113402062,
+            "f1": 0.18592297476759626
+        },
+        "relaxed": {
+            "f1": 0.4507183883241073
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_def_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.25357378491312954,
+            "precision": 0.3201888364343238,
+            "f1": 0.283014236622484
+        },
+        "relaxed": {
+            "f1": 0.26251261092336586
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.5780821917808219,
+            "precision": 0.5834101382488479,
+            "f1": 0.5807339449541284
+        },
+        "relaxed": {
+            "f1": 0.7719928662408883
+        }
+    },
+    {
+        "model": "gpt4",
+        "template": "cls_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6281064438091049,
+            "precision": 0.8331388564760793,
+            "f1": 0.7162382445141066
+        },
+        "relaxed": {
+            "f1": 0.8194963231231536
+        }
+    }
+]

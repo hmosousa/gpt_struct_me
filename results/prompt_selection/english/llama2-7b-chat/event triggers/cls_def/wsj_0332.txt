@@ -1,0 +1,104 @@
+[
+{
+"Orkem S.A.",
+"State"
+},
+{
+"Coates Brothers PLC",
+"Company"
+},
+{
+"Orkem Coatings U.K. Ltd",
+"Subsidiary"
+},
+{
+"U.K.",
+"Country"
+},
+{
+"France",
+"Country"
+},
+{
+"Orkem",
+"Company"
+},
+{
+"Coates Brothers PLC",
+"Company"
+},
+{
+"Merger",
+"Event"
+},
+{
+"Acquisition",
+"Event"
+},
+{
+"Restructuring",
+"Event"
+},
+{
+"Public share offering",
+"Event"
+}
+]
+
+Expected output:
+[
+{
+"Orkem S.A.",
+"State",
+"Company"
+},
+{
+"Coates Brothers PLC",
+"Company",
+"Country"
+},
+{
+"Orkem Coatings U.K. Ltd",
+"Subsidiary",
+"Country"
+},
+{
+"U.K.",
+"Country",
+"Company"
+},
+{
+"France",
+"Country",
+"Company"
+},
+{
+"Orkem",
+"Company",
+"Event"
+},
+{
+"Coates Brothers PLC",
+"Company",
+"Event"
+},
+{
+"Merger",
+"Event"
+},
+{
+"Acquisition",
+"Event"
+},
+{
+"Restructuring",
+"Event"
+},
+{
+"Public share offering",
+"Event"
+}
+]
+
+Note:
+The output is a list of JSON-parseable objects, where each object represents an event trigger, and the keys are the entity and the class of the event trigger.

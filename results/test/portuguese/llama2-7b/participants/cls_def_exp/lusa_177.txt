@@ -1,0 +1,16 @@
+[["Um homem com cerca de 50 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["em Milhazes", "Loc"], ["no concelho de Barcelos", "Loc"], ["ataingido", "Per"], ["por uma árvore", "Obj"], ["de grande porte", "Obj"], ["diz fonte", "Org"], ["do Comando Distrital", "Org"], ["de Operações", "Org"], ["de Socorro", "Org"], ["de Braga", "Loc"], ["Segundo", "Per"], ["as primeiras", "Per"], ["informações", "Per"], ["apontam", "Per"], ["para um acidente", "Per"], ["de trabalho", "Per"], ["o homem", "Per"], ["estaria", "Per"], ["a cortar", "Per"], ["a árvore", "Obj"], ["e terá", "Per"], ["a mesma", "Per"], ["o alerta", "Per"], ["foi dado", "Per"], ["pelas", "Per"], ["11:50", "Per"], ["mobilizados", "Per"], ["para o local", "Per"], ["os Bombeiros", "Org"], ["Voluntários", "Org"], ["de Barcelinhos", "Org"], ["e uma", "Per"], ["viatura médica", "Obj"], ["de emergência", "Per"], ["e reanimação", "Per"], ["o óbito", "Per"], ["foi declarado", "Per"], ["no local", "Per"], ["A GNR", "Org"], ["tomou conta", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morre atingido por árvore de grande porte em Barcelos
+Um homem com cerca de 50 anos morreu hoje em Milhazes, no concelho de Barcelos, atingido por uma árvore de grande porte, disse fonte do Comando Distrital de Operações de Socorro de Braga.
+Segundo a fonte, ainda não estão apuradas as circunstâncias do acidente, mas as primeiras informações apontam para um acidente de trabalho.
+“Segundo as primeiras informações, o homem estaria a cortar a árvore e terá sido atingido pela mesma”, referiu.
+O alerta foi dado pelas 11:50, tendo sido mobilizados para o local os Bombeiros Voluntários de Barcelinhos e uma viatura médica de emergência e reanimação.
+O óbito foi declarado no local.
+A GNR tomou conta da ocorrência."
+
+Output:
+[["Um homem com cerca de 50 anos", "Per"], ["morreu", "Per"], ["hoje", "Per"], ["em Milhazes", "Loc"], ["no concelho de Barcelos", "Loc"], ["ataingido", "Per"], ["por uma árvore", "Obj"], ["de grande porte", "Obj"], ["diz fonte", "Org"], ["do Comando Distrital", "Org"], ["de Operações", "Org"], ["de Socorro", "Org"], ["de Braga", "Loc"], ["Segundo", "Per"], ["as primeiras", "Per"], ["informações", "Per"], ["apontam", "Per"], ["para um acidente", "Per"], ["de trabalho", "Per"], ["o homem", "Per"], ["estaria", "Per"], ["a cortar", "Per"], ["a árvore", "Obj"], ["e terá", "Per"], ["a mesma", "Per"], ["o alerta", "Per"], ["foi dado", "Per"], ["pelas", "Per"], ["11:50", "Per"], ["mobilizados", "Per"], ["para o local", "Per"], ["os Bombeiros", "Org"], ["Voluntários", "Org"], ["de Barcelinhos", "Org"], ["e uma", "Per"], ["viatura médica", "Obj"], ["de emergência", "Per"], ["e reanimação", "Per"],

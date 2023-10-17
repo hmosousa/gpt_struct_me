@@ -1,0 +1,7 @@
+[
+"oito pessoas",
+"20 anos",
+"hoje",
+"quatro pessoas",
+"2019"
+]

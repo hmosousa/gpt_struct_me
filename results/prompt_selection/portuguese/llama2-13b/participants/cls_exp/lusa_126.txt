@@ -1,0 +1,15 @@
+[["GNR", "Org"], ["detém", "Verb"], ["dois homens", "Per"], ["tráfico de droga", "Verb"], ["em Sines", "Loc"], ["A GNR", "Org"], ["deteve", "Verb"], ["dois homens", "Per"], ["com idades", "Other"], ["entre os 34 e os 43 anos", "Other"], ["por tráfico de droga", "Verb"], ["em Sines", "Loc"], ["no distrito de Setúbal", "Loc"], ["tendo apreendido", "Verb"], ["1.673 doses de estupefacientes", "Obj"], ["divulgou", "Verb"], ["hoje", "Other"], ["aquela força de segurança", "Org"], ["Em comunicado", "Other"], ["a Guarda Nacional Republicana (GNR)", "Org"], ["indicou", "Verb"], ["que a detenção", "Other"], ["dos dois suspeitos", "Other"], ["foi efetuada", "Verb"], ["no sábado", "Other"], ["no decorrer", "Other"], ["de uma ação de patrulhamento", "Other"], ["num local já referenciado", "Other"], ["por tráfico de estupefacientes", "Verb"], ["no concelho de Sines", "Loc"], ["“Após verificarem", "Other"], ["movimentações suspeitas", "Other"], ["em local já referenciado", "Other"], ["por tráfico de estupefacientes", "Verb"], ["os militares", "Other"], ["detiveram", "Verb"], ["os dois suspeitos", "Other"], ["quando estes", "Other"], ["se preparavam", "Other"], ["para efetuar", "Other"], ["uma transação", "Other"], ["Na operação", "Other"], ["foram apreendidas", "Verb"], ["1.570 doses de heroína", "Obj"], ["103 doses de cocaína", "Obj"], ["844 euros", "Obj"], ["em numerário", "Other"], ["um veículo", "Obj"], ["e quatro telemóveis", "Obj"], ["Os detidos", "Other"], ["vão ser presentes", "Other"], ["ao Tribunal Judicial", "Org"], ["de Santiago do Cacém", "Loc"], ["para primeiro interrogatório judicial", "Other"], ["e aplicação", "Other"], ["de eventuais medidas de coação", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de segurança do aeroporto de Lisboa detêm um homem por tráfico de drogas
+Autoridades de segurança do aeroporto de Lisboa detiveram um homem por tráfico de drogas, no aeroporto de Lisboa, no distrito de Lisboa, tendo apreendido 1.673 doses de estupefacientes, divulgou hoje aquela força de segurança.
+Em comunicado, a Guarda Nacional Republicana (GNR) indicou que a detenção do homem foi efetuada no sábado, no decorrer de uma ação de patrulhamento num local já referenciado por tráfico de estupefacientes, no concelho de Sines.
+“Após verificarem movimentações suspeitas, em local já referenciado por tráfico de estupefacientes, os militares detiveram o homem quando este se preparava para efetuar uma transação”, avançou o comando territorial de Setúbal da GNR.
+Na operação foram apreendidas 1.570 doses de heroína, 103 doses de cocaína, 844 euros em numerário, um veículo e quatro telemóveis.
+Os detidos vão ser presentes ao Tribunal Judicial de Santiago do Cacém para primeiro interrogatório judicial e aplicação de eventuais medidas de coação."
+
+Output:
+[["Autoridades de

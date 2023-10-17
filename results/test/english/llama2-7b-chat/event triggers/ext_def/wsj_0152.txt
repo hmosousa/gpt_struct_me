@@ -1,0 +1,9 @@
+[
+"extended", "offer", "until", "5 p.m.", "EST", "Nov. 9",
+"set", "to", "expire", "Nov. 6",
+"tendered", "under", "its", "offer",
+"rejected", "as", "inadequate",
+"closed", "at", "19.50", "up", "12.5",
+"provides", "electronic", "financial", "information", "network",
+"publishes", "The", "Wall", "Street", "Journal", "Barron's", "magazine", "and", "community", "newspapers", "operates", "financial", "news", "services", "and", "computer", "data", "bases"
+]

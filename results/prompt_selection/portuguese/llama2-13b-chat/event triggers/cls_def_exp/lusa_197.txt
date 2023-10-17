@@ -1,0 +1,4 @@
+[["derrubou", "I_Action"], ["poste de iluminação", "Occurrence"], ["matou", "Occurrence"], ["homem de 52 anos", "Occurrence"], ["morreu", "Occurrence"], ["acidente", "Occurrence"], ["camião", "Entity"], ["ferimentos ligeiros", "Occurrence"], ["bombas de gasolina", "Entity"], ["sofreu", "Occurrence"], ["acidente", "Occurrence"], ["circulava", "State"], ["hospital de santo antónio", "Entity"], ["atingiu", "I_Action"], ["vítima", "Occurrence"], ["morreu", "Occurrence"], ["transportada", "I_Action"], ["estructura", "Entity"], ["sobre", "Aspectual"], ["07:50", "Aspectual"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

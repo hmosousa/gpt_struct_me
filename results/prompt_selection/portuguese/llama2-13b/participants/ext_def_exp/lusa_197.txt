@@ -1,0 +1,20 @@
+["Grua de camião", "derrubou", "poste de iluminação", "no Porto", "matou", "homem de 52 anos", "Um homem", "52 anos", "morreu", "hoje", "e um outro", "sofreu", "ferimentos ligeiros", "na sequência", "de um acidente", "com um camião", "que", "derrubou", "um poste de eletricidade", "na Rua da Constituição", "no Porto", "diz", "à Lusa", "fonte", "da PSP", "De acordo", "com a fonte", "das Relações Públicas", "do Comando Metropolitano", "da PSP", "do Porto", "o poste de iluminação", "foi", "derrubado", "pela grua", "do camião", "atingindo", "o homem", "que", "circulava", "na rua", "A vítima", "foi", "transportada", "com vida", "para o Hospital", "de Santo António", "mas", "acabou", "por morrer", "A estrutura", "atingiu", "e", "um funcionário", "de", "umas bombas", "de gasolina", "que", "sofreu", "ferimentos ligeiros", "O acidente", "ocorreu", "cerca das 07:50"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque dizem que o ataque terrorista foi planejado
+Autoridades de Nova Iorque dizem que o ataque terrorista que matou 8 pessoas e feriu outras 11 na cidade de Nova Iorque foi planejado.
+O ataque foi perpetrado por um homem de 29 anos que conduzia um caminhão que atingiu uma multidão de pessoas no bairro de Tribeca, no sul de Manhattan.
+O homem foi abatido pelas autoridades.
+O ataque ocorreu na tarde de 31 de outubro, dia de ação de graças, e foi o mais sanguinário ataque terrorista na cidade desde os ataques de 11 de setembro de 2001.
+O ataque foi perpetrado por um homem de 29 anos que conduzia um caminhão que atingiu uma multidão de pessoas no bairro de Tribeca, no sul de Manhattan.
+O homem foi abatido pelas autoridades.
+O ataque ocorreu na tarde de 31 de outubro, dia de ação de graças, e foi o mais sanguinário ataque terrorista na cidade desde os ataques de 11 de setembro de 2001.
+O ataque foi perpetrado por um homem de 29 anos que conduzia um caminhão que atingiu uma multidão de pessoas no bairro de Tribeca, no sul de Manhattan.
+O homem foi abatido pelas autoridades.
+O ataque ocorreu na tarde de 31 de outubro, dia de ação de graças, e foi o mais sanguinário ataque terrorista na cidade desde os ataques de 11 de setembro de 2001."
+
+Output:
+["Autoridades", "de Nova Iorque", "dizem", "que", "o ataque", "terrorista", "foi", "planejado", "O ataque", "perpetrado", "por um homem", "de 29 anos", "que", "conduzia", "um caminhão", "que", "atingiu", "uma multidão", "de pessoas", "no bairro", "de Tribeca", "no sul", "de Manhattan", "O homem", "foi", "abatido", "pelas autoridades", "O ataque", "ocorreu", "na tarde", "de 31 de outubro", "dia", "de ação", "de graças", "e", "foi", "o mais", "sanguinário", "ataque", "terrorista", "na cidade", "

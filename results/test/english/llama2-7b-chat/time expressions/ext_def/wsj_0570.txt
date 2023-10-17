@@ -1,0 +1,4 @@
+[
+"in the past", "may seek control", "through a merger or tender offer", "continue to evaluate", "an acquisition from time to time", "officials didn't return", "in the filing", "including 254,200 bought", "from Sept. 14 to Thursday", "for $15.50 to $16.75 each", "leaped $2", "to $18.375 each", "while Crane sank", "to $21.125 a share", "no comment", "in May", "threw in the towel", "in early September", "raising its stake", "holds 14.6%", "hasn't made", "earlier this month", "sign a letter of intent", "pay an initial", "additional payments", "during the next four years", "based on the earnings", "the businesses", "in the nine months", "earned $6.6 million", "or $1.18 a share", "on sales of $94.3 million"]
+Note:
+The output is a list of time expressions in the format of JSON-parseable strings. Each string represents a single time expression and can be directly used in a JSON object or passed to a JSON parser for further processing.

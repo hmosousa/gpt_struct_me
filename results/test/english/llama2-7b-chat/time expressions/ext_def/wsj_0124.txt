@@ -1,0 +1,12 @@
+[
+"effect",
+"takes",
+"March",
+"health",
+"succeeds",
+"chairman",
+"September",
+"yesterday",
+"25",
+"cents"
+]

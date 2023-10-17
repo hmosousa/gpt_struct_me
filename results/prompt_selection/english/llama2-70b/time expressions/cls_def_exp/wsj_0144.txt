@@ -1,0 +1,1 @@
+[["third-quarter", "DATE"], ["Hugo", "NAME"], ["$40 million", "MONEY"], ["$3 billion", "MONEY"], ["$3.2 billion", "MONEY"], ["fourth-quarter", "DATE"], ["less than $10 million", "MONEY"], ["$7.2 million", "MONEY"], ["$6.1 million", "MONEY"], ["$24 million", "MONEY"], ["$3 million", "MONEY"], ["$195 million", "MONEY"], ["$415 million", "MONEY"]]

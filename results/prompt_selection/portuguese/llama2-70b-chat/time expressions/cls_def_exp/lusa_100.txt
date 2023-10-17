@@ -1,0 +1,154 @@
+[["39 anos", "Time"], ["42 anos", "Time"], ["hoje", "Date"], ["comunicado", "Time"], ["separação", "Time"], ["pânico", "Time"], ["teleassistência", "Time"], ["mesma natureza", "Time"], ["proibido", "Time"]]
+
+Note:
+The input text can be in any language.
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The classes are: Date, Time, Duration, and Set.
+
+Note:
+The input text can contain other types of entities, such as names, locations, and organizations.
+
+Note:
+The task is to extract and classify all time expressions.
+
+Note:
+The output should be in the format of a JSON-parseable list.
+
+Note:
+The input text can be in any language.
+
+Note:
+The task is

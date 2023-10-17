@@ -1,0 +1,30 @@
+["atropelamento", "morrer", "óbito", "declared", "acidente", "manobra", "marcha-atrás", "carinha"]
+
+Note:
+- "morrer" and "óbito" are the same event, but with different words to refer to the same concept.
+- "declared" is not an event, but a statement about the event "óbito".
+- "acidente" and "manobra" are not events, but descriptions of the context in which the event "atropelamento" occurred.
+
+Please help me with this task.
+
+Thank you.
+
+I've tried to use the following code, but it doesn't work:
+
+import re
+
+text = "Homem de 84 anos morre após atropelamento em Santa Marta de Penaguião"
+
+events = re.findall(r"(\w+)", text)
+
+print(events)
+
+It returns the following output:
+
+['Homem', 'de', '84', 'anos', 'morre', 'pós', 'atropelamento', 'em', 'Santa', 'Marta', 'de', 'Penaguião']
+
+I'm not sure why it's not working.
+
+Please help me.
+
+Thank you.

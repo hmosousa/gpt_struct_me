@@ -1,0 +1,19 @@
+[
+["Homem", "State"],
+["Prisão preventiva", "Occurrence"],
+["Ministério Público", "Reporting"],
+["Mulher", "Perception"],
+["Vítima", "Aspectual"],
+["Arguido", "Intensional Action"],
+["Prostituição", "Intensional State"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to the man's current situation of being arrested and taken to court.
+* "Prisão preventiva" is classified as "Occurrence" because it refers to the event of the man being arrested and taken into custody.
+* "Ministério Público" is classified as "Reporting" because it refers to the institution that is reporting the crime.
+* "Mulher" is classified as "Perception" because it refers to the woman's experience of being forced into prostitution.
+* "Vítima" is classified as "Aspectual" because it refers to the woman's status as a victim of a crime.
+*"Arguido" is classified as "Intensional Action" because it refers to the man's intentional actions of forcing the woman into prostitution.
+* "Prostituição" is classified as "Intensional State" because it refers to the state of being involved in prostitution, which is the result of the man's intentional actions.

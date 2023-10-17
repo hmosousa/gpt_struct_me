@@ -1,0 +1,14 @@
+[
+"segunda-feira",
+"12:00 locais",
+"13:00 em Lisboa",
+"domingo"
+]
+
+Explanation:
+
+* "segunda-feira" is a time expression indicating the day of the week.
+* "12:00 locais" and "13:00 em Lisboa" are time expressions indicating the time of day, with "locais" and "em Lisboa" indicating the time zone.
+* "domingo" is not a time expression, but a day of the week.
+
+Note: The input text is in Portuguese, and the output is in English.

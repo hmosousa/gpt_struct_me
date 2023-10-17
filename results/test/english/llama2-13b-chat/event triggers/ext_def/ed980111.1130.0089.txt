@@ -1,0 +1,12 @@
+["the lights are out", "the heat is off", "vital signs are not likely to change much", "a powerful ice storm continues to maintain its grip", "New York governor George Pataki toured five counties", "helicopters are flying over northern New York", "people stranded without food, heat or medicine", "about a half million people still don't have power"]
+
+Explanation:
+
+* "the lights are out" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.
+* "the heat is off" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.
+* "vital signs are not likely to change much" is not an event trigger because it is a statement about the future and not a current state of affairs.
+* "a powerful ice storm continues to maintain its grip" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.
+* "New York governor George Pataki toured five counties" is not an event trigger because it is a statement about the past and not a current state of affairs.
+* "helicopters are flying over northern New York" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.
+* "people stranded without food, heat or medicine" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.
+* "about a half million people still don't have power" is an event trigger because it refers to a current state of affairs that is likely to have an impact on the plot or characters.

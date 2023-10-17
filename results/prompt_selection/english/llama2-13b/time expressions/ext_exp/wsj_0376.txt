@@ -1,0 +1,21 @@
+["Courtaulds PLC announced plans to spin off its textiles operations to existing shareholders in a restructuring to boost shareholder value.
+The British chemical and textile company's plan, which requires shareholder approval, would create a new, listed U.K. stock with a probable market capitalization between #300 million ($473 million) and #400 million, analysts said. The establishment of the separate company, to be called Courtaulds Textiles, could be effective as early as next year's first quarter.
+Investors welcomed the move. Courtaulds' shares rose 15 pence to 362 pence, valuing the entire company at about #1.44 billion.
+Courtaulds' spinoff reflects pressure on British industry to boost share prices beyond the reach of corporate raiders. Courtaulds' restructuring is among the largest thus far in Britain, though it is dwarfed by B.A.T Industries PLC's plans to spin roughly off #4 billion in assets to help fend off a takeover bid from Anglo-French financier Sir James Goldsmith. The divested Courtaulds textile operations had operating profit of #50 million on #980 million in revenue in the year ended March 31.
+Some analysts have said Courtaulds' moves could boost the company's value by 5% to 10%, because the two entities separately will carry a higher price earnings multiple than they did combined. In addition, Courtaulds said the moves are logical because they will allow both the chemicals and textile businesses to focus more closely on core activities.
+Courtaulds has been under pressure to enhance shareholder value since takeover speculators -- including Australian financier Kerry Packer -- surfaced holding small stakes last year. Though Mr. Packer has since sold his stake, Courtaulds is moving to keep its institutional shareholders happy. Even without a specific takeover threat, Courtaulds is giving shareholders "choice and value," said Julia Blake, an analyst at London stockbrokers Barclays de Zoete Wedd.
+In a statement, the company said: "Both parts can only realize their full potential and be appropriately valued by the market if they are separately quoted companies. The sharper definition and the autonomy which each will thereby gain will benefit shareholders, customers and employees."
+Courtaulds Chairman and Chief Executive Sir Christopher Hogg will remain in both posts at the surviving chemical company after the spinoff.""]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"The U.S. government is considering a plan to sell off its 100 million shares of Citicorp stock, a move that would raise about $1.5 billion for the Treasury Department.
+The Treasury Department is considering selling the stock in a public offering, according to a person familiar with the matter. The stock is currently worth about $15 a share.
+The Treasury Department bought the stock in 1991 as part of a $3 billion bailout of Citicorp, which was then the nation's largest bank. The bailout was arranged by the Federal Deposit Insurance Corp. and the Resolution Trust Corp., which were created to clean up the savings and loan industry.
+The Treasury Department has been selling off its Citicorp stock in small blocks over the past few years. The department has sold 20 million shares of Citicorp stock since 1994, raising about $300 million.
+The Treasury Department is also considering selling its 100 million shares of BankAmerica Corp. stock, which is currently worth about $30 a share. The department bought the stock in 1991 as part of a $1.5 billion bailout of BankAmerica.
+The Treasury Department has sold about 20 million shares of BankAmerica stock since 1994, raising about $600 million.
+The Treasury Department is also considering selling its 100 million shares of Chase Manhattan Corp. stock, which is currently worth about $30 a share. The department bought the stock in 1991 as part of a $1.5 billion bailout of Chase Manhattan.
+The Treasury Department has sold about 20

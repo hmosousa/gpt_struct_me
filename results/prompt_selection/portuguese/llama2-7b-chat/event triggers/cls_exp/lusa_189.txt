@@ -1,0 +1,9 @@
+[["morto", "I_State"], ["atirador", "I_Action"], ["em fuga", "Occurrence"], ["incident", "Occurrence"], ["adiante", "Aspectual"], ["circunstâncias", "Occurrence"], ["tiroteio", "Occurrence"], ["polícia judiciária", "State"], ["investigação", "Reporting"], ["caso", "State"]]
+
+
+Note:
+
+* The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+* The input is a news article with events triggered by the action of a person being shot and killed.
+* The classes are: State (occurrences related to the state of the person), Occurrence (events triggered by the action), Action (the action of being shot), and Reporting (the act of investigating the incident).
+* The output list includes the entities and their corresponding classes.

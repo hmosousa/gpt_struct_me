@@ -1,1 +1,0 @@
-[["Autoridade Marítima", "Organization"], ["Comando-Local da Polícia Marítima de Angra do Heroísmo", "Organization"], ["Polícia de Segurança Pública (PSP)", "Organization"], ["Polícia Marítima de Angra do Heroísmo", "Organization"], ["Bombeiros Voluntários da Praia da Vitória", "Organization"], ["Hospital de Angra do Heroísmo", "Facility"]]

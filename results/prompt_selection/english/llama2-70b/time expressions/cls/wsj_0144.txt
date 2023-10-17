@@ -1,0 +1,33 @@
+["Travelers Corp.", "Set"], ["third-quarter", "Date"], ["Hugo", "Time"], ["$40 million", "Duration"], ["$94.2 million", "Duration"], ["$3 billion", "Duration"], ["California earthquake", "Time"], ["$10 million", "Duration"], ["commercial property/casualty lines", "Set"], ["personal property/casualty business", "Set"], ["group health insurance operations", "Set"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from collections import Counter
+
+def get_stoplist():
+   """Returns list of stop words from NLTK corpus"""
+   return set(stopwords.words('english'))
+
+def stem_tokens(tokens):
+   """Stems tokens using Porter Stemmer"""
+   stemmed = []
+   for token in tokens:
+       stemmed.append(PorterStemmer().stem(token))
+   return stemmed
+
+def find_timex(text, timex_classes=['DATE', 'TIME', 'DURATION']):
+   """Finds all time expressions in text and classifies them into DATE, TIME or DURATION classes"""
+   # Get stoplist
+   stoplist = get_stoplist()
+   
+   # Tokenize the text
+   tokens = word_tokenize(text)
+   
+   # Tag each token with its part-of-speech tag
+   tags = pos_tag(tokens)
+   
+   # Remove punctuation
+   cleaned_tags = [t[0].lower() for t in tags if t[1] not in ['$', '.', ',', ';', "'", '"', '-', '/', '(', ')', '?', '!', ':', '*', '#', '@', '%', '&', '+', '=', '_', '{', '}', '[', ']', '<', '>', '|', '\\', '^', '`', '~

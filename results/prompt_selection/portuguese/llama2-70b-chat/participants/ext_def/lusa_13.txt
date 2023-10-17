@@ -1,0 +1,6 @@
+[
+"Maximiliano Trimarchi",
+"Diego Maradona",
+"Leopoldo Luque",
+"Agustina Cosachov"
+]

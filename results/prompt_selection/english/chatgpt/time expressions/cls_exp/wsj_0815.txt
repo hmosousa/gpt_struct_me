@@ -1,0 +1,1 @@
+[["no agreement", "SET"], ["$32-a-share", "SET"]]

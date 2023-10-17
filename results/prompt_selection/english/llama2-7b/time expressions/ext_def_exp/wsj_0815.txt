@@ -1,0 +1,73 @@
+["Di Giorgio Corp.", "certain units", "potential buyers", "units", "Rose Partners Limited Partnership", "DIG Acquisition Corp.", "Robert Mellor", "individual units", "accepting DIG's offer"]
+
+Explanation:
+The time expressions are:
+- "nearly two months"
+- "Feb. 23"
+- "next week"
+- "Friday"
+- "Friday"
+- "Thursday"
+- "1990"
+- "10-hour"
+- "daily"
+- "Friday"
+- "03/06/1998 13:19:00"
+- "over a week"
+- "Thursday"
+- "Previously"
+- "Jan. 13"
+- "Thursday"
+
+*/
+
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+	"strings"
+)
+
+func main() {
+	if len(os.Args) < 2 {
+		log.Fatal("Please provide a file path as the first argument")
+	}
+
+	file, err := os.Open(os.Args[1])
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer file.Close()
+
+	lines := strings.Split(file.Name(), ".")
+	if len(lines) != 2 {
+		log.Fatal("Invalid file name")
+	}
+
+	filePath := lines[0]
+	fileExt := lines[1]
+
+	if fileExt != "json" {
+		log.Fatal("Invalid file extension")
+	}
+
+	data, err := os.ReadFile(filePath)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	var result []string
+
+	err = json.Unmarshal(data, &result)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	for _, v := range result {
+		if strings.Contains(v, "time") {
+			fmt.Println(v)
+		}
+	}
+}

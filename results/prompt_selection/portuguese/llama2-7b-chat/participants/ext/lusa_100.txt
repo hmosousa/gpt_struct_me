@@ -1,0 +1,22 @@
+[
+"Violência doméstica",
+"Pulseira eletrónica",
+"Homem detido",
+"Penafiel",
+"Distrito do Porto",
+"Ex-companheira",
+"42 anos",
+"Injúrias",
+"Ameaças de morte",
+"GNR",
+"Suspeito",
+"Separação",
+"Perseguição",
+"Residência",
+"Local de trabalho",
+"Botão de pânico",
+"Teleassistência",
+"Antecedentes criminais",
+"Ilícitos da mesma natureza",
+"Proibido de contactar a vítima"
+]

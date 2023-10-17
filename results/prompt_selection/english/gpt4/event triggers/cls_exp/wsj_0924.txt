@@ -1,0 +1,1 @@
+[["adopted", "OCCURRENCE"], ["took", "OCCURRENCE"], ["pending", "ASPECTUAL"], ["triggered", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["allow", "I_STATE"], ["buy", "OCCURRENCE"], ["receive", "OCCURRENCE"], ["posted", "REPORTING"], ["ended", "ASPECTUAL"], ["had", "STATE"], ["were", "STATE"]]

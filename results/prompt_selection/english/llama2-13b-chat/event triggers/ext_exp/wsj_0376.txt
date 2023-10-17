@@ -1,0 +1,4 @@
+
+JSON-parseable list of strings:
+
+["spin", "shareholder", "approval", "market", "capitalization", "analysts", "effective", "next", "year", "first", "quarter", "investors", "welcomed", "move", "shares", "valuing", "company", "entire", "pressure", "British", "industry", "boost", "share", "prices", "corporate", "raiders", "restructuring", "largest", "B.A.T", "assets", "fend", "off", "takeover", "bid", "Anglo-French", "financier", "Sir", "James", "Goldsmith", "divested", "textile", "operations", "operating", "profit", "revenue", "year", "ended", "March", "31", "analysts", "said", "boost", "value", "core", "activities", "institutional", "shareholders", "happy", "statement", "both", "posts", "surviving", "chemical", "company"]

@@ -1,0 +1,65 @@
+[
+["Ogden Projects Inc.", "State"],
+["net income", "Occurrence"],
+["jumped", "Aspectual"],
+["$6.6 million", "Intensional State"],
+["18 cents a share", "Intensional State"],
+["The Fairfield, N.J., company", "State"],
+["which is 92%-owned by Ogden Corp., New York", "State"],
+["had net of $1.1 million", "Occurrence"],
+["four cents a share", "Intensional State"],
+["a year ago", "Aspectual"],
+["Revenue soared to $101.7 million", "Occurrence"],
+["from $39.5 million", "Intensional State"],
+["Ogden Projects", "State"],
+["whose shares began trading on the New York Stock Exchange in August", "State"],
+["closed yesterday at $26.875", "State"],
+["down 75 cents", "Occurrence"],
+["The stock began trading this summer at $14 apiece", "State"],
+["Ogden Projects", "State"],
+["which has interests in solid-waste recovery and hazardous-waste cleanup", "State"],
+["said it has 13 facilities in operation", "Occurrence"],
+["up from seven a year ago", "Aspectual"],
+["Meanwhile", "Aspectual"],
+["Ogden Corp.", "State"],
+["which also has interests in building maintenance and management", "State"],
+["reported third-quarter net income of $27.1 million", "Occurrence"],
+["or 67 cents a share", "Intensional State"],
+["more than twice the $13.5 million", "Intensional State"],
+["or 34 cents a share", "Intensional State"],
+["a year earlier", "Aspectual"],
+["Revenue rose 33% to $378.1 million", "Occurrence"],
+["from $283.8 million", "Intensional State"]
+]
+
+Explanation:
+
+* "Ogden Projects Inc." is a State entity.
+* "net income" is an Occurrence entity.
+* "jumped" is an Aspectual entity.
+* "$6.6 million" and "18 cents a share" are Intensional State entities.
+* "The Fairfield, N.J., company" is a State entity.
+* "which is 92%-owned by Ogden Corp., New York" is a State entity.
+* "had net of $1.1 million" is an Occurrence entity.
+* "four cents a share" is an Intensional State entity.
+* "a year ago" is an Aspectual entity.
+* "Revenue soared to $101.7 million" is an Occurrence entity.
+* "from $39.5 million" is an Intensional State entity.
+* "Ogden Projects" is a State entity.
+* "whose shares began trading on the New York Stock Exchange in August" is a State entity.
+* "closed yesterday at $26.875" is a State entity.
+* "down 75 cents" is an Occurrence entity.
+* "The stock began trading this summer at $14 apiece" is a State entity.
+* "Ogden Projects" is a State entity.
+* "which has interests in solid-waste recovery and hazardous-waste cleanup" is a State entity.
+* "said it has 13 facilities in operation" is an Occurrence entity.
+* "up from seven a year ago" is an Aspectual entity.
+* "Meanwhile" is an Aspectual entity.
+* "Ogden Corp." is a State entity.
+* "which also has interests in building maintenance and management" is a State entity.
+* "reported third-quarter net income of $27.1 million" is an Occurrence entity.
+* "or 67 cents a share" is an Intensional State entity.
+* "more than twice the $13.5 million" is an Intensional State entity.
+* "or 34 cents a share" is an Intensional State entity.
+* "a year earlier" is an Aspectual entity.
+* "

@@ -1,0 +1,5 @@
+["agressão", "garrafa", "restaurante", "palmela", "cajados", "concelho", "setúbal", "estabelecimento", "vítima", "hospital", "são bernardo", "agressão", "mulher", "fuga", "automóvel", "consumo", "álcool", "via pública", "ferimentos", "ambulância", "bombeiros", "corporação", "águas de moura"]
+
+Explanation:
+The event triggers are the words that are used to describe the event.
+

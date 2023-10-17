@@ -1,0 +1,12 @@
+[["Yang", "I_Action"], ["mortas", "Occurrence"], ["feridas", "Occurrence"], ["pessoas", "Occurrence"], ["ataque", "Occurrence"], ["facão", "Object"], ["nordeste", "Location"], ["China", "Location"], ["suspeito", "I_Person"], ["detido", "I_Action"], ["motivo", "State"], ["ataques", "Occurrence"], ["semelhantes", "Aspectual"], ["doentes mentais", "State"], ["rancor", "State"], ["escola", "Location"], ["segurança", "I_Person"], ["feriu", "I_Action"], ["pessoas", "Occurrence"], ["jardim de infância", "Location"], ["região sul", "Location"], ["Guangxi", "Location"], ["condenado", "I_Action"], ["morte", "State"], ["2018", "Aspectual"], ["homem", "I_Person"], ["matou", "I_Action"], ["pessoa", "Occurrence"], ["feriu", "I_Action"], ["centro comercial", "Location"], ["Pequim", "Location"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Yang") and the second string is the class (e.g. "I_Action"). The classes are:
+
+* I_Action: an action or event that is performed or happens
+* I_Person: a person or individual who performs an action or is involved in an event
+* Occurrence: an event or occurrence that happens or takes place
+* State: a state or condition that exists or holds at a particular time
+* Aspectual: an aspect or feature of an event or state
+* Intensional Action: an action that is performed with a specific goal or intention
+* Intensional State: a state that exists with a specific goal or intention.

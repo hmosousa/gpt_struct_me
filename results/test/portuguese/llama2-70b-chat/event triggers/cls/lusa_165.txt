@@ -1,0 +1,29 @@
+[
+["Homem", "State"],
+["invadiu", "Occurrence"],
+["com um automóvel", "Aspectual"],
+["as instalações do Estádio da Luz", "Location"],
+["durante a tarde de hoje", "Time"],
+["uma viatura dentro", "Intensional Action"],
+["o incidente ocorreu pelas 15:00", "Time"],
+["o condutor acabou por ser detido", "Reporting"],
+["a detenção poderá não estar relacionada com esta infração", "Intensional State"],
+["a notícia foi avançada pela Rádio Renascença", "Perception"],
+["o homem entrou com o automóvel dentro do relvado", "Intensional Action"],
+["a polícia disse que não dispunha de informações que confirmassem até onde chegou o condutor dentro das instalações do estádio do Benfica", "Reporting"]
+]
+
+Note:
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+In this task, you are given a text in Portuguese and you have to extract and classify all event triggers. Event triggers are words or phrases that indicate the occurrence of an event, such as "invadiu" (invaded) or "ocorreu" (occurred). You have to classify each event trigger into one of the following classes:
+
+* State: Indicates a state or a situation. Examples: "Homem" (man), "mulher" (woman), "criança" (child).
+* Occurrence: Indicates an event or an action that is happening or has happened. Examples: "invadiu" (invaded), "ocorreu" (occurred), "será" (will be).
+* Reporting: Indicates a report or a statement about an event or a situation. Examples: "dissed à agência Lusa" (told the Lusa agency), "disse à polícia" (told the police).
+* Perception: Indicates a perception or a sensation. Examples: "viu" (saw), "ouviu" (heard), "sentiu" (felt).
+* Aspectual: Indicates an aspect or a feature of an event or a situation. Examples: "com um automóvel" (with a car), "durante a tarde" (during the afternoon), "peloas 15:00" (at 3:00 pm).
+* Intensional Action: Indicates an action or a movement that is intended or planned. Examples: "irá" (will go), "vamos" (let's go), "entrou" (entered).
+* Intensional State: Indicates a state or a situation that is intended or planned. Examples: "será" (will be), "vamos" (let's go), "está" (is).
+
+Your task is to identify and classify all event triggers in the given text, and output them in the format specified above.

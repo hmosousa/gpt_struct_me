@@ -1,0 +1,26 @@
+[
+{
+"entity": "Homem",
+"class": "Person"
+},
+{
+"entity": "Mulher",
+"class": "Person"
+},
+{
+"entity": "Ministério Público",
+"class": "Organization"
+},
+{
+"entity": "Polícia Judiciária",
+"class": "Organization"
+},
+{
+"entity": "Juiz de Instrução",
+"class": "Person"
+},
+{
+"entity": "Instituição de Acolhimento",
+"class": "Location"
+}
+]

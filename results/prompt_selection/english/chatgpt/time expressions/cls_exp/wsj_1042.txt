@@ -1,0 +1,1 @@
+[["currently", "SET"], ["each of the Class C warrants", "SET"], ["90 days", "DURATION"], ["an additional 243,677", "SET"]]

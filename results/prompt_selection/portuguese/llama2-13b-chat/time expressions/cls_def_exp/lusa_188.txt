@@ -1,0 +1,9 @@
+[["hoje", "Date"], ["17 horas", "Time"], ["Vilarinhos dos Galegos", "Location"], ["Concelho de Mogadouro", "Location"], ["Bragança", "Location"], ["Instituto Nacional e Emergência Médica", "Organization"], ["INEM", "Organization"], ["Macedo de Cavaleiros", "Location"]]
+
+Note:
+- "hoje" is considered a date because it is used to refer to the current day.
+- "17 horas" is considered a time because it is used to refer to a specific time of day.
+- "Vilarinhos dos Galegos" and "Concelho de Mogadouro" are considered locations because they are used to refer to specific geographic locations.
+- "Bragança" is also considered a location because it is used to refer to a specific geographic location.
+- "Instituto Nacional e Emergência Médica" and "INEM" are considered organizations because they are used to refer to specific entities that provide a service or have a specific purpose.
+- "Macedo de Cavaleiros" is considered a location because it is used to refer to a specific geographic location.

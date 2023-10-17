@@ -1,0 +1,5 @@
+	["ferido", "gravidade", "agressão", "garrafa", "restaurante", "Cajados", "Palmela", "Setúbal", "hospital", "São Bernardo", "ficheira", "Comando", "Distrital", "Operações", "Socorro", "ambulância", "mobilizados", "bombeiros", "corporação", "Águas", "Moura"]
+
+
+Note:
+The input text is a news article about an incident where a man was seriously injured after being attacked with a bottle in a restaurant in Palmela, Setúbal. The output is a list of strings that correspond to the keywords and phrases found in the input text.

@@ -1,0 +1,18 @@
+[
+["Homem", "Person"],
+["Regilde", "Location"],
+["Felgueiras", "Location"],
+["Vizela", "Location"],
+["Júlio Pereira", "Person"],
+["VMER", "Organization"],
+["Hospital de Guimarães", "Location"]
+]
+
+Explanation:
+
+* "Homem" is a person.
+* "Regilde" and "Felgueiras" are locations.
+* "Vizela" is a location.
+* "Júlio Pereira" is a person.
+* "VMER" is an organization.
+* "Hospital de Guimarães" is a location.

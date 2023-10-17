@@ -1,0 +1,8 @@
+[["said", "REPORTING"], ["said", "REPORTING"], ["agreed", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["gain", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["including", "OCCURRENCE"], ["explore", "I_ACTION"], ["sale", "OCCURRENCE"], ["subject", "OCCURRENCE"], ["adjustments", "OCCURRENCE"], ["potential", "OCCURRENCE"], ["payments", "OCCURRENCE"], ["depending", "OCCURRENCE"], ["shipping", "OCCURRENCE"], ["levels", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and some triggers may belong to multiple classes.
+
+This task is an extraction task.
+
+Please provide your output in the specified format.

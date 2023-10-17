@@ -1,0 +1,7 @@
+[["Yang", "Perpetrator"], ["Kaiyuan", "Location"], ["Liaoning", "Location"], ["sete", "Number"], ["sete", "Number"], ["39", "Number"], ["junho", "Time"], ["Guangxi", "Location"], ["2018", "Time"], ["Pequim", "Location"]]
+
+Note:
+
+* "Perpetrator" and "Location" are classes, not entities.
+* "Time" is a class, not an entity.
+* The output should be in JSON-parseable list.

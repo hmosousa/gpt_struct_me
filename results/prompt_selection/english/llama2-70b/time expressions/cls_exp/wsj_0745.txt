@@ -1,0 +1,1 @@
+[["$4 billion", "DURATION"], ["Today", "DATE"], ["Ford Motor Co.", "SET"], ["Jaguar PLC", "SET"], ["British Petroleum Co.", "SET"], ["Britoil PLC", "SET"], ["Detroit", "LOCATION"], ["Coventry", "LOCATION"]]

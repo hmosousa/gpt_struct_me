@@ -1,0 +1,1 @@
+["ficou", "em estado grave", "atropelado", "autocarro", "Vila das Aves", "concelho", "Santo Tirso", "assistido", "local", "transportado", "Hospital São João", "Porto", "acidente", "Rua Luís Gonzaga Mendes de Carvalho", "prestar", "assistência", "Viatura", "Emergência", "Reanimação", "Vila Nova de Famalicão", "Ambulância", "Suporte", "Imediato", "Vida", "GNR", "local"]

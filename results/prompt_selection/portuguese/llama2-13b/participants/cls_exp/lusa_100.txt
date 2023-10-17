@@ -1,0 +1,37 @@
+[["Um homem de 39 anos", "Per"], ["foi colocado sob vigilância eletrónica", "Obj"], ["em Penafiel", "Loc"], ["district do Porto", "Loc"], ["suspeito de violência física", "Per"], ["injúrias e ameaças de morte", "Per"], ["à ex-companheira", "Per"], ["de 42 anos", "Per"], ["informou hoje fonte da GNR", "Obj"], ["Em comunicado", "Obj"], ["a autoridade policial", "Org"], ["indicou que o suspeito", "Per"], ["\"não aceitou a separação e começou a perseguir a vítima na sua residência e no local de trabalho\"", "Obj"], ["A mulher", "Per"], ["ja usava um botão de pânico", "Obj"], ["que lhe tinha sido aplicado por medida de proteção por teleassistência", "Obj"], ["O homem", "Per"], ["com antecedentes criminais por ilícitos da mesma natureza", "Per"], ["ficou ainda proibido de contactar a vítima", "Obj"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado

@@ -1,0 +1,50 @@
+[['Corpo', 'State'], ['homem', 'Occurrence'], ['mar', 'Reporting'], ['Lagoa', 'Perception'], ['Algarve', 'Aspectual'], ['praia', 'Intensional Action'], ['Estaquinha', 'Intensional State']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the data from file
+with open('data/events.json') as f:
+   events = json.load(f)
+
+# Create an empty list to store all event triggers
+event_triggers = []
+
+# Iterate over each event in the dataset
+for i, event in enumerate(events):
+   # Get the text of the event and tokenize it
+   text = event["text"]
+   tokens = word_tokenize(text)
+   
+   # Remove punctuation marks
+   for j, token in enumerate(tokens):
+       if token == " ":
+           del tokens[j]
+       
+   # Strip the tokens
+   tokens = [t.strip() for t in tokens]
+   
+   # Remove stop words
+   tokens = [w for w in tokens if not w in set(stopwords.words("portuguese"))]
+   
+   # Apply stemming
+   stems = [PorterStemmer().stem(word) for word in tokens]
+   
+   # Tag POS
+   tagged_sentence = pos_tag(stems)
+   
+   # Parse with a chunk parser
+   cp = ChunkParserI()
+   cp.train(tagged_sentence)
+   chunks = cp.parse(tagged_sentence)[0].subtrees()
+   
+   # Find all NPs
+   nps = [chunk for chunk in chunks if isinstance(chunk, Tree) and chunk.label() == 'NP']
+   
+   # For each NP find its head (the most important

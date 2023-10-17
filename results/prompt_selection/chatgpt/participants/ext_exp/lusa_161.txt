@@ -1,1 +1,0 @@
-["Homem", "ex-companheira", "Vila Nova de Gaia", "arma de fogo", "fonte da GNR", "Comando Territorial da GNR do Porto", "Rua da Figueirinha", "Grijó", "distrito do Porto", "Polícia Judiciária"]

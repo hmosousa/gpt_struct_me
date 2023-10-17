@@ -1,0 +1,17 @@
+[
+["39 anos", "Duration"],
+["42 anos", "Duration"],
+["hoje", "Date"],
+["teleassistência", "Set"],
+["mesma natureza", "Set"]
+]
+
+Explanation:
+The input text contains several temporal expressions:
+
+* "39 anos" and "42 anos" are durations, as they represent a period of time that has passed.
+* "hoje" is a date, as it refers to a specific day.
+* "teleassistência" is a set, as it represents a category of actions or objects related to teleassistance.
+* "mesma natureza" is also a set, as it refers to a category of criminal offenses.
+
+The output is a list of pairs, where each pair consists of the temporal expression and its corresponding class.

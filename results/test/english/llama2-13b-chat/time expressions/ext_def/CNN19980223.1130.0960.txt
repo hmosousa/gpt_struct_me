@@ -1,0 +1,12 @@
+[
+"middle of October",
+"twenty-two dollar barrel level",
+"fourteen dollars",
+"winter of nineteen ninety-four",
+"thirteen dollar a barrel level",
+"last two weeks",
+"two cents a gallon"
+]
+
+Hint:
+You can use a regular expression to extract the time expressions.

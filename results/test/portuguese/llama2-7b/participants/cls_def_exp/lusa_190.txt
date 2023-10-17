@@ -1,0 +1,27 @@
+[["um homem", "Per"], ["de 66 anos", "Per"], ["ficou", "Per"], ["à tarde", "Per"], ["gravemente ferido", "Per"], ["depois", "Per"], ["de ter sido", "Per"], ["eletrocutado", "Per"], ["em Oleiros", "Loc"], ["no distrito de Castelo Branco", "Loc"], ["diz à agência Lusa", "Org"], ["fonte do Comando Distrital de Operações de Socorro", "Org"], ["Segundo a mesma fonte", "Per"], ["o alerta foi dado às 16:18", "Per"], ["a vítima foi transportada diretamente para o Centro Hospitalar e Universitário de Coimbra", "Per"], ["Segundo a indicação dos bombeiros", "Per"], ["a eletrocussão aconteceu dentro de uma habitação", "Per"], ["acrescentou", "Per"], ["quatro operacionais", "Per"], ["e duas viaturas", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem gravemente ferido depois de ter sido eletrocutado em Oleiros
+Um homem de 66 anos ficou hoje à tarde gravemente ferido depois de ter sido eletrocutado, em Oleiros, no distrito de Castelo Branco, disse à agência Lusa fonte do Comando Distrital de Operações de Socorro.
+Segundo a mesma fonte, o alerta foi dado às 16:18, tendo a vítima sido transportada diretamente para o Centro Hospitalar e Universitário de Coimbra.
+"Segundo a indicação dos bombeiros, a eletrocussão aconteceu dentro de uma habitação", acrescentou.
+Deslocaram-se ao local quatro operacionais e duas viaturas."
+
+Output:
+[["um homem", "Per"], ["de 66 anos", "Per"], ["ficou", "Per"], ["à tarde", "Per"], ["gravemente ferido", "Per"], ["depois", "Per"], ["de ter sido", "Per"], ["eletrocutado", "Per"], ["em Oleiros", "Loc"], ["no distrito de Castelo Branco", "Loc"], ["diz à agência Lusa", "Org"], ["fonte do Comando Distrital de Operações de Socorro", "Org"], ["Segundo a mesma fonte", "Per"], ["o alerta foi dado às 16:18", "Per"], ["a vítima foi transportada diretamente para o Centro Hospitalar e Universitário de Coimbra", "Per"], ["Segundo a indicação dos bombeiros", "Per"], ["a eletrocussão aconteceu dentro de uma habitação", "Per"], ["acrescentou", "Per"], ["quatro operacionais", "Per"], ["e duas viaturas", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem gravemente ferido depois de ter sido eletrocutado em Oleiros
+Um homem de 66 anos ficou hoje à tarde gravemente ferido depois de ter sido eletrocutado, em Oleiros, no distrito de Castelo Branco, disse à agência Lusa fonte do Comando Distrital de Operações de Socorro.
+Segundo a mesma fonte, o alerta foi dado às 16:18, tendo a vítima sido transportada diretamente para o Centro Hospitalar e Universitário de Coimbra.
+"Segundo a indicação dos bombeiros, a eletrocussão aconteceu dentro de uma habitação", acrescentou.
+Deslocaram-se ao local quatro operacionais e duas viaturas."
+
+Output:
+[["um homem", "Per"], ["de 66 anos", "Per"], ["ficou", "Per"], ["à tarde", "Per"], ["gravemente ferido", "Per"], ["depois", "Per"], ["de ter sido

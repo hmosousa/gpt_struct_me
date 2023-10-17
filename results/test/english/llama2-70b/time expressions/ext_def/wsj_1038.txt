@@ -1,0 +1,1 @@
+["a year", "third quarter", "18 months"]

@@ -1,0 +1,14 @@
+["Mulher atropelada durante protesto de mariscadores na Murtosa", "Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR.", "O caso ocorreu cerca das 12:50, junto ao cais da Torreira.", "Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local.", "Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora", "Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital de Aveiro.", "A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado.", "Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."]
+
+Explanation:
+The first time expression is "Mulher atropelada durante protesto de mariscadores na Murtosa".
+The second time expression is "Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa, distrito de Aveiro, durante um protesto com cerca de dezenas de mariscadores, informaram os Bombeiros e a GNR."
+The third time expression is "O caso ocorreu cerca das 12:50, junto ao cais da Torreira."
+The fourth time expression is "Em declarações à Lusa, fonte da GNR disse que o condutor da viatura era um homem que transportava bivalves e que estaria a tentar sair do local."
+The fifth time expression is "Os pescadores tentaram evitar que ele saísse de lá. A situação incendiou-se um bocadinho e o senhor forçou a saída com a viatura, tendo atropelado uma senhora", "Segundo os Bombeiros, a mulher sofreu ferimentos ligeiros, tendo sido transportada para o Hospital de Aveiro."
+The sixth time expression is "A GNR referiu ainda que o condutor se colocou em fuga, mas, entretanto, já foi identificado."
+The seventh time expression is "Os mariscadores da Torreira estão em protesto há mais de uma semana, devido ao facto de não poderem trabalhar, por terem sido detetadas percentagens excessivas de coliformes fecais nas águas da ria de Aveiro."
+
+Sample Input 2:
+"Mulher atropelada durante protesto de mariscadores na Murtosa
+Uma mulher de 44 anos foi hoje atropelada sem gravidade na Murtosa,

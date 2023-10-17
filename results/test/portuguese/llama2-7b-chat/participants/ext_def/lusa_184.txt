@@ -1,0 +1,18 @@
+[
+"Homem",
+"Famalicão",
+"Jesufrei",
+"Vila Nova de Famalicão",
+"Comando Distrital de Operações de Socorro de Braga",
+"Fonte",
+"Telhado",
+"Queda",
+"Oito metros",
+"Altura",
+"15:30",
+"Local",
+"Socorro",
+"VMER",
+"Bombeiros",
+"GNR"
+]

@@ -1,0 +1,32 @@
+[
+["Quatro homens", "Person"],
+["PSP", "Organization"],
+["Lisboa", "Location"],
+["Rego", "Location"],
+["Lusa", "Organization"],
+["Comando Metropolitano de Lisboa", "Organization"],
+["Polícia Judiciária", "Organization"],
+["carregador", "Object"],
+["munições", "Object"]
+]
+
+Note:
+The input text is in Portuguese.
+
+This task is similar to the previous one, but with a different language and a different set of classes. As before, the goal is to extract and classify all participants in the given text.
+
+The classes in this task are:
+
+* Person: A person or group of people.
+* Organization: A company, institution, or organization.
+* Object: A physical object or entity.
+* Location: A place or location.
+* Nature: A natural entity, such as a mountain, river, or animal.
+* Facility: A man-made structure or entity, such as a building, road, or vehicle.
+* Other: Any other entity that does not fit into the above categories.
+
+The output should be a JSON-parseable list, where each element is a list with two strings: the first string is the entity, and the second is the class.
+
+For example, in the given input text, "Quatro homens" (four men) would be classified as "Person", and "PSP" (Portuguese Public Security Police) would be classified as "Organization". The location "Lisboa" (Lisbon) would be classified as "Location", and "Rego" (a neighborhood in Lisbon) would also be classified as "Location". "Lusa" (a Portuguese news agency) would be classified as "Organization", and "Comando Metropolitano de Lisboa" (Lisbon Metropolitan Command) would also be classified as "Organization". "Polícia Judiciária" (Judicial Police) would be classified as "Organization", and "carregador" (clip) and "munições" (ammunition) would be classified as "Object".
+
+Note that the input text is in Portuguese, so the classes and entity names may be different from those in the previous task.

@@ -1,0 +1,28 @@
+[
+["Governo holandês", "Organization"],
+["KLM", "Organization"],
+["Wopke Hoekstra", "Person"],
+["VNV", "Organization"],
+["Air France-KLM", "Organization"],
+["França", "Location"],
+["Holanda", "Location"],
+["Europa", "Location"],
+["15%", "Nature"],
+["5 mil", "Nature"],
+["3 mil", "Nature"],
+["20%", "Nature"],
+["1,6 mil milhões", "Nature"],
+["363 milhões", "Nature"]
+]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are the ones you defined.
+
+You can use this sample input and output to train and test your model.
+
+Please, use the classes you defined to extract and classify all participants in the given text.
+
+Also, please provide a brief explanation of your approach and how you handled the task.
+
+Note:
+This task is a sample task, and it is not a real task. It is just for demonstration purposes.

@@ -1,0 +1,3 @@
+[["Tuesday", "DATE"], ["Dec. 31, 1990", "DATE"], ["15%", "SET"], ["$15 million", "DURATION"], ["Thursday", "DATE"], ["12.45%", "SET"], ["eight U.S. cents", "DURATION"], ["4%", "DURATION"], ["15", "SET"], ["Dec. 31, 1990", "DATE"], ["14 months", "DURATION"], ["100%", "SET"], ["special", "SET"], ["institutional", "SET"], ["British Petroleum Co.'s #2.5 billion", "DURATION"], ["1988", "DATE"], ["this week", "DATE"], ["Tuesday", "DATE"], ["marginal Tory seats", "SET"], ["Coventry", "SET"], ["electricity industries", "SET"], ["Prime Minister Margaret Thatcher", "DATE"], ["Sir John Egan", "DATE"]]
+
+Please note that the input and output are just examples and the task is to extract and classify all time expressions, not to perform any specific action with them.

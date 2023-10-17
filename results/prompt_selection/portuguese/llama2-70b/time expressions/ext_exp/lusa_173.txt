@@ -1,0 +1,1 @@
+["sábado", "Lusa", "hoje", "Estarreja", "Aveiro"]

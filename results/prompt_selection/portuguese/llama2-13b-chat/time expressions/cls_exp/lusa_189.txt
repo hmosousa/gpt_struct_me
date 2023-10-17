@@ -1,0 +1,9 @@
+[["homem", "Entity"], ["morto", "Entity"], ["a tiro", "Entity"], ["no Barreiro", "Location"], ["atirador", "Entity"], ["em fuga", "Entity"], ["20:20", "Time"], ["hoje", "Date"], ["pelo menos", "Duration"]]
+
+Note:
+- The output should be a list of lists, where each inner list contains two strings, the first being the entity and the second the class.
+- The classes are: Entity, Date, Time, Duration, Location, and Set.
+- The entities are: homem, atirador, tiro, Barreiro, Polícia Judiciária, PSP.
+- The dates and times are: 20:20, hoje, setembro, final do ano.
+- The durations are: menos de uma semana, um mês.
+- The locations are: Barreiro, centro do país, rio Maria.

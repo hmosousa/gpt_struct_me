@@ -1,0 +1,1 @@
+[["Sept. 14 to Thursday", "DATE"], ["Friday", "DATE"], ["May", "DATE"], ["February", "DATE"], ["early September", "DATE"], ["July", "DATE"], ["this month", "DATE"], ["the next four years", "DURATION"], ["the nine months", "DURATION"]]

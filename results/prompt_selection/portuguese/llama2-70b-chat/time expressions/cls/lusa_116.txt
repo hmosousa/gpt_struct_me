@@ -1,0 +1,25 @@
+[
+["14 anos", "Date"],
+["hoje", "Time"],
+["18:16", "Time"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Set"],
+["Vila das Aves", "Set"],
+["Santo Tirso", "Set"],
+["Porto", "Set"],
+["Vila Nova de Famalicão", "Set"],
+["Suporte Imediato de Vida", "Set"],
+["GNR", "Set"]
+]
+
+Explanation:
+
+* "14 anos" is classified as "Date" because it refers to a specific age.
+* "hoje" is classified as "Time" because it refers to the current day.
+* "18:16" is classified as "Time" because it refers to a specific time of day.
+* "Rua Luís Gonzaga Mendes de Carvalho" is classified as "Set" because it refers to a specific street.
+* "Vila das Aves" is classified as "Set" because it refers to a specific location.
+* "Santo Tirso" is classified as "Set" because it refers to a specific location.
+* "Porto" is classified as "Set" because it refers to a specific location.
+* "Vila Nova de Famalicão" is classified as "Set" because it refers to a specific location.
+* "Suporte Imediato de Vida" is classified as "Set" because it refers to a specific entity.
+* "GNR" is classified as "Set" because it refers to a specific entity.

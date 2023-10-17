@@ -1,0 +1,16 @@
+[['Homem', 'Person'], ['Penafiel', 'Location'], ['juiz', 'Person'], ['Ministério Público (MP)', 'Organization'], ['47', 'Nature'], ['mulher', 'Person'], ['companheira', 'Other'], ['prostituir-se', 'Facility'], ['homem', 'Person'], ['47 anos de idade', 'Nature'], ['Ministério Público (MP)', 'Organization'], ['Penafiel', 'Location'], ['indiciou', 'Object'], ['policial', 'Person'], ['Polícia Judiciária', 'Organization'], ['deteve', 'Object'], ['levou', 'Object'], ['juiz de instrução', 'Person'], ['MP', 'Organization'], ['vítima', 'Person'], ['26 anos', 'Nature'], ['instituição', 'Facility'], ['pessoas sujeitas', 'Person'], ['crime', 'Object'], ['comunhão de vida desde 2017', 'Nature'], ['arguido', 'Person'], ['sujeitar', 'Object'], ['exploração sexual na via pública', 'Facility'], ['obter provêto', 'Object'], ['atualidade', 'Nature'], ['fugiu', 'Object'], ['suspeito', 'Person'], ['localizar', 'Object'], ['convencer', 'Object'], ['voltar', 'Object'], ['promessa', 'Object'], ['receber produto estupefaciente do qual é dependente', 'Object']]
+"""
+import json
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem import PorterStemmer
+from collections import Counter
+
+stop = set(stopwords.words('portuguese'))
+ps = PorterStemmer()
+
+def tokenizer(text):
+   return [word for sentence in sent_tokenize(text) for word in word_tokenize(sentence)]
+
+def stemmer(list_of_words):
+   return [[ps.stem(w), w] for w

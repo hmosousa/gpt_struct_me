@@ -1,0 +1,1 @@
+[["completed", "ASPECTUAL"], ["acquisition", "OCCURRENCE"], ["said", "REPORTING"], ["has", "STATE"], ["announced", "REPORTING"], ["acquire", "I_ACTION"], ["operate", "OCCURRENCE"], ["adopt", "I_ACTION"], ["eliminate", "OCCURRENCE"], ["said", "REPORTING"], ["take", "I_ACTION"], ["said", "REPORTING"], ["reduce", "OCCURRENCE"]]

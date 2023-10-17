@@ -1,0 +1,9 @@
+[["Yang", "I_Action"], ["mortas", "Occurrence"], ["feridas", "Occurrence"], ["pessoas", "Occurrence"], ["ataque", "State"], ["perpetrado", "Occurrence"], ["sauna", "State"], ["balneário", "State"], ["detido", "I_Action"], ["motivo", "State"], ["ataques", "State"], ["semelhantes", "State"], ["doentes mentais", "State"], ["rancor", "State"], ["escola", "State"], ["feriu", "Occurrence"], ["pessoas", "Occurrence"], ["condenado", "I_Action"], ["mato", "I_Action"], ["ferir", "I_Action"], ["ataque", "State"], ["Guangxi", "State"], ["junho", "Aspectual"], ["centro comercial", "State"], ["Pequim", "State"]]
+
+Note:
+The classes are the same as in the previous task.
+
+Hint:
+The entities in the input text are in bold.
+
+Please let me know if you have any questions or need further clarification.

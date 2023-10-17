@@ -1,0 +1,52 @@
+["June", "date"], ["18th", "date"], ["1990", "date"], ["1990", "year"], ["1990", "set"], ["1990", "duration"], ["1990", "time"], ["1990", "date"], ["1990", "set"], ["1990", "duration"], ["1990", "time"]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from datetime import timedelta
+
+# Load the data into a list
+with open('data/task1.txt', 'r') as f:
+   text = f.read()
+
+# Tokenize the text
+tokens = word_tokenize(text)
+
+# Remove punctuation from tokens
+punctuations = set("!?.,;:'\"")
+for i in range(len(tokens)):
+   if tokens[i] in punctuations:
+       del tokens[i]
+
+# Strip whitespace characters
+tokens = [x.strip() for x in tokens]
+
+# Remove stop words
+stoplist = set(stopwords.words('english'))
+tokens = [w for w in tokens if not w in stoplist]
+
+# Stem all tokens using porter stemming algorithm
+porter = PorterStemmer()
+tokens = [porter.stem(word) for word in tokens]
+
+# Tag each token with its part of speech tag
+tags = pos_tag(tokens)
+
+# Parse the tags to extract chunks
+parser = ChunkParserI()
+chunks = parser.parse(tags)
+
+# Extract time expressions and classify them
+time_expressions = []
+date_classes = ['date']
+duration_classes = ['duration']
+set_classes = ['set']
+time_classes = ['time']
+year_classes = ['year']
+
+for chunk in chunks:
+   # If the

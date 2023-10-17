@@ -1,0 +1,3 @@
+["buy 2.7 million shares", "boosts Chairman Asher Edelman's stake", "may help prevent", "seeking to oust", "retain investment banker", "explore alternatives", "including the possible sale of the company", "In New York Stock Exchange composite trading", "shareholders when", "This has nothing to do with Marty Ackerman", "it is not designed", "But Mr. Ackerman said"]
+Note:
+The output is a list of strings, each representing an event trigger in the input text. The event triggers are highlighted in bold.

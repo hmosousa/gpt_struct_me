@@ -1,0 +1,18 @@
+[["390 quilogramas", "Quantity"], ["37.500 euros", "Quantity"], ["segunda-feira", "Date"], ["Gafanha da Nazaré", "Location"], ["Aveiro", "Location"], ["77 quilos", "Quantity"], ["313 quilos", "Quantity"], ["auto de contraordenação", "Document"], ["37.500 euros", "Quantity"]]
+
+Note:
+The input text may contain other temporal expressions not listed in the example, such as "hoje", "ontem", "amanhã", "este mês", "este ano", etc.
+
+The output format is a JSON-parseable list, where each element is a list with two strings. The first string is the entity and the second is the class.
+
+The classes are:
+
+* Date: Representing a specific point in time, such as a day, month, or year.
+* Time: Representing a specific time of day or a time period, such as "14:30" or "15:00-16:00".
+* Duration: Representing a period of time, such as "1 hora" or "3 dias".
+* Set: Representing a set of time, such as "2020" or "2° semestre".
+* Quantity: Representing a quantity of something, such as "390 quilogramas" or "37.500 euros".
+* Location: Representing a location, such as "Gafanha da Nazaré" or "Aveiro".
+* Document: Representing a document, such as "auto de contraordenação" or "certificado".
+
+The goal is to extract and classify all time expressions in the input text, and return them in the output format.

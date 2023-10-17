@@ -1,0 +1,4 @@
+	["em menos de uma semana", "sábado", "sábado", "setembro", "final do ano", "menos de uma semana", "30 nov 2020", "nordeste da China", "Kaiyuan", "Liaoning", "Guangxi", "Pequim"]
+
+Note:
+The output list contains the time expressions found in the input text.

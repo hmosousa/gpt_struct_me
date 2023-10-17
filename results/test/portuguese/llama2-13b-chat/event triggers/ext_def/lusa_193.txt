@@ -1,0 +1,7 @@
+["caiu no rio tejo", "socorrido por outro indivíduo", "transportado para o hospital de são josé", "reanimação cardiorrespiratória", "salvamento foi efetuado por outro transeunte"]
+
+Note:
+- "caiu" and "socorrido" are events because they are actions that happened in the past and have temporal relevance.
+- "transportado para o hospital de são josé" is an event because it is a change of state, and it is related to the previous events.
+- "reanimação cardiorrespiratória" is an event because it is a specific action that happened in the past and has temporal relevance.
+- "salvamento foi efetuado por outro transeunte" is an event because it is a specific action that happened in the past and has temporal relevance.

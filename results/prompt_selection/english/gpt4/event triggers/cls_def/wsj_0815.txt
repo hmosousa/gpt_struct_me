@@ -1,0 +1,11 @@
+[
+["continuing talks", "Occurrence"],
+["reached no agreement", "State"],
+["seeking alternatives", "Intensional Action"],
+["tender offer", "Occurrence"],
+["being used", "State"],
+["pursue to acquisition", "Intensional Action"],
+["stands to reap", "Intensional State"],
+["sale", "Occurrence"],
+["accepting DIG's offer", "Intensional Action"]
+]

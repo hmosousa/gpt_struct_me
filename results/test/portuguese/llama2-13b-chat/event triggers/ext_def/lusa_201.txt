@@ -1,0 +1,16 @@
+["morreu", "incêndio", "fumo", "gases", "inalação", "morto", "habitação", "quarto", "dormir", "chamas", "vítima", "vida", "polícia", "causas"]
+
+Explanation:
+
+* "morreu" is an event trigger because it indicates that the man died.
+* "incêndio" is an event trigger because it indicates that a fire occurred.
+* "fumo" and "gases" are event triggers because they are related to the fire and the man's death.
+* "inalação" is an event trigger because it indicates that the man inhaled smoke and gases.
+* "morto" is an event trigger because it indicates that the man is dead.
+* "habitação" and "quarto" are event triggers because they describe the location where the man died.
+* "dormir" is an event trigger because it indicates that the man was sleeping when the fire occurred.
+* "chamas" is an event trigger because it indicates that the fire was still burning when the man was found.
+* "vítima" is an event trigger because it indicates that the man who died was a victim of the fire.
+* "vida" is an event trigger because it indicates that the man's life was lost.
+* "polícia" is an event trigger because it indicates that the police are investigating the causes of the fire.
+* "causas" is an event trigger because it indicates that the police are trying to determine the causes of the fire.

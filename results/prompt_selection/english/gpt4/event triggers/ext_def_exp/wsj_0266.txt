@@ -1,0 +1,1 @@
+["recognized", "listed", "named", "innovated", "thought", "pleased", "note", "creation"]

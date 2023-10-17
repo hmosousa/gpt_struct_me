@@ -1,0 +1,7 @@
+[["Sunday", "DATE"], ["Friday", "DATE"], ["1978", "DATE"], ["February", "DATE"], ["last week", "DATE"], ["last year", "DATE"], ["February", "DATE"], ["1985", "DATE"], ["1990", "DATE"], ["two years", "DURATION"], ["six weeks ago", "DATE"]]
+
+Please review the input and output and let me know if you have any questions.
+
+Also, please provide a solution in any programming language you are comfortable with.
+
+Thank you.

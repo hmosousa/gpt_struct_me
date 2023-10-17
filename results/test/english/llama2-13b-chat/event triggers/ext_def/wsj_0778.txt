@@ -1,0 +1,17 @@
+[
+"Eddie Antar's legal bills may be seized by the government",
+"defense lawyers are warning that they won't stick around if they don't get paid",
+"the government may move to seize the money that Mr. Antar is using to pay legal fees",
+"the issue has come to a boil in Newark, N.J.",
+"the U.S. attorney's office has warned lawyers for Eddie Antar",
+"the government has the authority to seek to freeze or seize a defendant's assets before trial",
+"prosecutors issued their warning this week after one of Mr. Antar's attorneys asked whether legal fees might be subject to seizure",
+"prosecutors told Mr. Antar's lawyers that they believe Mr. Antar's allegedly ill-gotten gains are so great that any money he has used to pay attorneys derives from illegal activities",
+"Justin Feldman and Jack Arseneault, attorneys for Mr. Antar, both declined to comment on the matter",
+"U.S. Attorney Samuel A. Alito said, "I don't think there's any legal reason to limit forfeiture of attorney's fees to drug cases"",
+"Mr. Antar was charged last month in a civil suit filed in federal court in Newark by the Securities and Exchange Commission",
+"the SEC accused Mr. Antar of engaging in a "massive financial fraud" to overstate the earnings of Crazy Eddie",
+"Mr. Antar, the SEC said, made more than $60 million from the sale of his shares between 1985 and 1987",
+"the Justice Department has emphasized that the government's fee-forfeiture power is to be used sparingly",
+"according to department policy, prosecutors must make a strong showing that lawyers' fees came from assets tainted by illegal profits before any attempts at seizure are made"
+]

@@ -1,0 +1,23 @@
+[
+["next year's first quarter", "Date"],
+["#300 million", "Duration"],
+["#400 million", "Duration"],
+["#1.44 billion", "Duration"],
+["March 31", "Date"],
+["5% to 10%", "Duration"],
+["last year", "Date"],
+["this year", "Date"]
+]
+
+Explanation:
+The input text contains several temporal expressions that can be classified into different categories.
+
+* "next year's first quarter" is a date expression that refers to a specific point in time in the future.
+* "#300 million" and "#400 million" are duration expressions that represent a specific amount of time (in this case, money) that can be used to classify time periods.
+* "#1.44 billion" is also a duration expression that represents a specific amount of time (in this case, money).
+* "March 31" is a date expression that refers to a specific point in time in the past.
+* "5% to 10%" is a duration expression that represents a specific amount of time (in this case, a percentage) that can be used to classify time periods.
+* "last year" is a date expression that refers to a specific point in time in the past.
+* "this year" is a date expression that refers to a specific point in time in the present.
+
+The output is a list of two-element lists, where each element is a string representing the temporal expression and its corresponding class (Date, Time, Duration, or Set).

@@ -1,0 +1,27 @@
+[
+"homem suspeito",
+"balear jovem",
+"coletividade de Setúbal",
+"PJ",
+"Setúbal",
+"jovem",
+"restaurante",
+"agressor",
+"conflito",
+"grupo de convivas",
+"Alto da Guerra",
+"sexagenário",
+"disparo de arma de fogo",
+"ferimentos",
+"ombro e braço",
+"detido",
+"crimes",
+"homicídio qualificado",
+"detenção de arma proibida",
+"omissão de auxílio",
+"primeiro interrogatório judicial",
+"medida de coação",
+"prisão preventiva"
+]
+
+Note: The output is a JSON-parseable list of strings, where each string represents a participant in the text. The list is ordered in the same way as the input text, with the first string being the most prominent participant.

@@ -1,0 +1,1 @@
+[["Sunday", "Date"], ["Monday", "Date"], ["1985", "Date"], ["February", "Date"], ["Six weeks ago", "Duration"], ["Two years", "Duration"], ["Two top aides", "Set"], ["Three Israeli soldiers", "Set"], ["Six others", "Set"], ["73 soldiers", "Set"], ["Nearly 200 Israeli soldiers", "Set"], ["Sunday", "Time"], ["Friday", "Time"], ["Sunday morning", "Time"]]

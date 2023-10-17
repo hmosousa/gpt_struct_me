@@ -1,0 +1,1 @@
+[["yesterday", "DATE"], ["last year", "DATE"], ["52-week", "DURATION"], ["quarterly", "SET"], ["past three years", "DURATION"]]

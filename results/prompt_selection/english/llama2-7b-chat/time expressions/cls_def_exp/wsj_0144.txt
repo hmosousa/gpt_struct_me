@@ -1,0 +1,1 @@
+	[["Travelers Corp.", "DATE"], ["11%", "DURATION"], ["$40 million", "SET"], ["$3 billion", "SET"], ["$10 million", "SET"], ["59%", "DURATION"], ["$7.2 million", "SET"], ["$6.1 million", "SET"], ["$24 million", "SET"], ["$306 million", "SET"], ["$195 million", "SET"], ["$415 million", "DATE"]]

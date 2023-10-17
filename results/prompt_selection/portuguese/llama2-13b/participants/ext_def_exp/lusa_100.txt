@@ -1,0 +1,36 @@
+["Um homem de 39 anos", "Penafiel", "distrito do Porto", "violência física", "injúrias", "ameaças de morte", "a ex-companheira", "de 42 anos", "a GNR", "a autoridade policial", "o suspeito", "a separação", "a vítima", "a sua residência", "o local de trabalho", "o botão de pânico", "teleassistência", "o homem", "antecedentes criminais", "ilícitos", "a mesma natureza", "a vítima"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque investigam morte de um homem que foi esfaqueado
+Autoridades de Nova Iorque investigam a morte de um homem que foi esfaqueado no bairro de Manhattan, no centro da cidade, no domingo, segundo informou a polícia local.
+O homem, de 24 anos, foi encontrado às 19h30 (hora local) com ferimentos no peito e no pescoço, no bairro de Chelsea, no oeste de Manhattan, segundo a polícia.
+O homem foi levado para o hospital, mas morreu pouco depois.
+A polícia não identificou o homem e não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaqueado, mas não revelou detalhes sobre o crime.
+A polícia disse que o homem foi esfaque

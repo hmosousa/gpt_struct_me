@@ -1,0 +1,19 @@
+[
+{
+"Jim Pattison Industries Ltd.", "Occurrence"
+"Innopac Inc.", "State"
+"Jim Pattison Industries Ltd.", "Intensional Action"
+"Innopac Inc.", "Aspectual"
+"Innopac Inc.", "Perception"
+"Innopac Inc.", "Intensional State"
+"Innopac Inc.", "Reporting"
+"Innopac Inc.", "Change"
+"Innopac Inc.", "Object"
+"Innopac Inc.", "Circumstance"
+"Innopac Inc.", "Place"
+"Innopac Inc.", "State"
+"Innopac Inc.", "Situation"
+"Innopac Inc.", "Event"
+],
+
+Note: The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

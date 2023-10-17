@@ -1,0 +1,7 @@
+[["atropelada", "Occurrence"], ["protesto", "State"], ["mariscadores", "State"], ["Murtosa", "Aspectual"], ["mulher", null], ["44 anos", "Intensional State"], ["hoje", "Reporting"], ["atropelada", "Occurrence"], ["sem gravidade", "I_Action"], ["Murtosa", "Aspectual"], ["distrito de Aveiro", "Aspectual"], ["durante", "Perception"], ["um protesto", "Occurrence"], ["cerca dezenas", "Occurrence"], ["mariscadores", "State"], ["informaram", "Reporting"], ["Bombeiros", "State"], ["," ","Punctuation"], ["GNR", "State"], ["caso", "Occurrence"], ["ocorreu", "Occurrence"], ["12:50", "Time"], ["cáis da Torreira", "Aspectual"], ["declarações à Lusa", "Occurrence"], ["fonte da GNR", "Occurrence"], ["condutor", "State"], ["viatura", "State"], ["homem", "State"], ["transportava bivalves", "Occurrence"], ["tentar sair do local", "Occurrence"], ["pescadores tentarem evitar que ele saísse de lá", "Occurrence"], ["situação incendiou-se um bocadinho", "Occurrence"], ["senhor forçar a saída com a viatura", "Occurrence"], ["atropelando uma senhora", "Occurrence"], ["mulher sofrer ferimentos ligeiros", "Occurrence"], ["transportada para o Hospital de Aveiro", "Occurrence"], ["GNR referiu ainda", "Occurrence"], ["condutor se colocar em fuga", "Occurrence"], ["identificado", "Occurrence"], ["mariscadores da Torreira estão em protesto há mais de uma semana", "Intensional State"]]
+"""
+import json
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter

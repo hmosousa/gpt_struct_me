@@ -1,0 +1,13 @@
+[["um homem", "Per"], ["morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["atirador", "Per"], ["em fuga", "Per"], ["Um homem", "Per"], ["morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["atirador", "Per"], ["em fuga", "Per"], ["A mesma", "Org"], ["fonte", "Org"], ["da Direção Nacional", "Org"], ["da Polícia", "Org"], ["de Segurança Pública", "Org"], ["(PSP)", "Org"], ["disse", "Per"], ["às", "Per"], ["20:20", "Per"], ["de hoje", "Per"], ["não", "Per"], ["adiantando", "Per"], ["mais", "Per"], ["informações", "Per"], ["sobre", "Per"], ["as", "Per"], ["circunstâncias", "Per"], ["do", "Per"], ["tiroteio", "Per"], ["Disse", "Per"], ["somente", "Per"], ["que", "Per"], ["tratando", "Per"], ["de", "Per"], ["armas", "Per"], ["de", "Per"], ["fogo", "Per"], ["a", "Per"], ["o", "Per"], ["ocorrência", "Per"], ["esta", "Per"], ["a", "Per"], ["ser", "Per"], ["acompanhada", "Per"], ["pela", "Per"], ["Polícia", "Org"], ["Judiciária", "Org"], ["responsável", "Per"], ["do", "Per"], ["caso", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Homem morto a tiro no Barreiro, atirador em fuga
+Um homem foi hoje morto a tiro no Barreiro, baleado com dois tiros de caçadeira e o atirador está em fuga, disse à agência Lusa fonte da Direção Nacional da Polícia de Segurança Pública (PSP).
+A mesma fonte indicou que o incidente ocorreu às 20:20 de hoje, não adiantando, no entanto, mais informações sobre as circunstâncias do tiroteio.
+Disse apenas que tratando-se de uma suspeita de homicídio envolvendo armas de fogo, a ocorrência "está a ser acompanhada pela Polícia Judiciária”, responsável pelo investigação do caso."
+
+Output:
+[["um homem", "Per"], ["morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["atirador", "Per"], ["em fuga", "Per"], ["Um homem", "Per"], ["morto", "Per"], ["a tiro", "Per"], ["no Barreiro", "Loc"], ["atirador", "Per"], ["em fuga", "Per"], ["A mesma", "Org"], ["fonte", "Org"], ["da Direção Nacional", "Org"], ["da Polícia", "Org"], ["de Segurança Pública", "Org"], ["(PSP)", "Org"], ["disse", "Per"], ["às", "Per"], ["20:20", "Per"], ["de hoje", "Per"], ["não", "Per"], ["adiantando", "Per"], ["mais", "Per"], ["informações", "Per"], ["sobre", "Per"], ["as", "Per"], ["circunstâncias", "Per"], ["do", "Per"], ["tiroteio", "Per"], ["Disse", "Per"], ["somente", "Per"], ["que", "Per"], ["tratando", "Per"], ["de", "Per"], ["armas", "Per"], ["de", "Per"], ["fogo", "Per"], ["a", "Per"], ["o", "Per"], ["ocorrência", "Per"], ["esta", "Per"], ["a", "Per"], ["ser", "Per"], ["acompanhada", "Per"], ["pela",

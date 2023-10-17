@@ -1,0 +1,1 @@
+["Nov", "March", "third quarter", "year", "Sept.", "1989"]

@@ -1,0 +1,1 @@
+[["Trustcorp Inc.", "OCCURRENCE"], ["Society Bank amp Trust", "OCCURRENCE"], ["Society Corp.", "OCCURRENCE"], ["June", "OCCURRENCE"], ["stock", "OCCURRENCE"], ["market value", "OCCURRENCE"], ["$450 million", "OCCURRENCE"], ["year end", "OCCURRENCE"]]

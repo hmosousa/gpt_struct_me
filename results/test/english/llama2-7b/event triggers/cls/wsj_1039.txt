@@ -1,0 +1,10 @@
+[
+  ["Amdahl Corp.", "State"],
+  ["Amdahl Corp.", "Occurrence"],
+  ["Amdahl Corp.", "Reporting"],
+  ["Amdahl Corp.", "Perception"],
+  ["Amdahl Corp.", "Aspectual"],
+  ["Amdahl Corp.", "Intensional Action"],
+  ["Amdahl Corp.", "Intensional State"]
+]
+

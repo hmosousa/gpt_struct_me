@@ -1,0 +1,4 @@
+[["Xerox Corp.", "ORGANIZATION"], ["Crum amp Forster", "ORGANIZATION"], ["early this week", "DATE"], ["$4 million", "AMOUNT"], ["first nine months", "SET"], ["$4.55", "AMOUNT"], ["12.97 billion", "AMOUNT"], ["Hurricane Hugo", "EVENT"], ["California earthquake", "EVENT"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

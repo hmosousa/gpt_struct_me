@@ -1,0 +1,31 @@
+["Encontrado corpo", "zona rochosa", "costa da Terceira", "Açores", "O corpo", "um homem", "a boiar", "zona rochosa", "costa leste", "Terceira", "segunda-feira", "Comando-Local", "Polícia Marítima", "Angra do Heroísmo", "Polícia de Segurança Pública", "PSP", "piquete", "delegado de saúde", "local", "equipa de grande ângulo", "Bombeiros Voluntários", "Praia da Vitória", "Hospital de Angra do Heroísmo", "autopsiado", "apurar", "causas da morte"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a participant in the event described in the input text. The participants are:
+* "Encontrado corpo" (the body was found)
+* "zona rochosa" (the rocky area)
+* "costa da Terceira" (the coast of Terceira)
+* "Açores" (the Azores)
+* "O corpo" (the body)
+* "um homem" (a man)
+* "a boiar" (floating)
+* "zona rochosa" (the rocky area)
+* "costa leste" (the eastern coast)
+* "Terceira" (Terceira)
+* "segunda-feira" (Monday)
+* "Comando-Local" (Local Command)
+* "Polícia Marítima" (Maritime Police)
+* "Angra do Heroísmo" (Angra do Heroísmo)
+* "Polícia de Segurança Pública" (Public Security Police)
+* "PSP" (Public Security Police)
+* "piquete" (detachment)
+* "delegado de saúde" (health delegate)
+* "local" (location)
+* "equipa de grande ângulo" (great angle team)
+* "Bombeiros Voluntários" (Volunteer Firefighters)
+* "Praia da Vitória" (Vitória Beach)
+* "Hospital de Angra do Heroísmo" (Angra do Heroísmo Hospital)
+* "autopsiado" (autopsied)
+* "apurar" (to clarify)
+* "causas da morte" (cause of death)

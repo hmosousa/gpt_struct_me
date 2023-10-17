@@ -1,0 +1,1 @@
+["Avião", "aeroporto", "Lisboa", "falha", "motor", "aterrou", "emergência", "Humberto Delgado", "Polícia de Segurança Pública", "alerta", "aterragem", "aeronave", "parado", "fonte", "Lusa", "segurança", "Pública", "aeroporto", "Farnborough", "Inglaterra", "Lisboa", "Ana", "Aeroportos", "Portugal"]

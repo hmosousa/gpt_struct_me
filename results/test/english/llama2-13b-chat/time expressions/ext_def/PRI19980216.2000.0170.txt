@@ -1,0 +1,9 @@
+["last week", "very strongly", "the RUC uh have offered an opinion", "a mechanism for ejecting us from the talks", "a very serious"]
+
+Explanation:
+
+* "last week" is a temporal expression indicating a specific point in time (the past week).
+* "very strongly" is an adverb modifying the verb "challenge" and indicating the degree of intensity with which the challenge was made.
+* "the RUC uh have offered an opinion" is a temporal expression indicating that the opinion was offered at some point in the past.
+* "a mechanism for ejecting us from the talks" is a temporal expression indicating that the mechanism is being used to eject Sinn Fein from the talks.
+* "a very serious" is an adverb modifying the noun "decision" and indicating the degree of seriousness of the decision.

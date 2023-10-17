@@ -1,0 +1,28 @@
+
+JSON-parseable list of strings.
+
+Please note that the output should be in the format of a JSON object, with each event trigger as a key-value pair, where the key is the event trigger and the value is the corresponding description.
+
+Example:
+
+{
+"referendum": "Turning its back on 210 years of loyalty to the British royal family, a constitutional convention voted overwhelmingly Friday to make Australia a republic under its own president.",
+"adopted": "The model for a republic, adopted over bitter objections from those advocating direct election of a president, is for presidential nominations to be made with public input and the winning candidate decided by a two-thirds majority of Parliament.",
+"convention": "A constitutional convention voted overwhelmingly Friday to make Australia a republic under its own president.",
+"Calling": "Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation.",
+"make": "Turning its back on 210 years of loyalty to the British royal family, a constitutional convention voted overwhelmingly Friday to make Australia a republic under its own president.",
+"put": "Prime Minister John Howard promised to put the question to a national referendum next year after convention delegates voted 89-52 for a republic, with 11 abstentions.",
+"said": "Australian Republican Movement spokeswoman Mary Delahunty said, 'We need the smell of eucalyptus in this, and the feel of red dust.'",
+"opening": "Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation.",
+"result": "The model for a republic, adopted over bitter objections from those advocating direct election of a president, is for presidential nominations to be made with public input and the winning candidate decided by a two-thirds majority of Parliament.",
+"said": "Monarchists hope to defeat the republic at the referendum. 'The phony war has finished and the real referendum campaign has clearly begun', Australians for a Constitutional Monarchy executive director Kerry Jones said.",
+"referendum": "Turning its back on 210 years of loyalty to the British royal family, a constitutional convention voted overwhelmingly Friday to make Australia a republic under its own president.",
+"following": "Queen Elizabeth II is taking a great interest in the convention, 'She is, I can assure you, from what I've been told, she's following the thing very closely and taking the view it's our business', Prime Minister John Howard said.",
+"shown": "Polls have shown public support for a republic increasing, rising from about 35 percent several years ago to about 51 percent this year, as pro-monarchist sentiment diminishes.",
+"campaign": "Pro-republicans hope to have an Australian president by the opening of the 2000 Olympics and the 100th anniversary of Australian federation.",
+"diminishes": "Polls have shown public support for a republic increasing, rising from about 35 percent several years ago to about 51 percent this year, as pro-monarchist sentiment diminishes.",
+"save": "Monarchists hope to defeat the republic at the referendum. 'The phony war has finished and the real referendum campaign has clearly begun', Australians for a Constitutional Monarchy executive director Kerry Jones said.",
+"war": "Monarchists hope to defeat the republic at the referendum. 'The phony war has finished and the real referendum campaign has clearly begun', Australians for a Constitutional Monarchy executive director Kerry Jones said.",
+"rests": "The model for a republic, adopted over bitter objections from those advocating direct election of a president, is for presidential nominations to be made with public input and the winning candidate decided by a two-thirds majority of Parliament.",
+"have": "Polls have shown public support for a republic increasing, rising from about 35 percent several years ago to about 51 percent this year, as pro-monarchist sentiment diminishes.",
+"understands": "Queen Elizabeth II is taking a great interest in the convention, 'She is, I can assure you, from what I've been told, she's following the thing very

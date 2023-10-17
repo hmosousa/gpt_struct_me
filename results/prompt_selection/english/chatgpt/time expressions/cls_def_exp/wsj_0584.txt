@@ -1,0 +1,1 @@
+[["about $4.7 billion", "DURATION"], ["shortly before", "DATE"], ["only $20", "DURATION"], ["earlier this month", "DATE"], ["1994 or later", "DATE"], ["about $115 to $125", "DURATION"], ["$112 to $118", "DURATION"], ["Over the weekend", "DATE"], ["June 1994", "DATE"], ["after five years", "DURATION"], ["in 1990", "DATE"], ["1988", "DATE"], ["1990", "DATE"], ["Friday", "DATE"]]

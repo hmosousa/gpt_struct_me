@@ -1,0 +1,12 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of an array of strings, with each string representing a single event trigger.
+* Each string should be a complete sentence or phrase that describes the event trigger, and should include the relevant information such as the who, what, when, where, and why of the event.
+* The list should be in the order in which the events occurred, with the first event being the first string in the list, and so on.
+
+Example output:
+
+[ "homem preso preventivamente em Penafiel por obrigar companheira a prostituir-se", "mulher vivia em comunhão de vida desde 2017 com o arguido", "vítima fugiu algumas vezes da sujeição a que estava submetida", "arguido localizava a vítima e a obrigava ou convenciava a voltar para junto de si", "MP junto da comarca de Porto-Este, em Penafiel, indicia o homem pela prática dos crimes de tráfico de pessoas para exploração sexual, sequestro e violação" ]

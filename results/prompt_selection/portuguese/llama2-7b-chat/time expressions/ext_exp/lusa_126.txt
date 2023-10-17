@@ -1,0 +1,8 @@
+	["GNR", "Sines", "Setúbal", "34", "43", "1.673", "1.570", "103", "844", "euros", "veículo", "quatro telemóveis", "Tribunal Judicial de Santiago do Cacém", "primeiro interrogatório judicial", "medidas de coação"]
+
+
+Note:
+
+* The output is a JSON-parseable list of strings.
+* The input is a sentence with time expressions.
+* The task is to extract all time expressions from the input sentence.

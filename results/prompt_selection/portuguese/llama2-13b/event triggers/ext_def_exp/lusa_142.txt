@@ -1,0 +1,22 @@
+["detém", "suspeita", "tráfico", "apreende", "doses", "haxixe", "Mértola", "deteve", "mulher", "suspeitas", "prática", "crime", "tráfico", "apreendeu", "doses", "haxixe", "concelho", "alentejano", "Beja", "divulgado", "mulher", "detida", "militares", "Posto Territorial", "Mértola", "segunda-feira", "eventual", "aplicação", "medidas", "coação", "refere", "força", "segurança", "decorrência", "ação", "patrulhamento", "Estrada Nacional", "vila", "demonstrou", "comportamento", "abordada", "militares", "apurar", "apreender", "viatura", "telemóvel"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
+A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
+A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado.
+Segundo a força de segurança, no decorrência de uma ação de patrulhamento na Estrada Nacional 122, junto à vila de Mértola, a suspeita, que seguia numa viatura, "demonstrou um comportamento nervoso", após ter sido abordada por militares da GNR.
+Os militares efetuaram uma busca à viatura e uma revista à mulher, o que lhes permitiu apurar que tinha droga na sua posse e apreender as 12.300 doses de haxixe, o veículo e um telemóvel."
+
+Output:
+["detém", "suspeita", "tráfico", "apreende", "doses", "haxixe", "Mértola", "deteve", "mulher", "suspeitas", "prática", "crime", "tráfico", "apreendeu", "doses", "haxixe", "concelho", "alentejano", "Beja", "divulgado", "mulher", "detida", "militares", "Posto Territorial", "Mértola", "segunda-feira", "eventual", "aplicação", "medidas", "coação", "refere", "força", "segurança", "decorrência", "ação", "patrulhamento", "Estrada Nacional", "vila", "demonstrou", "comportamento", "abordada", "militares", "apurar", "apreender", "viatura", "telemóvel"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"GNR detém suspeita de tráfico de droga e apreende 12.300 doses de haxixe em Mértola
+A GNR deteve uma mulher de 36 anos por suspeitas da prática do crime de tráfico de droga e apreendeu 12.300 doses de haxixe no concelho alentejano de Mértola, no distrito de Beja, foi hoje divulgado.
+A mulher foi detida por militares do Posto Territorial de Mértola na segunda-feira e é hoje presente ao Tribunal Judicial de Beja para primeiro interrogatório e eventual aplicação de medidas de coação, refere a GNR, em comunicado

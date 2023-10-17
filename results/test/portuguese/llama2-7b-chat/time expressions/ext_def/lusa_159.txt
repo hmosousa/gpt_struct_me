@@ -1,0 +1,3 @@
+[
+"PJ detém", "3 quilos", "sábado", "Lisboa", "47 anos", "início de outubro", "aeroporto Osvaldo Vieira", "3 homens"
+]

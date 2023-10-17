@@ -1,0 +1,11 @@
+[["morre", "I_Action"], ["conduzia", "State"], ["colhido", "Occurrence"], ["veículo ligeiro", "State"], ["Estrada Nacional 10-8", "Location"], ["Mitrena", "Location"], ["Setúbal", "Location"], ["fonte", "Reporting"], ["indicou", "Reporting"], ["óbito", "State"], ["declarado", "Reporting"], ["local", "Location"], ["encaminhado", "I_Action"], ["corpo", "State"], ["servico", "State"], ["Medicina legal", "State"], ["hospital", "Location"], ["Palmela", "Location"], ["Sapadores", "Location"], ["bombeiros", "State"], ["veículos", "State"], ["VMER", "State"], ["PSP", "State"], ["alerta", "Occurrence"], ["06:55", "Time"]]
+
+Note:
+- "I_Action" refers to an action that is performed by the subject of the sentence.
+- "State" refers to a state or condition that the subject is in.
+- "Occurrence" refers to an event or happening that is not necessarily related to the subject of the sentence.
+- "Reporting" refers to information that is being reported or communicated.
+
+Hint:
+- Look for verbs that indicate actions or events, and for nouns that describe states or conditions.
+- Pay attention to the context of the sentence and the relationships between the entities mentioned.

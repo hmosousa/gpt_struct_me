@@ -53,11 +53,13 @@ class Prompter:
                             f"{ENTITIES[self.entity]['definition']}")
 
         if example is not None:
-            example_annt = self.annotation_extraction(example)
-            example_annt_str = json.dumps(example_annt)
+            example_text = example.text.replace("$", "$$") # Escape $ for Template
+
+            example_annt = self.annotation_extraction(example)  
+            example_annt_str = json.dumps(example_annt, ensure_ascii=False).replace("$", "$$")
             template.append(f"Example:\n"
                             f"\tInput:\n"
-                            f"\t\"{example.text}\"\n"
+                            f"\t\"{example_text}\"\n"
                             f"\tOutput:\n"
                             f"\t{example_annt_str}")
 

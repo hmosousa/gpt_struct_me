@@ -1,0 +1,19 @@
+[
+"friendly bid",
+"470 pence",
+"$7.43",
+"59.2%",
+"Coates Brothers PLC",
+"#301 million",
+"accepted",
+"12.4%",
+"53.2%",
+"Orkem Coatings U.K. Ltd",
+"merger",
+"internal resources",
+"restructuring",
+"U.K. unit",
+"related Orkem businesses",
+"further acquisitions",
+"public share offering"
+]

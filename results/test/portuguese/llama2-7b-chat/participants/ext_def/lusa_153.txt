@@ -1,0 +1,16 @@
+[
+"homem da Trofa",
+"60 anos",
+"Trofa",
+"Porto",
+"GNR",
+"NIAVE",
+"59 anos",
+"amenações de morte",
+"medo",
+"bebidas alcoólicas",
+"problemas psiquiátricos",
+"tribunal judicial de Matosinhos",
+"medida de coação de prisão preventiva",
+"Posto Territorial da Trofa"
+]

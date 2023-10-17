@@ -1,0 +1,5 @@
+["PJ", "detém", "homem", "suspeito", "balear", "jovem", "coletividade", "Setúbal", "deteve", "homem", "63", "anos", "suspeito", "disparou", "vítima", "conflito", "grupo", "convivas", "almoçar", "coletividade", "Alto", "Guerra", "polícia", "adianta", "sexagenário", "alvejar", "jovem", "do", "grupo", "ferimentos", "consideráveis", "ombro", "braço", "detido", "indiciado", "crimes", "homicídio", "qualificado", "detenção", "arma", "proibida", "omissão", "auxílio", "prisão", "coção", "medida", "interrogatório", "judicial", "aplicou"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a word or a phrase extracted from the input text. The list includes all the words and phrases that are relevant to the task of extracting event triggers.

@@ -1,0 +1,6 @@
+[["detém", "I_Action"], ["homem", "Entity"], ["suspeito", "State"], ["balear", "Occurrence"], ["jovem", "Entity"], ["coletividade", "Entity"], ["Setúbal", "Entity"], ["polícia", "Entity"], ["judiciária", "Entity"], ["PJ", "Entity"], ["disparou", "Occurrence"], ["arma", "Entity"], ["fogo", "Occurrence"], ["ferimentos", "Occurrence"], ["consideráveis", "Adjective"], ["ombro", "Noun"], ["braço", "Noun"], ["detido", "Entity"], ["fugiu", "Occurrence"], ["local", "Entity"], ["indiciado", "I_Action"], ["crimes", "Noun"], ["homicídio", "Noun"], ["qualificado", "Adjective"], ["tentada", "Adjective"], ["detenção", "I_Action"], ["prisão", "Noun"], ["preventiva", "Adjective"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the first string is the entity (e.g. "homem", "coletividade", etc.) and the second string is the class (e.g. "I_Action", "Entity", etc.). The classes are based on the categories you provided.
+
+Please let me know if this is what you were looking for.

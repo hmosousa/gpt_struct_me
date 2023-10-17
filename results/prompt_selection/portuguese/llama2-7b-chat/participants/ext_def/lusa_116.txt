@@ -1,0 +1,12 @@
+[
+"Jovem de 14 anos",
+"Autocarro",
+"Santo Tirso",
+"Proteção Civil",
+"Bombeiros",
+"Hospital São João",
+"Vila das Aves",
+"Vila Nova de Famalicão",
+"Ambulância de Suporte Imediato de Vida",
+"GNR"
+]

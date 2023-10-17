@@ -1,0 +1,23 @@
+[
+["Homem", "State"],
+["Estarreja", "Location"],
+["Transportadora J Amaral", "Organization"],
+["cisterna de camião", "Object"],
+["sábado", "Day"],
+["Lusa", "Source"],
+["GNR de Aveiro", "Organization"],
+["Joaquim Rebelo", "Person"],
+["Delegada de Saúde", "Person"],
+["Polícia Judiciária", "Organization"],
+["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"]
+]
+
+Note:
+- "Homem" and "Estarreja" are not classes, they are entities.
+- "Transportadora J Amaral" and "cisterna de camião" are not classes, they are objects.
+- "sábado" is not a class, it is a day of the week.
+- "Lusa", "GNR de Aveiro", "Joaquim Rebelo", "Delegada de Saúde", "Polícia Judiciária" and "Viatura Médica de Emergência e Reanimação de Aveiro" are not classes, they are sources.
+
+Please help me with this task.
+
+Thank you.

@@ -1,0 +1,6 @@
+["dividend declared", "warrants issued", "warrants exercised"]
+
+Explanation:
+The output is a list of all the event triggers mentioned in the text. In this case, the event triggers are "dividend declared", "warrants issued", and "warrants exercised". These are the events that would cause a change in the state of the system, and would therefore require an update to the system's state.
+
+Note that the format of the output is a JSON-parseable list of strings. This means that the output can be easily parsed and processed by a JSON-compatible system, such as a JavaScript program or a Python script.

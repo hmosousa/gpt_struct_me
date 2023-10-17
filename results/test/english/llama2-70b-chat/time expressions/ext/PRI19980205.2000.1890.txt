@@ -1,0 +1,20 @@
+[
+"current visit",
+"close ally",
+"close friend",
+"now patrolling",
+"virtually alone",
+"doesn't back down",
+"suspected of blowing up",
+"one oh three"
+]
+
+Explanation:
+
+* "current visit" is a time expression because it refers to a present event.
+* "close ally" and "close friend" are not time expressions, but rather descriptions of a relationship.
+* "now patrolling" is a time expression because it refers to an ongoing action.
+* "virtually alone" is not a time expression, but rather a description of a situation.
+* "doesn't back down" is not a time expression, but rather a description of a condition.
+* "suspected of blowing up" is a time expression because it refers to a past event.
+* "one oh three" is a time expression because it refers to a specific event that occurred in the past.

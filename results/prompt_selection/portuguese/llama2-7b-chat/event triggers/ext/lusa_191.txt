@@ -1,0 +1,15 @@
+[
+"esfaqueado",
+"homem de 29 anos",
+"Lisboa",
+"mercado de Arroios",
+"rua Ângela Pinto",
+"café",
+"arme branca",
+"desentendimento",
+"suspeito",
+"tentativa de fuga",
+"Avenida Almirante Reis",
+"Polícia Judiciária",
+"homicídio"
+]

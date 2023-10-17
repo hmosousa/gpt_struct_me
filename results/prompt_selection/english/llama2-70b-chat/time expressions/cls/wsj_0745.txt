@@ -1,0 +1,65 @@
+[
+["last week", "Date"],
+["Tuesday", "Date"],
+["yesterday", "Date"],
+["15%", "Set"],
+["$15 million", "Duration"],
+["30%", "Set"],
+["an eventual 30%", "Duration"],
+["near-record 720 pence", "Date"],
+["4%", "Duration"],
+["Dec. 31, 1990", "Date"],
+["14 months", "Duration"],
+["15%", "Set"],
+["100%", "Set"],
+["prematurely", "Duration"],
+["a full bid", "Duration"],
+["institutional investors", "Duration"],
+["current financial difficulties", "Duration"],
+["$4 billion", "Duration"],
+["1988", "Date"],
+["this week", "Date"],
+["Tuesday", "Date"],
+["unrelated", "Duration"],
+["over lunch Tuesday", "Duration"],
+["marginal Tory seats", "Duration"],
+["privatized company", "Duration"],
+["controversial plans", "Duration"],
+["electricity industries", "Duration"],
+["early removal", "Duration"],
+["friendly suitor bid", "Duration"],
+["unlocks the golden share", "Duration"]
+]
+
+Explanation:
+
+* "last week" is classified as a Date.
+* "Tuesday" is classified as a Date.
+* "yesterday" is classified as a Date.
+* "15%" is classified as a Set.
+* "$15 million" is classified as a Duration.
+* "30%" is classified as a Set.
+* "an eventual 30%" is classified as a Duration.
+* "near-record 720 pence" is classified as a Date.
+* "4%" is classified as a Duration.
+* "Dec. 31, 1990" is classified as a Date.
+* "14 months" is classified as a Duration.
+* "15%" is classified as a Set.
+* "100%" is classified as a Set.
+* "prematurely" is classified as a Duration.
+* "a full bid" is classified as a Duration.
+* "institutional investors" is classified as a Duration.
+* "current financial difficulties" is classified as a Duration.
+* "$4 billion" is classified as a Duration.
+* "1988" is classified as a Date.
+* "this week" is classified as a Date.
+* "Tuesday" is classified as a Date.
+* "unrelated" is classified as a Duration.
+* "over lunch Tuesday" is classified as a Duration.
+* "marginal Tory seats" is classified as a Duration.
+* "privatized company" is classified as a Duration.
+* "controversial plans" is classified as a Duration.
+* "electricity industries" is classified as a Duration.
+* "early removal" is classified as a Duration.
+* "friendly suitor bid" is classified as a Duration.
+* "unlocks the golden share" is classified as a Duration.

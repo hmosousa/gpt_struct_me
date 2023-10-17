@@ -1,0 +1,10 @@
+[
+{entity: "Pamela McCall", class: "State"},
+{entity: "Kosovo", class: "Location"},
+{entity: "ethnic Albanians", class: "Aspectual"},
+{entity: "security forces", class: "Action"},
+{entity: "Belgrade", class: "Location"},
+{entity: "Serbia", class: "Location"},
+{entity: "future", class: "Intensional State"},
+{entity: "conflict", class: "Aspectual"}
+]

@@ -1,0 +1,34 @@
+[
+["Homem", "Person"],
+["pessoas", "Person"],
+["faca", "Object"],
+["nordeste da China", "Location"],
+["Kaiyuan", "Location"],
+["provincia de Liaoning", "Location"],
+["suspeito", "Person"],
+["Yang", "Person"],
+["detido", "Object"],
+["motivo do ataque", "Other"],
+["ataques semelhantes", "Other"],
+["doentes mentais", "Other"],
+["rancor contra a sociedade", "Other"],
+["segurança de uma escola", "Person"],
+["facão", "Object"],
+["jardim de infância", "Location"],
+["região sul de Guangxi", "Location"],
+["2018", "Other"]
+]
+
+Explanation:
+
+* "Homem" and "pessoas" are classified as "Person".
+* "faca" is classified as "Object".
+* "nordeste da China", "Kaiyuan", "provincia deLiaoning" are classified as "Location".
+* "suspeito" and "Yang" are classified as "Person".
+* "detido" is classified as "Object".
+* "motivo do ataque" and "ataques semelhantes" are classified as "Other".
+* "doentes mentais" and "rancor contra a sociedade" are also classified as "Other".
+* "segurança de uma escola" is classified as "Person".
+* "facão" is classified as "Object".
+* "jardim de infância" and "região sul de Guangxi" are classified as "Location".
+* "2018" is classified as "Other".

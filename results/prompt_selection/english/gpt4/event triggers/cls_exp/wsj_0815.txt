@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["continuing", "ASPECTUAL"], ["reached", "OCCURRENCE"], ["seeking", "I_STATE"], ["offer", "OCCURRENCE"], ["used", "OCCURRENCE"], ["pursue", "I_ACTION"], ["said", "REPORTING"], ["stands", "STATE"], ["reap", "OCCURRENCE"], ["sale", "OCCURRENCE"], ["accepting", "I_STATE"]]

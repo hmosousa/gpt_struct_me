@@ -1,0 +1,1 @@
+[["said", "REPORTING"], ["proposed", "OCCURRENCE"], ["changing", "OCCURRENCE"], ["pay", "OCCURRENCE"], ["offered", "REPORTING"], ["said", "REPORTING"], ["accrue", "OCCURRENCE"], ["paid", "OCCURRENCE"], ["redeemed", "OCCURRENCE"], ["submit", "OCCURRENCE"]]

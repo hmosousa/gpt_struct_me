@@ -1,0 +1,1 @@
+["quarta-feira", "terça-feira", "segunda-feira", "domingo", "s\u00e1bado", "quinta-feira"]

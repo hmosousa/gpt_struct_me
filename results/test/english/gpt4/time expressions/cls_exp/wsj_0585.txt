@@ -1,0 +1,1 @@
+[["September", "DATE"], ["this month", "DATE"], ["Eight trading days after Oct. 12", "DATE"], ["Three days later", "DURATION"], ["Friday's", "DATE"], ["65%", "SET"], ["Friday", "DATE"], ["the week", "DATE"], ["Friday", "DATE"], ["Friday", "DATE"], ["October", "DATE"], ["two to three weeks", "DURATION"], ["third-quarter", "DATE"], ["last year", "DATE"], ["1988", "DATE"]]

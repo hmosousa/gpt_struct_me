@@ -1,0 +1,1 @@
+[["Nov. 22", "DATE"], ["May", "MONTH"], ["April", "MONTH"], ["Last April", "DATE"], ["Thursday", "DAY_OF_WEEK"]]

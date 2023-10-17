@@ -1,0 +1,129 @@
+[
+  [
+    "Person",
+    "Grua de camião"
+  ],
+  [
+    "Organization",
+    "PSP"
+  ],
+  [
+    "Object",
+    "poste de iluminação"
+  ],
+  [
+    "Location",
+    "Rua da Constituição"
+  ],
+  [
+    "Nature",
+    "acidente"
+  ],
+  [
+    "Facility",
+    "Hospital de Santo António"
+  ],
+  [
+    "Other",
+    "bombas de gasolina"
+  ]
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

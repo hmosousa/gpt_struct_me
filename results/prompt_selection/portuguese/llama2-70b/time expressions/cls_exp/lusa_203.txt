@@ -1,0 +1,1 @@
+[["setembro", "Time"], ["final do ano", "Time"]]

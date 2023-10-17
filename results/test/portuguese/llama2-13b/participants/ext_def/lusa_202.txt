@@ -1,0 +1,1 @@
+["Homem", "Motociclo", "Celorico da Beira", "Estrada Nacional 17", "Guarda", "Comando Distrital de Operações de Socorro", "Comando Territorial da GNR", "Viatura Médica de Emergência e Reanimação", "Núcleo de Investigação de Crimes em Acidentes de Viação", "Bombeiros Voluntários de Celorico da Beira", "VMER da Guarda", "GNR"]

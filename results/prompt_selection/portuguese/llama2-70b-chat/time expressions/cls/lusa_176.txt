@@ -1,0 +1,16 @@
+[
+["hoje", "Date"],
+["06:55", "Time"],
+["34", "Duration"],
+["10-8", "Set"]
+]
+
+Explanation:
+The input text contains several time expressions:
+
+* "hoje" (today) is a date expression and should be classified as such.
+* "06:55" (6:55 AM) is a time expression and should be classified as "Time".
+* "34" (34 years old) is a duration expression and should be classified as "Duration".
+* "10-8" (Estrada Nacional 10-8) is a set expression and should be classified as "Set".
+
+The output should be a JSON-parseable list where each element is a list with two strings: the first string is the entity (time expression), and the second string is the class (Date, Time, Duration, or Set).

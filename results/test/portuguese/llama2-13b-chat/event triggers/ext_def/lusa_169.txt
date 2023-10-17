@@ -1,0 +1,13 @@
+["morreu", "ferimentos na cara", "intervenção da Polícia Judiciária", "caso", "local", "domingo", "20:00", "21:30", "óbito", "corpo", "serviço de Medicina Legal"]
+
+Note:
+- "morreu" is a verb, not a noun.
+- "ferimentos na cara" is a noun phrase.
+- "intervenção da Polícia Judiciária" is a noun phrase.
+- "caso" is a noun.
+- "local" is an adjective.
+- "domingo" is a noun.
+- "20:00" and "21:30" are times.
+- "óbito" is a noun.
+- "corpo" is a noun.
+- "serviço de Medicina Legal" is a noun phrase.

@@ -1,0 +1,13 @@
+[["Homem", "Date"], ["matou", "Time"], ["ex-companheira", "Set"], ["em", "Duration"], ["Vila Nova de Gaia", "Location"], ["cerca", "Duration"], ["10:30", "Time"], ["Rua da Figueirinha", "Location"], ["Grijó", "Location"], ["distrito do Porto", "Location"], ["Polícia Judiciária", "Organization"]]
+Explanation:
+* "Homem" is classified as "Date" because it represents a specific point in time (the moment when the crime was committed).
+* "matou" is classified as "Time" because it represents a duration of time (the time it took to commit the crime).
+* "ex-companheira" is classified as "Set" because it represents a set of people (the victim and the perpetrator).
+* "em" is classified as "Duration" because it represents a duration of time (the time the perpetrator spent with the victim).
+* "Vila Nova de Gaia" is classified as "Location" because itrepresents a specific geographic location where the crime occurred.
+* "cerca" is classified as "Duration" because it represents a duration of time (the time it took to travel from one location to another).
+* "10:30" is classified as "Time" because it represents a specific time of day.
+* "Rua da Figueirinha" is classified as "Location" because it represents a specific geographic location where the crime occurred.
+* "Grijó" is classified as "Location" because it represents a specific geographic location where the crime occurred.
+* "distrito do Porto" is classified as "Location" because it represents a specific geographic location where the crime occurred.
+* "Polícia Judiciária" is classified as "Organization" because it represents a specific organization that is involved in the investigation of the crime.

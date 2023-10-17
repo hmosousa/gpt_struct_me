@@ -1,0 +1,11 @@
+["paragem cardiorrespiratória", "estado grave", "coma induzido", "hospital de Vila Franca de Xira", "solidariedade", "atleta", "familiares", "profissionais de saúde", "mensagens", "clubs", "atletas", "instituições", "adeptos", "demonstração de apreço", "vida humana", "jogo Alverca - União de Almeirim", "Championato de Portugal"]
+
+Note:
+- The list of event triggers should be in the format of a JSON-parseable list of strings.
+- Each event trigger should be a string that represents the trigger that caused the event to occur.
+- The list should include all the event triggers that are present in the input text.
+
+Hint:
+- Look for verbs, nouns, and adjectives that indicate the occurrence of an event.
+- Pay attention to the temporal information in the text, such as "no domingo" (on Sunday) and "hoje" (today).
+- Use a combination of part-of-speech tagging and dependency parsing to identify the event triggers.

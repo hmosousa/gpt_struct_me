@@ -1,0 +1,1 @@
+[["$5.3 million", "SET"], ["third quarter", "SET"], ["$15 million", "SET"], ["quarter", "SET"], ["about $30 million", "SET"], ["year-ago third quarter", "SET"], ["97 cents", "SET"], ["$778.6 million", "SET"], ["54.5%", "SET"], ["two years", "DURATION"], ["fiscal 1989", "DATE"], ["$40 million", "SET"], ["$1.5 million", "SET"]]

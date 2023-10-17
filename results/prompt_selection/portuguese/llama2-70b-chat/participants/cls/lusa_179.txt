@@ -1,0 +1,25 @@
+[
+["Homem", "Person"],
+["Ministério Público", "Organization"],
+["Penafiel", "Location"],
+["mulher", "Person"],
+["Polícia Judiciária", "Organization"],
+["instituição de acolhimento", "Facility"],
+["arguido", "Person"],
+["suspeito", "Person"],
+["vítima", "Person"],
+["MP", "Organization"],
+["comarca de Porto-Este", "Location"],
+["PJ", "Organization"]
+]
+]
+
+Note:
+The input text is in Portuguese.
+The output should be in English.
+The classes used are the ones provided in the task description.
+The entities and classes should be in lowercase.
+The output should be a JSON-parseable list.
+The entities and classes should be separated by a comma.
+The output should not have any duplicates.
+The output should be sorted alphabetically by entity.

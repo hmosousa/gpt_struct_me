@@ -1,0 +1,24 @@
+[
+"um homem de 52 anos",
+"um outro",
+"o poste de iluminação",
+"a Rua da Constituição",
+"no Porto",
+"a PSP",
+"a fonte",
+"as Relações Públicas",
+"do Comando Metropolitano",
+"da PSP do Porto",
+"o homem",
+"a vida",
+"o Hospital de Santo António",
+"morreu",
+"a estrutura",
+"bombas de gasolina",
+"sofreu ferimentos ligeiros",
+"o acidente",
+"cerca das 07:50"
+]
+
+Format:
+JSON-parseable list of strings.

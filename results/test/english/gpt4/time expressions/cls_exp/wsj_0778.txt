@@ -1,0 +1,1 @@
+[["last June", "DATE"], ["this week", "DATE"], ["last month", "DATE"], ["over a three-year period", "DURATION"], ["between 1985 and 1987", "DURATION"]]

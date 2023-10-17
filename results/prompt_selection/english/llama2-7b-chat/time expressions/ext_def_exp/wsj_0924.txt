@@ -1,0 +1,5 @@
+
+["annual meeting", "Aug. 9", "hostile bidder", "more than 20%", "then current market price", "several", "C$348.2 million", "C$307.2 million", "C$4 million", "C$2.3 million", "12 Canadian cents", "14 Canadian cents", "fiscal-first quarter", "Sept. 30"]
+
+Format:
+JSON-parseable list of strings.

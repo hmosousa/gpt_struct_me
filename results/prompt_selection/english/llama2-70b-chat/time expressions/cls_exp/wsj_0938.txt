@@ -1,0 +1,4 @@
+[["Cineplex Odeon Corp.", "DATE"], ["Garth Drabinsky", "PERSON"], ["Myron Gottlieb", "PERSON"], ["C$16.40", "MONEY"], ["C$8.5 million", "MONEY"], ["Nov. 22", "DATE"], ["Sandra Kolber", "PERSON"], ["MCA Inc.", "ORGANIZATION"], ["Charles Bronfman", "PERSON"], ["Jeffery Logsdon", "PERSON"], ["Crowell, Weedon", "ORGANIZATION"], ["April", "DATE"], ["last April", "DATE"], ["$17.50", "MONEY"], ["$57 million", "MONEY"], ["Rank Organisation PLC", "ORGANIZATION"], ["Michael Gifford", "PERSON"], ["$100 million", "MONEY"], ["New York Stock Exchange", "ORGANIZATION"], ["Toronto Stock Exchange", "ORGANIZATION"], ["Pierre Panet-Raymond", "PERSON"], ["McDermid St. Lawrence Ltd.", "ORGANIZATION"]]
+
+Note:
+The input text contains several dates, amounts of money, people, and organizations. The output should contain all of these entities with their corresponding classes.

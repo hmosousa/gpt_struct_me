@@ -1,0 +1,6 @@
+[
+"GNR", "detém", "tráfico", "droga", "Sines", "distrito", "Setúbal", "apresentaram", "1.673", "doses", "estupefacientes", "comunicado", "indicou", "detenção", "dois", "suspeitos", "local", "referenciado", "tráfico", "estupefacientes", "militares", "efetivaram", "transação", "após", "verificarem", "movimentações", "suspeitas", "Tribunal Judicial", "Santiago do Cacém", "primeiro", "interrogatório", "judicial", "aplicação", "medidas", "coação"]
+
+
+Note:
+The output is a JSON-parseable list of strings, where each string is a trigger event for the corresponding input text.

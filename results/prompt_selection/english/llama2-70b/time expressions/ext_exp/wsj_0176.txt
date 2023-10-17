@@ -1,0 +1,1 @@
+["early this week", "three quarters", "first nine months", "recent quarters"]

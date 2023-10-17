@@ -1,0 +1,16 @@
+[["said", "REPORTING"], ["declared", "OCCURRENCE"], ["has", "STATE"], ["issued", "OCCURRENCE"], ["will", "I_ACTION"], ["enable", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["issue", "OCCURRENCE"], ["holders", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["issuance", "OCCURRENCE"]]
+
+Note:
+The classes are not mutually exclusive, and an entity may belong to multiple classes.
+
+Note:
+The input text may contain unnecessary words or punctuation. Your task is to extract the relevant information and classify it accordingly.
+
+Note:
+You may encounter unknown or out-of-vocabulary words. You can either skip them or use a dictionary or thesaurus to find their meanings and classify them accordingly.
+
+Note:
+You may encounter ambiguous words or phrases that can be classified under multiple classes. Use your judgment to determine the most appropriate class.
+
+Note:
+You may encounter words or phrases that are not relevant to the task. You can skip them or classify them under a special class, such as "OTHER".

@@ -1,0 +1,18 @@
+["Um homem", "matou hoje", "com um disparo", "de arma de fogo", "a ex-companheira", "em Vila Nova de Gaia", "e foi detido", "numa altura", "em que estaria", "a tentar", "o suicídio", "com a mesma arma", "diz", "fonte da GNR", "Um homem", "matou hoje", "com um disparo", "de arma de fogo", "a ex-companheira", "em Vila Nova de Gaia", "e foi detido", "numa altura", "em que estaria", "a tentar", "o suicídio", "com a mesma arma", "diz", "fonte do Comando Territorial", "da GNR do Porto", "referiu", "à agência Lusa", "que o crime", "ocorreu", "cerca das 10:30", "na Rua da Figueirinha", "em Grijó", "Vila Nova de Gaia", "distrito do Porto", "e que o homem", "tem 62 anos", "A vítima", "era 20 anos", "mais nova", "A fonte", "admitiu", "que o homem", "tenha cometido", "o crime", "em retaliação", "por a mulher", "ter optado", "por terminar", "a relação", "que ambos", "mantiveram", "durante 10 anos", "O caso", "passou para", "a alçada", "da Polícia Judiciária"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Homem de 20 anos é preso por roubo de carro em Lisboa
+Um homem de 20 anos foi preso por roubo de carro em Lisboa, no dia 1 de Junho, informou a Polícia Judiciária.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de Junho, às 18h30, na Rua de São José, em Lisboa.
+O homem foi preso por roubo de carro, apropriação indevida e furto de carro, no dia 1 de

@@ -1,0 +1,8 @@
+["14 anos", "Santo Tirso", "Vila das Aves", "Porto", "Rua Luís Gonzaga Mendes de Carvalho", "18:16", "Vila Nova de Famalicão", "Santo Tirso", "GNR"]
+
+
+
+Note:
+
+* Time expressions are in the format of "X semanas/meses/anos" or "X dias/noites".
+* The list of time expressions is not exhaustive, but it covers the most common ones used in the input text.

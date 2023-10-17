@@ -1,0 +1,38 @@
+[
+{
+"entity": "Mulher",
+"class": "State"
+},
+{
+"entity": "Protesto",
+"class": "Occurrence"
+},
+{
+"entity": "Mariscadores",
+"class": "Aspectual"
+},
+{
+"entity": "Cais da Torreira",
+"class": "Aspectual"
+},
+{
+"entity": "Viatura",
+"class": "Intensional Action"
+},
+{
+"entity": "Homem",
+"class": "Intensional Action"
+},
+{
+"entity": "Bivalves",
+"class": "Aspectual"
+},
+{
+"entity": "Hospital de Aveiro",
+"class": "Aspectual"
+},
+{
+"entity": "GNR",
+"class": "Aspectual"
+}
+]

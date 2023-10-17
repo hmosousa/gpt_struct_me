@@ -1,0 +1,1 @@
+[["em menos de uma semana", "Duration"], ["hoje", "Date"], ["12:50", "Time"], ["Torreira", "Location"], ["Aveiro", "Location"], ["dezenas", "Number"], ["um", "Number"], ["gravidade", "Duration"], ["GNR", "Organization"], ["Torreira", "Location"]]

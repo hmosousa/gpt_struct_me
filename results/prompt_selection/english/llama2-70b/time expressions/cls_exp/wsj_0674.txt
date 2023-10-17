@@ -1,0 +1,1 @@
+[["Jim", "PERSON"], ["Pattison", "PERSON"], ["James", "PERSON"], ["Innopac Inc.", "ORGANIZATION"], ["Toronto", "LOCATION"], ["C$1.9 billion", "MONEY"], ["Canadian dollars", "CURRENCY"], ["US$117.3 million", "MONEY"], ["fourth-quarter loss", "DURATION"], ["Aug. 31", "DATE"], ["C$291.6 million", "MONEY"], ["McDonald's Corp.", "ORGANIZATION"], ["Leominster", "LOCATION"]]

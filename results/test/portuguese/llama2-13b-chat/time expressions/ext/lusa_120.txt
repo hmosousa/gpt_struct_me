@@ -1,0 +1,11 @@
+[
+"00:53",
+"madrugada",
+"hoje"
+]
+
+Explanation:
+
+* 00:53: time expression indicating the time when the incident occurred.
+* madrugada: time expression indicating the time period when the incident occurred (midnight to dawn).
+* hoje: time expression indicating the day when the incident occurred.

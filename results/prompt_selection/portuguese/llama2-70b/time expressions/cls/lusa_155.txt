@@ -1,0 +1,1 @@
+[["Homem","Date"], ["69 anos","Duration"], ["hoje","Time"], ["garrafa","Set"], ["estabelecimento","Set"], ["GNR","Set"], ["São Bernardo","Set"], ["automóvel","Set"], ["restaurante","Set"]]

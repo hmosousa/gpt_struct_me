@@ -1,0 +1,36 @@
+["hoje", "seis meses", "hoje em França", "anos", "devido", "para onde", "confirmou", "está morto", "sequestrado", "libertado", "em outubro", "não sofri"]
+Note:
+* The output is a list of strings, each representing a time expression in the input text.
+* The time expressions are:
+	+ "hoje" (Portuguese for "today")
+	+ "seis meses" (Portuguese for "six months")
+	+ "hoje em França" (Portuguese for "today in France")
+	+ "anos" (Portuguese for "years")
+	+ "devido" (Portuguese for "due")
+	+ "para onde" (Portuguese for "to where")
+	+ "confirmou" (Portuguese for "confirmed")
+	+ "está morto" (Portuguese for "is dead")
+	+ "sequestrado" (Portuguese for "seized")
+	+ "libertado" (Portuguese for "released")
+	+ "em outubro" (Portuguese for "in October")
+	+ "não sofri" (Portuguese for "did not suffer")
+
+Explanation:
+The input text contains several time expressions, including:
+
+* "hoje" (today)
+* "seis meses" (six months)
+* "hoje em França" (today in France)
+* "anos" (years)
+* "devido" (due)
+* "para onde" (to where)
+* "confirmou" (confirmed)
+
+* "está morto" (is dead)
+
+* "sequestrado" (seized)
+* "libertado" (released)
+* "em outubro" (in October)
+* "não sofri" (did not suffer)
+
+These time expressions are highlighted in the output list, which is a JSON-parseable list of strings.

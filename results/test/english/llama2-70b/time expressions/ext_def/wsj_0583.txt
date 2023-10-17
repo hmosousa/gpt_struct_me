@@ -1,0 +1,1 @@
+["Friday", "year ending tomorrow", "the year", "this year", "recent years", "in recent years"]

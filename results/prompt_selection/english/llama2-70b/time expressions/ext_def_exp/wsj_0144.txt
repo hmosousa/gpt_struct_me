@@ -1,0 +1,1 @@
+["third-quarter", "Hugo", "fourth-quarter", "month"]

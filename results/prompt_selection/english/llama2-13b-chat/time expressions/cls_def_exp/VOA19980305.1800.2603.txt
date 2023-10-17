@@ -1,0 +1,4 @@
+[["March eighth", "DATE"], ["International Women's Day", "SET"], ["twenty years", "DURATION"], ["seventy-five percent", "NUMBER"], ["Afghan population", "SET"], ["Lisa Schlein", "PERSON"], ["Geneva", "LOCATION"], ["Afghan women", "SET"], ["human rights", "SET"], ["Taleban government", "SET"], ["right to work", "RIGHT"], ["survival", "RIGHT"], ["rural parts", "SET"], ["Kabul", "LOCATION"], ["education", "RIGHT"], ["access to work", "RIGHT"], ["peace and justice", "SET"], ["primary focus", "SET"], ["appealing", "VERB"], ["international community", "SET"], ["combatants", "SET"], ["bloodletting", "NOUN"]]
+
+Note:
+The output is a list of all the time expressions found in the input text, along with their corresponding part of speech (such as "DATE", "SET", "DURATION", etc.). Each element in the list is a list of two strings: the first string is the entity (e.g. "March eighth") and the second string is the class (e.g. "DATE").

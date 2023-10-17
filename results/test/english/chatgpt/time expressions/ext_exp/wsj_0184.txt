@@ -1,0 +1,1 @@
+["fourth-quarter", "long-term", "one-time", "two-year", "few", "only", "about", "yesterday", "earlier this year", "two-year"]

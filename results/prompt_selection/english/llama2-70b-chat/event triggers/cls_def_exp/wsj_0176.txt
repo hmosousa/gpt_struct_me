@@ -1,0 +1,9 @@
+[["Xerox Corp.", "OCCURRENCE"], ["employees", "OCCURRENCE"], ["Crum amp Forster", "OCCURRENCE"], ["laying off", "OCCURRENCE"], ["staff", "OCCURRENCE"], ["centralized", "OCCURRENCE"], ["cost-cutting", "OCCURRENCE"], ["move", "OCCURRENCE"], ["result", "OCCURRENCE"], ["charge", "OCCURRENCE"], ["spread", "OCCURRENCE"], ["first nine months", "OCCURRENCE"], ["Xerox earned", "REPORTING"], ["$492 million", "OCCURRENCE"], ["$4.55 a share", "OCCURRENCE"], ["$12.97 billion", "OCCURRENCE"], ["earnings", "OCCURRENCE"], ["financial-services operations", "OCCURRENCE"], ["rose slightly", "OCCURRENCE"], ["capital gains", "OCCURRENCE"], ["Crum amp Forster", "OCCURRENCE"], ["offset", "OCCURRENCE"], ["Hurricane Hugo payments", "OCCURRENCE"], ["reserves", "OCCURRENCE"], ["cover future payments", "OCCURRENCE"], ["Property/casualty insurance", "OCCURRENCE"], ["tough business", "OCCURRENCE"], ["recent quarters", "OCCURRENCE"], ["pricing", "OCCURRENCE"], ["cutthroat", "OCCURRENCE"], ["natural disasters", "OCCURRENCE"], ["Hurricane Hugo", "OCCURRENCE"], ["California earthquake", "OCCURRENCE"]]
+
+Please provide the output in the format specified.
+
+Note:
+Please make sure to provide the correct output format as specified.
+Also, please make sure that the output is correctly nested and all elements are properly enclosed.
+
+Please let me know if you have any questions or concerns.

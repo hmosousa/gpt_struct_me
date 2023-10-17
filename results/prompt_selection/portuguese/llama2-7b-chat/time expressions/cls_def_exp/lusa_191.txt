@@ -1,0 +1,1 @@
+[["em Lisboa", "Location"], ["hoje", "Date"], ["rua Ângela Pinto", "Location"], ["10:54", "Time"], ["café", "Location"], ["Avenida Almirante Reis", "Location"], ["POLÍCIA JUDICIÁRIA", "Organization"], ["LUSA", "Organization"]]

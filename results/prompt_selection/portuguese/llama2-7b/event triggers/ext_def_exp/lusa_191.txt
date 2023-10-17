@@ -1,0 +1,24 @@
+["morreu", "esfaqueado", "costas", "mercado", "Arroios", "Lisboa", "sequência", "desentendimento", "informou", "agência", "Lusa", "PSP", "Comando", "Metropolitano", "Cometlis", "esfaqueamento", "ocorrido", "rua", "Pinto", "10:54", "declarado", "café", "pedir", "ajuda", "desentendimento", "indivíduos", "envolveu", "arma", "branca", "terá", "suspeito", "detido", "Avenida", "Almirante", "Reis", "tentativa", "fuga", "polícia", "recolher", "informações", "suspeito", "PJ", "acionada", "crime", "homicídio", "local", "preservado", "forças", "fitas", "segurança"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas em quarentena em todo o mundo
+A pandemia de covid-19 está atingindo mais de 100 milhões de pessoas em quarentena em todo o mundo, segundo dados do serviço de notícias Reuters.
+Ao longo de 24 horas, 100 milhões de pessoas foram colocadas em quarentena em 18 países, incluindo a China, onde a pandemia começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas.
+Ao mesmo tempo, a doença já matou mais de 10 mil pessoas e contaminou mais de 200 mil, segundo dados do Johns Hopkins University.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou, e os Estados Unidos, onde a doença já matou mais de 10 mil pessoas, têm os maiores números de casos.
+A China, onde a doença começou

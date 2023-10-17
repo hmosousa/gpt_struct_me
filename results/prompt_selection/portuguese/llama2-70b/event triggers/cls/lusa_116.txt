@@ -1,0 +1,30 @@
+[["jovem", "Occurrence"], ["autocarro", "Reporting"], ["Vila das Aves", "State"], ["conselho", "Aspectual"], ["Santo Tirso", "Intensional Action"], ["Protecao Civil", "Perception"], ["Bombeiros", "Occurrence"], ["Hospital Sao Joao", "Occurrence"], ["Porto", "Occurrence"], ["Rua Luis Gonzaga Mendes de Carvalho", "Occurrence"]]
+"""
+import json
+from nltk import word_tokenize
+from nltk.stem import PorterStemmer
+from nltk.tag import pos_tag
+from nltk.chunk import ChunkParserI
+from nltk.tree import Tree
+from collections import Counter
+
+# Load the POS tagger and chunk parser
+pos_tagger = nltk.data.load('taggers/maxent_treebank_pos_tagger.pickle')
+chunker = nltk.ChunkParserI(nltk.RegexpParser(r'NP: {<JJ>*<NN.*>*}'))
+
+def get_tags(text):
+   """Returns a list of tuples with each token in text and its corresponding part-of-speech tag."""
+   return [(word, tag) for (word, tag) in pos_tag(word_tokenize(text)) if not word == '.' and not word == ',']
+
+def get_chunks(tokens):
+   """Returns a list of chunks from tokens using the NLTK chunker."""
+   return [t[0].lower() for t in chunker.parse(Tree.fromstring(" ".join([str(w) for w in tokens]))).subtrees()]
+
+def stem_words(words):
+   """Returns a list of stems from words using the Porter Stemmer."""
+   return [PorterStemmer().stem(w) for w in words]
+
+def classify_events(event_triggers):
+   """Classifies event triggers into classes based on their parts-of-speech tags."""
+   # Classes
+   state = ['

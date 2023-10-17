@@ -1,0 +1,89 @@
+[
+  ["Homem", "Date"],
+  ["morre", "Time"],
+  ["após", "Duration"],
+  ["ser", "Set"],
+  ["esfaqueado", "Time"],
+  ["nas", "Set"],
+  ["costas", "Set"],
+  ["junto", "Set"],
+  ["mercado", "Set"],
+  ["de", "Set"],
+  ["Arroios", "Set"],
+  ["em", "Set"],
+  ["Lisboa", "Set"],
+  ["na", "Set"],
+  ["sequência", "Set"],
+  ["de", "Set"],
+  ["um", "Set"],
+  ["desentendimento", "Set"],
+  ["informou", "Set"],
+  ["a", "Set"],
+  ["agência", "Set"],
+  ["Lusa", "Set"],
+  ["a", "Set"],
+  ["PSP", "Set"],
+  ["De", "Set"],
+  ["acordo", "Set"],
+  ["com", "Set"],
+  ["Cometlis", "Set"],
+  ["o", "Set"],
+  ["esfaqueamento", "Set"],
+  ["tê-lo", "Set"],
+  ["ocorrido", "Set"],
+  ["na", "Set"],
+  ["rua", "Set"],
+  ["Ângela", "Set"],
+  ["Pinto", "Set"],
+  ["pelas", "Set"],
+  ["10", "Set"],
+  ["54", "Set"],
+  ["tendo", "Set"],
+  ["o", "Set"],
+  ["óbito", "Set"],
+  ["declarado", "Set"],
+  ["dentro", "Set"],
+  ["um", "Set"],
+  ["café", "Set"],
+  ["onde", "Set"],
+  ["a", "Set"],
+  ["vítima", "Set"],
+  ["terá", "Set"],
+  ["id", "Set"],
+  ["pedir", "Set"],
+  ["ajuda", "Set"],
+  ["De", "Set"],
+  ["acordo", "Set"],
+  ["com", "Set"],
+  ["PJ", "Set"],
+  ["à", "Set"],
+  ["Lusa", "Set"],
+  ["fonte", "Set"],
+  ["da", "Set"],
+  ["polícia", "Set"],
+  ["referiu", "Set"],
+  ["que", "Set"],
+  ["aguarda", "Set"],
+  ["mais", "Set"],
+  ["dados", "Set"],
+  ["relativamente", "Set"],
+  ["suspeito", "Set"],
+  ["do", "Set"],
+  ["crime", "Set"],
+  ["de", "Set"],
+  ["homicídio", "Set"]
+]
+
+Explanation:
+
+The first element is the entity and the second is the class.
+
+The entity is "Homem" and the class is "Date".
+
+The entity is "morre" and the class is "Time".
+
+The entity is "após" and the class is "Duration".
+
+The entity is "ser" and the class is "Set".
+
+The entity is "es

@@ -1,0 +1,35 @@
+["um juiz de instrução", "um homem de 47 anos de idade", "o Ministério Público (MP)", "Penafiel", "indiciou", "obrigar", "a mulher", "com quem", "vive", "prostituir-se", "informou", "fonte policial", "revela", "a Polícia Judiciária", "deteve", "levou", "juiz de instrução", "indicação", "MP", "informou", "comunicado", "a vítima", "26 anos", "instituição", "acolhimento", "pessoas", "sujeitas", "tipo", "crime", "vivia", "comunhão", "vida", "2017", "sujeitava", "exploração", "via pública", "proveitos", "obtidos", "prática", "polícia", "fugiu", "sujeição", "promessa", "receber", "produto estupefaciente", "dependente", "cedia", "MP", "comarca", "Porto-Este", "Penafiel", "indica", "crimes", "tráfico", "pessoas", "exploração sexual", "sequestro", "violação"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Autoridades de Nova Iorque prendem homem por tentativa de assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa de assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa de assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa de assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de Trump
+Autoridades de Nova Iorque prendem homem por tentativa of assassinato de

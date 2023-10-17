@@ -1,0 +1,29 @@
+[
+   'Homem',
+   'ferido',
+   'com gravidade',
+   'depois',
+   'da',
+   'agressao',
+   'com',
+   'uma garrafa',
+   'num restaurante',
+   'em Palmela'
+]
+"""
+import json
+from collections import Counter
+
+with open('../data/events_triggers.json') as data_file:
+   events = json.load(data_file)
+
+# Extract all event triggers from the dataset
+event_triggers = []
+for event in events['events']:
+   for trigger in event['trigger']:
+       if not trigger == '':
+           event_triggers.append(trigger)
+
+# Count how many times each trigger appears
+counter = Counter(event_triggers).most_common()
+print counter

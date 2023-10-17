@@ -1,0 +1,8 @@
+["hoje", "fonte da autarquia", "fonte da autarquia", "Leonel Correia da Silva", "agência Lusa", "os Bombeiros de Câmara de Lobos"]
+
+Note:
+The input text is in Portuguese.
+
+Please extract all time expressions from the given text.
+
+Also, please provide the output in the format of a JSON-parseable list of strings, as shown in the example.

@@ -1,0 +1,19 @@
+[
+["homem", "State"],
+["jovem", "Occurrence"],
+["coletividade", "Reporting"],
+["PJ", "Perception"],
+["arma de fogo", "Aspectual"],
+["fugiu", "Intensional Action"],
+["indiciado", "Intensional State"]
+]
+
+Explanation:
+
+* "homem" is a State (entity) because it is a person who is in a certain condition (suspect).
+* "jovem" is an Occurrence (entity) because it is a person who is affected by the event (shot).
+* "coletividade" is a Reporting (entity) because it is a place where the event occurred (restaurant).
+* "PJ" is a Perception (entity) because it is an organization that perceives the event (Police Judiciária).
+* "arma de fogo" is an Aspectual (entity) because it is a weapon that is used in the event.
+* "fugiu" is an Intensional Action (entity) because it is an action that is performed by thesuspect (fled).
+* "indiciado" is an Intensional State (entity) because it is a legal state that is applied to the suspect (indicted).

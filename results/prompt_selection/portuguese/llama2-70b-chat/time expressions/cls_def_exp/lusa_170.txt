@@ -1,0 +1,13 @@
+[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"], ["62 anos", "Duration"], ["hoje", "Date"]]
+
+Note:
+The input text can be in any language, but the classes are in English.
+
+Hint:
+You can use regular expressions to extract the temporal expressions.
+
+Note:
+The input text can have more than one temporal expression.
+
+Note:
+The output format is a JSON-parseable list.

@@ -1,0 +1,25 @@
+[
+["Homem", "State"],
+["incêndio", "Occurrence"],
+["Ribeira Brava", "Location"],
+["Um homem", "State"],
+["inhalação de fumo", "Aspectual"],
+["Bombeiros Voluntários da Ribeira Brava e Ponta do Sol", "Organization"],
+["Ricardo Nascimento", "Person"],
+["Câmara Municipal da Ribeira Brava", "Organization"],
+["forças policiais", "Organization"],
+["apurar as causas do incêndio", "Intensional Action"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to a person's death.
+* "incêndio" is classified as "Occurrence" because it refers to an event that happened.
+* "Ribeira Brava" is classified as "Location" because it refers to a place where the event occurred.
+* "Um homem" is classified as "State" because it refers to a person's death.
+* "inhalação de fumo" is classified as "Aspectual" because it refers to the possible cause of the person's death.
+* "Bombeiros Voluntários da Ribeira Brava e Ponta do Sol" is classified as "Organization" because it refers to a group of people who responded to the event.
+* "Ricardo Nascimento" is classified as "Person" because it refers to a specific person who made a statement.
+* "Câmara Municipal da Ribeira Brava" is classified as "Organization" because it refers to a government entity.
+* "forças policiais" is classified as "Organization" because it refers to a group of people who are investigating the event.
+* "apurar as causas do incêndio" is classified as "Intensional Action" because it refers to the intention to investigate the cause of the event.

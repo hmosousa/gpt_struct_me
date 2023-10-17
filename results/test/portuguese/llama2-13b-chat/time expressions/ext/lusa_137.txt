@@ -1,0 +1,15 @@
+[
+"segunda-feira",
+"17:00",
+"noite",
+"manhã",
+"hoje"
+]
+
+Explanation:
+
+* "segunda-feira" is a day of the week.
+* "17:00" is a time of day in the 24-hour format.
+* "noite" is a time period (night).
+* "manhã" is a time period (morning).
+* "hoje" is a day of the week (today).

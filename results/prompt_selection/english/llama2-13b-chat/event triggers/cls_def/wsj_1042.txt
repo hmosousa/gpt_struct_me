@@ -1,0 +1,17 @@
+[
+["Avon", "State"],
+["Avon", "Occurrence"],
+["warrants", "Aspectual"],
+["common stock", "Intensional Action"],
+["$5.50", "Intensional State"],
+["90 days", "Temporal"]
+]
+
+Explanation:
+
+* Avon is the entity and "State" is the class because the sentence mentions that the company declared a dividend.
+* Avon is the entity and "Occurrence" is the class because the sentence mentions that the company issued warrants.
+* Warrants is the entity and "Aspectual" is the class because the sentence mentions that the warrants enable the holders to purchase one share of common stock.
+* Common stock is the entity and "Intensional Action" is the class because the sentence mentions that the warrants may be exercised to purchase common stock.
+* $5.50 is the entity and "Intensional State" is the class because the sentence mentions the exercise price of the warrants.
+* 90 days is the entity and "Temporal" is the class because the sentence mentions the time period during which the warrants may be exercised.

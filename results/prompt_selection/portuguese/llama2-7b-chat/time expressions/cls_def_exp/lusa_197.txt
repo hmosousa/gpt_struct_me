@@ -1,0 +1,1 @@
+[["Grua de camião", "Event"], ["derrubou", "Action"], ["poste de iluminação", "Location"], ["Rua da Constituição", "Location"], ["homem de 52 anos", "Person"], ["morreu", "Result"], ["ferimentos ligeiros", "Result"], ["07:50", "Time"]]

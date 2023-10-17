@@ -1,0 +1,35 @@
+[["desloca", "I_Action"], ["tentar libertar", "Occurrence"], ["S\u00edria", null], ["EUA", State], ["libertar", "Reporting"], ["cidad\u00e3os", "State"], ["EUA", State], ["visita secreta", "Aspectual"], ["conversações", "Occurrence"], ["alto nível", "Occurrence"], ["situação", "Occurrence"], ["libertação", "Occurrence"], ["desaparecidos", "Occurrence"], ["país", "Occurrence"], ["guerra civil", "Occurrence"], ["informação", "Occurrence"], ["divulgar", "I_Action"], ["domingo", "Occurrence"], ["Wall Street Journal", "Occurrence"], ["citado", "Occurrence"], ["AP", "Occurrence"], ["Kash Patel", "Occurrence"], ["procurar obter", "Occurrence"], ["jornalista Austin Tice", "Occurrence"], ["viagem à Síria", "Occurrence"], ["dirigente dos EUA", "Occurrence"], ["anos", "Occurrence"], ["obtiver", "Intensional Action"], ["Tice", "Occurrence"], ["confirmar", "Occurrence"], ["Damasco", "Occurrence"], ["encerrar", "Occurrence"], ["embaixada norte-americana", "Occurrence"], ["regresso do embaixador", "Occurrence"]]
+"""
+import json
+from typing import List, Dict
+
+with open("data/events.json") as f:
+   data = json.load(f)
+
+# Classes
+class State:
+	def __init__(self):
+		pass
+
+class Occurrence:
+	def __init__(self):
+		pass
+
+class Reporting:
+	def __init__(self):
+		pass
+
+class Perception:
+	def __init__(self):
+		pass
+
+class Aspectual:
+	def __init__(self):
+		pass
+
+class IntensionalAction:
+	def __init__(self):
+		pass
+
+class IntensionalState:
+	def __init

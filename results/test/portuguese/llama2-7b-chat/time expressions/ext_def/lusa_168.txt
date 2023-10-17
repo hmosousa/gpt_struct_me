@@ -1,0 +1,4 @@
+[
+"em Valongo", "33 anos", "57", "depois de estar proibido de contactar e estar perto dela", "hoje", "GNR do Porto", "violência doméstica", "antecedentes criminais", "ameaça agravada", "injúrias", "ofensas à integridade física", "coação de afastamento", "proibição de contacto", "mandado de detenção"]
+Note:
+The output is a list of strings, each representing a time expression extracted from the input text.

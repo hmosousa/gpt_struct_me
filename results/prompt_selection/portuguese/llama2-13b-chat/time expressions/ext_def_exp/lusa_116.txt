@@ -1,0 +1,1 @@
+["hoje", "18:16", "Vila das Aves", "Rua Luís Gonzaga Mendes de Carvalho", "14 anos", "jovem", "Santo Tirso", "Porto", "Hospital São João", "Vila Nova de Famalicão", "Ambulância de Suporte Imediato de Vida de Santo Tirso", "GNR"]

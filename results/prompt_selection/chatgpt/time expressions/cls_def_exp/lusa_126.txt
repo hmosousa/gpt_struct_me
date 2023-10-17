@@ -1,1 +1,0 @@
-[["sábado", "Date"], ["1.570 doses", "Set"], ["103 doses", "Set"], ["844 euros", "Set"]]

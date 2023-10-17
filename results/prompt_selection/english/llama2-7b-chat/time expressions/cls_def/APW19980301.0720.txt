@@ -1,0 +1,22 @@
+[
+{
+"Date": "1985",
+"Class": "Date"
+},
+{
+"Date": "1978",
+"Class": "Date"
+},
+{
+"Time": "last week",
+"Class": "Time"
+},
+{
+"Duration": "nearly 200 Israeli soldiers have been killed fighting Hezbollah and other guerrillas",
+"Class": "Duration"
+},
+{
+"Set": "1985-1995",
+"Class": "Set"
+}
+]

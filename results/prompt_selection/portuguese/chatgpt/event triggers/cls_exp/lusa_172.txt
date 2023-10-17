@@ -1,0 +1,1 @@
+[["encontrado", "Occurrence"], ["boiar", "State"], ["revelou", "Reporting"], ["caído", "Occurrence"], ["praticava", "Occurrence"], ["dado", "Reporting"], ["ativada", "Occurrence"], ["procedeu", "I_Action"], ["recolha", "State"], ["transportando", "I_Action"], ["declarado", "State"], ["transportado", "I_Action"], ["especificou", "Reporting"], ["tomou conta", "I_Action"]]

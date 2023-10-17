@@ -1,0 +1,13 @@
+[["uma mulher", "Per"], ["de 36 anos", "Per"], ["por suspeitas", "Other"], ["do crime de tráfico de droga", "Other"], ["apreendeu 12.300 doses de haxixe", "Obj"], ["no concelho alentejano de Mértola", "Loc"], ["no distrito de Beja", "Loc"], ["foi hoje divulgado", "Other"], ["A mulher", "Per"], ["foi detida", "Other"], ["por militares", "Other"], ["do Posto Territorial de Mértola", "Org"], ["na segunda-feira", "Other"], ["e está", "Other"], ["hoje presente", "Other"], ["ao Tribunal Judicial de Beja", "Loc"], ["para primeiro interrogatório", "Other"], ["e eventual aplicação de medidas de coação", "Other"], ["segundo a força de segurança", "Other"], ["no decorrer de uma ação de patrulhamento", "Other"], ["na Estrada Nacional 122", "Loc"], ["junto à vila de Mértola", "Loc"], ["a suspeita", "Per"], ["que seguia numa viatura", "Other"], ["demonstrou um comportamento nervoso", "Other"], ["após ter sido abordada por militares da GNR", "Other"], ["Os militares efetuaram uma busca à viatura", "Other"], ["e uma revista à mulher", "Other"], ["o que lhes permitiu apurar", "Other"], ["que tinha droga na sua posse", "Other"], ["e apreender as 12.300 doses de haxixe", "Obj"], ["o veículo", "Obj"], ["e um telemóvel", "Obj"]]
+
+Note:
+
+* "Per" stands for "person"
+* "Org" stands for "organization"
+* "Loc" stands for "location"
+* "Other" stands for "other" (i.e. anything that doesn't fit into one of the other categories)
+
+Hint:
+
+* The input text contains several entities and classes, so make sure to extract and classify each one correctly.
+* Pay attention to the word order in the input text, as it can sometimes affect the correct classification of an entity or class.

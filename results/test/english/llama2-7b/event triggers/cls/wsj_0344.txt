@@ -1,0 +1,10 @@
+[
+  ["Price Stern Sloan Inc.", "State"],
+  ["Price Stern Sloan Inc.", "Occurrence"],
+  ["Price Stern Sloan Inc.", "Reporting"],
+  ["Price Stern Sloan Inc.", "Perception"],
+  ["Price Stern Sloan Inc.", "Aspectual"],
+  ["Price Stern Sloan Inc.", "Intensional Action"],
+  ["Price Stern Sloan Inc.", "Intensional State"]
+]
+

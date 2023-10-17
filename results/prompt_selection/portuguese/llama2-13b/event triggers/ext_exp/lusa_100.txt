@@ -1,0 +1,35 @@
+["homem", "detido", "Penafiel", "homem", "39 anos", "vigilância eletrónica", "Penafiel", "distrito", "Porto", "violência física", "injúrias", "ameaças", "morte", "ex-companheira", "42 anos", "informou", "fonte", "GNR", "comunicado", "indicou", "suspeito", "aceitou", "separação", "perseguir", "residência", "local", "trabalho", "mulher", "usava", "botão", "pânico", "teleassistência", "antecedentes", "criminais", "ilícitos", "natureza", "proibido", "contactar", "vítima"]
+
+Format:
+JSON-parseable list of strings.
+
+Input:
+"Covid-19: 100 milhões de pessoas já infectadas no mundo
+O número de pessoas infectadas pelo coronavírus no mundo ultrapassou 100 milhões, de acordo com dados da Johns Hopkins University.
+O número de mortes ultrapassou 2,1 milhões.
+Ainda não há um vaccino contra o coronavírus, mas vários países já estão a preparar a distribuição de vacinas.
+A China, que foi o primeiro país a ser atingido pelo coronavírus, já está a distribuir a vacina de um fabricante chinês.
+A Europa, que tem sido o epicentro da pandemia, está a preparar a distribuição de vacinas de vários fabricantes.
+A vacina da Pfizer/BioNTech, que foi a primeira a ser aprovada, já está a ser distribuída em alguns países.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Europa.
+A vacina da Pfizer/BioNTech é a única que foi aprovada nos Estados Unidos.
+A vacina da Pfizer/BioNTech é a única que foi aprovada no Reino Unido.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Austrália.
+A vacina da Pfizer/BioNTech é a única que foi aprovada no Canadá.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na China.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Rússia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Índia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Coreia do Sul.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Malásia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Singapura.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Tailândia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Ucrânia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Uzbequistão.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Venezuela.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Colômbia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Argentina.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Bolívia.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Chile.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Costa Rica.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na República Dominicana.
+A vacina da Pfizer/BioNTech é a única que foi aprovada na Guatem

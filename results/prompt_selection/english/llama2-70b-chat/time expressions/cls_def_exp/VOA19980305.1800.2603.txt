@@ -1,0 +1,5 @@
+[["Sunday", "DATE"], ["March eighth", "DATE"], ["twenty years", "DURATION"], ["seventy-five percent", "SET"], ["Afghanistan", "DATE"], ["Pakistan", "DATE"], ["Iran", "DATE"], ["Europe", "DATE"], ["Australia", "DATE"], ["North America", "DATE"], ["Kabul", "DATE"], ["Afghan", "DATE"], ["Taleban", "DATE"], ["today", "DATE"], ["right to work", "SET"], ["right to survival", "SET"], ["urban areas", "SET"], ["rural parts", "SET"], ["international aid", "SET"], ["women's right to education", "SET"], ["access to work", "SET"], ["peace and justice", "SET"]]
+
+Please review the input and output samples and let me know if you have any questions.
+
+I'm ready when you are!

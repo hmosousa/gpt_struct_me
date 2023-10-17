@@ -1,0 +1,19 @@
+["Homem morre em despiste de motociclo em Celorico da Beira", "Um homem com 34 anos morreu hoje", "na Estrada Nacional 17", "em Celorico da Beira", "no distrito da Guarda", "na sequência do despiste do motociclo que conduzia", "disseram à agência Lusa fontes da proteção civil e da GNR", "Segundo fonte do Comando Distrital de Operações de Socorro (CDOS) da Guarda", "o alerta para o sinistro foi dado pelas 14:28", "Fonte do Comando Territorial da GNR da Guarda disse à Lusa que o motociclo seguia na Estrada Nacional 17", "no sentido Celorico da Beira - Cortiço da Serra", "e o despiste ocorreu \"alguns metros antes da localidade de Cortiço da Serra\", que pertence ao concelho de Celorico da Beira", "O óbito do condutor do motociclo foi confirmado pelo médico da Viatura Médica de Emergência e Reanimação (VMER) que se deslocou ao local", "Aparentemente foi um despiste", "dizendo que as causas do acidente estão a ser apuradas pelo Núcleo de Investigação de Crimes em Acidentes de Viação da GNR", "Estiveram no local do acidente cinco viaturas e dez elementos dos Bombeiros Voluntários de Celorico da Beira", "da VMER da Guarda e da GNR", "segundo fonte do CDOS."]
+
+Explanation:
+The event triggers are the strings that are not part of the article.
+
+### Example
+
+```
+Input:
+"Homem morre em despiste de motociclo em Celorico da Beira
+Um homem com 34 anos morreu hoje, na Estrada Nacional 17, em Celorico da Beira, no distrito da Guarda, na sequência do despiste do motociclo que conduzia, disseram à agência Lusa fontes da proteção civil e da GNR.
+Segundo fonte do Comando Distrital de Operações de Socorro (CDOS) da Guarda, o alerta para o sinistro foi dado pelas 14:28.
+Fonte do Comando Territorial da GNR da Guarda disse à Lusa que o motociclo seguia na Estrada Nacional 17, no sentido Celorico da Beira - Cortiço da Serra, e o despiste ocorreu \"alguns metros antes da localidade de Cortiço da Serra\", que pertence ao concelho de Celorico da Beira.
+O óbito do condutor do motociclo foi confirmado pelo médico da Viatura Médica de Emergência e Reanimação (VMER) que se deslocou ao local.
+\"Aparentemente foi um despiste\", disse a fonte, indicando que as causas do acidente estão a ser apuradas pelo Núcleo de Investigação de Crimes em Acidentes de Viação da GNR.
+Estiveram no local do acidente cinco viaturas e dez elementos dos Bombeiros Voluntários de Celorico da Beira, da VMER da Guarda e da GNR, segundo fonte do CDOS."
+
+Output:
+["Homem morre em despiste de motociclo em Celorico da Beira", "Um homem com 34 anos morreu hoje", "na Estrada Nacional 17", "em Celorico da Beira", "no distrito da Guarda", "na sequência do despiste do motociclo que conduzia", "disseram à agência Lusa fontes da proteção civil e da GNR", "Segundo fonte do Comando Distrital de Operações de Socorro (CDOS) da Guarda", "o alerta para o sinistro foi dado pelas 14:28", "Fonte do Comando Territorial da GNR da Guarda disse à Lusa que o motociclo seguia na Estrada Nacional 17", "no sentido Celorico da Beira - Cortiço da Serra

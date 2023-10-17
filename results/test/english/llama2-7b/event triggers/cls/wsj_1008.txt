@@ -1,0 +1,10 @@
+[
+  ["Lawrence Insurance Group Inc.", "State"],
+  ["Lawrence Insurance Group Inc.", "Occurrence"],
+  ["Lawrence Insurance Group Inc.", "Reporting"],
+  ["Lawrence Insurance Group Inc.", "Perception"],
+  ["Lawrence Insurance Group Inc.", "Aspectual"],
+  ["Lawrence Insurance Group Inc.", "Intensional Action"],
+  ["Lawrence Insurance Group Inc.", "Intensional State"]
+]
+

@@ -1,0 +1,6 @@
+[["one warrant", "DATE"], ["three shares", "SET"], ["3.3 million", "NUMBER"], ["1.1 million", "NUMBER"], ["Class C warrants", "DATE"], ["$5.50", "NUMBER"], ["90 days", "DURATION"], ["243,677", "NUMBER"], ["Class A", "DATE"], ["Class B", "DATE"], ["unclassified warrants", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list.
+
+Please provide your code in a language of your choice.

@@ -1,0 +1,4 @@
+["1990", "fiscal 1989", "fiscal 1990", "1989", "June 30, 1990", "1989"]
+
+Note:
+The input format is a string of text, and the output format is a list of strings, where each string is a time expression.

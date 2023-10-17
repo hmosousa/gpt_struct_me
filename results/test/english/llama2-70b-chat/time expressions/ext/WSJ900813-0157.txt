@@ -1,0 +1,16 @@
+[
+"yesterday",
+"last weekend",
+"this week",
+"the long run",
+"the future",
+"the first",
+"the second",
+"the third",
+"the end of the month",
+"the past",
+"the weekend",
+"a few days",
+"March",
+"the present"
+]

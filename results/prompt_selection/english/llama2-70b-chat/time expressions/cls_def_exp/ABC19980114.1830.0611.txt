@@ -1,0 +1,16 @@
+[["In Washington today", "DATE"], ["Today", "DATE"], ["night", "DATE"], ["TWA Flight eight hundred", "DATE"], ["Federal Aviation Administration", "DATE"], ["Lisa Stark", "DATE"], ["Steven Snyder", "DATE"], ["TWA eight hundred", "DATE"], ["Boston center", "DATE"], ["Eastwind pilot", "DATE"], ["sir", "DATE"], ["It", "DATE"], ["two fireballs", "DATE"], ["water", "DATE"], ["big small", "DATE"], ["smoke", "DATE"], ["coming up", "DATE"], ["from ah", "DATE"], ["him", "DATE"], ["I think so", "DATE"], ["God bless him", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Note:
+The input text may contain multiple time expressions in a single sentence.
+
+Note:
+The input text may contain unnecessary information, like names of people or organizations.
+
+Note:
+The input text may contain time expressions in different formats, like dates, times, durations, and sets.
+
+Note:
+The output should be in the format of a JSON-parseable list.

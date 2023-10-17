@@ -1,0 +1,1 @@
+[["90 days", "DURATION"], ["3.3 million", "SET"], ["1.1 million", "SET"], ["243,677", "SET"], ["one-third", "SET"], ["$5.50", "SET"]]

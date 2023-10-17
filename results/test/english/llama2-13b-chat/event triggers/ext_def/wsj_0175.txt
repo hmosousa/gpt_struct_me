@@ -1,0 +1,7 @@
+["tender offer", "deadline", "ownership", "acquisition", "long-term debt", "producers", "studio", "acquisition", "Guber/Peters Entertainment Co.", "litigation", "production contract"]
+
+Explanation:
+The output is a list of event triggers found in the input text. Each event trigger is a string that represents an event or action described in the text. The list is in JSON-parseable format, with each event trigger separated by a comma.
+
+Note:
+Event triggers can be direct or indirect, and can be related to other events or actions described in the text. The list of event triggers is not exhaustive, and other events or actions may be inferred or implied from the text.

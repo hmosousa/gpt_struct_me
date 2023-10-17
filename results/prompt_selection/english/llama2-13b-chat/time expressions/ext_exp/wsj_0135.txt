@@ -1,0 +1,4 @@
+["1990", "1989", "13.625", "1.65", "1.125", "7.8 million", "fiscal year", "current fiscal year", "recent analyst's estimate", "fiscal 1989 sales", "fiscal 1989", "yesterday", "over-the-counter trading"]
+
+Format:
+JSON-parseable list of strings.

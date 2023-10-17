@@ -1,0 +1,5 @@
+["GNR", "suspeita", "tráfico de droga", "12.300 doses", "haxixe", "Mértola", "Beja", "Tribunal Judicial", "medidas de coação", "Estrada Nacional", "viatura", "militares", "GNR", "apurou", "droga", "apresentou", "veículo", "telemóvel"]
+
+
+Format:
+JSON-parseable list of strings.

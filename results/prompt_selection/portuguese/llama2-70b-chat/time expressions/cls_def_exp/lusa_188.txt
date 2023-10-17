@@ -1,0 +1,14 @@
+[["hoje", "Date"], ["17 horas", "Time"], ["48 anos", "Duration"], ["30 nov 2020", "Date"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Note:
+The input text may contain more than one temporal expression.
+The temporal expressions may be in different formats.
+The task is to extract and classify all temporal expressions in the input text.
+
+Hint:
+You can use regular expressions to extract temporal expressions.
+You can use a natural language processing library to extract temporal expressions.
+You can use a machine learning model to classify temporal expressions.
+
+Note:
+This is a sample task and the format and the input text may change in the future.

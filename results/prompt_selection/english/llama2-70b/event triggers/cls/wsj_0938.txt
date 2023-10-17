@@ -1,0 +1,43 @@
+[['Cineplex Odeon Corp', 'State'], ['directors', 'Occurrence'], ['said', 'Reporting'], ['the company\'s chairman and chief executive', 'Perception'], [', Garth Drabinsky', 'Aspectual Action'], ['is considering bidding 780.6 million Canadian dollars (US$666 million)', 'Intensional State'], ['to acquire the company', 'Intensional Action']]
+"""
+import json
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from nltk.tag import pos_tag
+from nltk.stem import PorterStemmer
+from collections import defaultdict
+
+# Load the data into memory
+with open('data/cineplex.txt') as f:
+   text = f.read()
+
+# Tokenize the text
+text_tokens = word_tokenize(text)
+
+# Remove stop words from tokens
+stoplist = set(stopwords.words("english"))
+filtered_tokens = []
+for token in text_tokens:
+   if not token in stoplist:
+       filtered_tokens.append(token)
+
+# POS tagging
+pos_tags = pos_tag(filtered_tokens)
+
+# Stemming
+porter = PorterStemmer()
+stems = []
+for token, tag in pos_tags:
+   stems.append((porter.stem(token), tag))
+
+# Classify each stemmed token
+classified_tokens = defaultdict(set)
+for token, tag in stems:
+   classified_tokens[tag].add(token)
+
+# Output to JSON format
+output = []
+for key, value in classified_tokens.items():
+   for item in value:
+       output.append([item, key])
+print json.dumps(output)

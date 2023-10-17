@@ -1,0 +1,21 @@
+[
+["Quincy Promes", "Person"],
+["Ajax", "Organization"],
+["De Telegraaf", "Organization"],
+["Utrecht", "Location"],
+["Paises Baixos", "Location"],
+["Twente", "Organization"],
+["Spartak de Moscovo", "Organization"],
+["Sevilha", "Organization"],
+["familiar", "Object"],
+["pescoço", "Object"]
+]
+
+Explanation:
+
+* Quincy Promes is a person.
+* Ajax is an organization.
+* De Telegraaf is an organization.
+* Utrecht and Paises Baixos are locations.
+* Twente, Spartak de Moscovo, and Sevilha are organizations.
+* familiar and pescoço are objects.

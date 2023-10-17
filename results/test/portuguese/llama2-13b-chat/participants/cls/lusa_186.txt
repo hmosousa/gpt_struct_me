@@ -1,0 +1,19 @@
+[
+["Homem", "Person"],
+["Santa Maria da Feira", "Location"],
+["Romariz", "Location"],
+["Bombeiros de Arrifana", "Organization"],
+["GNR de Santa Maria da Feira", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is a Person.
+* "Santa Maria da Feira" and "Romariz" are Locations.
+* "Bombeiros de Arrifana" and "GNR de Santa Maria da Feira" are Organizations.
+
+Note:
+
+* The output is a JSON-parseable list, where each element is a list with two strings. The first string is the entity, and the second is the class.
+* The entities in this text are people, locations, organizations, and other things.
+* The classes are the categories or types of the entities, such as Person, Location, Organization, etc.

@@ -1,0 +1,20 @@
+[["Monday", "DATE"], ["Tuesday", "DATE"], ["up to 180 days", "DURATION"], ["now", "DATE"], ["today", "DATE"], ["today", "DATE"], ["Tuesday", "DATE"], ["now", "DATE"], ["Aug. 6", "DATE"], ["today", "DATE"], ["today", "DATE"], ["today", "DATE"], ["Thursday", "DATE"], ["this crucial moment", "DATE"], ["eight-year", "DURATION"], ["August 1988", "DATE"], ["Tuesday", "DATE"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has begun to take steps to prevent the spread of the AIDS virus in the military, the Pentagon said yesterday.
+The Defense Department has begun to test blood samples from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt. Col. John C. McLaughlin.
+The Defense Department has also begun to test blood donations from military personnel for the virus, which causes AIDS, and will begin to test blood donations from civilian blood banks for the virus, which causes AIDS, and will begin to test blood donations from civilian blood donations from civilian blood banks for the virus, said a Pentagon spokesman, Lt.
+The U.S. government has begun to take steps to prevent the spread of the AIDS virus in the military, the Pentagon said yesterday.
+The Defense Department has begun to test blood samples from military personnel for the virus, which causes AIDS, said a Pentagon spokesman.
+The Defense Department has begun to test blood samples from military personnel for the virus, which causes AIDS, said a Pentagon spokesman, Lt.
+The U.S. government has begun to take steps to prevent the AIDS, which causes AIDS, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID, which causes AID

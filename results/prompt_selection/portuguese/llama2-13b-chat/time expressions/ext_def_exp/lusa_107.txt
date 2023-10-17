@@ -1,0 +1,7 @@
+["em menos de uma semana", "12:50", "hoje", "junto ao cais da Torreira", "agora", "mais de uma semana"]
+
+Hint:
+There are several time expressions in the text, including some that refer to specific points in time and others that refer to time periods.
+
+Note:
+The output should be a JSON-parseable list of strings, with each string representing a time expression.

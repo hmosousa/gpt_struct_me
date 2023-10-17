@@ -1,0 +1,33 @@
+["second day", "offensive", "villages", "fleeing", "afraid", "mid afternoon", "official Serb sources", "operation over", "Belgrade", "future", "wider conflict", "Karyn Coleman", "BBC news", "Pristina"]
+
+Format:
+JSON-parseable list of strings.
+
+Note:
+
+* Time expressions in the input text:
+	* "second day"
+	* "offensive"
+	* "villages"
+	* "afraid"
+	* "mid afternoon"
+	* "official Serb sources"
+	* "operation over"
+	* "Belgrade"
+	* "future"
+	* "wider conflict"
+
+* Time expressions in the output:
+	* "second day"
+	* "offensive"
+	* "villages"
+	* "afraid"
+	* "mid afternoon"
+	* "official Serb sources"
+	* "operation over"
+	* "Belgrade"
+	* "future"
+	* "wider conflict"
+
+
+

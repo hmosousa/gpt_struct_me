@@ -1,0 +1,28 @@
+[
+"GNR",
+"2 homens",
+"34-43 anos",
+"Sines",
+"Setúbal",
+"1.673 doses de estupefacientes",
+"1.570 doses de heroína",
+"103 doses de cocaína",
+"844 euros",
+"um veículo",
+"quatro telemóveis"
+]
+Explanation:
+The task is to extract all the participants mentioned in the text, which are:
+1. GNR (Guarda Nacional Republicana)
+2. 2 homens (2 men)
+3. 34-43 anos (34-43 years)
+4. Sines (a location)
+5. Setúbal (a location)
+6. 1.673 doses de estupefacientes (1.673 doses of drugs)
+7. 1.570 doses de heroína (1.570 doses of heroin)
+8. 103 doses de cocaína(103 doses of cocaine)
+9. 844 euros (844 euros)
+10. um veículo (a vehicle)
+11. quatro telemóveis (4 telephones)
+
+Note that the output is a JSON-parseable list of strings, where each string represents a participant and its corresponding information.

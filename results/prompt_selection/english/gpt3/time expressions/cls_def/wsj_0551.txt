@@ -1,0 +1,1 @@
+[["June", "Date"], ["year end", "Date"], ["12.4 million shares", "Duration"], ["about $450 million", "Duration"]]

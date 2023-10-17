@@ -1,0 +1,13 @@
+[
+["GNR", "Date"],
+["12.300 doses de haxixe", "Duration"],
+["Mértola", "Set"],
+["36 anos", "Time"]
+]
+
+Explanation:
+
+* GNR is a Date entity.
+* 12.300 doses de haxixe is a Duration entity.
+* Mértola is a Set entity.
+* 36 anos is a Time entity.

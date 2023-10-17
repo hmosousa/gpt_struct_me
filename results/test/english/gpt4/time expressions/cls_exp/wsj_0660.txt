@@ -1,0 +1,1 @@
+[["$37 each", "DURATION"], ["now", "DATE"], ["$37-a-share", "DURATION"], ["$37 a share", "DURATION"]]

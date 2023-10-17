@@ -1,0 +1,9 @@
+[["hoje", "Time"], ["25 de novembro", "Date"], ["em novembro", "Time"], ["início de novembro", "Time"], ["dois dias após a morte de Maradona", "Duration"]]
+
+Note:
+
+* Dates and times should be in the format "dd/mm/yyyy" and "hh:mm:ss" respectively.
+* Duration should be in the format "X dias/horas/minutos"
+* Set should be in the format "epoca/ano"
+
+Please note that the input text is in Portuguese, so you may need to use a Portuguese-language model or preprocess the text to extract the dates and times correctly.

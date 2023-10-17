@@ -1,0 +1,41 @@
+[["um homem", "Per"], ["a boiar", "Per"], ["uma zona rochosa", "Loc"], ["na costa leste", "Loc"], ["da Terceira", "Loc"], ["os Açores", "Loc"], ["a Autoridade Marítima", "Org"], ["a Polícia Marítima", "Org"], ["Angra do Heroísmo", "Loc"], ["a PSP", "Org"], ["o piquete", "Org"], ["a equipa", "Org"], ["os Bombeiros Voluntários", "Org"], ["a Praia da Vitória", "Loc"], ["a zona de difícil acesso", "Loc"], ["o Hospital de Angra do Heroísmo", "Loc"], ["a autopsiar", "Other"], ["as causas da morte", "Other"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terrorista
+Autoridades de Nova Iorque dizem que não há risco de ataque terror

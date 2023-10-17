@@ -1,0 +1,4 @@
+["Third quarter", "a year ago", "this summer", "seven", "a year earlier", "33%", "283.8 million", "13 facilities", "75 cents", "14 apiece", "26.875", "67 cents", "34 cents", "101.7 million", "4 cents", "18 cents", "6.6 million", "1.1 million"]
+
+Format:
+JSON-parseable list of strings.

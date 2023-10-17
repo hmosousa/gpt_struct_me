@@ -1,0 +1,28 @@
+[
+["Jovem de 14 anos", "Person"],
+["autocarro", "Object"],
+["Vila das Aves", "Location"],
+["Proteção Civil", "Organization"],
+["Bombeiros da Vila das Aves", "Organization"],
+["Hospital São João", "Facility"],
+["Rua Luís Gonzaga Mendes de Carvalho", "Location"],
+["Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão", "Organization"],
+["Ambulância de Suporte Imediato de Vida de Santo Tirso", "Organization"],
+["GNR local", "Organization"]
+]
+
+Explanation:
+The input text describes an accident involving a 14-year-old boy who was hit by a car in Santo Tirso. The participants in this situation are:
+
+* The 14-year-old boy (Person)
+* The car (Object)
+* The location where the accident occurred (Location)
+* The Protection Civil (Organization)
+* The Bombeirosda Vila das Aves (Organization)
+* The Hospital São João (Facility)
+* The street where the accident occurred (Location)
+* The Viatura Médica de Emergência e Reanimação de Vila Nova de Famalicão (Organization)
+* The Ambulância de Suporte Imediato de Vida de Santo Tirso (Organization)
+* The GNR local (Organization)
+
+Therefore, the output is a list of pairs, where each pair consists of the name of the participant and its corresponding class.

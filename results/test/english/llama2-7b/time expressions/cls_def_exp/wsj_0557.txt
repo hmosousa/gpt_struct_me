@@ -1,0 +1,36 @@
+	[["RJR Nabisco Inc.", "COMPANY"], ["Nestle S.A.", "COMPANY"], ["Baby Ruth", "SET"], ["Butterfinger", "SET"], ["Pearson", "SET"], ["$370 million", "DURATION"], ["Franklin Park, Ill.", "SET"], ["$154 million", "DURATION"], ["$2 billion", "DURATION"], ["$5 billion", "DURATION"], ["$25 billion", "DURATION"], ["$5.1 billion", "DURATION"], ["Hershey Foods Corp.", "COMPANY"], ["Mars Inc.", "COMPANY"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has agreed to pay $1.2 billion to settle a lawsuit brought by the American Indian Movement over the 1973 shootout at Wounded Knee, S.D., in which two Indians were killed.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving a civil-rights claim.
+The settlement, which was announced Friday, is the largest in U.S. history involving

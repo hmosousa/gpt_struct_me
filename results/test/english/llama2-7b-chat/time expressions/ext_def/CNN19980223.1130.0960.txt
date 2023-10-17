@@ -1,0 +1,12 @@
+["in recent weeks", "now", "seemingly at hand", "the middle of October", "the winter of nineteen ninety-four", "last two weeks", "nearly two cents a gallon"]
+Note:
+* The input text contains several time expressions, including:
+	+ "in recent weeks"
+	+ "now"
+	+ "seemingly at hand"
+	+ "the middle of October"
+	+ "the winter of nineteen ninety-four"
+	+ "last two weeks"
+	+ "nearly two cents a gallon"
+
+Each time expression is a JSON-parseable string that can be extracted and used in further analysis or processing.

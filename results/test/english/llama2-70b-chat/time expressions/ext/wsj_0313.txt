@@ -1,0 +1,7 @@
+[
+"third quarter",
+"near future",
+"long"
+]
+
+Do you want to try it?

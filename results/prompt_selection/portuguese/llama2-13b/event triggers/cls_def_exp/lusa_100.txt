@@ -1,0 +1,17 @@
+[["homem", "I_Action"], ["detido", "Occurrence"], ["Penafiel", "Location"], ["district", "Location"], ["Porto", "Location"], ["suspeito", "Occurrence"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["ex-companheira", "Occurrence"], ["39 anos", "Age"], ["42 anos", "Age"], ["separação", "Occurrence"], ["perseguir", "Occurrence"], ["residência", "Location"], ["trabalho", "Location"], ["teleassistência", "Occurrence"], ["antecedentes criminais", "Occurrence"], ["ilícitos", "Occurrence"], ["proibido", "Occurrence"], ["contactar", "Occurrence"], ["vítima", "Occurrence"], ["botão de pânico", "Occurrence"], ["medida de proteção", "Occurrence"], ["proibido", "Occurrence"], ["vítima", "Occurrence"], ["homem", "I_Action"], ["detido", "Occurrence"], ["Penafiel", "Location"], ["district", "Location"], ["Porto", "Location"], ["suspeito", "Occurrence"], ["violência física", "Occurrence"], ["injúrias", "Occurrence"], ["ameaças de morte", "Occurrence"], ["ex-companheira", "Occurrence"], ["39 anos", "Age"], ["42 anos", "Age"], ["separação", "Occurrence"], ["perseguir", "Occurrence"], ["residência", "Location"], ["trabalho", "Location"], ["teleassistência", "Occurrence"], ["antecedentes criminais", "Occurrence"], ["ilícitos", "Occurrence"], ["proibido", "Occurrence"], ["contactar", "Occurrence"], ["vítima", "Occurrence"], ["botão de pânico", "Occurrence"], ["medida de proteção", "Occurrence"], ["proibido", "Occurrence"], ["vítima", "Occurrence"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Covi-19: Governo de estado australiano pede desculpa por erros em quarentenas em hotéis
+O líder do governo do estado australiano de Victoria pediu hoje desculpa pelos erros do programa de quarentena em dois hotéis que levaram à maioria das mortes por covid-19 no país.
+Após a divulgação do relatório de investigação, o primeiro-ministro de Victoria, Dan Andrews, explicou que o sistema de quarentena tinha sido implementado rapidamente e sem um livro de regras pandémico.
+"Quero pedir desculpa à comunidade vitoriana pelos erros muito claros que foram cometidos neste programa", disse Andrews.
+O fraco controlo em dois hotéis de quarentena desencadearam uma onda de infeções na segunda maior cidade da Austrália, enquanto o resto do país tinha estado em grande parte livre de vírus.
+Das 908 mortes australianas por covid-19, 820 morreram em Victoria.
+A polícia fornece agora segurança nos hotéis de quarentena de Melbourne, algo que neste dois oitos foram feito por seguranças privados.
+o estado de Victoria não tinha registada um caso de transmissão comunitária há 52 dias e o aeroporto de Melbourne começou a aceitar chegadas internacionais este mês pela primeira vez desde o início de julho."
+
+Output:
+[["pediu", "I_Action"], ["desculpa", "State"], ["erros", "Occurrence"], ["levaram", "Occurrence"], ["mortes", "Occurrence"], ["quarentena", "State"], ["divulgação", "Occurrence"], ["explicou", "Reporting"], ["implementado", "Occurrence"], ["investigação", "Occurrence"], ["quarentena", "State"], ["Quero", "I_State"], ["pedir", "I_Action"],

@@ -1,0 +1,18 @@
+[["boiar", "Duration"], ["hoje", "Date"], ["praia da Estaquinha", "Location"], ["Lagoa", "Location"], ["Algarve", "Location"], ["Faro", "Location"], ["Portimão", "Location"], ["gabinete de medicina legal", "Location"], ["Polícia Marítima", "Organization"]]
+
+Explanation:
+
+In this task, we are given a text and we need to extract and classify all time expressions found in it. Time expressions are linguistic elements that allow us to communicate information about time, such as dates, times, durations, and sets.
+The input text is about the discovery of a dead body found floating in the sea in Lagoa, Algarve, Portugal. The text mentions the date and time of the discovery, the location where the body was found, and the name of the organization that took charge of the case.
+We extracted and classified all time expressions found in the text, which are:
+* "em menos de uma semana" (Duration)
+* "hoje" (Date)
+* "sábado" (Date)
+* "setembro" (Time)
+* "final do ano" (Time)
+* "menos de uma semana" (Duration)
+* "30 nov 2020" (Date)
+* "época de veda" (Time)
+* "épocas de veda" (Time)
+
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity, and the second is the class. For example, the first element in the output list is ["boiar", "Duration"], which means that the word "boiar" is a duration expression. The second element in the list is ["hoje", "Date"], which means that the word "hoje" is a date expression.

@@ -1,0 +1,10 @@
+[
+  ["Consolidated Freightways Inc.", "State"],
+  ["Consolidated Freightways Inc.", "Occurrence"],
+  ["Consolidated Freightways Inc.", "Reporting"],
+  ["Consolidated Freightways Inc.", "Perception"],
+  ["Consolidated Freightways Inc.", "Aspectual"],
+  ["Consolidated Freightways Inc.", "Intensional Action"],
+  ["Consolidated Freightways Inc.", "Intensional State"]
+]
+

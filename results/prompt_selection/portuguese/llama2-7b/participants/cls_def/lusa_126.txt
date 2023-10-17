@@ -1,0 +1,44 @@
+[
+  ["GNR", "Organization"],
+  ["Sines", "Location"],
+  ["Setúbal", "Location"],
+  ["Suspeitos", "Person"],
+  ["1.673 doses de estupefacientes", "Nature"],
+  ["1.570 doses de heroína", "Nature"],
+  ["103 doses de cocaína", "Nature"],
+  ["844 euros em numerário", "Nature"],
+  ["veículo", "Object"],
+  ["quatro telemóveis", "Object"]
+]
+
+Explanation:
+The output is a list of lists where each list is a pair of strings. The first string is the entity and the second is the class.
+
+### Solution
+
+```python
+import json
+import re
+
+def extract_entities(text):
+    entities = []
+    for match in re.finditer(r'(\w+)\s+(\w+)', text):
+        entities.append([match.group(1), match.group(2)])
+    return entities
+
+def extract_classes(entities):
+    classes = []
+    for entity in entities:
+        classes.append(entity[1])
+    return classes
+
+def main():
+    with open('input.txt') as f:
+        text = f.read()
+    entities = extract_entities(text)
+    classes = extract_classes(entities)
+    print(classes)
+
+if __name__ == '__main__':
+    main()
+```

@@ -1,0 +1,51 @@
+[
+{
+"entity": "Homem",
+"class": "Aspectual"
+},
+{
+"entity": "Pessoas",
+"class": "Occurrence"
+},
+{
+"entity": "Faca",
+"class": "Object"
+},
+{
+"entity": "Cidade",
+"class": "Location"
+},
+{
+"entity": "Província",
+"class": "Location"
+},
+{
+"entity": "Liaoning",
+"class": "Location"
+},
+{
+"entity": "Kaiyuan",
+"class": "Location"
+},
+{
+"entity": "Sauna",
+"class": "Object"
+},
+{
+"entity": "Balneário",
+"class": "Object"
+},
+{
+"entity": "Suspeito",
+"class": "Person"
+},
+{
+"entity": "Motivo",
+"class": "Aspectual"
+},
+{
+"entity": "Law",
+"class": "Aspectual"
+
+}
+]

@@ -1,0 +1,1 @@
+["Friday", "this month", "1990", "1991", "1994", "1995", "the short term", "the long term"]

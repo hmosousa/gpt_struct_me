@@ -1,0 +1,13 @@
+[
+"11:29",
+"hoje",
+"na sequência de um atropelamento",
+"no local"
+]
+
+Explanation:
+
+* 11:29: time expression indicating the time the alert was given.
+* hoje: time expression indicating the current day.
+* na sequência de um atropelamento: time expression indicating the sequence of events, in this case, the atropelamento.
+* no local: time expression indicating the location where the event occurred.

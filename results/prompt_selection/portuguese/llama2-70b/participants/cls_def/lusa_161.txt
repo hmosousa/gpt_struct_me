@@ -1,0 +1,1 @@
+[["homem", "Person"], ["ex-companheira", "Organization"], ["Vila Nova de Gaia", "Location"], ["GNR", "Nature"], ["Porto", "Other"], ["Rua da Figueirinha", "Object"], ["Grijó", "Facility"]]

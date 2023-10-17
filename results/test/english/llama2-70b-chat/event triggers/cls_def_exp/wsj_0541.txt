@@ -1,0 +1,52 @@
+[
+["Automatic Data Processing Inc.", "ORGANIZATION"],
+["$150 million", "AMOUNT"],
+["6.5%", "PERCENTAGE"],
+["convertible subordinated debentures", "FINANCIAL_INSTRUMENT"],
+["March 1, 2011", "DATE"],
+["$1,059.04", "AMOUNT"],
+["$41.725 a share", "PRICE"],
+["New York Stock Exchange", "ORGANIZATION"],
+["Friday", "DATE"],
+["$46.50 a share", "PRICE"],
+["down $2.25", "CHANGE"],
+["3.6 million shares", "QUANTITY"],
+["last Monday", "DATE"],
+["73 million shares", "QUANTITY"],
+["after-tax cost", "FINANCIAL_CONCEPT"],
+["interest", "FINANCIAL_CONCEPT"],
+["bonds", "FINANCIAL_INSTRUMENT"],
+["dividend yield", "FINANCIAL_CONCEPT"],
+["common", "FINANCIAL_INSTRUMENT"]
+]
+
+Please ensure that your model can handle the following:
+
+* Extracting entities and their corresponding classes from text.
+* Handling various types of entities such as organizations, locations, dates, amounts, percentages, financial instruments, and quantities.
+* Handling various types of relationships between entities such as "Automatic Data Processing Inc." being the organization that is redeeming the debentures.
+* Handling various types of events such as redemption of debentures, conversion of debentures to common shares, and changes in stock prices.
+* Handling various types of modifiers such as "last Monday" and "down $2.25".
+* Handling various types of phrases such as "convertible subordinated debentures" and "after-tax cost of the interest on the bonds".
+* Handling various types of ambiguity such as "bank" which could refer to a financial institution or a riverbank.
+* Handling various types of misspellings and typos.
+* Handling various types of text styles and formats.
+* Handling various types of noise in the text such as punctuation marks, special characters, and stop words.
+
+Please provide a model that can accurately classify entities and their corresponding classes in a given text. The model should be able to handle the various types of entities, relationships, events, modifiers, phrases, ambiguity, misspellings, typos, text styles, formats, and noise mentioned above.
+
+The model should be able to extract and classify all event triggers in a given text. The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please provide a model that can accurately extract and classify all event triggers in a given text. The model should be able to handle the various types of entities, relationships, events, modifiers, phrases, ambiguity, misspellings, typos, text styles, formats, and noise mentioned above.
+
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please provide a model that can accurately extract and classify all event triggers in a given text. The model should be able to handle the various types of entities, relationships, events, modifiers, phrases, ambiguity, misspellings, typos, text styles, formats, and noise mentioned above.
+
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please provide a model that can accurately extract and classify all event triggers in a given text. The model should be able to handle the various types of entities, relationships, events, modifiers, phrases, ambiguity, misspellings, typos, text styles, formats, and noise mentioned above.
+
+The output should be a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Please provide a model that can accurately extract and classify all event triggers in a given text. The model should be able to handle the various types of entities,

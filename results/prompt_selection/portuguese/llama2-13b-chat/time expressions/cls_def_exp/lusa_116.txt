@@ -1,0 +1,1 @@
+[["14 anos", "Age"], ["hoje", "Date"], ["18:16", "Time"], ["Vila das Aves", "Location"], ["Hospital São João", "Location"], ["Rua Luís Gonzaga Mendes de Carvalho", "Location"]]

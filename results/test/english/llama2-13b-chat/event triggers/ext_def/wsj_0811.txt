@@ -1,0 +1,16 @@
+["raised $92 million", "gross proceeds", "sale of the notes", "due on Nov. 1, 2004", "debt reduction", "save $2 million a year in interest expense", "zero-coupon subordinated notes", "no periodic interest payments", "conversion into Blockbuster Entertainment common stock", "13.851 shares per note", "Merrill Lynch Capital Markets Inc.", "principal amount of $300 million"]
+
+Explanation:
+
+1. "raised $92 million" - This is an event trigger as it refers to a specific amount of money raised by the company.
+2. "gross proceeds" - This is an event trigger as it refers to the total amount of money received from the sale of the notes.
+3. "sale of the notes" - This is an event trigger as it refers to the specific action of selling the notes.
+4. "due on Nov. 1, 2004" - This is an event trigger as it refers to a specific date in the future when the notes will be due.
+5. "debt reduction" - This is an event trigger as it refers to a specific action of reducing debt.
+6. "save $2 million a year in interest expense" - This is an event trigger as it refers to a specific financial benefit of the debt reduction.
+7. "zero-coupon subordinated notes" - This is an event trigger as it refers to a specific type of note being sold.
+8. "no periodic interest payments" - This is an event trigger as it refers to a specific feature of the notes.
+9. "conversion into Blockbuster Entertainment common stock" - This is an event trigger as it refers to a specific feature of the notes.
+10. "13.851 shares per note" - This is an event trigger as it refers to a specific conversion rate.
+11. "Merrill Lynch Capital Markets Inc." - This is an event trigger as it refers to a specific company involved in the offering.
+12. "principal amount of $300 million" - This is an event trigger as it refers to a specific amount of money being raised.

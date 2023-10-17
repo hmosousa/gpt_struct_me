@@ -1,0 +1,1 @@
+[ "encontrado", "morto", "cisterna", "camião", "fazendo", "manutenção", "desaparecido", "sábado", "determinar", "causa", "morte", "compareceu", "Delegada", "Polícia", "Judiciária", "tomou", "controle", "local", "Viatura", "Médica", "Emergência", "Reanimação", "Hospital", "Infante", "D. Pedro"]

@@ -1,0 +1,13 @@
+[["Dominion Textile Inc.", "OCCURRENCE"], ["adopted", "OCCURRENCE"], ["rights", "I_ACTION"], ["plan", "OCCURRENCE"], ["pending", "OCCURRENCE"], ["ratification", "OCCURRENCE"], ["hostile", "OCCURRENCE"], ["acquires", "OCCURRENCE"], ["more", "OCCURRENCE"], ["shares", "OCCURRENCE"], ["outstanding", "OCCURRENCE"], ["allow", "I_ACTION"], ["holders", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["additional", "OCCURRENCE"], ["at", "OCCURRENCE"], ["market", "OCCURRENCE"], ["price", "OCCURRENCE"], ["board", "OCCURRENCE"], ["discretion", "OCCURRENCE"], ["separately", "ASPECTUAL"], ["posted", "OCCURRENCE"], ["net", "OCCURRENCE"], ["income", "OCCURRENCE"], ["Canadian", "OCCURRENCE"], ["dollars", "OCCURRENCE"], ["or", "OCCURRENCE"], ["12", "OCCURRENCE"], ["Canadian", "OCCURRENCE"], ["cents", "OCCURRENCE"], ["a", "OCCURRENCE"], ["year", "OCCURRENCE"], ["ago", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["C$348.2", "OCCURRENCE"], ["million", "OCCURRENCE"], ["compared", "OCCURRENCE"], ["C$307.2", "OCCURRENCE"]]
+
+Note:
+The output is a list of tuples, where each tuple contains two strings: the first string is the entity (e.g. "Dominion Textile Inc.") and the second string is the class (e.g. "OCCURRENCE"). The classes are:
+
+* OCCURRENCE: events that occur at a specific point in time
+* I_ACTION: actions performed by entities
+* I_STATE: states of entities
+* ASPECTUAL: aspects of entities or events
+* REPORTING: reporting of events or states
+* PERCEPTION: perceptions of entities or events
+
+Your task is to classify each entity and event in the input text into the appropriate class.

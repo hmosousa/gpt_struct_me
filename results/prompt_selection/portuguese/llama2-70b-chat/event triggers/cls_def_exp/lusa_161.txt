@@ -1,0 +1,15 @@
+[["Homem", "State"], ["mata", "I_Action"], ["ex-companheira", "State"], ["tiro", "Occurrence"], ["Vila Nova de Gaia", "State"], ["hoje", "Aspectual"], ["disparo", "Occurrence"], ["arma de fogo", "State"], ["suicídio", "Occurrence"], ["mesma arma", "State"], ["Fonte", "Reporting"], ["Comando Territorial", "State"], ["GNR", "State"], ["Porto", "State"], ["Rua da Figueirinha", "State"], ["Grijó", "State"], ["Vila Nova de Gaia", "State"], ["distrito", "State"], ["do Porto", "State"], ["62", "State"], ["anos", "State"], ["mulher", "State"], ["ter", "I_Action"], ["optado", "I_Action"], ["relação", "State"], ["mantiveram", "State"], ["10", "State"], ["anos", "State"], ["terminar", "I_Action"], ["caso", "State"], ["Polícia Judiciária", "State"]]
+
+Note:
+The output is a list of pairs, where each pair contains the entity and its corresponding class. The classes are:
+
+* State: refers to a state or a situation
+* Occurrence: refers to an event or an occurrence
+* Reporting: refers to a report or a statement
+* Aspectual: refers to an aspect or a feature
+* Intensional Action: refers to an action that is intended or planned
+* Intensional State: refers to a state that is intended or planned
+
+The input text is in Portuguese, and the output should be in English.
+
+Please note that the task is to extract and classify all event triggers, not to perform named entity recognition or part-of-speech tagging. The focus is on identifying the events and their corresponding classes, rather than identifying specific entities or their grammatical roles.

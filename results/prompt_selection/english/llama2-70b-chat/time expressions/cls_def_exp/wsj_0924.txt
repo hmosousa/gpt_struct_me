@@ -1,0 +1,31 @@
+[["Aug. 9", "DATE"], ["Sept. 30", "DATE"], ["fiscal-first quarter", "SET"], ["4.7 million Canadian dollars", "AMOUNT"], ["$4 million", "AMOUNT"], ["12 Canadian cents a share", "AMOUNT"], ["C$2.3 million", "AMOUNT"], ["14 Canadian cents a share", "AMOUNT"], ["348.2 million", "AMOUNT"], ["307.2", "AMOUNT"]]
+
+Note:
+The output format is a JSON-parseable list.
+
+Note:
+The input date format is flexible and can be in various formats, but the output format for dates will always be in the format "MM/DD/YYYY".
+
+Note:
+The input can contain multiple expressions of the same class, for example, there can be multiple DATE expressions.
+
+Note:
+The input can contain expressions that are not recognized as a specific class, in that case, it should be skipped and not included in the output.
+
+Note:
+It's not necessary to have all classes in the output, if there are no expressions that match a specific class, then that class should not be included in the output.
+
+Note:
+The output should be sorted in ascending order based on the start of the expression.
+
+Note:
+In case of a tie, the order of the expressions should be preserved as they appear in the input.
+
+Note:
+The task is to extract and classify all time expressions, not to perform any calculations or operations on them.
+
+Note:
+The input can contain other types of expressions, such as names, locations, organizations, etc. These should be skipped and not included in the output.
+
+Note:
+The input can contain ambiguous expressions, for example, "next week" can be interpreted as either a DATE or a DURATION. In such cases, it's better to err on the side of caution and include it in the output with the most appropriate class.

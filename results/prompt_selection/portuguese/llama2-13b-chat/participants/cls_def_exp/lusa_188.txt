@@ -1,0 +1,42 @@
+[["um homem de 48 anos", "Per"], ["um acidente de trabalho", "Other"], ["na localidade de Vilarinhos dos Galegos", "Loc"], ["Concelho de Mogadouro", "Loc"], ["distrito de Bragança", "Loc"], ["Lusa", "Org"], ["fonte dos bombeiros", "Org"], ["uma queda em altura", "Other"], ["trabalhava numa obra de construção civil", "Per"], ["a vítima", "Per"], ["acabou por não resistir", "Other"], ["acabou por falecer", "Other"], ["quando estava a ser transportada", "Other"], ["por ambulância para o campo de futebol", "Other"], ["onde seria helitransportada", "Other"], ["para um hospital de referência", "Other"], ["O alerta foi dado", "Other"], ["cerca das 17 horas", "Other"], ["Nas operações de socorro", "Other"], ["estiveram envolvido meios", "Other"], ["dos bombeiros de Mogadouro", "Org"], ["a ambulância de Suporte Imediato de Vida (SIV)", "Org"], ["e a Viatura Medica de Emergência e Reanimação (VMER)", "Org"], ["do Instituto Nacional e Emergência Médica (INEM)", "Org"], ["Foi ainda acionado", "Other"], ["o helicóptero do INEM", "Other"], ["estacionado em Macedo de Cavaleiros", "Loc"], ["A GNR de Mogadouro", "Org"], ["tomou conta da ocorrência", "Other"]]
+
+Note:
+The output is a list of lists, where each inner list contains two strings: the entity and the class. The classes are:
+
+* Per: Person
+* Other: Other
+* Loc: Location
+* Fac: Facility
+* Org: Organization
+
+The entities in this text are:
+
+* um homem de 48 anos (Person)
+* um acidente de trabalho (Other)
+* na localidade de Vilarinhos dos Galegos (Location)
+* Concelho de Mogadouro (Location)
+* distrito de Bragança (Location)
+* Lusa (Organization)
+* fonte dos bombeiros (Organization)
+* uma queda em altura (Other)
+* trabalhava numa obra de construção civil (Per)
+* a vítima (Per)
+* acabou por não resistir (Other)
+* acabou por falecer (Other)
+* quando estava a ser transportada (Other)
+* por ambulância para o campo de futebol (Other)
+* onde seria helitransportada (Other)
+* para um hospital de referência (Other)
+* O alerta foi dado (Other)
+* cerca das 17 horas (Other)
+* Nas operações de socorro (Other)
+* estiveram envolvido meios (Other)
+* dos bombeiros de Mogadouro (Organization)
+* a ambulância de Suporte Imediato de Vida (SIV) (Organization)
+* e a Viatura Medica de Emergência e Reanimação (VMER) (Organization)
+* do Instituto Nacional e Emergência Médica (INEM) (Organization)
+* Foi ainda acionado (Other)
+* o helicóptero do INEM (Other)
+* estacionado em Macedo de Cavaleiros (Location)
+* A GNR de Mogadouro (Organization)
+* tomou conta da ocorrência (Other)

@@ -1,0 +1,20 @@
+[["um homem", "Per"], ["de 39 anos", "Other"], ["suspeito", "Per"], ["de violência física", "Other"], ["injúrias", "Other"], ["e ameaças de morte", "Other"], ["à ex-companheira", "Other"], ["de 42 anos", "Other"], ["informou", "Org"], ["hoje", "Other"], ["fonte da GNR", "Org"], ["a autoridade policial", "Org"], ["indicou", "Org"], ["que", "Other"], ["o suspeito", "Per"], ["não aceitou", "Other"], ["a separação", "Other"], ["e começou", "Other"], ["a perseguir", "Other"], ["a vítima", "Other"], ["na sua residência", "Loc"], ["e no local de trabalho", "Loc"], ["A mulher", "Per"], ["ja usava", "Other"], ["um botão de pânico", "Obj"], ["que", "Other"], ["lhe havia sido aplicado", "Other"], ["por medida de proteção", "Other"], ["por teleassistência", "Other"], ["O homem", "Per"], ["com antecedentes criminais", "Other"], ["por ilícitos da mesma natureza", "Other"], ["ficou", "Other"], ["proibido", "Other"], ["de contactar", "Other"], ["a vítima", "Other"]]
+
+Note:
+
+* "Per" stands for "Person"
+* "Other" stands for "Other"
+* "Obj" stands for "Object"
+* "Fac" stands for "Facility"
+* "Loc" stands for "Location"
+* "Org" stands for "Organization"
+
+Hint:
+
+* The input text contains several entities and classes.
+* Each entity is represented by a string.
+* Each class is represented by a string.
+* The entities and classes are separated by a comma.
+* The input text contains several examples of entities and classes.
+
+Please let me know if you need any further clarification or details.

@@ -1,0 +1,1 @@
+[["Corpo", "Person"], ["Lagoa", "Location"], ["hoje à tarde", "Time"], ["praia da Estaquinha", "Location"], ["Algarve", "Location"], ["Faro", "Location"], ["Portimão", "Location"], ["gabinete de medicina legal", "Location"], ["Polícia Marítima", "Organization"]]

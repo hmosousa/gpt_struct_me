@@ -1,0 +1,30 @@
+[
+["Homem", "State"],
+["incêndio", "Occurrence"],
+["hoje", "Aspectual"],
+["sufere", "Intensional State"],
+["sofre", "Intensional State"],
+["queimaduras", "State"],
+["terceiro grau", "State"],
+["membros superiores e inferiores", "State"],
+["Arcozelo", "Location"],
+["Vila Nova de Gaia", "Location"],
+["Sapadores", "Organization"],
+["Bombeiros", "Organization"],
+["Aguda", "Location"],
+["Centro Hospitalar de Vila Nova de Gaia/Espinho", "Location"],
+["Proteção Civil", "Organization"]
+]
+
+Explanation:
+
+* "Homem" is classified as "State" because it refers to the person's current state.
+* "incêndio" is classified as "Occurrence" because it refers to an event that happened.
+* "hoje" is classified as "Aspectual" because it refers to the aspect of the event (i.e. that it happened today).
+* "sufere" and "sofre" are both classified as "Intensional State" because they refer to the person's state of suffering.
+* "queimaduras" is classified as "State" because it refers to the person's current state.
+* "terceiro grau" is classified as "State" because it refers to the severity of the burns.
+* "membros superiores e inferiores" is classified as "State" because it refers to the parts of the person's body that were affected.
+* "Arcozelo", "Vila Nova de Gaia", "Aguda", and "Centro Hospitalar de Vila Nova de Gaia/Espinho" are all classified as "Location" because they refer to specific places.
+* "Sapadores" and "Bombeiros" are both classified as "Organization" because they refer to groups of people who responded to the incident.
+* "Proteção Civil" is classified as "Organization" because it refers to the organization that provided information about the incident.

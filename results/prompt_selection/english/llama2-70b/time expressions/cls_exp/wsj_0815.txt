@@ -1,0 +1,1 @@
+[["Corp.", "ORGANIZATION"], ["DIG", "ORGANIZATION"], ["Rose Partners Limited Partnership", "ORGANIZATION"], ["DIG", "ORGANIZATION"], ["Di Giorgio", "ORGANIZATION"], ["Mellor", "PERSON"], ["Di Giorgio", "ORGANIZATION"]]

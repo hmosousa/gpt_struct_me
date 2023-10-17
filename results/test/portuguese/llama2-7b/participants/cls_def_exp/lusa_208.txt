@@ -1,0 +1,23 @@
+[["Avi\u00f3o", "Obj"], ["aterra", "Per"], ["de emerg\u00eancia", "Per"], ["no aeroporto", "Loc"], ["de Lisboa", "Loc"], ["devido", "Per"], ["a falha", "Per"], ["no motor", "Obj"], ["Um av\u00edo", "Per"], ["aterrou", "Per"], ["de emerg\u00eancia", "Per"], ["no Aeroporto", "Loc"], ["Humberto Delgado", "Loc"], ["em Lisboa", "Loc"], ["devido", "Per"], ["a uma falha", "Per"], ["no motor", "Obj"], ["O alerta", "Per"], ["para a aterragem", "Per"], ["de emerg\u00eancia", "Per"], ["por a aeronave", "Per"], ["ter um motor", "Per"], ["parado", "Per"], ["segundo", "Per"], ["a mesma", "Per"], ["fonte", "Per"], ["da Pol\u00edcia", "Per"], ["de Seguran\u00e7a", "Per"], ["P\u00e9lida", "Loc"], ["pelas", "Per"], ["17:50", "Per"], ["O av\u00edo", "Per"], ["p\u00e9rte", "Per"], ["a companhia", "Per"], ["a\u00e9ria", "Per"], ["Jota Aviation", "Per"], ["e fazia", "Per"], ["a liga\u00e7\u00e3o", "Per"], ["entre", "Per"], ["os aeroportos", "Per"], ["de Farnborough", "Per"], ["na Inglaterra", "Per"], ["e Lisboa", "Per"], ["de acordo", "Per"], ["com", "Per"], ["o ‘site’", "Per"], ["da ANA-Aeroportos", "Per"], ["de Portugal", "Per"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"Autoridades francesas detêm 10 pessoas suspeitas de terrorismo
+A polícia francesa detém hoje 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo, informou o ministério do Interior.
+A polícia francesa detém 10 pessoas suspeitas de terrorismo,

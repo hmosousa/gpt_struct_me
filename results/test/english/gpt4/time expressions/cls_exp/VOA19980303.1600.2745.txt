@@ -1,0 +1,1 @@
+[["the past year", "DATE"], ["last year", "DATE"], ["this year", "DATE"], ["the year two thousand", "DATE"], ["last year", "DATE"]]

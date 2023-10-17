@@ -1,0 +1,1 @@
+["domingo", "21:45 de domingo", "Cruz Vermelha local"]

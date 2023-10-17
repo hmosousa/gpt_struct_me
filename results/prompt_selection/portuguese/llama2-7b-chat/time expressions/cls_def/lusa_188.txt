@@ -1,0 +1,14 @@
+[
+{entity: "48 anos", class: "Age"},
+{entity: "17 horas", class: "Time"},
+{entity: "acidente de trabalho", class: "Event"},
+{entity: "Vilarinhos dos Galegos", class: "Location"},
+{entity: "Mogadouro", class: "Location"},
+{entity: "Bragança", class: "Location"},
+{entity: "Lusa", class: "Media"},
+{entity: "INEM", class: "Organization"},
+{entity: "GNR", class: "Organization"}
+]
+
+Note:
+The output is a JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.

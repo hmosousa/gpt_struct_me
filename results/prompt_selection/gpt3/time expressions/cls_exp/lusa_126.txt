@@ -1,1 +1,0 @@
-[["sábado", "Date"], ["no decorrer de uma ação de patrulhamento", "Duration"], ["34 e os 43 anos", "Set"], ["no concelho de Sines", "Time"]]

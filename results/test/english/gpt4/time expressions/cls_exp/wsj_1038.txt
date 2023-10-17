@@ -1,0 +1,1 @@
+[["third-quarter", "DATE"], ["A year ago", "DATE"], ["yesterday", "DATE"], ["within 18 months", "DURATION"]]

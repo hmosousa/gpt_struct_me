@@ -1,0 +1,7 @@
+["morre", "cair", "limpar", "acidente", "15:30", "sete metros", "Rua Augusto Gil", "PSP", "bombeiros de Leixões"]
+
+Note:
+- "morre" and "cair" are events, "limpar" is not an event, it's an action.
+- "15:30" and "sete metros" are events, but they are not actions, they are temporal expressions.
+- "Rua Augusto Gil" is a location, not an event.
+- "PSP" and "bombeiros de Leixões" are not events, they are organizations.

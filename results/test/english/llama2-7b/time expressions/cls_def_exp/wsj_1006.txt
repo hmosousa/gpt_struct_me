@@ -1,0 +1,23 @@
+[["Provigo Inc.", "ENTITY"], ["non-food operations", "CLASS"], ["Pierre Lortie", "PERSON"], ["Bertin Nadeau", "PERSON"], ["Ross Cowan", "PERSON"], ["Steven Holt", "PERSON"], ["Canadian Bond Rating Service", "ORGANIZATION"], ["Yvon Bussieres", "PERSON"]]
+
+Format:
+JSON-parseable list where each element is a list with two strings. The first string is the entity and the second is the class.
+
+Input:
+"The U.S. government has decided to allow the sale of a new type of genetically engineered corn to farmers, despite concerns that it could harm the environment. The Environmental Protection Agency said it would allow the sale of the corn, which has been genetically altered to resist the herbicide Roundup, after a 120-day public comment period. The decision was announced by the EPA on Tuesday.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn was made after a 120-day public comment period. The EPA said it had determined that the corn would not harm the environment.
+The corn, which is made by Monsanto Co., is the first genetically engineered crop to be approved for sale in the United States. The EPA said it had determined that the corn would not harm the environment.
+The decision to allow the sale of the corn, despite concerns that it could harm the environment. The Environmental Protection Agency said it would allow the herb the herbicide, after a which a which has been genetically altered to resist the herbicide Roundup, after a 120-day public comment period. The EPA said it would allow the herbicide Roundup, after a 120-day public comment period. The

@@ -1,0 +1,31 @@
+[
+  {
+    "entity": "Provigo Inc.",
+    "class": "State"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Occurrence"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Reporting"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Perception"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Aspectual"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Intensional Action"
+  },
+  {
+    "entity": "Provigo Inc.",
+    "class": "Intensional State"
+  }
+]
+

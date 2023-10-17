@@ -1,1 +1,0 @@
-[["segunda-feira", "Date"], ["12:00 locais", "Time"], ["13:00 em Lisboa", "Time"]]

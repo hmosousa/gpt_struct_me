@@ -1,0 +1,1 @@
+[["em sábado", "Duration"], ["09:56", "Time"], ["hoje", "Date"], ["34 anos", "Duration"], ["Estarreja", "Location"], ["Transportadora J Amaral", "Organization"], ["GNR de Aveiro", "Organization"], ["Lusa", "Organization"], ["Delegada de Saúde", "Organization"], ["Polícia Judiciária", "Organization"], ["Viatura Médica de Emergência e Reanimação de Aveiro", "Organization"]]

@@ -1,0 +1,67 @@
+
+JSON-parseable list of strings.
+
+Note:
+
+* The list of strings should be in the format of an array of objects, where each object represents a single event trigger.
+* Each object should have the following properties:
+	+ "text": the text of the event trigger (e.g. "pediu", "desculpa", "erros", etc.)
+	+ "type": the type of event trigger (e.g. "verb", "noun", etc.)
+	+ "value": the value of the event trigger (e.g. "desculpa", "erros", etc.)
+
+Example output:
+
+[
+{
+"text": "pediu",
+"type": "verb",
+"value": "desculpa"
+},
+{
+"text": "erros",
+"type": "noun",
+"value": "levaram"
+},
+{
+"text": "mortes",
+"type": "noun",
+"value": "820"
+},
+{
+"text": "quarentena",
+"type": "noun",
+"value": "divulgação"
+},
+{
+"text": "desculpa",
+"type": "verb",
+"value": "pedir"
+},
+{
+"text": "erros",
+"type": "noun",
+"value": "cometidos"
+},
+{
+"text": "disse",
+"type": "verb",
+"value": "Dan Andrews"
+},
+{
+"text": "fraco controlo",
+"type": "noun",
+"value": "quarentena"
+},
+{
+"text": "infeções",
+"type": "noun",
+"value": "desencadearam"
+},
+{
+"text": "transmissão comunitária",
+"type": "noun",
+"value": "caso"
+}
+]
+
+Note that the output is a JSON-parseable list of strings, where each string represents an event trigger, and each event trigger has a "text", "type", and "value" property.

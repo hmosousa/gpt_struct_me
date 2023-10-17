@@ -1,0 +1,11 @@
+["hoje", "20:20 de hoje", "20:20", "hoje", "20:20", "20:20 de hoje"]
+
+Note:
+
+* The input text is in Portuguese.
+* The output should be a list of time expressions in the format "day month year hour:minute", where day, month, and year are in Portuguese, and hour and minute are in English.
+* The input text may contain other information besides time expressions, which should be ignored.
+* The output should be a JSON-parseable list of strings.
+* The time expressions should be extracted from the input text using a natural language processing technique such as named entity recognition or dependency parsing.
+* The time expressions should be normalized to a standard format to facilitate comparison and processing.
+* The output should be a list of unique time expressions, without duplicates.

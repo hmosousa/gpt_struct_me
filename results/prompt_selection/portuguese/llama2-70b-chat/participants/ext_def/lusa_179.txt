@@ -1,0 +1,7 @@
+[
+"homem de 47 anos",
+"mulher de 26 anos",
+"Ministério Público (MP)",
+"Polícia Judiciária",
+"arguido"
+]

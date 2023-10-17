@@ -1,0 +1,60 @@
+[["menos de uma semana", "Duration"], ["sábado", "Date"], ["sábado", "Date"], ["setembro", "Time"], ["final do ano", "Time"], ["menos de uma semana", "Duration"], ["30 nov 2020", "Date"], ["época de veda", "Time"], ["épocas de veda", "Time"]]
+
+Explanation:
+	The first element is the entity and the second is the class.
+	The entity is the string that is extracted from the text.
+	The class is the class that the entity belongs to.
+
+Constraints:
+	The input is a string.
+	The input is a valid JSON string.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON string with a list of entities and classes.
+	The input is a valid JSON

@@ -1,0 +1,17 @@
+[
+["Homem", "Person"],
+["PSP", "Organization"],
+["Cometlis", "Organization"],
+["Polícia Judiciária", "Organization"],
+["Lusa", "Organization"],
+["vítima", "Person"],
+["suspeito", "Person"]
+]
+
+Explanation:
+
+* "Homem" and "vítima" are both classified as "Person" because they are individuals involved in the event.
+* "PSP" and "Cometlis" are both classified as "Organization" because they are law enforcement agencies involved in the event.
+* "Polícia Judiciária" is classified as "Organization" because it is a law enforcement agency involved in the event.
+* "Lusa" is classified as "Organization" because it is a news agency involved in the event.
+* "suspeito" is classified as "Person" because it is an individual involved in the event.

@@ -1,0 +1,10 @@
+[
+"now",
+"August",
+"Aug. 26",
+"Oct. 20",
+"1988",
+"two years",
+"18 months",
+"August 10"
+]

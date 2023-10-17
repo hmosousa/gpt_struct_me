@@ -1,0 +1,35 @@
+[
+["PJ", "Organization"],
+["homem de Penafiel", "Person"],
+["Polícia Judiciária", "Organization"],
+["Diretoria do Norte", "Organization"],
+["GNR", "Organization"],
+["Duas Igrejas", "Location"],
+["Penafiel", "Location"],
+["Porto", "Location"],
+["trabalhador da construção civil", "Person"]
+]
+
+Explanation:
+The input text describes a crime scene where a man killed a woman with a knife. The police (PJ) detained the man and the investigation is ongoing. The text also mentions the location of the crime (Duas Igrejas and Penafiel) and the fact that the man worked in construction.
+
+The output is a list of entities and their corresponding classes. The classes are:
+
+* Person: refers to a human being, either a victim, a suspect, or a witness.
+* Organization: refers to a legal entity, such as a police department or a company.
+* Location: refers to a physical place, such as a city, a street, or a building.
+* Nature: refers to a natural entity, such as a mountain, a river, or a forest.
+* Facility: refers to a man-made structure, such as a hospital, a school, or a prison.
+* Other: refers to any entity that doesn't fit into the above categories.
+
+In this case, the output list contains the following entities and classes:
+
+* PJ: Organization
+* homem de Penafiel: Person
+* Polícia Judiciária: Organization
+* Diretoria do Norte: Organization
+* GNR: Organization
+* Duas Igrejas: Location
+* Penafiel: Location
+* Porto: Location
+* trabalhador da construção civil: Person

@@ -1,0 +1,8 @@
+[
+"hoje",
+"hasta agora",
+"hoje às 20:30",
+"dias",
+"meses",
+"anos"
+]

@@ -1,0 +1,10 @@
+[["Xerox Corp.", "DATE"], ["this week", "DATE"], ["300", "NUMBER"], ["25%", "NUMBER"], ["$4 million", "NUMBER"], ["$492 million", "NUMBER"], ["$4.55", "NUMBER"], ["$12.97 billion", "NUMBER"], ["Hurricane Hugo", "DATE"], ["California earthquake", "DATE"]]
+
+Note:
+The output format is a JSON-parseable list. The first element in each sublist is the entity and the second is the class.
+
+Note:
+The input text may contain irrelevant information. Your task is to extract the relevant information and classify it according to the given classes.
+
+Note:
+You may assume that the input text is in English.

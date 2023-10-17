@@ -1,0 +1,24 @@
+[
+["GNR", "Organization"],
+["dois homens", "Person"],
+["máquinas de jogo", "Object"],
+["Vila Meã", "Location"],
+["Amarante", "Location"],
+["distrito do Porto", "Location"],
+["fonte policial", "Other"],
+["telemóvel", "Object"],
+["tablet", "Object"],
+["computador com impressora", "Object"],
+["nove litros de bebidas espirituosas", "Object"]
+]
+
+Explanation:
+
+* GNR is an organization.
+* dois homens are people.
+* máquinas de jogo are objects.
+* Vila Meã and Amarante are locations.
+* distrito do Porto is a location.
+* fonte policial is other.
+* telemóvel, tablet, and computador com impressora are objects.
+* nove litros de bebidas espirituosas is an object.

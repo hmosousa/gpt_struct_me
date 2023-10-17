@@ -1,0 +1,29 @@
+[
+["GNR", "Organization"],
+["suspeitos", "Person"],
+["homens", "Person"],
+["antecedentes criminais", "Other"],
+["investigação", "Other"],
+["crimes", "Other"],
+["Vila Verde", "Location"],
+["Braga", "Location"],
+["heroína", "Object"],
+["cocaína", "Object"],
+["haxixe", "Object"],
+["telemóveis", "Object"],
+["computadores", "Object"],
+["máquina fotográfica", "Object"],
+["aparelho GPS", "Object"]
+]
+
+Explanation:
+
+* GNR is an organization, so it is classified as "Organization".
+* suspeitos is a person, so it is classified as "Person".
+* homens is a person, so it is classified as "Person".
+* antecedentes criminais is an other, so it is classified as "Other".
+* investigação is an other, so it is classified as "Other".
+* crimes is an other, so it is classified as "Other".
+* Vila Verde and Braga are locations, so they are classified as "Location".
+* heroína, cocaína, and haxixe are objects, so they are classified as "Object".
+* telemóveis, computadores, máquina fotográfica, and aparelho GPS are objects, so they are classified as "Object".

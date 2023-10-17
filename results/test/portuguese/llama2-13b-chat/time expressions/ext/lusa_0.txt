@@ -1,0 +1,18 @@
+[
+"sábado",
+"hoje",
+"na sequência de uma denúncia a informar sobre a existência de 'uma festa com música ao vivo num estabelecimento de bebidas'",
+"cumprimento das normas referentes à pandemia de covid-19"
+]
+
+Explanation:
+
+* "sábado" is a time expression indicating the day of the week.
+* "hoje" is a time expression indicating the current day.
+* "na sequência de uma denúncia a informar sobre a existência de 'uma festa com música ao vivo num estabelecimento de bebidas'" is a time expression indicating the order of events.
+* "cumprimento das normas referentes à pandemia de covid-19" is a time expression indicating the purpose of the event.
+
+Note:
+
+* The list of time expressions is in the format of a JSON-parseable list of strings.
+* The output is a list of strings, each representing a time expression found in the input text.

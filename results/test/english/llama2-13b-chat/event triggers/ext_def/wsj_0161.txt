@@ -1,0 +1,17 @@
+["$7.5 million reserve for its defense group", "$4.7 million charge related to problems under a fixed-price development contract", "$2.8 million in overhead costs that won't be reimbursed", "$3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful", "interest costs", "amortization of goodwill"]
+
+Explanation:
+
+* "said it expects to report" is a future event
+* "third-quarter net loss" is a future event
+* "special reserves" is a future event
+* "continued low natural-gas prices" is a current state
+* "will record" is a future event
+* "write off" is a future event
+* "interest costs" is a current state
+* "amortization of goodwill" is a current state
+
+Note:
+
+* The list of event triggers is not exhaustive, and there may be other events that can be extracted from the text.
+* The list of event triggers is in the order they appear in the text.

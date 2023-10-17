@@ -1,1 +1,0 @@
-[["69 anos", "Date"], ["hoje", "Date"], ["estado de coma", "Set"], ["tarde", "Time"]]

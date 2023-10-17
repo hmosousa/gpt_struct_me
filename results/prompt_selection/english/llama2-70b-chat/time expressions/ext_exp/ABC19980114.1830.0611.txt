@@ -1,0 +1,4 @@
+["today", "night", "nothing", "moment", "last", "conversation", "climb", "maintain", "leavin", "minute", "half", "later", "pilot", "explosion", "sixteen", "thousand", "feet", "response", "later", "prayer", "point", "clear", "plane", "someone", "God", "bless", "him"]
+
+Note:
+The output format is a JSON-parseable list of strings.

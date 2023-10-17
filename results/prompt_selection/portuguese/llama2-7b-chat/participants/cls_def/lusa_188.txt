@@ -1,0 +1,26 @@
+[
+{
+"Homem de 48 anos",
+"Person"
+},
+{
+"Mogadouro",
+"Location"
+},
+{
+"Vilarinhos dos Galegos",
+"Location"
+},
+{
+"INEM",
+"Organization"
+},
+{
+"GNR de Mogadouro",
+"Organization"
+},
+{
+"José Carrasco",
+"Person"
+}
+]

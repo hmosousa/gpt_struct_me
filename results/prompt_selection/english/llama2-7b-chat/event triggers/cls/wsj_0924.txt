@@ -1,0 +1,30 @@
+[
+{
+"entity": "Dominion Textile Inc.",
+"class": "State"
+},
+{
+"entity": "shareholder-rights plan",
+"class": "Aspectual"
+},
+{
+"entity": "poison pill",
+"class": "Aspectual"
+},
+{
+"entity": "hostile bidder",
+"class": "Occurrence"
+},
+{
+"entity": "shareholders",
+"class": "Aspectual"
+},
+{
+"entity": "net income",
+"class": "Intensional Action"
+},
+{
+"entity": "sales",
+"class": "Intensional Action"
+}
+]

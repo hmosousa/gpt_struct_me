@@ -1,0 +1,16 @@
+
+[
+"six months",
+"March",
+"June",
+"four",
+"year",
+"first nine months of the year",
+"recently",
+"Friday",
+"20%",
+"10%",
+"half price",
+"1987",
+"Sept. 29"
+]
