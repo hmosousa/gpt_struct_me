@@ -1,1 +1,0 @@
-[["rejected", "OCCURRENCE"], ["blowing up", "OCCURRENCE"], ["brought", "OCCURRENCE"], ["hailed", "OCCURRENCE"], ["press", "OCCURRENCE"], ["filed", "OCCURRENCE"], ["imposed", "OCCURRENCE"], ["overruled", "OCCURRENCE"], ["gives", "OCCURRENCE"], ["try", "OCCURRENCE"]]

@@ -1,1 +1,0 @@
-[["lights","State"], ["heat","State"], ["vital signs","State"], ["ice storm","Occurrence"], ["New York governor George Pataki","Reporting"], ["five counties","Aspectual"], ["state of emergency","Intensional State"], ["Helicopters","Occurrence"], ["Maine","Aspectual"], ["half million people","Aspectual"], ["power","State"]]

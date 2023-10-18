@@ -1,1 +1,0 @@
-[["falling", "OCCURRENCE"], ["set", "OCCURRENCE"], ["come", "OCCURRENCE"], ["increase", "OCCURRENCE"], ["made", "OCCURRENCE"], ["fell", "OCCURRENCE"], ["according", "REPORTING"]]

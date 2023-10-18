@@ -1,9 +1,0 @@
-[
-  ["CAGUAS, Puerto Rico (AP)_ Kidnappers kept their promise to kill a store owner they took hostage and police found the man's dismembered and decapitated body Friday wrapped in plastic garbage bags.", "State"],
-  ["Police confirmed Friday that the body found along a highway in this municipality 15 miles south of San Juan belonged to Jorge Hernandez, 49.", "Occurrence"],
-  ["Hernandez was kidnapped from his small, neighborhood store in the town of Trujillo Alto at 10 p.m. Wednesday, police said.", "Reporting"],
-  ["The store owner's body was found with the arms and head cut off and the parts stuffed in separate garbage bags.", "Perception"],
-  ["A passerby called police to report the body alongside the road.", "Aspectual"],
-  ["Puerto Rico Police Superintendent Pedro Toledo urged people who might be targeted by kidnappers to be alert.", "Intensional Action"],
-  ["There has been an increase in Puerto Rico in this kind of thing and some of these bands of kidnappers are made up of foreigners.", "Intensional State"]
-]

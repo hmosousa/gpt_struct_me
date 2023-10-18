@@ -1,1 +1,0 @@
-[["Índia", "Location"], ["Hyderabad", "Location"], ["oito pessoas", "Person"], ["muro", "Object"], ["chuva", "Nature"], ["recorde", "Object"], ["inundações", "Nature"], ["barcos", "Facility"], ["sul da Ásia", "Location"], ["inundações", "Nature"], ["Índia", "Location"], ["Bangladesh", "Location"], ["Nepal", "Location"], ["enchentes", "Nature"]]

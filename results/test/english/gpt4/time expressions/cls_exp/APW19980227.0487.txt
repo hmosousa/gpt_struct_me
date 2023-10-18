@@ -1,1 +1,0 @@
-[["Friday", "DATE"], ["more than four hours Friday", "DURATION"], ["November 1995", "DATE"]]

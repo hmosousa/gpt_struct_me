@@ -1,1 +1,0 @@
-[["Dec. 15", "DATE"], ["Nov. 17", "DATE"], ["quarterly", "SET"], ["yesterday", "DATE"]]

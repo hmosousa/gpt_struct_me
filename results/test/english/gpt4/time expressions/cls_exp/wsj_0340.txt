@@ -1,1 +1,0 @@
-[["Earlier yesterday", "DATE"], ["last week", "DATE"], ["Monday", "DATE"]]

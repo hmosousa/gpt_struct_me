@@ -1,1 +1,0 @@
-[["third quarter ended Sept. 30", "DATE"], ["last year", "DATE"], ["This quarter", "DATE"], ["this year's third quarter", "DATE"], ["last year", "DATE"], ["last year's quarter", "DATE"]]

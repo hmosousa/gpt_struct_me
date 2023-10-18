@@ -1,1 +1,0 @@
-[["today", "DATE"], ["later this year", "DATE"], ["the third quarter of 1984", "DATE"], ["third-quarter", "DATE"], ["a year ago", "DATE"]]

@@ -1,1 +1,0 @@
-[["apreendeu", "I_Action"], ["informou", "Reporting"], ["apreendidos", "Occurrence"], ["detetada", "Occurrence"], ["intercetada", "Occurrence"], ["conseguiram intercetar", "Occurrence"], ["encetaram fuga", "Occurrence"], ["informadas", "Reporting"], ["detetada", "Occurrence"], ["ajuda", "State"], ["ação", "State"], ["remetidos", "Occurrence"]]

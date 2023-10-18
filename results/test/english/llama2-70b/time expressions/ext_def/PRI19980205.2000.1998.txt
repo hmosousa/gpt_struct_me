@@ -1,1 +1,0 @@
-["today", "five million", "second world war", "September", "year two thousand"]

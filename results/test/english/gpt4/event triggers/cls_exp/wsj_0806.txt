@@ -1,1 +1,0 @@
-[["registered", "OCCURRENCE"], ["sell", "OCCURRENCE"], ["sell", "OCCURRENCE"], ["estimates", "REPORTING"], ["expects", "I_STATE"], ["use", "OCCURRENCE"], ["repay", "OCCURRENCE"], ["establishing", "OCCURRENCE"], ["has", "STATE"], ["will", "I_STATE"], ["owning", "OCCURRENCE"]]

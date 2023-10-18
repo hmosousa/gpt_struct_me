@@ -1,1 +1,0 @@
-["next week", "Monday", "Al Gore", "Israel"]

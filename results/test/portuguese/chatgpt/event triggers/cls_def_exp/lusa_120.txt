@@ -1,1 +1,0 @@
-[["ficou", "State"], ["baleado", "Occurrence"], ["ficou", "State"], ["ferido", "State"], ["transportado", "I_Action"], ["referiu", "Reporting"], ["causas", "State"], ["incidente", "Occurrence"], ["desconhecidas", "State"], ["identificados", "Occurrence"], ["detidos", "Occurrence"], ["entregue", "I_Action"], ["investigação", "Occurrence"]]

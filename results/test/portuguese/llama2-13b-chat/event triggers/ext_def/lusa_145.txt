@@ -1,1 +1,0 @@
-["assaltos", "tráfico de drogas", "furto", "crimes", "buscas domiciliárias", "apreensão de drogas", "cocaína", "heroína", "telemóveis", "computadores", "máquina fotográfica", "aparelho GPS"]

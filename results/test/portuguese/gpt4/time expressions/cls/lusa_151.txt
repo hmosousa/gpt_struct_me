@@ -1,7 +1,0 @@
-[
-["hoje", "Date"],
-["nos últimos anos", "Duration"],
-["2016", "Date"],
-["2017", "Date"],
-["no início do mês de dezembro", "Date"]
-]

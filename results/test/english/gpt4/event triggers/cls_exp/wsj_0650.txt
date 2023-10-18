@@ -1,1 +1,0 @@
-[["announced", "REPORTING"], ["being issued", "ASPECTUAL"], ["convertible", "STATE"], ["available", "STATE"]]

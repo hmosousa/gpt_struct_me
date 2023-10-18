@@ -1,8 +1,0 @@
-["sold", "lent", "convertible", "increased"]
-
-Explanation:
-The event triggers are "sold", "lent", "convertible", and "increased".
-
-Note:
-The event triggers are not necessarily in the order they appear in the text.
-

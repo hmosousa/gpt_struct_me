@@ -1,9 +1,0 @@
-["domingo", "30 nov 2020", "no domingo"]
-
-Note:
-
-* The input text may contain other temporal expressions that are not explicitly mentioned in the example, such as "hoje", "ontem", "amanhã", "agora", etc.
-* The output format is a JSON-parseable list of strings, which means that the strings should be separated by commas and wrapped in square brackets, like this: ["string1", "string2", "string3"].
-* The task is to extract all temporal expressions from the input text, regardless of their format or language.
-* The input text may contain irrelevant information or noise, so the algorithm should be able to handle such cases and only extract the relevant temporal expressions.
-* The output should only contain the temporal expressions that are relevant to the task, and not any other information that may be present in the input text.

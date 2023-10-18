@@ -1,1 +1,0 @@
-["Thursday", "two-week", "two-hour", "Thursday", "August 2", "Thursday", "Wednesday", "Thursday", "September"]

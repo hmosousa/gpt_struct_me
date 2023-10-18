@@ -1,9 +1,0 @@
-[
-"Dirigente da Casa Branca",
-"Donald Trump",
-"Kash Patel",
-"Austin Tice",
-"Majd Kamalmaz",
-"Embaixador",
-"Virgínia"
-]

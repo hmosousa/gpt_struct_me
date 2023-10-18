@@ -1,1 +1,0 @@
-[["yesterday", "DATE"], ["Oct. 31", "DATE"], ["five years ago", "DATE"], ["last year", "DATE"], ["third-quarter", "DATE"], ["the year-ago period", "DATE"]]

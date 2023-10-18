@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["na quinta-feira", "Date"]]

@@ -1,1 +1,0 @@
-[["acquired", "OCCURRENCE"], ["sold", "OCCURRENCE"], ["plans", "I_STATE"], ["use", "OCCURRENCE"], ["finance", "OCCURRENCE"], ["acquiring", "OCCURRENCE"], ["increased", "OCCURRENCE"], ["underwrites", "OCCURRENCE"], ["insures", "OCCURRENCE"], ["owns", "OCCURRENCE"], ["said", "REPORTING"], ["said", "REPORTING"]]

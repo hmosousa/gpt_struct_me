@@ -1,4 +1,0 @@
-["violência doméstica", "apreender armas", "buscas domiciliares", "violento", "consumo abusivo de álcool"]
-
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are "violência doméstica", "apreender armas", "buscas domiciliares", "violento", and "consumo abusivo de álcool". These words and phrases signal the occurrence of specific events, such as the aprehension of weapons, the search of homes, and the alleged violent behavior of the suspect.

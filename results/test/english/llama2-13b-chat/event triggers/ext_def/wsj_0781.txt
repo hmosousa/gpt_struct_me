@@ -1,2 +1,0 @@
-
-[ "Intel Corp.'s most powerful computer chip has flaws", "flaws in its 80486 microprocessor chip's "floating-point unit"", "two flaws in its 80486 microprocessor chip", "bugs like this are just a normal part of product development", "these bugs don't affect our schedule at all", "won't delay their development of 486-based machines", "bugless chips next week", "corrected the problems", "esoteric applications such as computer-aided design and scientific calculations", "business programs", "specific and rare circumstances that will not occur in typical applications" ]

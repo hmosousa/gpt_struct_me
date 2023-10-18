@@ -1,2 +1,0 @@
-[["Pacific First Financial Corp.", "State"], ["Pacific First Financial Corp.", "Occurrence"], ["Pacific First Financial Corp.", "Reporting"], ["Pacific First Financial Corp.", "Perception"], ["Pacific First Financial Corp.", "Aspectual"], ["Pacific First Financial Corp.", "Intensional Action"], ["Pacific First Financial Corp.", "Intensional State"]]
-

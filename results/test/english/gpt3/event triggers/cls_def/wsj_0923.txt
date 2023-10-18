@@ -1,1 +1,0 @@
-[["Kyle Technology Corp.", "State"], ["Seattle investor", "Occurrence"], ["letter of intent", "Reporting"], ["Donald A. Wright", "Perception"], ["run the company", "Aspectual"], ["transaction", "Intensional Action"], ["Kyle's board", "Intensional State"], ["company's shareholders", "Intensional State"], ["electronic components", "State"]]

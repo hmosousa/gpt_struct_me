@@ -1,4 +1,0 @@
-[
-"na Maia", "homem de 59 anos", "por maus-tratos", "sobre o pai", "de 89 anos", "em setembro de 2019", "terá agredido", "injuriado", "coagido", "a vítima", "dinar de dinheiro", "satisfazer o seu vício", "de consumo de estupefacientes", "mandado de detenção", "cumprimento", "quarta-feira", "Tribunal de Instrução Criminal de Matosinhos", "aplicação das medidas de coação"]
-Note:
-The output is a list of strings, each representing a time expression in the input text.

@@ -1,1 +1,0 @@
-["20 years", "Tuesday", "1989", "last year", "this year", "next year", "1987", "Monday"]

@@ -1,1 +1,0 @@
-[["authorized", "I_ACTION"], ["split", "OCCURRENCE"], ["payable", "STATE"], ["aimed", "ASPECTUAL"], ["boosting", "ASPECTUAL"], ["said", "REPORTING"], ["will", "ASPECTUAL"], ["have", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"]]

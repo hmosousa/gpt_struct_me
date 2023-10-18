@@ -1,8 +1,0 @@
-[
-"Homem morre em atropelamento",
-"Um ferido grave foi transportado para o Hospital de São José",
-"De acordo com a GNR de Santarém",
-"As vítimas são dois homens entre 30 e 40 anos",
-"O alerta foi dado às 18:14",
-"Estão no local 13 operacionais e cinco viaturas"
-]

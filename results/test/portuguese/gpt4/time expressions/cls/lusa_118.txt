@@ -1,6 +1,0 @@
-[
-["hoje", "Date"],
-["quarta-feira", "Date"],
-["ontem", "Date"],
-["18 a 20 de dezembro", "Date"]
-]

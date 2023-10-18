@@ -1,1 +1,0 @@
-[["Charles Keating", "State"], ["securities fraud", "Occurrence"], ["Elaine Corey", "Reporting"], ["thousands of investors", "Perception"], ["high risk junk bonds", "Aspectual"], ["Lincoln savings and loan", "Intensional Action"], ["bankrupt thrift", "Intensional State"]]

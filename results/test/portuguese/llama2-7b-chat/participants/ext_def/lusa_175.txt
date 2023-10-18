@@ -1,9 +1,0 @@
-[
-"Cadáver de homem",
-"Rio Douro",
-"Vila Nova de Gaia",
-"Polícia Marítima",
-"Rui Santos Amaral",
-"Sapadores de Vila Nova de Gaia",
-"Bombeiros de Coimbrões"
-]

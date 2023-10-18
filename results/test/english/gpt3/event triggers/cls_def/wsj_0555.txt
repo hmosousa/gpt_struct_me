@@ -1,1 +1,0 @@
-[["Waxman Industries Inc.", "State"], ["$6,542,000", "State"], ["6 1/4%", "State"], ["March 15, 2007", "Occurrence"], ["683,000", "State"], ["$9.58", "State"], ["52%", "State"], ["debentures", "Reporting"], ["conversion", "Perception"], ["holders", "Reporting"], ["face amount", "Aspectual"], ["debt", "Intensional Action"], ["common shares", "Intensional State"]]

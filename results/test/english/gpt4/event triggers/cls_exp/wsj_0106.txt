@@ -1,1 +1,0 @@
-[["raise", "OCCURRENCE"], ["said", "REPORTING"], ["retractable", "STATE"], ["convertible", "STATE"], ["redeem", "OCCURRENCE"], ["fixed", "STATE"], ["set", "OCCURRENCE"], ["declined", "OCCURRENCE"], ["discuss", "OCCURRENCE"], ["plans", "I_STATE"], ["takes", "OCCURRENCE"]]

@@ -1,6 +1,0 @@
-["madrugada de quinta-feira", "30 nov 2020", "quinta-feira"]
-
-Note:
-The input text is in Portuguese.
-
-Please extract all time expressions from the given text.

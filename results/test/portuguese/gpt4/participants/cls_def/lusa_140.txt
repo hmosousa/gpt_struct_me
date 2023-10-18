@@ -1,9 +1,0 @@
-[
-["MP", "Organization"],
-["agente da GNR de Braga", "Person"],
-["Ministério Público", "Organization"],
-["militar da GNR de Braga", "Person"],
-["Procuradoria-Geral Regional do Porto", "Organization"],
-["Núcleo de Investigação Criminal da GNR de Braga", "Organization"],
-["militares do efectivo do Núcleo de Investigação Criminal", "Person"]
-]

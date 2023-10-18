@@ -1,9 +1,0 @@
-[
-"segunda-feira",
-"segunda-feira à noite",
-"05:30",
-"dias",
-"semanas",
-"meses",
-"anos"
-]

@@ -1,9 +1,0 @@
-[
-  ["Crane Co.", "State"],
-  ["Crane Co.", "Occurrence"],
-  ["Crane Co.", "Reporting"],
-  ["Crane Co.", "Perception"],
-  ["Crane Co.", "Aspectual"],
-  ["Crane Co.", "Intensional Action"],
-  ["Crane Co.", "Intensional State"]
-]

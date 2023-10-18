@@ -1,1 +1,0 @@
-[["Covid-19", "Other"], ["Costa", "Per"], ["isolamento profil\u00e1tico", "Fac"], ["Macron", "Org"], ["Paris", "Loc"], ["Ant\u00f3nio Costa", "Per"], ["S\u00e3o Tom\u00e9 e Pr\u00edncipe", "Nat"], ["Guin\u00e9 Bissau", "Nat"], ["dezembro", "Date"]]

@@ -1,1 +1,0 @@
-["several days", "Yesterday", "today", "today", "In Maine", "a while"]

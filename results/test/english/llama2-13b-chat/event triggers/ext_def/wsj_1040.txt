@@ -1,9 +1,0 @@
-["declared a 10% stock dividend", "declared a quarterly cash dividend of 12 cents a share", "paid on the common stock also will apply to the new shares", "rewards shareholders", "should improve the stock's liquidity"]
-
-Explanation:
-
-* "declared a 10% stock dividend" is an event because it refers to a specific action taken by the company (declaring a dividend) and has a temporal relevance (payable Dec. 15).
-* "declared a quarterly cash dividend of 12 cents a share" is an event because it refers to a specific action taken by the company (declaring a dividend) and has a temporal relevance (payable Dec. 15).
-* "paid on the common stock also will apply to the new shares" is an event because it refers to a specific action taken by the company (paying dividends) and has a temporal relevance (payable Dec. 15).
-* "rewards shareholders" is not an event because it is a description of the effect of the dividend declaration, not an action or a state that takes place.
-* "should improve the stock's liquidity" is not an event because it is a prediction or a statement of expectation, not an action or a state that takes place.

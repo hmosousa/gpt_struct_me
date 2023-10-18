@@ -1,4 +1,0 @@
-[
-"depois de", "hoje", "de madrugada", "na Amadora", "no bairro Casal da Mira", "na Amadora", "dois", "ferido", "em estado muito grave", "para o Hospital Professor Doutor Fernando Fonseca", "Amadora-Sintra", "às 00:53", "desconhecidas", "identificados", "detidos"]
-Note:
-The output is a list of time expressions in the input text, separated by commas. Each time expression is represented as a JSON-parseable string.

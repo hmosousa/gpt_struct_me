@@ -1,1 +1,0 @@
-[["Diversified Investment Group Inc.", "ORGANIZATION"], ["Star States Corp.", "ORGANIZATION"], ["Fidelity Federal Savings amp Loan Association", "ORGANIZATION"], ["Pennsylvania", "LOCATION"], ["Delaware", "LOCATION"], ["lawsuits", "OCCURRENCE"]]

@@ -1,1 +1,0 @@
-[["hoje", "Date"], ["ao princípio da noite de domingo", "Time"]]

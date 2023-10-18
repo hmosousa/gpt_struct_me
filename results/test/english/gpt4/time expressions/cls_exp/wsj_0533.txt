@@ -1,1 +1,0 @@
-[["Friday", "DATE"], ["last Thursday", "DATE"], ["Nov. 6", "DATE"], ["Nov. 16", "DATE"], ["Friday evening", "TIME"], ["last week", "DATE"], ["mid-November", "DATE"], ["Thursday", "DATE"], ["Thursday", "DATE"], ["at this time", "DATE"]]

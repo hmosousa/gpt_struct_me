@@ -1,1 +1,0 @@
-["Sunday", "Monday", "two weeks ago", "10 days ago", "last week", "July", "three summers", "Sunday", "earlier Sunday", "50-strong mob"]

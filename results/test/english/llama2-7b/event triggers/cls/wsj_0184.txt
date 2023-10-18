@@ -1,9 +1,0 @@
-[
-  ["Upjohn Co.", "State"],
-  ["Upjohn Co.", "Occurrence"],
-  ["Upjohn Co.", "Reporting"],
-  ["Upjohn Co.", "Perception"],
-  ["Upjohn Co.", "Aspectual"],
-  ["Upjohn Co.", "Intensional Action"],
-  ["Upjohn Co.", "Intensional State"]
-]

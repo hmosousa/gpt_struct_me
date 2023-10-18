@@ -1,1 +1,0 @@
-["Tuesday", "later this month", "Monday"]

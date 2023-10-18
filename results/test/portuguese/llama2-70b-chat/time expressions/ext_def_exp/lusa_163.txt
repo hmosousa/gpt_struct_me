@@ -1,1 +1,0 @@
-["hoje", "13:41", "segundo", "terceiro", "58 anos"]

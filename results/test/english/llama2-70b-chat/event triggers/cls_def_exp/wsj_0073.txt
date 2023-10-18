@@ -1,6 +1,0 @@
-[["Integra-A Hotel amp Restaurant Co.", "OCCURRENCE"], ["planned rights offering", "OCCURRENCE"], ["declared effective", "OCCURRENCE"], ["mailing materials", "OCCURRENCE"], ["shareholders", "PERCEPTION"], ["rights", "OCCURRENCE"], ["shareholder", "PERCEPTION"], ["face amount", "OCCURRENCE"], ["bonds", "OCCURRENCE"], ["warrants", "OCCURRENCE"], ["common shares", "OCCURRENCE"], ["exercised", "OCCURRENCE"], ["Hallwood Group Inc.", "OCCURRENCE"], ["agreed", "OCCURRENCE"], ["exercise", "OCCURRENCE"]]
-
-Note:
-The classes are not mutually exclusive, and some entities may belong to multiple classes.
-
-Please extract and classify all event triggers in the given text.

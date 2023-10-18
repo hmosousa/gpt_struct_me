@@ -1,5 +1,0 @@
-["assalto a confeitaria", "homens roubaram caixa registadora", "fuga às autoridades", "detido em Milheirós de Poiares", "procurado cerca da 14:30", "ainda a monte"]
-
-Note:
-- "ainda a monte" is not a separate event, but a description of the state of the second assailant.
-- The events are in the order they appear in the text.

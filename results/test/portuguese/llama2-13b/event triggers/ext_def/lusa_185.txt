@@ -1,4 +1,0 @@
-["morto", "pescar", "desaparecimento", "pescador"]
-
-Explanation:
-The event triggers are "morto", "pescar", "desaparecimento", and "pescador".

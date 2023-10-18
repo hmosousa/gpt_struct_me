@@ -1,9 +1,0 @@
-[
-"quatro anos e meio",
-"dois anos",
-"cinco anos",
-"16 de maio de 2020",
-"04:20",
-"06:00",
-"2020"
-]

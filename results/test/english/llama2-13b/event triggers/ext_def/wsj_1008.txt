@@ -1,9 +1,0 @@
-["acquired", "sold", "plans", "increased", "underwrites", "effectively", "spread", "wish", "spread"]
-
-Explanation:
-The output is a list of all event triggers in the text.
-
-Note:
-The output is a list of strings.
-
-

@@ -1,2 +1,0 @@
-[["Advanced Medical Technologies Inc.", "State"], ["Advanced Medical Technologies Inc.", "Occurrence"], ["Advanced Medical Technologies Inc.", "Reporting"], ["Advanced Medical Technologies Inc.", "Perception"], ["Advanced Medical Technologies Inc.", "Aspectual"], ["Advanced Medical Technologies Inc.", "Intensional Action"], ["Advanced Medical Technologies Inc.", "Intensional State"]]
-

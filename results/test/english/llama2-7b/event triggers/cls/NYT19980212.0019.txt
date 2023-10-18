@@ -1,9 +1,0 @@
-[
-  ["NEW YORK", "Occurrence"],
-  ["NEW YORK", "Reporting"],
-  ["NEW YORK", "Perception"],
-  ["NEW YORK", "Aspectual"],
-  ["NEW YORK", "Intensional Action"],
-  ["NEW YORK", "Intensional State"]
-]
-

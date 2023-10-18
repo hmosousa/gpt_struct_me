@@ -1,5 +1,0 @@
-[
-["hoje", "Date"],
-["16:00 locais", "Time"],
-["21:00 em Lisboa", "Time"]
-]

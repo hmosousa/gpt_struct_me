@@ -1,1 +1,0 @@
-["hoje", "hora 13:00", "anos 48", "dias", "meses", "anos", "horas", "minutos", "segundos"]

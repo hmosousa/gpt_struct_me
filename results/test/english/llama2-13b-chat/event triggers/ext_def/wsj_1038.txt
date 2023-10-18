@@ -1,4 +1,0 @@
-["plans to restructure", "restructuring should help", "new capital standards", "Financial Institution Reform, Recovery and Enforcement Act", "gradual reduction in assets and staff positions", "selling branches", "consolidating or eliminating departments", "winding down or disposing of unprofitable units", "commercial real-estate lending division", "stop originating new leases at its commercial lease subsidiary"]
-
-Note:
-The list of event triggers is not exhaustive, but it should cover all the relevant events mentioned in the text.

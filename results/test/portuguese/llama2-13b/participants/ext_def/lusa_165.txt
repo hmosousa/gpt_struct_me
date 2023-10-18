@@ -1,1 +1,0 @@
-["homem", "viatura", "Estádio da Luz", "Comando Metropolitano de Lisboa", "PSP", "freguesia de São Domingos de Benfica", "Rádio Renascença", "Benfica"]

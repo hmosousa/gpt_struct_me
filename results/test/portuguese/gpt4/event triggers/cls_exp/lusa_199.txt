@@ -1,1 +1,0 @@
-[["morre", "Occurrence"], ["cair", "Occurrence"], ["limpar", "I_Action"], ["disse", "Reporting"], ["acidente", "Occurrence"], ["deu-se", "Occurrence"], ["caído", "Occurrence"], ["altura", "State"], ["compareceram", "Aspectual"]]

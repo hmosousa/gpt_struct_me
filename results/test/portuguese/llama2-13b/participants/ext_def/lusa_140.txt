@@ -1,7 +1,0 @@
-["MP", "acusa", "agente", "da", "GNR", "de", "Braga", "de", "peculato", "e", "abuso", "de", "poder"]
-
-Explanation:
-The participants in this text are "MP", "acusa", "agente", "da", "GNR", "de", "Braga", "de", "peculato", "e", "abuso", "de", "poder".
-
-Note:
-The participants are extracted from the text and not from the title.

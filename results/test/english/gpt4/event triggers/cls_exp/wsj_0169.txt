@@ -1,1 +1,0 @@
-[["raised", "OCCURRENCE"], ["said", "REPORTING"], ["remains", "STATE"], ["were", "STATE"], ["has", "OCCURRENCE"], ["is", "STATE"], ["raises", "OCCURRENCE"], ["is", "STATE"], ["derived", "OCCURRENCE"]]

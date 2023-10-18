@@ -1,9 +1,0 @@
-[
-["hoje", "Date"],
-["este ano", "Date"],
-["55 anos", "Duration"],
-["quase meia hora", "Duration"],
-["1929", "Date"],
-["2019", "Date"],
-["2018", "Date"]
-]

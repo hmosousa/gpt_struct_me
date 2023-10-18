@@ -1,9 +1,0 @@
-["detém homem com três quilos de cocaína no aeroporto", "tentava embarcar num voo com destino a Lisboa", "disse que o homem, um cidadão luso-guineense, transportava a droga dissimulada na sua cintura", "será hoje presente ao Ministério Público", "no início de outubro, a PJ já havia detido outro cidadão luso-guineense com 22 anos de idade na posse de um quilograma de cocaína"]
-
-Note:
-
-* "detém" é um evento, pois é uma ação realizada pela PJ.
-* "tentava embarcar" é um evento, pois é uma ação que o homem estava realizando.
-* "disse" é um evento, pois é uma ação de fala.
-* "será hoje presente" é um evento, pois é uma ação que será realizada no futuro.
-* "ja havia detido" é um evento, pois é uma ação que já foi realizada no passado.

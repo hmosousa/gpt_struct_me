@@ -1,1 +1,0 @@
-[["Security Pacific Corp", "ORGANIZATION"], ["La Jolla Bancorp", "ORGANIZATION"], ["La Jolla Bank amp Trust Co", "ORGANIZATION"], ["San Diego County", "LOCATION"], ["Sept. 30", "DATE"], ["$511 million", "AMOUNT"], ["$469 million", "AMOUNT"], ["Earlier this month", "DATE"], ["San Diego-based Southwest Bancorp", "ORGANIZATION"]]

@@ -1,1 +1,0 @@
-[["Sunday", "DATE"], ["Monday", "DATE"], ["Feb. 20", "DATE"], ["Sunday", "DATE"], ["two weeks ago", "DATE"], ["10 days ago", "DATE"], ["last week", "DATE"], ["Sunday", "DATE"], ["since 1972", "DATE"], ["Sunday", "DATE"], ["the past three summers", "DURATION"], ["each July", "SET"], ["this summer", "DATE"], ["Sunday", "DATE"]]

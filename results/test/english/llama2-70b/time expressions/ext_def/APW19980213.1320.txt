@@ -1,1 +1,0 @@
-["August", "March 30", "Thursday"]

@@ -1,1 +1,0 @@
-[["QVC Network Inc.", "Reporting"], ["completed", "Occurrence"], ["acquisition", "Occurrence"], ["CVN Cos.", "State"], ["$423 million", "State"], ["QVC", "State"], ["$19", "State"], ["one-eighth QVC share", "State"], ["20 million fully diluted shares", "State"], ["Home Shopping Network Inc.", "State"], ["video shopping industry", "State"], ["$1.4 billion", "State"]]

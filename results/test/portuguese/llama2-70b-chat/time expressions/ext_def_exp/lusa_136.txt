@@ -1,6 +1,0 @@
-["em setembro de 2019", "quarta-feira", "hoje", "30 nov 2020"]
-
-Note:
-The input text is in Portuguese.
-
-Please extract all time expressions from the given text.

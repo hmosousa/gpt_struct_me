@@ -1,1 +1,0 @@
-["yesterday", "100 million Finnish markkaa", "200 million markkaa", "170 million markkaa", "this week", "Tuesday"]

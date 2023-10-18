@@ -1,1 +1,0 @@
-[["$28 million", "DURATION"], ["$7.125 each", "DURATION"], ["$22.5 million", "DURATION"], ["93.2%", "DURATION"], ["91.2%", "DURATION"]]

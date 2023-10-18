@@ -1,1 +1,0 @@
-[["Três", "Person"], ["Camacupa", "Location"], ["Bié", "Location"], ["Kwanza", "Location"], ["oito", "Person"], ["mamífero", "Object"], ["criança", "Person"], ["Muinha", "Location"], ["Baptista Sambango", "Person"], ["ponte", "Facility"], ["população", "Person"]]

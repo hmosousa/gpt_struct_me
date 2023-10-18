@@ -1,1 +1,0 @@
-[["Avião", "Object"], ["Aeroporto de Lisboa", "Location"], ["Polícia de Segurança Pública", "Organization"], ["Jota Aviation", "Organization"], ["Farnborough", "Location"], ["Lisboa", "Location"], ["ANA-Aeroportos de Portugal", "Organization"]]

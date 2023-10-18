@@ -1,4 +1,0 @@
-[["First Security Corp.", "ORGANIZATION"], ["Deseret Bancorp", "ORGANIZATION"], ["$18 million", "AMOUNT"], ["550,000", "AMOUNT"], ["12.3 million", "AMOUNT"], ["Deseret Bank", "ORGANIZATION"], ["Pleasant Grove, Utah", "LOCATION"], ["$100 million", "AMOUNT"], ["$10.7 million", "AMOUNT"], ["1.65", "AMOUNT"], ["Salt Lake City", "LOCATION"], ["$5.4 billion", "AMOUNT"], ["next year", "TIME"]]
-
-Note:
-The class of the entity is based on the context of the sentence. For example, "First Security Corp." is an ORGANIZATION because it is a company. "Deseret Bank" is also an ORGANIZATION because it is a bank. "Pleasant Grove, Utah" is a LOCATION because it is a city. "1.65" is an AMOUNT because it is a numerical value. "next year" is a TIME because it is a time period.

@@ -1,1 +1,0 @@
-[["na quarta-feira", "Date"], ["até ao momento", "Time"]]

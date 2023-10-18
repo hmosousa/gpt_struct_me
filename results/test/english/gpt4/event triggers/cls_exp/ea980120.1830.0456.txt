@@ -1,1 +1,0 @@
-[["re-examine", "OCCURRENCE"], ["reported", "REPORTING"], ["found", "OCCURRENCE"], ["lost", "OCCURRENCE"], ["wants", "I_STATE"], ["tested", "OCCURRENCE"], ["said", "REPORTING"], ["contain", "OCCURRENCE"]]

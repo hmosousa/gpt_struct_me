@@ -1,1 +1,0 @@
-[["GNR de Leiria", "Organization"], ["Bidoeira de Cima", "Location"], ["Núcleo de Proteção Ambiental de Leiria", "Organization"], ["efluentes pecuários", "Object"], ["exploração agropecuária", "Facility"], ["lagoa de armazenagem de efluentes pecuários", "Facility"], ["auto de contraordenação", "Other"]]

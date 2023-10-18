@@ -1,4 +1,0 @@
-["earnings from operations", "revenue", "bad debt", "interest income", "third quarter", "1988 third quarter"]
-
-Explanation:
-The output list contains all the event triggers found in the input text. An event trigger is a word or phrase that indicates the occurrence of an event, such as "earnings from operations", "revenue", "bad debt", "interest income", "third quarter", and "1988 third quarter". These event triggers are used to identify the events that take place in the text and to extract the relevant information.

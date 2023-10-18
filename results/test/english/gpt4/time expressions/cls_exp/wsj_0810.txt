@@ -1,1 +1,0 @@
-[["Tuesday", "DATE"], ["1989", "DATE"], ["last year", "DATE"], ["this year", "DATE"], ["next year", "DATE"], ["the past 20 years", "DURATION"], ["1987", "DATE"], ["now", "DATE"], ["Monday", "DATE"], ["66.7%", "SET"], ["18.7%", "SET"], ["48%", "SET"], ["July 1", "DATE"], ["this year", "DATE"]]

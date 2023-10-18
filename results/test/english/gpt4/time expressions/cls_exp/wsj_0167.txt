@@ -1,1 +1,0 @@
-[["$3 million", "SET"], ["third quarter", "DATE"], ["a year-earlier", "DATE"], ["$3 million", "SET"], ["$2.9 million", "SET"], ["the nine months", "DURATION"], ["year-earlier", "DATE"], ["$9.8 million", "SET"], ["$8.9 million", "SET"]]

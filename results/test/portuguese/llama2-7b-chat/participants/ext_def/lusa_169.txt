@@ -1,9 +1,0 @@
-[
-"Homem de 61 anos",
-"Portalegre",
-"Carreiras",
-"GNR",
-"Polícia Judiciária",
-"Comando Distrital de Operações de Socorro (CDOS)",
-"Hospital de Portalegre"
-]

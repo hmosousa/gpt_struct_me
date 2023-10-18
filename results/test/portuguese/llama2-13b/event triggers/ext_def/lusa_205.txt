@@ -1,7 +1,0 @@
-["pornografia de menores", "menores", "imagens de menores", "cariz sexual"]
-
-Explanation:
-The event triggers are "pornografia de menores", "menores", "imagens de menores", and "cariz sexual".
-
-Note:
-The event triggers are not necessarily in the same order as they appear in the text.

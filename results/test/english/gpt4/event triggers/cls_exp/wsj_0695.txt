@@ -1,1 +1,0 @@
-[["filed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["operates", "OCCURRENCE"], ["franchises", "OCCURRENCE"], ["went", "ASPECTUAL"], ["offering", "OCCURRENCE"], ["includes", "OCCURRENCE"], ["holds", "OCCURRENCE"], ["owned", "STATE"], ["seeking", "I_ACTION"], ["controls", "OCCURRENCE"], ["comment", "OCCURRENCE"], ["ended", "ASPECTUAL"], ["had", "OCCURRENCE"]]

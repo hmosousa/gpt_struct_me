@@ -1,3 +1,0 @@
-["Good evening", "rendezvous", "Fidel Castro", "Pope", "Cuba", "United States", "Revolution Square", "Che Guevara", "Jesus", "Communism", "Cuban television", "US", "Cuban Americans", "Pope's visit", "Havana", "New York", "Diane Sawyer"]
-Note:
-The output is a JSON-parseable list of strings, where each string represents an event trigger in the input text. The event triggers are highlighted in bold in the input text.

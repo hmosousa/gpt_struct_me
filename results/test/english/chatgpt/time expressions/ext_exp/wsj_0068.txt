@@ -1,1 +1,0 @@
-["Jan. 2", "Dec. 15", "third-quarter", "year-ago"]

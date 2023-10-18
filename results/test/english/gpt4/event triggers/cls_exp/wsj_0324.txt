@@ -1,1 +1,0 @@
-[["completed", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["agreed", "REPORTING"], ["pay", "OCCURRENCE"], ["brings", "OCCURRENCE"], ["reaches", "OCCURRENCE"], ["control", "OCCURRENCE"], ["had", "OCCURRENCE"], ["sales", "OCCURRENCE"]]

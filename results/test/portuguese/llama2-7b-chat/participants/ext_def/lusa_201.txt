@@ -1,9 +1,0 @@
-[
-"Homem",
-"Ribeira Brava",
-"Madeira",
-"Roberto Gonçalves",
-"Câmara Municipal",
-"Ricardo Nascimento"
-"Forças policiais"
-]

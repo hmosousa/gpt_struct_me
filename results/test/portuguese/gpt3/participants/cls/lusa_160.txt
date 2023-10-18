@@ -1,1 +1,0 @@
-[["Ministério Público", "Organization"], ["Braga", "Location"], ["Porto", "Location"], ["2017", "Other"], ["10 anos", "Other"], ["arguido", "Person"], ["sua companheira", "Person"], ["Amares", "Location"], ["trato sexual", "Other"], ["filha da companheira", "Person"], ["05 de outubro", "Other"]]

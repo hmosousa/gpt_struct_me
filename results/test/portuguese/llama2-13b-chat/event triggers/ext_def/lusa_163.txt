@@ -1,8 +1,0 @@
-["sofreu queimaduras", "manuseava gasolina", "levada para o Hospital de São João", "ainda se desconhece a causa do acidente", "relatado ao manuseamento de gasolina"]
-
-Note:
-- "sofreu" is a verb, "queimaduras" is a noun.
-- "manuseava" is a verb, "gasolina" is a noun.
-- "levada" is a verb, "Hospital de São João" is a proper noun.
-- "ainda" is a adverb, "se desconhece" is a verb phrase.
-- "relatado" is a verb, "manuseamento" is a noun.

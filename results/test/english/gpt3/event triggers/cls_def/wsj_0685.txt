@@ -1,1 +1,0 @@
-[["CNW Corp.", "Reporting"], ["final step", "Occurrence"], ["acquisition", "Occurrence"], ["merger", "Occurrence"], ["CNW", "State"], ["Chicago amp North Western Holdings Corp.", "State"], ["CNW", "State"], ["Blackstone Capital Partners Limited Partnership", "State"], ["$50 a share", "Aspectual"], ["$950 million", "Aspectual"]]

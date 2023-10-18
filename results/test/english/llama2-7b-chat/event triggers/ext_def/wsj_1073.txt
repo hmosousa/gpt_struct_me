@@ -1,7 +1,0 @@
-[
-"purchased",
-"paid",
-"made",
-"had",
-"sales"
-]

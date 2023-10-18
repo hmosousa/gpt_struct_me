@@ -1,1 +1,0 @@
-[["this year's", "DATE"], ["early Tuesday", "TIME"], ["two day", "DURATION"], ["two days", "DURATION"], ["two million people", "SET"]]

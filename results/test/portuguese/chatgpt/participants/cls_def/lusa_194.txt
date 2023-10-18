@@ -1,8 +1,0 @@
-[
-  ["Polícia Judiciária", "Organization"],
-  ["Instituto Nacional de Emergência Médica", "Organization"],
-  ["INEM", "Organization"],
-  ["Lusa", "Organization"],
-  ["Cruz Vermelha", "Organization"],
-  ["Guimarães", "Location"]
-]

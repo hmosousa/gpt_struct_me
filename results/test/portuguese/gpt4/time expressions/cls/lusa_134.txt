@@ -1,5 +1,0 @@
-[
-["hoje", "Date"],
-["entre as 12:00 e as 12:30", "Time"],
-["cerca da 14:30", "Time"]
-]

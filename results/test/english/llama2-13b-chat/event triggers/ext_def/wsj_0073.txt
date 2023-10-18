@@ -1,4 +1,0 @@
-["rights offering", "planned rights offering", "raise about $9 million", "declared effective", "begin mailing materials to shareholders", "shareholders", "one right for each 105 common shares owned", "each right entitles the shareholder to buy $100 face amount of 13.5% bonds due 1993 and warrants to buy 23.5 common shares at 30 cents a share", "the rights", "expire Nov. 21", "can be exercised for $100 each", "Hallwood Group Inc.", "agreed to exercise any rights that aren't exercised by other shareholders"]
-
-Note:
-The output should be a list of strings, where each string represents an event trigger. The list should be in JSON-parseable format.

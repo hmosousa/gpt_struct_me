@@ -1,1 +1,0 @@
-[["Charles Keating", "PERSON"], ["federal appeals court", "ORGANIZATION"], ["Elaine Corey", "PERSON"], ["NPR", "ORGANIZATION"], ["San Francisco", "LOCATION"], ["Lincoln savings and loan", "ORGANIZATION"], ["government regulators", "ORGANIZATION"], ["Keating's lawyers", "GROUP"], ["state court", "ORGANIZATION"]]

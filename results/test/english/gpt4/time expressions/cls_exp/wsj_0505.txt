@@ -1,1 +1,0 @@
-[["yesterday", "DATE"], ["Dec. 15", "DATE"], ["the fiscal year ended Jan. 31", "DATE"], ["1992", "DATE"]]

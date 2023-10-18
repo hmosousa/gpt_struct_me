@@ -1,1 +1,0 @@
-["today", "last night", "in fact", "subsequently", "now"]

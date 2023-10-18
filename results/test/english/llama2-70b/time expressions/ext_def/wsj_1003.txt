@@ -1,1 +1,0 @@
-["third", "fourth", "first two quarters", "second", "third", "third", "fourth"]

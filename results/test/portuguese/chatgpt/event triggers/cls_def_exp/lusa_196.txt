@@ -1,1 +1,0 @@
-[["baleado", "Occurrence"], ["fugiu", "I_Action"], ["baleado", "Occurrence"], ["atingida", "Occurrence"], ["conduzida", "I_Action"], ["indicou", "Reporting"], ["ferido", "State"], ["chegou", "Occurrence"], ["chamada", "Occurrence"], ["investigar", "I_Action"], ["trata", "State"], ["determinar", "I_Action"]]

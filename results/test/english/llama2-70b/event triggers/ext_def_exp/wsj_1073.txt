@@ -1,1 +1,0 @@
-["purchased", "paid", "makes", "had"]

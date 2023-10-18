@@ -1,5 +1,0 @@
-[
-["hoje", "Date"],
-["no sábado", "Date"],
-["na segunda-feira", "Date"]
-]

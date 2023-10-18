@@ -1,4 +1,0 @@
-[
-"MOSCOW", "sign", "Presidents", "Leonid Kuchma", "Boris Yeltsin", "sign", "economic cooperation plan", "resolved", "problems", "Russia", "Ukraine", "cultures", "languages", "natural gas debts", "ITAR-Tass", "news agency", "parliaments", "ratification", "treaty", "border demarcation", "sovereignty", "ratified", "Crimean peninsula", "NATO", "Partnership for Peace program", "Black Sea", "naval exercises", "neutral", "foreseeable future", "CIS", "Commonwealth of Independent States", "trade turnover", "double", "metallurgy", "fuel", "energy", "aircraft building", "missile", "space", "chemical industries", "An-70 cargo planes", "economic reforms", "social programs", "poverty", "capitalism", "Gazprom", "debt"]
-Note:
-The output is a JSON-parseable list of strings, where each string represents an event trigger. The event triggers are extracted from the given text based on the definition provided in the task.

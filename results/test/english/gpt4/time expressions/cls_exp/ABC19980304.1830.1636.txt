@@ -1,1 +1,0 @@
-[["today", "DATE"], ["December", "DATE"], ["two hundred miles", "DURATION"], ["twenty years", "DURATION"], ["now", "DATE"], ["two hundred and thirty four", "DURATION"], ["only twenty six", "DURATION"]]

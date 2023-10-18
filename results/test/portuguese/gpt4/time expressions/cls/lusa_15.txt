@@ -1,6 +1,0 @@
-[
-["hoje", "Date"],
-["há 20 anos", "Duration"],
-["este ano", "Date"],
-["em junho", "Date"]
-]

@@ -1,1 +1,0 @@
-["this year", "Based on the current number", "As of Sept. 30", "Earlier this month"]

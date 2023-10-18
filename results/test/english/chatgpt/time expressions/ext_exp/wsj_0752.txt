@@ -1,1 +1,0 @@
-["Dec. 7", "Nov. 22", "yesterday"]

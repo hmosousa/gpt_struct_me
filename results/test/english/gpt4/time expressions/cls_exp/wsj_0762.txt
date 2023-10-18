@@ -1,1 +1,0 @@
-[["Dec. 1", "DATE"], ["Nov. 10", "DATE"], ["1989", "DATE"], ["1990", "DATE"], ["yesterday", "DATE"]]

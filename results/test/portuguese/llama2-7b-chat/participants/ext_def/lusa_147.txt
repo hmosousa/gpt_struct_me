@@ -1,6 +1,0 @@
-[
-"Ferro Rodrigues",
-"António Costa",
-"Ana Gomes Godinho",
-"João Pedro Matos Fernandes"
-]

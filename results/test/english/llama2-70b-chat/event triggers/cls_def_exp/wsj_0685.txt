@@ -1,1 +1,0 @@
-[["CNW Corp.", "OCCURRENCE"], ["merger", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["agreed", "I_ACTION"], ["Blackstone Capital Partners Limited Partnership", "OCCURRENCE"], ["$50", "OCCURRENCE"], ["$950 million", "OCCURRENCE"]]

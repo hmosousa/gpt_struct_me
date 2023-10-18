@@ -1,7 +1,0 @@
-["quarterly dividend cut", "dividend payment", "third-quarter loss", "year-ago quarter"]
-
-Explanation:
-The input text describes a series of events related to the financial performance of GOODY PRODUCTS Inc. The output list contains the names of the events mentioned in the text, in the order they appear.
-
-Note:
-The list of events is not exhaustive, and other events may be inferred from the text not explicitly mentioned.

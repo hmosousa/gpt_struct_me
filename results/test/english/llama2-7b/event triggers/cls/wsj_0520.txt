@@ -1,3 +1,0 @@
-
-{"Nashua Corp.", "State", "Occurrence", "Reporting", "Perception", "Aspectual", "Intensional Action", "Intensional State"}
-

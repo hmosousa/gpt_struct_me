@@ -1,5 +1,0 @@
-["Fidel Castro", "John Paul", "Cuba", "US", "Pope", "Cubans", "Havana", "Washington"]
-Note:
-* The list of event triggers includes all the events mentioned in the text, such as the visit of the Pope to Cuba, the US embargo against Cuba, the political and economic situation in Cuba, and the potential impact of the Pope's visit on the Cuban government and society.
-* The events are listed in a JSON-parseable format, which means they can be easily converted into a JSON object that can be used in a variety of applications.
-* The output is a list of strings, each representing a specific event mentioned in the text.

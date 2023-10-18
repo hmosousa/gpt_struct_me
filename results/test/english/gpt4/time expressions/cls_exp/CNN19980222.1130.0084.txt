@@ -1,1 +1,0 @@
-[["today", "DATE"], ["this afternoon", "TIME"], ["no more than sixty days", "DURATION"]]

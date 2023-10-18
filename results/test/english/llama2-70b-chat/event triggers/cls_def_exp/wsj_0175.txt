@@ -1,9 +1,0 @@
-[["Sony Corp", "OCCURRENCE"], ["Columbia Pictures Entertainment Inc", "OCCURRENCE"], ["Sony Columbia Acquisition Corp", "OCCURRENCE"], ["Columbia", "OCCURRENCE"], ["movie studio", "OCCURRENCE"], ["Jon Peters", "PERSON"], ["Peter Guber", "PERSON"], ["Guber/Peters Entertainment Co", "OCCURRENCE"], ["Warner Communications Inc", "OCCURRENCE"], ["litigation", "OCCURRENCE"], ["settle", "OCCURRENCE"]]
-
-Note:
-The class labels are not exclusive, and some events may belong to multiple classes.
-
-Please extract and classify all event triggers in the given text.
-
-Note:
-For this task, you can consider the named entities in the text as well.

@@ -1,9 +1,0 @@
-
-{"State": ["PROGRAM TRADING"],
- "Occurrence": ["is being curbed"],
- "Reporting": ["by more securities firms"],
- "Perception": ["but big institutional investors are expected to continue the practice"],
- "Aspectual": ["further roiling the stock market"],
- "Intensional Action": ["Bowing to criticism"],
- "Intensional State": ["joined PaineWebber in suspending stock-index arbitrage trading for their own accounts."]}
-

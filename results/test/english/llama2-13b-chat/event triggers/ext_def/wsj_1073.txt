@@ -1,4 +1,0 @@
-["purchased", "paid", "intravenous pumps", "hospitals", "sales"]
-
-Explanation:
-The event triggers in the input text are "purchased", "paid", "intravenous pumps", "hospitals", and "sales". These events are relevant to the text because they describe actions and states that are taking place or have taken place within a specific time frame.

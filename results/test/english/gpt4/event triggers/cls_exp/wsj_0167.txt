@@ -1,1 +1,0 @@
-[["facing", "OCCURRENCE"], ["seeking", "I_ACTION"], ["said", "REPORTING"], ["maintain", "I_ACTION"], ["distributes", "OCCURRENCE"], ["produces", "OCCURRENCE"], ["said", "REPORTING"], ["had", "OCCURRENCE"], ["compared", "PERCEPTION"], ["rose", "OCCURRENCE"], ["reported", "REPORTING"], ["compared", "PERCEPTION"], ["rose", "OCCURRENCE"]]

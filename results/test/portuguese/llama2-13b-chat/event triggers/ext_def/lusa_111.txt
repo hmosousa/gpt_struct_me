@@ -1,6 +1,0 @@
-["atentado", "Viena", "EI", "soldado do califado", "armas de fogo", "combatente do Estado Islâmico", "cidade de Viena", "segunda-feira", "polícia", "centro de Viena", "dupla nacionalidade", "Austríaca", "Macedónia do Norte", "liberdade condicional", "pena de prisão", "Síria"]
-
-Note:
-- The list of event triggers should be in the order they appear in the text.
-- Each event trigger should be a string.
-- The list should be JSON-parseable.

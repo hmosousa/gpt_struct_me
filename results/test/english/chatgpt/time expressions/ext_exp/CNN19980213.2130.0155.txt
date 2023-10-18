@@ -1,1 +1,0 @@
-["Thursday", "today", "future", "Thursday", "Friday", "next week"]

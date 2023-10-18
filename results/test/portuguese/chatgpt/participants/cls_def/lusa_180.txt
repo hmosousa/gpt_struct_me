@@ -1,7 +1,0 @@
-[
-  ["Polícia da República de Moçambique", "Organization"],
-  ["Leonel Muchine", "Person"],
-  ["Maputo", "Location"],
-  ["Filipe Nyusi", "Person"],
-  ["Moçambique", "Location"]
-]

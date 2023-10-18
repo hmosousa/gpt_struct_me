@@ -1,1 +1,0 @@
-[["Homem", "Person"], ["Estádio da Luz", "Facility"], ["Lisboa", "Location"], ["Comando Metropolitano de Lisboa", "Organization"], ["Cometlis", "Organization"], ["PSP", "Organization"], ["São Domingos de Benfica", "Location"], ["Rádio Renascença", "Organization"], ["relvado", "Object"], ["Benfica", "Location"]]

@@ -1,1 +1,0 @@
-[["Earlier", "DATE"], ["for the fourth quarter", "DATE"], ["right now", "DATE"], ["today", "DATE"]]

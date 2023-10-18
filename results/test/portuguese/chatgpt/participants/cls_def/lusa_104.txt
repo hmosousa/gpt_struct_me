@@ -1,1 +1,0 @@
-[["Três mortos", "Person"], ["hipopótamo", "Nature"], ["rio Kwanza", "Location"], ["embarcação artesanal", "Object"], ["sobreviventes", "Person"], ["camponeses", "Person"], ["criança", "Person"], ["administrador comunal da Muinha", "Person"], ["Baptista Sambango", "Person"], ["administrador municipal", "Person"], ["população", "Person"]]

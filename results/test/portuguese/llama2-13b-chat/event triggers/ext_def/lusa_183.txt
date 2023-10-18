@@ -1,4 +1,0 @@
-["injuriar", "ameaçar", "perseguição", "controle"]
-
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are "injuriar", "ameaçar", "perseguição", and "controle". These words indicate that the subject is engaging in harmful or threatening behavior towards the victim.

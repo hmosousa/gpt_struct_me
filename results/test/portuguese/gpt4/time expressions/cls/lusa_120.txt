@@ -1,4 +1,0 @@
-[
-["hoje de madrugada", "Time"],
-["às 00:53", "Time"]
-]

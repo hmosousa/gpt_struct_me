@@ -1,8 +1,0 @@
-["GNR encontrou idosa dada como desaparecida", "octogenária foi detetada por um cão da equipa cinotécnica", "alerta para o desaparecimento da idosa foi dado pelas 17:00 de segunda-feira", "buscas foram retomadas esta manhã", "mulher foi encontrada pelas 15:40"]
-
-Note:
-
-* The list of event triggers should be in the format of a JSON-parseable list of strings.
-* Each event trigger should be a complete sentence or phrase that describes a specific event or action that occurs in the text.
-* The event triggers should be in the order in which they appear in the text.
-* The list of event triggers should include all the events that occur in the text, including any events that are mentioned in the text but not explicitly stated as event triggers (e.g. "a octogenária foi detetada por um cão da equipa cinotécnica" is an event trigger, even though it is not explicitly stated as such in the text).

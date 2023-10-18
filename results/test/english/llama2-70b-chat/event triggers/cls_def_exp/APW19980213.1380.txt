@@ -1,1 +1,0 @@
-[["Jorge Hernandez", "PERSON"], ["kidnappers", "GROUP"], ["Trujillo Alto", "LOCATION"], ["Wednesday", "DATE"], ["dlrs 1 million", "AMOUNT"], ["noon", "TIME"], ["Thursday", "DATE"], ["Puerto Rico", "LOCATION"], ["Pedro Toledo", "PERSON"], ["people", "GROUP"], ["Latin American", "GROUP"], ["Mexico", "LOCATION"], ["Colombia", "LOCATION"], ["U.S.", "GROUP"]]

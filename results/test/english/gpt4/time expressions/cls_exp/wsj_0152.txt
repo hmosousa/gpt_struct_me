@@ -1,1 +1,0 @@
-[["5 p.m. EST Nov. 9", "TIME"], ["Nov. 6", "DATE"]]

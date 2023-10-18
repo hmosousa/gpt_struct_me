@@ -1,1 +1,0 @@
-["Friday", "third quarter", "next year", "quarter", "year-earlier quarter", "month ago", "years"]

@@ -1,1 +1,0 @@
-["said", "called", "calling", "told", "say", "cabling", "stay", "have"]

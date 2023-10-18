@@ -1,4 +1,0 @@
-[
-["terça-feira", "Date"],
-["na noite de segunda-feira", "Time"]
-]

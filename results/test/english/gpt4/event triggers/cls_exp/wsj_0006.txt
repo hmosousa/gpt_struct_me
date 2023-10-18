@@ -1,1 +1,0 @@
-[["approved", "OCCURRENCE"], ["acquisition", "OCCURRENCE"], ["expects", "I_STATE"], ["obtain", "OCCURRENCE"], ["complete", "OCCURRENCE"], ["transaction", "OCCURRENCE"], ["said", "REPORTING"], ["said", "REPORTING"]]

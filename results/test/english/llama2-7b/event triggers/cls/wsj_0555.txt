@@ -1,2 +1,0 @@
-[["Waxman Industries Inc.", "State"], ["Waxman Industries Inc.", "Occurrence"], ["Waxman Industries Inc.", "Reporting"], ["Waxman Industries Inc.", "Perception"], ["Waxman Industries Inc.", "Aspectual"], ["Waxman Industries Inc.", "Intensional Action"], ["Waxman Industries Inc.", "Intensional State"]]
-

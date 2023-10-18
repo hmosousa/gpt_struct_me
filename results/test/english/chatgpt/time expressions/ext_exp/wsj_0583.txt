@@ -1,1 +1,0 @@
-["Friday", "this year", "recent years", "the future", "Last month"]

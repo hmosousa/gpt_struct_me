@@ -1,1 +1,0 @@
-[["declared", "REPORTING"], ["payable", "STATE"], ["declared", "REPORTING"], ["apply", "OCCURRENCE"], ["said", "REPORTING"], ["rewards", "OCCURRENCE"], ["improve", "OCCURRENCE"], ["said", "REPORTING"], ["has", "STATE"], ["closed", "STATE"]]

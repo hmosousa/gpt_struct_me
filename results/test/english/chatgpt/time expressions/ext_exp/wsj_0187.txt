@@ -1,1 +1,0 @@
-["yesterday", "once", "yesterday", "this week", "Tuesday"]

@@ -1,8 +1,0 @@
-[
-  ["Homem", "Person"],
-  ["Oleiros", "Location"],
-  ["distrito de Castelo Branco", "Location"],
-  ["Comando Distrital de Operações de Socorro", "Organization"],
-  ["Centro Hospitalar e Universitário de Coimbra", "Facility"],
-  ["bombeiros", "Organization"]
-]

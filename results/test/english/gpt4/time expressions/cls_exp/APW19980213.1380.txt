@@ -1,1 +1,0 @@
-[["Friday", "DATE"], ["Friday", "DATE"], ["15 miles south of San Juan", "SET"], ["10 p.m. Wednesday", "TIME"], ["noon Thursday", "TIME"], ["recent years", "DURATION"]]

@@ -1,5 +1,0 @@
-["Dataproducts Inc. said it filed a lawsuit in Delaware Chancery Court to block a tender offer by DPC Acquisition Partners, alleging that the hostile offer violates a standstill agreement between the two concerns."]
-
-Explanation:
-The first sentence contains an event trigger.
-

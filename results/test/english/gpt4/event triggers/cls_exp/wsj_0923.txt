@@ -1,1 +1,0 @@
-[["signed", "OCCURRENCE"], ["buy", "OCCURRENCE"], ["run", "OCCURRENCE"], ["said", "REPORTING"], ["approved", "OCCURRENCE"], ["requires", "OCCURRENCE"], ["manufactures", "OCCURRENCE"]]

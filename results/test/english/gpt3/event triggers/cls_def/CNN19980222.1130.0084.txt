@@ -1,1 +1,0 @@
-[["Diplomacy", "Occurrence"], ["breakthrough", "State"], ["meeting", "Occurrence"], ["Saddam Hussein", "Reporting"], ["Iraq", "Perception"], ["proposal", "Aspectual"], ["deal", "Intensional Action"], ["access", "Intensional State"]]

@@ -1,1 +1,0 @@
-[["Pentagon", "Reporting"], ["Tomb of the Unknown", "State"], ["CBS News", "Reporting"], ["Michael Blassie", "Occurrence"], ["uniform", "Aspectual"], ["ID card", "Aspectual"], ["Vietnam", "State"], ["body", "Occurrence"], ["Blassie's mother", "Perception"], ["remains", "State"], ["DNA", "Intensional Action"]]

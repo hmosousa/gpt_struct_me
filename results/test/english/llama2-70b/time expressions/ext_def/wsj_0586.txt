@@ -1,1 +1,0 @@
-["Friday", "October 27th", "last Friday", "previous Friday", "October 13th", "two weeks ago", "the past five days", "this week"]

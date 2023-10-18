@@ -1,8 +1,0 @@
-[
-"Homem",
-"Barcelos",
-"Milhazes",
-"Comando Distrital de Operações de Socorro de Braga",
-"Bombeiros Voluntários de Barcelinhos",
-"GNR"
-]

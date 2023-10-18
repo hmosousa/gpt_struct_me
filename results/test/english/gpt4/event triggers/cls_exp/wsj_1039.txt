@@ -1,1 +1,0 @@
-[["reported", "REPORTING"], ["fell", "OCCURRENCE"], ["rose", "OCCURRENCE"], ["expected", "PERCEPTION"], ["said", "REPORTING"], ["earn", "OCCURRENCE"], ["said", "REPORTING"], ["citing", "REPORTING"]]

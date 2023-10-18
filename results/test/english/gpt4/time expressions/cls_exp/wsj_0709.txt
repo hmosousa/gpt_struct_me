@@ -1,1 +1,0 @@
-[["third quarter", "DATE"], ["mid-November", "DATE"], ["December", "DATE"], ["year-ago quarter", "DATE"], ["second quarter", "DATE"], ["Oct. 31", "DATE"]]

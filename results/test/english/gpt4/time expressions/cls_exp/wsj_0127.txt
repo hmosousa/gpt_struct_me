@@ -1,1 +1,0 @@
-[["the six months ended Oct. 1", "DATE"], ["5%", "DURATION"], ["10%", "DURATION"], ["the 1988 period", "DATE"], ["this year", "DATE"], ["last year", "DATE"], ["3.7%", "DURATION"], ["yesterday", "DATE"], ["15%", "DURATION"], ["a year earlier", "DATE"], ["20%", "DURATION"]]

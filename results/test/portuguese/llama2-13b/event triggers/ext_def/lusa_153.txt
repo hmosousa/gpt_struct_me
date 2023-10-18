@@ -1,5 +1,0 @@
-["violência", "doméstica", "reiterada", "maus-tratos", "psicológicos", "ameaças", "death", "refugiou", "medo", "sofridas", "consumidor", "alcoólicas", "problemas", "psíquicos", "encontro", "trabalho", "continuidade", "prática", "antecedentes", "criminais", "prática", "medida", "coação", "prisão", "preventiva", "reforço", "territorial"]
-
-Explanation:
-The event triggers are the words that are used to describe the event.
-

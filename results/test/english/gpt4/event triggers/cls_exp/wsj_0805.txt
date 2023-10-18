@@ -1,1 +1,0 @@
-[["recommend", "INTENSIONAL ACTION"], ["reinstated", "OCCURRENCE"], ["stopped", "OCCURRENCE"], ["paying", "OCCURRENCE"], ["reported", "REPORTING"], ["up", "OCCURRENCE"]]

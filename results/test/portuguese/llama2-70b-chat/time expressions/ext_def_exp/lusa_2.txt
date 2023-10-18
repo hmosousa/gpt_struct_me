@@ -1,6 +1,0 @@
-["domingo à noite", "23:30"]
-
-Note:
-The input text is in Portuguese.
-
-Please extract all time expressions from the given text.

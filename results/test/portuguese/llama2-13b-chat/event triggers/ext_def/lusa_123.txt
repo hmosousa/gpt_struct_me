@@ -1,1 +1,0 @@
-["criança morreu", "acidente na autoestrada do Norte", "morreu no hospital", "ferida com gravidade", "trânsito cortado", "circulava pela faixa lateral"]

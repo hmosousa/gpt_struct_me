@@ -1,1 +1,0 @@
-[["MP", "Organization"], ["GNR de Braga", "Organization"], ["Ministério Público", "Organization"], ["Procuradoria-Geral Regional do Porto", "Organization"], ["Núcleo de Investigação Criminal da GNR de Braga", "Organization"]]

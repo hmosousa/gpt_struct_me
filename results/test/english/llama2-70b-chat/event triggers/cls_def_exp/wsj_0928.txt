@@ -1,6 +1,0 @@
-[["Sun Microsystems Inc.", "OCCURRENCE"], ["earned", "OCCURRENCE"], ["sales", "OCCURRENCE"], ["reported", "REPORTING"], ["results", "OCCURRENCE"], ["expectations", "I_STATE"], ["introduced", "OCCURRENCE"], ["performance", "OCCURRENCE"], ["problems", "OCCURRENCE"], ["new computers", "OCCURRENCE"], ["shipped", "OCCURRENCE"], ["products", "OCCURRENCE"], ["demand", "OCCURRENCE"], ["difficult", "OCCURRENCE"], ["meet", "OCCURRENCE"], ["issues", "OCCURRENCE"], ["hurt", "OCCURRENCE"], ["firm", "OCCURRENCE"], ["indicated", "REPORTING"], ["profitability", "OCCURRENCE"], ["backlog", "OCCURRENCE"], ["orders", "OCCURRENCE"], ["strong demand", "OCCURRENCE"], ["competition", "OCCURRENCE"], ["vulnerable", "OCCURRENCE"], ["plans", "OCCURRENCE"], ["introduce", "OCCURRENCE"], ["workstations", "OCCURRENCE"], ["next year", "OCCURRENCE"]]
-
-Please provide the extracted and classified event triggers in JSON format.
-
-Note:
-The event triggers are not limited to the given classes. Other relevant classes can also be used.

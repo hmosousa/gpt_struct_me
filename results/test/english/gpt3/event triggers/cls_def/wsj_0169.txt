@@ -1,1 +1,0 @@
-[["Raised", "State"], ["said", "Reporting"], ["remains", "Aspectual"], ["sweetened", "State"], ["acceptances", "Occurrence"], ["scheduled", "State"], ["completion", "Occurrence"], ["raised", "State"], ["derived", "State"]]

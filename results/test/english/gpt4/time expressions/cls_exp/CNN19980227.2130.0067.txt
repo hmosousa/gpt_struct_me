@@ -1,1 +1,0 @@
-[["nineteen ninety-six", "DATE"], ["January nineteen ninety-seven", "DATE"], ["last month", "DATE"], ["this week", "DATE"]]

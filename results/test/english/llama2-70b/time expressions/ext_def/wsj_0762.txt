@@ -1,1 +1,0 @@
-["December", "November", "1989", "1990"]

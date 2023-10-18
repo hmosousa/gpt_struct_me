@@ -1,1 +1,0 @@
-["today", "December", "twenty years", "until now", "now", "now", "until now"]

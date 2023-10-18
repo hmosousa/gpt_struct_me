@@ -1,6 +1,0 @@
-[
-["48 anos", "Duration"],
-["hoje", "Date"],
-["13:00", "Time"],
-["20 anos", "Duration"]
-]

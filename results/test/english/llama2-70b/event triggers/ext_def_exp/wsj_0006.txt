@@ -1,1 +1,0 @@
-["shareholder", "approved", "acquisition", "thrift", "company", "expects", "regulatory", "transaction", "year-end"]

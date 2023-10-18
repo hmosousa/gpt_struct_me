@@ -1,1 +1,0 @@
-[["as soon as possible", "SET"], ["Earlier this year", "DATE"]]

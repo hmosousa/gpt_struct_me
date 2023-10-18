@@ -1,1 +1,0 @@
-["latest fiscal year", "1985", "this stage", "months", "six months", "a year earlier", "Last month"]

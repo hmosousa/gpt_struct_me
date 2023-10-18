@@ -1,4 +1,0 @@
-[
-"PJ deteve", "casal suspeito", "matar", "mulher", "em Braga", "para lhe ficar", "com a casa", "A Polícia Judiciária", "deteve", "um casal", "suspeito", "de matar", "uma mulher", "de 69 anos", "em Braga", "para obtenção", "e apropriação", "de bens patrimoniais", "da vítima", "segundo a fonte", "do crime", "terá sido", "a apropriação", "dos bens", "que a vítima", "tinha consigo", "e ainda da casa", "que lhe pertencia", "os detidos", "ele de 61 anos", "ela de 48 anos", "moram na cidade", "de Braga", "indiciados", "da prática", "de crimes", "de homicídio", "qualificado", "profanação", "de cadáver", "burla", "informática", "furto", "vão ser", "presentes", "tribunal", "para primeiro", "interrogatório", "judicial", "aplicação", "das respetivas", "medidas de coação"]
-Note:
-The output is a JSON-parseable list of strings, where each string represents a time expression.

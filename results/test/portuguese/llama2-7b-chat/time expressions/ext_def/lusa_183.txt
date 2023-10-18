@@ -1,6 +1,0 @@
-["por ameaçar", "por perseguir", "em Gaia", "um homem de 28 anos", "com antecedentes criminais", "por tráfico de droga", "hoje", "com pulseira eletrónica", "injuriar", "de 30 anos", "frisou", "nos últimos meses", "teve vários comportamentos", "de controlo e perseguição", "levaram a diversos episódios", "ameaças", "chegando a provocar danos", "no veículo da vítima"]
-Note:
-* Time expressions are highlighted in bold.
-* The list includes all time expressions found in the input text.
-* Each time expression is represented as a JSON-parseable string.
-* The output is a JSON-parseable list of strings.

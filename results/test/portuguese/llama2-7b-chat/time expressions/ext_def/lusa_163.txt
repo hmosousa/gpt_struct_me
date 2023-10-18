@@ -1,8 +1,0 @@
-[
-"na face e nos membros superiores",
-"segundo e terceiro graus",
-"13:41",
-"Hospital de São João",
-"Viatura Médica de Emergência e Reanimação (VMER)",
-"district of Braga"
-]

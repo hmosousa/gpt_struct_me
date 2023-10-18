@@ -1,1 +1,0 @@
-["protest", "rally", "candidacy", "election", "opposition", "resolution"]

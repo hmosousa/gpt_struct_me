@@ -1,1 +1,0 @@
-[["5 p.m. EST, Nov. 6", "TIME"], ["midnight Friday", "TIME"], ["last Friday", "DATE"], ["Sept. 26", "DATE"], ["20% annually", "DURATION"], ["12% revenue growth forecast", "DURATION"], ["Friday", "DATE"], ["Late last week", "DATE"]]

@@ -1,1 +1,0 @@
-["two quarters", "yesterday", "the beginning of October"]

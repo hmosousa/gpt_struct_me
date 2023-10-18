@@ -1,8 +1,0 @@
-[
-"Homem de 60 anos",
-"Matosinhos",
-"Porto",
-"Lua",
-"PSP",
-"Bombeiros de Leixões"
-]

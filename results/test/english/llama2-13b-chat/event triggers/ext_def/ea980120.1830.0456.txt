@@ -1,7 +1,0 @@
-["the remains inside the Tomb of the Unknown from the Vietnam War", "last night", "Blassie's mother"]
-
-Explanation:
-
-* "the remains inside the Tomb of the Unknown from the Vietnam War" is an event trigger because it refers to a specific occurrence (the presence of remains in the tomb) that is relevant to the plot.
-* "last night" is an event trigger because it refers to a specific time period (the past night) that is relevant to the plot.
-* "Blassie's mother" is an event trigger because it refers to a specific character (Blassie's mother) who is relevant to the plot.

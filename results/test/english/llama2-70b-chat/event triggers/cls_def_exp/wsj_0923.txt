@@ -1,1 +1,0 @@
-[["Kyle Technology Corp.", "ORGANIZATION"], ["Donald A. Wright", "PERSON"], ["spokesman", "PERSON"], ["board", "ORGANIZATION"], ["shareholders", "ORGANIZATION"], ["Kyle", "ORGANIZATION"]]

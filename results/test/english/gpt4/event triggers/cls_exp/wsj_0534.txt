@@ -1,1 +1,0 @@
-[["calling", "OCCURRENCE"], ["redemption", "OCCURRENCE"], ["terminate", "OCCURRENCE"], ["remains", "STATE"], ["convertible", "STATE"], ["closed", "OCCURRENCE"], ["down", "OCCURRENCE"], ["said", "REPORTING"], ["said", "REPORTING"], ["trading", "OCCURRENCE"]]

@@ -1,1 +1,0 @@
-[["sell", "OCCURRENCE"], ["took", "OCCURRENCE"], ["added", "REPORTING"], ["expect", "I_STATE"], ["had", "OCCURRENCE"], ["compared", "PERCEPTION"], ["gained", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["sell", "OCCURRENCE"], ["concentrate", "I_STATE"], ["hold", "OCCURRENCE"], ["restructuring", "OCCURRENCE"]]

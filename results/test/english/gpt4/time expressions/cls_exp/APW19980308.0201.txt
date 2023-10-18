@@ -1,1 +1,0 @@
-[["Sunday", "DATE"], ["recent days", "DURATION"], ["hundreds of years", "DURATION"]]

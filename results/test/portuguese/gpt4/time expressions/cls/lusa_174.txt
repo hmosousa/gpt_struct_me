@@ -1,6 +1,0 @@
-[
-["25 anos", "Duration"],
-["hoje", "Date"],
-["sexta-feira", "Date"],
-["cerca de um mês", "Duration"]
-]

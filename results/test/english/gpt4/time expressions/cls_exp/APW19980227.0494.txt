@@ -1,1 +1,0 @@
-[["Friday", "DATE"], ["since the breakup of the Soviet Union", "DURATION"], ["last May", "DATE"], ["for at least 20 more years", "DURATION"], ["Last year", "DATE"], ["for the foreseeable future", "DURATION"], ["Kuchma's four-day state visit", "DURATION"], ["10-year", "DURATION"], ["last year", "DATE"], ["down dlrs 2.5 billion from 1996", "DURATION"]]

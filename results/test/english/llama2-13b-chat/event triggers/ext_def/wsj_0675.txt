@@ -1,2 +1,0 @@
-
-[ "program trading", "stock-index arbitrage", "personal spending", "personal income", "factory owners", "machine-tool makers", "car sales", "Southern's Gulf Power unit", "LIN Broadcasting", "BellSouth", "Unisys", "RJR Nabisco", "GM", "Ford", "Jaguar", "Sansui Electric", "Polly Peck", "Kellogg", "insurers", "San Francisco earthquake", "Nashua", "Mobil", "Dow Jones industrials", "transportation", "utilities", "Shearson Lehman Hutton Treasury index", "Dow Jones futures index", "spot index", "dollar", "yen", "marks" ]

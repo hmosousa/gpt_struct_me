@@ -1,1 +1,0 @@
-["Sunday", "today", "Sunday", "recent days"]

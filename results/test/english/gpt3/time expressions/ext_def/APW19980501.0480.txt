@@ -1,1 +1,0 @@
-["seconds", "minutes", "hours", "days", "weeks", "months", "years", "now", "coming of age", "every nook and cranny", "the future"]

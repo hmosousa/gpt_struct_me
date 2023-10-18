@@ -1,1 +1,0 @@
-["today", "over three years", "each month"]

@@ -1,1 +1,0 @@
-[["Nov. 9", "DATE"], ["about 31 million", "DURATION"], ["Oct. 31", "DATE"], ["yesterday", "DATE"], ["annually", "SET"]]

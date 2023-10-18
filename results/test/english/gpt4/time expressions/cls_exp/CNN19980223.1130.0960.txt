@@ -1,1 +1,0 @@
-[["recent", "DATE"], ["Now", "DATE"], ["the middle of October", "DATE"], ["today", "DATE"], ["the winter of nineteen ninety-four", "DATE"], ["the last two weeks", "DURATION"]]

@@ -1,1 +1,0 @@
-["Thursday", "last five years", "recent months", "last year", "since 1993", "Tuesday"]

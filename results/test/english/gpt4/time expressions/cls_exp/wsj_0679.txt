@@ -1,1 +1,0 @@
-[["Aug. 26 to Oct. 20", "DURATION"], ["Aug. 10, 1988", "DATE"], ["18 months", "DURATION"], ["two-year", "DURATION"]]

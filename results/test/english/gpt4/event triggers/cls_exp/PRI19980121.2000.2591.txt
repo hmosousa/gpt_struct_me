@@ -1,1 +1,0 @@
-[["declared", "REPORTING"], ["invaded", "OCCURRENCE"], ["destroyed", "OCCURRENCE"], ["dominated", "OCCURRENCE"], ["speak", "OCCURRENCE"], ["got", "PERCEPTION"], ["coming", "ASPECTUAL"], ["fashioning", "OCCURRENCE"], ["kept", "ASPECTUAL"]]

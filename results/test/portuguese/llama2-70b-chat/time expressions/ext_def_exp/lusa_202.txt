@@ -1,6 +1,0 @@
-["hoje", "14:28", "alguns metros antes da localidade de Cortiço da Serra", "30 nov 2020", "setembro", "final do ano"]
-
-Note:
-The input text is in Portuguese.
-
-Please extract all time expressions from the given text.

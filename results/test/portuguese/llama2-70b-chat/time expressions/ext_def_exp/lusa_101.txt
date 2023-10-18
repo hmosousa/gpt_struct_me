@@ -1,6 +1,0 @@
-["quarta-feira", "30 nov 2020", "250 metros", "setembro", "final do ano"]
-
-Note:
-The input text may contain other temporal expressions not listed in the example, such as "hoje", "amanhã", "ontem", "agora", "em breve", "em pouco tempo", "em alguns dias", "em uma semana", "em um mês", "em um ano", etc.
-
-The output should be a list of all temporal expressions found in the input text, in the format of a JSON-parseable list of strings.

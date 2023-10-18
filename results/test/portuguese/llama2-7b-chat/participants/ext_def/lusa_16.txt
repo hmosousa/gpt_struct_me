@@ -1,7 +1,0 @@
-[
-"Homem de 25 anos",
-"Sapadores de Vila Nova de Gaia",
-"Bombeiros da Aguda",
-"Centro Hospitalar de Vila Nova de Gaia/Espinho",
-"Proteção Civil"
-]

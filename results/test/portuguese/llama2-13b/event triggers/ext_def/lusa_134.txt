@@ -1,4 +1,0 @@
-["assalto", "confeitaria", "caixa", "registadora", "dinheiro", "montante", "envolvidos", "caras", "tapadas", "detido", "monte", "dispositivo", "territorial", "envolvidos", "meios", "destacamento", "intervenção", "força", "policial"]
-
-Reference:
-https://www.aclweb.org/anthology/P15-1001.pdf

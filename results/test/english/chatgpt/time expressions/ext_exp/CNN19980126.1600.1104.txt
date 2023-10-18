@@ -1,1 +1,0 @@
-["today", "earlier", "fourth quarter", "right now", "since he's been here", "today"]

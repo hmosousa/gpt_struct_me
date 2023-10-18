@@ -1,6 +1,0 @@
-["hoje à tarde", "16:18", "4 operacionais", "2 viaturas", "30 nov 2020"]
-
-Note:
-The input text is in Portuguese.
-
-Please extract all time expressions from the given text.

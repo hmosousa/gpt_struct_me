@@ -1,1 +1,0 @@
-[["Homem", "Person"], ["árvore de grande porte", "Object"], ["Barcelos", "Location"], ["Milhazes", "Location"], ["Comando Distrital de Operações de Socorro de Braga", "Organization"], ["Bombeiros Voluntários de Barcelinhos", "Organization"], ["viatura médica de emergência e reanimação", "Facility"], ["GNR", "Organization"]]

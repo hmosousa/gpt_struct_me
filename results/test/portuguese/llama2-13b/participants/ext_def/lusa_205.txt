@@ -1,5 +1,0 @@
-["Polícia Judiciária", "PJ", "homem", "Évora", "menores", "telemóveis", "crime", "investigação", "ficheiros", "conteúdos", "imagens", "situações", "medidas"]
-
-Explanation:
-The participants in this text are the Polícia Judiciária (PJ), a man, Évora, minors, mobile phones, the crime, the investigation, files, contents, images, situations, and measures.
-

@@ -1,1 +1,0 @@
-[["Friday", "DATE"], ["nearly four years ago", "DATE"], ["April 6, 1994", "DATE"], ["for 2 1/2 years", "DURATION"], ["within a year", "DURATION"]]

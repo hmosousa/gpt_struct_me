@@ -1,1 +1,0 @@
-[["third quarter", "DATE"], ["37%", "DURATION"], ["30 cents", "DURATION"], ["48 cents", "DURATION"], ["the year-ago period", "DATE"], ["15%", "DURATION"], ["35 cents", "DURATION"], ["the quarter", "DATE"]]

@@ -1,5 +1,0 @@
-["hoje", "na sequência", "hoje", "19:23", "hoje", "19:23", "hoje", "19:23"]
-Explanation:
-* "hoje" appears twice, once in the sentence "Um homem de 61 anos morreu hoje" and once in the sentence "O alerta, de acordo com CDOS, foi dado às 19:23."
-* "na sequência" appears once, in the sentence "Um homem de 61 anos morreu na sequência do despiste do automóvel."
-* "19:23" appears twice, once in the sentence "O alerta, de acordo com CDOS, foi dado às 19:23." and once in the sentence "Foram mobilizados bombeiros e veículos da corporação de Marvão e a VMER, além da GNR, num total de oito elementos, apoiados por quatro viaturas."

@@ -1,8 +1,0 @@
-[
-"Governo de Jacarta",
-"Mohammad Mahfud",
-"Frente de Defesa Islâmica",
-"FPI",
-"Rizieg Shihab",
-"Indonésia"
-]

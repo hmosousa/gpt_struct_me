@@ -1,1 +1,0 @@
-[["today", "DATE"], ["at any time", "SET"]]

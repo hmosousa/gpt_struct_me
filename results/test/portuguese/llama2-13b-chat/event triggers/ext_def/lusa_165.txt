@@ -1,9 +1,0 @@
-["homem invadiu com um automóvel as instalações do Estádio da Luz", "condutor acabou por ser detido", "homem entrou com o automóvel dentro do relvado", "polícia disse que não dispunha de informações que confirmassem até onde chegou o condutor dentro das instalações do estádio do Benfica"]
-
-Note:
-
-* "homem" and "condutor" are both considered as event triggers, as they are the main actors of the event.
-* "Estádio da Luz" and "relvado" are both considered as event triggers, as they are the locations where the event took place.
-* "hoje" is not considered as an event trigger, as it is a temporal expression and not an action or state.
-* "Lisboa" is not considered as an event trigger, as it is a location and not an action or state.
-* "PSP" and "Cometlis" are not considered as event triggers, as they are organizations and not actions or states.

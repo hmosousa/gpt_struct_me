@@ -1,1 +1,0 @@
-[["third quarter", "DATE"], ["a year earlier", "DURATION"], ["third-quarter", "DATE"], ["a year-earlier", "DURATION"], ["the latest period", "DATE"], ["second and fourth quarters", "SET"], ["the current quarter", "DATE"]]

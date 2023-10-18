@@ -1,1 +1,0 @@
-["Sunday", "Feb.", "20", "May", "10 days ago", "last week", "February"]

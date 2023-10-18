@@ -1,1 +1,0 @@
-[["earlier this month", "DATE"], ["early 1991", "DATE"], ["this month", "DATE"]]

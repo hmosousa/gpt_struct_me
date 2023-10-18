@@ -1,7 +1,0 @@
-[
-["no domingo", "Date"],
-["desde há anos", "Duration"],
-["em 2012", "Date"],
-["em 2017", "Date"],
-["em 2012", "Date"]
-]

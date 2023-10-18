@@ -1,1 +1,0 @@
-[["this week", "DATE"], ["today", "DATE"], ["the eve", "DATE"], ["today", "DATE"], ["the first time", "DATE"], ["later in the broadcast", "TIME"], ["now", "DATE"]]

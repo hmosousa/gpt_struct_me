@@ -1,9 +1,0 @@
-[
-  ["State", "The Finnish government and major creditors of bankrupt shipyard Waertsilae Marine Industries Oy agreed in principle to form a new company to complete most of the troubled shipyard's backlog of 15 ships."],
-  ["Occurrence", "The new company will attempt to limit the shipyard's losses, participants said."],
-  ["Reporting", "The new company will attempt to limit the shipyard's losses, participants said."],
-  ["Perception", "The new company will attempt to limit the shipyard's losses, participants said."],
-  ["Aspectual", "The new company will attempt to limit the shipyard's losses, participants said."],
-  ["Intensional Action", "The new company will attempt to limit the shipyard's losses, participants said."],
-  ["Intensional State", "The new company will attempt to limit the shipyard's losses, participants said."]
-]

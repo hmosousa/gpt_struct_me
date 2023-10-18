@@ -1,1 +1,0 @@
-[["morreu", "Occurrence"], ["cair", "I_Action"], ["telhado", "State"], ["limpar", "I_Action"], ["acidente", "Occurrence"], ["deu-se", "Aspectual"], ["caído", "Occurrence"], ["altura", "State"], ["compareceram", "I_Action"], ["bombeiros", "State"]]

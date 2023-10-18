@@ -1,1 +1,0 @@
-[["1985", "DATE"], ["the latest fiscal year", "DATE"], ["a matter of months", "DURATION"], ["the past two years", "DURATION"], ["the six months ended Aug. 12", "DATE"], ["a year earlier", "DATE"], ["Last month", "DATE"], ["after a which a new chief executive will be named", "SET"]]

@@ -1,1 +1,0 @@
-[["recently", "DATE"], ["first", "SET"], ["Currently", "DATE"], ["two to six days", "DURATION"], ["a year or two", "DURATION"], ["over the years", "DURATION"], ["each year", "DURATION"], ["five months ago", "DATE"], ["Today", "DATE"]]

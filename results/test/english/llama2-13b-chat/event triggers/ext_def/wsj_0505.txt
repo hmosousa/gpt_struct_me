@@ -1,1 +1,0 @@
-["acquisition", "agreement", "completed", "control", "increase", "jewelry", "pretax", "profit", "sales", "share", "stores", "transaction"]

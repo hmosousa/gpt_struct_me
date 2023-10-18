@@ -1,8 +1,0 @@
-[
-["hoje", "Date"],
-["na segunda-feira", "Date"],
-["ontem [segunda-feira]", "Date"],
-["na noite de segunda-feira", "Time"],
-["dezembro passado", "Date"],
-["22 meses", "Duration"]
-]

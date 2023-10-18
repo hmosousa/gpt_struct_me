@@ -1,1 +1,0 @@
-[["aterra", "I_Action"], ["emergência", "State"], ["falha", "Occurrence"], ["motor", "State"], ["aterrou", "I_Action"], ["emergência", "State"], ["motor parado", "State"], ["dado", "Reporting"], ["aterrou", "I_Action"], ["incidentes", "State"], ["registo", "State"], ["pertence", "I_State"], ["fazia", "I_Action"], ["ligação", "State"]]

@@ -1,1 +1,0 @@
-[["extended", "OCCURRENCE"], ["offer", "OCCURRENCE"], ["expire", "OCCURRENCE"], ["owns", "STATE"], ["said", "REPORTING"], ["tendered", "OCCURRENCE"], ["rejected", "OCCURRENCE"], ["closed", "OCCURRENCE"], ["provides", "OCCURRENCE"], ["publishes", "OCCURRENCE"], ["operates", "OCCURRENCE"]]

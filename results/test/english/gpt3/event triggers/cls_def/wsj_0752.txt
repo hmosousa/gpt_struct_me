@@ -1,1 +1,0 @@
-[["authorized", "Intensional Action"], ["split", "Intensional Action"], ["aimed", "Intensional Action"], ["boosting", "Intensional Action"], ["have", "Intensional State"], ["closed", "State"], ["down", "State"]]

@@ -1,5 +1,0 @@
-["arranged", "said", "repurchase", "purchase", "can", "put", "virtually"]
-
-Explanation:
-The event triggers are the verbs in the text.
-

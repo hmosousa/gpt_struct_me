@@ -1,1 +1,0 @@
-["year", "year", "share so far this year", "next two years", "two years", "1989", "next year", "next year"]

@@ -1,8 +1,0 @@
-["morte de duas pessoas", "incêndio hospitalar", "transferir pacientes para outras unidades hospitalares", "evitar o pior com os demais doentes", "nova Hospital Municipal de Cuanhama"]
-
-Note:
-
-* "morte de duas pessoas" is a single event trigger.
-* "incêndio hospitalar" is a single event trigger.
-* "transferir pacientes para outras unidades hospitalares" and "evitar o pior com os demais doentes" are both event triggers that are related to the same event (the fire).
-* "nova Hospital Municipal de Cuanhama" is not an event trigger, but rather a piece of information that is provided in the text.

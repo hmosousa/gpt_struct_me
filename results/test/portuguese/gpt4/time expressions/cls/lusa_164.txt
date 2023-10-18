@@ -1,5 +1,0 @@
-[
-["segunda-feira", "Date"],
-["hoje", "Date"],
-["05:30", "Time"]
-]

@@ -1,2 +1,0 @@
-[["ONEIDA Ltd.", "State"], ["ONEIDA Ltd.", "Occurrence"], ["ONEIDA Ltd.", "Reporting"], ["ONEIDA Ltd.", "Perception"], ["ONEIDA Ltd.", "Aspectual"], ["ONEIDA Ltd.", "Intensional Action"], ["ONEIDA Ltd.", "Intensional State"]]
-

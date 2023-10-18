@@ -1,8 +1,0 @@
-[
-"said",
-"signed",
-"plan",
-"run",
-"approved",
-"require"
-]

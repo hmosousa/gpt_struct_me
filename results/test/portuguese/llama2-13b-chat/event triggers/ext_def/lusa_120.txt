@@ -1,7 +1,0 @@
-["baleado no peito", "ferido em estado muito grave", "transportado para o Hospital Professor Doutor Fernando Fonseca", "causas desconhecidas", "suspeitos não identificados"]
-
-Note:
-- "baleado no peito" is a single event trigger, not a list of events.
-- "ferido em estado muito grave" is a single event trigger, not a list of events.
-- "transportado para o Hospital Professor Doutor Fernando Fonseca" is a single event trigger, not a list of events.
-- "causas desconhecidas" and "suspeitos não identificados" are not event triggers, but rather additional information about the event.

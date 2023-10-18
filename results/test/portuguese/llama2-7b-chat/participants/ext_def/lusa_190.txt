@@ -1,9 +1,0 @@
-[
-"Homem",
-"Oleiros",
-"Comando Distrital de Operações de Socorro",
-"Vítima",
-"Centro Hospitalar e Universitário de Coimbra",
-"Bombeiros",
-"Habitação"
-]

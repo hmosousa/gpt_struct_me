@@ -1,1 +1,0 @@
-[["earlier this month", "DATE"], ["yesterday", "DATE"], ["the year ended July 2", "DATE"]]

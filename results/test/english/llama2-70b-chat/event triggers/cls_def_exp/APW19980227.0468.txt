@@ -1,6 +1,0 @@
-[["MOSCOW", "STATE"], ["mayor", "OCCURRENCE"], ["Mikhail Kalashnikov", "PERSON"], ["Russian", "OCCURRENCE"], ["weapon", "OCCURRENCE"], ["AK-47", "OCCURRENCE"], ["automatic rifle", "OCCURRENCE"], ["reliability", "OCCURRENCE"], ["effectiveness", "OCCURRENCE"], ["police", "OCCURRENCE"], ["armies", "OCCURRENCE"], ["guerrillas", "OCCURRENCE"], ["terrorists", "OCCURRENCE"], ["thugs", "OCCURRENCE"], ["February", "OCCURRENCE"], ["1947", "OCCURRENCE"], ["Seventy-five million", "OCCURRENCE"], ["copies", "OCCURRENCE"], ["history", "OCCURRENCE"], ["most widely distributed weapon", "OCCURRENCE"], ["UR", "OCCURRENCE"], ["ITAR-Tass", "OCCURRENCE"], ["February", "OCCURRENCE"], ["1947", "OCCURRENCE"]]
-
-Note:
-The classes are not mutually exclusive, and some entities may belong to multiple classes.
-
-Please provide your solution in JSON format.

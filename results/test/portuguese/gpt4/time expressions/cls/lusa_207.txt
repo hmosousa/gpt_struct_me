@@ -1,4 +1,0 @@
-[
-["terça-feira à noite", "Time"],
-["às 21:49", "Time"]
-]

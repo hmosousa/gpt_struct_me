@@ -1,2 +1,0 @@
-[["Conseco Inc.", "State"], ["Conseco Inc.", "Occurrence"], ["Conseco Inc.", "Reporting"], ["Conseco Inc.", "Perception"], ["Conseco Inc.", "Aspectual"], ["Conseco Inc.", "Intensional Action"], ["Conseco Inc.", "Intensional State"]]
-

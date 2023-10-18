@@ -1,1 +1,0 @@
-["three hours", "later this afternoon", "sixty days"]

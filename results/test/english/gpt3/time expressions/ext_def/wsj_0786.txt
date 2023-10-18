@@ -1,1 +1,0 @@
-["January", "a few days later", "March", "the following month", "early this month", "yesterday"]

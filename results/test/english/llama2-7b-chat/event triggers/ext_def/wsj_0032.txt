@@ -1,8 +1,0 @@
-[
-"began tender offer",
-"$37-a-share tender offer",
-"scheduled to expire",
-"end of November",
-"currently owns",
-"pursuant to agreement"
-]

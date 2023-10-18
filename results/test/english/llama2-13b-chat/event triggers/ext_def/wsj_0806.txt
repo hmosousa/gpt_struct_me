@@ -1,4 +1,0 @@
-["initial public offering", "registered with the Securities and Exchange Commission", "sell 1.8 million shares", "repay certain bank debt", "general corporate purposes", "establishing new operating centers", "possible acquisitions"]
-
-Explanation:
-The task is to extract all event triggers from the given text. An event trigger is a word or phrase that indicates the occurrence of an event. In this text, the event triggers are "initial public offering", "registered with the Securities and Exchange Commission", "sell 1.8 million shares", "repay certain bank debt", "general corporate purposes", "establishing new operating centers", and "possible acquisitions". These phrases indicate the events that are taking place or being planned by the company, such as the initial public offering, the sale of shares, the repayment of debt, and the establishment of new operating centers and possible acquisitions.

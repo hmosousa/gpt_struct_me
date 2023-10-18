@@ -1,2 +1,0 @@
-[["QVC Network Inc.", "State"], ["QVC Network Inc.", "Occurrence"], ["QVC Network Inc.", "Reporting"], ["QVC Network Inc.", "Perception"], ["QVC Network Inc.", "Aspectual"], ["QVC Network Inc.", "Intensional Action"], ["QVC Network Inc.", "Intensional State"]]
-

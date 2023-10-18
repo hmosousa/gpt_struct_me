@@ -1,1 +1,0 @@
-[["agreed", "OCCURRENCE"], ["acquired", "OCCURRENCE"], ["gives", "OCCURRENCE"], ["acquire", "OCCURRENCE"], ["would give", "OCCURRENCE"], ["is", "STATE"], ["brought", "OCCURRENCE"], ["proposed", "ASPECTUAL"]]

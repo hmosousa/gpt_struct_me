@@ -1,6 +1,0 @@
-[["Sun Microsystems Inc.", "ORGANIZATION"], ["computer maker", "OCCURRENCE"], ["announced", "I_ACTION"], ["effectiveness", "OCCURRENCE"], ["registration statement", "OCCURRENCE"], ["$125 million", "AMOUNT"], ["6 3/8% convertible subordinated debentures", "OCCURRENCE"], ["due Oct. 15, 1999", "OCCURRENCE"], ["issue price", "OCCURRENCE"], ["$849", "AMOUNT"], ["$1,000 principal amount", "AMOUNT"], ["convertible", "OCCURRENCE"], ["at any time", "OCCURRENCE"], ["prior to maturity", "OCCURRENCE"], ["conversion price", "OCCURRENCE"], ["$25 a share", "AMOUNT"], ["available", "OCCURRENCE"], ["through", "OCCURRENCE"], ["Goldman, Sachs amp Co.", "ORGANIZATION"]]
-
-Note:
-The class labels are not exclusive, and some entities may belong to multiple classes.
-
-Please extract and classify all event triggers in the given text.

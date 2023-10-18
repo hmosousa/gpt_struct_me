@@ -1,1 +1,0 @@
-["third quarter", "nine months", "year end", "nine months", "third quarter", "nine months", "first nine months"]

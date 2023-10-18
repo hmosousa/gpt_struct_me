@@ -1,8 +1,0 @@
-["Violência doméstica", "Prisão preventiva", "homem", "26 anos", "Foz Côa", "mãe", "irmã", "Guarda", "machada", "navalha", "destruiu", "fuga", "intercetado", "detido", "antecedentes", "ilícitos", "Tribunal Judicial", "Seia", "coação", "prisão preventiva"]
-
-Hints:
-- Use the `split` method to break the text into individual words.
-- Use the `filter` method to remove any words that are not participants.
-- Use the `join` method to combine the remaining words into a single string.
-- Use the `map` method to convert the string into a list of individual words.
-- Use the `join` method again to combine the list of words into a single string.

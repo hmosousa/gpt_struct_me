@@ -1,1 +1,0 @@
-[["Um homem de 60", "Per"], ["morreu", "Verb"], ["hoje", "Adverb"], ["Matosinhos", "Loc"], ["Porto", "Loc"], ["cada um", "Num"], ["telhado", "Fac"], ["sua habitação", "Fac"], ["PSP", "Org"], ["Rua Augusto Gil", "Loc"], ["sete metros", "Num"], ["Leixões", "Loc"]]

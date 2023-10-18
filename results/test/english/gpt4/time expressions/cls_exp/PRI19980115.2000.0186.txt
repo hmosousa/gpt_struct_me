@@ -1,1 +1,0 @@
-[["nineteen ninety-one", "DATE"], ["nineteen ninety-six", "DATE"], ["Now", "DATE"]]

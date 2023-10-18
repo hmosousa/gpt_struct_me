@@ -1,1 +1,0 @@
-[["fourth quarter ended Sept. 30", "DATE"], ["the year-earlier", "DATE"], ["fiscal 1988", "DATE"], ["the fiscal year", "DATE"], ["the transition period", "DURATION"]]
