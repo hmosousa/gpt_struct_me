@@ -7,6 +7,8 @@ from pathlib import Path
 from ...constants import RESULTS_PATH
 
 
+PWD = Path(__file__).parent
+
 logger = logging.getLogger(__name__)
 
 
@@ -40,9 +42,9 @@ def _get_predictions():
 def main():
 
     logger.info(f"Saving results.")
-    result_filepath_pt = RESULTS_PATH / "test" / "portuguese" / "predictions.json"
-    if result_filepath_pt.exists():
-        content = json.load(result_filepath_pt.open())
+    filepath = PWD /  "predictions.json"
+    if filepath.exists():
+        content = json.load(filepath.open())
     else:
         content = []
 
@@ -50,7 +52,7 @@ def main():
     
     json.dump(
         content + predictions,
-        result_filepath_pt.open("w"),
+        filepath.open("w"),
         ensure_ascii=False,
         indent=4
     )
