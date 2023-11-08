@@ -93,7 +93,7 @@ All the scripts to replicate the experimentation process are placed on the `expe
 
 - Having the predictions we are now in a position to compare them with the annotations. By running `python experiments/evalaute.py --mode prompt_selection` one will produce a `results.json` on the `results/prompt_selection` folder that contains the predictions, recall, $F_1$ score, and relaxed $F_1$ score.
 
-- From the values attained by the `evaluate.py` script one can assert what is the best template according to a given criterion. For our research we consider the strict $F_1$ score. After idenfiying the best template one has to go to the `constants.py` on the `experiments` folder and add the best template for the model-entity pair. 
+- From the values attained by the `evaluate.py` script one can assert what is the best template according to a given criterion. For our research, we consider the strict $F_1$ score. After identifying the best template one has to go to the `constants.py` on the `experiments` folder and add the best template for the model-entity pair. 
 
 - With that done we can now run the `experiments/test.py` script.
   
