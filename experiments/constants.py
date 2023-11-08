@@ -91,6 +91,14 @@ BEST_TEMPLATES = {
         ("gpt4", "participants"): "ext_def_exp",
         ("gpt4", "time expressions"): "ext_exp",
 
+        ("llama2-7b", "event triggers"): "ext_exp",
+        ("llama2-7b", "participants"): "cls_def_exp",
+        ("llama2-7b", "time expressions"): "cls_exp",
+
+        ("llama2-7b-chat", "event triggers"): "cls_exp",
+        ("llama2-7b-chat", "participants"): "cls_def_exp",
+        ("llama2-7b-chat", "time expressions"): "cls_def_exp",
+
         ("llama2-13b", "event triggers"): "ext_def_exp",
         ("llama2-13b", "participants"): "ext_exp",
         ("llama2-13b", "time expressions"): "ext",
@@ -106,14 +114,6 @@ BEST_TEMPLATES = {
         ("llama2-70b-chat", "event triggers"): "cls_def_exp",
         ("llama2-70b-chat", "participants"): "ext_def_exp",
         ("llama2-70b-chat", "time expressions"): "ext_exp",
-
-        ("llama2-7b", "event triggers"): "ext_exp",
-        ("llama2-7b", "participants"): "cls_def_exp",
-        ("llama2-7b", "time expressions"): "cls_exp",
-
-        ("llama2-7b-chat", "event triggers"): "cls_exp",
-        ("llama2-7b-chat", "participants"): "cls_def_exp",
-        ("llama2-7b-chat", "time expressions"): "cls_def_exp",
     },
 
     "english": {
@@ -126,6 +126,12 @@ BEST_TEMPLATES = {
         ("gpt4", "event triggers"): "cls_def_exp",
         ("gpt4", "time expressions"): "cls_def",
 
+        ("llama2-7b", "event triggers"): "ext_def_exp",
+        ("llama2-7b", "time expressions"): "ext_def_exp",
+
+        ("llama2-7b-chat", "event triggers"): "ext_def_exp",
+        ("llama2-7b-chat", "time expressions"): "ext_def",
+
         ("llama2-13b", "event triggers"): "ext_def_exp",
         ("llama2-13b", "time expressions"): "ext_def",
 
@@ -137,11 +143,5 @@ BEST_TEMPLATES = {
 
         ("llama2-70b-chat", "event triggers"): "ext_def_exp",
         ("llama2-70b-chat", "time expressions"): "ext",
-
-        ("llama2-7b", "event triggers"): "ext_def_exp",
-        ("llama2-7b", "time expressions"): "ext_def_exp",
-
-        ("llama2-7b-chat", "event triggers"): "ext_def_exp",
-        ("llama2-7b-chat", "time expressions"): "ext_def",
     }
 }
