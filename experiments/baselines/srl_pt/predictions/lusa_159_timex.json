@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_159",
+    "entities": [
+        "no s\u00e1bado",
+        "No in\u00edcio de outubro",
+        "quando se preparava para viajar para Lisboa"
+    ],
+    "template": "-"
+}

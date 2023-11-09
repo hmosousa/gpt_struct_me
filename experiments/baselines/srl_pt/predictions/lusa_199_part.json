@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_199",
+    "entities": [
+        "Homem de 60 anos",
+        "de telhado que estava a limpar",
+        "que",
+        "a limpar",
+        "que",
+        "Um homem de 60",
+        "do telhado da sua habita\u00e7\u00e3o , que estava a limpar",
+        "a limpar",
+        "que",
+        "Um homem de 60 morreu hoje , em Matosinhos , no distrito do Porto , ap\u00f3s cair do telhado da sua habita\u00e7\u00e3o , que estava a limpar",
+        "\u00e0 Lusa",
+        "fonte da PSP",
+        "O acidente",
+        "o homem",
+        "de uma altura de sete metros",
+        "a fonte",
+        "No local",
+        "os bombeiros de Leix\u00f5es"
+    ],
+    "template": "-"
+}

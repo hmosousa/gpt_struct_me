@@ -1,0 +1,22 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_193",
+    "entities": [
+        "socorrido",
+        "caiu",
+        "socorrido",
+        "transportado",
+        "adiantou",
+        "teve",
+        "chegou",
+        "efetuado",
+        "passava",
+        "atirou",
+        "viu",
+        "levado",
+        "encontra",
+        "internado"
+    ],
+    "template": "-"
+}

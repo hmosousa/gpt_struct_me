@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_181",
+    "entities": [
+        "morre",
+        "tubar\u00e3o",
+        "morreu",
+        "atacado",
+        "nadava",
+        "noticiam",
+        "tubar\u00e3o",
+        "atacou",
+        "mordeu",
+        "retirada",
+        "assistida",
+        "morreu",
+        "matou",
+        "manteve",
+        "fechou",
+        "elevado",
+        "morreram",
+        "contabilizaram",
+        "morreu",
+        "datada",
+        "tem",
+        "considerados"
+    ],
+    "template": "-"
+}

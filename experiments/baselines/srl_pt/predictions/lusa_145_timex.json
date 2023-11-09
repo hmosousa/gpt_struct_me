@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_145",
+    "entities": [
+        "hoje",
+        "ao longo de meio ano",
+        "agora"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,33 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_206",
+    "entities": [
+        "detidos",
+        "detidos",
+        "disparado",
+        "havendo",
+        "feridos",
+        "estacionadas",
+        "avan\u00e7ou",
+        "explicou",
+        "aconteceu",
+        "especificada",
+        "puseram",
+        "acabaram",
+        "intercetados",
+        "detidos",
+        "h\u00e1",
+        "feridos",
+        "registar",
+        "encontravam",
+        "adiantou",
+        "referindo",
+        "ficaram",
+        "tinha",
+        "detido",
+        "foi",
+        "entregue"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_185",
+    "entities": [
+        "encontrado",
+        "morto",
+        "Tua",
+        "encontrado",
+        "morto",
+        "pescar",
+        "informou",
+        "disponibilizada",
+        "sa\u00eddo",
+        "ir",
+        "alertadas",
+        "iniciaram",
+        "encontrado",
+        "retirado",
+        "encontraram",
+        "foi",
+        "entregue",
+        "apuradas"
+    ],
+    "template": "-"
+}

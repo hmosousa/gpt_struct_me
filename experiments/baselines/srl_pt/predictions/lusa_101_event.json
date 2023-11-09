@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_101",
+    "entities": [
+        "detido",
+        "ca\u00e7ar",
+        "detido",
+        "estar",
+        "ca\u00e7ar",
+        "anunciou",
+        "intercetaram",
+        "ca\u00e7ar",
+        "adiantou",
+        "mobilizou",
+        "constitu\u00eddo",
+        "arguido",
+        "permitidos",
+        "encaminhado",
+        "resultou"
+    ],
+    "template": "-"
+}

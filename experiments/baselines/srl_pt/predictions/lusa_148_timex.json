@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_148",
+    "entities": [
+        "na ter\u00e7a -feira",
+        "durante cinco anos",
+        "entretanto",
+        "no terceiro trimestre",
+        "no mesmo trimestre do ano passado"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,14 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_192",
+    "entities": [
+        "hoje",
+        "em 2013",
+        "Durante a leitura do ac\u00f3rd\u00e3o",
+        "ap\u00f3s sete anos em fuga",
+        "durante o julgamento , que teve in\u00edcio em outubro",
+        "em outubro"
+    ],
+    "template": "-"
+}

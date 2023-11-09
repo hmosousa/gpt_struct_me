@@ -1,0 +1,28 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_146",
+    "entities": [
+        "resgata",
+        "anunciou",
+        "resgatou",
+        "constituiu",
+        "refere",
+        "comunicado",
+        "resgatados",
+        "realizada",
+        "deram",
+        "domicili\u00e1ria",
+        "depararam",
+        "l\u00ea",
+        "-se",
+        "acrescenta",
+        "resgatados",
+        "acolhia",
+        "entregues",
+        "colaborou",
+        "constitu\u00eddo",
+        "remetidos"
+    ],
+    "template": "-"
+}

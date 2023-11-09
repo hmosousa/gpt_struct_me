@@ -1,0 +1,33 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_163",
+    "entities": [
+        "Homem",
+        "queimaduras de segundo e terceiro grau",
+        "Um homem",
+        "queimaduras",
+        "gasolina",
+        "se ser conduzido ao Hospital de S\u00e3o Jo\u00e3o , Porto",
+        "se",
+        "ao Hospital de S\u00e3o Jo\u00e3o , Porto",
+        "Um homem sofreu hoje queimaduras \u201c na face e nos membros superiores \u201d enquanto manuseava gasolina em Vale de S. Martinho , Vila Nova de Famalic\u00e3o , e teve se ser conduzido ao Hospital de S\u00e3o Jo\u00e3o , Porto",
+        "fonte dos bombeiros locais",
+        "O homem de 58 anos",
+        "queimaduras de segundo e terceiro graus",
+        "o alerta",
+        "Fonte dos Bombeiros Volunt\u00e1rios Famalicenses",
+        "\u00e0 Lusa",
+        "que \u201c a v\u00edtima foi levada para o Hospital de S\u00e3o Jo\u00e3o \u201d e que \u201c ainda se desconhece a causa do acidente \u201d",
+        "sabendo -se \u201c apenas que est\u00e1 relacionado com o manuseamento de gasolina \u201d",
+        "a v\u00edtima",
+        "para o Hospital de S\u00e3o Jo\u00e3o",
+        "se",
+        "a causa do acidente",
+        "apenas",
+        "que est\u00e1 relacionado com o manuseamento de gasolina",
+        "O transporte",
+        "pela Viatura M\u00e9dica de Emerg\u00eancia e Reanima\u00e7\u00e3o ( VMER ) do Hospital de Famalic\u00e3o , do distrito de Braga"
+    ],
+    "template": "-"
+}

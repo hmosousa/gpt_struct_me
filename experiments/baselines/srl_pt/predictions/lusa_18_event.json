@@ -1,0 +1,24 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_18",
+    "entities": [
+        "posto",
+        "consumiu",
+        "desabitada",
+        "desabitada",
+        "danificou",
+        "havendo",
+        "disse",
+        "h\u00e1",
+        "posto",
+        "afirmou",
+        "mencionou",
+        "tinha",
+        "ficou",
+        "complementando",
+        "provocados",
+        "efetuaram"
+    ],
+    "template": "-"
+}

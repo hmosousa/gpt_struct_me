@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_108",
+    "entities": [
+        "durante uma discuss\u00e3o na prov\u00edncia de Maputo",
+        "hoje",
+        "at\u00e9 agora",
+        "no meio disso",
+        "na madrugada de quinta -feira , quando os dois agentes regressavam de uma atividade de patrulha numa zona protegida naquela prov\u00edncia",
+        "Ao ouvir o tiro",
+        "de imediato"
+    ],
+    "template": "-"
+}

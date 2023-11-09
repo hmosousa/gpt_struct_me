@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_102",
+    "entities": [
+        "hoje",
+        "no momento da sua interce\u00e7\u00e3o",
+        "pelas 19:55 de s\u00e1bado",
+        "pelas 20:20"
+    ],
+    "template": "-"
+}

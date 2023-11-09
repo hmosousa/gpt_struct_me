@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_160",
+    "entities": [
+        "hoje",
+        "em 2017",
+        "numa altura em que a v\u00edtima tinha 10 anos",
+        "em 2016",
+        "primeiro",
+        "e depois",
+        "entre 2017 e 2019"
+    ],
+    "template": "-"
+}

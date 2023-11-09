@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_166",
+    "entities": [
+        "encontrado",
+        "morto",
+        "encontrado",
+        "morto",
+        "afirmou",
+        "salientando",
+        "h\u00e1",
+        "ca\u00eddo",
+        "Poder\u00e1",
+        "havido",
+        "estamos",
+        "tentar",
+        "perceber",
+        "acrescentou",
+        "confirmado",
+        "transportado",
+        "apoiados"
+    ],
+    "template": "-"
+}

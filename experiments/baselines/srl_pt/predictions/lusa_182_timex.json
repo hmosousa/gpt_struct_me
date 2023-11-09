@@ -1,0 +1,10 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_182",
+    "entities": [
+        "hoje",
+        "Nos \u00faltimos meses"
+    ],
+    "template": "-"
+}

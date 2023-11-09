@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_118",
+    "entities": [
+        "a partir de hoje",
+        "depois de ter estado na quarta -feira , em Paris , com o Presidente franc\u00eas , Emmanuel Macron , que testou positivo ao novo coronav\u00edrus",
+        "na quarta -feira",
+        "Depois",
+        "hoje de manh\u00e3"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_120",
+    "entities": [
+        "fica",
+        "baleado",
+        "ficou",
+        "baleado",
+        "disse",
+        "dado",
+        "baleado",
+        "Ficou",
+        "transportado",
+        "referiu",
+        "adiantou",
+        "desconhecidas",
+        "identificados",
+        "detidos",
+        "tratar",
+        "foi",
+        "entregue"
+    ],
+    "template": "-"
+}

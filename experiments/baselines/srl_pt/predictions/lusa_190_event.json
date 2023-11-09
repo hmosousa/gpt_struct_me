@@ -1,0 +1,19 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_190",
+    "entities": [
+        "ferido",
+        "eletrocutado",
+        "ficou",
+        "ferido",
+        "eletrocutado",
+        "disse",
+        "dado",
+        "transportada",
+        "aconteceu",
+        "acrescentou",
+        "Deslocaram"
+    ],
+    "template": "-"
+}

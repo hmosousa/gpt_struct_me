@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_149",
+    "entities": [
+        "hoje",
+        "depois de um ve\u00edculo ter avan\u00e7ado sobre uma zona pedonal da cidade de Trier , no sudoeste da Alemanha , de acordo com a pol\u00edcia local",
+        "depois de um ve\u00edculo ter avan\u00e7ado sobre uma zona pedonal da cidade de Trier , no sudoeste da Alemanha , de acordo com a pol\u00edcia local"
+    ],
+    "template": "-"
+}

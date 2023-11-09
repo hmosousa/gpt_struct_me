@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_146",
+    "entities": [
+        "hoje",
+        "durante uma a\u00e7\u00e3o realizada na ter\u00e7a -feira atrav\u00e9s do N\u00facleo de Investiga\u00e7\u00e3o de Crimes e Contraordena\u00e7\u00f5es Ambientais ( NICCOA ) e do N\u00facleo de Prote\u00e7\u00e3o Ambiental ( NPA ) de Gouveia",
+        "na ter\u00e7a -feira"
+    ],
+    "template": "-"
+}

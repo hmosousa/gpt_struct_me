@@ -1,0 +1,14 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_147",
+    "entities": [
+        "hoje",
+        "Depois de lido o expediente",
+        "\u00e0s 10:06",
+        "Assim que chegarem",
+        "de imediato",
+        "um minuto depois"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,18 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_145",
+    "entities": [
+        "det\u00e9m",
+        "deteve",
+        "envolvidos",
+        "anunciou",
+        "detidos",
+        "desenvolvida",
+        "praticado",
+        "anunciada",
+        "incluiu",
+        "resultaram"
+    ],
+    "template": "-"
+}

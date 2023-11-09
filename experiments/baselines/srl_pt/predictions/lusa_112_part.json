@@ -1,0 +1,19 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_112",
+    "entities": [
+        "Ricardo Pinheiro",
+        "Jos\u00e9 Mendes",
+        "O deputado socialista Ricardo Pinheiro",
+        "Jos\u00e9 Mendes",
+        "que",
+        "O Presidente da Rep\u00fablica",
+        "a proposta do primeiro -ministro de exonera\u00e7\u00e3o , a seu pedido , de Jos\u00e9 Fernandes Gomes Mendes",
+        "O Presidente da Rep\u00fablica aceitou a proposta do primeiro -ministro de exonera\u00e7\u00e3o , a seu pedido , de Jos\u00e9 Fernandes Gomes Mendes , como secret\u00e1rio de Estado do Planeamento , e a nomea\u00e7\u00e3o , para o mesmo cargo , de Ricardo Miguel Furtado Pinheiro",
+        "A posse do novo secret\u00e1rio de Estado do ministro do Planeamento , Nelson de Sousa ,",
+        "pelo qual",
+        "deputado"
+    ],
+    "template": "-"
+}

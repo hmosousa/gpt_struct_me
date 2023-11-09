@@ -1,0 +1,29 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_106",
+    "entities": [
+        "Autom\u00f3vel",
+        "v\u00e1rias pessoas",
+        "Um automobilista",
+        "v\u00e1rias pessoas",
+        "As Vidas Negras",
+        "as autoridades",
+        "se foi um acidente ou a\u00e7\u00e3o intencional",
+        "O incidente",
+        "v\u00e1rios feridos",
+        "se",
+        "para v\u00e1rios hospitais da ' Big Apple",
+        "O incidente provocou v\u00e1rios feridos , alguns dos quais tiveram se ser transportados para v\u00e1rios hospitais da ' Big Apple",
+        "\u00e0 ag\u00eancia France -Presse ( AFP )",
+        "a pol\u00edcia de Nova Iorque ( NYPD )",
+        "O condutor do autom\u00f3vel",
+        "de acordo com a mesma fonte",
+        "O porta -voz da pol\u00edcia",
+        "que o incidente , que ocorreu pelas 16:00 locais ( 21:00 em Lisboa ) n\u00e3o provocou mortos at\u00e9 agora",
+        "que",
+        "o incidente , que ocorreu pelas 16:00 locais ( 21:00 em Lisboa )",
+        "mortos"
+    ],
+    "template": "-"
+}

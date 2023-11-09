@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_12",
+    "entities": [
+        "fazem",
+        "encontrar",
+        "desaparecido",
+        "fez",
+        "comunicado",
+        "refere",
+        "encontrado",
+        "desapareceu",
+        "entrado",
+        "deixado",
+        "avistado",
+        "acompanhavam",
+        "ativou",
+        "-vidas",
+        "receber",
+        "interrompidas",
+        "retomadas",
+        "adiantou"
+    ],
+    "template": "-"
+}

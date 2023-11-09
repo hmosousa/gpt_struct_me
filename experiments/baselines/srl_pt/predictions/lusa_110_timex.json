@@ -1,0 +1,10 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_110",
+    "entities": [
+        "na quarta -feira",
+        "at\u00e9 ao momento"
+    ],
+    "template": "-"
+}

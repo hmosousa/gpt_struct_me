@@ -1,0 +1,33 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_168",
+    "entities": [
+        "agredir",
+        "ficou",
+        "agredir",
+        "proibido",
+        "contactar",
+        "disse",
+        "comunicado",
+        "referiu",
+        "detido",
+        "tem",
+        "agravada",
+        "apuraram",
+        "aplicadas",
+        "continuou",
+        "reiterada",
+        "for\u00e7ando",
+        "fornecer",
+        "limpar",
+        "sublinhou",
+        "amea\u00e7ou",
+        "coagiu",
+        "entregar",
+        "satisfazer",
+        "destru\u00eddo",
+        "originou"
+    ],
+    "template": "-"
+}

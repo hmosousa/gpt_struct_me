@@ -1,11 +1,6 @@
-"""Run the best prompt for each model/entity pair on the test set."""
-
 import json
 import logging
 from pathlib import Path
-
-from ...constants import RESULTS_PATH
-
 
 PWD = Path(__file__).parent
 
@@ -42,17 +37,13 @@ def _get_predictions():
 def main():
 
     logger.info(f"Saving results.")
-    filepath = PWD /  "predictions.json"
-    if filepath.exists():
-        content = json.load(filepath.open())
-    else:
-        content = []
+    outputpath = PWD / "predictions_pt.json"
 
     predictions = _get_predictions()
-    
+
     json.dump(
-        content + predictions,
-        filepath.open("w"),
+        predictions,
+        outputpath.open("w"),
         ensure_ascii=False,
         indent=4
     )

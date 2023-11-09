@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_122",
+    "entities": [
+        "encontra",
+        "sofrido",
+        "informou",
+        "encontra",
+        "estabilizado",
+        "l\u00ea",
+        "-se",
+        "publicada",
+        "comunicado",
+        "agradecem",
+        "chegou",
+        "agradecemos",
+        "endere\u00e7aram",
+        "juntaram",
+        "finalizou",
+        "sofreu",
+        "contar"
+    ],
+    "template": "-"
+}

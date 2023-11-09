@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_15",
+    "entities": [
+        "hoje",
+        "depois de um muro ter ca\u00eddo sobre uma casa vizinha , que desabou com o impacto",
+        "h\u00e1 20 anos",
+        "este ano",
+        "enquanto milh\u00f5es foram deslocadas das suas casas desde que as enchentes come\u00e7aram , em junho",
+        "desde que as enchentes come\u00e7aram , em junho",
+        "em junho"
+    ],
+    "template": "-"
+}

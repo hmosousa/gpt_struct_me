@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_120",
+    "entities": [
+        "depois de ter sido baleado no peito hoje de madrugada no bairro Casal da Mira , na Amadora , no distrito de Lisboa",
+        "hoje de madrugada",
+        "\u00e0s 00:53"
+    ],
+    "template": "-"
+}

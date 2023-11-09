@@ -1,0 +1,18 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_171",
+    "entities": [
+        "hoje",
+        "no dia 16 de maio de 2020",
+        "pelas 04:20",
+        "quando",
+        "por volta das 06:00 , quando a mulher se aprontava para ir trabalhar",
+        "por volta das 06:00 , quando a mulher se aprontava para ir trabalhar",
+        "por volta das 06:00",
+        "quando a mulher se aprontava para ir trabalhar",
+        "por volta das 06:00",
+        "quando a mulher se aprontava para ir trabalhar"
+    ],
+    "template": "-"
+}

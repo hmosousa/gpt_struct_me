@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_19",
+    "entities": [
+        "deteve",
+        "matar",
+        "ficar",
+        "deteve",
+        "matar",
+        "disse",
+        "teria",
+        "tinha",
+        "pertencia",
+        "acrescentou",
+        "assassinada",
+        "transportado",
+        "abandonado",
+        "moram",
+        "qualificado"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,32 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_115",
+    "entities": [
+        "encontrado",
+        "morto",
+        "amarrado",
+        "encontrado",
+        "amarrado",
+        "informou",
+        "alertada",
+        "familiar",
+        "vive",
+        "vivia",
+        "encontrado",
+        "morto",
+        "amarrado",
+        "tratado",
+        "disse",
+        "alertada",
+        "analisou",
+        "localizada",
+        "transportado",
+        "autopsiado",
+        "est\u00e1",
+        "investigar",
+        "contactou",
+        "obter"
+    ],
+    "template": "-"
+}

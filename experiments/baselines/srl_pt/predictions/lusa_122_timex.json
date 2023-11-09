@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_122",
+    "entities": [
+        "depois de ter sofrido uma paragem cardiorrespirat\u00f3ria no domingo",
+        "no domingo",
+        "hoje",
+        "No domingo",
+        "durante o jogo Alverca - Uni\u00e3o de Almeirim , a contar para o Campeonato de Portugal"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_185",
+    "entities": [
+        "Homem",
+        "Um homem de 32 anos",
+        "Um homem de 32 anos foi encontrado morto ao in\u00edcio da madrugada de hoje no rio Tua , na zona de Valverde da Gestosa , em Mirandela , local para onde ter\u00e1 ido pescar",
+        "a GNR",
+        "\u00e0 Lusa",
+        "por aquela for\u00e7a de seguran\u00e7a",
+        "De acordo com informa\u00e7\u00e3o disponibilizada \u00e0 Lusa por aquela for\u00e7a de seguran\u00e7a",
+        "o homem",
+        "de casa",
+        "\u00e0 pesca",
+        "as autoridades",
+        "para o desaparecimento",
+        "as autoridades",
+        "buscas",
+        "O corpo",
+        "do rio",
+        "as autoridades",
+        "os haveres do pescador",
+        "De acordo com a fonte",
+        "o caso",
+        "\u00e0 Pol\u00edcia Judici\u00e1ria",
+        "as circunst\u00e2ncias da morte"
+    ],
+    "template": "-"
+}

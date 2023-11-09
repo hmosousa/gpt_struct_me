@@ -1,0 +1,20 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_128",
+    "entities": [
+        "apreende",
+        "apreendeu",
+        "comprimido",
+        "anunciado",
+        "comunicado",
+        "explicou",
+        "relacionada",
+        "operada",
+        "apreendida",
+        "comprimido",
+        "descreve",
+        "remetidos"
+    ],
+    "template": "-"
+}

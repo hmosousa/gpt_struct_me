@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_165",
+    "entities": [
+        "invade",
+        "invadiu",
+        "disse",
+        "entrou",
+        "ocorreu",
+        "acabou",
+        "detido",
+        "explicou",
+        "poder\u00e1",
+        "adiantar",
+        "avan\u00e7ada",
+        "d\u00e1",
+        "entrou",
+        "disse",
+        "dispunha",
+        "confirmassem",
+        "chegou",
+        "remeteu"
+    ],
+    "template": "-"
+}

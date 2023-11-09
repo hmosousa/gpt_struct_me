@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_199",
+    "entities": [
+        "morre",
+        "cair",
+        "estava",
+        "limpar",
+        "morreu",
+        "cair",
+        "estava",
+        "limpar",
+        "disse",
+        "deu",
+        "ca\u00eddo",
+        "acrescentou",
+        "compareceram"
+    ],
+    "template": "-"
+}

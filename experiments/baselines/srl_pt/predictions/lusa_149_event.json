@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_149",
+    "entities": [
+        "expressou",
+        "aconteceu",
+        "reiterando",
+        "morreram",
+        "ficaram",
+        "feridas",
+        "avan\u00e7ado",
+        "manifestou",
+        "aconteceu",
+        "Desejamos",
+        "reiteramos",
+        "refere",
+        "detido",
+        "apreendido",
+        "publicada",
+        "pediram",
+        "evitarem",
+        "desconhecendo",
+        "fica"
+    ],
+    "template": "-"
+}

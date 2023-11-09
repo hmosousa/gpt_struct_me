@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_106",
+    "entities": [
+        "durante manifesta\u00e7\u00e3o \" Black Lives Matter \"",
+        "hoje",
+        "durante uma manifesta\u00e7\u00e3o do movimento \u201c Black Lives Matter \u201d ( \u201c As Vidas Negras Importam \u201d )",
+        "pelas 16:00 locais ( 21:00 em Lisboa )",
+        "at\u00e9 agora"
+    ],
+    "template": "-"
+}

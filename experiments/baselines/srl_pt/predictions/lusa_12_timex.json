@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_12",
+    "entities": [
+        "hoje",
+        "durante a tarde",
+        "depois de ter entrado na \u00e1gua e de ter deixado de ser avistado por dois pescadores que o acompanhavam",
+        "depois de receber o alerta \u00e0s 16:05 atrav\u00e9s do Centro de Coordena\u00e7\u00e3o de Busca e Salvamento Mar\u00edtimo de Lisboa",
+        "\u00e0s 16:05",
+        "ao final da tarde",
+        "na segunda -feira"
+    ],
+    "template": "-"
+}

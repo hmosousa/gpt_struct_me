@@ -1,0 +1,33 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_102",
+    "entities": [
+        "detido",
+        "posto",
+        "detido",
+        "ateado",
+        "causou",
+        "feridos",
+        "informou",
+        "comunicado",
+        "esclarece",
+        "encontrava",
+        "tendo",
+        "confirmado",
+        "colocado",
+        "referido",
+        "ateando",
+        "receberam",
+        "carecendo",
+        "registaram",
+        "ficou",
+        "havendo",
+        "refere",
+        "deflagrou",
+        "extinto",
+        "deu",
+        "prosseguir\u00e1"
+    ],
+    "template": "-"
+}

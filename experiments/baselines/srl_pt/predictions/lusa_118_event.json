@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_118",
+    "entities": [
+        "estado",
+        "est\u00e1",
+        "estado",
+        "testou",
+        "encontra",
+        "l\u00ea",
+        "emitido",
+        "referido",
+        "adianta",
+        "prevista",
+        "realizou",
+        "decidiu",
+        "cancelar",
+        "implique",
+        "Mant\u00e9m",
+        "realizar\u00e1",
+        "apresenta",
+        "acrescenta",
+        "comunicado"
+    ],
+    "template": "-"
+}

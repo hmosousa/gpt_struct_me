@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_200",
+    "entities": [
+        "hoje",
+        "quando cortava uma \u00e1rvore , em Regilde , no concelho de Felgueiras , e caiu numa ravina com cerca de sete metros",
+        "cerca das 17:55"
+    ],
+    "template": "-"
+}

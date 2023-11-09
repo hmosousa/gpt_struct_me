@@ -1,0 +1,28 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_194",
+    "entities": [
+        "PJ",
+        "morte violenta de homem de 60 anos em Celorico de Basto",
+        "A Pol\u00edcia Judici\u00e1ria",
+        "a morte de um homem de cerca de 60 anos encontrado em Gandarela , Celorico de Basto , no distrito de Braga , com ind\u00edcios de les\u00e3o grave cranioencef\u00e1lica",
+        "um homem de cerca de 60 anos",
+        "A Pol\u00edcia Judici\u00e1ria est\u00e1 a investigar a morte de um homem de cerca de 60 anos encontrado em Gandarela , Celorico de Basto , no distrito de Braga , com ind\u00edcios de les\u00e3o grave cranioencef\u00e1lica",
+        "fonte daquela pol\u00edcia",
+        "Fonte do Instituto Nacional de Emerg\u00eancia M\u00e9dica ( INEM )",
+        "\u00e0 Lusa",
+        "que o alerta para o caso da Gandarela , no concelho de Celorico de Basto , envolvendo uma pessoa encontrada com trauma grave , por raz\u00e3o desconhecida , foi dado pelas 21:45 de domingo",
+        "para o caso da Gandarela",
+        "o alerta para o caso da Gandarela",
+        "uma pessoa encontrada com trauma grave , por raz\u00e3o desconhecida",
+        "o alerta para o caso da Gandarela",
+        "que os primeiros meios de socorro a chegar ao local , da Cruz Vermelha local , encontraram -no j\u00e1 em paragem cardiorrespirat\u00f3ria",
+        "ao local",
+        "os primeiros meios de socorro a chegar ao local , da Cruz Vermelha local",
+        "O homem",
+        "o corpo",
+        "para a morgue de Guimar\u00e3es"
+    ],
+    "template": "-"
+}

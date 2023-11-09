@@ -1,0 +1,31 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_148",
+    "entities": [
+        "aprova",
+        "ajuda",
+        "aceitarem",
+        "reduzir",
+        "aprovou",
+        "aceitado",
+        "congelado",
+        "aceitar",
+        "anunciou",
+        "cedido",
+        "levou",
+        "dizer",
+        "emprestar",
+        "revela",
+        "prev\u00ea",
+        "reduzir",
+        "suprimir",
+        "devem",
+        "afetados",
+        "podem",
+        "ir",
+        "perdeu",
+        "compara"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,18 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_208",
+    "entities": [
+        "aterra",
+        "aterrou",
+        "disse",
+        "ter",
+        "parado",
+        "dado",
+        "aterrou",
+        "acrescentou",
+        "pertence",
+        "fazia"
+    ],
+    "template": "-"
+}

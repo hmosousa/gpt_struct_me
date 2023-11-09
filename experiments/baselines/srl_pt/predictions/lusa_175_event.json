@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_175",
+    "entities": [
+        "encontrado",
+        "boiar",
+        "encontrado",
+        "boiar",
+        "retirado",
+        "confirmou",
+        "alertada",
+        "viram",
+        "boiar",
+        "removeu",
+        "ficando",
+        "aguardar",
+        "iniciadas"
+    ],
+    "template": "-"
+}

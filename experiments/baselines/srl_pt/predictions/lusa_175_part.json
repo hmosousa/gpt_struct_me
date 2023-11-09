@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_175",
+    "entities": [
+        "O cad\u00e1ver de um homem com cerca de 60 anos",
+        "no rio Douro",
+        "da \u00e1gua",
+        "pela Pol\u00edcia Mar\u00edtima",
+        "O cad\u00e1ver de um homem com cerca de 60 anos foi hoje encontrado a boiar no rio Douro , em Vila Nova de Gaia , tendo sido retirado da \u00e1gua pela Pol\u00edcia Mar\u00edtima",
+        "\u00e0 Lusa",
+        "o comandante da capitania do Porto",
+        "Segundo Rui Santos Amaral",
+        "a autoridade mar\u00edtima",
+        "por populares \u201d que viram o \u201c corpo de um homem a boiar junto ao cais flutuante de Santa Marinha \u201d , em Vila Nova de Gaia , cerca das 17:20",
+        "que",
+        "o \u201c corpo de um homem a boiar junto ao cais flutuante de Santa Marinha \u201d , em Vila Nova de Gaia , cerca das 17:20",
+        "o \u201c corpo de um homem",
+        "A Pol\u00edcia Mar\u00edtima",
+        "o cad\u00e1ver",
+        "da \u00e1gua",
+        "a aguardar pela chegada da Pol\u00edcia Judici\u00e1ria para serem iniciadas as averigua\u00e7\u00f5es",
+        "pela chegada da Pol\u00edcia Judici\u00e1ria",
+        "as averigua\u00e7\u00f5es"
+    ],
+    "template": "-"
+}

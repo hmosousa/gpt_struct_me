@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_186",
+    "entities": [
+        "resgatado",
+        "cair",
+        "caiu",
+        "resgatado",
+        "disse",
+        "ocorreu",
+        "situado",
+        "ter",
+        "-se",
+        "acabando",
+        "cair",
+        "coberta",
+        "acrescentou",
+        "Recorrendo",
+        "resgataram",
+        "estabilizado",
+        "dado",
+        "recusado",
+        "tomou"
+    ],
+    "template": "-"
+}

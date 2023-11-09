@@ -1,0 +1,9 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_19",
+    "entities": [
+        "hoje"
+    ],
+    "template": "-"
+}

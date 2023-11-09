@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_193",
+    "entities": [
+        "Um homem de 68 anos",
+        "no Rio Tejo",
+        "por outro indiv\u00edduo",
+        "para o Hospital de S\u00e3o Jos\u00e9",
+        "Fonte oficial da Pol\u00edcia Mar\u00edtima",
+        "\u00e0 Lusa",
+        "que a ocorr\u00eancia teve lugar perto do meio -dia e que o homem chegou a ser alvo de \u201c reanima\u00e7\u00e3o cardiorrespirat\u00f3ria \u201d no local",
+        "a ocorr\u00eancia",
+        "o homem",
+        "a ser alvo de \u201c reanima\u00e7\u00e3o cardiorrespirat\u00f3ria \u201d",
+        "O salvamento",
+        "por outro transeunte que passava nas imedia\u00e7\u00f5es e se atirou \u00e0 \u00e1gua quando viu o homem em dificuldades",
+        "que",
+        "que",
+        "se",
+        "\u00e0 \u00e1gua",
+        "o homem em dificuldades",
+        "O cidad\u00e3o de 68 anos",
+        "por uma ambul\u00e2ncia do Instituto Nacional de Emerg\u00eancia M\u00e9dica ( INEM )",
+        "para o Hospital de S\u00e3o Jos\u00e9 , onde ainda se encontra internado , mas livre de perigo",
+        "se",
+        "internado"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_123",
+    "entities": [
+        "ferida",
+        "morreu",
+        "ficado",
+        "ocorrido",
+        "acabou",
+        "morrer",
+        "disse",
+        "ocorreu",
+        "envolveu",
+        "provocou",
+        "indicado",
+        "ficado",
+        "encarcerada",
+        "envolvidas",
+        "transportada",
+        "chegou",
+        "circulava",
+        "estiveram",
+        "apoiados"
+    ],
+    "template": "-"
+}

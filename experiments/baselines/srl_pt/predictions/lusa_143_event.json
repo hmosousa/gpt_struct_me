@@ -1,0 +1,20 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_143",
+    "entities": [
+        "identificou",
+        "apreendeu",
+        "identificou",
+        "apreendeu",
+        "elaborou",
+        "anunciou",
+        "comunicado",
+        "adianta",
+        "t\u00eam",
+        "decorreu",
+        "apreendido",
+        "remetidos"
+    ],
+    "template": "-"
+}

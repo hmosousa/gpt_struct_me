@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_138",
+    "entities": [
+        "det\u00e9m",
+        "maltratar",
+        "amea\u00e7ar",
+        "detido",
+        "maltratar",
+        "referiu",
+        "estaria",
+        "ocorrer",
+        "deslocaram",
+        "apuraram",
+        "estaria",
+        "infligir",
+        "sublinhou",
+        "comunicado",
+        "apreendeu",
+        "frisou",
+        "detido"
+    ],
+    "template": "-"
+}

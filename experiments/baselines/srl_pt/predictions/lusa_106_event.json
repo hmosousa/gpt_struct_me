@@ -1,0 +1,20 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_106",
+    "entities": [
+        "atropela",
+        "atropelou",
+        "Importam",
+        "especificaram",
+        "provocou",
+        "tiveram",
+        "transportados",
+        "explicou",
+        "detido",
+        "avan\u00e7ou",
+        "ocorreu",
+        "provocou"
+    ],
+    "template": "-"
+}

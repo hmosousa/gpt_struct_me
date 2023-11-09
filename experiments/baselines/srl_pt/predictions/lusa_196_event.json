@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_196",
+    "entities": [
+        "baleado",
+        "fugiu",
+        "baleado",
+        "p\u00f4s",
+        "disse",
+        "atingida",
+        "conduzida",
+        "indicou",
+        "Trata",
+        "chegou",
+        "chamada",
+        "investigar",
+        "trata",
+        "reservada",
+        "determinar"
+    ],
+    "template": "-"
+}

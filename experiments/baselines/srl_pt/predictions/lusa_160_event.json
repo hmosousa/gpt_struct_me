@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_160",
+    "entities": [
+        "acusa",
+        "abusar",
+        "acusou",
+        "agravado",
+        "anunciou",
+        "publicada",
+        "refere",
+        "come\u00e7ado",
+        "tinha",
+        "considerou",
+        "passou",
+        "viver",
+        "manteve",
+        "aproveitando",
+        "passava"
+    ],
+    "template": "-"
+}

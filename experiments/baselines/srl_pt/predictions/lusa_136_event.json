@@ -1,0 +1,22 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_136",
+    "entities": [
+        "det\u00e9m",
+        "anunciou",
+        "cometidos",
+        "comunicado",
+        "explica",
+        "apurou",
+        "saiu",
+        "agredido",
+        "injuriado",
+        "coagido",
+        "dar",
+        "satisfazer",
+        "levaram",
+        "dado"
+    ],
+    "template": "-"
+}

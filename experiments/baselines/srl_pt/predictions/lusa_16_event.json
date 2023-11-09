@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_16",
+    "entities": [
+        "sofre",
+        "sofreu",
+        "disse",
+        "dado",
+        "come\u00e7aram",
+        "acrescentou",
+        "Assistido",
+        "conduzido",
+        "disse",
+        "consumiu",
+        "dado",
+        "extinto",
+        "informou"
+    ],
+    "template": "-"
+}

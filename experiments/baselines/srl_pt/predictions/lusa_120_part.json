@@ -1,0 +1,33 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_120",
+    "entities": [
+        "Jovem",
+        "em estado muito grave",
+        "Um jovem de 17 anos",
+        "em estado muito grave",
+        "Um jovem de 17 anos",
+        "Um jovem de 17 anos ficou em estado muito grave depois de ter sido baleado no peito hoje de madrugada no bairro Casal da Mira , na Amadora , no distrito de Lisboa",
+        "\u00e0 ag\u00eancia Lusa",
+        "fonte da PSP",
+        "De acordo com fonte do Comando Metropolitano de Lisboa ( Cometlis )",
+        "o alerta para a ocorr\u00eancia",
+        "Um jovem de 17 anos",
+        "com uma arma de fogo",
+        "ferido em estado muito grave",
+        "para o Hospital Professor Doutor Fernando Fonseca [ Amadora -Sintra ",
+        "Ficou ferido em estado muito grave e foi transportado para o Hospital Professor Doutor Fernando Fonseca [ Amadora -Sintra ",
+        "\u00c0 Lusa",
+        "o Cometlis",
+        "que as causas para o incidente s\u00e3o desconhecidas e que ainda n\u00e3o foram identificados ou detidos quaisquer suspeitos",
+        "as causas para o incidente",
+        "que",
+        "quaisquer suspeitos",
+        "se",
+        "de um crime",
+        "o caso",
+        "\u00e0 Pol\u00edcia Judici\u00e1ria ( PJ )"
+    ],
+    "template": "-"
+}

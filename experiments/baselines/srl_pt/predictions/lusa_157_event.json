@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_157",
+    "entities": [
+        "morre",
+        "atingido",
+        "morreu",
+        "atingido",
+        "procedia",
+        "disse",
+        "declarado",
+        "acionado",
+        "adiantou",
+        "estaria",
+        "fazer",
+        "cortava",
+        "caiu",
+        "dado",
+        "contactada",
+        "explicou",
+        "acionadas",
+        "apontavam",
+        "veio",
+        "comprovar",
+        "acionou",
+        "compareceram"
+    ],
+    "template": "-"
+}

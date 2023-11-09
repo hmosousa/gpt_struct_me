@@ -1,0 +1,22 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_140",
+    "entities": [
+        "acusa",
+        "acusou",
+        "falsificado",
+        "logrando",
+        "receber",
+        "publicada",
+        "incluiu",
+        "tivesse",
+        "receber",
+        "refere",
+        "concluiu",
+        "recebeu",
+        "acusado",
+        "ordenado"
+    ],
+    "template": "-"
+}

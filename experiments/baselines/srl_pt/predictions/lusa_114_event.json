@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_114",
+    "entities": [
+        "devolvidos",
+        "anunciou",
+        "entregues",
+        "incluindo",
+        "situado",
+        "feita",
+        "financiados",
+        "ficado",
+        "referiu",
+        "passam",
+        "integrar",
+        "adiantou",
+        "acrescentou",
+        "atendendo",
+        "devem",
+        "adotadas",
+        "garantam"
+    ],
+    "template": "-"
+}

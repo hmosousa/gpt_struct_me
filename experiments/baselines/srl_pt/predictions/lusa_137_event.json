@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_137",
+    "entities": [
+        "encontrou",
+        "dada",
+        "desaparecida",
+        "encontrou",
+        "desaparecida",
+        "disse",
+        "detetada",
+        "transportada",
+        "reside",
+        "dado",
+        "procurada",
+        "retomadas",
+        "envolveram",
+        "encontrada",
+        "mobilizados"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,20 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_139",
+    "entities": [
+        "deteta",
+        "anunciou",
+        "detetou",
+        "informa",
+        "detetou",
+        "confrontados",
+        "escorrer",
+        "assegurasse",
+        "refere",
+        "identificado",
+        "resultando",
+        "acrescenta"
+    ],
+    "template": "-"
+}

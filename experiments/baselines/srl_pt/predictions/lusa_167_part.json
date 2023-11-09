@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_167",
+    "entities": [
+        "com gravidade",
+        "de andaime",
+        "Um homem de 60 anos",
+        "em estado grave",
+        "de um andaime",
+        "numa obra",
+        "Um homem de 60 anos ficou hoje em estado grave ap\u00f3s ter ca\u00eddo de um andaime , a cerca de \" tr\u00eas a quatro metros \" de altura , quando trabalhava numa obra em Ponte de Lima",
+        "o comandante dos bombeiros locais",
+        "pela ag\u00eancia Lusa",
+        "Carlos Lima",
+        "que o homem \" foi transportado em estado grave , pela ambul\u00e2ncia de Suporte Imediato de Vida ( SIV ) , para o hospital de Braga \"",
+        "o homem",
+        "pela ambul\u00e2ncia de Suporte Imediato de Vida ( SIV )",
+        "para o hospital de Braga",
+        "De acordo com o comandante dos Bombeiros de Ponte de Lima",
+        "o acidente de trabalho",
+        "\u00c0 Lusa",
+        "fonte do Comando Distrital de Opera\u00e7\u00f5es de Socorro ( CDOS )",
+        "que o alerta foi dado cerca das 10:33",
+        "o alerta",
+        "Al\u00e9m da SIV",
+        "ao local"
+    ],
+    "template": "-"
+}

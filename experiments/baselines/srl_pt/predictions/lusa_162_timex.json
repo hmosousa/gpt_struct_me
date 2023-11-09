@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_162",
+    "entities": [
+        "ap\u00f3s atropelamento",
+        "hoje",
+        "durante uma manobra de marcha -atr\u00e1s de uma carinha",
+        "\u00e0s 11:29"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_151",
+    "entities": [
+        "ilegaliza",
+        "ilegalizou",
+        "disse",
+        "manteve",
+        "proibiu",
+        "quer",
+        "ver",
+        "implementada",
+        "vindo",
+        "alargar",
+        "organizou",
+        "entregou",
+        "acusado",
+        "incitar",
+        "violar",
+        "impostas",
+        "travar",
+        "organizando"
+    ],
+    "template": "-"
+}

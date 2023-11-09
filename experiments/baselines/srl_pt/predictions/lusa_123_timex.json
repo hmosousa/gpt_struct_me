@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_123",
+    "entities": [
+        "no s\u00e1bado \u00e0 noite",
+        "cerca das 21:40 de s\u00e1bado",
+        "Anteriormente",
+        "posteriormente",
+        "pelas 23:30 de s\u00e1bado"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,24 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_104",
+    "entities": [
+        "morreram",
+        "noticiou",
+        "registou",
+        "sofreu",
+        "deu",
+        "sa\u00edam",
+        "salientando",
+        "encontra",
+        "-se",
+        "encontra",
+        "desaparecido",
+        "disse",
+        "dado",
+        "conhecer",
+        "frisando",
+        "construa"
+    ],
+    "template": "-"
+}

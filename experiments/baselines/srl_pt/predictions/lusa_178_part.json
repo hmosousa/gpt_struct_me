@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_178",
+    "entities": [
+        "Homem de 61 anos",
+        "Um homem de 61 anos",
+        "que",
+        "Um homem de 61 anos morreu hoje , na sequ\u00eancia do despiste do autom\u00f3vel que conduzia na Estrada Municipal 524 no concelho de Marv\u00e3o , distrito de Portalegre",
+        "fontes da Prote\u00e7\u00e3o Civil e da GNR",
+        "As mesmas fontes",
+        "\u00e0 ag\u00eancia Lusa",
+        "que o \u00f3bito foi declarado no local pelo m\u00e9dico da viatura m\u00e9dica de emerg\u00eancia e reanima\u00e7\u00e3o ( VMER ) , do hospital de Portalegre , e que o homem era o \u00fanico ocupante do ve\u00edculo ligeiro de passageiros",
+        "o \u00f3bito",
+        "pelo m\u00e9dico da viatura m\u00e9dica de emerg\u00eancia e reanima\u00e7\u00e3o ( VMER ) , do hospital de Portalegre",
+        "Segundo fonte do Comando Distrital de Opera\u00e7\u00f5es de Socorro ( CDOS ) de Portalegre",
+        "o acidente",
+        "o corpo do homem",
+        "para o servi\u00e7o de Medicina Legal do hospital de Portalegre",
+        "O alerta",
+        "de acordo com CDOS",
+        "bombeiros e ve\u00edculos da corpora\u00e7\u00e3o de Marv\u00e3o e a VMER , al\u00e9m da GNR",
+        "por quatro viaturas"
+    ],
+    "template": "-"
+}

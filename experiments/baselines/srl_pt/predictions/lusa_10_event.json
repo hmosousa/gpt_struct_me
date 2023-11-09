@@ -1,0 +1,32 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_10",
+    "entities": [
+        "fere",
+        "usava",
+        "feriu",
+        "estava",
+        "fazer",
+        "recusou",
+        "parar",
+        "disse",
+        "deu",
+        "atingido",
+        "disse",
+        "atingiram",
+        "desobedecer",
+        "cessar",
+        "parou",
+        "fizeram",
+        "acrescentou",
+        "afirmou",
+        "desconhecer",
+        "detido",
+        "tidas",
+        "envolveu",
+        "informada",
+        "indicou"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,31 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_201",
+    "entities": [
+        "morre",
+        "morreu",
+        "deflagrou",
+        "disse",
+        "morto",
+        "visto",
+        "encontrava",
+        "apresentar",
+        "cheg\u00e1mos",
+        "encontrava",
+        "consumido",
+        "dormir",
+        "encontrava",
+        "declarou",
+        "dado",
+        "referiu",
+        "extinguiram",
+        "encontraram",
+        "vivia",
+        "declarou",
+        "est\u00e3o",
+        "apurar",
+        "disse"
+    ],
+    "template": "-"
+}

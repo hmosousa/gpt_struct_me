@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_0",
+    "entities": [
+        "GNR",
+        "com festa ilegal com 50 pessoas",
+        "A GNR",
+        "com uma festa ilegal",
+        "que",
+        "cerca de 50 pessoas",
+        "concelho de S\u00e3o Br\u00e1s de Alportel , que reunia cerca de 50 pessoas",
+        "o Comando Territorial de Faro da GNR",
+        "que , na sequ\u00eancia de uma den\u00fancia a informar sobre a exist\u00eancia de \u201c uma festa com m\u00fasica ao vivo num estabelecimento de bebidas \u201d , militares do Posto Territorial de S\u00e3o de Alportel deslocaram -se ao local para fiscalizar a ocorr\u00eancia",
+        "sobre a exist\u00eancia de \u201c uma festa com m\u00fasica ao vivo num estabelecimento de bebidas \u201d",
+        "militares do Posto Territorial de S\u00e3o de Alportel",
+        "ao local",
+        "a ocorr\u00eancia",
+        "Os militares",
+        "as pessoas",
+        "que o propriet\u00e1rio foi identificado e foi elaborado \u201c um auto de contraordena\u00e7\u00e3o \u201d",
+        "o propriet\u00e1rio",
+        "um auto de contraordena\u00e7\u00e3o"
+    ],
+    "template": "-"
+}

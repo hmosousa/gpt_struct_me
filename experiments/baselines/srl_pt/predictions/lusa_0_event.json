@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_0",
+    "entities": [
+        "acabou",
+        "acabou",
+        "reunia",
+        "anunciado",
+        "comunicado",
+        "adianta",
+        "informar",
+        "deslocaram",
+        "fiscalizar",
+        "desmobilizaram",
+        "referido",
+        "identificado",
+        "elaborado"
+    ],
+    "template": "-"
+}

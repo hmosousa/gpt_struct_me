@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_110",
+    "entities": [
+        "matam",
+        "contratados",
+        "mataram",
+        "informaram",
+        "precisando",
+        "abandonados",
+        "encontrados",
+        "informou",
+        "precisou",
+        "apresentavam",
+        "desconhecida",
+        "est\u00e3o",
+        "considerar",
+        "admitem",
+        "organizado"
+    ],
+    "template": "-"
+}

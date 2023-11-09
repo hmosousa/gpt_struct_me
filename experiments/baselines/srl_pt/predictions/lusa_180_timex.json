@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_180",
+    "entities": [
+        "hoje",
+        "agora",
+        "desde que o chefe de Estado , Filipe Nyusi , anunciou , em 29 de outubro , a retoma da emiss\u00e3o de vistos de turismo e o fim da necessidade de quarentena para quem chega com teste negativo ao pa\u00eds",
+        "em 29 de outubro"
+    ],
+    "template": "-"
+}

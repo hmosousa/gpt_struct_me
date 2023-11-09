@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_143",
+    "entities": [
+        "GNR",
+        "dois homens",
+        "GNR",
+        "m\u00e1quinas de jogo ilegal",
+        "A GNR",
+        "dois homens",
+        "por explora\u00e7\u00e3o de jogo ilegal",
+        "A GNR",
+        "quatro m\u00e1quinas de jogo",
+        "A GNR",
+        "11 autos de contraordena\u00e7\u00e3o por explora\u00e7\u00e3o das m\u00e1quinas ilegais",
+        "A GNR identificou dois homens por explora\u00e7\u00e3o de jogo ilegal , apreendeu quatro m\u00e1quinas de jogo e elaborou 11 autos de contraordena\u00e7\u00e3o por explora\u00e7\u00e3o das m\u00e1quinas ilegais , em Vila Me\u00e3 , Amarante , distrito do Porto",
+        "fonte policial",
+        "a GNR",
+        "que os suspeitos t\u00eam de 30 e 60 anos e que a a\u00e7\u00e3o decorreu no \u00e2mbito de uma fiscaliza\u00e7\u00e3o a estabelecimentos de restaura\u00e7\u00e3o e bebidas",
+        "os suspeitos",
+        "de 30 e 60 anos",
+        "a a\u00e7\u00e3o",
+        "no \u00e2mbito de uma fiscaliza\u00e7\u00e3o a estabelecimentos de restaura\u00e7\u00e3o e bebidas",
+        "Al\u00e9m das m\u00e1quinas de jogo",
+        "Os factos",
+        "ao Tribunal Judicial de Amarante"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_163",
+    "entities": [
+        "hoje",
+        "enquanto manuseava gasolina em Vale de S. Martinho , Vila Nova de Famalic\u00e3o",
+        "\u00e0s 13:41"
+    ],
+    "template": "-"
+}

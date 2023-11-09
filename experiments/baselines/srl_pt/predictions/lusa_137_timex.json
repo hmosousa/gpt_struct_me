@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_137",
+    "entities": [
+        "esta tarde",
+        "desde segunda -feira",
+        "hoje",
+        "pelas 17:00 de segunda -feira",
+        "durante a noite",
+        "esta manh\u00e3",
+        "pelas 15:40"
+    ],
+    "template": "-"
+}

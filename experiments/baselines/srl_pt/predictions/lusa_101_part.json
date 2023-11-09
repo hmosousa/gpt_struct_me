@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_101",
+    "entities": [
+        "Um homem de 50 anos",
+        "pela Guarda Nacional Republicana ( GNR )",
+        "a ca\u00e7ar perto de habita\u00e7\u00f5es",
+        "aquela for\u00e7a da autoridade",
+        "os militares",
+        "o suspeito",
+        "a ca\u00e7ar em terrenos pr\u00f3ximos de habita\u00e7\u00f5es , numa faixa de prote\u00e7\u00e3o inferior a 250 metros",
+        "\u201c No seguimento de den\u00fancia , e ap\u00f3s dilig\u00eancias de investiga\u00e7\u00e3o , os militares intercetaram o suspeito a ca\u00e7ar em terrenos pr\u00f3ximos de habita\u00e7\u00f5es , numa faixa de prote\u00e7\u00e3o inferior a 250 metros \u201d",
+        "o comunicado da GNR , que mobilizou o Posto Territorial de \u00d3bidos e o N\u00facleo de Prote\u00e7\u00e3o Ambiental das Caldas da Rainha",
+        "que",
+        "o Posto Territorial de \u00d3bidos e o N\u00facleo de Prote\u00e7\u00e3o Ambiental das Caldas da Rainha",
+        "O homem",
+        "pelo crime do exerc\u00edcio da ca\u00e7a em terrenos n\u00e3o permitidos",
+        "o relato da situa\u00e7\u00e3o",
+        "para o Tribunal das Caldas da Rainha",
+        "A deten\u00e7\u00e3o",
+        "na apreens\u00e3o de uma espingarda de ca\u00e7a , dois cartuchos de calibre 12 e diversos materiais e acess\u00f3rios relativos a ca\u00e7a"
+    ],
+    "template": "-"
+}

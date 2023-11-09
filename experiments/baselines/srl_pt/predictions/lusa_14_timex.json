@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_14",
+    "entities": [
+        "hoje",
+        "durante uma opera\u00e7\u00e3o denominada \" Kudissanga",
+        ", que contou com a colabora\u00e7\u00e3o de populares",
+        "este ano",
+        "depois da primeira no in\u00edcio do ano e a segunda em julho"
+    ],
+    "template": "-"
+}

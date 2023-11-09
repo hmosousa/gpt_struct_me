@@ -1,22 +1,22 @@
 echo "Running TEFE baseline."
-cd experiments/baselines/tefe
-docker pull andersonsacramento/tefe
-python -m experiments.baselines.tefe.run
-mkdir annt
-docker run -it --rm  -v  `pwd`:/mnt andersonsacramento/tefe --dir /mnt/tmp/  /mnt/annt/
-python -m experiments.baselines.tefe.parse
-rm -rf tmp/ annt/
-cd ../../..
+sh experiments/baselines/tefe_baseline/run.sh
+echo "Done."
 
 echo "Runnig Heideltime baseline."
-python -m experiments.baselines.heideltime.run 
+sh experiments/baselines/heideltime/run.sh
 echo "Done."
 
 echo "Runnig TEI2GO baseline."
-python -m experiments.baselines.tei2go.run 
+sh experiments/baselines/tei2go/run.sh 
 echo "Done."
 
 echo "Runnig tieval Event baseline."
-python -m experiments.baselines.tieval_baseline.run 
-rm -rf models
+sh experiments/baselines/tieval_baseline/run.sh
 echo "Done."
+
+echo "Runnig SRL baseline."
+sh experiments/baselines/srl/run.sh
+echo "Done."
+
+echo "Addind the results to the predictions in the result folder."
+sh experiments/baselines/compile.py

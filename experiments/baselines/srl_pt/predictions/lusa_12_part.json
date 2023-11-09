@@ -1,0 +1,32 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_12",
+    "entities": [
+        "Autoridades",
+        "buscas para encontrar homem desaparecido no rio Guadiana",
+        "homem desaparecido no rio Guadiana",
+        "A Autoridade Mar\u00edtima Nacional",
+        "buscas",
+        "a autoridade",
+        "que o homem de nacionalidade romena , que ainda n\u00e3o foi encontrado , desapareceu durante a tarde , depois de ter entrado na \u00e1gua e de ter deixado de ser avistado por dois pescadores que o acompanhavam",
+        "que",
+        "o homem de nacionalidade romena , que ainda n\u00e3o foi encontrado",
+        "na \u00e1gua",
+        "de ser avistado por dois pescadores que o acompanhavam",
+        "por dois pescadores que o acompanhavam",
+        "que",
+        "o",
+        "O Capit\u00e3o do Porto de Vila Real de Santo Ant\u00f3nio",
+        "uma embarca\u00e7\u00e3o da Pol\u00edcia Mar\u00edtima e uma embarca\u00e7\u00e3o da Esta\u00e7\u00e3o Salva -vidas de Vila Real de Santo Ant\u00f3nio",
+        "de Vila Real de Santo Ant\u00f3nio",
+        "o alerta",
+        "As buscas",
+        "As buscas",
+        "As buscas foram interrompidas ao final da tarde e ser\u00e3o retomadas na segunda -feira",
+        "entretanto",
+        "\u00e0 Lusa",
+        "fonte da Autoridade Mar\u00edtima Nacional"
+    ],
+    "template": "-"
+}

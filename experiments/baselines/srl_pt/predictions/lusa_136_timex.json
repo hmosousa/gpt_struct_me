@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_136",
+    "entities": [
+        "hoje",
+        "em setembro de 2019",
+        "desde que saiu da pris\u00e3o",
+        "em setembro de 2019",
+        "na quarta -feira"
+    ],
+    "template": "-"
+}

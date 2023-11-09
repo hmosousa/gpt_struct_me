@@ -1,0 +1,32 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_136",
+    "entities": [
+        "GNR",
+        "homem de 59 anos",
+        "por maus -tratos sobre o pai",
+        "A GNR",
+        "a deten\u00e7\u00e3o de um homem , de 59 anos , por maus -tratos sobre o seu pai , de 89 anos , cometidos no concelho da Maia , no distrito do Porto",
+        "maus",
+        "a GNR",
+        "que no seguimento de uma den\u00fancia por maus -tratos a idoso apurou \u201c que o agressor , desde que saiu da pris\u00e3o , em setembro de 2019 , ter\u00e1 agredido , injuriado e coagido a v\u00edtima , seu pai , de 89 anos , a dar -lhe dinheiro para satisfazer o seu v\u00edcio de consumo de estupefacientes \u201d",
+        "a GNR",
+        "a idoso",
+        "que o agressor , desde que saiu da pris\u00e3o , em setembro de 2019 , ter\u00e1 agredido , injuriado e coagido a v\u00edtima , seu pai , de 89 anos , a dar -lhe dinheiro para satisfazer o seu v\u00edcio de consumo de estupefacientes",
+        "da pris\u00e3o",
+        "o agressor",
+        "o agressor",
+        "o agressor",
+        "a v\u00edtima , seu pai , de 89 anos ,",
+        "a dar -lhe dinheiro para satisfazer o seu v\u00edcio de consumo de estupefacientes",
+        "dinheiro",
+        "o seu v\u00edcio de consumo de estupefacientes",
+        "Estes factos",
+        "\u00e0 emiss\u00e3o de um mandado de deten\u00e7\u00e3o , ao qual foi dado cumprimento na quarta -feira por militares da GNR do Posto Territorial da Maia",
+        "ao qual",
+        "cumprimento",
+        "por militares da GNR do Posto Territorial da Maia"
+    ],
+    "template": "-"
+}

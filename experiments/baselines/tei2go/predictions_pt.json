@@ -1,0 +1,1090 @@
+[
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_169",
+        "entities": [
+            "61 anos",
+            "61 anos",
+            "hoje",
+            "domingo"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_114",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_160",
+        "entities": [
+            "hoje",
+            "2017",
+            "10 anos",
+            "2016",
+            "2017",
+            "2019",
+            "05 de outubro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_137",
+        "entities": [
+            "esta tarde",
+            "81 anos",
+            "segunda-feira",
+            "hoje",
+            "esta manhã"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_164",
+        "entities": [
+            "madrugada de segunda-feira",
+            "hoje",
+            "segunda-feira",
+            "72 anos",
+            "74 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_192",
+        "entities": [
+            "12 anos",
+            "hoje",
+            "12 anos",
+            "36 anos",
+            "2013",
+            "sete anos",
+            "outubro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_199",
+        "entities": [
+            "60 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_183",
+        "entities": [
+            "28 anos",
+            "hoje",
+            "30 anos",
+            "últimos meses"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_201",
+        "entities": [
+            "hoje",
+            "70 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_190",
+        "entities": [
+            "66 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_206",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_202",
+        "entities": [
+            "34 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_127",
+        "entities": [
+            "hoje",
+            "48 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_184",
+        "entities": [
+            "hoje",
+            "65 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_177",
+        "entities": [
+            "cerca de 50 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_165",
+        "entities": [
+            "hoje",
+            "Domingos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_17",
+        "entities": [
+            "domingo",
+            "anos",
+            "2012",
+            "62 anos",
+            "2017",
+            "2012"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_178",
+        "entities": [
+            "61 anos",
+            "61 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_159",
+        "entities": [
+            "sábado",
+            "47 anos",
+            "hoje",
+            "início de outubro",
+            "22 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_205",
+        "entities": [
+            "hoje",
+            "56 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_167",
+        "entities": [
+            "60 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_122",
+        "entities": [
+            "domingo",
+            "hoje",
+            "domingo"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_118",
+        "entities": [
+            "hoje",
+            "quarta-feira",
+            "ontem",
+            "20 de dezembro",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_153",
+        "entities": [
+            "60 anos",
+            "59 anos",
+            "hoje",
+            "terça-feira",
+            "59 anos",
+            "quarta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_198",
+        "entities": [
+            "52 anos",
+            "52 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_139",
+        "entities": [
+            "hoje",
+            "dia 27 de novembro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_175",
+        "entities": [
+            "cerca de 60 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_171",
+        "entities": [
+            "anos",
+            "anos",
+            "hoje",
+            "dia 16 de maio de 2020",
+            "cinco anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_163",
+        "entities": [
+            "hoje",
+            "58 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_157",
+        "entities": [
+            "59 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_140",
+        "entities": [
+            "hoje",
+            "2011",
+            "2016"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_187",
+        "entities": [
+            "hoje",
+            "anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_158",
+        "entities": [
+            "48 anos",
+            "48 anos",
+            "hoje",
+            "cerca de 20 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_143",
+        "entities": [
+            "60 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_208",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_168",
+        "entities": [
+            "33 anos",
+            "hoje",
+            "recente"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_131",
+        "entities": [
+            "hoje",
+            "quinta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_125",
+        "entities": [
+            "domingo",
+            "hoje",
+            "26 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_16",
+        "entities": [
+            "25 anos",
+            "25 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_144",
+        "entities": [
+            "31 anos",
+            "hoje",
+            "sábado",
+            "segunda-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_135",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_129",
+        "entities": [
+            "hoje",
+            "50 anos",
+            "quinta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_113",
+        "entities": [
+            "hoje",
+            "09 anos",
+            "domingo",
+            "quase uma década",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_19",
+        "entities": [
+            "69 anos",
+            "hoje",
+            "69 anos",
+            "61 anos",
+            "48 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_130",
+        "entities": [
+            "52 anos",
+            "hoje",
+            "52 anos",
+            "quinta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_111",
+        "entities": [
+            "hoje",
+            "segunda-feira",
+            "ontem",
+            "segunda-feira",
+            "20 anos",
+            "noite de segunda-feira",
+            "dezembro passado",
+            "22 meses"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_136",
+        "entities": [
+            "59 anos",
+            "hoje",
+            "59 anos",
+            "89 anos",
+            "setembro",
+            "2019",
+            "89 anos",
+            "quarta-feira",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_1",
+        "entities": [
+            "20 anos",
+            "hoje",
+            "quarta-feira",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_106",
+        "entities": [
+            "hoje",
+            "agora"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_117",
+        "entities": [
+            "hoje",
+            "Paio"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_149",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_182",
+        "entities": [
+            "hoje",
+            "47 anos",
+            "46 anos",
+            "últimos meses"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_134",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_123",
+        "entities": [
+            "12 anos",
+            "sábado",
+            "12 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_12",
+        "entities": [
+            "hoje",
+            "agora",
+            "48 anos",
+            "segunda-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_194",
+        "entities": [
+            "60 anos",
+            "cerca de 60 anos",
+            "hoje",
+            "hoje",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_18",
+        "entities": [
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_101",
+        "entities": [
+            "50 anos",
+            "quarta-feira",
+            "hoje",
+            "próximos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_108",
+        "entities": [
+            "hoje",
+            "agora",
+            "próximo",
+            "madrugada de quinta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_150",
+        "entities": [
+            "seis meses",
+            "hoje",
+            "71 anos",
+            "hoje",
+            "dia 25 de março",
+            "outubro",
+            "seis meses"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_120",
+        "entities": [
+            "17 anos",
+            "hoje",
+            "17 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_200",
+        "entities": [
+            "31 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_99",
+        "entities": [
+            "julho",
+            "hoje",
+            "novembro",
+            "esta manhã",
+            "anos",
+            "28 anos",
+            "2012"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_128",
+        "entities": [
+            "hoje",
+            "25 anos",
+            "33 anos",
+            "segunda-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_174",
+        "entities": [
+            "25 anos",
+            "hoje",
+            "sexta-feira",
+            "cerca de um mês"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_185",
+        "entities": [
+            "32 anos",
+            "hoje",
+            "manhã de domingo"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_196",
+        "entities": [
+            "31 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_162",
+        "entities": [
+            "84 anos",
+            "84 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_152",
+        "entities": [
+            "terça-feira",
+            "noite de segunda-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_110",
+        "entities": [
+            "quarta-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_112",
+        "entities": [
+            "hoje",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_204",
+        "entities": [
+            "26 anos",
+            "26 anos",
+            "hoje",
+            "46 anos",
+            "12 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_124",
+        "entities": [
+            "sábado",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_132",
+        "entities": [
+            "47 anos",
+            "terça-feira",
+            "47 anos",
+            "33 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_115",
+        "entities": [
+            "75 anos",
+            "hoje",
+            "75 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_180",
+        "entities": [
+            "hoje",
+            "agora",
+            "29 de outubro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_148",
+        "entities": [
+            "terça-feira",
+            "cinco anos",
+            "pronto",
+            "terceiro trimestre"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_146",
+        "entities": [
+            "hoje",
+            "anos",
+            "terça-feira"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_102",
+        "entities": [
+            "54 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_166",
+        "entities": [
+            "54 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_10",
+        "entities": [
+            "hoje",
+            "52 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_207",
+        "entities": [
+            "33 anos",
+            "terça-feira",
+            "33 anos",
+            "22 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_181",
+        "entities": [
+            "hoje",
+            "este ano",
+            "55 anos",
+            "este ano",
+            "1929",
+            "2019",
+            "2018"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_145",
+        "entities": [
+            "hoje",
+            "41 anos",
+            "agora"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_14",
+        "entities": [
+            "hoje",
+            "12 anos",
+            "início do ano",
+            "julho"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_0",
+        "entities": [
+            "sábado",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_104",
+        "entities": [
+            "hoje",
+            "noite de domingo"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_15",
+        "entities": [
+            "hoje",
+            "há 20 anos",
+            "este ano",
+            "junho"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_147",
+        "entities": [
+            "2021",
+            "hoje",
+            "cinco minutos",
+            "cinco minutos",
+            "um minuto"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_103",
+        "entities": [
+            "domingo",
+            "8 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_138",
+        "entities": [
+            "73 anos",
+            "50 anos",
+            "hoje",
+            "73 anos",
+            "sábado"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_186",
+        "entities": [
+            "cerca de 60 anos",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_2",
+        "entities": [
+            "domingo",
+            "hoje"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_193",
+        "entities": [
+            "68 anos",
+            "hoje",
+            "68 anos"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_151",
+        "entities": [
+            "hoje",
+            "últimos anos",
+            "2016",
+            "2017",
+            "início do mês de dezembro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tei2go",
+        "entity": "time expressions",
+        "doc": "lusa_105",
+        "entities": [
+            "38 anos",
+            "seis anos e seis meses",
+            "hoje",
+            "domingo",
+            "seis anos e seis meses"
+        ],
+        "template": "-"
+    }
+]

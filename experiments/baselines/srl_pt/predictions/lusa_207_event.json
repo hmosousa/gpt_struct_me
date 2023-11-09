@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_207",
+    "entities": [
+        "ficaram",
+        "disse",
+        "desordem",
+        "envolveu",
+        "come\u00e7ado",
+        "terminou",
+        "ficou",
+        "transportado",
+        "deslocou",
+        "disse",
+        "encontrado",
+        "ficaram",
+        "referiu",
+        "dado",
+        "ficou"
+    ],
+    "template": "-"
+}

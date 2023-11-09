@@ -1,0 +1,19 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_134",
+    "entities": [
+        "procura",
+        "roubaram",
+        "disse",
+        "consumado",
+        "atuaram",
+        "tapada",
+        "Levaram",
+        "determinado",
+        "detido",
+        "continuava",
+        "procurado"
+    ],
+    "template": "-"
+}

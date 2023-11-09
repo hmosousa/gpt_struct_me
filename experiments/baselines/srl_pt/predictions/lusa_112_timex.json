@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_112",
+    "entities": [
+        "hoje",
+        "ainda hoje",
+        "pelas 20:30",
+        "nas \u00faltimas elei\u00e7\u00f5es legislativas"
+    ],
+    "template": "-"
+}

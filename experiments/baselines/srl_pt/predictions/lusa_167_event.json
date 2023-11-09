@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_167",
+    "entities": [
+        "ferido",
+        "cair",
+        "ficou",
+        "ca\u00eddo",
+        "trabalhava",
+        "disse",
+        "Contactado",
+        "explicou",
+        "transportado",
+        "ocorreu",
+        "adiantou",
+        "dado",
+        "compareceram"
+    ],
+    "template": "-"
+}

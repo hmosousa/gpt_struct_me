@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_202",
+    "entities": [
+        "morre",
+        "morreu",
+        "conduzia",
+        "disseram",
+        "dado",
+        "disse",
+        "seguia",
+        "ocorreu",
+        "pertence",
+        "confirmado",
+        "deslocou",
+        "disse",
+        "indicando",
+        "est\u00e3o",
+        "apuradas"
+    ],
+    "template": "-"
+}

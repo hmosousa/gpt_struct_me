@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_184",
+    "entities": [
+        "hoje",
+        "ap\u00f3s ter ca\u00eddo de um telhado",
+        "pelas 15:30"
+    ],
+    "template": "-"
+}

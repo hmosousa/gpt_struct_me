@@ -1,0 +1,30 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_99",
+    "entities": [
+        "detido",
+        "detido",
+        "esfaqueado",
+        "familiar",
+        "informaram",
+        "citando",
+        "esfaqueou",
+        "ficar",
+        "ferida",
+        "interpuseram",
+        "impedido",
+        "acontecido",
+        "localizado",
+        "apresentada",
+        "deu",
+        "conduziu",
+        "informou",
+        "citada",
+        "representou",
+        "marcou",
+        "passou",
+        "assinar"
+    ],
+    "template": "-"
+}

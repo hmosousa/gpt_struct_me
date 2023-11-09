@@ -1,0 +1,32 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_200",
+    "entities": [
+        "\u00e1rvore",
+        "Um homem de 31 anos",
+        "ferido com gravidade quando cortava uma \u00e1rvore , em Regilde , no concelho de Felgueiras , e caiu numa ravina com cerca de sete metros",
+        "uma \u00e1rvore",
+        "numa ravina",
+        "Um homem de 31 anos ficou hoje ferido com gravidade quando cortava uma \u00e1rvore , em Regilde , no concelho de Felgueiras , e caiu numa ravina com cerca de sete metros",
+        "\u00e0 Lusa",
+        "fonte dos bombeiros",
+        "A v\u00edtima",
+        "pela queda da \u00e1rvore",
+        "projetada para a ravina",
+        "para a ravina",
+        "A v\u00edtima ter\u00e1 sido atingida pela queda da \u00e1rvore , cerca das 17:55 , acabando projetada para a ravina",
+        "a fonte da corpora\u00e7\u00e3o de Felgueiras",
+        "a v\u00edtima",
+        "pela equipa de grande \u00e2ngulo da corpora\u00e7\u00e3o",
+        "Os Bombeiros de Felgueiras",
+        "para o local",
+        "uma ambul\u00e2ncia , a viatura de desencarceramento e a viatura de resgate",
+        "O homem",
+        "pela equipa da Viatura M\u00e9dica de Emerg\u00eancia e Reanima\u00e7\u00e3o ( VMER ) do Vale do Sousa e",
+        "para o Hospital de Guimar\u00e3es",
+        "A GNR",
+        "conta da ocorr\u00eancia"
+    ],
+    "template": "-"
+}

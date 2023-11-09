@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_204",
+    "entities": [
+        "hoje",
+        "Na sequ\u00eancia de uma den\u00fancia",
+        "no dia de Natal onde",
+        "a m\u00e3e de 46 anos e a irm\u00e3 de 12 anos"
+    ],
+    "template": "-"
+}

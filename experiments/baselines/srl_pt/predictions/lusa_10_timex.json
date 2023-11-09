@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_10",
+    "entities": [
+        "hoje",
+        "um pouco antes das 00:00",
+        "depois de este desobedecer \u00e0 ordem de cessar os disparos",
+        "quando os militares fizeram disparos de intimida\u00e7\u00e3o para o ar",
+        "Depois de tratado a ferimentos ligeiros em unidade hospitalar"
+    ],
+    "template": "-"
+}

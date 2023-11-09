@@ -1,0 +1,28 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_192",
+    "entities": [
+        "condena",
+        "matou",
+        "condenou",
+        "matado",
+        "acabou",
+        "condenado",
+        "encontrada",
+        "adiantou",
+        "encontra",
+        "absolvido",
+        "acusado",
+        "qualificada",
+        "proibida",
+        "explicou",
+        "produzida",
+        "teve",
+        "julgou",
+        "decidiu",
+        "condenar",
+        "pagar"
+    ],
+    "template": "-"
+}

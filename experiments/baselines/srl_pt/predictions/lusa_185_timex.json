@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_185",
+    "entities": [
+        "ao in\u00edcio da madrugada de hoje",
+        "ao in\u00edcio da madrugada de hoje",
+        "na manh\u00e3 de domingo",
+        "Por volta das 19:30",
+        "depois da meia -noite e"
+    ],
+    "template": "-"
+}

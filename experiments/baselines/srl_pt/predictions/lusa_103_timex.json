@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_103",
+    "entities": [
+        "no domingo",
+        "imediatamente",
+        "Aparentemente",
+        "numa vingan\u00e7a contra a mulher"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_131",
+    "entities": [
+        "apreendeu",
+        "apreendeu",
+        "avaliados",
+        "informou",
+        "comunicado",
+        "esclarece",
+        "apreendidos",
+        "levada",
+        "controlar",
+        "pescado",
+        "detetaram",
+        "contendo",
+        "necessita",
+        "Amea\u00e7adas",
+        "aberto",
+        "poder\u00e3o",
+        "refere",
+        "encontrarem",
+        "devolvidos"
+    ],
+    "template": "-"
+}

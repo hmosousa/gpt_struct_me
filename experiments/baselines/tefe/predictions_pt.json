@@ -1,0 +1,1011 @@
+[
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_196",
+        "entities": [
+            "disse",
+            "indicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_192",
+        "entities": [
+            "adiantou",
+            "explicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_129",
+        "entities": [
+            "informou",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_190",
+        "entities": [
+            "disse",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_183",
+        "entities": [
+            "disse",
+            "referiu",
+            "frisou",
+            "levaram",
+            "provocar",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_159",
+        "entities": [
+            "anunciou",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_147",
+        "entities": [
+            "anunciava",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_202",
+        "entities": [
+            "disseram",
+            "disse",
+            "disse",
+            "indicando"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_206",
+        "entities": [
+            "explicou",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_174",
+        "entities": [
+            "revelou",
+            "resultou",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_163",
+        "entities": [
+            "indicou",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_207",
+        "entities": [
+            "disse",
+            "disse",
+            "referiu"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_158",
+        "entities": [
+            "indicou",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_160",
+        "entities": [
+            "anunciou",
+            "refere"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_184",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_151",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_124",
+        "entities": [
+            "anunciado",
+            "informar",
+            "referido"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_168",
+        "entities": [
+            "disse",
+            "referiu",
+            "sublinhou",
+            "originou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_111",
+        "entities": [
+            "provocou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_123",
+        "entities": [
+            "disse",
+            "provocou",
+            "indicado"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_186",
+        "entities": [
+            "disse",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_139",
+        "entities": [
+            "anunciou",
+            "resultando",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_112",
+        "entities": [
+            "lê"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_108",
+        "entities": [
+            "disse",
+            "disse",
+            "explicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_171",
+        "entities": [
+            "informou",
+            "relata",
+            "conclui"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_165",
+        "entities": [
+            "disse",
+            "explicou",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_17",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_208",
+        "entities": [
+            "disse",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_12",
+        "entities": [
+            "refere",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_101",
+        "entities": [
+            "anunciou",
+            "relato",
+            "resultou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_194",
+        "entities": [
+            "confirmou",
+            "disse",
+            "Acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_140",
+        "entities": [
+            "refere",
+            "concluiu"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_132",
+        "entities": [
+            "escalada",
+            "referido"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_102",
+        "entities": [
+            "causou",
+            "informou",
+            "refere"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_118",
+        "entities": [
+            "testou",
+            "referido",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_193",
+        "entities": [
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_136",
+        "entities": [
+            "anunciou",
+            "explica",
+            "levaram"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_187",
+        "entities": [
+            "provocou",
+            "adiantou",
+            "informa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_177",
+        "entities": [
+            "disse",
+            "referiu"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_18",
+        "entities": [
+            "disse",
+            "afirmou",
+            "mencionou",
+            "complementando"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_115",
+        "entities": [
+            "informou",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_175",
+        "entities": [
+            "confirmou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_182",
+        "entities": [
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_185",
+        "entities": [
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_117",
+        "entities": [
+            "deixa",
+            "provocou",
+            "informou",
+            "disse",
+            "acrescentando",
+            "afirmou",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_120",
+        "entities": [
+            "disse",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_122",
+        "entities": [
+            "informou",
+            "lê"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_169",
+        "entities": [
+            "disse",
+            "constataram",
+            "adiantou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_148",
+        "entities": [
+            "reduzir",
+            "redução",
+            "redução",
+            "anunciou",
+            "levou",
+            "dizer",
+            "reduzir",
+            "baixas",
+            "perdeu",
+            "lucro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_178",
+        "entities": [
+            "disseram",
+            "indicaram"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_10",
+        "entities": [
+            "disse",
+            "disse",
+            "acrescentou",
+            "afirmou",
+            "indicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_14",
+        "entities": [
+            "informaram",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_146",
+        "entities": [
+            "anunciou",
+            "refere",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_99",
+        "entities": [
+            "informaram",
+            "conduziu",
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_125",
+        "entities": [
+            "anunciado",
+            "especificou",
+            "indicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_1",
+        "entities": [
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_201",
+        "entities": [
+            "disse",
+            "",
+            "declarou",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_144",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_143",
+        "entities": [
+            "anunciou",
+            "adianta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_114",
+        "entities": [
+            "anunciou",
+            "adiantou",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_152",
+        "entities": [
+            "disse",
+            "salientando"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_103",
+        "entities": [
+            "disseram",
+            "acrescentaram",
+            "causar"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_199",
+        "entities": [
+            "disse",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_19",
+        "entities": [
+            "disse",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_138",
+        "entities": [
+            "referiu",
+            "denúncia",
+            "frisou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_113",
+        "entities": [
+            "noticiou",
+            "noticiou",
+            "indicou",
+            "informaram"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_181",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_134",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_204",
+        "entities": [
+            "anunciado",
+            "denúncia",
+            "descreveu",
+            "indica"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_150",
+        "entities": [
+            "anunciaram",
+            "disse",
+            "afirmou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_205",
+        "entities": [
+            "indicou",
+            "referiu",
+            "adiantando"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_16",
+        "entities": [
+            "disse",
+            "acrescentou",
+            "disse",
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_105",
+        "entities": [
+            "revelou",
+            "refere",
+            "lê"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_110",
+        "entities": [
+            "informaram",
+            "informou",
+            "precisou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_149",
+        "entities": [
+            "refere"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_153",
+        "entities": [
+            "revelou",
+            "descreve"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_200",
+        "entities": [
+            "disse",
+            "acrescenta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_166",
+        "entities": [
+            "afirmou",
+            "salientando",
+            "acrescentou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_157",
+        "entities": [
+            "disse",
+            "adiantou",
+            "explicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_127",
+        "entities": [
+            "anunciou",
+            "detetaram",
+            "resultando"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_198",
+        "entities": [
+            "disse",
+            "provocou",
+            "assinala"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_0",
+        "entities": [
+            "anunciado",
+            "informar",
+            "referido"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_106",
+        "entities": [
+            "provocou",
+            "avançou",
+            "provocou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_145",
+        "entities": [
+            "resultaram"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_137",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_164",
+        "entities": [
+            "anunciou",
+            "refere",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_104",
+        "entities": [
+            "noticiou",
+            "salientando",
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_2",
+        "entities": [
+            "informou",
+            "referiu",
+            "adiantou",
+            "alerta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_180",
+        "entities": [
+            "anunciou",
+            "declarou",
+            "afirmou",
+            "anunciou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_130",
+        "entities": [
+            "explica",
+            "lê"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_131",
+        "entities": [
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_15",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_167",
+        "entities": [
+            "disse",
+            "explicou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_135",
+        "entities": [
+            "informou"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_128",
+        "entities": [
+            "anunciado",
+            "explicou",
+            "denúncia",
+            "descreve"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "tefe",
+        "entity": "event triggers",
+        "doc": "lusa_162",
+        "entities": [
+            "disse"
+        ],
+        "template": "-"
+    }
+]

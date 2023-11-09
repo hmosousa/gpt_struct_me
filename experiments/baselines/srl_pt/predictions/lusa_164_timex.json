@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_164",
+    "entities": [
+        "na madrugada de segunda -feira",
+        "hoje",
+        "no decurso de uma discuss\u00e3o por motivos f\u00fateis",
+        "na segunda -feira",
+        "cerca das 05:30"
+    ],
+    "template": "-"
+}

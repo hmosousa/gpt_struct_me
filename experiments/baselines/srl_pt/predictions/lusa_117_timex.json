@@ -1,0 +1,14 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_117",
+    "entities": [
+        "hoje",
+        "ap\u00f3s o despiste e embate num poste",
+        "cerca de 150 metros antes do embate",
+        "pelas 13:55",
+        "at\u00e9 \u00e0s 16:30",
+        "at\u00e9 \u00e0s 16:30"
+    ],
+    "template": "-"
+}

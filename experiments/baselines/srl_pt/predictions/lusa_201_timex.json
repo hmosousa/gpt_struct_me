@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_201",
+    "entities": [
+        "hoje",
+        "Quando l\u00e1 cheg\u00e1mos",
+        "cerca das 10:00",
+        "quando os elementos da corpora\u00e7\u00e3o extinguiram as chamas"
+    ],
+    "template": "-"
+}

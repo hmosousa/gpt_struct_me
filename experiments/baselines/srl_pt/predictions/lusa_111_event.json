@@ -1,0 +1,31 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_111",
+    "entities": [
+        "reivindica",
+        "atentado",
+        "reivindicou",
+        "armado",
+        "ocorrido",
+        "provocou",
+        "publicado",
+        "Telegram",
+        "atribui",
+        "soldado",
+        "registados",
+        "separado",
+        "acompanhado",
+        "armado",
+        "evoca",
+        "efetuado",
+        "abatido",
+        "tinha",
+        "posto",
+        "cumprir",
+        "tentado",
+        "viajar",
+        "juntar"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_132",
+    "entities": [
+        "apreende",
+        "apreendeu",
+        "constituiu",
+        "suspeito",
+        "exercer",
+        "comunicado",
+        "explica",
+        "realizada",
+        "apuraram",
+        "reiterada",
+        "verificando",
+        "referido",
+        "efetuadas",
+        "apreendidas",
+        "comprimido",
+        "comprimido",
+        "constitu\u00eddo",
+        "remetidos"
+    ],
+    "template": "-"
+}

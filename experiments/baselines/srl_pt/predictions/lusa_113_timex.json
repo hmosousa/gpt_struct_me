@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_113",
+    "entities": [
+        "hoje",
+        "no domingo \u00e0 noite",
+        "hoje",
+        "ao subir pela janela da casa de banho do apartamento"
+    ],
+    "template": "-"
+}

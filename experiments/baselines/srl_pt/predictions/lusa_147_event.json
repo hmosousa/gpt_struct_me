@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_147",
+    "entities": [
+        "esperaram",
+        "come\u00e7ar",
+        "come\u00e7ou",
+        "anunciava",
+        "dar",
+        "chegarem",
+        "come\u00e7aremos",
+        "disse",
+        "Seguiram",
+        "chegou",
+        "rearrumarem",
+        "come\u00e7ou",
+        "discursar"
+    ],
+    "template": "-"
+}

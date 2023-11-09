@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_190",
+    "entities": [
+        "hoje \u00e0 tarde",
+        "depois de ter sido eletrocutado , em Oleiros , no distrito de Castelo Branco",
+        "\u00e0s 16:18"
+    ],
+    "template": "-"
+}

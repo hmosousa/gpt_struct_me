@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_111",
+    "entities": [
+        "hoje",
+        "na segunda -feira",
+        "ontem [ segunda -feira",
+        "na noite de segunda -feira",
+        "em dezembro passado ap\u00f3s cumprir parte de uma pena de 22 meses de pris\u00e3o por ter tentado viajar para a S\u00edria e juntar -se \u00e0s fileiras do EI"
+    ],
+    "template": "-"
+}

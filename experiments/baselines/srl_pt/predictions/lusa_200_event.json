@@ -1,0 +1,25 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_200",
+    "entities": [
+        "ferido",
+        "cortava",
+        "ficou",
+        "ferido",
+        "cortava",
+        "caiu",
+        "disse",
+        "atingida",
+        "acabando",
+        "projetada",
+        "acrescenta",
+        "teve",
+        "resgatada",
+        "deslocaram",
+        "assistido",
+        "transportado",
+        "tomou"
+    ],
+    "template": "-"
+}

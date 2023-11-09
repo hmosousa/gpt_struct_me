@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_113",
+    "entities": [
+        "morreram",
+        "noticiou",
+        "noticiou",
+        "hospitalizados",
+        "encontram",
+        "indicou",
+        "acolhido",
+        "est\u00e3o",
+        "investigar",
+        "funcionava",
+        "informaram",
+        "havia",
+        "conseguiu",
+        "salvar",
+        "subir"
+    ],
+    "template": "-"
+}

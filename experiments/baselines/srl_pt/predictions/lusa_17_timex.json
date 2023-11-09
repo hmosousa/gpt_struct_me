@@ -1,0 +1,15 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_17",
+    "entities": [
+        "durante a guerra civil",
+        "no domingo",
+        "enquanto cobria o conflito , em 2012",
+        "em 2012",
+        "em 2017",
+        "desde o encerramento da embaixada norte -americana e o regresso do embaixador",
+        "em 2012"
+    ],
+    "template": "-"
+}

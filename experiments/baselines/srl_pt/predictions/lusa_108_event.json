@@ -1,0 +1,31 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_108",
+    "entities": [
+        "baleado",
+        "detido",
+        "acusado",
+        "matar",
+        "disse",
+        "estavam",
+        "discutir",
+        "desconhecidos",
+        "disparou",
+        "alvejando",
+        "disse",
+        "Tratam",
+        "ocorreu",
+        "regressavam",
+        "ouvir",
+        "correram",
+        "ver",
+        "passado",
+        "detido",
+        "explicou",
+        "abertos",
+        "acompanhar\u00e1",
+        "concluiu"
+    ],
+    "template": "-"
+}

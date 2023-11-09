@@ -1,0 +1,14 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_169",
+    "entities": [
+        "hoje",
+        "hoje de manh\u00e3",
+        "cerca das 07:00",
+        "ap\u00f3s o homem ter sido visto por populares , no interior do seu ve\u00edculo , alegadamente sem vida",
+        "no domingo",
+        "entre as 20:00 e as 21:30"
+    ],
+    "template": "-"
+}

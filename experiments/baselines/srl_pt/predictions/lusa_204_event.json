@@ -1,0 +1,28 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_204",
+    "entities": [
+        "ficou",
+        "alegado",
+        "anunciado",
+        "deslocaram",
+        "verificaram",
+        "injuriado",
+        "amea\u00e7ado",
+        "descreveu",
+        "destruiu",
+        "intimidar",
+        "tentou",
+        "encetar",
+        "intercetado",
+        "detido",
+        "utilizados",
+        "apreendidos",
+        "indica",
+        "comunicado",
+        "ficando",
+        "sujeito"
+    ],
+    "template": "-"
+}

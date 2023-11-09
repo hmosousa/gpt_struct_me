@@ -1,0 +1,31 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_18",
+    "entities": [
+        "em inc\u00eandio que consumiu casa desabitada em C\u00e2mara de Lobos",
+        "que",
+        "casa desabitada em C\u00e2mara de Lobos",
+        "Um inc\u00eandio numa casa desabitada na freguesia Jardim da Serra",
+        "a habita\u00e7\u00e3o",
+        "suspeitas de fogo posto",
+        "Um inc\u00eandio numa casa desabitada na freguesia Jardim da Serra , no concelho de C\u00e2mara de Lobos , danificou totalmente a habita\u00e7\u00e3o , havendo suspeitas de fogo posto",
+        "fonte da autarquia",
+        "suspeita de fogo posto",
+        "fogo",
+        "Era uma casa que n\u00e3o estava habitada e h\u00e1 suspeita de fogo posto",
+        "o vereador da autarquia de C\u00e2mara de Lobos Leonel Correia da Silva",
+        "\u00e0 ag\u00eancia Lusa",
+        "O autarca",
+        "que a habita\u00e7\u00e3o \u201c n\u00e3o tinha manuten\u00e7\u00e3o e ficou totalmente inabit\u00e1vel \u201d",
+        "a habita\u00e7\u00e3o",
+        "manuten\u00e7\u00e3o",
+        "a habita\u00e7\u00e3o",
+        "totalmente inabit\u00e1vel",
+        "que os \u201c danos provocados pelo fogo s\u00e3o apenas materiais \u201d",
+        "pelo fogo",
+        "Os Bombeiros de C\u00e2mara de Lobos",
+        "o combate ao inc\u00eandio"
+    ],
+    "template": "-"
+}

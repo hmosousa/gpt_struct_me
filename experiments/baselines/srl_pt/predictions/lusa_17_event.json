@@ -1,0 +1,28 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_17",
+    "entities": [
+        "desloca",
+        "-se",
+        "tentar",
+        "libertar",
+        "fez",
+        "dados",
+        "divulgada",
+        "citada",
+        "deslocou",
+        "procurar",
+        "obter",
+        "h\u00e1",
+        "obtiver",
+        "desapareceu",
+        "cobria",
+        "desaparecido",
+        "desapareceu",
+        "Considera",
+        "houve",
+        "confirmadas"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,2362 @@
+[
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0781",
+        "entities": [
+            "next year",
+            "last week",
+            "Friday",
+            "last week",
+            "early next year",
+            "yesterday",
+            "Wednesday",
+            "Yesterday",
+            "third-quarter",
+            "next week",
+            "late September",
+            "Monday",
+            "Nov. 6",
+            "today",
+            "at least several years",
+            "last April",
+            "early next year",
+            "the next few years"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1073",
+        "entities": [
+            "last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0973",
+        "entities": [
+            "next year",
+            "annually",
+            "the next three years",
+            "1988",
+            "1983",
+            "the past 20 months",
+            "this year",
+            "about a decade",
+            "the 1990s",
+            "recently",
+            "last year",
+            "annually",
+            "the fourth quarter",
+            "1990",
+            "this year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0685",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0811",
+        "entities": [
+            "Nov. 1, 2004",
+            "a year",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0713",
+        "entities": [
+            "today",
+            "Nov. 17",
+            "Jan. 1, 1990"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0159",
+        "entities": [
+            "Nov. 20",
+            "yesterday",
+            "Nov. 10"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1014",
+        "entities": [
+            "the summer",
+            "now",
+            "at least the past 18 months",
+            "third-quarter",
+            "last year",
+            "last month",
+            "the last half of 1989",
+            "1990",
+            "yesterday",
+            "1989",
+            "the last half",
+            "the '80s",
+            "the mid-1990s",
+            "last year",
+            "the current year",
+            "currently",
+            "yesterday",
+            "1990",
+            "the third-quarter",
+            "last year",
+            "recently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0760",
+        "entities": [
+            "the third quarter",
+            "the year-earlier quarter",
+            "last June",
+            "earlier this month",
+            "the nine months"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "CNN19980222.1130.0084",
+        "entities": [
+            "three hour",
+            "today",
+            "later this afternoon",
+            "no more than sixty days"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980213.2000.0313",
+        "entities": [
+            "today"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0928",
+        "entities": [
+            "the fiscal first quarter",
+            "the quarter",
+            "Sept. 29",
+            "a year earlier",
+            "1988",
+            "Earlier this month",
+            "the quarter",
+            "April",
+            "the quarter",
+            "April",
+            "the summer",
+            "fourth quarter",
+            "June 30",
+            "earlier this year",
+            "now",
+            "Recently",
+            "early next year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0151",
+        "entities": [
+            "one day",
+            "yesterday",
+            "recent"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0667",
+        "entities": [
+            "fourth quarter",
+            "yesterday",
+            "1988",
+            "1989",
+            "next year",
+            "1988"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0106",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0585",
+        "entities": [
+            "September",
+            "this month",
+            "now",
+            "past years",
+            "1987",
+            "Eight trading days",
+            "Oct. 12",
+            "Three days later",
+            "Friday",
+            "Friday",
+            "Friday",
+            "Friday",
+            "October",
+            "now",
+            "Thursday",
+            "two",
+            "three weeks",
+            "third-quarter",
+            "last year",
+            "the 1988 quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "AP900816-0139",
+        "entities": [
+            "Thursday",
+            "the two-week",
+            "two-hour",
+            "Thursday",
+            "now",
+            "Aug. 2",
+            "Thursday",
+            "now",
+            "now",
+            "A day",
+            "this week",
+            "Wednesday",
+            "Thursday",
+            "September",
+            "Thursday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0184",
+        "entities": [
+            "fourth-quarter",
+            "six months",
+            "two-year",
+            "yesterday",
+            "earlier this year",
+            "two-year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0356",
+        "entities": [
+            "Earlier this month"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0950",
+        "entities": [
+            "the third quarter",
+            "yesterday",
+            "this morning",
+            "a year ago",
+            "the nine months",
+            "a year earlier",
+            "nine months",
+            "third-quarter",
+            "the nine months",
+            "the latest nine months",
+            "a year earlier",
+            "the end of 1990"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ea980120.1830.0071",
+        "entities": [
+            "this week",
+            "today",
+            "now",
+            "today",
+            "Today",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0158",
+        "entities": [
+            "27-year",
+            "six months",
+            "tomorrow",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "VOA19980331.1700.1533",
+        "entities": [
+            "recently",
+            "Currently",
+            "current",
+            "two",
+            "six days",
+            "current",
+            "over several years",
+            "a year",
+            "each year",
+            "five months ago",
+            "five months",
+            "Today"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ed980111.1130.0089",
+        "entities": [
+            "over the next several days",
+            "Yesterday",
+            "today",
+            "today"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "NYT19980212.0019",
+        "entities": [
+            "Thursday evening",
+            "around 7:15 p.m.",
+            "a few years ago"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980205.2000.1890",
+        "entities": [
+            "current",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "SJMN91-06338157",
+        "entities": [
+            "Monday",
+            "Wednesday",
+            "Monday",
+            "last week",
+            "Monday",
+            "Sunday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0533",
+        "entities": [
+            "Friday",
+            "last Thursday",
+            "Nov. 6",
+            "Nov. 16",
+            "Friday evening",
+            "mid-November",
+            "last week",
+            "Thursday",
+            "Thursday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "CNN19980213.2130.0155",
+        "entities": [
+            "less than one hour",
+            "Thursday",
+            "today",
+            "Friday",
+            "now",
+            "next week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1011",
+        "entities": [
+            "the fiscal first quarter",
+            "last spring",
+            "the quarter",
+            "Sept. 30",
+            "a year earlier",
+            "the quarter",
+            "the quarter",
+            "now",
+            "the quarter",
+            "third-quarter",
+            "a year earlier",
+            "the nine months",
+            "a year earlier"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0762",
+        "entities": [
+            "Dec. 1",
+            "Nov. 10",
+            "1989",
+            "1990",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0026",
+        "entities": [
+            "now",
+            "1988"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0187",
+        "entities": [
+            "yesterday",
+            "this week",
+            "Tuesday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0778",
+        "entities": [
+            "last June",
+            "this week",
+            "recent",
+            "last month",
+            "a three-year period",
+            "1985",
+            "1987"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0575",
+        "entities": [
+            "now",
+            "five-year",
+            "Now",
+            "this year",
+            "next year",
+            "recent",
+            "1990",
+            "1990",
+            "next year",
+            "recent months",
+            "January",
+            "Last week",
+            "third-quarter",
+            "nine months",
+            "recently",
+            "several quarters",
+            "recently",
+            "the end of 1990",
+            "past spring"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980227.0476",
+        "entities": [
+            "Friday",
+            "1988",
+            "1995",
+            "1971"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0175",
+        "entities": [
+            "Tuesday",
+            "later this month",
+            "Monday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0189",
+        "entities": [
+            "fourth-quarter",
+            "a year earlier",
+            "last year",
+            "Sept. 30",
+            "This year",
+            "recent",
+            "the next year",
+            "fourth-quarter",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0752",
+        "entities": [
+            "Dec. 7",
+            "Nov. 22",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0168",
+        "entities": [
+            "one-year term",
+            "recent",
+            "recent"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980213.1380",
+        "entities": [
+            "Friday",
+            "Friday",
+            "10 p.m. Wednesday",
+            "noon Thursday",
+            "recent years"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0527",
+        "entities": [
+            "Dec. 7",
+            "Friday",
+            "1989",
+            "early November",
+            "third-quarter",
+            "a year ago",
+            "the third-quarter",
+            "the third quarter",
+            "the third quarter",
+            "a year ago",
+            "Third-quarter",
+            "a year ago"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "NYT19980206.0460",
+        "entities": [
+            "January",
+            "Friday",
+            "last month",
+            "last month",
+            "last month",
+            "a year earlier",
+            "the last decade",
+            "coming months",
+            "Aug. 6",
+            "30-year",
+            "January",
+            "last fall",
+            "Friday",
+            "December",
+            "a month",
+            "the last four months",
+            "over the last three months",
+            "nine months",
+            "1997",
+            "the last few months",
+            "Friday",
+            "January",
+            "the spring",
+            "last month",
+            "December",
+            "almost two decades",
+            "January"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980121.2000.2591",
+        "entities": [
+            "Now",
+            "today",
+            "nineteen seventy-nine",
+            "a few minutes"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0124",
+        "entities": [
+            "Nov. 13",
+            "March",
+            "third-quarter",
+            "a year earlier",
+            "Sept. 27, 1989",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0340",
+        "entities": [
+            "Earlier yesterday",
+            "last week",
+            "Monday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980303.2000.2550",
+        "entities": [
+            "Tomorrow",
+            "now",
+            "tomorrow",
+            "Now",
+            "one day"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0558",
+        "entities": [
+            "third-quarter",
+            "Last year",
+            "nearly two weeks ago",
+            "fourth-quarter",
+            "Friday",
+            "the latest quarter",
+            "last year",
+            "nearly three years",
+            "Third-quarter",
+            "August",
+            "the nine months",
+            "last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0172",
+        "entities": [
+            "now",
+            "January",
+            "current",
+            "early 1990",
+            "1989"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0695",
+        "entities": [
+            "earlier this month",
+            "currently",
+            "late yesterday",
+            "July 2"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0786",
+        "entities": [
+            "January",
+            "A few days",
+            "March",
+            "The following month",
+            "early this month",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0329",
+        "entities": [
+            "over three years",
+            "each month"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0122",
+        "entities": [
+            "December"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0167",
+        "entities": [
+            "the third quarter",
+            "a year",
+            "the nine months"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0675",
+        "entities": [
+            "September",
+            "a year",
+            "the third-quarter",
+            "this fall",
+            "this week",
+            "the past year",
+            "the third quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0612",
+        "entities": [
+            "Friday",
+            "Oct. 15, 1999",
+            "Thursday",
+            "Nov. 1, 2009",
+            "1999",
+            "10-year",
+            "Nov. 17, 1992"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980219.0476",
+        "entities": [
+            "Thursday",
+            "almost two years ago",
+            "the next two weeks",
+            "March 1996",
+            "11th century",
+            "January this year",
+            "March 26, 1996",
+            "22 months",
+            "Thursday",
+            "last year",
+            "recently",
+            "now",
+            "a week",
+            "the late 1970s",
+            "mid-1996",
+            "June last year",
+            "July last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1031",
+        "entities": [
+            "Nov. 8",
+            "Sept. 30",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "CNN19980223.1130.0960",
+        "entities": [
+            "recent",
+            "Now",
+            "the middle of October",
+            "today",
+            "the winter of nineteen ninety-four",
+            "over the last two weeks"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980501.0480",
+        "entities": [
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1003",
+        "entities": [
+            "third-quarter",
+            "two-year",
+            "the fourth quarter",
+            "1990",
+            "coming quarters",
+            "the third quarter of 1990",
+            "Third-quarter",
+            "a year ago",
+            "third-quarter",
+            "a year ago",
+            "a year ago",
+            "June 1",
+            "the fourth quarter",
+            "early summer",
+            "third-quarter",
+            "the year-ago quarter",
+            "now",
+            "the fiscal second-quarter",
+            "the quarter",
+            "Sept. 30",
+            "a year ago",
+            "Last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "VOA19980303.1600.2745",
+        "entities": [
+            "the past year",
+            "recently",
+            "last year",
+            "the nineties",
+            "this year",
+            "a year",
+            "the year two thousand",
+            "last year",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0346",
+        "entities": [
+            "March 31",
+            "currently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980205.2000.1998",
+        "entities": [
+            "today",
+            "now",
+            "this September",
+            "the year two thousand",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "NYT19980402.0453",
+        "entities": [
+            "Thursday",
+            "over the last five years",
+            "recent months",
+            "last year",
+            "1993",
+            "Tuesday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "NYT19980424.0421",
+        "entities": [
+            "Saturday, April 25",
+            "this week",
+            "two years ago",
+            "today",
+            "current"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0316",
+        "entities": [
+            "early next year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0798",
+        "entities": [
+            "Nov. 9",
+            "currently",
+            "Oct. 31",
+            "yesterday",
+            "annually"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1025",
+        "entities": [
+            "third quarter",
+            "a year earlier",
+            "third-quarter",
+            "a year",
+            "the current quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0555",
+        "entities": [
+            "March 15, 2007"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ABC19980304.1830.1636",
+        "entities": [
+            "today",
+            "December",
+            "twenty years",
+            "now",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0904",
+        "entities": [
+            "the third quarter",
+            "a year earlier",
+            "The latest quarter",
+            "the nine months",
+            "a year earlier",
+            "nine months",
+            "third-quarter",
+            "a year earlier",
+            "Over the next couple of years",
+            "the third quarter",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0679",
+        "entities": [
+            "now",
+            "Aug. 26",
+            "Oct. 20",
+            "Aug. 10, 1988",
+            "18 months",
+            "two-year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0610",
+        "entities": [
+            "now",
+            "current",
+            "1993",
+            "current",
+            "this year",
+            "right now",
+            "recently",
+            "Friday",
+            "this year",
+            "over the next two years or so",
+            "1989",
+            "next year",
+            "next year",
+            "recent weeks",
+            "Last Friday",
+            "recently",
+            "1992",
+            "current",
+            "Last year",
+            "third-quarter",
+            "the latest quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0806",
+        "entities": [
+            "currently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0751",
+        "entities": [
+            "last April",
+            "yesterday",
+            "at least 30 days",
+            "August 1988"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0171",
+        "entities": [
+            "third-quarter",
+            "a year ago",
+            "1990",
+            "currently",
+            "the quarter",
+            "a year ago"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0006",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ABC19980108.1830.0711",
+        "entities": [
+            "the last twenty four hours",
+            "five year",
+            "four year",
+            "Now",
+            "October",
+            "now",
+            "the past three months",
+            "ten years",
+            "a couple of years"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "CNN19980227.2130.0067",
+        "entities": [
+            "last month",
+            "nineteen ninety-six",
+            "January nineteen ninety-seven",
+            "last month",
+            "Now",
+            "nineteen ninety-seven",
+            "this week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0321",
+        "entities": [
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1038",
+        "entities": [
+            "third-quarter",
+            "A year ago",
+            "yesterday",
+            "18 months"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1033",
+        "entities": [
+            "yesterday",
+            "Oct. 31",
+            "five years ago",
+            "last year",
+            "third-quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0706",
+        "entities": [
+            "this year",
+            "current",
+            "Sept. 30",
+            "Earlier this month"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1040",
+        "entities": [
+            "Dec. 15",
+            "Nov. 17",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0505",
+        "entities": [
+            "yesterday",
+            "Dec. 15",
+            "currently",
+            "Jan. 31",
+            "1992",
+            "currently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0586",
+        "entities": [
+            "Friday",
+            "the previous Friday",
+            "Oct. 13",
+            "current",
+            "Thursday",
+            "two-week",
+            "Friday",
+            "one day",
+            "recent",
+            "this week",
+            "Monday",
+            "Friday",
+            "Thursday",
+            "recent",
+            "Friday",
+            "November",
+            "this week",
+            "Friday",
+            "Friday",
+            "the past five days",
+            "a week",
+            "Friday",
+            "Friday",
+            "the weekend",
+            "last week",
+            "1969"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980626.0364",
+        "entities": [
+            "Friday",
+            "1995",
+            "recently",
+            "this September"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0534",
+        "entities": [
+            "Dec. 7",
+            "Nov. 30",
+            "Friday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0923",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "VOA19980501.1800.0355",
+        "entities": [
+            "next week",
+            "Monday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0161",
+        "entities": [
+            "third-quarter",
+            "A year earlier"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0736",
+        "entities": [
+            "the third quarter",
+            "Aug. 21",
+            "the third quarter",
+            "the year-earlier third quarter",
+            "June",
+            "Nov. 1"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "WSJ900813-0157",
+        "entities": [
+            "yesterday",
+            "23-year",
+            "yesterday",
+            "This Week",
+            "yesterday",
+            "Friday",
+            "yesterday",
+            "yesterday",
+            "the weekend",
+            "now",
+            "the weekend",
+            "a few days",
+            "March"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0637",
+        "entities": [
+            "Nov. 1",
+            "30-day",
+            "Dec. 31, 1994",
+            "the end of 1994",
+            "12",
+            "18 months",
+            "currently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "VOA19980303.1600.0917",
+        "entities": [
+            "two day",
+            "this year",
+            "early Tuesday",
+            "the two day",
+            "the two days"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0557",
+        "entities": [
+            "last year",
+            "last December",
+            "February",
+            "February",
+            "Friday",
+            "Friday",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0027",
+        "entities": [
+            "currently",
+            "the past three years",
+            "recently",
+            "52-week",
+            "yesterday",
+            "last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0816",
+        "entities": [
+            "third-quarter",
+            "yesterday",
+            "Wednesday",
+            "Later yesterday",
+            "the third quarter",
+            "third-quarter",
+            "yesterday",
+            "the third quarter",
+            "the fourth quarter",
+            "coming weeks",
+            "30-year",
+            "Wednesday",
+            "Wednesday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0471",
+        "entities": [
+            "Earlier this year",
+            "last week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0583",
+        "entities": [
+            "Friday",
+            "tomorrow",
+            "currently",
+            "this year",
+            "recent years",
+            "recent years",
+            "annually",
+            "1980",
+            "September",
+            "Last month",
+            "the first half"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0160",
+        "entities": [
+            "third-quarter",
+            "the quarter",
+            "a year earlier"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0165",
+        "entities": [
+            "yesterday",
+            "a year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0662",
+        "entities": [
+            "Friday",
+            "the quarter",
+            "July 31"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "WSJ910225-0066",
+        "entities": [
+            "late yesterday",
+            "a week",
+            "now",
+            "Now",
+            "yesterday",
+            "the weekend",
+            "This Week",
+            "now",
+            "Feb. 11",
+            "a week or so ago",
+            "Saturday night",
+            "now",
+            "a week",
+            "noon Saturday",
+            "last August",
+            "a week",
+            "the four days",
+            "four days",
+            "nearly an hour",
+            "Saturday night",
+            "over the next few days",
+            "eight-year",
+            "now",
+            "Now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0325",
+        "entities": [
+            "third-quarter",
+            "the quarter",
+            "Sept. 30",
+            "the year-ago quarter",
+            "the third quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1008",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1039",
+        "entities": [
+            "third quarter",
+            "the quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0157",
+        "entities": [
+            "two years",
+            "five years"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0292",
+        "entities": [
+            "third-quarter",
+            "a year ago",
+            "second quarter",
+            "The quarter",
+            "1989",
+            "a year ago",
+            "nine months"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0568",
+        "entities": [
+            "Friday",
+            "the third quarter",
+            "next year",
+            "The quarter",
+            "the quarter",
+            "the year-earlier quarter",
+            "a month ago",
+            "a year",
+            "the quarter",
+            "the quarter",
+            "the quarter",
+            "over the past several quarters",
+            "every quarter",
+            "next year",
+            "next year",
+            "this year",
+            "this year",
+            "last year",
+            "Friday",
+            "nine months",
+            "a year earlier",
+            "the fourth quarter",
+            "next year",
+            "next year",
+            "next year",
+            "Friday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "NYT19980206.0466",
+        "entities": [
+            "Friday",
+            "Thursday",
+            "Friday",
+            "Thursday",
+            "Thursday",
+            "the past few weeks",
+            "Friday",
+            "Friday",
+            "today",
+            "this morning"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ABC19980120.1830.0957",
+        "entities": [
+            "nearly forty years",
+            "this evening"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "ea980120.1830.0456",
+        "entities": [
+            "today",
+            "last night",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0068",
+        "entities": [
+            "Jan. 2",
+            "Dec. 15",
+            "third-quarter",
+            "the year-ago quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1006",
+        "entities": [
+            "the latest fiscal year",
+            "1985",
+            "over the past two years",
+            "the six months",
+            "Aug. 12",
+            "a year earlier",
+            "Last month"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0541",
+        "entities": [
+            "Nov. 16",
+            "March 1, 2011",
+            "Friday",
+            "last Monday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "CNN19980126.1600.1104",
+        "entities": [
+            "the fourth quarter",
+            "right now",
+            "today"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980322.0749",
+        "entities": [
+            "Sunday",
+            "Monday",
+            "Feb. 20",
+            "Sunday",
+            "May",
+            "two weeks ago",
+            "10 days ago",
+            "last week",
+            "February",
+            "Sunday",
+            "1972",
+            "recent",
+            "Sunday",
+            "each July",
+            "this summer",
+            "this summer",
+            "Earlier Sunday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0661",
+        "entities": [
+            "as soon as possible",
+            "Earlier this year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0136",
+        "entities": [
+            "fourth quarter",
+            "Sept. 30",
+            "fiscal 1988",
+            "current"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0906",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0660",
+        "entities": [
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0132",
+        "entities": [
+            "the third quarter",
+            "a year ago",
+            "the latest quarter",
+            "Last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0150",
+        "entities": [
+            "currently",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0542",
+        "entities": [
+            "5 p.m.",
+            "Nov. 6",
+            "midnight Friday",
+            "last Friday",
+            "Sept. 26",
+            "annually",
+            "Friday",
+            "Late last week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0152",
+        "entities": [
+            "5 p.m.",
+            "Nov. 9",
+            "Nov. 6"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0127",
+        "entities": [
+            "the six months",
+            "Oct. 1",
+            "1988",
+            "this year",
+            "last year",
+            "yesterday",
+            "a year earlier"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980227.0468",
+        "entities": [
+            "Friday",
+            "February 1947"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0981",
+        "entities": [
+            "earlier this month",
+            "early 1991",
+            "this month"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0173",
+        "entities": [
+            "the early 1980s",
+            "1983",
+            "1985",
+            "July 1988"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0313",
+        "entities": [
+            "the third quarter",
+            "the third quarter",
+            "a year ago"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0805",
+        "entities": [
+            "today",
+            "later this year",
+            "the third quarter of 1984",
+            "third-quarter",
+            "a year ago"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0570",
+        "entities": [
+            "Sept. 14",
+            "Thursday",
+            "Friday",
+            "recently",
+            "May",
+            "February",
+            "early September",
+            "July",
+            "recent",
+            "Earlier this month",
+            "the next four years",
+            "the nine months"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1013",
+        "entities": [
+            "recent",
+            "the third quarter",
+            "the quarter",
+            "a year ago",
+            "the latest quarter",
+            "a year earlier",
+            "recent years",
+            "the nine months",
+            "a year earlier",
+            "Sept. 30",
+            "June 30",
+            "recently",
+            "1994",
+            "now",
+            "five years",
+            "August",
+            "the past two weeks",
+            "Oct. 9",
+            "Sept. 30"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0263",
+        "entities": [
+            "Jan. 3",
+            "Nov. 16",
+            "the fourth quarter",
+            "Aug. 26",
+            "A year earlier"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0768",
+        "entities": [
+            "Last week",
+            "the past two months",
+            "the past two months",
+            "recent",
+            "recent years",
+            "the past two months",
+            "last week",
+            "last month",
+            "two days",
+            "every month",
+            "the last three years",
+            "this month",
+            "early September",
+            "Friday Oct. 13",
+            "now",
+            "the past two months",
+            "this year",
+            "August",
+            "The last two months",
+            "this year",
+            "Oct. 19",
+            "this year",
+            "Oct. 19",
+            "now",
+            "recent weeks"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0709",
+        "entities": [
+            "the third quarter",
+            "third-quarter",
+            "mid-November",
+            "a fiscal year",
+            "December",
+            "the second quarter",
+            "Oct. 31",
+            "that quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "AP900815-0044",
+        "entities": [
+            "today",
+            "today",
+            "Tuesday",
+            "today",
+            "today",
+            "now",
+            "Friday",
+            "August 1988",
+            "the eight-year",
+            "Aug. 2",
+            "up to 180 days",
+            "Tuesday",
+            "today",
+            "today",
+            "today",
+            "Tuesday",
+            "now",
+            "Aug. 6",
+            "Tuesday",
+            "today",
+            "Tuesday",
+            "Monday",
+            "Thursday",
+            "today",
+            "Tuesday",
+            "Tuesday",
+            "now",
+            "today",
+            "now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0344",
+        "entities": [
+            "the third quarter",
+            "Sept. 30",
+            "last year",
+            "This quarter",
+            "this year's third quarter",
+            "last year",
+            "the current year",
+            "last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980213.1320",
+        "entities": [
+            "August",
+            "a month",
+            "current",
+            "a week",
+            "Friday",
+            "Monday",
+            "Tuesday nights",
+            "March 30",
+            "each Thursday",
+            "August 6",
+            "a week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980115.2000.0186",
+        "entities": [
+            "nineteen ninety-one",
+            "nineteen ninety-six",
+            "Now"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0918",
+        "entities": [
+            "third-quarter",
+            "a year ago",
+            "the latest quarter",
+            "this year",
+            "several months",
+            "current",
+            "April",
+            "a year",
+            "yesterday",
+            "the latest quarter",
+            "a year earlier",
+            "now",
+            "a year ago",
+            "the third quarter",
+            "the quarter",
+            "the nine months",
+            "a year earlier",
+            "Dec. 14",
+            "Nov. 15",
+            "January",
+            "Dec. 21"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980418.0210",
+        "entities": [
+            "Saturday",
+            "1980",
+            "May 26, 1980",
+            "six days",
+            "October 1984",
+            "one day",
+            "May 22, 1995",
+            "the following year",
+            "December"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_1035",
+        "entities": [
+            "third-quarter",
+            "a year ago",
+            "earlier this year",
+            "yesterday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0927",
+        "entities": [
+            "Feb. 1",
+            "recently",
+            "now",
+            "this year",
+            "1988",
+            "1987",
+            "this year's third quarter",
+            "a year earlier",
+            "Sept. 30",
+            "this year",
+            "1990",
+            "1974",
+            "Feb. 1"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980227.0487",
+        "entities": [
+            "Friday",
+            "more than four hours",
+            "Friday",
+            "November 1995"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980308.0201",
+        "entities": [
+            "Sunday",
+            "recent days"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0169",
+        "entities": [
+            "mid-afternoon yesterday",
+            "Dec. 10"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0520",
+        "entities": [
+            "six months",
+            "June",
+            "March",
+            "this year",
+            "nine months",
+            "recently",
+            "Friday",
+            "1987",
+            "Sept. 29",
+            "this year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0032",
+        "entities": [
+            "today",
+            "the end of November",
+            "currently"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0073",
+        "entities": [
+            "the end of this week",
+            "1993",
+            "Nov. 21"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980227.0494",
+        "entities": [
+            "Friday",
+            "last May",
+            "at least 20 more years",
+            "Last year",
+            "four-day",
+            "10-year",
+            "last year",
+            "1996",
+            "Friday"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0991",
+        "entities": [
+            "the third quarter",
+            "the 1988 third quarter"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "APW19980227.0489",
+        "entities": [
+            "Friday",
+            "nearly four years ago",
+            "April 6, 1994",
+            "2 years",
+            "a year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0791",
+        "entities": [
+            "the past two quarters",
+            "recently",
+            "Yesterday",
+            "the beginning of October"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "PRI19980216.2000.0170",
+        "entities": [
+            "last week"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0650",
+        "entities": [
+            "Oct. 15, 1999"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0907",
+        "entities": [
+            "third-quarter",
+            "the year-earlier quarter",
+            "the latest quarter",
+            "June 1989"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0324",
+        "entities": [
+            "now",
+            "last year"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "heideltime",
+        "entity": "time expressions",
+        "doc": "wsj_0810",
+        "entities": [
+            "current",
+            "Tuesday",
+            "1989",
+            "last year",
+            "this year",
+            "next year",
+            "over the past 20 years",
+            "1987",
+            "now",
+            "now",
+            "Monday",
+            "July 1",
+            "this year"
+        ],
+        "template": "-"
+    }
+]

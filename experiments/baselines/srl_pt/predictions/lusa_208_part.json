@@ -1,0 +1,24 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_208",
+    "entities": [
+        "Avi\u00e3o",
+        "Um avi\u00e3o",
+        "Um avi\u00e3o aterrou hoje de emerg\u00eancia no Aeroporto Humberto Delgado , em Lisboa , devido a uma falha no motor",
+        "\u00e0 ag\u00eancia Lusa",
+        "fonte da Pol\u00edcia de Seguran\u00e7a P\u00fablica",
+        "a aeronave",
+        "um motor parado",
+        "O alerta para a aterragem de emerg\u00eancia por a aeronave ter um motor parado",
+        "segundo a mesma fonte",
+        "A aeronave",
+        "A aeronave aterrou , pelas 18:32 , sem incidentes dignos de registo",
+        "O avi\u00e3o",
+        "\u00e0 companhia a\u00e9rea Jota Aviation",
+        "O avi\u00e3o",
+        "a liga\u00e7\u00e3o entre os aeroportos de Farnborough",
+        "de acordo com o \u2018 site \u2019 da ANA -Aeroportos de Portugal"
+    ],
+    "template": "-"
+}

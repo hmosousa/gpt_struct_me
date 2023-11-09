@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_125",
+    "entities": [
+        "no domingo",
+        "quando procediam ao transbordo do produto estupefaciente entre duas embarca\u00e7\u00f5es ao largo de Olh\u00e3o ( Algarve )",
+        "hoje",
+        "Depois de acionados os meios mar\u00edtimos da UCC"
+    ],
+    "template": "-"
+}

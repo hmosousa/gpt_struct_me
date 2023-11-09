@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_164",
+    "entities": [
+        "det\u00e9m",
+        "matou",
+        "deteve",
+        "matar",
+        "anunciou",
+        "atribuiu",
+        "recolhidos",
+        "agredido",
+        "refere",
+        "comunicado",
+        "chegar",
+        "disse",
+        "havia",
+        "ocorreu",
+        "encontraram",
+        "resultando",
+        "reverter",
+        "confirmado",
+        "tidas"
+    ],
+    "template": "-"
+}

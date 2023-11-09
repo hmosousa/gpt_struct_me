@@ -1,0 +1,29 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_2",
+    "entities": [
+        "morre",
+        "desordem",
+        "morreu",
+        "ficou",
+        "desordem",
+        "informou",
+        "encontradas",
+        "feridas",
+        "transportada",
+        "acabou",
+        "morrer",
+        "houve",
+        "reverter",
+        "referiu",
+        "Desconhecendo",
+        "adiantou",
+        "dado",
+        "levadas",
+        "socorrer",
+        "tratar",
+        "encontra"
+    ],
+    "template": "-"
+}

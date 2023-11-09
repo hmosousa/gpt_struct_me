@@ -1,0 +1,16 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_158",
+    "entities": [
+        "morre",
+        "morreu",
+        "registada",
+        "indicou",
+        "registado",
+        "registado",
+        "transportado",
+        "adiantou"
+    ],
+    "template": "-"
+}

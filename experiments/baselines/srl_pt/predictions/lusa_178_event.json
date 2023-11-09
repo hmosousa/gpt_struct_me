@@ -1,0 +1,19 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_178",
+    "entities": [
+        "morre",
+        "morreu",
+        "conduzia",
+        "disseram",
+        "indicaram",
+        "declarado",
+        "ocorreu",
+        "encaminhado",
+        "dado",
+        "mobilizados",
+        "apoiados"
+    ],
+    "template": "-"
+}

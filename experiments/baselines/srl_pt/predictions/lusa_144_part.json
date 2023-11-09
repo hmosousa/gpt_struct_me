@@ -1,0 +1,22 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_144",
+    "entities": [
+        "GNR",
+        "suspeito de tr\u00e1fico de droga",
+        "A GNR",
+        "um homem de 31 anos",
+        "por suspeitas da pr\u00e1tica do crime de tr\u00e1fico de droga na cidade de Borba , distrito de \u00c9vora",
+        "A GNR deteve um homem de 31 anos por suspeitas da pr\u00e1tica do crime de tr\u00e1fico de droga na cidade de Borba , distrito de \u00c9vora",
+        "\u00e0 ag\u00eancia Lusa",
+        "fonte daquela for\u00e7a de seguran\u00e7a",
+        "Segundo a mesma fonte",
+        "o homem",
+        "por militares do Destacamento Territorial de Estremoz",
+        "A GNR",
+        "ao suspeito",
+        "24,3 gramas de hero\u00edna , uma balan\u00e7a digital , uma tesoura , sacos de pl\u00e1stico para acondicionamento de doses individuais e cerca de 150 euros em dinheiro"
+    ],
+    "template": "-"
+}

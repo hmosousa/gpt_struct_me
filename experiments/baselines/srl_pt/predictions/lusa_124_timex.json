@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_124",
+    "entities": [
+        "no s\u00e1bado",
+        "hoje",
+        "na sequ\u00eancia de uma den\u00fancia a informar sobre a exist\u00eancia de \u201c uma festa com m\u00fasica ao vivo num estabelecimento de bebidas \u201d"
+    ],
+    "template": "-"
+}

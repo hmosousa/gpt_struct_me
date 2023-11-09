@@ -1,0 +1,12 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_175",
+    "entities": [
+        "hoje",
+        "cerca das 17:20",
+        "ent\u00e3o",
+        "depois"
+    ],
+    "template": "-"
+}

@@ -1,0 +1,13 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_144",
+    "entities": [
+        "det\u00e9m",
+        "deteve",
+        "disse",
+        "detido",
+        "apreendeu"
+    ],
+    "template": "-"
+}

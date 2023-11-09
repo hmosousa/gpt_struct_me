@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_134",
+    "entities": [
+        "GNR",
+        "um dos envolvidos em assalto a confeitaria da Feira",
+        "Dois homens",
+        "a caixa registadora de uma confeitaria",
+        "Dois homens roubaram hoje a caixa registadora de uma confeitaria no concelho de Santa Maria da Feira e um dos dois envolvidos est\u00e1 em fuga \u00e0s autoridades",
+        "fonte oficial da GNR",
+        "O assalto",
+        "os envolvidos",
+        "a caixa registadora",
+        "segundo a fonte",
+        "Um dos assaltantes",
+        "a ser procurado cerca da 14:30",
+        "o outro"
+    ],
+    "template": "-"
+}

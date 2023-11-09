@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_130",
+    "entities": [
+        "det\u00e9m",
+        "deteve",
+        "divulgou",
+        "comunicado",
+        "explica",
+        "efetuada",
+        "detetaram",
+        "cultivar",
+        "detido",
+        "l\u00ea",
+        "-se",
+        "apreenderam",
+        "contou"
+    ],
+    "template": "-"
+}

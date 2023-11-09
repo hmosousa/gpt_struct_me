@@ -1,0 +1,17 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_112",
+    "entities": [
+        "substitui",
+        "substituir",
+        "anunciada",
+        "divulgada",
+        "aceitou",
+        "l\u00ea",
+        "-se",
+        "ter\u00e1",
+        "eleito"
+    ],
+    "template": "-"
+}

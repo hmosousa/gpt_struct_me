@@ -1,0 +1,10 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_168",
+    "entities": [
+        "mesmo depois de estar proibido de contactar e estar perto dela",
+        "hoje"
+    ],
+    "template": "-"
+}

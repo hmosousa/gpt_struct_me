@@ -1,0 +1,29 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_152",
+    "entities": [
+        "lamenta",
+        "lamentou",
+        "registado",
+        "informa",
+        "deslocou",
+        "-feira",
+        "constatar",
+        "causados",
+        "lamentou",
+        "necessitava",
+        "registado",
+        "afetou",
+        "disse",
+        "houve",
+        "transferir",
+        "salientando",
+        "mobilizou",
+        "evitar",
+        "transferidos",
+        "colocados",
+        "encontra"
+    ],
+    "template": "-"
+}

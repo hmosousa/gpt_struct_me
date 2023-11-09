@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_135",
+    "entities": [
+        "apreendeu",
+        "informou",
+        "comunicado",
+        "adianta",
+        "apreendidos",
+        "detetada",
+        "intercetada",
+        "conseguiram",
+        "intercetar",
+        "encetaram",
+        "informadas",
+        "l\u00ea",
+        "detetada",
+        "Integrado",
+        "remetidos"
+    ],
+    "template": "-"
+}

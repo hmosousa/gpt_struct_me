@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_14",
+    "entities": [
+        "impedem",
+        "frustrou",
+        "informaram",
+        "estavam",
+        "levadas",
+        "pretendiam",
+        "viajar",
+        "citado",
+        "disse",
+        "detidos",
+        "denominada",
+        "contou",
+        "registada"
+    ],
+    "template": "-"
+}

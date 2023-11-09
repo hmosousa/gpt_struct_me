@@ -1,0 +1,24 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_15",
+    "entities": [
+        "mata",
+        "desabou",
+        "mataram",
+        "disse",
+        "hospitalizadas",
+        "ca\u00eddo",
+        "desabou",
+        "quebrou",
+        "estabelecido",
+        "registando",
+        "usaram",
+        "retirar",
+        "afetadas",
+        "morreram",
+        "deslocadas",
+        "come\u00e7aram"
+    ],
+    "template": "-"
+}

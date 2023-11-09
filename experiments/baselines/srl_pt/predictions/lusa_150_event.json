@@ -1,0 +1,24 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_150",
+    "entities": [
+        "Morreu",
+        "mantido",
+        "morreu",
+        "anunciaram",
+        "morreu",
+        "transferido",
+        "disse",
+        "Confirmo",
+        "confirmou",
+        "reiterou",
+        "sequestrado",
+        "fazia",
+        "libertado",
+        "sofri",
+        "afirmou",
+        "ficou"
+    ],
+    "template": "-"
+}

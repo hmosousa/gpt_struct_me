@@ -1,0 +1,29 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_166",
+    "entities": [
+        "Homem",
+        "Um homem de 54 anos",
+        "Um homem de 54 anos foi hoje \u00e0 tarde encontrado morto numa ribeira na aldeia de Fr\u00e1guas , concelho de Tondela",
+        "\u00e0 ag\u00eancia Lusa",
+        "fonte da GNR",
+        "que n\u00e3o h\u00e1 suspeitas de crime",
+        "suspeitas de crime",
+        "Segundo fonte do Comando Territorial da GNR de Viseu",
+        "o homem",
+        "da berma da via",
+        "para a ribeira",
+        "um acidente",
+        "a tentar perceber o contexto",
+        "perceber o contexto",
+        "o contexto",
+        "Ainda estamos a tentar perceber o contexto",
+        "De acordo com a mesma fonte",
+        "o \u00f3bito",
+        "o corpo",
+        "para o Instituto Nacional de Medicina Legal",
+        "por quatro ve\u00edculos"
+    ],
+    "template": "-"
+}

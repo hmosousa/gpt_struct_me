@@ -1,0 +1,20 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_158",
+    "entities": [
+        "Homem de 48 anos",
+        "Um homem de 48 anos",
+        "v\u00edtima de uma colis\u00e3o registada entre dois ve\u00edculos ligeiros na freguesia de Chorente , concelho de Barcelos ( Braga )",
+        "Um homem de 48 anos morreu hoje v\u00edtima de uma colis\u00e3o registada entre dois ve\u00edculos ligeiros na freguesia de Chorente , concelho de Barcelos ( Braga )",
+        "fonte do Comando Distrital de Opera\u00e7\u00f5es de Socorros ( CDOS ) de Braga",
+        "O acidente entre os dois autom\u00f3veis",
+        "tamb\u00e9m",
+        "um ferido ligeiro , com cerca de 20 anos de idade , que foi transportado para o Hospital de Barcelos",
+        "que",
+        "para o Hospital de Barcelos",
+        "tendo sido tamb\u00e9m registado um ferido ligeiro , com cerca de 20 anos de idade , que foi transportado para o Hospital de Barcelos",
+        "fonte do CDOS de Braga e dos Bombeiros Volunt\u00e1rios de Viatodos"
+    ],
+    "template": "-"
+}

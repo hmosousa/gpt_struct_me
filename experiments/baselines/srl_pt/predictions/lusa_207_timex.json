@@ -1,0 +1,11 @@
+{
+    "model": "srl",
+    "entity": "time expressions",
+    "doc": "lusa_207",
+    "entities": [
+        "na ter\u00e7a -feira \u00e0 noite",
+        "\u00e0",
+        "\u00e0s 21:49"
+    ],
+    "template": "-"
+}

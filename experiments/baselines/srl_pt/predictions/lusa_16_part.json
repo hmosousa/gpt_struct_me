@@ -1,0 +1,27 @@
+{
+    "model": "srl",
+    "entity": "participants",
+    "doc": "lusa_16",
+    "entities": [
+        "Homem de 25 anos",
+        "queimaduras de terceiro grau nos membros",
+        "Um homem de 25 anos",
+        "queimaduras do terceiro grau nos membros superiores e inferiores",
+        "Um homem de 25 anos sofreu hoje queimaduras do terceiro grau nos membros superiores e inferiores na sequ\u00eancia de um inc\u00eandio na sua casa , em Arcozelo , Vila Nova de Gaia",
+        "\u00e0 Lusa",
+        "fonte dos Sapadores locais",
+        "O alerta",
+        "que",
+        "O alerta foi dado pelas 08:37 e no combate \u00e0s chamas que come\u00e7aram na cozinha da casa , estiveram os Sapadores de Vila Nova de Gaia e os Bombeiros da Aguda",
+        "a fonte",
+        "o homem",
+        "ao Centro Hospitalar de Vila Nova de Gaia / Espinho",
+        "Assistido no local , o homem foi depois conduzido ao Centro Hospitalar de Vila Nova de Gaia / Espinho",
+        "que",
+        "a habita\u00e7\u00e3o",
+        "O inc\u00eandio que consumiu parcialmente a habita\u00e7\u00e3o",
+        "O inc\u00eandio que consumiu parcialmente a habita\u00e7\u00e3o foi dado com extinto \u00e0s 8:51",
+        "a Prote\u00e7\u00e3o Civil"
+    ],
+    "template": "-"
+}

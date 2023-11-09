@@ -1,0 +1,23 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_159",
+    "entities": [
+        "det\u00e9m",
+        "deteve",
+        "tentava",
+        "embarcar",
+        "anunciou",
+        "comunicado",
+        "transportava",
+        "dissimulada",
+        "detido",
+        "acrescenta",
+        "detido",
+        "preparava",
+        "viajar",
+        "deteve",
+        "alegado"
+    ],
+    "template": "-"
+}

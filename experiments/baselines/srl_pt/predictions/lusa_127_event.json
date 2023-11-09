@@ -1,0 +1,21 @@
+{
+    "model": "srl",
+    "entity": "event triggers",
+    "doc": "lusa_127",
+    "entities": [
+        "encerrou",
+        "reunia",
+        "anunciou",
+        "encerrado",
+        "reunia",
+        "detetaram",
+        "estava",
+        "funcionar",
+        "ocorreu",
+        "identificada",
+        "dada",
+        "terminar",
+        "resultando"
+    ],
+    "template": "-"
+}
