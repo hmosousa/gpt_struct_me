@@ -1,31 +1,5 @@
 [
     {
-        "model": "llama2-7b",
-        "template": "ext_def_exp",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.032638259292837715,
-            "precision": 0.024242424242424242,
-            "f1": 0.027820710973724884
-        },
-        "relaxed": {
-            "f1": 0.02864431313213659
-        }
-    },
-    {
-        "model": "llama2-7b",
-        "template": "ext_def_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.12497383294954993,
-            "precision": 0.21740713765477057,
-            "f1": 0.15871327927688425
-        },
-        "relaxed": {
-            "f1": 0.11633787209699108
-        }
-    },
-    {
         "model": "gpt3",
         "template": "ext_def_exp",
         "entity": "time expressions",
@@ -35,7 +9,7 @@
             "f1": 0.4041404140414041
         },
         "relaxed": {
-            "f1": 0.5887346830221396
+            "f1": 0.5887346830221395
         }
     },
     {
@@ -52,29 +26,29 @@
         }
     },
     {
-        "model": "llama2-13b-chat",
-        "template": "ext_def",
+        "model": "chatgpt",
+        "template": "ext_def_exp",
         "entity": "time expressions",
         "strict": {
-            "recall": 0.3019038984587489,
-            "precision": 0.30890538033395176,
-            "f1": 0.30536451169188444
+            "recall": 0.36355394378966455,
+            "precision": 0.5554016620498615,
+            "f1": 0.43945205479452054
         },
         "relaxed": {
-            "f1": 0.4648767319527451
+            "f1": 0.6189560281268196
         }
     },
     {
-        "model": "llama2-13b-chat",
-        "template": "ext_exp",
+        "model": "chatgpt",
+        "template": "cls_def_exp",
         "entity": "event triggers",
         "strict": {
-            "recall": 0.2292233619426418,
-            "precision": 0.20296570898980537,
-            "f1": 0.21529689343295322
+            "recall": 0.3665480427046263,
+            "precision": 0.7930253623188406,
+            "f1": 0.5013600572655691
         },
         "relaxed": {
-            "f1": 0.22178814693559085
+            "f1": 0.7156135776181823
         }
     },
     {
@@ -100,7 +74,59 @@
             "f1": 0.42262472195741974
         },
         "relaxed": {
-            "f1": 0.5118577784905264
+            "f1": 0.5118577784905266
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_exp",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.21214868540344514,
+            "precision": 0.20892857142857144,
+            "f1": 0.21052631578947367
+        },
+        "relaxed": {
+            "f1": 0.39538509411684886
+        }
+    },
+    {
+        "model": "llama2-70b",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2616705045007327,
+            "precision": 0.2192597789861428,
+            "f1": 0.23859515174651652
+        },
+        "relaxed": {
+            "f1": 0.21462271990472595
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_def",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.3019038984587489,
+            "precision": 0.30890538033395176,
+            "f1": 0.30536451169188444
+        },
+        "relaxed": {
+            "f1": 0.4648767319527451
+        }
+    },
+    {
+        "model": "llama2-13b-chat",
+        "template": "ext_exp",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.2292233619426418,
+            "precision": 0.20296570898980537,
+            "f1": 0.21529689343295322
+        },
+        "relaxed": {
+            "f1": 0.22178814693559096
         }
     },
     {
@@ -113,7 +139,7 @@
             "f1": 0.13809687392648576
         },
         "relaxed": {
-            "f1": 0.23508715459195995
+            "f1": 0.23508715459196008
         }
     },
     {
@@ -126,33 +152,7 @@
             "f1": 0.2921398352260076
         },
         "relaxed": {
-            "f1": 0.36779346913524175
-        }
-    },
-    {
-        "model": "chatgpt",
-        "template": "ext_def_exp",
-        "entity": "time expressions",
-        "strict": {
-            "recall": 0.36355394378966455,
-            "precision": 0.5554016620498615,
-            "f1": 0.43945205479452054
-        },
-        "relaxed": {
-            "f1": 0.6189560281268197
-        }
-    },
-    {
-        "model": "chatgpt",
-        "template": "cls_def_exp",
-        "entity": "event triggers",
-        "strict": {
-            "recall": 0.3665480427046263,
-            "precision": 0.7930253623188406,
-            "f1": 0.5013600572655691
-        },
-        "relaxed": {
-            "f1": 0.7156135776181821
+            "f1": 0.36779346913524164
         }
     },
     {
@@ -165,7 +165,7 @@
             "f1": 0.02028397565922921
         },
         "relaxed": {
-            "f1": 0.05648324405418651
+            "f1": 0.056483244054186525
         }
     },
     {
@@ -182,29 +182,29 @@
         }
     },
     {
-        "model": "llama2-70b",
-        "template": "ext_exp",
+        "model": "llama2-7b",
+        "template": "ext_def_exp",
         "entity": "time expressions",
         "strict": {
-            "recall": 0.21214868540344514,
-            "precision": 0.20892857142857144,
-            "f1": 0.21052631578947367
+            "recall": 0.032638259292837715,
+            "precision": 0.024242424242424242,
+            "f1": 0.027820710973724884
         },
         "relaxed": {
-            "f1": 0.3953850941168487
+            "f1": 0.028644313132136598
         }
     },
     {
-        "model": "llama2-70b",
-        "template": "ext_exp",
+        "model": "llama2-7b",
+        "template": "ext_def_exp",
         "entity": "event triggers",
         "strict": {
-            "recall": 0.2616705045007327,
-            "precision": 0.2192597789861428,
-            "f1": 0.23859515174651652
+            "recall": 0.12497383294954993,
+            "precision": 0.21740713765477057,
+            "f1": 0.15871327927688425
         },
         "relaxed": {
-            "f1": 0.214622719904726
+            "f1": 0.11633787209699101
         }
     },
     {
@@ -230,7 +230,85 @@
             "f1": 0.6724837163573799
         },
         "relaxed": {
-            "f1": 0.7705816880237948
+            "f1": 0.7705816880237946
+        }
+    },
+    {
+        "model": "heideltime",
+        "template": "-",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.7071622846781505,
+            "precision": 0.8590308370044053,
+            "f1": 0.7757334659373446
+        },
+        "relaxed": {
+            "f1": 0.8789546289129434
+        }
+    },
+    {
+        "model": "tei2go",
+        "template": "-",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.71441523118767,
+            "precision": 0.8707182320441988,
+            "f1": 0.7848605577689244
+        },
+        "relaxed": {
+            "f1": 0.8824073924737373
+        }
+    },
+    {
+        "model": "srl",
+        "template": "-",
+        "entity": "time expressions",
+        "strict": {
+            "recall": 0.24025385312783318,
+            "precision": 0.2874186550976139,
+            "f1": 0.2617283950617284
+        },
+        "relaxed": {
+            "f1": 0.5929077757779379
+        }
+    },
+    {
+        "model": "srl",
+        "template": "-",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.7383294954992673,
+            "precision": 0.745193323473484,
+            "f1": 0.741745531019979
+        },
+        "relaxed": {
+            "f1": 0.7360812141344982
+        }
+    },
+    {
+        "model": "srl",
+        "template": "-",
+        "entity": "participants",
+        "strict": {
+            "recall": 0,
+            "precision": 0.0,
+            "f1": 0
+        },
+        "relaxed": {
+            "f1": 0.0
+        }
+    },
+    {
+        "model": "tieval_baseline",
+        "template": "-",
+        "entity": "event triggers",
+        "strict": {
+            "recall": 0.6548042704626335,
+            "precision": 0.6537095088819227,
+            "f1": 0.6542564317088476
+        },
+        "relaxed": {
+            "f1": 0.6394251455984237
         }
     }
 ]
