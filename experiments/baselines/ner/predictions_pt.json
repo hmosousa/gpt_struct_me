@@ -1,0 +1,1335 @@
+[
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_169",
+        "entities": [
+            "Lusa",
+            "GNR",
+            "GNR",
+            "GNR",
+            "Portalegre"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_114",
+        "entities": [
+            "PGR",
+            "Serviço Nacional de Recuperação de Ativos",
+            "Luanda Medical Center",
+            "Monalisa Residence",
+            "LMC",
+            "Méssene",
+            "Universal Sabedoria",
+            "LMC",
+            "Instituto Nacional de Segurança Social",
+            "PGR",
+            "PGR",
+            "Luanda Medical Center"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_160",
+        "entities": [
+            "MP",
+            "MP",
+            "MP"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_119",
+        "entities": [
+            "Victoria",
+            "Dan Andrews",
+            "Quero",
+            "Andrews"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_137",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "Unidade de Emergência de Proteção e Socorro",
+            "UEPS",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_164",
+        "entities": [
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_192",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_199",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_183",
+        "entities": [
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_201",
+        "entities": [
+            "Lusa",
+            "Roberto Gonçalves",
+            "Ricardo Nascimento",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_190",
+        "entities": [
+            "Lusa",
+            "Centro Hospitalar"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_206",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_197",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_202",
+        "entities": [
+            "Lusa",
+            "GNR",
+            "GNR",
+            "Guarda",
+            "Lusa",
+            "Guarda ",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_127",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_179",
+        "entities": [
+            "MP",
+            "MP",
+            "MP"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_184",
+        "entities": [
+            "VMER",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_177",
+        "entities": [
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_165",
+        "entities": [
+            "Lusa",
+            "Rádio Renascença"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_17",
+        "entities": [
+            "Associated Press",
+            "AP",
+            "AP",
+            "Donald Trump",
+            "Kash Patel",
+            "Austin Tice",
+            "Majd Kamalmaz"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_178",
+        "entities": [
+            "GNR",
+            "Lusa",
+            "VMER",
+            "Portalegre",
+            "VMER",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_159",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_205",
+        "entities": [
+            "Unidade Local de Investigação Criminal de Évora",
+            "PJ"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_167",
+        "entities": [
+            "Lusa",
+            "Carlos Lima",
+            "VMER",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_122",
+        "entities": [
+            "Alex Apolinário",
+            "Alex Apolinário",
+            "Alverca Futebol SAD",
+            "SAD",
+            "Alex Apolinário"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_118",
+        "entities": [
+            "Emmanuel Macron",
+            "Emmanuel Macron",
+            "António Costa",
+            "Lusa",
+            "Guiné Bissau"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_153",
+        "entities": [
+            "GNR",
+            "NIAVE",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_198",
+        "entities": [
+            "ATUALIZADA",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_139",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_175",
+        "entities": [
+            "Lusa",
+            "Rui Santos Amaral"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_116",
+        "entities": [
+            "Lusa",
+            "Bombeiros da Vila das Aves",
+            "GNR",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_171",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_163",
+        "entities": [
+            "Lusa",
+            "VMER"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_157",
+        "entities": [
+            "Instituto Nacional de Emergência Médica",
+            "INEM",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_140",
+        "entities": [
+            "GNR de Braga",
+            "MP",
+            "GNR de Braga"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_189",
+        "entities": [
+            "Lusa",
+            "Direção Nacional da Polícia de Segurança Pública"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_187",
+        "entities": [
+            "Lusa",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_158",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_143",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "Tribunal Judicial de Amarante"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_191",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_133",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "Guarda"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_208",
+        "entities": [
+            "Lusa",
+            "Polícia de Segurança Pública",
+            "Jota Aviation"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_168",
+        "entities": [
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_131",
+        "entities": [
+            "GNR",
+            "UCC",
+            "GNR",
+            "GNR",
+            "Guarda",
+            "Flora Silvestres Ameaçadas de Extinção",
+            "CITES"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_125",
+        "entities": [
+            "GNR",
+            "UCC",
+            "GNR",
+            "Guarda Nacional Republicana",
+            "GNR",
+            "Controlo",
+            "SIVICC",
+            "UCC",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_172",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_16",
+        "entities": [
+            "Lusa",
+            "Bombeiros da Aguda",
+            "Assistido"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_144",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Lusa",
+            "Destacamento Territorial",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_135",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "GNR",
+            "GNR",
+            "Sistema Integrado de Vigilância",
+            "Controlo",
+            "SIVICC",
+            "PJ"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_129",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Unidade de Controlo Costeiro",
+            "UCC"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_113",
+        "entities": [
+            "South China Morning Post",
+            "SCMP"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_19",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_130",
+        "entities": [
+            "GNR",
+            "GNR",
+            "NIC",
+            "GNR",
+            "Tribunal Judicial de Idanha-a-Nova"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_111",
+        "entities": [
+            "’ Estado Islâmico",
+            "EI",
+            "Amaq"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_136",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_1",
+        "entities": [
+            "EPRI"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_106",
+        "entities": [
+            "Black Lives Matter",
+            "AFP",
+            "NYPD"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_117",
+        "entities": [
+            "Lusa Filipe Guimarães",
+            "‘tunning’",
+            "Filipe Guimarães",
+            "Filipe Guimarães"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_149",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_182",
+        "entities": [
+            "Homem de Amarante",
+            "GNR",
+            "Tribunal de Instrução Criminal",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_134",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_123",
+        "entities": [
+            "GNR",
+            "Lusa",
+            "GNR",
+            "Lusa",
+            "Instituto Nacional de Emergência Médica"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_188",
+        "entities": [
+            "Lusa",
+            "VMER",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_173",
+        "entities": [
+            "Lusa",
+            "GNR de Aveiro",
+            "Lusa",
+            "Bombeiros de Estarreja",
+            "Joaquim Rebelo",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_12",
+        "entities": [
+            "Lusa",
+            "Autoridade Marítima Nacional"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_194",
+        "entities": [
+            "Lusa",
+            "Cruz Vermelha"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_18",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_101",
+        "entities": [
+            "Guarda Nacional Republicana",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_11",
+        "entities": [
+            "Lusa",
+            "César Maphossa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_108",
+        "entities": [
+            "Lusa",
+            "Juarce Martins",
+            "PRM",
+            "PRM",
+            "Juarce Martins"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_150",
+        "entities": [
+            "‘jihadistas’",
+            "Agência France-Presse",
+            "AFP",
+            "AFP",
+            "Democracia",
+            "URD",
+            "‘jihadistas’",
+            "Sophie Pétronin"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_120",
+        "entities": [
+            "Lusa",
+            "Amadora-Sintra",
+            "PJ"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_200",
+        "entities": [
+            "Lusa",
+            "Júlio Pereira",
+            "VMER",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_161",
+        "entities": [
+            "GNR",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_107",
+        "entities": [
+            "GNR",
+            "Lusa",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_99",
+        "entities": [
+            "Futebolista Quincy",
+            "Quincy Promes",
+            "Ajax",
+            "Promes",
+            "Twente",
+            "Ajax"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_100",
+        "entities": [
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_142",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Tribunal Judicial de Beja",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_128",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "Tribunal Judicial de Felgueiras"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_174",
+        "entities": [
+            "GNR",
+            "NIC",
+            "GNR",
+            "Tribunal Judicial de Paredes"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_185",
+        "entities": [
+            "GNR",
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_196",
+        "entities": [
+            "Santos Silva"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_126",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Guarda Nacional Republicana",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_162",
+        "entities": [
+            "GNR",
+            "Santa Marta de Penaguião",
+            "Vasco Correia",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_152",
+        "entities": [
+            "Sílvia Lutucuta",
+            "Sílvia Lutucuta"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_110",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_195",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_112",
+        "entities": [
+            "Ricardo Pinheiro",
+            "José Mendes",
+            "Ricardo Pinheiro",
+            "José Mendes",
+            "José Fernandes Gomes Mendes",
+            "Ricardo Miguel Furtado Pinheiro",
+            "Nelson de Sousa",
+            "Ricardo Pinheiro"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_204",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Guarda"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_124",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_132",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Lusa",
+            "GNR",
+            "Castelo Branco",
+            "GNR",
+            "Tribunal Judicial da Covilhã"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_115",
+        "entities": [
+            "GNR",
+            "GNR",
+            "Lusa Diogo Morgado",
+            "GNR",
+            "A Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_203",
+        "entities": [
+            "Yang",
+            "Autores"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_180",
+        "entities": [
+            "PRM",
+            "Leonel Muchine",
+            "Filipe Nyusi"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_148",
+        "entities": [
+            "KLM",
+            "KLM",
+            "Wopke Hoekstra",
+            "Air France-KLM",
+            "VNV",
+            "KLM",
+            "France-Presse",
+            "AFP",
+            "KLM",
+            "A Air France-KLM"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_13",
+        "entities": [
+            "Maradona",
+            "Maximiliano Trimarchi",
+            "Diego Maradona",
+            "Trimarchi",
+            "Maradona",
+            "Leopoldo Luque",
+            "Maradona",
+            "Agustina Cosachov",
+            "Maradona"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_146",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "NPA",
+            "GNR",
+            "Tribunal Judicial de Seia"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_102",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_170",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_166",
+        "entities": [
+            "Lusa",
+            "GNR",
+            "GNR",
+            "Instituto Nacional de Medicina Legal"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_10",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "Lusa",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_207",
+        "entities": [
+            "Lusa"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_181",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_145",
+        "entities": [
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_155",
+        "entities": [
+            "GNR",
+            "Lusa",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_14",
+        "entities": [
+            "SIC",
+            "SIC",
+            "Veríssimo Pandamari",
+            "Veríssimo Pandamari",
+            "Angop",
+            "Kudissanga"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_0",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_104",
+        "entities": [
+            "Baptista Sambango"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_176",
+        "entities": [
+            "Lusa",
+            "VMER"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_15",
+        "entities": [],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_147",
+        "entities": [
+            "Orçamento do Estado",
+            "Assembleia da República",
+            "Ferro Rodrigues",
+            "António Costa",
+            "Ana Gomes Godinho",
+            "Trabalho",
+            "João Pedro Matos Fernandes"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_103",
+        "entities": [
+            "Detido"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_138",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_186",
+        "entities": [
+            "Lusa",
+            "Bombeiros de Arrifana",
+            "GNR"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_2",
+        "entities": [
+            "Mem Martins",
+            "Algueirão-Mem Martins",
+            "Lusa",
+            "Amadora-Sintra"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_193",
+        "entities": [
+            "Lusa",
+            "Instituto Nacional de Emergência Médica"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_151",
+        "entities": [
+            "Segurança",
+            "Mohammad Mahfud",
+            "Frente de Defesa Islâmica",
+            "FPI ",
+            "Rizieg Shihab",
+            "Governo"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_156",
+        "entities": [
+            "Mtavari TV"
+        ],
+        "template": "-"
+    },
+    {
+        "model": "ner",
+        "entity": "participants",
+        "doc": "lusa_105",
+        "entities": [
+            "GNR",
+            "GNR",
+            "GNR",
+            "GNR",
+            "Tribunal Judicial de Vila do Conde",
+            "Tribunal Judicial de Vila do Conde"
+        ],
+        "template": "-"
+    }
+]
