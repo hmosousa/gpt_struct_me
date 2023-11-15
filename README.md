@@ -1,4 +1,4 @@
-# ChatGPT Struct Me
+# GPT Struct Me
 
 This repository hosts the code used for the development of the **"GPT Struct Me: Probing GPT Models on Narrative Entity Extraction"** paper. The goal of this work was to evaluate the capabilities of generative large language models on the extraction of narrative entities from text. To accomplish that, we used GPT3 and ChatGPT models from OpenAI and evaluate them on the extraction of narrative entities, namely, participants, events, and temporal expressions (timexs). The results obtained indicate that GPT models are competitive with out-of-the-box baseline systems.
 
