@@ -49,7 +49,7 @@ resources
 
 ### Launch inference endpoint
 
-To deply locally the models under evalaution we used HuggingFace's [`text_generation_inference`](https://github.com/huggingface/text-generation-inference). After installing all the deppencies needs to run the following command:
+To deply locally the models under evaluation we used HuggingFace's [`text_generation_inference`](https://github.com/huggingface/text-generation-inference). After installing all the deppencies needs to run the following command:
 
 ```shell
 sudo docker run \
